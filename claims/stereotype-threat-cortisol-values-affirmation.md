@@ -71,3 +71,4 @@ The article reports, citing two social-psychological intervention studies, that 
 - [A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later](values-affirmation-long-term-benefits-black-students.md) — possibly the same claim (merge candidate)
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
+- [Stereotype threat does little to explain subgroup differences in selection contexts](stereotype-threat-not-supported-in-selection.md) — related

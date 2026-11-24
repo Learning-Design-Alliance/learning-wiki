@@ -67,3 +67,4 @@ Same regression procedure on 4th-grade grades (N=72 after two pupils left). The 
 - [In predicting the change in achievement from 3rd to 4th grade, IQ is positively and study habits negatively associated with change, together predicting 12%](iq-and-study-habits-opposite-effects-on-achievement-change.md) — related
 - [Predictive weights of IQ, memory and study habits do not differ significantly between 3rd and 4th grade](predictor-weights-stable-across-two-grades.md) — related
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
+- [Threshold theory is not supported: correlations below and above IQ 120 do not differ significantly, and the threshold variable does not explain variance in the correlation](threshold-theory-not-supported-iq-120.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5841 entries** · 0 stable · 5841 in review · 0 drafts
+**5842 entries** · 0 stable · 5842 in review · 0 drafts
 
 ---
 
@@ -3651,6 +3651,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Parent–Teacher Relationship Scale II (PTRS-II)](parentteacher-relationship-scale-ii-ptrs-ii.md) - A parent- and teacher-report assessment developed to measure perceptions of the parent–teacher relationship, including communication, for use in family–school partnership research and evaluation.
 * [ParLD](parld.md) - ParLD is a multi-agent LLM framework developed by Fangzhou Yao et al.
 * [Parole vocabulary learning software with multimedia study boards](parole-vocabulary-learning-software-with-multimedia-study-boards.md) - Parole is a computer-based vocabulary-learning program developed by Yelbay Yılmaz to support university EFL learners' deliberate foreign-language vocabulary study through multimedia study boards.
+* [PARSER](parser.md) - PARSER is Perruchet et al.'s computer model implementing chunking-based word segmentation through a percept-shaper memory store for studying artificial-language learning.
 * [Particle Builder](particle-builder.md) - Particle Builder is a physical board game made by an international group of physics teachers and distributed through CERN's Zenodo repository to teach upper-secondary learners about fundamental particles and the Standard Model.
 * [Particle Builder Online](particle-builder-online.md) - Particle Builder Online is a Unity-based web card game developed by M.
 * [Particle Dobble](particle-dobble.md) - An open-access educational card game created by Mientus et al.

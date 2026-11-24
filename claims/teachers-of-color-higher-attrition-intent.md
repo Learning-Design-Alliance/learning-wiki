@@ -55,3 +55,4 @@ Descriptive analysis of nationally representative teacher survey data (NTPS and 
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — a broader claim this one bears on
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
+- Academic performance is only very weakly related to turnover intentions (corrected r = −.07) and unrelated to actual turnover — related

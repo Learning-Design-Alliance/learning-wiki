@@ -49,3 +49,4 @@ Categorical moderator analysis (Table 1: grades 1–6 r = −.349; grades 7–12
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — related
 - [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
 - [Age predicts achievement negatively in all primary models but behaves non-linearly in secondary school](age-negative-primary-nonlinear-secondary.md) — related
+- [Age moderates the IQ–creativity correlation: elementary-school correlations (r = .086) are significantly lower than those for middle school, high school, and adult groups](age-moderates-iq-creativity-correlation.md) — reports the opposite

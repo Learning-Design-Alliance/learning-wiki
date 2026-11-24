@@ -61,3 +61,4 @@ This is the authors' interpretive discussion citing prior literature rather than
 - [Gender identification moderates the relation between chronic stereotype threat and both working memory effectiveness and intellectual helplessness](gender-identity-moderates-stereotype-threat-effects.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
 - [Instructors can incorporate the history of women's exclusion from physics into classrooms in varied ways, but should avoid teaching it immediately before an exam to avoid activating stereotype threat](teaching-womens-history-physics-classroom-strategy.md) — related
+- [Stereotype threat does little to explain subgroup differences in selection contexts](stereotype-threat-not-supported-in-selection.md) — reports the opposite

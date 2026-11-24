@@ -54,3 +54,4 @@ Model 1 regressions on first-attempt scores across the three courses found "Pell
 - [Racial/ethnic and socioeconomic score disparities increased from before to after optional exam retakes in one group with no comparison group; differences in participation were also reported](retakes-exacerbate-score-disparities.md) — related
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related
 - [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](working-students-less-likely-retake.md) — related
+- [Retesting does not reduce White–Black subgroup differences even with repeated exposure](retesting-does-not-reduce-subgroup-differences.md) — related

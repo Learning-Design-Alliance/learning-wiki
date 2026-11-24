@@ -53,3 +53,4 @@ Moderator meta-regression across the 849 coefficients comparing game-like, test-
 - [No modality-congruence advantage: congruent DT and intelligence task modalities did not yield stronger correlations](no-modality-congruence-effect-dt-intelligence.md) — related
 - [Average sample age is positively associated with the intelligence–DT correlation](sample-age-positive-moderator-dt-intelligence.md) — related
 - [Publication bias analysis suggests the overall intelligence–DT correlation is slightly underestimated (r = .27 after trim-and-fill)](publication-bias-dt-intelligence-underestimate.md) — related
+- [The type of creativity test moderates the IQ–creativity correlation: Guilford tests (r = .250) correlate more strongly with IQ than Wallach-Kogan measures (r = .116), consistent with game-like administration yielding smaller relationships](creativity-test-type-moderates-iq-correlation.md) — related

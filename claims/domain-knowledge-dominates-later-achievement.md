@@ -108,3 +108,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Entering GPA is the single best predictor of grades in large-enrollment upper-level life sciences courses, accounting for 22.3–58.0% of variance (β 0.315–0.662)](entering-gpa-best-predictor-life-science-grades.md) — related
 - [A Doer Effect is observed in the non-WEIRD sample: practice remains significantly related to exam scores while accounting for prior radio listening, whereas prior listening alone is not](doer-effect-radio-phone-uganda.md) — related
 - [Prolonged contact with a domain, not grades in a single course, is the most important determinant of long-term retention](prolonged-contact-determines-retention.md) — related
+- [Threshold theory is not supported: correlations below and above IQ 120 do not differ significantly, and the threshold variable does not explain variance in the correlation](threshold-theory-not-supported-iq-120.md) — related

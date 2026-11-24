@@ -48,3 +48,4 @@ Projection results section (§2.2) comparing projected 2060 gaps across the two 
 ## Related Claims
 - [NAEP-based IQ scores rose for all groups from 1978/80 to 2012, but from 1992 to 2012 Whites showed no rise while all three minority groups did](naep-1978-2012-group-trends.md) — related
 - [US population-average cognitive ability (17-year-olds) is projected to rise to about 103 (optimistic) or 102 (pessimistic) IQ by 2060, at 0.76 or 0.45 IQ points per decade](us-iq-projection-2060-naep.md) — related
+- [SJT reductions in subgroup differences depend on the subgroup of interest: Asians score lower than Whites on SJTs but higher on cognitive ability](sjt-differences-depend-on-subgroup.md) — related
