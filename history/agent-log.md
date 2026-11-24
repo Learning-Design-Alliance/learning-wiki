@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-24 · simulator sources from the maintainer's Drive folder; methods papers
+
+The maintainer collected the simulator's paywalled sources in a Drive folder; batches `j-drive-1` to
+`-4` ingested them (PRs #598 to #601) and a fifth carries the J to Y set. Of the 105 sources listed on
+2026-11-23, nine have no usable copy: Carroll 1963, Kail 1991, Kane 2013, Merk et al. 2018, Norman et al.
+1985, Smith & Karpicke 2013, Steinberg & Sabella 1997, and Talsma et al. 2018 and Tamblyn et al. 2007,
+whose Drive files are a preview and a different article. Five Drive copies are ERIC report versions of
+journal articles (Miller & Brownell, Marsh 1984, Shavelson et al., Wise & Kong, Webb) and are cited as
+the ERIC documents, not under the journal DOI, because the quotes come from the report text.
+
+- **Simulator sources are kept against the scope screen** when they are about learners or teaching
+  (attribution style, retention, organisational learning). Pages that filed workplace-ergonomics,
+  production-cost or group-estimation methods as teaching strategies were removed.
+- **Methods papers** (CLAUDE.md, Batches): only those whose formula or configuration the simulator
+  uses. MacKay 1992 (`mechanisms.yaml`), Bedny & Harris 2005 (`learner-sim/performance_structure.py`)
+  and Becker et al. 2017 (a target source) stay. Grimm et al. 2005 and Bedny & Harris 2013 were removed
+  (four claims); Brown et al. 2014 and Evensen 1994, which the extractor had already rejected, and
+  Warton 2015, Kolda & Bader 2009, Plate 1995, Kashtan & Alon 2005, Wang et al. 2014 and Marsman et al.
+  2017 were not ingested. The check was a search of the simulator's `.py`, `.yaml` and `.toml` files
+  outside its output folders, at origin/main of 2026-11-24.
+- **Text from two-column PDFs** that Drive returned interleaved was re-extracted with `pdftotext`
+  (Perkins & Salomon 1989, Stewart et al. 2007, Kibble & Johnson 2011); a second pass of the extraction
+  recovered four of nine sources that failed structural validation, and Bahrick & Hall 1991, Corbett &
+  Anderson 1995, Deary et al. 2007, Poortvliet et al. 2007 and Snell et al. 2007 failed twice.
+
 ## 2026-11-23 · source sweep complete; four rules from the maintainer on 2026-11-22
 
 The source sweep (`scripts/sweep/`) finished at 14:19 UTC: every queue is settled, PMC teaching

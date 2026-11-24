@@ -265,6 +265,13 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   batch. A claim about what learners know, do or achieve, or about how something is taught, is never
   out of scope; being written for a classroom does not bring a physics result in. The arXiv universe was
   rescreened on the subject alone (`screen_sources.py --rescope`); a split vote keeps a source.
+- **A methods paper from outside learning is ingested only if it sets a formula or configuration in the
+  simulator** (maintainer, 2026-11-24). The learning-graph simulator in Learning-engineering-research cites
+  ecology, geophysics, network-science and machine-learning methods papers in its literature notes and
+  theory pages. Such a paper comes into the wiki only when the simulator's code or configuration
+  (`mechanisms.yaml`, a `.py` module, a target table) takes a formula or setting from it, as MacKay (1992)
+  and Bedny & Harris (2005) do. Otherwise it stays out, whatever the scope screen says. Papers about
+  learning, teaching or educational measurement are judged on scope as usual.
 - **An arXiv preprint and its published version are one study** (maintainer, 2026-11-16). At every arXiv
   hold, `scripts/sweep/dedupe_preprints.py --apply` records each unread preprint whose published version
   is already in the wiki (by the snapshot's published DOI, or by title against every non-arXiv source)
