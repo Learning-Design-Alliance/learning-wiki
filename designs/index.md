@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5897 entries** · 0 stable · 5897 in review · 0 drafts
+**5898 entries** · 0 stable · 5898 in review · 0 drafts
 
 ---
 
@@ -3763,6 +3763,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Proceso de diseño instruccional ADDIE de cinco fases para cursos virtuales con evaluación formativa](addie-cinco-fases-evaluacion-formativa-virtual.md) - El modelo de la tesis \"sigue las cinco fases del diseño instruccional ADDIE\", organizando la puesta en marcha de cursos virtuales de matemáticas en torno a un proceso de evaluación formativa integrado con analíticas d...
 * [Process-oriented assessment model for the flipped Business English Translation classroom](process-oriented-assessment-model-flipped-translation.md) - The article proposes replacing test-oriented summative assessment with a process-oriented assessment model that draws on artifacts the flipped model already generates.
 * [Processing Instruction lesson sequence: explicit information, processing-strategy warning, then structured input activities moving from sentence to discourse](pi-three-component-lesson-sequence.md) - The article implements PI as a three-part lesson sequence: a lecture on the target structure and its meaning, awareness-raising about counterproductive processing strategies, and structured input activities.
+* [Processing Instruction: an input-processing model of explicit grammar instruction](processing-instruction-vanpatten-model.md) - Processing Instruction (PI), developed by VanPatten, is an explicit form-focused instruction model that targets how learners process input rather than output.
 * [Produce MOOC videos with genuine video technology and careful scripting rather than videotaping a classroom course](mooc-green-screen-scripted-videos-principle.md) - The article argues that MOOC videos should be produced as videos, using green-screen technology with text, equations, images and animations incorporated in editing, and that all material should be carefully scripted a...
 * [Profession-oriented course design: linking theoretical physics content to students' future teaching practice](profession-oriented-course-design-t1.md) - A reusable course-level design in which a university theoretical physics course is planned around the prospective profession of the students.
 * [Professional and didactic culture of the future teacher: five features of formation](professional-didactic-culture-future-teacher.md) - The article defines professional and didactic culture as a prerequisite for pedagogical activity that contributes to the self-development of the teacher's professional and personal qualities.

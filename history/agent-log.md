@@ -5,6 +5,17 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-12: Underwood & Keppel (1962) from the maintainer's OCR conversion
+
+Underwood & Keppel (1962), "One-trial learning?" (doi:10.1016/S0022-5371(62)80013-9), the last paper in the
+maintainer's Drive folder, failed three times on quotations because the PDF's text layer interleaves its two columns.
+The maintainer converted it with Google Docs OCR; the cleaned single-column text (50,148 characters, title and author
+matched) was cached for extraction and is not committed. Ingested with 6 claims (Hull-type threshold theory accommodating
+Estes's data, retained subthreshold strength on missed items, the repaired-list experiment, repetition rates below 100%,
+the list-length effect, and the unresolved overlearning by retention-interval question). Both scope models kept every
+page (one judge's reply on the threshold-theory claim did not parse; the other voted in scope). Settling also wrote
+`designs/processing-instruction-vanpatten-model.md` from a requeued candidate. Lint 0 after regeneration.
+
 ## 2026-11-25 · j-drive-11: Lemaire & Siegler on retry; Underwood & Keppel still unreadable
 
 `j-drive-11` retried the two j-drive-10 failures. Lemaire & Siegler (1995) ingested on the same OCR text: 8

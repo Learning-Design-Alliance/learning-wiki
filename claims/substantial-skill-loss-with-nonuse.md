@@ -79,3 +79,4 @@ The review attributes to Arthur et al. (1998) the finding of little to no skill 
 - [Task exposure during the retention interval mitigates procedural skill loss](intervening-performance-opportunities-mitigate-decay.md) — a narrower finding that bears on this claim
 - [Prior meta-analysis reports smaller decay for speed-based tasks than accuracy-based tasks](speed-tasks-decay-less-than-accuracy-tasks.md) — a narrower finding that bears on this claim
 - [Procedural skill performance differences grow by 0.08 SD units per month for accuracy measures and 0.06 SD units per month for speed-based and mixed measures](procedural-skill-decay-rate-per-month.md) — related
+- [Overlearning's effect on retention remains open: Estes et al. found little effect, but only over a retention interval of a few minutes](overlearning-retention-interval-unresolved.md) — related
