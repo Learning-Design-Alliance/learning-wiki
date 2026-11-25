@@ -82,3 +82,4 @@ In the SAT II experiment, lure production on the final cued recall test rose fro
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
 - [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related
 - [Multiple-choice retrieval practice produced a negative suggestion effect (increased lure production on the final test) in Experiment 3, where restudy replaced direct feedback, but not in Experiments 1 and 2, which provided direct feedback](negative-suggestion-effect-feedback-dependent.md) — related
+- [Percentage repetition of correct responses was below 100% in a group measured before and after](repetition-percentages-below-100-contradict-one-trial.md) — related
