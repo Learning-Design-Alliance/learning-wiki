@@ -19,7 +19,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 163 claims (122 for, 38 mixed, 3 against) · 111 studies (49 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 111 report an effect size · 157 claims rest on one study
+> **Evidence** · 165 claims (124 for, 38 mixed, 3 against) · 112 studies (50 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 112 report an effect size · 159 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -220,6 +220,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomy does not amplify the belonging–persistence relationship; low-autonomy students show a steeper belonging–intent-to-persist slope, suggesting a compensatory pattern](../claims/autonomy-compensatory-sb-ip.md) [~W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
 - [Competence amplifies the effect of sense of belonging on intent to persist](../claims/competence-amplifies-sb-ip.md) [+W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
 - [Relatedness buffers intent to persist against low sense of belonging](../claims/relatedness-buffers-low-sb.md) [+W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
+- [On days when adolescents feel more competent, both their motivation to invest effort in learning (Cog-ED) and self-reported academic motivation are higher](../claims/daily-competence-predicts-motivation-within-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Self-determination theory: satisfaction of autonomy, competence and relatedness needs as precursors of self-regulated academic motivation"; tests this page's relationship.
+- [Adolescents with greater average perceived autonomy show higher motivation to invest effort in learning and higher self-reported academic motivation](../claims/average-autonomy-predicts-motivation-between-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Self-determination theory: satisfaction of autonomy, competence and relatedness needs as precursors of self-regulated academic motivation"; tests this page's relationship.
 
 ## The evidence by question
 

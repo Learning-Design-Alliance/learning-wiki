@@ -48,3 +48,4 @@ The longitudinal CFA model (χ²(898) = 1505.299, RMSEA = .035, CFI = .964) show
 ## Related Claims
 - [Students' math and verbal self-concepts are near-zero correlated even though their math and verbal achievement levels are strongly positively correlated](ipd-meta-near-zero-self-concept-correlation-strong-achievement-correlation.md) — reports the opposite
 - [Skill development effects (grades → same-domain self-concept) are present from Grade 2 in math and Grade 3 onward in German](skill-development-effects-grades-2-4.md) — related
+- [Study 1 self-concept factors showed substantial convergent validity with matching achievement, smaller non-matching correlations, and a near-zero math–German self-concept correlation](asc-convergent-discriminant-validity-study1.md) — reports the opposite

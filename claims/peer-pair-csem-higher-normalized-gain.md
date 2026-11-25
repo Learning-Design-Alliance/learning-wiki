@@ -52,3 +52,4 @@ Quasi-experimental comparison of 148 IG-protocol students who worked in pairs ag
 - [C students paired with A students scored lower individually two weeks later (61%) than their group score (72%) in one group with no comparison group](ac-pairing-c-students-group-score-exceeds-retained-individual-score.md) — related
 - [Group work on the CSEM yields a large normalized gain (0.39) that is not a test-retest practice effect](group-csem-normalized-gain-0-39-not-practice-effect.md) — related
 - [After pair discussion, average CSEM scores rose from 55% on initial individual testing to 74% on second individual testing two weeks later in one uncontrolled pre-post study.](pair-discussion-gains-retained-two-weeks.md) — related
+- [Collaborating in pairs produced only slightly better cognitive change than individual retesting, a non-significant difference](pair-gains-not-significant-vs-controls.md) — reports the opposite

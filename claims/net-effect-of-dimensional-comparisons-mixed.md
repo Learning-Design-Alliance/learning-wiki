@@ -68,3 +68,4 @@ The review reports three experiments and two field studies by Müller-Kalthoff e
 - [Meta-analytic path analyses show math and verbal achievements correlate highly positively while the corresponding self-concepts correlate near zero, with significant negative cross-domain paths](ie-model-meta-analysis-achievement-self-concept-divergence.md) — related
 - [The negative contrast effect of high school-average achievement outweighs a weaker positive assimilation (reflected glory) effect](bflpe-contrast-outweighs-assimilation.md) — related
 - [Contrast and assimilation are competing compositional processes that can operate simultaneously](contrast-assimilation-competing-compositional-processes.md) — related
+- [Study 1 found no statistically significant assimilation effects (positive near-comparison paths) despite near paths averaging near zero](no-significant-assimilation-effects-study1.md) — related

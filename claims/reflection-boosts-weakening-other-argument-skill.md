@@ -76,3 +76,4 @@ Individual-level analysis (Table 2) confirmed the group-level result: both condi
 - [Dialogic argumentation practice shifts counterargument quality toward the more accomplished Counter-C (counter-critique) strategy within and across domains](counter-critique-strategy-increases-with-practice.md) — related
 - [Dialogic argumentation practice increases overall counterargument usage in sixth graders on both the intervention topic and the nonintervention topic across domains](im-dialogue-raises-counterargument-usage-both-domains.md) — related
 - [After argumentation intervention, participants who have the opportunity to rebut almost always do so, exceeding control participants on both topics](rebuttal-production-increases-after-intervention.md) — related
+- [The number of arguments during interaction was not a significant factor, though children who never argued fared worst](argument-count-not-significant.md) — related

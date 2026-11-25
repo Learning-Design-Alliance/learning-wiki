@@ -73,3 +73,4 @@ ANOVA of A-level exam results (Table 2) with one randomly selected twin per pair
 - [Female high school physics students were much less likely to experience very high self-efficacy states (4.5% vs 38%) and twice as likely to experience very low states as male students.](female-physics-self-efficacy-state-distributions.md) — related
 - [Far fewer girls than boys choose physics at age 16 across all four UK nations](uk-age16-physics-gender-uptake-gap.md) — related
 - [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related
+- [In Study 1, boys had lower achievement than girls in all subjects but maths and higher self-concepts in math and biology, while girls had higher self-concepts in German and English](gender-differences-achievement-selfconcept-study1.md) — related

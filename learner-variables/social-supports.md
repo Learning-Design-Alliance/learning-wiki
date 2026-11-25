@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (150 show a difference, 37 mixed, 13 no difference) · 148 studies (55 associational, 32 qualitative, 21 causal, 17 review, 10 theoretical, 8 quant-synthesis, 5 design), `q1`–`q3` · 19 of 148 report an effect size · 200 claims rest on one study
+> **Evidence** · 201 claims (150 show a difference, 38 mixed, 13 no difference) · 149 studies (56 associational, 32 qualitative, 21 causal, 17 review, 10 theoretical, 8 quant-synthesis, 5 design), `q1`–`q3` · 19 of 149 report an effect size · 201 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -236,6 +236,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [The relationship between parental support and the outcomes is moderated by gender and age, with significant interaction effects in the multivariate analysis](../claims/parental-support-moderated-by-gender-and-age.md) [~M] — learners who differ on it differ in outcomes
 - [ASHAs gained self-efficacy through job-derived knowledge, social capital, and family and community support, which improved their service delivery](../claims/asha-self-efficacy-enablers-qualitative.md) [+M] — learners who differ on it differ in outcomes
 - [Grade 5 class-level perceived teacher support buffers the decline in class-level mathematics interest, unidirectionally](../claims/class-teacher-support-predicts-interest-change.md) [+M] — an instructional effect differs with it
+- [Exploratory analyses: daily teacher and classmate support raise self-reported motivation, average parent and teacher support raise it, but average classmate support lowers it](../claims/support-source-specific-effects-exploratory.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

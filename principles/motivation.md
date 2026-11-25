@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 144 claims (88 for, 54 mixed, 2 against) · 131 studies (38 causal, 30 review, 24 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 131 report an effect size · 130 claims rest on one study
+> **Evidence** · 146 claims (89 for, 55 mixed, 2 against) · 132 studies (38 causal, 30 review, 25 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 132 report an effect size · 132 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](../claims/learning-environment-mediate-gender-differences-motivation.md) [+W] — attached 2026-11-18 from Yangqiuting Li et al. (2020), which proposed "Foster an inclusive and equitable physics learning environment built on perceived recognition, peer interaction, and belonging to support students' motivational beliefs".
 - [Framing EDI activities as coming from the broader physics community reduces student pushback](../claims/community-authority-framing-reduces-pushback.md) [+W] — attached 2026-11-23 from Martha-Elizabeth Baylor et al. (2021), which proposed "Motivate EDI discussions using the broader physics community as the authority rather than the instructor"; tests this page's relationship.
 - [Academic self-concepts positively predict self-perceptions of effort of corresponding domains, with no negative cross-domain self-concept effects](../claims/self-concepts-predict-domain-effort-no-cross-domain-effects.md) [+W] — attached 2026-11-25 from Annette Lohbeck (2019), which proposed "Teachers of elementary students should attend to children with lower grades and enhance their domain-specific academic self-concepts".
+- [On days when adolescents feel more competent, both their motivation to invest effort in learning (Cog-ED) and self-reported academic motivation are higher](../claims/daily-competence-predicts-motivation-within-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Cultivate daily feelings of competence, a socially supportive school environment and reduced stress to support adolescents' academic motivation"; tests this page's relationship.
+- [Exploratory analyses: daily teacher and classmate support raise self-reported motivation, average parent and teacher support raise it, but average classmate support lowers it](../claims/support-source-specific-effects-exploratory.md) [~W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Cultivate daily feelings of competence, a socially supportive school environment and reduced stress to support adolescents' academic motivation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

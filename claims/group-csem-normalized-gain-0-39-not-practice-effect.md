@@ -50,3 +50,4 @@ Quasi-experimental counterbalanced classroom study: 74 students took the CSEM in
 - [A large fraction of group responses was retained: about 80% of individual responses two weeks later matched the pair's group responses.](peer-group-responses-retained-two-weeks.md) — related
 - [After pair discussion, average CSEM scores rose from 55% on initial individual testing to 74% on second individual testing two weeks later in one uncontrolled pre-post study.](pair-discussion-gains-retained-two-weeks.md) — related
 - [Giving students an opportunity to formulate their own responses before peer discussion (IG) did not significantly improve group performance compared with discussing first (GI).](individual-first-before-peer-discussion-no-gain.md) — related
+- [Collaborating in pairs produced only slightly better cognitive change than individual retesting, a non-significant difference](pair-gains-not-significant-vs-controls.md) — related

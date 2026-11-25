@@ -48,3 +48,4 @@ In the authors' summary of the five-subject results, 'the contrast effects (e.g.
 - [Extended Ie Science Contrast Assimilation](extended-ie-science-contrast-assimilation.md)
 - [Subject similarity moderates dimensional comparison effects: far comparisons (e.g., math vs. verbal) yield strong contrast effects, near comparisons yield weaker contrast or assimilation effects](subject-similarity-moderates-dimensional-comparisons.md) — related
 - [Achievement in mathematics and German shows positive within-domain effects and smaller negative marginal cross-domain effects on academic self-concept](ie-replication-contrast-math-german.md) — related
+- [Study 1 found no statistically significant assimilation effects (positive near-comparison paths) despite near paths averaging near zero](no-significant-assimilation-effects-study1.md) — related

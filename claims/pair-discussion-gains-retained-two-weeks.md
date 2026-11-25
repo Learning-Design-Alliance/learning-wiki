@@ -50,3 +50,4 @@ Unannounced retest two weeks after the treatments: all students individually ret
 - [A large fraction of group responses was retained: about 80% of individual responses two weeks later matched the pair's group responses.](peer-group-responses-retained-two-weeks.md) — possibly the same claim (merge candidate)
 - [Students who worked in pairs on the CSEM showed significantly higher normalized gain on subsequent individual testing than a control group that took the test individually twice.](peer-pair-csem-higher-normalized-gain.md) — related
 - [Individual normalized gains did not differ significantly depending on whether a student was paired with a high- or low-scoring partner.](pairing-ability-level-no-significant-gain-difference.md) — related
+- [Collaborating in pairs produced only slightly better cognitive change than individual retesting, a non-significant difference](pair-gains-not-significant-vs-controls.md) — related

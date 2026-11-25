@@ -5,6 +5,19 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-13: four simulator-cited effort, motivation and learning-curve studies
+
+Seven sources the learning-graph simulator cites (Learning-engineering-research `data/articles.json`) were queued; four
+were read and ingested. Kramer et al. (2024, daily variation in adolescents' motivation to invest effort, Cog-ED task),
+Marsh et al. (2015, dimensional comparison theory; read from the accepted manuscript in the maintainer's Drive folder,
+cached, not committed), Myung, Kim & Pitt (2000, the power-law artifact of arithmetic averaging) and Tudge (1986,
+reasoning and conflict in peer collaboration; ERIC report) wrote 21 claims, one product (the Cog-ED task), one research
+method and one strategy. Both scope models voted two Myung pages out of scope as statistics; they were kept, because
+the paper is about the shape of learning and forgetting curves and the simulator's 2026-11-25 rung audit rests on it.
+Not fetched: Vasalampi et al. (2021; the Jyväskylä repository returned 503, to retry), Jin et al. (2026; the open link
+is a landing page, the maintainer's upload is the copy to use) and Malmberg & Martin (2019; ora.ox.ac.uk's robots.txt
+forbids the fetch, so it needs a copy from the maintainer). Lint 0.
+
 ## 2026-11-25 · j-drive-12: Underwood & Keppel (1962) from the maintainer's OCR conversion
 
 Underwood & Keppel (1962), "One-trial learning?" (doi:10.1016/S0022-5371(62)80013-9), the last paper in the

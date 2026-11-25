@@ -48,3 +48,6 @@ Dyadic outcome analysis of unequal rule pairs by rule consistency type (Table 2)
 - [Improvement of less competent members and decline of more competent members depended on accepting the partner's reasoning (reasoning accepted x condition interaction)](accepting-partner-reasoning-drives-outcome.md) — related
 - [Among paired children, less competent partners improved significantly while more competent partners declined significantly from pretest to delayed posttest](peer-collaboration-less-improve-more-decline.md) — related
 - [Effects of pairing with a more or less competent partner did not vary by age: 5-year-olds benefited as much as 8-9-year-olds](age-does-not-moderate-partner-effects.md) — related
+- [Cognitive state - whether a child's rule is confident or uncertain - moderates the direction of change, with a reasoning-state interaction](cognitive-state-confident-uncertain-moderator.md) — related
+- [Equal-rule pairs showed no development; children paired with a same-rule partner declined slightly on average](equal-rule-pairs-no-development.md) — related
+- [In unequal-rule pairs, lower partners improved almost one rule on average while higher partners declined by almost the same amount](unequal-rule-lower-improve-higher-decline.md) — reports the opposite

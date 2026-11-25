@@ -48,3 +48,4 @@ ANCOVA on second posttest-pretest difference scores in the 4 (condition) x 2 (ge
 - [Improvement of less competent members and decline of more competent members depended on accepting the partner's reasoning (reasoning accepted x condition interaction)](accepting-partner-reasoning-drives-outcome.md) — related
 - [Among paired children, less competent partners improved significantly while more competent partners declined significantly from pretest to delayed posttest](peer-collaboration-less-improve-more-decline.md) — related
 - [Only less competent children with inconsistent rules paired with more competent consistent-rule partners showed the favorable pattern of improvement without partner regression](high-consistent-low-inconsistent-dyads-success.md) — related
+- [Equal-rule pairs showed no development; children paired with a same-rule partner declined slightly on average](equal-rule-pairs-no-development.md) — related
