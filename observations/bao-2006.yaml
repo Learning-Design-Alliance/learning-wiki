@@ -1,0 +1,380 @@
+# Bao & Redish (2006): model analysis of Force Concept Inventory responses,
+# force-motion concept, University of Maryland introductory mechanics.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The diagonal of each class model density matrix in Table II, as
+#     `measure_type: mean` named by `arm_ref`. The diagonal element D_ii is the
+#     average over students of n_ik / m (Eq. 8), that is the class-average
+#     probability of a student using model i on the five force-motion items, so
+#     it is a single-group mean on a 0-1 scale. No SD is printed.
+#     Model order is the paper's: model 1 the correct (Newtonian) expert model,
+#     model 2 "there is always a force in the direction of motion", model 3 the
+#     null model (Sec. IV.A).
+#   * The primary (largest) eigenvalue of each class density matrix, the
+#     paper's measure of how consistent the class is, as `other`.
+#   * Arms: tutorial-recitation classes and traditional-recitation classes; pre
+#     and post are times, not arms. Nothing in the source says how classes came
+#     to have one recitation type or the other, so no assignment is inferred and
+#     the family is `observational`.
+#   * `population.age: unreported`: engineering majors in a calculus-based
+#     course, no age figure printed.
+#
+# No reliability coefficient is printed for the five-item cluster; the paper's
+# own validity argument (low null-model eigenvalues, the mixed post state of the
+# traditional classes) is a model-based argument, not a reliability statistic,
+# and is not recorded as one.
+#
+# Read from the published PDF (PRST-PER 2, 010103). The density matrices'
+# bracket glyphs extract as codes (/H20900, /H20901); the numbers themselves
+# extract cleanly and match the maintainer's reading of the printed table, so
+# quotes below are the number runs only.
+
+schema_version: 2
+
+study:
+  key: bao-2006
+  citation: "Bao, L., & Redish, E. F. (2006). Model analysis: Representing and assessing the dynamics of student learning. Physical Review Special Topics - Physics Education Research, 2(1), 010103."
+  doi: "10.1103/physrevstper.2.010103"
+  design:
+    family: observational
+    design_detail: >-
+      Methods paper introducing model analysis, demonstrated on pre-post Force
+      Concept Inventory data from 14 introductory mechanics classes (Physics 161,
+      University of Maryland, data collected by J. M. Saul). Each student's
+      answers to the five force-motion items (FCI 5, 9, 18, 22, 28) are mapped
+      to three models (Table I), giving a model probability vector, a model
+      state vector and a density matrix; the class matrix is the average over
+      students and is eigen-decomposed. Half of the classes had tutorial
+      recitations, half traditional recitations; how classes came to have each
+      is not stated and no inferential test between them is reported.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: model-analysis-quantifies-alternate-knowledge-probabilities
+    bearing: supports
+    anchor: bao-2006
+  - claim: alternate-frameworks-context-dependent-use
+    bearing: supports
+    anchor: bao-2006
+
+evidence_base:
+  unit: participants
+  size:
+    value: 778
+    unit: participants
+  additional_sizes:
+    - value: 14
+      unit: classes
+      note: "introductory mechanics classes (Physics 161); half with tutorial recitations, half with traditional recitations"
+  population:
+    description: >-
+      Students in the calculus-based introductory mechanics course at the
+      University of Maryland, mostly engineering majors. The 778 is the count
+      for the combined initial (pre-instruction) state across all classes.
+    age_or_stage: "Undergraduate, introductory calculus-based physics"
+    age: unreported
+  context:
+    setting: >-
+      All classes had traditional lectures three hours a week, weekly readings
+      and textbook homework, and one hour a week of small-group (N about 30)
+      TA-led recitation. FCI given pre and post a semester of instruction.
+  arms:
+    - id: tutorial-recitation
+      description: >-
+        Classes whose recitations were taught with Tutorials (McDermott &
+        Shaffer, 1998): students in groups of three to five on research-based
+        guided-discovery worksheets, often using a cognitive-conflict model.
+      implementation_notes:
+        - "Half of the 14 classes; the per-arm number of students is not printed"
+    - id: traditional-recitation
+      description: >-
+        Classes whose recitations were traditional TA-led problem-solving
+        sessions: students asking questions and the TA modelling solutions on
+        the board.
+      implementation_notes:
+        - "Half of the 14 classes; the per-arm number of students is not printed"
+
+comparisons: []
+
+observations:
+
+  - id: tutorial-pre-model2-probability
+    arm_ref: tutorial-recitation
+    outcome:
+      construct: "Use of the naive force-motion model"
+      source_language: "model 2: there is always a force in the direction of motion"
+      measure: "Density-matrix diagonal element D22 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 2, 0-1"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test, before the semester's instruction"
+    result:
+      measure_type: mean
+      estimate: 0.69
+      unit: "class-average probability of using model 2 (incorrect), 0-1"
+      note: "Diagonal of the Tutorial pre matrix: model 1 0.27, model 2 0.69, null 0.04."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.27 0.23 0.02 0.23 0.69 0.07 0.02 0.07 0.04"
+    source_location: "Table II, Tutorial, Pre, density matrix (element 2,2)"
+
+  - id: traditional-pre-model2-probability
+    arm_ref: traditional-recitation
+    outcome:
+      construct: "Use of the naive force-motion model"
+      source_language: "model 2: there is always a force in the direction of motion"
+      measure: "Density-matrix diagonal element D22 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 2, 0-1"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test, before the semester's instruction"
+    result:
+      measure_type: mean
+      estimate: 0.68
+      unit: "class-average probability of using model 2 (incorrect), 0-1"
+      note: "Diagonal of the Traditional pre matrix: model 1 0.27, model 2 0.68, null 0.05."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.27 0.22 0.03 0.22 0.68 0.08 0.03 0.08 0.05"
+    source_location: "Table II, Traditional, Pre, density matrix (element 2,2)"
+
+  - id: tutorial-post-model1-probability
+    arm_ref: tutorial-recitation
+    outcome:
+      construct: "Use of the correct force-motion model"
+      source_language: "model 1: a nonzero net force results in change of the velocity of motion (correct expert model)"
+      measure: "Density-matrix diagonal element D11 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 1, 0-1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, after a semester of instruction"
+    result:
+      measure_type: mean
+      estimate: 0.66
+      unit: "class-average probability of using model 1 (correct), 0-1"
+      note: "Diagonal of the Tutorial post matrix: model 1 0.66, model 2 0.31, null 0.03."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.66 0.28 0.03 0.28 0.31 0.02 0.03 0.02 0.03"
+    source_location: "Table II, Tutorial, Post, density matrix (element 1,1)"
+
+  - id: tutorial-post-model2-probability
+    arm_ref: tutorial-recitation
+    outcome:
+      construct: "Use of the naive force-motion model"
+      source_language: "model 2: there is always a force in the direction of motion"
+      measure: "Density-matrix diagonal element D22 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 2, 0-1"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, after a semester of instruction"
+    result:
+      measure_type: mean
+      estimate: 0.31
+      unit: "class-average probability of using model 2 (incorrect), 0-1"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.66 0.28 0.03 0.28 0.31 0.02 0.03 0.02 0.03"
+    source_location: "Table II, Tutorial, Post, density matrix (element 2,2)"
+
+  - id: traditional-post-model1-probability
+    arm_ref: traditional-recitation
+    outcome:
+      construct: "Use of the correct force-motion model"
+      source_language: "model 1: a nonzero net force results in change of the velocity of motion (correct expert model)"
+      measure: "Density-matrix diagonal element D11 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 1, 0-1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, after a semester of instruction"
+    result:
+      measure_type: mean
+      estimate: 0.46
+      unit: "class-average probability of using model 1 (correct), 0-1"
+      note: "Diagonal of the Traditional post matrix: model 1 0.46, model 2 0.50, null 0.04; the authors read it as a mixed model state."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.46 0.25 0.03 0.25 0.50 0.05 0.03 0.05 0.04"
+    source_location: "Table II, Traditional, Post, density matrix (element 1,1)"
+
+  - id: traditional-post-model2-probability
+    arm_ref: traditional-recitation
+    outcome:
+      construct: "Use of the naive force-motion model"
+      source_language: "model 2: there is always a force in the direction of motion"
+      measure: "Density-matrix diagonal element D22 from the five FCI force-motion items mapped to models by Table I"
+      scale: "class-average probability of using model 2, 0-1"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, after a semester of instruction"
+    result:
+      measure_type: mean
+      estimate: 0.50
+      unit: "class-average probability of using model 2 (incorrect), 0-1"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD or per-arm n is printed. A diagonal element of the class density
+      matrix is the class average of each student's share of the five items
+      answered with that model (Eq. 8). Read from Table II; the quote is the
+      matrix's numbers in row order (rows and columns ordered model 1, 2, 3).
+    source_quote: "0.46 0.25 0.03 0.25 0.50 0.05 0.03 0.05 0.04"
+    source_location: "Table II, Traditional, Post, density matrix (element 2,2)"
+
+  - id: tutorial-primary-eigenvalue
+    arm_ref: tutorial-recitation
+    outcome:
+      construct: "Consistency of model use across the class"
+      source_language: "eigenvalue of the primary class model state"
+      measure: "Largest eigenvalue of the class model density matrix for the force-motion concept"
+      scale: "eigenvalue, 0-1; the authors treat values above about 0.65 as a consistent population"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test and post-test"
+    result:
+      measure_type: other
+      estimate: 0.82
+      unit: "largest eigenvalue of the class density matrix, post-test"
+      note: "Pre-test eigenvalues 0.80, 0.17, 0.03; post-test 0.82, 0.15, 0.03. The estimate is the post-test primary eigenvalue."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A property of the class matrix, not of any student; no uncertainty is
+      printed. The row prints the pre then post eigenvalues for the Tutorial
+      classes.
+    source_quote: "Eigenvalues 0.80 0.17 0.03 0.82 0.15 0.03"
+    source_location: "Table II, Tutorial, eigenvalues row (pre then post)"
+
+  - id: traditional-primary-eigenvalue
+    arm_ref: traditional-recitation
+    outcome:
+      construct: "Consistency of model use across the class"
+      source_language: "eigenvalue of the primary class model state"
+      measure: "Largest eigenvalue of the class model density matrix for the force-motion concept"
+      scale: "eigenvalue, 0-1; the authors treat values above about 0.65 as a consistent population"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test and post-test"
+    result:
+      measure_type: other
+      estimate: 0.74
+      unit: "largest eigenvalue of the class density matrix, post-test"
+      note: "Pre-test eigenvalues 0.79, 0.17, 0.04; post-test 0.74, 0.23, 0.03. The estimate is the post-test primary eigenvalue."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A property of the class matrix, not of any student; no uncertainty is
+      printed. The row prints the pre then post eigenvalues for the
+      Traditional classes.
+    source_quote: "Eigenvalues 0.79 0.17 0.04 0.74 0.23 0.03"
+    source_location: "Table II, Traditional, eigenvalues row (pre then post)"
+
+not_yet_extracted:
+  - "Tutorial pre model 1 probability 0.27 and Traditional pre model 1 probability 0.27 (Table II); null-model diagonals 0.03-0.05"
+  - "Pre-test primary eigenvalues as separate observations (Tutorial 0.80, Traditional 0.79), held here in the eigenvalue observations' notes"
+  - "Table II eigenvectors (class model states) and the Fig. 5 model plot"
+  - "SECONDARY, not this study's measurement: Bao & Redish report Steinberg and Sabella's two equivalent Newton's-first-law questions to UMd engineering-physics students, 90% correct on the laboratory-phrased sphere question against 54% on the everyday elevator question, with 36% choosing the incorrect 'cable force greater than gravity' answer (Sec. II.A). Those figures belong in a record of Steinberg & Sabella (1997), read from that paper; the sample size is not given here"

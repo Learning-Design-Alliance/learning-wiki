@@ -1,0 +1,395 @@
+# Baker, Corbett, Koedinger & Wagner (2004): off-task behaviour and "gaming the
+# system" in five middle-school Cognitive Tutor classrooms.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * How rare gaming was: 3% of the 563 20-second observations, 24% of the 70
+#     students ever, 11% (the 8 "high-gaming" students) more than 10% of the time.
+#     About 8 observations a student, so "more than 10%" is one or two sightings.
+#   * How gaming related to learning: r = -.38 with post-test, partial r = -.34
+#     controlling pre-test and general academic achievement, r = -.27 with
+#     pre-test, and pre-test with post-test r = .32. All correlational: nothing
+#     was assigned.
+#   * `measure_type: reliability` for the observation coding. The observers never
+#     coded the same student at the same moment, so the authors say they cannot
+#     compute a traditional inter-rater statistic; they report the correlation of
+#     the two observers' behaviour proportions in one practice class (r = .99 over
+#     behaviour categories, r = .79 per student). That is recorded as printed,
+#     with statistic `other`, not relabelled as a kappa or ICC.
+#   * `population.age` from "approximately 12 to 14".
+#
+# The shares are written as the source prints them (percent), not rescaled to
+# proportions.
+#
+# Read from the HAL open-archive copy (hal-00190176), which reproduces the CHI
+# 2004 paper (pp. 383-390). The copy prints no DOI; 10.1145/985692.985741
+# resolves on Crossref to "Off-task behavior in the cognitive tutor classroom",
+# Baker, Corbett, Koedinger, Wagner, 2004, matching the paper's title, authors
+# and year.
+
+schema_version: 2
+
+study:
+  key: baker-2004
+  citation: "Baker, R. S., Corbett, A. T., Koedinger, K. R., & Wagner, A. Z. (2004). Off-task behavior in the Cognitive Tutor classroom: When students \"game the system\". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2004), 383-390."
+  doi: "10.1145/985692.985741"
+  design:
+    family: observational
+    design_detail: >-
+      Field observation study in five classrooms during a two-period Cognitive
+      Tutor unit on scatterplots. Pre-test and post-test on two nearly isomorphic
+      exercises (counterbalanced); quantitative field observation of each
+      student's behaviour in 20-second windows under a six-category coding
+      scheme; end-of-course test as general academic achievement. Results are
+      correlations and F tests across students; no condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: gaming-system-frequency-negative-posttest-correlation
+    bearing: supports
+    anchor: baker-et-al-2004
+  - claim: gaming-correlates-low-prior-knowledge-not-other-offtask
+    bearing: supports
+    anchor: baker-et-al-2004
+
+evidence_base:
+  unit: participants
+  size:
+    value: 70
+    unit: participants
+  additional_sizes:
+    - value: 5
+      unit: classes
+      note: "middle-school classrooms at 2 schools; not a unit of assignment"
+    - value: 563
+      unit: other
+      note: "20-second behaviour observations, an average of 8.0 per student"
+  population:
+    description: >-
+      Middle-school students in five classrooms at two suburban schools near a
+      medium-sized city in the north-eastern United States, taking part in the
+      development of a new three-year Cognitive Tutor middle-school mathematics
+      curriculum. Seventy students were present for all phases.
+    age_or_stage: "Middle school; ages approximately 12 to 14"
+    age:
+      unit: years
+      min: 12
+      max: 14
+      note: "the source says 'approximately 12 to 14'"
+  context:
+    setting: >-
+      Classroom use of a Cognitive Tutor unit on scatterplot generation and
+      interpretation (2 class periods), preceded the day before by declarative
+      instruction in a narrated PowerPoint presentation.
+  arms:
+    - id: cognitive-tutor-scatterplot-unit
+      description: "All 70 students working through the two-period Cognitive Tutor scatterplot unit; one configuration, no contrast."
+      implementation_notes:
+        - "Pre-test given after the PowerPoint instruction, so the pre-post change is the tutor's alone"
+        - "Each of two nearly isomorphic exercises served as pre-test for half the students and post-test for the other half"
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations and shares across all students in the study; no contrast between groups."
+  - id: observer-agreement
+    kind: none
+    description: "Agreement between the two observers (first and fourth authors) coding one practice class period together before the study."
+
+observations:
+
+  - id: gaming-share-of-observations
+    sample:
+      value: 563
+      unit: other
+    arm_ref: cognitive-tutor-scatterplot-unit
+    outcome:
+      construct: "Prevalence of gaming the system"
+      source_language: "gaming the system"
+      measure: "Share of the 20-second field observations coded as gaming the system (systematic and rapid incorrect answers or use of help)"
+      scale: "percent of observations"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the two class periods of tutor use"
+    result:
+      measure_type: other
+      estimate: 3
+      unit: "percent of observations"
+      note: >-
+        A share of observations (time-slices), not of tutor attempts or actions.
+        Off-task conversation 11%, inactivity 3%, off-task solitary behaviour 1%;
+        on-task 82%.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Sample is the 563 observations, unit `other`. No interval is printed.
+    source_quote: "The most frequent off-task behavior was off-task conversation (11%), followed by gaming the system (3%), inactivity (3%), and off-task solitary behavior (1%)."
+    source_location: "Results, first section"
+
+  - id: heavy-and-any-gamers-share
+    sample:
+      value: 70
+      unit: participants
+    arm_ref: cognitive-tutor-scatterplot-unit
+    outcome:
+      construct: "Share of students who game heavily"
+      source_language: "observed gaming the system more than 10% of the time"
+      measure: "Share of students whose observations were coded as gaming more than 10% of the time"
+      scale: "percent of students"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the two class periods of tutor use"
+    result:
+      measure_type: other
+      estimate: 11
+      unit: "percent of students"
+      note: >-
+        The 8 "high-gaming" students, the upper half by a median split (10%) of
+        the 17 students ever observed gaming. 24% of students were observed
+        gaming at least once; 51% were observed in other off-task behaviour at
+        least once.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      With an average of 8.0 observations a student, more than 10% of a
+      student's observations is one or two coded sightings; no interval or
+      per-student reliability is printed for this share.
+    source_quote: "Only 11% of the students (the “high-gaming” students from the previous section) were observed gaming the system more than 10% of the time, and only 24% of the students in our study were observed gaming the system even once."
+    source_location: "Results, Which Students Game The System?"
+
+  - id: gaming-posttest-correlation
+    sample:
+      value: 70
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Learning from the tutor unit"
+      source_language: "post-test score"
+      measure: "Post-test scatterplot exercise scored by the number of problem-solving steps correct, correlated with the student's frequency of gaming"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test at the completion of the tutor lesson"
+    result:
+      measure_type: correlation
+      estimate: -0.38
+      statistic: "F(1,68) = 11.82"
+      p_value: "< 0.01"
+      note: "The only off-task behaviour significantly correlated with post-test; talking off-task r = -0.19, inactivity r = -0.08, off-task solitary r = -0.08."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The frequency of gaming the system was the only off-task behavior which was significantly correlated with the post- test, F(1,68)=11.82, p<0.01, r= -0.38."
+    source_location: "Results, Gaming the System and Other Off-Task Behavior; Table 1"
+
+  - id: gaming-posttest-partial-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Learning from the tutor unit, prior knowledge and achievement held constant"
+      source_language: "post-test"
+      measure: "Post-test score and gaming frequency, controlling for pre-test and general academic achievement (end-of-course test)"
+      scale: "partial correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test at the completion of the tutor lesson"
+    result:
+      measure_type: correlation
+      estimate: -0.34
+      statistic: "F(1,59) = 7.73"
+      p_value: "< 0.01"
+      model: "Partial correlation controlling for pre-test and general academic achievement"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      No analysed n is printed for this result. End-of-course test data were
+      missing for one classroom, so it rests on fewer than the 70 students; the
+      count is not inferred from the degrees of freedom here.
+    source_quote: "The impact of gaming the system remains significant even when we control for the students’ pre-test and general academic achievement, F(1,59)=7.73, p<0.01, partial correlation = - 0.34."
+    source_location: "Results, Gaming the System and Other Off-Task Behavior"
+
+  - id: gaming-pretest-correlation
+    sample:
+      value: 70
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Prior domain knowledge"
+      source_language: "pre-test score"
+      measure: "Pre-test scatterplot exercise score, correlated with the student's frequency of gaming"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test after the PowerPoint instruction, before tutor use"
+    result:
+      measure_type: correlation
+      estimate: -0.27
+      statistic: "F(1,68) = 5.31"
+      p_value: "0.02"
+      note: "General academic achievement with gaming r = -0.21, F(1,61) = 2.77, p = 0.10."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "More generally, there was a significant correlation between how frequently a student gamed the system and their pre-test score, F(1,68)=5.31,p=0.02, r= -0.27."
+    source_location: "Results, Which Students Game The System?; Table 2"
+
+  - id: pretest-posttest-correlation
+    sample:
+      value: 70
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Learning from the tutor unit"
+      source_language: "post-test score"
+      measure: "Post-test score correlated with pre-test score (prior knowledge of the domain)"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pre-test before tutor use; post-test at its completion"
+    result:
+      measure_type: correlation
+      estimate: 0.32
+      statistic: "F(1,68) = 7.59"
+      p_value: "< 0.01"
+      note: "General academic achievement with post-test r = 0.36, F(1,61) = 9.31; pre-test with achievement r = 0.61."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "A student’s prior knowledge of the domain (measured by the pre-test) was a reasonably good predictor of their post- test score, F(1,68)=7.59, p<0.01, r=0.32."
+    source_location: "Results, first section; Table 1"
+
+  - id: observer-agreement-overall-proportions
+    comparison_ref: observer-agreement
+    outcome:
+      construct: "Inter-observer agreement on behaviour coding"
+      source_language: "agreement in the overall proportions of each type of behavior within this class"
+      measure: "Two observers' class-level proportions of each of the six behaviour categories in one practice class period, correlated"
+      scale: "Pearson correlation of proportions"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one practice class period before the study"
+    result:
+      measure_type: reliability
+      estimate: 0.99
+      statistic: "F(1,4) = 287.77"
+      p_value: "< 0.01"
+      reliability:
+        statistic: other
+        over: raters
+        form: "correlation between the two observers' overall proportions of each behaviour type in the practice class; the authors state they could not compute a traditional inter-rater reliability measure"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Not a time-slice agreement: the observers never coded the same student at
+      the same moment. It is agreement over the six category proportions of one
+      class (df 4), so it says how alike the two observers' totals were, not how
+      often they would code one 20-second window the same way. No agreement
+      figure is given for the gaming category alone.
+    source_quote: "However, the two observers had exceptionally high agreement in the overall proportions of each type of behavior within this class, F(1,4)=287.77,p<0.01, r=0.99 and very good agreement in the proportion of each type of behavior per student, F(1,142)=238.37, p<0.01, r=0.79."
+    source_location: "Method, Data Collection"
+
+  - id: observer-agreement-per-student-proportions
+    comparison_ref: observer-agreement
+    outcome:
+      construct: "Inter-observer agreement on behaviour coding"
+      source_language: "agreement in the proportion of each type of behavior per student"
+      measure: "Two observers' per-student proportions of each behaviour type in one practice class period, correlated"
+      scale: "Pearson correlation of proportions"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one practice class period before the study"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      statistic: "F(1,142) = 238.37"
+      p_value: "< 0.01"
+      reliability:
+        statistic: other
+        over: raters
+        form: "correlation between the two observers' per-student proportions of each behaviour type in the practice class; not a traditional inter-rater reliability measure, by the authors' account"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      As for the overall figure, the observers did not code the same time-slice.
+      The source does not say how many students were in the practice class.
+    source_quote: "very good agreement in the proportion of each type of behavior per student, F(1,142)=238.37, p<0.01, r=0.79."
+    source_location: "Method, Data Collection"
+
+not_yet_extracted:
+  - "Pre-test 40% to post-test 71%, F(1,68)=7.59 (group means, no SD printed)"
+  - "High-gaming (8) vs never-gaming (53) post-test 44% vs 78%, F(1,59)=8.61; vs 24 never-gaming low-pre-test students 44% vs 68%, t(30)=1.69, p=0.10"
+  - "Total off-task frequency with post-test r = -0.33; talking on-task with post-test r = -0.24 (partial -0.25); gaming with talking on-task r = 0.37 (partial 0.36)"
