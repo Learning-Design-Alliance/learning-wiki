@@ -71,3 +71,4 @@ Multilevel reanalysis (Seaton et al. 2008c) of Huguet et al. (2001) data from 1,
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related
 - [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — related
+- [Comparison target, sample size, and publication year do not significantly moderate the BFLPE](bflpe-null-moderators-target-samplesize-year.md) — related

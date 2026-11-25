@@ -54,3 +54,4 @@ SAOM network structural effects were estimated for both network types; reciproci
 - [Peer cooperation follows social hierarchy, with friendship eliminating rank-based differences in sent tokens](hierarchy-cooperation-friendship-moderator.md) — related
 - [Peer network development is comparable across the four active learning methods and does not explain differences in conceptual learning gains](peer-network-development-comparable-across-methods.md) — related
 - [Friendship and help networks show comparable structural dynamics: selectivity, reciprocity, transitivity, and same-sex nomination](friendship-help-structural-dynamics.md) — related
+- [Adolescents select friends and helpers similar to themselves in behavioral academic engagement; emotional-engagement similarity plays a weaker role](behavioral-engagement-similarity-selection.md) — related

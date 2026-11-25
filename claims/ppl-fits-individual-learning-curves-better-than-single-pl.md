@@ -68,3 +68,4 @@ Noise-subtracted variance explained by three models across all tasks: PPL explai
 - [The rate of transitions between power-law pieces is negatively associated with age after controlling for overall performance](age-negatively-associated-with-transitions.md) — related
 - [Transitions between power-law pieces are typically followed by a brief performance drop and then a level surpassing the previous piece](transition-dynamics-drop-then-surpass.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [Acquisition of a novel paper-and-pencil matrix task follows a power function of practice at group and individual levels](power-law-learning-in-paper-pencil-matrix-task.md) — reports the opposite

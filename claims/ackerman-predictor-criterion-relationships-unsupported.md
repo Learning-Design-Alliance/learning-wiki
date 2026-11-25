@@ -51,3 +51,4 @@ Overall result of the hierarchical regression reanalyses across the 11 possible 
 ## Related Claims
 - [In short-time-span studies the perceptual speed ability-consistent task performance relationship follows a significant cubic trend over time, not the predicted inverted-U quadratic](perceptual-speed-consistent-cubic-short-span.md) — related
 - [The correlation between cognitive ability and consistent task performance declines over time with significant negative linear and quadratic (concave downward) trends in both short- and long-time-span reanalyses](cognitive-ability-consistent-task-validity-declines.md) — related
+- [Individual learning parameters do not predict algorithm-based tasks or domain-general control tasks](no-learning-parameter-prediction-for-algorithm-tasks.md) — related

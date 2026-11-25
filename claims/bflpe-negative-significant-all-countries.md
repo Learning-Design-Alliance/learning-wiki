@@ -61,3 +61,4 @@ In the integrated doubly latent path model with all covariates, the BFLPE on pos
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
 - [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related
 - [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — a broader claim this one bears on
+- [Class/school average achievement has a significant negative effect on student academic self-concept (BFLPE), pooled β = −0.28](bflpe-pooled-negative-effect-asc.md) — a broader claim this one bears on

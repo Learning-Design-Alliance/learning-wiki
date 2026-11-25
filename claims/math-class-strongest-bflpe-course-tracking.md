@@ -54,3 +54,4 @@ Cross-classified multilevel models on the Austrian eighth-grade population data 
 - [The BFLPE is domain-specific: school-average achievement affects academic self-concept but not global self-esteem or non-academic self-concept](bflpe-domain-specificity-asc.md) — related
 - [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — a broader claim this one bears on
+- [Student age significantly moderates the BFLPE, which is strongest in high school (β = −0.32) and weakest in primary school (β = −0.21)](bflpe-moderated-by-student-age.md) — related

@@ -76,3 +76,4 @@ Null finding from the final pruned mediation model: the article states "nonverba
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](numerical-cognition-predicts-all-three-outcomes.md) — related
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
 - [Cognitive abilities and academic achievement predict each other longitudinally](cognitive-academic-longitudinal-bidirectionality.md) — related
+- [Exploratory findings: learning parameters predict reading speed, passage dictation, and Arabic number reading, but not written calculations](learning-parameters-predict-mixed-tasks-exploratory.md) — related

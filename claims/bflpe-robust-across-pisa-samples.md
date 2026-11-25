@@ -52,3 +52,4 @@ The article's literature review reports on the Marsh et al. (2020) synthesis of 
 - [The BFLPE exists in both elementary-school and secondary-school contexts](bflpe-exists-in-both-school-contexts.md) — a narrower finding that bears on this claim
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — related
+- [Class/school average achievement has a significant negative effect on student academic self-concept (BFLPE), pooled β = −0.28](bflpe-pooled-negative-effect-asc.md) — a broader claim this one bears on

@@ -5,6 +5,16 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-sim-15: four more simulator-cited sources
+
+Seven sources the learning-graph simulator cites were queued, with Fang et al. (2018) retried after its failed
+validation in j-sim-14. Four were read and ingested, writing 22 claims and 3 strategies: Fang et al. (2018, the
+big-fish-little-pond meta-analysis), Marinelli et al. (2021, instance consolidation and power-law practice curves),
+Putwain et al. (2019, expectancy, value and engagement) and Shin (2023, friend and help networks). The scope
+models split on two Shin network claims, and both were kept, since a split vote keeps a page. Not read: Foroughi et
+al. (2015), which has no readable open copy; Johansson et al. (2024), whose OSF preprint file is gone (410); and Penk
+& Richter (2017), whose extraction failed structural validation (a failed run, to retry). Lint 0.
+
 ## 2026-11-25 · j-sim-14: fifteen simulator-cited sources from open copies
 
 Twenty sources the learning-graph simulator cites (Learning-engineering-research `data/articles.json`) with an open

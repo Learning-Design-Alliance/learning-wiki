@@ -50,3 +50,4 @@ Six single-case studies in which participants evaluated 100 alphabet verificatio
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
 - [Item-level response times showed step-function decreases from before to after practice in an alphabet arithmetic experiment, in one group with no comparison group](smooth-speedup-questioned-global-laws.md) — a broader claim this one bears on
 - [Strategy-shift discontinuities reflect an intentional decision to adopt a new, consciously available, item-general strategy](strategy-shift-intentional-item-general.md) — related
+- [Acquisition of a novel paper-and-pencil matrix task follows a power function of practice at group and individual levels](power-law-learning-in-paper-pencil-matrix-task.md) — reports the opposite

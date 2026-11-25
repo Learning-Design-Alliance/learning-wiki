@@ -65,6 +65,7 @@ High expectations only raise achievement when students believe the expectations 
 - [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
 - [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 - [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
+- [Raise attainment value for low-expectancy students and foster expectancy for low-value students, using task-value activities and messages with caution](task-value-activities-messages-buffer-low-expectancy.md)
 
 ## Examples
 - **Yeager et al. (2019) national study**: a short online growth-mindset module embedded in core curriculum raised GPA among lower-achieving high school students across the U.S.

@@ -51,3 +51,4 @@ Longitudinal SAOM analysis of classroom friend networks across two waves (N = 54
 - [Similarity in academic engagement does not significantly affect formation of admire relations](no-engagement-similarity-admire-selection.md) — related
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
 - [Friendship selection reinforces academic similarity: adolescents befriend similarly achieving peers, high achievers receive more nominations](achievement-homophily-friendship-selection.md) — related
+- [Adolescents select friends and helpers similar to themselves in behavioral academic engagement; emotional-engagement similarity plays a weaker role](behavioral-engagement-similarity-selection.md) — related

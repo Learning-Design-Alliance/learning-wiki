@@ -48,3 +48,4 @@ Bayesian mixed-model offset coefficient for the Block 2 stimulus introduction ac
 - [The Block 3 novel stimulus reliably decreased accuracy only in the age-matched group, whose decrease exceeded that of the other groups](block3-novel-stimulus-decrease-age-matched.md) — related
 - [Recognition accuracy is higher for familiar than novel stimuli across all mapping groups, with the familiar-novel difference consistent across groups](familiar-beats-novel-ssd-accuracy-all-groups.md) — reports the opposite
 - [Novel stimuli are recognized above chance only by the Traditional and Reversed algorithm groups, not by the Control group](novel-stimuli-above-chance-algorithm-groups-only.md) — related
+- [Accuracy in the matrix task improved modestly across practice and dropped when new stimuli were introduced](accuracy-changes-across-matrix-practice.md) — related

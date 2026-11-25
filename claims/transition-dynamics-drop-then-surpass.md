@@ -69,3 +69,4 @@ For each transition the authors computed how many exercises the post-transition 
 - [A piecewise power law model explains individual learning curves significantly better than a single power law](ppl-fits-individual-learning-curves-better-than-single-pl.md) — related
 - [First-piece durations in multi-piece curves are comparable across tasks, with medians of approximately 125 exercises and 2–3 months](first-piece-durations-medians.md) — related
 - [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](power-law-four-rereadings-limit.md) — related
+- [Acquisition of a novel paper-and-pencil matrix task follows a power function of practice at group and individual levels](power-law-learning-in-paper-pencil-matrix-task.md) — related

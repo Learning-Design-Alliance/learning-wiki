@@ -68,3 +68,5 @@ Classroom-level scatterplot (Figure 3) of friendship network density against hel
 - [Friendship increases the exchange of help, and mutual friendship contributes more than one-sided friendship](friendship-context-for-help.md) — related
 - [Friendship and help networks show comparable structural dynamics: selectivity, reciprocity, transitivity, and same-sex nomination](friendship-help-structural-dynamics.md) — related
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
+- [Friend networks are denser and more transitive than help networks, while help nominations concentrate on a few individuals](friend-help-network-structural-differences.md) — possibly the same claim (merge candidate)
+- [Help relationships and friendships co-evolve: help seeking-giving increases friendship formation and existing friendships promote help relationship formation](help-friendship-coevolution-multiplex.md) — related

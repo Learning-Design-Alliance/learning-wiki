@@ -48,3 +48,4 @@ Bayesian random-effects RSiena analysis of 41 classrooms (N = 953 students, thre
 - [Friendship increases the exchange of help, and mutual friendship contributes more than one-sided friendship](friendship-context-for-help.md) — related
 - [Friendships emerged from help-only relations but were primarily one-sided, and mutual friendships rarely arose from help alone](friendships-from-help-primarily-one-sided.md) — related
 - [One-sided help increases friendship initiation, but mutual help does not and may hamper it](help-friendship-initiation.md) — related
+- [Help relationships and friendships co-evolve: help seeking-giving increases friendship formation and existing friendships promote help relationship formation](help-friendship-coevolution-multiplex.md) — related

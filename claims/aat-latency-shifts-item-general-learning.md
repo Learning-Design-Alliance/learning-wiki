@@ -48,3 +48,4 @@ Experiment with 39 participants trained on an alphabet arithmetic task under hig
 - [Strategy-shift discontinuities reflect an intentional decision to adopt a new, consciously available, item-general strategy](strategy-shift-intentional-item-general.md) — possibly the same claim (merge candidate)
 - [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](item-specific-strategy-shift.md) — reports the opposite
 - [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related
+- [Learning in the matrix task is instance-specific: performance slows markedly when new stimuli replace practiced ones](instance-learning-is-stimulus-specific.md) — related

@@ -64,6 +64,7 @@ Expectation communication works primarily through learner self-efficacy: express
 - Equitable Participation Structures — the interactional mechanics through which expectations are transmitted
 - Mastery-Oriented Feedback — feedback framing that supports rather than undermines expressed belief
 - [Manipulate self-efficacy by combining social-comparative feedback with information about the malleability of the ability](social-comparative-feedback-plus-malleability-message.md)
+- [Raise attainment value for low-expectancy students and foster expectancy for low-value students, using task-value activities and messages with caution](task-value-activities-messages-buffer-low-expectancy.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher language practices, including "positive imagining," that make high expectations explicit in daily interaction routines.
