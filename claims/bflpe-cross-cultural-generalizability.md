@@ -54,3 +54,4 @@ Narrative review of BFLPE evidence including the multinational PISA 2000 study o
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — possibly the same claim (merge candidate)
 - [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — a narrower finding that bears on this claim
 - [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — a narrower finding that bears on this claim
+- [Comparison target, sample size, and publication year do not significantly moderate the BFLPE](bflpe-null-moderators-target-samplesize-year.md) — a narrower finding that bears on this claim

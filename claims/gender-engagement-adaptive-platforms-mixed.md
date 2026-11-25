@@ -64,3 +64,4 @@ The review reports, citing an included study, that "girls exhibited higher behav
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](einsteinmobil-student-interest.md) — related
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related
 - [Gender differences in quantum-related interests mirror earlier ROSE findings, with boys more interested in explosive topics and girls in health-related ones](gender-differences-quantum-interests-rose-pattern.md) — related
+- [Male students reported lower engagement at the first wave, with no other gender differences](gender-difference-early-engagement-mathematics.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (64 show a difference, 33 mixed, 16 no difference) · 76 studies (32 causal, 27 associational, 9 quant-synthesis, 5 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 76 report an effect size · 113 claims rest on one study
+> **Evidence** · 114 claims (64 show a difference, 33 mixed, 17 no difference) · 78 studies (32 causal, 29 associational, 9 quant-synthesis, 5 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 78 report an effect size · 113 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -149,6 +149,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [The multiplicative model holds for practiced performance: predicted slowing coefficients still characterize youth-adult RTs after extended practice](../claims/practice-preserves-slowing-coefficient.md) [+M] — learners who differ on it differ in outcomes
 - [The youth-adult slowing coefficient declines nonlinearly with age, well described by an exponential function](../claims/slowing-coefficient-declines-exponentially.md) [+M] — learners who differ on it differ in outcomes
 - [Youths' response times increase linearly as a function of adults' response times in corresponding conditions, supporting a general processing-speed factor](../claims/youth-rt-linear-function-of-adult-rt.md) [+W] — learners who differ on it differ in outcomes
+- [Individual learning parameters do not predict algorithm-based tasks or domain-general control tasks](../claims/no-learning-parameter-prediction-for-algorithm-tasks.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

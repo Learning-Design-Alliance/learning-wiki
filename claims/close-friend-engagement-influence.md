@@ -53,3 +53,4 @@ SAOM analysis of friend networks across two waves found a significant positive a
 - [Chinese adolescents' academic achievement becomes increasingly similar to their friends' achievement over time](friendship-influence-academic-achievement-chinese-adolescents.md) — related
 - [Social influence on academic engagement is strongest when adolescents' engagement is low](influence-strongest-low-engagement.md) — related
 - [The magnitude of social influence on engagement does not differ between close friend and admire networks](equal-influence-friends-admired-peers.md) — related
+- [Friends' academic engagement socially influences adolescents' behavioral and emotional engagement; helpers influence behavioral engagement more clearly than emotional](friend-helper-social-influence-engagement.md) — related

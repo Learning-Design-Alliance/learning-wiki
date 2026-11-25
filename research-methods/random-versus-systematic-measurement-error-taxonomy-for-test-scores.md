@@ -27,4 +27,4 @@ The module organizes sources of score inaccuracy into two classes. Random errors
 -
 
 ## Key Sources
-- Frisbie, D. A. (1988). Reliability of Scores From Teacher-Made Tests. ITEMS Instructional Topics in Educational Measurement, NCME. https://ncme.org
+- Frisbie, D. A. (1988). Reliability of Scores From Teacher-Made Tests. ITEMS Instructional Topics in Educational Measurement, NCME. https://ncme.org. [doi:10.1111/j.1745-3992.1988.tb00422.x](https://doi.org/10.1111/j.1745-3992.1988.tb00422.x)

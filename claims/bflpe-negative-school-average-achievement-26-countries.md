@@ -56,3 +56,4 @@ Cross-cultural analysis of nationally representative samples of 15-year-olds fro
 - [The BFLPE is domain-specific: school-average achievement affects academic self-concept but not global self-esteem or non-academic self-concept](bflpe-domain-specificity-asc.md) — related
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
+- [Class/school average achievement has a significant negative effect on student academic self-concept (BFLPE), pooled β = −0.28](bflpe-pooled-negative-effect-asc.md) — a broader claim this one bears on

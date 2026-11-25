@@ -43,6 +43,7 @@ San Diego State University leaders attribute their gains in Hispanic graduation 
 
 - [Institutionalize equity efforts through organizational leverage, critical mass, and embedded strategic plans](institutionalize-equity-organizational-leverage.md)
 - [Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students](intentional-data-driven-institutional-action.md)
+- [Raise attainment value for low-expectancy students and foster expectancy for low-value students, using task-value activities and messages with caution](task-value-activities-messages-buffer-low-expectancy.md)
 
 ## Examples
 -

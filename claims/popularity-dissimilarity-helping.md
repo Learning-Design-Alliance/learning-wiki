@@ -67,3 +67,4 @@ Selection table for popularity: low-popular adolescents favored low-popular help
 - [Depressed adolescents gave help less often and were avoided as helpers by low-depressed peers](depressed-adolescents-less-help-given.md) — related
 - [Boys are less often nominated as helpers than girls, and adolescents prefer same-gender helpers](boys-less-often-nominated-helpers.md) — related
 - [Peer-rejected adolescents received help more often but gave help less often and did not help low-rejected peers](rejected-adolescents-help-asymmetry.md) — related
+- [Behaviorally and emotionally engaged adolescents are more often nominated as helpers, but academically engaged adolescents receive fewer friendship nominations](engaged-adolescents-nominated-helpers-not-friends.md) — related

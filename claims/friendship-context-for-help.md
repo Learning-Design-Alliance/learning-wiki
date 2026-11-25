@@ -69,3 +69,4 @@ Same RSiena analysis. The article reports a "positive effect of mutual versus on
 - [Friendships emerged from help-only relations but were primarily one-sided, and mutual friendships rarely arose from help alone](friendships-from-help-primarily-one-sided.md) — related
 - [Adolescent friendship and help networks only partly overlap and have distinct characteristics](friendship-help-networks-partial-overlap.md) — related
 - [Friendship and help networks show comparable structural dynamics: selectivity, reciprocity, transitivity, and same-sex nomination](friendship-help-structural-dynamics.md) — related
+- [Help relationships and friendships co-evolve: help seeking-giving increases friendship formation and existing friendships promote help relationship formation](help-friendship-coevolution-multiplex.md) — related

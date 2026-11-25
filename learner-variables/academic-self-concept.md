@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (151 show a difference, 47 mixed, 17 no difference) · 116 studies (59 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 116 report an effect size · 212 claims rest on one study
+> **Evidence** · 218 claims (152 show a difference, 49 mixed, 17 no difference) · 117 studies (59 associational, 32 causal, 12 review, 7 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 31 of 117 report an effect size · 215 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -250,6 +250,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Contrary to expectations, competence self-concepts were more highly related to self-perceptions of effort than affective self-concepts in this elementary sample](../claims/competence-self-concepts-more-related-to-effort-than-affective.md) [+W] — learners who differ on it differ in outcomes
 - [Self-reported grades positively predict academic self-concepts of corresponding domains in fourth graders, with no negative cross-domain achievement effects](../claims/no-cross-domain-achievement-effects-elementary-self-concepts.md) [+W] — measured as an outcome of the instruction studied
 - [Biology achievement's cross-domain effects in Study 1 were non-significant for German and English self-concept but significantly negative for second foreign language self-concept, questioning biology's classification as math/science-like](../claims/biology-achievement-near-domain-effects-mixed.md) [~M] — measured as an outcome of the instruction studied
+- [Class/school average achievement has a significant negative effect on student academic self-concept (BFLPE), pooled β = −0.28](../claims/bflpe-pooled-negative-effect-asc.md) [+M] — measured as an outcome of the instruction studied
+- [Student age significantly moderates the BFLPE, which is strongest in high school (β = −0.32) and weakest in primary school (β = −0.21)](../claims/bflpe-moderated-by-student-age.md) [~M] — measured as an outcome of the instruction studied
+- [Student location significantly moderates the BFLPE, which is strongest in Asia (β = −0.35) and weakest in North America (β = −0.20)](../claims/bflpe-moderated-by-student-location.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

@@ -73,3 +73,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [Class-level average school performance shows no significant association with students' life satisfaction, independent of individual performance (no BFLPE for life satisfaction)](no-bflpe-class-average-performance-life-satisfaction.md) — a narrower finding that bears on this claim
 - [Prior longitudinal and cross-cultural studies support the BFLPE's temporal development and generalizability](bflpe-longitudinal-cross-cultural-prior-evidence.md) — related
 - [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — possibly the same claim (merge candidate)
+- [Comparison target, sample size, and publication year do not significantly moderate the BFLPE](bflpe-null-moderators-target-samplesize-year.md) — related

@@ -50,3 +50,6 @@ RSiena structural effects for both networks (Table 5). The article reports negat
 - [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
 - [Lower academic achievers received help more often, particularly from higher-achieving peers](low-achievers-received-more-help.md) — related
+- [Adolescents select friends and helpers similar to themselves in behavioral academic engagement; emotional-engagement similarity plays a weaker role](behavioral-engagement-similarity-selection.md) — related
+- [Behaviorally and emotionally engaged adolescents are more often nominated as helpers, but academically engaged adolescents receive fewer friendship nominations](engaged-adolescents-nominated-helpers-not-friends.md) — related
+- [Friend networks are denser and more transitive than help networks, while help nominations concentrate on a few individuals](friend-help-network-structural-differences.md) — related

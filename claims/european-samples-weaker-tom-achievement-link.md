@@ -60,3 +60,4 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related
 - [Neither geographical location nor assessment timing moderated the comparative effectiveness of GAI-based teaching on knowledge scores](gai-knowledge-no-location-timing-moderation.md) — related
 - [Teachers' trust in AI-EdTech differs geographically: higher in Brazilian, Israeli and Japanese samples than in Norwegian, Swedish and American samples](geographic-differences-teacher-trust-ai-edtech.md) — related
+- [Student location significantly moderates the BFLPE, which is strongest in Asia (β = −0.35) and weakest in North America (β = −0.20)](bflpe-moderated-by-student-location.md) — related

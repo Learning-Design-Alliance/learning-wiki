@@ -61,3 +61,4 @@ Doubly-latent multilevel SEM analysis of ELS:2002 data (N = 16,197 students, 751
 - [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related
 - [School-level academic achievement does not mediate the association between school-level parental education and school-level academic self-concept](school-achievement-not-mediator-school-asc.md) — related
 - [School-average achievement negatively affects academic self-concept (the BFLPE) in all 26 countries studied](bflpe-negative-school-average-achievement-26-countries.md) — related
+- [Class/school average achievement has a significant negative effect on student academic self-concept (BFLPE), pooled β = −0.28](bflpe-pooled-negative-effect-asc.md) — a broader claim this one bears on

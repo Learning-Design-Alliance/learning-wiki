@@ -318,6 +318,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Design peer mindset interventions that leverage adolescents' need for belonging and status, including high-status peer models](../strategies/leverage-belonging-status-peer-mindset-interventions.md)
 - [Communicate course structure and expectations early to support students' self-efficacy at course start](../strategies/early-structure-communication-supports-self-efficacy.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](../strategies/equity-inclusion-interventions-introductory-physics.md)
+- [Raise attainment value for low-expectancy students and foster expectancy for low-value students, using task-value activities and messages with caution](../strategies/task-value-activities-messages-buffer-low-expectancy.md)
 
 ### Illustrative
 

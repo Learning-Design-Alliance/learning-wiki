@@ -67,3 +67,4 @@ Same RSiena analysis. The article reports a "negative effect of mutual help vers
 - [Friendship increases the exchange of help, and mutual friendship contributes more than one-sided friendship](friendship-context-for-help.md) — related
 - [Friendships emerged from help-only relations but were primarily one-sided, and mutual friendships rarely arose from help alone](friendships-from-help-primarily-one-sided.md) — related
 - [Mutual help contributes more strongly to the maintenance of adolescent friendship than one-sided help](mutual-help-friendship-maintenance.md) — related
+- [Help relationships and friendships co-evolve: help seeking-giving increases friendship formation and existing friendships promote help relationship formation](help-friendship-coevolution-multiplex.md) — related
