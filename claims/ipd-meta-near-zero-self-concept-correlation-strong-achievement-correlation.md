@@ -77,3 +77,4 @@ Study 1 preliminary correlational analysis (N = 1,508). Achievement correlations
 - [Mathematics and L1 achievements correlate strongly positively while mathematics and L1 self-concepts correlate near zero](achievement-high-self-concept-low-correlations.md) — related
 - [Math and verbal achievements correlate strongly (r = .67) while math and verbal self-concepts are near zero (r = .10)](ie-model-achievement-self-concept-correlation-contrast.md) — possibly the same claim (merge candidate)
 - [Self-concept relations align with a verbal–mathematical continuum ordering the sciences from physics (most mathematical) to chemistry to biology (most verbal)](verbal-mathematical-continuum-science-order.md) — a narrower finding that bears on this claim
+- [Math and German self-concepts correlate moderately to strongly in early elementary school, indicating undifferentiated ability self-concepts](undifferentiated-self-concepts-early-elementary.md) — reports the opposite

@@ -53,3 +53,4 @@ GEE analysis of video-coded monitoring interactions from 19 groups of three (N =
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md) — related
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
 - [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — a broader claim this one bears on
+- [The approach/avoidance valence dimension shows no effects on information giving or information utilization](no-valence-dimension-effects-information-exchange.md) — related

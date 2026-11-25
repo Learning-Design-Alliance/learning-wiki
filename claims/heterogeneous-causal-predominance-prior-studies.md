@@ -58,3 +58,4 @@ Narrative review (Table 1) of prior longitudinal SEM studies (e.g., Byrne 1986; 
 - [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](pretraining-mindset-predicts-posttraining-math.md) — related
 - [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
 - [Individual students' error counts varied from pretraining to posttraining, with 12 students making more errors after training than before](individual-variability-training-response.md) — related
+- [Longitudinal dimensional comparison effects on elementary school students' ability self-concepts do not occur from Grades 2 to 4](no-longitudinal-dimensional-effects-elementary.md) — related

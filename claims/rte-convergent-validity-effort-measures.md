@@ -50,3 +50,4 @@ Convergent validity analysis correlating RTE scores with the Reported Effort sub
 - [RTE scores show near-zero correlations with academic ability measures, supporting discriminant validity](rte-discriminant-validity-sat.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
 - [Examinees grouped by RTE level differ markedly in test performance, with the lowest and highest effort groups differing by more than two standard deviations](rte-groups-test-performance-difference.md) — related
+- [No motivational measure significantly predicted math test scores, though teacher-rated effort showed a near-significant positive trend](motivation-no-effect-math-test-scores.md) — related

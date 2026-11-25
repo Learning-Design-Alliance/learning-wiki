@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 164 claims (75 for, 79 mixed, 10 against) · 88 studies (47 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 28 of 88 report an effect size · 156 claims rest on one study
+> **Evidence** · 168 claims (77 for, 81 mixed, 10 against) · 89 studies (48 causal, 16 review, 10 quant-synthesis, 6 associational, 6 theoretical, 3 qualitative), `q1`–`q4` · 29 of 89 report an effect size · 160 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,10 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - Expanding retrieval practice intervals yield significantly greater recall than steady intervals, and retrieval practice doubles performance over no-retrieval controls [+W] — attached 2026-11-10 from Augustin Marc (2014), which proposed "When learning factual knowledge, students should test themselves, actively recall information, and retest at expanding time intervals"; tests this page's relationship.
 - [In 5th graders, both prequestions and postquestions yield greater delayed cued recall and multiple choice performance than restudy](../claims/prequestions-postquestions-beat-restudy-children-exp1.md) [+W] — attached 2026-11-23 from Lima et al. (2020), which proposed "Use retrieval-practice questions (pre- or postquestions) instead of restudy to boost children's delayed retention of text material"; tests this page's relationship.
 - [Postquestions produce better delayed cued recall than prequestions in children, in both experiments](../claims/postquestions-beat-prequestions-cued-recall-children.md) [+W] — attached 2026-11-23 from Lima et al. (2020), which proposed "Use retrieval-practice questions (pre- or postquestions) instead of restudy to boost children's delayed retention of text material".
+- [Initial retrieval practice format (short-answer, multiple-choice, hybrid-massed, hybrid-spaced) produced little or no difference in delayed meaningful learning in Experiments 1 and 2 and in a combined analysis](../claims/no-format-effect-experiments-1-2.md) [~W] — attached 2026-11-25 from Megan A. Smith et al. (2014), which proposed "Design retrieval practice so that retrieval is successful; greater retrieval difficulty does not by itself produce better learning".
+- [Retrieval during short-answer questions is more difficult (slower response times) than during multiple-choice questions, yet difficulty did not predict greater delayed retention](../claims/short-answer-more-difficult-by-response-time.md) [~M] — attached 2026-11-25 from Megan A. Smith et al. (2014), which proposed "Design retrieval practice so that retrieval is successful; greater retrieval difficulty does not by itself produce better learning".
+- [In Experiment 3, restudy plus a second retrieval attempt increased short-answer retrieval success, and final performance showed a format × question type interaction in which multiple-choice outperformed short-answer on inference questions](../claims/exp3-restudy-interaction-inference.md) [+M] — attached 2026-11-25 from Megan A. Smith et al. (2014), which proposed "Design retrieval practice so that retrieval is successful; greater retrieval difficulty does not by itself produce better learning"; tests this page's relationship.
+- [In Experiment 4, piloted question selection and shorter texts narrowed but did not eliminate the initial retrieval success gap between multiple-choice and short-answer formats](../claims/exp4-pilot-equated-initial-success.md) [+M] — attached 2026-11-25 from Megan A. Smith et al. (2014), which proposed "Design retrieval practice so that retrieval is successful; greater retrieval difficulty does not by itself produce better learning".
 
 ## Objective and learner-valued goal
 

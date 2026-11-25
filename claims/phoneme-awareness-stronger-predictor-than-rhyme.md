@@ -147,3 +147,4 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Gains from nursery rhyme training were greatest in rhyme awareness and least in beginning sound awareness](rhyme-awareness-gains-exceed-beginning-sound-gains.md) — related
 - [Reading and writing measures show moderate correlations, with stronger overlap in lower-level processes than higher-level processes](reading-writing-overlap-lower-level-processes.md) — related
 - [Phoneme Segmentation Fluency added little to predicting end-of-year Word Reading Fluency: non-significant in the multiple regressions, with one grade 1 mid-year hierarchical model at p = .032](psf-limited-predictive-value-wrf.md) — related
+- [Phoneme awareness at post-test predicted spelling and reading comprehension one year later, and reading comprehension at post-test predicted later spelling](crosslagged-phoneme-awareness-predicts-literacy.md) — related

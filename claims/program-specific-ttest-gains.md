@@ -70,3 +70,4 @@ Results section reports "The RAVE-O showed significant gains for both Sight Word
 - [Students with LD made statistically significant gains in oral reading fluency on off-grade-level passages but no significant gains on word reading or comprehension standard scores](resource-room-orf-gains-only-off-grade-level.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [RAVE instruction did not produce significant gains on a text comprehension recall task in Year 1](rave-no-text-recall-effect-year1.md) — related
+- [The study's gains are comparable to efficient intervention studies, at 0.38 standard scores gain per hour of intervention in reading comprehension](reading-comprehension-gain-per-hour-benchmark.md) — related

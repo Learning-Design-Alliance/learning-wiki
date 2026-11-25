@@ -51,3 +51,4 @@ In the same mathematics CLPM, "Conduct problems at T1 and T2 negatively predicte
 - [Negative risk-taking behaviors adversely predict subsequent academic engagement and academic achievement, forming bidirectional deteriorating cycles](negative-risk-taking-adverse-bidirectional-cycles-academic-development.md) — related
 - [Externalizing problems predict lower Math and Science grades but not English grades](externalizing-math-science-not-english.md) — related
 - [Low academic achievement with external attribution tendency positively moderates the effect of negative life events on externalizing problem behaviors](low-achievement-external-attribution-moderates-externalizing.md) — related
+- [Behavioral engagement does not significantly predict later reading achievement across elementary school](engagement-does-not-predict-later-reading.md) — related

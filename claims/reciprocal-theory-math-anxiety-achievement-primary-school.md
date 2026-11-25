@@ -58,3 +58,4 @@ Longitudinal analysis of 337 Polish primary school children assessed at three ti
 - [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related
 - [Students' content-area anxiety is stable across the year, with within- and cross-content-area positive correlations](student-anxiety-stability-correlations.md) — related
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
+- [Teacher-rated effort has a reciprocal relationship with children's math grades across the primary years](teacher-rated-effort-reciprocal-math-grades.md) — related

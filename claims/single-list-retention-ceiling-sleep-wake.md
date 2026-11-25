@@ -49,3 +49,4 @@ Experiment 1 supplementary control: sleep–single list and wake–single list g
 - [With weak encoding and no retroactive interference (A-B, C-D), sleep enhanced retention of both lists to a similar extent; with intense encoding, no sleep benefit appeared for either list](sleep-benefit-weak-encoding-ab-cd.md) — related
 - [A Sleep versus Wake × Learning Intensity interaction confirms sleep-associated retention improvement is confined to weakly encoded associations](sleep-by-encoding-intensity-interaction.md) — related
 - [Sleep after learning enhances retention of 2D object locations in both children and adults](sleep-enhances-object-location-retention-children-adults.md) — related
+- [Retention of word pairs across sleep correlates positively with the percentage of NonREM sleep and negatively with the percentage of REM sleep](nonrem-positive-rem-negative-retention-correlations.md) — related

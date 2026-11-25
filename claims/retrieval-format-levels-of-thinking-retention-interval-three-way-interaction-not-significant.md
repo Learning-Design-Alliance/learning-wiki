@@ -56,3 +56,4 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
 - [Co-occurring motivational and comprehension-related problems did not produce the hypothesized highest combined strategy frequencies](simultaneous-problems-three-way-interaction-not-significant.md) — related
 - [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related
+- [Initial retrieval practice format (short-answer, multiple-choice, hybrid-massed, hybrid-spaced) produced little or no difference in delayed meaningful learning in Experiments 1 and 2 and in a combined analysis](no-format-effect-experiments-1-2.md) — related

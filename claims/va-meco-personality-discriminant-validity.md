@@ -56,3 +56,4 @@ Correlational analysis in the N = 395 survey using the BFI-K. The article report
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — related
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — related
 - [RTE scores show near-zero correlations with academic ability measures, supporting discriminant validity](rte-discriminant-validity-sat.md) — related
+- [PALS sub-scales show divergent validity, with only small correlations among a few scales](pals-divergent-validity-small-correlations.md) — related

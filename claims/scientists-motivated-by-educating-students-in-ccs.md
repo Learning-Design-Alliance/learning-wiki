@@ -49,3 +49,4 @@ The commentary reports, citing Atias et al. (this issue), a study of nine teache
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related
 - [Requiring students to participate in citizen science as mandatory coursework is coercive and wrong on both Kantian and utilitarian grounds](mandatory-classroom-citizen-science-coercive.md) — related
+- [Information allegedly from a practitioner elicits moderately higher topic-specific multiplism than information from experts or scientists](practitioner-source-higher-multiplism.md) — related

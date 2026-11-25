@@ -51,6 +51,7 @@ The TROR treatment had students read each passage silently under time pressure, 
 ## Related Strategies
 
 - [Reading Fluency Practice](reading-fluency-practice.md)
+- [Repeated reading with individualized text sets and progress graphs for fluency training](repeated-reading-progress-graphs-fluency.md)
 
 ## Examples
 -

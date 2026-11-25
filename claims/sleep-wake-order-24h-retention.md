@@ -53,3 +53,6 @@ Between-group comparison of the two 24-h conditions in the same four-group exper
 - [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](sleep-no-next-day-protection.md) — reports the opposite
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — related
 - [Time spent awake between encoding and sleep significantly reduces the beneficial effect of sleep on retention](wake-delay-reduces-sleep-benefit.md) — related
+- [The recall gain after sleep was significantly larger when sleep immediately followed learning than when it followed a day of wakefulness](immediate-sleep-larger-retention-gain-than-delayed-sleep.md) — related
+- [In the Sleep-Wake condition, children's recall increased significantly after the post-learning sleep interval but showed no further increase after the subsequent wake interval](sleep-wake-condition-recall-gain-after-sleep-only.md) — related
+- [In the Wake-Sleep condition, recall did not increase significantly over the wake interval but rose significantly after the subsequent sleep interval](wake-sleep-condition-recall-gain-after-delayed-sleep.md) — related

@@ -57,3 +57,4 @@ SEM Models C2–C4 with the second-order bi-factor value structure. Attainment v
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
 - [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](self-concept-and-value-equal-predictors-teacher-engagement.md) — related
 - [Students perceiving high task value exert greater effort and achieve more than students perceiving low value](high-task-value-effort-achievement.md) — related
+- [No motivational measure significantly predicted math test scores, though teacher-rated effort showed a near-significant positive trend](motivation-no-effect-math-test-scores.md) — reports the opposite

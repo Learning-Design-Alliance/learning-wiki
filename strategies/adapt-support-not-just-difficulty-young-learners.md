@@ -44,6 +44,7 @@ Drawing on their null findings, the authors recommend that "future adaptive syst
 
 - [Balance on- and off-computer mathematics activities in early childhood classrooms](balance-on-and-off-computer-math-activities.md)
 - [Use visual highlighting, parent guidance, and modeling scaffolding to mitigate young learners' difficulties in AI tutoring sessions](singakids-mitigation-strategies-young-learners.md)
+- [Apply a developmental perspective when investigating or designing around ability self-concept formation in young learners](developmental-perspective-self-concept-formation.md)
 
 ## Examples
 -

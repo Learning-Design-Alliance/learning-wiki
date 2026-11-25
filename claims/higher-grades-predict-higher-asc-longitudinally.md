@@ -55,3 +55,4 @@ Same longitudinal mixed-effects model of 39 adolescents' ASC across T1 and T2 wi
 - [Reduced precuneus activity during friends-evaluations combined with better academic achievement predicts higher ASC at T2](precuneus-friends-activity-grade-interaction-asc.md) — related
 - [From Grade 9 to Grade 11, self-enhancement increased on average while self-concept and achievement decreased](grade9-11-trends-enhancement-up-concept-achievement-down.md) — related
 - [Neural activity during self- and other-evaluations did not significantly change over 1.5 years, and no vmPFC-ASC association emerged](no-longitudinal-change-self-other-neural-activity.md) — related
+- [Self-enhancement effects (self-concept → same-domain grades) emerge by mid-Grade 3 in math and earlier in German](self-enhancement-effects-timing-elementary.md) — related

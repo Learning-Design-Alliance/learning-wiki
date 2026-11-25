@@ -65,3 +65,4 @@ Correlations only, and the authors expect the relationship to run both ways: ach
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
 - [Teacher caring behavior correlates positively with enjoyment and English performance, and negatively with anxiety and boredom](tcb-emotion-performance-correlations.md) — related
 - [Personality, motivation and emotion shape learning outcomes as strongly as cognitive ability, yet are ignored in AI-in-education design](engagement-dimensions-shape-learning-as-strongly-as-cognition.md) — a broader claim this one bears on
+- [Math anxiety is negatively related to math achievement in both grade five and grade eight students](math-anxiety-negatively-related-math-achievement-grades-5-8.md) — related

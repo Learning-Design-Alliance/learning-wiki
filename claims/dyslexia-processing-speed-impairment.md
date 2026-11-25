@@ -52,3 +52,4 @@ Case-control ANOVA on the computerized coding task (Wechsler, 2003), scored as t
 - [Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed](phoneme-gng-picture-2back-null-after-speed-control.md) — related
 - [Processing speed is the most impaired Wechsler cognitive domain among youth referred for neuropsychiatric evaluation](ps-lowest-wechsler-index-referred-youth.md) — related
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
+- [Youths' response times increase linearly as a function of adults' response times in corresponding conditions, supporting a general processing-speed factor](youth-rt-linear-function-of-adult-rt.md) — related

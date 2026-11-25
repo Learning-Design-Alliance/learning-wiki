@@ -53,3 +53,4 @@ Inter-correlation in the pooled sample, consistent with prior college-student fi
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md) — related
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](implicit-theories-predict-achievement-goals-math.md) — related
+- [Children's self-reported goal orientations did not prospectively predict teacher-rated effort investments](goal-orientations-no-prospective-effort-effect.md) — related

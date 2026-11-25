@@ -54,3 +54,4 @@ Random-effects meta-analysis of 31 studies with standardized language/comprehens
 - [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — related
 - [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — related
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
+- [The study's gains are comparable to efficient intervention studies, at 0.38 standard scores gain per hour of intervention in reading comprehension](reading-comprehension-gain-per-hour-benchmark.md) — related

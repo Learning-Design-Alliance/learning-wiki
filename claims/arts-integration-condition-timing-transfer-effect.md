@@ -51,3 +51,4 @@ Mariale M. Hardiman, Ranjini Mahinda JohnBull, Deborah Carran. (2017). The Effec
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](retention-self-derived-knowledge-one-week.md) — related
 - [Neither unit pair nor its interaction with instructional method significantly affected retention of science content](unit-pairs-no-retention-effect.md) — related
 - [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related
+- [Learning performance did not differ between evening and morning learning sessions, and there were no order effects of the counterbalanced conditions](no-order-effect-equal-learning-evening-morning.md) — related

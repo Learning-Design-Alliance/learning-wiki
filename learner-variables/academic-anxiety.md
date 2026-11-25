@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 350 claims (229 show a difference, 65 mixed, 56 no difference) · 222 studies (83 associational, 74 causal, 29 review, 11 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 56 of 222 report an effect size · 341 claims rest on one study
+> **Evidence** · 354 claims (232 show a difference, 65 mixed, 57 no difference) · 223 studies (84 associational, 74 causal, 29 review, 11 quant-synthesis, 9 design, 8 qualitative, 8 theoretical), `q1`–`q4` · 56 of 223 report an effect size · 345 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -386,6 +386,10 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Improvements in self-management skills correlate with test-anxiety reduction, and change-motivation gains correlate with exam results](../claims/olp-gains-correlate-anxiety-exam.md) [+M] — measured as an outcome of the instruction studied
 - [Open-label placebos reduce test anxiety in university students more than a no-treatment control group over two weeks before an exam](../claims/olp-reduce-test-anxiety-rct.md) [+M] — measured as an outcome of the instruction studied
 - [Youth in both school-nurse-delivered conditions showed statistically significant improvements over time in anxiety severity, somatic symptoms, maladaptive thoughts, and avoidant behavior](../claims/school-nurse-calm-within-group-anxiety-improvement.md) [+M] — measured as an outcome of the instruction studied
+- [Attainment value and utility value do not mediate the relationship between math anxiety and math achievement in either grade](../claims/attainment-utility-value-no-mediation.md) [-W] — learners who differ on it differ in outcomes
+- [Effort cost mediates the relationship between math anxiety and math achievement in both grades, with anxiety increasing perceived effort cost](../claims/effort-cost-mediation-math-anxiety-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Interest value mediates the relationship between math anxiety and math achievement in both grades](../claims/interest-value-mediation-math-anxiety-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Math anxiety is negatively related to math achievement in both grade five and grade eight students](../claims/math-anxiety-negatively-related-math-achievement-grades-5-8.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

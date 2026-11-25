@@ -118,3 +118,5 @@ The chapter reports Eglington and Kang (2016), who reused Tran et al.'s material
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
 - [The numerical problem format correlated more weakly with final exam score (r = 0.430) than the fill-in-the-blank format (r = 0.830)](numerical-problem-weakest-final-exam-correlation.md) — related
+- [In Experiment 3, restudy plus a second retrieval attempt increased short-answer retrieval success, and final performance showed a format × question type interaction in which multiple-choice outperformed short-answer on inference questions](exp3-restudy-interaction-inference.md) — related
+- [Practising retrieval in any question format enhances 1-week retention on both verbatim and inference questions relative to a no-retrieval study-only control](retrieval-practice-all-formats-enhance-retention.md) — related

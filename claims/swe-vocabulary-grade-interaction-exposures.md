@@ -52,3 +52,4 @@ Model 2 interaction analysis (SWE × vocabulary grade significant, coefficient �
 - [Initial word reading skill was the only significant child-level predictor of exposures required for mastery](initial-word-reading-skill-only-child-predictor.md) — related
 - [Word length, vocabulary grade, and imageability significantly predicted the number of exposures required for sight word mastery](word-features-predict-exposures-to-mastery.md) — a broader claim this one bears on
 - [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](swe-imageability-interaction-exposures.md) — related
+- [Students with the lowest initial word decoding skills benefited most from the intervention (significant interaction of group assignment and initial decoding)](lowest-decoders-benefited-most-interaction.md) — related

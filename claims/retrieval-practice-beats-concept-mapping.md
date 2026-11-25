@@ -49,3 +49,4 @@ The review reports, citing Karpicke and Blunt (2011), an experiment in which und
 - [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
+- [Final-assessment performance was higher on verbatim questions than on inference questions across experiments](verbatim-outperform-inference-questions.md) — related

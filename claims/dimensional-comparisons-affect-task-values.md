@@ -83,3 +83,5 @@ The review's summary of studies including mediation findings (Gniewosz et al., 2
 - [Academic self-concept mediates within-domain and most cross-domain achievement–intrinsic value relations, with most within-domain relations fully mediated](self-concept-mediation-achievement-intrinsic-value.md) — a narrower finding that bears on this claim
 - [Visual arts achievement is positively related to German intrinsic value (assimilation), and this relation is not mediated through self-concept](visual-arts-achievement-german-intrinsic-value-assimilation-unmediated.md) — related
 - [Achievement in mathematics and German shows positive within-domain effects and smaller negative marginal cross-domain effects on academic self-concept](ie-replication-contrast-math-german.md) — related
+- [Cross-sectional dimensional effects of math grades on German self-concepts exist, but not of German grades on math self-concepts](cross-sectional-dimensional-effects-asymmetric.md) — related
+- [Achievement gains in one subject raise self-concept in the same subject but usually do not affect self-concept in another subject](temporal-comparisons-no-cross-subject-side-effects.md) — related

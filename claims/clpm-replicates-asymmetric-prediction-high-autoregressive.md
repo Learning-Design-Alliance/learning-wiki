@@ -49,3 +49,4 @@ CLPM fitted to the same ECLS-K:2011 K-3 sample (N=9,612). The model shows "highe
 - [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [Reading and mathematics achievement correlate at about .72-.74 across K-3 waves, and dyslexia-dyscalculia comorbidity (~4%) far exceeds the independence expectation](reading-math-high-correlation-and-comorbidity.md) — related
+- [Reading achievement in preschool and third grade positively predicts later behavioral engagement in first and fifth grade](reading-predicts-later-behavioral-engagement.md) — related

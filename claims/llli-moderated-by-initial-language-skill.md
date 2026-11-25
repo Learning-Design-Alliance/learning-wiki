@@ -54,3 +54,4 @@ Moderator analyses in the HLM models (Table 5) added a Language × Treatment int
 - [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](llli-no-main-effect-kindergarten-outcomes.md) — related
 - [Initial preschool language skill did not moderate the LLLI intervention effect on kindergarten expressive vocabulary](no-moderation-expressive-vocabulary.md) — related
 - [Intervention effects on WJIII passage comprehension were moderated by pretest: only students starting at or above the 60th percentile benefited](pretest-moderation-wjiii-passage-comprehension.md) — related
+- [Students with the lowest initial word decoding skills benefited most from the intervention (significant interaction of group assignment and initial decoding)](lowest-decoders-benefited-most-interaction.md) — related

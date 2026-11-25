@@ -54,3 +54,4 @@ Reciprocal effects models for learning-related boredom and anxiety with grades s
 - [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](anxiety-negative-predicts-math-performance-primary.md) — a narrower finding that bears on this claim
 - [Grades and positive affect show significant positive reciprocal within-person effects, and grades and negative affect show significant negative reciprocal effects](grades-affect-tripartite-reciprocal.md) — a broader claim this one bears on
 - [Enjoyment and math grades are linked by positive reciprocal effects over time](enjoyment-grades-positive-reciprocal-effects.md) — related
+- [Teacher-rated effort has a reciprocal relationship with children's math grades across the primary years](teacher-rated-effort-reciprocal-math-grades.md) — related

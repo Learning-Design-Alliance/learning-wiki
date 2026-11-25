@@ -59,3 +59,4 @@ Reported result of the model taxonomy applied to the PALMA data (five annual wav
 - [Individual mathematics achievement is positively associated with students' ASC development over the school year](individual-achievement-positive-asc-change.md) — related
 - [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
 - [Higher academic achievement predicts higher academic self-concept over time](higher-grades-predict-higher-asc-longitudinally.md) — related
+- [Positive reciprocal relations exist between math and German grades but not between math and German self-concepts at cross-lags](positive-grade-reciprocal-relations-no-self-concept-reciprocity.md) — related

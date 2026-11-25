@@ -55,3 +55,4 @@ Narrative review principle attributed to Klingberg et al. (2005) and framed as c
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — related
 - [Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys](taekwondo-greater-ef-gains-than-pe.md) — related
 - [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related
+- [Perseverance, the time a learner is willing to spend actively learning, limits degree of learning when less than time needed](perseverance-time-willing-to-learn-limits.md) — related

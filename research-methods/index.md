@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1514 entries** · 0 stable · 1514 in review · 0 drafts
+**1515 entries** · 0 stable · 1515 in review · 0 drafts
 
 ---
 
@@ -245,6 +245,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Controlled asymptotic practice-curve method for transfer experiments](controlled-asymptotic-practice-curve-method-for-transfer-experiments.md) - The article argues that earlier transfer studies were unconvincing because training was too short and controls were missing.
 * [Cook, Bordage and Schmidt's description–justification–clarification typology](cook-bordage-and-schmidts-descriptionjustificationclarification-typology.md) - The review adopts Cook, Bordage and Schmidt's threefold classification of research purposes: \"description (what was carried out), justification (does it work), and finally, clarification (how does it work)\".
 * [Cooperative game theory with Shapley values as an engine for analyzing collaborative learning interactions](cooperative-game-theory-with-shapley-values-as-an-engine-for-analyzing-collaborative-learn.md) - The article establishes its model on cooperative game theory, in which \"a group of players form a coalition and a set of payoffs for each member in the coalition.\" The Shapley value is presented as \"a fair and efficient distribution of payoffs among members of a coalition,\" prescribing each player t
+* [Coordinated integrative data analysis (IDA)](coordinated-integrative-data-analysis-ida.md) - The article assembles a coordinated integrative data analysis (IDA): rather than pooling raw data, it estimates the same STARTS model separately on published covariance matrices from 11 longitudinal studies and pools parameter estimates meta-analytically.
 * [Coordination-based evolutionary game-theoretic framework of student AI use in assessment](coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment.md) - The framework models student generative-AI use in assessment as a two-player symmetric coordination game in a well-mixed finite population, in which the institution is not a strategic player but shapes payoffs through assessment design.
 * [CORDFU chart for two-dimensional collaboration documentation](cordfu-chart-for-two-dimensional-collaboration-documentation.md) - The Chronologically Ordered Dialogue & Features Used (CORDFU) chart is the development of the original annotated user log from the Ecolab evaluation for group use of multimedia.
 * [CORDTRA diagrams for visually representing the chronology of tool use and discourse in collaborative learning analysis](cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col.md) - CORDTRA stands for Chronologically-ordered Representations of Discourse and Tool-Related Activity.

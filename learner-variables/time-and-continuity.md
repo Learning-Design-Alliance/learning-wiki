@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 289 claims (184 show a difference, 68 mixed, 37 no difference) · 248 studies (116 causal, 63 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 4 theoretical), `q1`–`q4` · 45 of 248 report an effect size · 285 claims rest on one study
+> **Evidence** · 292 claims (187 show a difference, 68 mixed, 37 no difference) · 249 studies (116 causal, 63 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 5 theoretical), `q1`–`q4` · 45 of 249 report an effect size · 288 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -346,6 +346,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Summer loss is not uniform across subjects: math computation and spelling show consistent losses while math reasoning and reading comprehension do not](../claims/summer-loss-subject-differences-vote-count.md) [~M] — learners who differ on it differ in outcomes
 - [In short-time-span studies the perceptual speed ability-consistent task performance relationship follows a significant cubic trend over time, not the predicted inverted-U quadratic](../claims/perceptual-speed-consistent-cubic-short-span.md) [~M] — an instructional effect differs with it
 - [The correlation between cognitive ability and consistent task performance declines over time with significant negative linear and quadratic (concave downward) trends in both short- and long-time-span reanalyses](../claims/cognitive-ability-consistent-task-validity-declines.md) [+M] — an instructional effect differs with it
+- [Poor instructional quality increases time needed, and the handicap is a function of ability to understand instruction](../claims/instruction-quality-handicap-understanding-ability.md) [+W] — measured as an outcome of the instruction studied
+- [Schools often allow less than adequate time for learning tasks](../claims/schools-allow-inadequate-opportunity-time.md) [+W] — measured as an outcome of the instruction studied
+- [Underachievement is reinterpreted as insufficient time spent relative to time needed, from perseverance, instruction quality, or opportunity](../claims/underachievement-reinterpreted-time-ratio.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

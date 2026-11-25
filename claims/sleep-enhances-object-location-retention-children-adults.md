@@ -51,3 +51,4 @@ In the same within-subject home-based experiment with polysomnographic recording
 - [Time spent awake between encoding and sleep significantly reduces the beneficial effect of sleep on retention](wake-delay-reduces-sleep-benefit.md) — a broader claim this one bears on
 - [Retention of a single noninterfering word-pair list was high and did not differ between sleep and wake conditions, suggesting ceiling effects](single-list-retention-ceiling-sleep-wake.md) — related
 - [With weak encoding and no retroactive interference (A-B, C-D), sleep enhanced retention of both lists to a similar extent; with intense encoding, no sleep benefit appeared for either list](sleep-benefit-weak-encoding-ab-cd.md) — related
+- [Children retain significantly more learned word pairs after a retention interval containing sleep than after one containing wakefulness](sleep-interval-enhances-word-pair-retention-children.md) — related

@@ -63,6 +63,7 @@ Comparing multiple sources shifts learners from single-text comprehension to *mu
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — comparing two accounts is a structural alignment task, the same mechanism that powers analogical learning
 - [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 - [Populate VP collections with multiple cases per key symptom to enable comparing and contrasting, and treat the blueprint as a dynamic document](comparing-contrasting-vp-collection-strategy.md)
+- [Provide paired cases of a scientific phenomenon on the same page with a brief explicit prompt to compare them](brief-prompt-to-compare-cases-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the source set is the raw material

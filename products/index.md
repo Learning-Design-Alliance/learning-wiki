@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5842 entries** · 0 stable · 5842 in review · 0 drafts
+**5845 entries** · 0 stable · 5845 in review · 0 drafts
 
 ---
 
@@ -109,6 +109,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction](adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md) - An adapted low-inference ATES classroom-observation instrument developed by Sins et al.
 * [Adapted Behavioural Observation of Students in School (BOSS) classroom behaviour coding scheme](adapted-behavioural-observation-of-students-in-school-boss-classroom-behaviour-coding-sche.md) - A timed classroom-observation coding instrument adapted for foundation-phase learners to quantify active engagement and off-task behaviour.
 * [Adapted Creighton Competency Evaluation Instrument (CCEI) simulation rubric](adapted-creighton-competency-evaluation-instrument-ccei-simulation-rubric.md) - A Ghanaian-context adaptation of the Creighton Competency Evaluation Instrument used by nursing faculty to rate procedural and non-technical competence in high-fidelity simulation.
+* [Adapted epiSTEMe Forces module](adapted-episteme-forces-module.md) - A nine-lesson Forces and Movement curriculum package with teaching notes, student booklets, and presentation slides, adapted from epiSTEMe for the Chilean fourth-grade science context.
 * [Adapted FORTRAN finite-difference code for P-SV wave simulation](adapted-fortran-finite-difference-code-for-p-sv-wave-simulation.md) - A FORTRAN code adaptation for teaching undergraduate physics students numerical simulation of P-SV seismic waves using finite differences and Runge–Kutta time integration.
 * [Adapted four-domain EBM questionnaire (Hasabo et al.)](adapted-four-domain-ebm-questionnaire-hasabo-et-al.md) - A four-domain self-report questionnaire adapted from Hasabo et al.
 * [Adapted Intracorporeal Suturing Assessment Tool (ISAT) scoring sheet](adapted-intracorporeal-suturing-assessment-tool-isat-scoring-sheet.md) - An adapted scoring sheet based on the Intracorporeal Suturing Assessment Tool, used by trained tutors to assess needle handling, needle driving, knot tying, and tissue safety in laparoscopic suturing.
@@ -2918,6 +2919,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Math Mysteries](math-mysteries.md) - A teacher-developed, AI-powered, storytelling-based gamified mathematics learning platform for middle school students, created using Google AI Studio by the Song et al.
 * [Math with Matt](math-with-matt.md) - Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et al.
 * [Math-gender Misconceptions Questionnaire short version (MGMQ-s)](math-gender-misconceptions-questionnaire-short-version-mgmq-s.md) - A short self-report questionnaire developed by Dersch, Thacker, and Eitel that measures in-service and student teachers' empathizing-systemizing and girls' compensation misconceptions using agreement and certainty responses.
+* [Math-specific achievement goal orientation scale for young children](math-specific-achievement-goal-orientation-scale-for-young-children.md) - A three-factor, nine-item self-report questionnaire developed by Mägi et al.
 * [MathBERT](mathbert.md) - MathBERT is a domain-adapted BERT model released by Jia Tracy Shen and colleagues for mathematics-education natural-language-processing tasks such as knowledge-component prediction, automated grading, and knowledge tracing.
 * [Mathbot](mathbot.md) - Mathbot is an AI-based personalized elementary mathematics learning platform developed to adapt instruction and feedback to individual learners while incorporating students' interests into fraction problems.
 * [MathEDU dataset of annotated student problem-solving processes with teacher-written feedback](mathedu-dataset-of-annotated-student-problem-solving-processes-with-teacher-written-feedba.md) - MathEDU is a dataset released by Wei-Ling Hsu et al.
@@ -3675,6 +3677,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Patient Safety Competency Evaluation Scale](patient-safety-competency-evaluation-scale.md) - A 35-item, six-dimension Likert self-report scale developed by Wang et al.
 * [Patient-Provider Interaction Checklist](patient-provider-interaction-checklist.md) - A 20-item binary observational assessment instrument developed by Mai AM et al.
 * [Patient-specific image processing pipeline for simulator model extraction](patient-specific-image-processing-pipeline-for-simulator-model-extraction.md) - A dedicated image-processing tool that combines CT, MRI, and DSA data to rapidly generate annotated, patient-specific 3D models for neurosurgical planning and aneurysm-clipping simulation.
+* [Patterns of Adaptive Learning Scales (PALS)](patterns-of-adaptive-learning-scales-pals.md) - PALS is a Likert-type student and teacher survey instrument developed by Midgley et al.
 * [PAUSE framework](pause-framework.md) - A Vanderbilt University framework that guides recruitment and hiring teams through self-reflection and bias-interruption strategies.
 * [PAX Good Behavior Game](pax-good-behavior-game.md) - PAX Good Behavior Game is a branded classroom behavior-management programme run by PAXIS Institute that uses team-based behavior monitoring, rewards, teacher training, manuals, timers, and parent materials.
 * [PBS KIDS Transmedia Math Supplement](pbs-kids-transmedia-math-supplement.md) - A PBS KIDS early-mathematics curriculum supplement using coordinated videos, digital games, books, and manipulatives, developed for preschool classrooms.

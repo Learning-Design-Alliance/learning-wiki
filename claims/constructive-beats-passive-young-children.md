@@ -56,3 +56,4 @@ The article describes, citing Legare and Lombrozo, a study in which five-year-ol
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a broader claim this one bears on
 - [Through a hands-on activity, students are expected to be able to explain the basic functionality of the shadow board, an old Viking navigational tool.](hands-on-shadow-board-functionality-objective.md) — a narrower finding that bears on this claim
+- [Degree of learning is hypothesized to be a simple function of time actively engaged in learning](degree-learning-function-active-time.md) — related

@@ -49,3 +49,4 @@ Human-supervised evaluation of the validation stage of the text path on 50 Wikip
 - English prompts outperform Italian prompts when generating Italian crossword clues from Italian text — related
 - [Text-based clue generation achieves 79.73% acceptable keywords and 76.70% acceptable clues with English prompts](text-path-clue-generation-accuracy.md) — related
 - Fine-tuned GPT3-DaVinci is the most accurate classifier of acceptable clue-answer pairs at 79.88% — related
+- [Evaluating a score use requires evaluating its consequences; negative consequences can render a use unacceptable](score-use-evaluation-requires-consequences.md) — related

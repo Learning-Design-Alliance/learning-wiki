@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 205 claims (145 show a difference, 44 mixed, 16 no difference) · 111 studies (54 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 111 report an effect size · 202 claims rest on one study
+> **Evidence** · 211 claims (148 show a difference, 46 mixed, 17 no difference) · 114 studies (57 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 114 report an effect size · 208 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -240,6 +240,12 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [High self-concept subjects attribute success internally whereas low self-concept subjects attribute positive outcomes externally (review-reported)](../claims/high-self-concept-internal-success-low-external-attributions.md) [+W] — learners who differ on it differ in outcomes
 - [In the extended I/E model, achievement in chemistry and physics shows small contrast effects on German self-concept and small assimilation effects on mathematics self-concept](../claims/extended-ie-science-contrast-assimilation.md) [~M] — measured as an outcome of the instruction studied
 - [Self-concept relations align with a verbal–mathematical continuum ordering the sciences from physics (most mathematical) to chemistry to biology (most verbal)](../claims/verbal-mathematical-continuum-science-order.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement gains in one subject raise self-concept in the same subject but usually do not affect self-concept in another subject](../claims/temporal-comparisons-no-cross-subject-side-effects.md) [~M] — measured as an outcome of the instruction studied
+- [Achievement–competence self-concept relations are more pronounced than achievement–affect self-concept relations in elementary school](../claims/competence-affect-differential-achievement-relations.md) [+M] — learners who differ on it differ in outcomes
+- [Cross-sectional dimensional effects of math grades on German self-concepts exist, but not of German grades on math self-concepts](../claims/cross-sectional-dimensional-effects-asymmetric.md) [~M] — measured as an outcome of the instruction studied
+- [Longitudinal dimensional comparison effects on elementary school students' ability self-concepts do not occur from Grades 2 to 4](../claims/no-longitudinal-dimensional-effects-elementary.md) [-M] — measured as an outcome of the instruction studied
+- [Self-enhancement effects (self-concept → same-domain grades) emerge by mid-Grade 3 in math and earlier in German](../claims/self-enhancement-effects-timing-elementary.md) [+M] — learners who differ on it differ in outcomes
+- [Skill development effects (grades → same-domain self-concept) are present from Grade 2 in math and Grade 3 onward in German](../claims/skill-development-effects-grades-2-4.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

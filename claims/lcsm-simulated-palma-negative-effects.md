@@ -57,3 +57,4 @@ Latent change score model fitted on the same simulated data (acceptable fit: χ2
 - Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement — reports the opposite
 - [In elementary school, achievement predicts later self-concept of ability but prior self-concept does not significantly predict later achievement when achievement is modeled with both marks and tests integrated](skill-development-model-elementary-helmke-1995.md) — reports the opposite
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
+- [Math achievement influences children's performance-avoidance goal orientation rather than vice versa in the primary grades](achievement-drives-performance-avoidance-primary-math.md) — related

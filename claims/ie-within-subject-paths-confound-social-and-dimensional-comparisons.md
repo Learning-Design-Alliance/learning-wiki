@@ -52,3 +52,6 @@ Analytical argument (with an algebraic rearrangement of the I/E regression equat
 - [Structural assessment measures domain understanding differently from verbal assessment](structural-assessment-differs-from-verbal-assessment.md) — related
 - [Achievement levels have strongly positive effects on self-concepts within subjects and negative effects between subjects](achievement-levels-within-positive-between-negative-self-concept.md) — related
 - [Achievement in a subject has strong positive paths to self-concept in the same subject (social comparison effects) in the classic I/E model meta-analysis](social-comparison-paths-corresponding-self-concept.md) — related
+- [Across six studies with more than 20,000 students, the 2I/E model showed strong positive social comparison paths, moderate negative dimensional comparison paths, and small positive temporal comparison paths](2ie-model-path-pattern-replication.md) — related
+- [Classical I/E model social comparison paths may overestimate social comparison effects because they partly capture temporal comparison processes](classical-ie-model-overestimates-social-effects.md) — related
+- [Dimensional comparison processes in elementary school are weak and only partially significant, with a mixed pattern across grades and domains](dimensional-comparisons-weak-partially-significant-elementary.md) — related

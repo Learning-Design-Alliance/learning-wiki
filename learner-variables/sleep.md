@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (83 show a difference, 33 mixed, 17 no difference) · 62 studies (36 associational, 18 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 18 of 62 report an effect size · 133 claims rest on one study
+> **Evidence** · 137 claims (86 show a difference, 34 mixed, 17 no difference) · 63 studies (36 associational, 19 causal, 7 review, 1 quant-synthesis), `q2`–`q3` · 19 of 63 report an effect size · 137 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -170,6 +170,10 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](../claims/sleep-no-next-day-protection.md) [-W] — learners who differ on it differ in outcomes
 - [Time spent awake between encoding and sleep significantly reduces the beneficial effect of sleep on retention](../claims/wake-delay-reduces-sleep-benefit.md) [+W] — learners who differ on it differ in outcomes
 - [With weak encoding and no retroactive interference (A-B, C-D), sleep enhanced retention of both lists to a similar extent; with intense encoding, no sleep benefit appeared for either list](../claims/sleep-benefit-weak-encoding-ab-cd.md) [~M] — an instructional effect differs with it
+- [In the Sleep-Wake condition, children's recall increased significantly after the post-learning sleep interval but showed no further increase after the subsequent wake interval](../claims/sleep-wake-condition-recall-gain-after-sleep-only.md) [+M] — learners who differ on it differ in outcomes
+- [In the Wake-Sleep condition, recall did not increase significantly over the wake interval but rose significantly after the subsequent sleep interval](../claims/wake-sleep-condition-recall-gain-after-delayed-sleep.md) [+M] — learners who differ on it differ in outcomes
+- [Retention of word pairs across sleep correlates positively with the percentage of NonREM sleep and negatively with the percentage of REM sleep](../claims/nonrem-positive-rem-negative-retention-correlations.md) [~M] — learners who differ on it differ in outcomes
+- [The recall gain after sleep was significantly larger when sleep immediately followed learning than when it followed a day of wakefulness](../claims/immediate-sleep-larger-retention-gain-than-delayed-sleep.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

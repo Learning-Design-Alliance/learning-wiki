@@ -53,3 +53,4 @@ Reciprocal effects models (latent cross-lagged SEM) of emotions and end-of-year 
 - [Grades and positive affect show significant positive reciprocal within-person effects, and grades and negative affect show significant negative reciprocal effects](grades-affect-tripartite-reciprocal.md) — related
 - [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — related
 - [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related
+- [Teacher-rated effort has a reciprocal relationship with children's math grades across the primary years](teacher-rated-effort-reciprocal-math-grades.md) — related

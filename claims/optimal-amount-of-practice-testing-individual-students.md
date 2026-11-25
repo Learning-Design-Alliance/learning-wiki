@@ -48,3 +48,4 @@ The introduction previews Rawson and Dunlosky's article, which extends retrieval
 - [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](srl-mc-lower-final-test-less-time.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
+- [Aptitude is defined as the time a learner needs to reach criterion under optimal instruction](aptitude-as-time-needed-optimal-instruction.md) — related

@@ -67,3 +67,4 @@ Three-way repeated-measures ANOVA on number of coded utterances. The printed eff
 ## Related Claims
 - [With argumentation practice, sixth graders decrease exposition of their own position (Clarify) on both intervention and nonintervention topics](clarify-exposition-decreases-with-practice.md) — related
 - [In the pilot data, high-progress and low-progress students had similar numbers of dialogue turns per session, but high-progress students produced longer utterances (15.3 vs 11.5 words per turn)](hp-longer-utterances-similar-turn-counts.md) — related
+- [Students in the argumentation intervention produced a significantly higher proportion of argumentative utterances per minute of group work and devoted significantly more time to group work than control students](intervention-more-argumentative-utterances.md) — related
