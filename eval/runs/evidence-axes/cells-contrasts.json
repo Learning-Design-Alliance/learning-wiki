@@ -134098,5 +134098,25 @@
  "mastery-learning\tknowledge tracing with remedial practice until mastery\t38 required exercises only": {
   "label": "mastery-based practice vs fixed practice",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative group assessment\tindividual assessment without collaboration": {
+  "label": "collaborative group assessment vs individual assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration across equal-, more-, and less-competent partner conditions\tindividual no-partner control": {
+  "label": "peer collaboration vs individual no-partner control",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration with a more competent partner\tindividual no-partner control": {
+  "label": "peer collaboration vs individual no-partner control",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration with a more competent partner\tpretest before collaboration": {
+  "label": "peer collaboration vs pretest-only control",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10-year-olds\tadults": {
+  "label": "children vs adults",
+  "treatment_is_a": true
  }
 }

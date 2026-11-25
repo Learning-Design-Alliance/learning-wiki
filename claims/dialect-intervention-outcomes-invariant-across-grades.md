@@ -50,3 +50,4 @@ Secondary multivariate analyses in the randomized design experiment testing grad
 ## Related Claims
 - [Post hoc univariate HLM analyses on Standards 4-6 composites revealed no statistically significant treatment effects despite the significant multivariate effect](crest-null-univariate-standards-4-6.md) — related
 - [Giftedness shows a significant multivariate main effect across the learning and recall outcome measures in the 2×2×2 study](giftedness-multivariate-main-effect-learning-outcomes.md) — related
+- [Treatment condition interacted with time: the paired session had a powerful, stable impact on children's rule use](time-condition-interaction-rule-use.md) — related

@@ -55,3 +55,4 @@ The review reports Singer and Goldin-Meadow's experiment on mathematical equival
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
 - [Gesture-speech mismatches index transitional knowledge and can predict subsequent learning](gesture-speech-mismatch-predicts-learning.md) — related
 - [Gesture-speech mismatches are highly prevalent and correlate strongly with number of strategies expressed, supporting gesture as a window into strategy variability](gesture-mismatch-indexes-strategy-variability.md) — related
+- [Gesture-speech mismatch distinguishes children on the threshold of learning a concept from those who are not](gesture-speech-mismatch-index-of-readiness.md) — related

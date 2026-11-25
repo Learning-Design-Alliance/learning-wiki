@@ -48,3 +48,4 @@ Stepwise linear regression on trial data using IBM SPSS Statistics version 19 fo
 - [The e-learning module significantly reduced students' perceived difficulty of leukaemia, while existing online resources did not](elearning-module-reduced-perceived-difficulty-leukaemia.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
 - [A targeted e-learning module on leukaemia produced significantly higher post-test scores than existing online resources in senior medical students](leukaemia-elearning-module-outperformed-existing-online-resources.md) — related
+- [Student behavior in the group was a more potent predictor of individual test scores than pretest ability, and group behavior profiles did not predict for the whole sample](behavior-predicts-individual-scores-better-than-ability.md) — related

@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 305 claims (232 show a difference, 51 mixed, 22 no difference) · 231 studies (123 associational, 44 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 3 quant-synthesis), `q1`–`q4` · 13 of 231 report an effect size · 303 claims rest on one study
+> **Evidence** · 306 claims (232 show a difference, 52 mixed, 22 no difference) · 232 studies (123 associational, 45 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 3 quant-synthesis), `q1`–`q4` · 13 of 232 report an effect size · 304 claims rest on one study
 
 ## How to read this page
 
@@ -342,6 +342,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Race/ethnicity and socioeconomic status together account for only about 4% of the variance in summer learning rates](../claims/race-and-ses-explain-only-4-percent-of-sll-variance.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Hispanic/African-American and lower-ability students were overrepresented among those scoring lower individually than in groups](../claims/ethnicity-ability-predict-group-individual-drop.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Minority status moderates the SES-achievement correlation, which is smaller for minority students and declines as the proportion of minority students in a sample rises](../claims/minority-status-moderates-ses-achievement-correlation.md) [+M] — an instructional effect differs by group
+- [White and Asian-American students scored higher than Hispanic and African-American students on the individual test, but ethnic background added no variance beyond ability and behavior](../claims/ethnic-background-gap-not-over-ability-and-behavior.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

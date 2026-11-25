@@ -45,4 +45,4 @@ Analysis of individual change patterns across the two testing settings (Table 2,
 
 
 ## Related Claims
--
+- [Students who copied others' work or did not contribute to group discussion obtained high group scores but low individual test scores](copiers-and-noncontributors-low-individual-scores.md) — related

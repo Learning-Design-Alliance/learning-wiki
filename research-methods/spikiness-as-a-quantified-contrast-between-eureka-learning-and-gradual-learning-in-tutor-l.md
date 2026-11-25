@@ -29,4 +29,4 @@ Spikiness is a reusable analytical pattern for distinguishing sudden from gradua
 -
 
 ## Key Sources
-- Baker, Ryan S.J.d., Goldstein, Adam B., Heffernan, Neil T. (2011). Detecting Learning Moment-by-Moment. International Journal of Artificial Intelligence in Education. In Press.
+- Baker, Ryan S.J.d., Goldstein, Adam B., Heffernan, Neil T. (2011). Detecting Learning Moment-by-Moment. International Journal of Artificial Intelligence in Education. In Press. [doi:10.3233/jai-2011-015](https://doi.org/10.3233/jai-2011-015)

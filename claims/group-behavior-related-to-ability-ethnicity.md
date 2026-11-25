@@ -47,3 +47,4 @@ Distribution of group-work behavior by background (Table 8): 75% of Anglo studen
 ## Related Claims
 - [Hispanic/African-American and lower-ability students were overrepresented among those scoring lower individually than in groups](ethnicity-ability-predict-group-individual-drop.md) — related
 - [Gender, ethnicity, international student status, and first-generation status are not associated with depressive symptom trajectory group membership among first-year students](sociodemographics-not-associated-trajectory-groups.md) — related
+- [Behavior in the group was related to ability but not to gender, ethnic background, or group composition characteristics](group-behavior-related-to-ability-only.md) — reports the opposite

@@ -50,3 +50,4 @@ Theoretical argument (divergence-of-linear-response flag applied to training exp
 - [Divergence has not been used as a stage-transition criterion and lacks direct experimental evidence in cognitive developmental psychology](divergence-flag-lacks-direct-evidence.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [The exam benefit of the TQ assignment was significant only for low-transition reasoners, with no significant interaction between reasoning ability and treatment](tq-benefit-low-transition-reasoners.md) — related
+- [Gesture-speech mismatch distinguishes children on the threshold of learning a concept from those who are not](gesture-speech-mismatch-index-of-readiness.md) — related

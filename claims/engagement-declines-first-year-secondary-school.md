@@ -53,3 +53,4 @@ Repeated-measures ANOVA; the article prints F(1, 407) = 41.37, p < .001 for the 
 - [Higher report card grades predict higher emotional and behavioral engagement in spring of first secondary school year, controlling for prior engagement](grades-predict-later-school-engagement.md) — related
 - [Energy/fatigue and emotional well-being declined significantly between the beginning and end of the school year, with no school-type differences in QOL](qol-decline-energy-emotional-wellbeing.md) — related
 - [Boys showed higher mean intrinsic motivation and early-grade achievement than girls, with small effect sizes, and girls' motivation declined from grade 1 to 2](sex-differences-math-motivation-achievement-small-effects.md) — related
+- [Girls declined significantly from pretest rule while boys did not, across all conditions](gender-difference-collaboration-decline.md) — reports the opposite
