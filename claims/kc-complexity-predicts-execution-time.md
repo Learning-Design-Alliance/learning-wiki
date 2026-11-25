@@ -47,3 +47,4 @@ Learning-curve analysis of tutor log data (Fig. 2) from Chinese vocabulary, Engl
 ## Related Claims
 - [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md) — possibly the same claim (merge candidate)
 - [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md) — related
+- [Spikiness varies more between knowledge components than between students, and some high spikiness in the Cognitive Tutor comes from very easy KCs.](kc-spikiness-varies-more-than-student-spikiness.md) — related

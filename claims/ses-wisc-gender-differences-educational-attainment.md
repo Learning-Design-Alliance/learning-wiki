@@ -71,3 +71,4 @@ Descriptive comparison of educational attainment by gender in the same sample; t
 - [Peer acceptance in pre-adolescence is not significantly associated with educational attainment in early adulthood](peer-acceptance-not-related-to-educational-attainment.md) — related
 - [Pre-adolescent peer rejection is negatively related to educational attainment in early adulthood, controlling for WISC score and socioeconomic status](peer-rejection-predicts-lower-educational-attainment.md) — related
 - [Pre-adolescents' perceived parental acceptance is positively related to educational attainment in early adulthood, controlling for WISC score and socioeconomic status](parental-acceptance-predicts-long-term-educational-attainment.md) — related
+- [Educational attainment strongly predicts complexity level across the lifespan and is a better predictor than age in late adolescence and adulthood](education-complexity-lifespan-prediction.md) — related

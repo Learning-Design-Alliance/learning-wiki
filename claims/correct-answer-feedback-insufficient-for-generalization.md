@@ -68,3 +68,4 @@ Study 2's secondary model found correct-response feedback "7 points less effecti
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
 - [Generalization from practice requires explanatory feedback and sufficient prior knowledge or confidence, with benefits concentrated among better-prepared learners](generalization-needs-explanatory-feedback-and-prior-knowledge.md) — a broader claim this one bears on
 - [Learners judge explanatory feedback as more effective preparation than correct-response feedback, in both studies](explanatory-feedback-judged-more-effective-than-correct-response.md) — related
+- [Principle-based instruction was surprisingly ineffective at producing significant learning or transfer relative to feedback alone](principle-instruction-ineffective-equivalence.md) — related

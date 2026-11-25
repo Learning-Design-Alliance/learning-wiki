@@ -63,3 +63,6 @@ The study is the standard citation for the view that children's misconceptions a
 - [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — related
 - [Students can simultaneously possess alternate knowledge frameworks whose development and use are context dependent](alternate-frameworks-context-dependent-use.md) — related
 - [Ioannides and Vosniadou found almost 90% of subjects consistently using one of a small number of force meanings across 27 questions](iv-nearly-90-percent-one-meaning-27-questions.md) — related
+- [Completing the EARTH-2 before versus after an interview made no significant difference to children's consistency with mental models](earth-interview-timing-no-consistency-effect.md) — related
+- [Older children give more consistent responses about the earth, supporting the fragmentation account's quantitative-growth view](earth2-age-predicts-consistency.md) — related
+- [Latent class analysis of children's EARTH responses finds no classes corresponding to Vosniadou and Brewer's initial or synthetic mental models of the earth](lca-refutes-vosniadou-earth-mental-models.md) — related

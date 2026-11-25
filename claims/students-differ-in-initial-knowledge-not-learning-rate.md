@@ -62,3 +62,4 @@ The authors read the result as a challenge to accounts of large individual diffe
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
 - [Counting practice opportunities only after quiz feedback yields a better-fitting KC model than counting all practice attempts](quiz-adjusted-opportunity-model-better-fit.md) — related
 - [Learning gains with the LLM learning-by-teaching system varied widely across individuals, with one participant scoring 60 percentage points lower than with the baseline](cl-individual-differences-llm-lbt-vocabulary.md) — related
+- [Spikiness varies more between knowledge components than between students, and some high spikiness in the Cognitive Tutor comes from very easy KCs.](kc-spikiness-varies-more-than-student-spikiness.md) — related

@@ -49,3 +49,4 @@ Bivariate genetic analyses (Fig. 2) decomposed the phenotypic correlations betwe
 - [The nine predictor domains account for 45% of the phenotypic variance of GCSE](nine-domains-45-percent-phenotypic-gcse-variance.md) — related
 - [Genetic factors account for most of the longitudinal stability of educational achievement (70% in the common pathway model; 63–79% of bivariate phenotypic correlations)](genetic-factors-account-for-most-achievement-stability.md) — related
 - [The nine domains jointly explain 75% of GCSE heritability; non-intelligence domains collectively explain 50%, nearly matching intelligence alone (51%)](multivariate-75-percent-gcse-heritability.md) — related
+- [Latent general intelligence at age 11 correlates 0.81 with latent educational achievement at age 16](g-latent-correlation-0-81-gcse.md) — related

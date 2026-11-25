@@ -50,3 +50,5 @@ Linear regression model estimating the contribution of each curve form count to 
 - [Students learned significantly over the four lessons, and learning outcomes differed by curve form: immediate drop reflected high prior knowledge with low gain, while immediate peak showed the highest gain.](mbmlc-forms-learning-differences.md) — related
 - [The form of moment-by-moment learning curves depends on problem difficulty: immediate drops concentrate on easy problems, while spike forms become more frequent as difficulty increases.](mbmlc-forms-problem-difficulty-interaction.md) — related
 - [Close multiple spikes suggest students unable to regulate accuracy on their own learned better once the ALT took over part of the regulation.](close-spikes-system-support-regulation.md) — related
+- [The immediate peak visual form is significantly positively associated with retention and marginally with transfer](immediate-peak-form-positive-retention.md) — related
+- [Single spike and separated multi-spike visual forms are not significantly associated with any of the four learning measures](spike-forms-null-learning-associations.md) — reports the opposite

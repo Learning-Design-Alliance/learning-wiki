@@ -72,3 +72,4 @@ Follow-up logistic regressions per condition: the simultaneous group improved ov
 - [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](simultaneous-speech-gesture-next-day-retention.md) — related
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](simultaneous-speech-gesture-four-week-retention.md) — related
 - [Simultaneous speech-and-gesture instruction increases children's spoken use of the conceptual Equalizer strategy, which post-hoc mediates lasting learning](eq-strategy-use-mediation-simultaneous-gesture.md) — related
+- [Overall behavioral variability decreased from pretest to posttest, but patterns of variability change did not depend on instruction type](variability-decreases-instruction-independent.md) — related

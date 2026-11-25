@@ -50,3 +50,4 @@ Authors' interpretation in the discussion, generalizing from the study's correla
 - [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — related
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
 - [Applying the mean-averaging extension to BKT and PFA improves their posttest prediction](mean-extension-improves-bkt-pfa-posttest.md) — related
+- [After nominal mastery, variability in knowledge-tracing test predictions reflects persistent differences in the slip parameter rather than knowledge state](kt-slip-parameter-dominates-test-predictions.md) — related

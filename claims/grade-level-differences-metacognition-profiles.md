@@ -50,3 +50,4 @@ In the initial full-sample LPA with grade as an active nominal covariate, the Wa
 - [Task performance relates to metacognition profile membership at the first measurement point but not one year later](performance-profile-relation-dissociates-over-time.md) — related
 - [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related
 - [Class membership is statistically significantly related to external measures of math Fluency and Interest in Math](class-membership-external-validity-fluency-interest.md) — related
+- [Latent profile membership was related to grade level and to fraction and decimal number line estimation skills](profile-membership-related-to-estimation-skills.md) — related

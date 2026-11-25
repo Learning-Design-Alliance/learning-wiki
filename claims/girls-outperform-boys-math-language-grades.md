@@ -59,3 +59,4 @@ Descriptive comparison of self-reported grades among 1,658 boys and 1,730 girls 
 - [Boys experience grade retention more frequently than girls, supporting hypothesis H1a](boys-retained-more-frequently-than-girls.md) — related
 - [Participants from homeowner families scored higher in Mathematics, Physics, and English than participants from rented accommodation](housing-status-grade-differences-qpic-cohort.md) — related
 - [Girls outperform boys in Spanish and English regardless of mobile-phone-use level](girls-better-language-marks-regardless-mobile-use.md) — related
+- [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related

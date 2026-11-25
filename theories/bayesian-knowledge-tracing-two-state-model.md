@@ -22,7 +22,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 19 claims (7 for, 9 mixed, 3 against) · 13 studies (4 causal, 4 design, 3 associational, 1 review, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (9 for, 9 mixed, 3 against) · 14 studies (4 causal, 4 associational, 4 design, 1 review, 1 theoretical), `q1`–`q3` · 2 of 14 report an effect size · 21 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.
@@ -71,6 +71,8 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [BKT adaptivity in a mixed-reality Intelligent Science Station improves children's post-test learning of scientific principles compared to random task selection](../claims/bkt-adaptivity-mixed-reality-improves-science-learning.md) [+M] — attached 2026-10-28 from Yannier et al. (2024), which proposed "Bayesian Knowledge Tracing for task-loop adaptivity in mixed-reality learning".
 - [Students who changed one parameter at a time in model fitting were more efficient than those changing multiple parameters](../claims/parameter-fitting-strategy-efficiency.md) [~W]
 - [Carelessness detected by the BKT-based and ML contextual slip models is positively and significantly associated with post-test and delayed post-test scores](../claims/contextual-slip-carelessness-positive-posttest-association.md) [+W] — attached 2026-11-21 from Jiayi Zhang et al. (2025), which proposed "Contextual slip model and its limitations for carelessness detection".
+- [Allowing knowledge-tracing learning and performance parameters to vary across rules substantially improves fit to tutor performance data](../claims/kt-per-rule-parameter-fit.md) [+W] — attached 2026-11-25 from Albert T. Corbett et al. (1995), which proposed "Knowledge tracing: a Bayesian two-state student model implementing mastery learning within an ACT-R production-rule tutor"; tests this page's relationship.
+- [Incorporating individualized learning and performance parameter weights makes knowledge tracing sensitive to residual individual differences after nominal mastery](../claims/kt-individualized-parameter-weights.md) [+W] — attached 2026-11-25 from Albert T. Corbett et al. (1995), which proposed "Knowledge tracing: a Bayesian two-state student model implementing mastery learning within an ACT-R production-rule tutor".
 
 ## The evidence by question
 - *Does choosing practice or scaffolding by BKT's mastery estimate improve learning or reduce the practice needed, compared with fixed or random sequencing, and for whom?* [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+M]

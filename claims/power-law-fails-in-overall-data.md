@@ -69,3 +69,8 @@ The article's abstract states the headline result: "The power law of practice di
 - [Instance-theory prediction of equal RT and SD rate parameters is disconfirmed: 16 of 18 participants showed steeper RT than SD rates](rt-sd-rate-parameters-differ.md) — related
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related
 - [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
+- [In the alphabet arithmetic task, participants with detected latency shifts show item-general learning, contrary to the instance-model prediction](aat-latency-shifts-item-general-learning.md) — related
+- [Simulations show power functions fit aggregated means and standard deviations almost perfectly even when all underlying individual learning curves are discontinuous](aggregated-power-fits-mask-discontinuities.md) — related
+- [Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency](overlaying-averaged-fits-model-sufficiency.md) — a broader claim this one bears on
+- [Item-level response times showed step-function decreases from before to after practice in an alphabet arithmetic experiment, in one group with no comparison group](smooth-speedup-questioned-global-laws.md) — related
+- [Item-level response times exhibit pronounced step-function decreases with practice that are uniquely predicted by the CMPL strategy selection model](step-function-rt-decreases-cmpl-prediction.md) — related

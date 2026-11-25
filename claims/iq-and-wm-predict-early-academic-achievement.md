@@ -96,3 +96,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Task monitoring correlates most strongly with general achievement (r = −0.531) while working memory correlates most strongly with specific achievement in Mathematics (r = −0.505) and Language Arts (r = −0.475)](task-monitoring-vs-working-memory-correlation-pattern.md) — a narrower finding that bears on this claim
 - [Relations between reading and working memory increase with grade level](reading-working-memory-relations-increase-with-grade.md) — related
 - [Threshold theory is not supported: correlations below and above IQ 120 do not differ significantly, and the threshold variable does not explain variance in the correlation](threshold-theory-not-supported-iq-120.md) — related
+- [Residual verbal ability (orthogonal to g) adds a small, significant contribution to GCSE performance, from zero in Mathematics to about 7% in English](residual-verbal-adds-small-gcse-variance.md) — related

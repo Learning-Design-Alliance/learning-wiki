@@ -48,3 +48,6 @@ Analytical argument illustrated in Figures 7 and 8: a genuine sudden jump and a 
 - [Conservation test score distributions are bimodal, consistent with a discontinuous transition in conservation acquisition](bimodal-conservation-score-distributions.md) — a narrower finding that bears on this claim
 - [Divergence has not been used as a stage-transition criterion and lacks direct experimental evidence in cognitive developmental psychology](divergence-flag-lacks-direct-evidence.md) — related
 - [Longitudinal studies show spurts (sudden jumps) in cognitive and electrocortical development](spurts-longitudinal-sudden-jumps.md) — related
+- [A pilot study found no divergence effect of optimal versus suboptimal test conditions on bimodality of conservation scores](divergence-optimal-test-conditions-pilot-null.md) — related
+- [Model test sessions show significantly more hysteresis, sudden jump, and Maxwell patterns on the hysteresis test than on the control test](hysteresis-flags-exceed-control-test-rate.md) — a narrower finding that bears on this claim
+- [Sudden jumps in conservation acquisition were detected with an eight-month longitudinal study of 100 children using a computerized conservation test](sudden-jump-conservation-acquisition-longitudinal.md) — a narrower finding that bears on this claim

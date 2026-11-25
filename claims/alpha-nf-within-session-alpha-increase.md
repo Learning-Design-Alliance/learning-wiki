@@ -68,3 +68,4 @@ Across-session alpha analysis (2×5 mixed-design repeated-measures ANOVA on mean
 - [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](alpha-nf-improves-corsi-capacity.md) — related
 - [Alpha neurofeedback training produces no change in alpha ERSP or pre-stimulus alpha in the encoding and maintenance phases of the modified Sternberg task](alpha-nf-no-neural-change-sternberg.md) — related
 - [Alpha neurofeedback increases prefrontal alpha power more than sham feedback](alpha-neurofeedback-increases-frontal-alpha-power.md) — related
+- [Training group and trial block interacted in producing linear estimation patterns, indicating different rates of learning across feedback conditions](group-by-block-interaction-linear-fit.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5845 entries** · 0 stable · 5845 in review · 0 drafts
+**5847 entries** · 0 stable · 5847 in review · 0 drafts
 
 ---
 
@@ -1302,6 +1302,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DOE Community College Internship (CCI) program](doe-community-college-internship-cci-program.md) - A U.S.
 * [DOE Visiting Faculty Program (VFP)](doe-visiting-faculty-program-vfp.md) - A U.S.
 * [Domain-specific GenAI declaration framework translating an activity taxonomy into task-specific disclosure instruments](domain-specific-genai-declaration-framework-translating-an-activity-taxonomy-into-task-spe.md) - A Computer Science higher-education framework developed by Nicholas Micallef for structuring students' disclosure, explanation, and reflection on GenAI use in writing and coding coursework.
+* [Domain-specific self-perception-of-effort scales for math and German modeled on the SDQ I](domain-specific-self-perception-of-effort-scales-for-math-and-german-modeled-on-the-sdq-i.md) - Two four-item, domain-specific Likert self-report scales developed by Annette Lohbeck to measure elementary school children's perceived effort in mathematics and German lessons.
 * [Doors to Discovery™](doors-to-discovery.md) - Doors to Discovery™ is a preschool literacy curriculum developed and distributed by Wright Group/McGraw-Hill, organized into eight thematic units with shared-literacy activities targeting oral language, phonological awareness, print knowledge, writing, and comprehension.
 * [DOPS (Direct Observation of Procedural Skills) form](dops-direct-observation-of-procedural-skills-form.md) - A direct-observation clinical procedural-skills assessment form used by teachers to rate learners performing procedures with real patients and provide immediate feedback.
 * [DOPS evaluation rubric for complex implant cases (100-point standardized procedural assessment)](dops-evaluation-rubric-for-complex-implant-cases-100-point-standardized-procedural-assessm.md) - A study-specific 100-point Direct Observation of Procedural Skills rubric developed and used by Cai et al.
@@ -1382,6 +1383,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Early Steps](early-steps.md) - Early Steps is a structured one-to-one tutoring programme for first-grade pupils, delivered by tutors according to its named instructional schedule.
 * [Early Warning Intervention and Monitoring System (EWIMS)](early-warning-intervention-and-monitoring-system-ewims.md) - A school-based programme developed for schools to use staff teams, student indicators, targeted interventions, and progress monitoring to support students at risk of not graduating on time.
 * [Earsi Otoscope](earsi-otoscope.md) - Earsi Otoscope is a high-fidelity virtual-reality otoscopy simulator with three-dimensional instrument tracking, direct insertion-depth feedback, tutor monitoring, and automated performance recording, used by medical educators for otoscopy training and practical assessment.
+* [EARTH (EArth Representation Test for cHildren)](earth-earth-representation-test-for-children.md) - A structured nonverbal paper-and-pencil forced-choice assessment developed by Straatemeier et al.
 * [Earth-Like](earth-like.md) - Earth-Like is a web-based planetary climate model that simulates the carbon-silicate cycle and surface temperature for science learning by school students and the general public.
 * [EarthTime](earthtime.md) - EarthTime is an interactive geospatial data-visualization platform developed and maintained by CREATE Lab at Carnegie Mellon University for exploring large datasets through maps and time-lapse imagery.
 * [East Alabama Regional Cybersecurity Alliance (EARCA)](east-alabama-regional-cybersecurity-alliance-earca.md) - A regional alliance run by partner school districts, industry, and postsecondary organizations in Alabama Workforce Region 2 to expand rural cybersecurity education, workforce preparation, and career opportunities.

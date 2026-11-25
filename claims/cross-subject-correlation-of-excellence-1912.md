@@ -50,3 +50,4 @@ Observational analysis of school grades for 32 pupils at Urbana High School, ran
 - [Subject-ranking correlations between elementary and high school are usually high, averaging approximately +.52, with Geography highest (+.66) and Spelling lowest (+.44)](subject-ranking-correlations-average-52.md) — related
 - [Students tended to hold the same relative rank from the first to the last trials of practice, with a small positive correlation between initial and final standing.](relative-rank-stable-across-practice.md) — related
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](little-correlation-of-abilities-within-pupils.md) — reports the opposite
+- [Age-11 g correlates positively with GCSE performance in all 25 subjects, ranging from 0.43 to 0.77](g-correlates-all-25-gcse-subjects.md) — related

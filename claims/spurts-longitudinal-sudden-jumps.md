@@ -49,3 +49,5 @@ The review attributes this finding to several authors (Hudspeth & Pribram, 1990;
 - [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](suddenness-certainty-decrease-rapm-difficulty.md) — related
 - [The subset-to-cardinal-principle knower-level transition coincides with the largest longitudinal gains in ANS acuity, exceeding other transition types](subset-to-cp-jump-largest-ans-acuity-gain.md) — a narrower finding that bears on this claim
 - [Bimodality alone cannot distinguish a genuine discontinuity from an acceleration in continuous development](bimodality-insufficient-transition-criterion.md) — related
+- [Sudden jumps in conservation acquisition were detected with an eight-month longitudinal study of 100 children using a computerized conservation test](sudden-jump-conservation-acquisition-longitudinal.md) — a narrower finding that bears on this claim
+- [Sudden jumps in the hysteresis test tend to occur at small distance differences for both children and the model](sudden-jumps-at-small-distance-differences.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ WMG and L2M growth scaled scores were included as student-level covariates in th
 - [Third-fifth grade students' target vocabulary scores rose significantly from pretest to posttest in one uncontrolled pre-post study of the Dragon's Lair WKe-Book](wkebook-dragons-lair-word-knowledge-gains.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
 - [Teachers viewed the WKe-Books as engaging instructional tools but reported small group reviews and limited instructional time as feasibility considerations](wkebook-teacher-feasibility-perceptions.md) — related
+- [Grade level at study start predicted which developmental pathway students followed](grade-level-predicts-rational-number-pathways.md) — related

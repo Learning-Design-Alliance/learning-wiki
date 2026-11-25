@@ -49,7 +49,11 @@ import requests
 
 from . import compliance
 
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"'<>,)]+", re.IGNORECASE)
+# A DOI may contain balanced parentheses (Elsevier's older ones do:
+# 10.1016/S0022-5371(76)90002-5). Stopping at the first ")" truncated those
+# and reported the stub as a fabricated DOI, so a bracketed group is taken
+# whole and only an unbalanced trailing ")" ends the match.
+DOI_RE = re.compile(r"10\.\d{4,9}/(?:\([^\s()]*\)|[^\s\"'<>,()])+", re.IGNORECASE)
 ARXIV_ID_RE = re.compile(r"arxiv(?:\.org)?[\s:/]*(?:abs/|pdf/)?(\d{4}\.\d{4,5})(?:v\d+)?", re.IGNORECASE)
 YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
 CROSSREF_TIMEOUT = 8.0

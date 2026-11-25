@@ -134022,5 +134022,81 @@
  "explicit-instruction\tstructured one-to-one phonics, comprehension, and fluency training\tordinary classroom activities": {
   "label": "explicit instruction vs no explicit instruction",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tanalogy instruction plus feedback\tfeedback only": {
+  "label": "analogy instruction plus feedback vs feedback only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprinciple instruction plus feedback\tfeedback only": {
+  "label": "principle instruction plus feedback vs feedback only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprocedure instruction plus feedback\tfeedback only": {
+  "label": "procedure instruction plus feedback vs feedback only",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on 150\testimation without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on estimation trials\tno-feedback estimation trials": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on maximally discrepant 150 problems\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback on number 150\tFeedback on number 5": {
+  "label": "maximally discrepant feedback vs lower-discrepancy feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback on number 150\tFeedback on number 725": {
+  "label": "maximally discrepant feedback vs lower-discrepancy feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback on number 150\tNo feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on 150\tfeedback on 5 or 725": {
+  "label": "maximally discrepant feedback vs lower-discrepancy feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on 150, the maximum-discrepancy value\tlower-discrepancy feedback values": {
+  "label": "maximally discrepant feedback vs lower-discrepancy feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on 5, a lower-discrepancy value\tlower-discrepancy feedback values": {
+  "label": "feedback on 5 vs feedback on 725",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on 725, a lower-discrepancy value\tlower-discrepancy feedback values": {
+  "label": "feedback on 5 vs feedback on 725",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback on maximally discrepant number 150\tfeedback on less discrepant numbers 5 or 725": {
+  "label": "maximally discrepant feedback vs lower-discrepancy feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tno-feedback control\tfeedback conditions": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": false
+ },
+ "guided-discovery\t15 lessons of teacher-guided inquiry-based instruction\tbefore-instruction pretest": {
+  "label": "guided discovery vs no instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked inversion-problem practice\tmixed inversion and standard problems": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tblocked inversion-problem practice\tmixed inversion and standard-problem practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "mastery-learning\tknowledge tracing with remedial practice until mastery\t38 required exercises only": {
+  "label": "mastery-based practice vs fixed practice",
+  "treatment_is_a": true
  }
 }

@@ -47,3 +47,5 @@ The authors' own assessment of the state of evidence for the divergence flag: un
 ## Related Claims
 - [Bimodality alone cannot distinguish a genuine discontinuity from an acceleration in continuous development](bimodality-insufficient-transition-criterion.md) — related
 - [Training on conservation is predicted to benefit only transitional children, confounding training studies](training-benefits-only-transitional-children.md) — related
+- [The divergence catastrophe flag was not found in either the children's data or the model's simulations](divergence-flag-not-found.md) — a narrower finding that bears on this claim
+- [A pilot study found no divergence effect of optimal versus suboptimal test conditions on bimodality of conservation scores](divergence-optimal-test-conditions-pilot-null.md) — related

@@ -71,3 +71,5 @@ Second linear mixed model on accuracy of problem solving attempts (Table 9) with
 - [Students learned significantly over the four lessons, and learning outcomes differed by curve form: immediate drop reflected high prior knowledge with low gain, while immediate peak showed the highest gain.](mbmlc-forms-learning-differences.md) — related
 - [The form of moment-by-moment learning curves depends on problem difficulty: immediate drops concentrate on easy problems, while spike forms become more frequent as difficulty increases.](mbmlc-forms-problem-difficulty-interaction.md) — related
 - [Effort (unique problems and problem-solving attempts) does not differ between moment-by-moment learning curve forms.](mbmlc-forms-no-effort-differences.md) — related
+- [Negative associations of plateau and close multi-spike forms with posttests are partly explained by lower pretest knowledge](low-entry-knowledge-explains-negative-curve-associations.md) — related
+- [Single spike and separated multi-spike visual forms are not significantly associated with any of the four learning measures](spike-forms-null-learning-associations.md) — related

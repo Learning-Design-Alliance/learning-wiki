@@ -63,3 +63,4 @@ Repeated five-fold cross-validation and 30%–50% calendar-window sensitivity an
 ## Related Claims
 
 - [For activity-defined engagement prediction in DTA logs, the activity-only Baseline remained strongest, and permutation importance was dominated by activity indicators](activity-baseline-strongest-engagement-prediction.md) — related
+- [An expanded 67-feature model of P(J) gave only a minor correlation improvement over the original feature set in ASSISTments.](expanded-feature-set-minor-improvement.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-24
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-25
 sources:
   - id: wolff-2016
     resource: "https://doi.org/10.1002/dys.1529"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Five years after the intervention, the intervention group significantly outperformed the control group on word decoding (d = 0.37), with no significant differences on the other measures. [→ Wolff 2016](#wolff-2016)

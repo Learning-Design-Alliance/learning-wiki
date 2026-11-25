@@ -49,3 +49,4 @@ Analysis of average scores across the semester on one type of apply/evaluate ite
 
 ## Related Claims
 - [Heat-map analysis reveals six individual learning patterns, with mid and late learners comprising about 24% of the class](heat-map-six-learning-patterns.md) — related
+- [Performance patterns in a lifespan moral-judgment sample support a discontinuous, spurt-and-plateau characterization of conceptual development](shape-of-development-spurts-plateaus.md) — related

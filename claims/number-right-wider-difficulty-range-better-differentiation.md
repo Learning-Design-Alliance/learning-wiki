@@ -47,3 +47,4 @@ Figure-based numerical result visualized in Figs. 1 and 2 and described in the R
 ## Related Claims
 - [Formula scoring produces around three times more dysfunctional items than number-right scoring](formula-scoring-more-dysfunctional-items.md) — related
 - [Number-right scoring yields higher person reliability coefficients than formula scoring in Rasch analysis of progress-test MCQs](number-right-higher-person-reliability-rasch.md) — related
+- [Item difficulty estimates for adjacent complexity levels are separated by statistically significant gaps in the Rasch analysis](adjacent-complexity-level-significant-gaps.md) — related

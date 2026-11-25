@@ -17,7 +17,7 @@ sources:
 # Mental models framework: children's conceptual understandings as coherent, theory-like structures constrained by presuppositions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 5 studies (3 qualitative, 1 causal, 1 associational), `q2`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 6 studies (3 qualitative, 2 associational, 1 causal), `q2`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 The article adopts Vosniadou and colleagues' account in which "children represent scientific concepts in the form of theory-like structures that are internally coherent and empirically accurate," structures "constrained by the presuppositions and intuitions known as 'mental models.'" The study uses this framework to classify kindergartners' causal explanations of the day and night cycle into initial (naïve), synthetic, and scientific model categories via model identification methodology. Synthetic models are described as children's attempts to integrate scientific information with their naïve understandings.
@@ -44,6 +44,7 @@ The article adopts Vosniadou and colleagues' account in which "children represen
 - [Cluster analyses reveal mixed clusters of scientific and alternative conceptions, indicating fragmented rather than coherent knowledge structures](../claims/cluster-analysis-fragmented-knowledge-profiles.md) [-W] — attached 2026-11-09 from Thorn CJ et al. (2016), which proposed "Alternative conceptions as experience-based explanations that coexist with scientific conceptions rather than being replaced"; tests this page's relationship.
 - [Student interviews show a spectrum from overlapping to complete hybridization of light models, and this missing distinction is a key cause of failed explanation attempts](../claims/hybridization-of-light-models-in-interviews.md) [+W] — attached 2026-11-22 from Martin Erik Horn et al. (2002), which proposed "Classification of the five models of light into concrete, iconic and abstract-mathematical model classes".
 - [Ioannides and Vosniadou found almost 90% of subjects consistently using one of a small number of force meanings across 27 questions](../claims/iv-nearly-90-percent-one-meaning-27-questions.md) [+W] — attached 2026-11-23 from Andrea A. diSessa et al. (2004), which proposed "Vosniadou's Framework Theory model: presuppositions constraining a few coherent specific theories"; tests this page's relationship.
+- [Students appear to move through intermediary concepts (Mixed and Low classes) rather than transitioning directly from NNB to correct conceptions](../claims/intermediary-concepts-rational-number-development.md) [+W] — attached 2026-11-25 from Mikko Kainulainen et al. (2017), which proposed "Framework theory of conceptual change: synthetic intermediary concepts mediate between natural number and rational number concepts"; tests this page's relationship.
 
 ## Related Theories
 - [Knowledge in Pieces](knowledge-in-pieces.md) — the contrasting view, that intuitive ideas are many context-cued elements rather than coherent models

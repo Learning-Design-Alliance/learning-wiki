@@ -51,3 +51,4 @@ Univariate ACE model fitting on the GCSE core composite from 13,306 twins in the
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
+- [A standard deviation increase in age-11 g raises the odds of achieving five or more GCSEs at grades A*–C by 7.32](g-odds-five-a-star-c-gcses.md) — related

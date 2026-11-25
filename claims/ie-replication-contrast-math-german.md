@@ -73,3 +73,4 @@ In the same replication step with Rasch-scaled test scores as achievement indica
 - [Grades in the three science subjects had only small across-subjects effects on other self-concepts](small-science-across-subjects-effects.md) — related
 - [Dimensional comparison processes in elementary school are weak and only partially significant, with a mixed pattern across grades and domains](dimensional-comparisons-weak-partially-significant-elementary.md) — related
 - [Skill development effects (grades → same-domain self-concept) are present from Grade 2 in math and Grade 3 onward in German](skill-development-effects-grades-2-4.md) — a narrower finding that bears on this claim
+- [Self-reported grades positively predict academic self-concepts of corresponding domains in fourth graders, with no negative cross-domain achievement effects](no-cross-domain-achievement-effects-elementary-self-concepts.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5896 entries** · 0 stable · 5896 in review · 0 drafts
+**5897 entries** · 0 stable · 5897 in review · 0 drafts
 
 ---
 
@@ -3199,6 +3199,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multi-view approach: lens imaging as a superposition of elemental images from different viewpoints on the lens](multi-view-lens-imaging-elemental-images.md) - The article proposes reinterpreting Kepler's point-to-point account of lens imaging: each point on the lens produces a whole camera-obscura-style image, and images from different points represent different views.
 * [Multi-week ED-based physics lab task with interwoven hands-on and computational scaffolds](ed-based-physics-lab-task-scaffolded-multi-week.md) - A five-week (weeks 06–10) engineering design problem embedded in a large-enrollment calculus-based introductory physics course, in which teams design a system to launch and safely deliver a ~50 kg payload to an island...
 * [Multicomponent academic-stress program: psychoeducation, mindfulness training, and biofeedback-assisted mindfulness across 16 sessions in 8 weeks](multicomponent-academic-stress-program-16-sessions.md) - A structured intervention for university students consisting of \"16 individual sessions during 8 weeks, divided into 3 phases: pre-test evaluation, multicomponent intervention program, and post-test evaluation\".
+* [Multicomponent intensive reading intervention pattern: phonemic decoding, comprehension strategies and fluency training](multicomponent-reading-intervention-pattern.md) - The intervention pattern combines three daily-trained components delivered one-to-one by trained special needs teachers over 12 weeks: \"The current programme was based on three main elements: (1) phonemic decoding/awa...
 * [Multicomponent middle school reading intervention: modified phonics program with ESL practices, vocabulary, fluency, and comprehension strategy instruction on a 2-day decoding/encoding cycle](multicomponent-esl-reading-intervention-2day-cycle.md) - A research intervention delivered in small groups of two to four students in daily 40-minute sessions over about 13 weeks.
 * [Multicomponent participatory ergonomics training program for geriatric nurses (2-day basic seminar plus two follow-up sessions)](participatory-ergonomics-training-geriatric-nurses.md) - A workplace training program combining knowledge transfer on body postures in nursing, body awareness training and physical exercises, ergonomic practical instructions at the bedside and bathroom, and reorganization/r...
 * [Multidirectional stitching technology and circular suture training module](multidirectional-stitching-module.md) - A training module in which learners practice laparoscopic needle delivery using varied needle-holding directions — positive, reverse, oblique (left, right), and swivel (\"loosely clipping\") — on a circular sponge pad w...

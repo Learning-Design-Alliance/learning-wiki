@@ -48,3 +48,4 @@ Cross-lagged path modeling in the 954-student cohort showed better motor skills 
 - [Better academic achievement predicts better motor skills, aerobic fitness, and muscular fitness one year later.](gpa-predicts-future-fitness.md) — reports the opposite
 - [The change in motor skills has a borderline significant association with the change in academic achievement.](motor-skills-change-gpa-borderline.md) — related
 - [Past academic performance is the strongest predictor of future academic performance, with T1 and T2 GPA jointly explaining 82.69% of the variance explained in T3 GPA](past-gpa-dominates-t3-academic-performance-dominance.md) — related
+- [A child's knowledge profile at one point in time predicts their knowledge profiles at later points in time](knowledge-profile-predicts-later-profiles.md) — related

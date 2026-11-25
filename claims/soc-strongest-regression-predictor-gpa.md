@@ -93,3 +93,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Being female is negatively associated with Math and Science scores but has no significant effect on Reading](female-negative-math-science-not-reading.md) — related
 - [Female gender and higher IQ tertile are significantly positively correlated with academic performance](gender-iq-correlated-academic-performance.md) — related
 - [Male gender is the only significant predictor of lower overall CIA/pCIA knowledge scores in a multivariate regression](male-gender-lower-knowledge-scores.md) — related
+- [Sex has a statistically significant but trivial association with complexity level once education is accounted for](sex-negligible-complexity-effect.md) — related

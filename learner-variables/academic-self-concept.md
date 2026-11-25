@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (148 show a difference, 46 mixed, 17 no difference) · 114 studies (57 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 114 report an effect size · 208 claims rest on one study
+> **Evidence** · 214 claims (151 show a difference, 46 mixed, 17 no difference) · 115 studies (58 associational, 32 causal, 12 review, 6 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 30 of 115 report an effect size · 211 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -246,6 +246,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Longitudinal dimensional comparison effects on elementary school students' ability self-concepts do not occur from Grades 2 to 4](../claims/no-longitudinal-dimensional-effects-elementary.md) [-M] — measured as an outcome of the instruction studied
 - [Self-enhancement effects (self-concept → same-domain grades) emerge by mid-Grade 3 in math and earlier in German](../claims/self-enhancement-effects-timing-elementary.md) [+M] — learners who differ on it differ in outcomes
 - [Skill development effects (grades → same-domain self-concept) are present from Grade 2 in math and Grade 3 onward in German](../claims/skill-development-effects-grades-2-4.md) [+M] — measured as an outcome of the instruction studied
+- [Academic self-concepts positively predict self-perceptions of effort of corresponding domains, with no negative cross-domain self-concept effects](../claims/self-concepts-predict-domain-effort-no-cross-domain-effects.md) [+W] — learners who differ on it differ in outcomes
+- [Contrary to expectations, competence self-concepts were more highly related to self-perceptions of effort than affective self-concepts in this elementary sample](../claims/competence-self-concepts-more-related-to-effort-than-affective.md) [+W] — learners who differ on it differ in outcomes
+- [Self-reported grades positively predict academic self-concepts of corresponding domains in fourth graders, with no negative cross-domain achievement effects](../claims/no-cross-domain-achievement-effects-elementary-self-concepts.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

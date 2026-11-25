@@ -58,3 +58,4 @@ The authors read the modest starting accuracy as evidence that verbal instructio
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](students-differ-in-initial-knowledge-not-learning-rate.md) — the same study
 - [In the authors' kindergarten efficacy trial, classrooms with higher rates of student practice opportunities produced substantively important mathematics gains](higher-practice-opportunity-rates-linked-to-gains.md) — related
 - [Practice on repeat survey attempts significantly improves sensitivity for Reference, Best Fit, and Lower n plots, with overall accuracy gains for Reference and Best Fit but not Lower n](practice-improves-significance-detection-sensitivity.md) — related
+- [Students in the knowledge-tracing mastery condition were more likely to reach 90% test accuracy than students completing only the required exercises](kt-mastery-condition-test-success.md) — related

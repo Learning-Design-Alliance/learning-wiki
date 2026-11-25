@@ -67,3 +67,4 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
 - [Exploratory: RL-timed access reduces task errors and time per question relative to full withholding, but not after controlling for gender](rl-vs-never-errors-time-exploratory.md) — related
 - [Year 3 children studying worked examples made significantly fewer incorrect attempts than children solving equivalent conventional problems](worked-examples-fewer-incorrect-attempts-young-children.md) — related
+- [Incorrect answers show a positive association with momentary learning in both systems, and past errors predict more current learning than past help requests in the Cognitive Tutor.](errors-positively-associated-with-momentary-learning.md) — related

@@ -51,3 +51,4 @@ Comparison of GPS prediction in the GWA discovery target trait versus GCSE outco
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](high-gps-compensates-low-ses-university.md) — related
 - [An EduYears genome-wide polygenic score significantly predicts university success variables, explaining up to 5% of the variance in each measure](eduyears-gps-predicts-university-success.md) — related
+- [Latent general intelligence at age 11 correlates 0.81 with latent educational achievement at age 16](g-latent-correlation-0-81-gcse.md) — related

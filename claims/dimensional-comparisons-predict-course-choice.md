@@ -73,3 +73,4 @@ The review notes null findings alongside positive ones: Nagy et al. (2008) did n
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](mediated-dimensional-comparison-course-choices.md) — a narrower finding that bears on this claim
 - [Domain-specific academic self-concept predicts advanced course choice, whereas value predicts STEM study intentions](self-concept-course-choice-value-stem-intentions.md) — a narrower finding that bears on this claim
+- [Academic self-concepts positively predict self-perceptions of effort of corresponding domains, with no negative cross-domain self-concept effects](self-concepts-predict-domain-effort-no-cross-domain-effects.md) — related

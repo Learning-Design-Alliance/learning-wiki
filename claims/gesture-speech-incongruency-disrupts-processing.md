@@ -52,3 +52,4 @@ The review reports, citing Kandana Arachchige et al. (2021), that "Gesture–spe
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related
 - [Gesture-speech mismatches index transitional knowledge and can predict subsequent learning](gesture-speech-mismatch-predicts-learning.md) — related
+- [Gesture-speech mismatches are highly prevalent and correlate strongly with number of strategies expressed, supporting gesture as a window into strategy variability](gesture-mismatch-indexes-strategy-variability.md) — related

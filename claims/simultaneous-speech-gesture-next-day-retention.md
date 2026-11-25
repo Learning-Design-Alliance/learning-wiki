@@ -70,3 +70,4 @@ Same experiment, generalization problems at next-day follow-up: significant cond
 - [Simultaneous and sequential instruction produce no immediate differences in solving basic or generalization math equivalence problems](no-immediate-differences-across-timing-conditions.md) — related
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](simultaneous-speech-gesture-four-week-retention.md) — related
 - [Matched control children with similar post-test scores outperform matched treatment children at follow-up](matched-controls-outperform-matched-treatment-at-followup.md) — related
+- [Overall behavioral variability decreased from pretest to posttest, but patterns of variability change did not depend on instruction type](variability-decreases-instruction-independent.md) — related

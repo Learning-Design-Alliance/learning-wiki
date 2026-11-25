@@ -91,3 +91,4 @@ Longitudinal simplex model of overall achievement across the four ages; the prin
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Latent non-cognitive skill factors show high heritability (70–93%), varying by rater and developmental stage](latent-ncs-heritability-70-93-percent.md) — related
 - [Phenotypic correlations between the nine domains and GCSE are largely mediated genetically](gcse-domain-correlations-genetically-mediated.md) — related
+- [Latent general intelligence at age 11 correlates 0.81 with latent educational achievement at age 16](g-latent-correlation-0-81-gcse.md) — related

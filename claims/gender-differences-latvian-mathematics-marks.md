@@ -51,3 +51,4 @@ Between-gender comparison of marks in the 287-student cohort; regression-adjuste
 - [Final-exam achievement was higher than semester achievement for Latvian and foreign language but lower for mathematics](semester-versus-exam-achievement-shift.md) — related
 - [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — related
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
+- [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related

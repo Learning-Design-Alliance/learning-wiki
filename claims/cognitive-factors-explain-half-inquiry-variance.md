@@ -57,3 +57,4 @@ Hierarchical multiple regression of inquiry task factor scores of 232 young adul
 - [Canfield's learning style variables predicted academic success where cognitive style did not](canfield-learning-style-predicts-academic-success.md) — related
 - [Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept](student-characteristics-moderate-inquiry-effectiveness.md) — related
 - Almost half of the studies using simulated learners provide no validity evidence. — related
+- [A traditional regression-based change score model attributes only low explained variance in knowledge change to CVS scores (1–2%)](regression-low-cvs-explained-variance.md) — related
