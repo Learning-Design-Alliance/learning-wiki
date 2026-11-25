@@ -67,3 +67,5 @@ Friedman two-way analysis of variance of score ranks across the three testing co
 ## Related Claims
 - [In the formal test, children fail the same items they solved in the market because school-taught symbol routines replace quantity-based mental strategies](street-math-different-routines-two-settings.md) — related
 - [Minor rewording of structurally identical change problems raises children's success from 36% to 55%](rewording-raises-change-problem-success.md) — related
+- [Children working in markets accurately perform complex multi-step arithmetic in real transactions, mostly mentally](market-working-children-accurate-real-transactions.md) — a narrower finding that bears on this claim
+- [Market-working children fail abstract school-format arithmetic of equal or lesser complexity](working-children-fail-abstract-school-maths.md) — a narrower finding that bears on this claim

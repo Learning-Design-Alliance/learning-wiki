@@ -59,3 +59,4 @@ Zero-shot evaluation on most- and least-common distractor prediction tasks over 
 - [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — related
 - [Unconditioned single-phase distractor testing converges to the most common misconception and cannot validate understanding of individual student cognition](unconditioned-testing-converges-common-misconception.md) — related
 - [In a simulated educational context, LLM accuracy rises when the student mentions the correct answer and degrades when the student mentions an incorrect answer](llm-accuracy-shifts-when-students-mention-answers.md) — related
+- [A student's choice of incorrect answer on a diagnostic question reveals the nature of their misconception](wrong-answer-choice-reveals-misconception.md) — related

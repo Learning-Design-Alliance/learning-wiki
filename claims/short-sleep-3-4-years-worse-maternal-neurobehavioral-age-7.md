@@ -75,3 +75,4 @@ Same multivariable model as the BRIEF finding; the SDQ total difficulties estima
 - [In bivariate analyses, children sleeping <9 hours/day at ages 5-7 had higher mother- and teacher-reported BRIEF and SDQ scores than those sleeping ≥10 hours/day](bivariate-short-sleep-5-7-higher-brief-sdq.md) — related
 - [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md) — related
 - [Birth weights of 2.5–3.9 kg and ≥ 4.0 kg were associated with reduced odds of good academic performance compared with < 2.5 kg](birth-weight-reduced-odds-good-performance.md) — related
+- [Yo-yo sleeping — relative under-sleeping Sunday to Thursday with catch-up on Friday and Saturday — increases with age and is linked to poorer school attendance and performance](yo-yo-sleeping-school-performance.md) — related

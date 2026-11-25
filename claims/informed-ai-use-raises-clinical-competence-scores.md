@@ -52,3 +52,4 @@ Quasi-experimental pre-post crossover study of 326 physicians who took a precour
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — related
 - [Diagnosis, treatment planning, and patient counseling scores rose from pre-test to post-test after informed AI use, in one uncontrolled pre-post study](ai-informed-gains-across-three-skill-domains.md) — a narrower finding that bears on this claim
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
+- [Student mean scores and overall passing rates rose from before to after the faculty development intervention in one single-group pre-post study](fdp-associated-student-performance-gains.md) — related

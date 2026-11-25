@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 514 claims (274 for, 212 mixed, 28 against) · 388 studies (121 associational, 101 design, 68 causal, 49 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 388 report an effect size · 505 claims rest on one study
+> **Evidence** · 517 claims (277 for, 212 mixed, 28 against) · 390 studies (122 associational, 101 design, 68 causal, 49 review, 31 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 390 report an effect size · 507 claims rest on one study
 
 ## Conditional relationship
 
@@ -358,6 +358,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Generalizability of single hands-on science investigation scores across occasions 5 months apart is moderate, averaging 0.52 for observed investigations and 0.50 for notebook surrogates](../claims/performance-assessment-moderate-occasion-generalizability.md) [+W] — attached 2026-11-23 from Maria Araceli Ruiz-Primo et al. (1993), which proposed "Large-scale performance assessment requires sampling multiple investigations or occasions to generalize a single-occasion score dependably"; tests this page's relationship.
 - [Individual FCI questions show context shifts ranging from −3% to 10%, and all ten questions are statistically sensitive to context when treated as paired data](../claims/fci-individual-question-context-shifts-minus3-to-10-percent.md) [+W] — attached 2026-11-24 from John Stewart et al. (2007), which proposed "Use the FCI total score with confidence as an estimator of average student knowledge, since restrictive context transformations produce only a small total shift"; tests this page's relationship.
 - [Students who copied others' work or did not contribute to group discussion obtained high group scores but low individual test scores](../claims/copiers-and-noncontributors-low-individual-scores.md) [+W] — attached 2026-11-25 from Webb (1993), which proposed "Do not use scores from group assessment to make inferences about individual students' competence without data on group processes"; tests this page's relationship.
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](../claims/fci-uganda-low-reliability-alpha-0-15.md) [+W] — attached 2026-11-25 from Kirya et al. (2025), which proposed "Adapt concept inventory tools to the local educational and cultural context before relying on them for assessment".
+- [73.3% of FCI items showed poor discrimination and eight items had negative discrimination indices in the Ugandan sample](../claims/fci-uganda-poor-discrimination-73-percent.md) [+W] — attached 2026-11-25 from Kirya et al. (2025), which proposed "Adapt concept inventory tools to the local educational and cultural context before relying on them for assessment".
+- [Teacher-made tests tend to yield score reliabilities averaging about .50, while published standardized tests yield reliabilities of .85-.95](../claims/teacher-made-reliability-about-50-vs-standardized-85-95.md) [+W] — attached 2026-11-25 from Frisbie (1988), which proposed "Set minimum reliability standards according to how the scores will be used".
 
 ## Objective and learner-valued goal
 

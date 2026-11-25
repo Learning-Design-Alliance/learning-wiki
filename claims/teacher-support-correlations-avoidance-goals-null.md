@@ -53,3 +53,4 @@ Preliminary Pearson correlation analysis of all study variables (Table 1) showed
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
+- [All three perceived teaching styles correlate positively with agentic engagement, except controlling shows no significant correlation with mastery-approach goals](teaching-style-bivariate-correlations-agentic-engagement.md) — related

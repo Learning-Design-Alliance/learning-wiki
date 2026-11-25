@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5848 entries** · 0 stable · 5848 in review · 0 drafts
+**5850 entries** · 0 stable · 5850 in review · 0 drafts
 
 ---
 
@@ -942,6 +942,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Competency framework of knowledge and practice skills required for competent prescribing of psychotropics](competency-framework-of-knowledge-and-practice-skills-required-for-competent-prescribing-o.md) - A proposed framework by Gardner for organizing the pharmacological knowledge and clinical practice skills needed by psychiatry residents and other health professionals to prescribe psychotropics safely and effectively.
 * [Competency questionnaire based on the Basic Competency Standard for Vietnamese Nurses (110 indicators, 25 competencies)](competency-questionnaire-based-on-the-basic-competency-standard-for-vietnamese-nurses-110.md) - A web-based self-administered questionnaire developed by Horii Satoko et al.
 * [Competency-based framework for disaster nursing education built on the disaster cycle](competency-based-framework-for-disaster-nursing-education-built-on-the-disaster-cycle.md) - A disaster-nursing education framework that organizes prevention, preparedness, response, and recovery competencies across progressive nursing-practice levels and operational domains.
+* [Competition starter kit with utility scripts, sample baseline models, and local evaluation tooling](competition-starter-kit-with-utility-scripts-sample-baseline-models-and-local-evaluation-t.md) - A competition-organizer-released software kit that provides participants with submission templates, data-splitting and evaluation scripts, and baseline models for four educational-data-mining tasks.
 * [Compiled single- and multilevel design parameter database and OSF repository with R scripts and interactive Excel workbooks for RT study planning](compiled-single-and-multilevel-design-parameter-database-and-osf-repository-with-r-scripts.md) - A Stallasch et al.
 * [Complete Anatomy](complete-anatomy.md) - Complete Anatomy is 3D4Medical's commercially available mobile augmented-reality anatomy application for exploring interactive anatomical models on tablet devices.
 * [Completion by Design](completion-by-design.md) - A community-college redesign framework and initiative that coordinates institutional policies, practices, and programmes into completion pathways to improve student progress and credential attainment.
@@ -3725,6 +3726,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Perceived Medical School Stress Instrument (PMSS / PMSS-D)](perceived-medical-school-stress-instrument-pmss-pmss-d.md) - The PMSS is a 13-item Likert self-report questionnaire developed by Vitaliano et al.
 * [Perceived Social-Emotional Competence Scale (five dimensions)](perceived-social-emotional-competence-scale-five-dimensions.md) - A five-dimension, 1–7 student self-report scale developed by Collie for assessing adolescents’ perceived competence in social-emotional skills.
 * [Perceived Stress Scale-10 (PSS-10)](perceived-stress-scale-10-pss-10.md) - A 10-item self-administered questionnaire developed by Cohen and colleagues for measuring perceived stress during the preceding month.
+* [Perceived Teachers' Teaching Style Scale (PTTSS) with contextualized controlling-teaching items](perceived-teachers-teaching-style-scale-pttss-with-contextualized-controlling-teaching-ite.md) - The PTTSS is a Jiang et al.
 * [Percentile reference curves for motor adaptation and overall performance in children aged 3–17](percentile-reference-curves-for-motor-adaptation-and-overall-performance-in-children-aged.md) - Malone et al.'s reference curves provide age- and sex-specific percentiles for children's adaptation and final performance on the Push ball visuomotor rotation task.
 * [Perception of AI Utility Questionnaire](perception-of-ai-utility-questionnaire.md) - A 12-item Likert questionnaire developed by Suriá-Martínez et al.
 * [PERFECT checklist](perfect-checklist.md) - The PERFECT (Performance Assessment of Emergency Teams and Communication in Trauma Care) checklist is a validated observational scoring instrument developed for assessing paramedics' and emergency physicians' performance and communication in simulated pre-hospital trauma scenarios.

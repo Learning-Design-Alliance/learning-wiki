@@ -53,3 +53,4 @@ Repeated measures ANOVA comparing participants' scores before and after the 6-we
 - [Repeated Measures ANOVA on MAP scores in the fall and the spring indicated a significant difference (p < .001) for the overall composite score and for general science content and process standards separately.](pd-improved-student-achievement-map.md) — related
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
 - [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related
+- [Scores rose significantly from pretest to posttest across all four conditions in the decimals game, in a study with no comparison group](pretest-posttest-improvement-all-conditions.md) — a narrower finding that bears on this claim

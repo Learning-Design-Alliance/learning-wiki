@@ -50,3 +50,4 @@ Descriptive comparison of sleep habits in the 177-adolescent sample (52.0% femal
 ## Related Claims
 - [Poorer school grade average is associated with later weekend bedtime in 14-year-olds, independent of gender, pubertal stage and IQ](poor-grades-later-weekend-bedtime.md) — related
 - [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related
+- [Bedtimes get later with age at about 17 min per year on school days, with no differences between boys and girls](bedtimes-later-with-age-no-sex-difference.md) — related

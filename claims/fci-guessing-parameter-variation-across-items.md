@@ -52,3 +52,4 @@ Guessing-parameter results from the fitted item characteristic curves in the FCI
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
 - [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related
 - [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related
+- [Ugandan Senior Four students scored an average of 5.76 of 30 on the FCI, indicating the test was very challenging in this context](fci-uganda-mean-5-76-very-challenging.md) — related

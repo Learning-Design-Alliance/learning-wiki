@@ -5,6 +5,19 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-sim-14: fifteen simulator-cited sources from open copies
+
+Twenty sources the learning-graph simulator cites (Learning-engineering-research `data/articles.json`) with an open
+copy were queued, with Vasalampi et al. (2021) retried after a 503. Fifteen were read and ingested, writing 71 claims,
+2 designs, 2 products, 2 research methods and 4 strategies: Abdulghani et al. (2015), Baker et al. (2004), Banerjee
+et al. (2025), Frisbie (1988), Ilhan (2020), Jiang (2021), Kirya et al. (2025), Mogessie et al. (2020), Olds et al.
+(2010), Payne et al. (2012), Potkin & Bunney (2012), Starch & Elliott (1912, 1913), Vasalampi et al. (2021) and Wang
+et al. (2020). Both scope models voted six Olds sleep-norm claims and the Wang (2020) competition starter kit out of
+scope; they were kept under the methods rule, because the simulator's `constants.yaml` takes its sleep settings from
+Olds and its `targets.yaml` takes targets from Wang. Not read: Bailey et al. (2020), Delaney et al. (1998) and Pavlik &
+Anderson (2005), whose open links were landing pages; Brimi (2011), whose fetched file was not the article; and Fang et
+al. (2018), whose extraction failed structural validation (a failed run, to retry). Lint 0.
+
 ## 2026-11-25 · j-drive-13: four simulator-cited effort, motivation and learning-curve studies
 
 Seven sources the learning-graph simulator cites (Learning-engineering-research `data/articles.json`) were queued; four

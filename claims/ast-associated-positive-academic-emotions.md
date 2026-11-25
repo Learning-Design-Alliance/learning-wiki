@@ -52,3 +52,4 @@ Structural path in the SEM of 566 Chinese EFL students; the article also reports
 - [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](pae-mediate-ast-agentic-engagement.md) — related
 - [Direct effect of autonomy-supportive teaching on agentic engagement is significant but small relative to the indirect path](ast-direct-effect-small-partial-mediation.md) — related
 - [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](autonomy-support-predicts-agentic-engagement-map-mediated.md) — related

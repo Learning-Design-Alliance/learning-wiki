@@ -134534,5 +134534,85 @@
  "active-learning\tpeer pairs solving beam-prediction problems\tindividual control children": {
   "label": "peer collaboration vs individual learning",
   "treatment_is_a": true
+ },
+ "autonomy-support\tperceived autonomy-supportive teaching\tnot specified": {
+  "label": "autonomy-supportive teaching vs not specified",
+  "treatment_is_a": true
+ },
+ "case-comparison\tErroneous-examples game conditions\tPS-only game condition": {
+  "label": "erroneous examples vs problem-solving only",
+  "treatment_is_a": true
+ },
+ "case-comparison\tconditions including erroneous examples\tPS-only condition": {
+  "label": "erroneous examples vs problem-solving only",
+  "treatment_is_a": true
+ },
+ "case-comparison\terroneous-examples conditions\tPS-only condition": {
+  "label": "erroneous examples vs problem-solving only",
+  "treatment_is_a": true
+ },
+ "case-comparison\terroneous-examples conditions\tproblem-solving-only condition": {
+  "label": "erroneous examples vs problem-solving only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMCQ item-writing faculty development workshop\tpre-training MCQs": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMCQ item-writing faculty development workshop\tpre-training faculty MCQs": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMCQ-writing faculty development workshop\tpre-training MCQ writing": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-day MCQ item-writing faculty development workshop\tpre-training academic year": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-day MCQ-writing faculty development workshop\tpre-training academic year without workshop": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12 hr sleep retention interval\t12 hr wake retention interval": {
+  "label": "sleep vs wake retention interval",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year accelerated graduate-entry medicine\t5-year standard medicine": {
+  "label": "accelerated/graduate-entry medicine vs standard medicine",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year accelerated medicine programme\t5-year standard medicine programme": {
+  "label": "accelerated/graduate-entry medicine vs standard medicine",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year graduate-entry medicine course\t5-year medicine course": {
+  "label": "accelerated/graduate-entry medicine vs standard medicine",
+  "treatment_is_a": true
+ },
+ "learner-difference\t41–50-year-old respondents\t51–60-year-old respondents": {
+  "label": "younger adults (41–50) vs older adults (51–60)",
+  "treatment_is_a": true
+ },
+ "learner-difference\t42% of teachers in training who did not recognize experimentation's contributions\tother teachers in training": {
+  "label": "recognized experimentation contributions vs did not recognize experimentation contributions",
+  "treatment_is_a": false
+ },
+ "learner-difference\t43 Turkish university science-education majors\t397 US algebra-based introductory-physics students": {
+  "label": "Turkish science-education majors vs US introductory-physics students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-, 5th-, and 6th-year students\tstudents from the other study years": {
+  "label": "4th–6th-year students vs students from other study years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-grade gifted physics pupils in Nis\tSerbian grammar-school pupils": {
+  "label": "gifted physics pupils vs grammar-school pupils",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-grade pupils in the special physics class\tGrammar school pupils": {
+  "label": "special physics-class pupils vs grammar-school pupils",
+  "treatment_is_a": true
  }
 }

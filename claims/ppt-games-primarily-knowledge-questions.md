@@ -52,3 +52,4 @@ Thematic analysis by two subject matter experts coding student game questions wi
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [The cartooning activity engaged students in cognitive processes beyond the first level of Bloom's taxonomy, including analysis, evaluation and creativity](cartooning-blooms-taxonomy-higher-order.md) — related
 - [Medical students can write cognitively challenging MCQs: 74% of student-generated pathology MCQs required application or analysis](student-mcqs-majority-application-analysis.md) — related
+- [K2 MCQs under Bloom's taxonomy rose from 84 (35.0%) to 123 (51.3%) and K1 items fell from 156 to 117 from pre-training to post-training, in one uncontrolled pre-post study](fdp-increases-k2-cognitive-level-items.md) — reports the opposite

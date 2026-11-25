@@ -57,3 +57,4 @@ Reading holdout comparison of full feature-based models against metadata-only mo
 - [All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy](all-assertion-sources-contribute-predictive-accuracy.md) — a narrower finding that bears on this claim
 - [The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin](explainable-model-outperforms-closed-track-baseline.md) — related
 - [Adding LLM-extracted pedagogical features raises difficulty-prediction correlation from about 0.68 to about 0.78 over embeddings and traditional features](llm-pedagogical-features-drive-difficulty-gain.md) — related
+- [In fourth-grade stepwise regression, cognitive level predicted 12% of item difficulty variance, rising to 19% with item type added](regression-cognitive-level-fourth-grade-difficulty.md) — related

@@ -69,3 +69,4 @@ Figure 2 translates school variance components from Models 3a and 5c into GPA un
 - [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](teacher-effects-one-fifth-within-student-variance.md) — related
 - [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — a broader claim this one bears on
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related
+- [Small high schools tended to grade somewhat more leniently than large high schools, by 2.7 and 1.7 points, with the same range of variation.](small-schools-grade-more-leniently.md) — related

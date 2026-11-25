@@ -51,3 +51,4 @@ Descriptive comparison of formative reading quiz grades from Moodle records acro
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — a broader claim this one bears on
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [High-gaming students scored substantially lower on the post-test than never-gaming students with equally low pre-test scores (44% vs 68%).](high-gaming-lower-posttest-than-matched-low-pretest.md) — related

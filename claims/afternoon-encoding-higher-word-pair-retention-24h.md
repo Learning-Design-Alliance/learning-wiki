@@ -76,3 +76,5 @@ Same randomized two-group experiment, second retention interval. The Day 1 to Da
 - [Twenty-four-hour consolidation of motor skill differs according to the time of day of training, with deterioration in the morning, stabilization in the afternoon, and improvement in the evening](consolidation-depends-on-training-time-of-day.md) — related
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — related
 - [Learning performance did not differ between evening and morning learning sessions, and there were no order effects of the counterbalanced conditions](no-order-effect-equal-learning-evening-morning.md) — related
+- [A night of sleep improves auditory declarative memory in early adolescents, with a 20.6% advantage in paired-associate recall over an equal interval without sleep](sleep-improves-declarative-memory-adolescents.md) — related
+- [Time of day of encoding (9am vs 9pm) has no effect on training performance or initial memory for either word pair type](time-of-day-no-effect-initial-memory.md) — related

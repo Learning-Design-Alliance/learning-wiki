@@ -52,6 +52,7 @@ The article recommends rebalancing exam design: "Shift the way exams are held: f
 - [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](accommodate-every-preference-diversify-strategies.md)
 - [Shift exams from almost 100% multiple-choice to a 50% MC / 50% open-ended mix to diversify reasoning structure](fifty-fifty-mc-oe-exam-mix-strategy.md)
+- [Include more open-ended items in classroom measurement and evaluation to reduce students' difficulty with that format](include-more-open-ended-items-in-assessment.md)
 
 ## Examples
 -

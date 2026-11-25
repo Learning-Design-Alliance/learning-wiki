@@ -57,3 +57,4 @@ Same randomized study's immediate posttest analysis: "a marginally significant e
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
 - [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — related
 - [Confidence and total score were significantly positively correlated only for Group A at immediate posttest](dramatization-confidence-score-correlation-group-a-posttest.md) — related
+- [Erroneous examples in the game did not improve posttest performance, failing to replicate the prior intelligent-tutor finding](errex-game-no-posttest-advantage.md) — related

@@ -62,3 +62,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [Medical students can write cognitively challenging MCQs: 74% of student-generated pathology MCQs required application or analysis](student-mcqs-majority-application-analysis.md) — related
 - [Instructor review of student-authored MCQs retained most of them in a repository whose questions spanned diverse taxonomic levels of knowledge](student-mcq-repository-quality.md) — related
 - [Student answer categories for the model-definition question map onto levels and themes previously reported in the literature, such as Grosslight et al.'s Level 1 and models-as-exact-replicas](model-conception-categories-map-to-literature.md) — related
+- [K2 MCQs under Bloom's taxonomy rose from 84 (35.0%) to 123 (51.3%) and K1 items fell from 156 to 117 from pre-training to post-training, in one uncontrolled pre-post study](fdp-increases-k2-cognitive-level-items.md) — related

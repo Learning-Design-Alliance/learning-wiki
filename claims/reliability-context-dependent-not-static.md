@@ -3,6 +3,7 @@ type: claim
 title: Reliability is context-dependent rather than a static attribute of a measurement tool
 description: Reliability is context-dependent rather than a static attribute of a measurement tool
 id: reliability-context-dependent-not-static
+aliases: [reliability-property-of-scores-not-test]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -19,16 +20,27 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
+  - id: frisbie-1988
+    resource: "https://doi.org/10.1111/j.1745-3992.1988.tb00422.x"
+    title: "Frisbie, D. A. (1988). Reliability of Scores From Teacher-Made Tests. ITEMS Instructional Topics in Educational Measurement, NCME. https://doi.org/10.1111/j.1745-3992.1988.tb00422.x"
+    author: Frisbie, D. A.
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Reliability is context-dependent rather than a static attribute of a measurement tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
+
 `q1 i?` Reliability depends on the context in which a tool is intended to be used, including facets such as occasions, conditions, and raters, rather than being a fixed property of the tool. [→ Santomauro Chiara M. 2020](#santomauro-chiara-m-2020)
+
+`q1 i?` Reliability describes the consistency or error-free-ness of a set of scores obtained from a particular group under particular conditions, not a fixed attribute of the test instrument. [→ Frisbie 1988](#frisbie-1988)
 
 ## Evidence
 
@@ -42,10 +54,22 @@ Theoretical exposition in the article's reliability section, framed via generali
 
 > "reliability is not simply a static attribute of a tool (or the measurements derived from it); rather, reliability depends on the context in which the tool is intended to be used."
 
+### Frisbie 1988
+
+Frisbie, D. A. (1988). Reliability of Scores From Teacher-Made Tests. ITEMS Instructional Topics in Educational Measurement, NCME. https://doi.org/10.1111/j.1745-3992.1988.tb00422.x
+
+`q1 · i?` · `theoretical · r2`
+
+Theoretical exposition in the module's opening section. The article argues that "Reliability is the name given to one of the properties of a set of test scores", so the same test can yield reliable scores for one class or occasion and unreliable ones for another.
+
+> "Reliability is the name given to one of the properties of a set of test scores-the property that describes how consistent or error-free the measurements are."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
 - [In the generalizability study, students (16.47%) and residual error (55.38%) dominate score variance, with items at 9.98% and occasions at 2.10%](gtheory-variance-components-pio-vsaq.md) — a narrower finding that bears on this claim
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — a narrower finding that bears on this claim

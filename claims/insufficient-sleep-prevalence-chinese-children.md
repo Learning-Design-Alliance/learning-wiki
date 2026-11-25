@@ -58,3 +58,4 @@ Cross-sectional survey of 20,778 children in eight Chinese cities; sleep duratio
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — related
 - [Many first-year students report short regular sleep duration, more than half in the School of Sciences sample and almost a third in the Psychology sample](short-regular-sleep-prevalence-freshmen.md) — related
 - [Medical students have less rest time compared to dental students](medical-students-less-rest-time-dental.md) — related
+- [Bedtimes get later with age at about 17 min per year on school days, with no differences between boys and girls](bedtimes-later-with-age-no-sex-difference.md) — related

@@ -63,3 +63,4 @@ The only entry here is a policy report's narrative summary of Cohen et al. (2009
 - [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related
 - [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — possibly the same claim (merge candidate)
 - [Stereotype threat does little to explain subgroup differences in selection contexts](stereotype-threat-not-supported-in-selection.md) — related
+- [Limited skill transfer is not explained by stress, stereotype threat, incentives, or hints](transfer-gap-not-explained-by-confounds.md) — related

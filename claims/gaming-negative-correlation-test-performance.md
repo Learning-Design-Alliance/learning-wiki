@@ -49,3 +49,5 @@ Study 1 correlation analysis (Table 2) between test scores, gender, and gaming r
 - [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](se-gaming-predicts-delayed-posttest.md) — related
 - [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — related
 - [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related
+- [Confrustion is a significant negative predictor of posttest performance in a decimals learning game, even after controlling for pretest](confrustion-negative-predictor-posttest-decimals-game.md) — related
+- [Gaming the system is a significant negative predictor of posttest performance in the decimals game, controlling for pretest](gaming-negative-predictor-posttest-decimals-game.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Post-hoc distractor-tracking analysis comparing each distractor's performance ac
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related

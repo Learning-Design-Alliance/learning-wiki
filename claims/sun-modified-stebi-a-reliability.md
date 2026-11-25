@@ -50,3 +50,4 @@ Psychometric evaluation of the modified instrument using 42 pretests and 24 post
 - [SUN workshop participation significantly increases high school biology teachers' knowledge of biological energy transfer, with gains maintained 1 yr later versus randomized controls](sun-workshop-teacher-knowledge-gains-sustained.md) — related
 - [SUN workshop participation significantly increases teachers' self-efficacy for teaching biological energy transfer, sustained 1 yr later](sun-workshop-teacher-self-efficacy-gains-sustained.md) — related
 - [Learning Assistants showed positive change on 4 of 23 STEBI items over the semester](la-stebi-positive-change.md) — related
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](fci-uganda-low-reliability-alpha-0-15.md) — related

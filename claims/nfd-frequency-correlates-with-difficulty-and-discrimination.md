@@ -60,3 +60,4 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related
 - [Four-option items averaged 1.18 non-functioning distractors, and removing one markedly improved discrimination and model fit for item 45](non-functioning-distractors-average-1-18.md) — related
 - [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related

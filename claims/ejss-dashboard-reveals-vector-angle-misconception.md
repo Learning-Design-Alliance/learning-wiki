@@ -52,3 +52,4 @@ Authors' illustrative example (Section 2.1) of the vectors simulation: a student
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
 - [A Learning Analytics-Moodle extension monitors and records EjsS simulation interactions in real time and displays an individual on-task metric and current simulation state on an instructor dashboard](ejss-moodle-real-time-interaction-monitoring.md) — related
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — related
+- [A student's choice of incorrect answer on a diagnostic question reveals the nature of their misconception](wrong-answer-choice-reveals-misconception.md) — related

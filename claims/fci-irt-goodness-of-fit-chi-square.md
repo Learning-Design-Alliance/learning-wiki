@@ -51,3 +51,4 @@ Goodness-of-fit analysis of the three-parameter item response model fitted to FC
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
 - [FCI raw score and IRT-derived proficiency have an approximately linear relationship with R2 equal to 0.994](fci-raw-score-linear-with-irt-proficiency.md) — related
 - [Tests whose item characteristic curves are well separated show very low answer change, with a maximum of 0.25/N for N separated questions](separated-item-curves-minimize-answer-change.md) — related
+- [73.3% of FCI items showed poor discrimination and eight items had negative discrimination indices in the Ugandan sample](fci-uganda-poor-discrimination-73-percent.md) — related

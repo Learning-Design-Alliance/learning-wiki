@@ -69,3 +69,4 @@ Dot product analysis of item 38 comparing IDWA and IDWJ (Fig. 5). The authors no
 - [Item 32 shows the largest American-Japanese IRC difference: American students mostly choose action-dependence answer B while Japanese students mostly choose F](item-32-largest-irc-difference.md) — related
 - [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
+- [IRC analysis classified FCI items 4, 9 and 21 as inefficient for Ugandan students, while item 1 was effective](irc-analysis-inefficient-fci-items-4-9-21.md) — related

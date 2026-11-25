@@ -86,3 +86,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
 - [Both groups improved from pre- to post-intervention, with a larger within-group effect in the intervention group](ebp-within-group-gains-both-groups.md) — related
 - [Mid-term retention of quantum concepts is stable across representation groups, with early post-test performance the strongest predictor of retention](early-performance-predicts-midterm-retention-qubit.md) — related
+- [Scores rose significantly from pretest to posttest across all four conditions in the decimals game, in a study with no comparison group](pretest-posttest-improvement-all-conditions.md) — a narrower finding that bears on this claim

@@ -26,6 +26,7 @@ The researchers introduced three word embedding methods and three classifiers as
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Word embedding and classifier toolkit for predicting accessible math item quality**: The researchers introduced three word embedding methods and three classifiers as a toolkit for predicting item quality for accessible assessments. The brief states that "The researchers introduced three word embedding methods and three classifiers to predict item quality for accessible assessments." This toolkit operationalizes the study's goal of using AI to identify which math items work well for students with visual impairments who use screen readers, supporting a new way to present math content online. (Kang Xue (2022))
+- **Task 3: unsupervised global question-quality ranking evaluated against expert teacher judgements**: Task 3 asks participants to devise a quality metric and submit a ranking of all 948 questions, with no expert labels provided, making it an unsupervised learning problem. Evaluation compares the submitted ranking's implied pairwise preferences against expert teachers' judgements, scoring by the maximum agreement fraction over experts. The article describes such a metric as providing "a scalable way to evaluate the quality of the questions submitted by teachers" and guiding teachers' question choice and revision. (Zichao Wang et al. (2020))
 
 ### Claims
 - [Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments](../claims/word-embedding-classifiers-predict-item-quality-vi.md) [+W]
@@ -39,8 +40,8 @@ The researchers introduced three word embedding methods and three classifiers as
 
 ## Key Sources
 - Kang Xue, Elizabeth Barker. (2022). Using Artificial Intelligence (AI) to improve math accessibility for students with visual impairments. https://www.nwea.org/resources/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/
-
 <!-- merged 2026-10-10 from elements/word-embedding-classifier-toolkit-accessible-math-items ("Word embedding and classifier toolkit for predicting accessible math item quality"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Zichao Wang, Angus Lamb, Evgeny Saveliev, Pashmina Cameron, Yordan Zaykov, José Miguel Hernández-Lobato, Richard E. Turner, Richard G. Baraniuk, Craig Barton, Simon Peyton Jones, Simon Woodhead, Cheng Zhang. (2020). Instructions and Guide for Diagnostic Questions: The NeurIPS 2020 Education Challenge. https://arxiv.org/abs/2007.12061
 
 # Word embedding and classifier toolkit for predicting accessible math item quality
 

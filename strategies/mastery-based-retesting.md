@@ -68,6 +68,7 @@ The strategy operationalizes Bloom's "learning for mastery" model: with adequate
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
 - [Allow learners self-paced, unlimited practice repetitions until they judge themselves competent](self-paced-practice-until-self-judged-competency.md)
 - [Sequence the quizzes so prerequisite mastery gates access to later course work](quiz-sequencing-mastery-gating-strategy.md)
+- [When reliability is too low, first improve the causes and retest; otherwise discount the scores' weight in decisions](retest-or-discount-low-reliability-scores.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (University of Chicago, 1968)** — the original model: unit tests, corrective instruction, parallel retests, with ~80% of mastery-group students reaching levels only ~20% of control students attained.

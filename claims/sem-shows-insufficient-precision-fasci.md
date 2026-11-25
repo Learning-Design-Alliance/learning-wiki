@@ -71,3 +71,4 @@ Plot of all 60 mean SCI scores with 95% confidence intervals based on SEM δ = 0
 - [Criterion-referenced coefficients Φ(λ) above 0.95 support pass-or-fail decisions about scenario quality at cut-scores based on borderline scenario means](qassh-cut-score-decision-reliability.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [In the G Study, most observed-score variance lies in the person-by-item interaction for FA (~60%) and in the items themselves for SCI (42%)](g-study-variance-items-dominate-error.md) — related
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](fci-uganda-low-reliability-alpha-0-15.md) — related

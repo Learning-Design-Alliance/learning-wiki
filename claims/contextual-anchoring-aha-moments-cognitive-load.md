@@ -51,3 +51,4 @@ Semi-structured interviews conducted with each of the 40 participants immediatel
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Productive reflective discussion about teaching is anchored in specific observed practices and in connections between concrete examples and general principles of teaching and learning](contextual-and-conceptual-anchors-productive-reflection.md) — related
 - [Analogical bridges were the most frequently used mechanism of interest integration, with illustrative examples and contextualizing scenarios also employed](interest-integration-mechanisms-frequency.md) — related
+- [Meaningfulness has opposite effects for the two groups: anchoring helps working children but hurts non-working school children](anchoring-helps-working-hurts-school-children.md) — related

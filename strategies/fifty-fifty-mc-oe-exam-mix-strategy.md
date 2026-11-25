@@ -54,6 +54,7 @@ The article recommends changing how exams are held so that reasoning structures 
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 - [Combine diverse assessment categories (practical structure identification, oral tests, open-ended questions) rather than relying on MCQs alone](combine-assessment-categories-anatomy.md)
 - [Build multiple-choice distractors and reasoning elements from a database of authentic student free-response answers](build-mc-distractors-from-student-response-database.md)
+- [Include more open-ended items in classroom measurement and evaluation to reduce students' difficulty with that format](include-more-open-ended-items-in-assessment.md)
 
 ## Examples
 -
