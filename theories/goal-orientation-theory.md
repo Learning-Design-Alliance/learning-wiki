@@ -13,7 +13,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 73 claims (52 for, 21 mixed) · 39 studies (24 associational, 6 causal, 4 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 39 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (55 for, 21 mixed) · 40 studies (24 associational, 7 causal, 4 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 76 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -135,6 +135,9 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Learning orientations show no differences on FCI posttest scores or overall course grades within the single-course scope](../claims/learning-orientation-no-fci-grade-difference.md) [~W] — attached 2026-11-18 from Mason et al. (2017), which proposed "Learning-orientation taxonomy (Framework / Performance / Vague) mapping mastery and performance achievement goals onto a single-course problem-solving context"; tests this page's relationship.
 - [Roughly half of students made few brief first attempts, while 10-15% made brief attempts on all of the first four modules, consistent with a performance-avoidance strategy](../claims/brief-attempts-performance-avoidance-strategy.md) [+W] — attached 2026-11-18 from Kyle M. Whitcomb et al. (2020), which proposed "Performance-avoidance goal orientation within the 2x2 achievement goal framework explains strategic guessing on required first attempts".
 - [Integrating discriminant and criterion validity findings, the 4-factor achievement goal model is the best choice for understanding learning outcomes](../claims/four-factor-model-best-choice.md) [+W] — attached 2026-11-23 from Chiungjung Huang (2012), which proposed "The 2x2 achievement goal framework distinguishing mastery, performance, approach, and avoidance goals"; tests this page's relationship.
+- [Reciprocity and exploitation orientations mediate the effect of achievement goals on openness in information giving](../claims/reciprocity-exploitation-mediate-openness-effect.md) [+W] — attached 2026-11-25 from Poortvliet et al. (2007), which proposed "Reciprocity and exploitation orientations as mediators of achievement goal effects on information exchange"; tests this page's relationship.
+- [Performance goals produce less openness in information giving than mastery or no goals](../claims/performance-goals-reduce-information-giving-openness.md) [+M] — attached 2026-11-25 from Poortvliet et al. (2007), which proposed "Reciprocity and exploitation orientations as mediators of achievement goal effects on information exchange"; tests this page's relationship.
+- [Performance goals lead to less utilization of low-quality information than mastery or no goals, mediated by perceived information quality](../claims/performance-goals-disregard-low-quality-information.md) [+W] — attached 2026-11-25 from Poortvliet et al. (2007), which proposed "Reciprocity and exploitation orientations as mediators of achievement goal effects on information exchange".
 
 ## The evidence by question
 

@@ -60,3 +60,4 @@ Mediation analysis used bootstrapping with 5000 resamples and 95% bias-corrected
 - [Learning engagement mediates the association between teacher support and mathematics achievement.](learning-engagement-mediation-teacher-support-achievement.md) — related
 - [The chain mediation involving mastery avoidance goal between perceived teacher support and learning engagement is not statistically significant](mastery-avoidance-chain-mediation-null.md) — related
 - [Time management directly predicts study engagement among college students](time-management-directly-predicts-study-engagement.md) — related
+- [Reciprocity and exploitation orientations mediate the effect of achievement goals on openness in information giving](reciprocity-exploitation-mediate-openness-effect.md) — related

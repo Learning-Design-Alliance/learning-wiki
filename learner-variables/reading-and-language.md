@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 353 claims (218 show a difference, 62 mixed, 73 no difference) · 247 studies (100 causal, 59 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 247 report an effect size · 344 claims rest on one study
+> **Evidence** · 354 claims (219 show a difference, 62 mixed, 73 no difference) · 248 studies (101 causal, 59 associational, 36 quant-synthesis, 33 review, 8 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 53 of 248 report an effect size · 345 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -404,6 +404,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [English language learner status, IEP enrollment, parental education, sex, and BMI z-score are associated with math and English achievement in this sample](../claims/ell-iep-education-achievement-associations.md) [+M] — learners who differ on it differ in outcomes
 - [Oral language and listening comprehension interventions improved language and reading comprehension after 20-30 weeks of instruction but not after 9 weeks among young struggling readers](../claims/oral-language-intervention-20-30-weeks-gains.md) [~M] — measured as an outcome of the instruction studied
 - [The reading-to-math coupling finding holds when controlling for nonverbal cognitive abilities](../claims/reading-math-coupling-robust-nonverbal-iq.md) [+M] — learners who differ on it differ in outcomes
+- [Phoneme awareness at post-test predicted spelling and reading comprehension one year later, and reading comprehension at post-test predicted later spelling](../claims/crosslagged-phoneme-awareness-predicts-literacy.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

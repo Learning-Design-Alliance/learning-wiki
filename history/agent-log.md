@@ -5,6 +5,24 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-8: 26 simulator sources from the maintainer's Drive folder
+
+`j-drive-8` read 26 sources: Tudge 1992 from the clean Wiley copy the maintainer sent, 21 newly uploaded
+simulator sources (Carroll 1963, Kail 1991, Kane 2013, Smith & Karpicke 2013, Glenberg 1976, Backhaus 2008,
+the self-concept and achievement-goal studies from Wolff, Lohbeck, Weidinger, Schneider & Sparfeldt, Jansen,
+Mägi, Kilp-Kabel and Guo, and others), and four `j-drive-5` failures re-extracted from the Drive PDFs
+(Bahrick 1991, Deary 2007, Poortvliet 2007, Snell 2007), whose cached text had interleaved columns. Corbett
+1995 was retried from its earlier text, because the Drive copy is image-only. 21 were ingested and 121 pages
+kept, with no citation removed or flagged. Five failed validation: Corbett 1995, Deary 2007 and Lohbeck 2019
+on impact codes that do not match a printed statistic, Tudge 1992 on one quotation, and Glenberg 1976 because
+the model cut its DOI off at the parenthesis. Two pages were removed because both scope models judged them
+out of scope: a product page for Kail's compiled set of response-time pairs (a review's dataset is not a
+product) and a strategy recommending bedtimes to control children's weight. Two Kail claims that both scope
+models also judged off-topic are kept, because the simulator's `mechanisms.yaml` takes its exponential
+capacity growth from Kail 1991, which the methods-paper rule allows. Snell's and Poortvliet's other claims
+stay for the same reason. Steinberg & Sabella 1997, Lemaire & Siegler 1995, Webb 1993 and Alibali &
+Goldin-Meadow 1993 are image-only PDFs with no text layer, so they were not read.
+
 ## 2026-11-24 · j-drive-7: Kuncel 2004 and Schwinger 2014 on a third try; Tudge 1992 needs OCR
 
 `j-drive-7` re-ran the three sources still failing after `j-drive-6`. Schwinger 2014 was re-extracted from

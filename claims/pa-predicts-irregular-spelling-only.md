@@ -73,3 +73,4 @@ Mixed-model analyses for regular word and pseudoword spelling reported insignifi
 - [Irregular word and pseudoword spelling dissociate after controlling for year group, consistent with distinct lexical and sublexical processes](irregular-pseudoword-spelling-dissociation.md) — related
 - [Reading is the strongest predictor of spelling across all word types, while sublexical knowledge predicts pseudoword spelling only and is negatively associated with irregular word spelling](reading-strongest-predictor-sublexical-pseudoword-only.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Phoneme awareness at post-test predicted spelling and reading comprehension one year later, and reading comprehension at post-test predicted later spelling](crosslagged-phoneme-awareness-predicts-literacy.md) — related

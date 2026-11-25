@@ -76,3 +76,4 @@ Preregistered 2 × 2 mixed ANOVA (random 25% vs. random 75% groups) on final acc
 - [High representational fidelity of neural context reinstatement during covert retrieval predicted better verbal recall at both short and one-week delays](fmi-reinstatement-fidelity-predicts-recall.md) — related
 - [No significant difference in learning between overt (observable) and covert (mental) practice during film participation](overt-covert-practice-no-difference.md) — related
 - [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](cue-integration-improves-word-list-recall-exp3.md) — related
+- [Naturalistic retention shows no statistically significant difference in decline between recall and recognition test formats](recall-recognition-equal-decline-naturalistic.md) — related

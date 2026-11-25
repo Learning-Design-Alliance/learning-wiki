@@ -69,3 +69,4 @@ Using a trimmed-mean regression percentage formula on the same TEDS longitudinal
 - [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](gpad-equals-cogdelta-prediction-and-joint-26-percent.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Peer-evaluated effectiveness shows significant slope variance across participants, whereas self-reported effectiveness shows no significant development across rounds](barnga-slope-variance-outcome-difference.md) — related
+- [Underachievement is reinterpreted as insufficient time spent relative to time needed, from perseverance, instruction quality, or opportunity](underachievement-reinterpreted-time-ratio.md) — related

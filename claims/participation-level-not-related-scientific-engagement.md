@@ -50,3 +50,4 @@ A homophily analysis categorized participants by post totals into high, medium, 
 - [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related
 - [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md) — related
 - [Higher-scoring students in the data collection phase envisioned more meaningful engagement between scientists and the public](cl-data-collection-phase-meaningful-public-engagement.md) — related
+- [Information allegedly from a practitioner elicits moderately higher topic-specific multiplism than information from experts or scientists](practitioner-source-higher-multiplism.md) — related

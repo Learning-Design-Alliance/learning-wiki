@@ -66,3 +66,4 @@ The review attributes this to Marsh et al. (2018a, 2018b) and Lüdtke & Robitzsc
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Autoregressive effects greatly exceed cross-lagged effects (mean OR 31.46 vs 1.05), indicating strong temporal stability of constructs](autoregressive-effects-exceed-cross-lagged.md) — related
 - [Academic self-efficacy and academic performance reciprocally influence each other over time in two-wave panel data](self-efficacy-performance-reciprocal-effects.md) — related
+- [Positive reciprocal relations exist between math and German grades but not between math and German self-concepts at cross-lags](positive-grade-reciprocal-relations-no-self-concept-reciprocity.md) — related

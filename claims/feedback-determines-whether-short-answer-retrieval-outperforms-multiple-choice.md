@@ -103,3 +103,5 @@ The chapter reports Little et al. (2012), who found multiple-choice better witho
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
 - [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](vsaq-lower-initial-retrieval-success.md) — possibly the same claim (merge candidate)
 - [Adding self-assessment questions did not lead to better exam performance in 2023](saqs-no-exam-improvement.md) — related
+- [In Experiment 4, piloted question selection and shorter texts narrowed but did not eliminate the initial retrieval success gap between multiple-choice and short-answer formats](exp4-pilot-equated-initial-success.md) — related
+- [Retrieval during short-answer questions is more difficult (slower response times) than during multiple-choice questions, yet difficulty did not predict greater delayed retention](short-answer-more-difficult-by-response-time.md) — related

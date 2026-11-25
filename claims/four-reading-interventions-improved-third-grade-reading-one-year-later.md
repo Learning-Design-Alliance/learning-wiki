@@ -75,3 +75,5 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 - [Poor cognitive skills of the lowest-performing first-grade school entrants can be remediated through a two-year training intervention](poor-cognitive-skills-remediated-primary-intervention.md) — related
 - [Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.](anticipatory-reading-guides-improve-third-grade-comprehension.md) — related
 - [Remediation programs with cognitive skill goals showed significant positive effects, while programs with non-cognitive goals showed no significant effects on test scores](cognitive-goals-effective-non-cognitive-null.md) — related
+- [Students with the lowest initial word decoding skills benefited most from the intervention (significant interaction of group assignment and initial decoding)](lowest-decoders-benefited-most-interaction.md) — related
+- [A 12-week multicomponent grade-3 reading intervention shows a sustained significant effect on word decoding 5 years later](sustained-word-decoding-effect-5-years.md) — related

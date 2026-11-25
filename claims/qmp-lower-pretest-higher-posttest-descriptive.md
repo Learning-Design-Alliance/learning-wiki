@@ -48,3 +48,4 @@ Descriptive comparison of pre-test and post-test results summarized in Table 2. 
 - [Automated formative evaluations via QMP produced no statistically significant reading comprehension improvement compared to printed materials](qmp-automated-formative-evaluations-no-significant-reading-gains.md) — related
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [Students reported positive attitudes toward QMP-based automated formative evaluations](qmp-student-satisfaction-positive-attitudes.md) — related
+- [The control group started with lower Forces content knowledge than the intervention group before the unit, motivating pre-test-adjusted analyses](pretest-dck-difference-between-conditions.md) — related

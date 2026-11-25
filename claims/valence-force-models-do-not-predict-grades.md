@@ -68,3 +68,4 @@ Same multilevel null result for the force model on self-reported final course gr
 - [Simplified force model (expectancy × valence, no instrumentality) predicts grades and adds incremental validity beyond cognitive ability](simplified-force-model-predicts-grades-incremental-validity.md) — reports the opposite
 - [The valence model and the force model each predict a student's current level of study effort](valence-force-models-predict-study-effort.md) — related
 - [Valence and the simplified force model also predict current study effort](valence-simplified-force-predict-effort.md) — related
+- [The approach/avoidance valence dimension shows no effects on information giving or information utilization](no-valence-dimension-effects-information-exchange.md) — related

@@ -106,6 +106,7 @@ Repeated reading builds fluency by strengthening the orthographic representation
 - [Wide Reading](../strategies/wide-reading.md) — the necessary complement; fluency generalizes only through volume of varied text
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — reduces decoding and meaning obstacles before rereading
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
+- [Repeated reading with individualized text sets and progress graphs for fluency training](repeated-reading-progress-graphs-fluency.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — implements the full sequence: audio modeling, timed repeated readings, graphs of words-correct-per-minute, and comprehension questions.

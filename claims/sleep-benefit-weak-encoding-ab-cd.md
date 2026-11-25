@@ -72,3 +72,5 @@ Experiment 2 intense-encoding condition (90% criterion): retention was high in b
 - [Sleep after learning provides recovery from retroactive interference, preferentially improving recall of the first (A-B) list compared with wakefulness in an A-B, A-C paradigm](sleep-recovery-retroactive-interference-ab-list.md) — related
 - [Sleep after learning enhances retention of 2D object locations in both children and adults](sleep-enhances-object-location-retention-children-adults.md) — related
 - [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](sleep-no-next-day-protection.md) — related
+- [Retention of word pairs across sleep correlates positively with the percentage of NonREM sleep and negatively with the percentage of REM sleep](nonrem-positive-rem-negative-retention-correlations.md) — related
+- [Children retain significantly more learned word pairs after a retention interval containing sleep than after one containing wakefulness](sleep-interval-enhances-word-pair-retention-children.md) — related

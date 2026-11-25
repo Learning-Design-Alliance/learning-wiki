@@ -68,3 +68,4 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related
 - [Most variance in students' situational motivation lies at the individual ESM-survey level, with only 3.2%–4.3% at the shared learning-situation level](motivation-variance-decomposition-esm-level.md) — related
 - [Epistemic cognitions are often situation-specific, varying across contexts and even within a single conversation](context-specificity-of-epistemic-cognition.md) — related
+- [Most variance in student teachers' topic-specific absolute beliefs lies within persons across topics, not between persons](topic-specific-absolutism-variance-within-person.md) — related

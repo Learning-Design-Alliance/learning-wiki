@@ -85,3 +85,5 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — a broader claim this one bears on
 - [Mastery goals are often unrelated to academic achievement](mastery-goals-often-unrelated-achievement.md) — reports the opposite
 - [Approach motivations are associated with higher academic achievement and avoidance motivations with lower academic achievement](approach-goals-higher-avoidance-lower-achievement.md) — possibly the same claim (merge candidate)
+- [Children's mastery goal orientation shows no association with math achievement outcomes in the primary grades](mastery-goals-no-achievement-link-primary-math.md) — reports the opposite
+- [Performance-approach goal orientation was not negatively related to math achievement in this primary-grade sample](performance-approach-not-negative-primary-math.md) — a narrower finding that bears on this claim

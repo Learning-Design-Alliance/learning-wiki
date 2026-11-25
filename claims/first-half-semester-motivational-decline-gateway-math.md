@@ -60,3 +60,4 @@ Latent change score analysis of N = 1,004 first-semester students across three m
 - [Students in the introductory NSNT courses showed no significant decrease from beginning to end of course in plans to engage in nanotechnology-related activities](nsnt-intro-course-no-motivation-decrease.md) — related
 - [Students experienced a sense of intrinsic motivation to study physics in response to the desire to find explanations for physical phenomena](contemplative-practices-intrinsic-motivation-physics.md) — related
 - [Students who believe in a miracle finish underestimate that Physics skill acquisition requires steady effort across the whole term](miracle-finish-fantasy-physics.md) — related
+- [Grade eight students report lower positive motivation and higher effort cost and math anxiety than grade five students](motivation-declines-grade-five-to-grade-eight.md) — related

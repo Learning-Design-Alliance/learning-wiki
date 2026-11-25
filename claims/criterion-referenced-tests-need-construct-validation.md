@@ -80,3 +80,5 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — a narrower finding that bears on this claim
 - [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — a narrower finding that bears on this claim
 - [Standard errors of measurement show precision insufficient for most decisions: SEM Δ for SCI is about 0.35 (95% CI ±0.70), making criterion-referenced SCI decisions very difficult to defend](sem-shows-insufficient-precision-fasci.md) — a narrower finding that bears on this claim
+- [More-ambitious score interpretations require more and different kinds of validation evidence](ambitious-claims-require-more-evidence.md) — a broader claim this one bears on
+- [Aptitude is defined as the time a learner needs to reach criterion under optimal instruction](aptitude-as-time-needed-optimal-instruction.md) — related

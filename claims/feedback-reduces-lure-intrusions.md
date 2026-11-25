@@ -83,3 +83,4 @@ Supplementary t test against the no-test control condition, in which no lures ha
 - [A literature survey suggests the generation effect is more likely to be demonstrated on delayed than immediate tests](generation-effect-more-likely-delayed-tests.md) — related
 - [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related
 - [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — related
+- [Multiple-choice retrieval practice produced a negative suggestion effect (increased lure production on the final test) in Experiment 3, where restudy replaced direct feedback, but not in Experiments 1 and 2, which provided direct feedback](negative-suggestion-effect-feedback-dependent.md) — related

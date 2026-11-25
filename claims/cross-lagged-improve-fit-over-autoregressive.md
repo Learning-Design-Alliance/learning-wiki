@@ -57,3 +57,4 @@ Across all tested LISREL models (Models 1, 2a, 2b, 3 variants) on the 697-studen
 - [CLPM estimates on ECLS-K:2011 replicate prior findings of asymmetric cross-lagged prediction and very high autoregressive paths (.74-.81)](clpm-replicates-asymmetric-prediction-high-autoregressive.md) — related
 - [The reciprocal self-efficacy–performance relationship holds for adults but is unidirectional for children, whose self-efficacy does not predict subsequent performance](age-moderates-self-efficacy-performance-reciprocity.md) — related
 - [Academic self-efficacy and academic performance reciprocally influence each other over time in two-wave panel data](self-efficacy-performance-reciprocal-effects.md) — possibly the same claim (merge candidate)
+- [Reading achievement in preschool and third grade positively predicts later behavioral engagement in first and fifth grade](reading-predicts-later-behavioral-engagement.md) — a narrower finding that bears on this claim

@@ -101,3 +101,4 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - [District proficiency rates increase with median household income in every state examined, averaging about a 3.6% score increase per $10,000 of income](positive-income-performance-correlation-all-states.md) — related
 - [Chicago public schools perform better than the rest of Illinois at the same poverty concentration, at nearly every grade and poverty level](chicago-schools-outperform-rest-of-state-at-equal-poverty.md) — a narrower finding that bears on this claim
 - [Enrollment in intensified ELA rises sharply with prior achievement, and higher-SES students are more likely to enroll at nearly every achievement level](enrollment-rises-sharply-prior-achievement-ses-gap.md) — related
+- [Low-SES children score lower than mid- or high-SES children on both behavioral engagement and reading achievement at every measured grade](ses-gaps-engagement-and-reading.md) — related

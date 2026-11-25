@@ -59,3 +59,4 @@ Among the motivational constructs examined in the Flemish seventh-grade sample, 
 - [Intelligence and need for cognition are strong predictors of academic achievement in Flemish seventh graders](intelligence-need-for-cognition-strong-achievement-predictors.md) — related
 - [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related
 - [Student engagement and motivation factors, especially test-taking effort, rank among the strongest predictors of math scores](student-effort-engagement-top-predictors.md) — related
+- [No motivational measure significantly predicted math test scores, though teacher-rated effort showed a near-significant positive trend](motivation-no-effect-math-test-scores.md) — reports the opposite

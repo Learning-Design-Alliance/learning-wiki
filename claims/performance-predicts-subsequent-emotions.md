@@ -65,3 +65,5 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Boredom with school subjects does not significantly predict academic grades](subject-boredom-does-not-predict-grades.md) — related
 - [Boredom and anxiety have negative reciprocal effects with math grades over time](boredom-anxiety-grades-negative-reciprocal.md) — related
 - [Enjoyment and math grades are linked by positive reciprocal effects over time](enjoyment-grades-positive-reciprocal-effects.md) — reports the opposite
+- [Math achievement influences children's performance-avoidance goal orientation rather than vice versa in the primary grades](achievement-drives-performance-avoidance-primary-math.md) — related
+- [Teacher-rated effort has a reciprocal relationship with children's math grades across the primary years](teacher-rated-effort-reciprocal-math-grades.md) — related

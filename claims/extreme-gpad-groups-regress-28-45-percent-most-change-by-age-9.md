@@ -68,3 +68,4 @@ Decile analysis (N = 1981) of children whose age-7 achievement was within 0.5 SD
 - [Domain-specific GPAΔ shows similar regression-to-prediction patterns, with the correlation significantly lower for English than for mathematics](domain-specific-gpad-english-lower-than-mathematics.md) — related
 - [Decile extremes differ by more than 1.2 SD (GPS) and 1.5 SD (SES) in age-16 achievement, but individual distributions overlap substantially](decile-extremes-differences-with-overlap.md) — related
 - [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related
+- [Underachievement is reinterpreted as insufficient time spent relative to time needed, from perseverance, instruction quality, or opportunity](underachievement-reinterpreted-time-ratio.md) — related

@@ -53,3 +53,5 @@ Decay-inference analysis comparing the second half of the wake–sleep interval 
 - [Sleep after learning enhances retention of 2D object locations in both children and adults](sleep-enhances-object-location-retention-children-adults.md) — a narrower finding that bears on this claim
 - [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](sleep-no-next-day-protection.md) — related
 - [Retention over 24 h is significantly better when sleep follows learning directly (sleep–wake) than when sleep is delayed by a day of waking (wake–sleep)](sleep-wake-order-24h-retention.md) — related
+- [The recall gain after sleep was significantly larger when sleep immediately followed learning than when it followed a day of wakefulness](immediate-sleep-larger-retention-gain-than-delayed-sleep.md) — related
+- [In the Wake-Sleep condition, recall did not increase significantly over the wake interval but rose significantly after the subsequent sleep interval](wake-sleep-condition-recall-gain-after-delayed-sleep.md) — related

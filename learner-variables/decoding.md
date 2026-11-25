@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (99 show a difference, 29 mixed, 24 no difference) · 101 studies (33 causal, 29 associational, 23 quant-synthesis, 10 review, 4 design, 2 theoretical), `q1`–`q4` · 32 of 101 report an effect size · 147 claims rest on one study
+> **Evidence** · 156 claims (103 show a difference, 29 mixed, 24 no difference) · 102 studies (34 causal, 29 associational, 23 quant-synthesis, 10 review, 4 design, 2 theoretical), `q1`–`q4` · 33 of 102 report an effect size · 151 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -193,6 +193,10 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [In DHH signing children learning to read, reading skills improved over time and word reading development was predicted by imitation of unfamiliar signs, with only weak evidence that the sign-based intervention supported improvement](../claims/dhh-signing-reading-growth-predicted-unfamiliar-sign-imitation.md) [~M] — measured as an outcome of the instruction studied
 - [This study demonstrates, for the first time, a longitudinal link between sign-based abilities and word reading in DHH signing children learning to read](../claims/first-longitudinal-link-sign-abilities-word-reading-dhh.md) [+M] — measured as an outcome of the instruction studied
 - [Working memory training produces no reliable immediate far-transfer gains versus treated controls on nonverbal ability, verbal ability, word decoding, or arithmetic](../claims/wm-training-no-far-transfer-treated-controls.md) [-M] — measured as an outcome of the instruction studied
+- [A 12-week multicomponent grade-3 reading intervention shows a sustained significant effect on word decoding 5 years later](../claims/sustained-word-decoding-effect-5-years.md) [+W] — measured as an outcome of the instruction studied
+- [Students identified as poor readers in grade 2 still performed significantly worse than typical readers in grade 8 on word decoding, reading comprehension, spelling and vocabulary](../claims/poor-readers-grade2-still-worse-grade8.md) [+M] — learners who differ on it differ in outcomes
+- [Students with the lowest initial word decoding skills benefited most from the intervention (significant interaction of group assignment and initial decoding)](../claims/lowest-decoders-benefited-most-interaction.md) [+M] — an instructional effect differs with it
+- [The grade-3 intervention produced significant immediate post-test effects on spelling, reading comprehension, reading speed and word decoding](../claims/immediate-posttest-effects-grade3.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

@@ -63,3 +63,4 @@ Regression models with a male indicator controlling for algebra/geometry and hon
 - [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — related
 - [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](variability-insufficient-to-explain-stem-underrepresentation.md) — related
 - [Significant gendered performance differences favoring male students are ubiquitous in large introductory STEM lecture courses](gpd-ubiquitous-stem-lectures.md) — related
+- [Women's algebra test performance declines more over the retention interval than men's, an effect not explained by course-taking, grades, or measured rehearsal](gender-difference-algebra-decline-rate.md) — related

@@ -51,3 +51,4 @@ Observational analysis defining over/underachievers relative to a fitted density
 - [A roughly equally weighted combination of SAT and high school GPA (in SD units) best predicts upper division GPA](equal-weight-sat-hsgpa-best-predictor.md) — related
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](minority-females-doubly-penalized-on-tests.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
+- [Underachievement is reinterpreted as insufficient time spent relative to time needed, from perseverance, instruction quality, or opportunity](underachievement-reinterpreted-time-ratio.md) — related

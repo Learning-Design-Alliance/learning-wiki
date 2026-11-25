@@ -71,3 +71,4 @@ Subgroup path model for the child studies (two studies; n=1506 children vs n=118
 - [Shorter lags between measurement waves are associated with stronger reciprocal self-efficacy–performance effects](short-lag-strengthens-cross-lagged-effects.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - [Academic self-efficacy and academic performance reciprocally influence each other over time in two-wave panel data](self-efficacy-performance-reciprocal-effects.md) — reports the opposite
+- [Math achievement influences children's performance-avoidance goal orientation rather than vice versa in the primary grades](achievement-drives-performance-avoidance-primary-math.md) — related

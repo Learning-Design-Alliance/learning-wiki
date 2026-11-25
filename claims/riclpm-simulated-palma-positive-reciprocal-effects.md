@@ -67,3 +67,4 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
 - [Prior mathematics achievement predicts subsequent intrinsic motivation in mathematics across grades 1 to 4](achievement-predicts-later-math-intrinsic-motivation.md) — related
 - [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related
+- [Math achievement influences children's performance-avoidance goal orientation rather than vice versa in the primary grades](achievement-drives-performance-avoidance-primary-math.md) — related

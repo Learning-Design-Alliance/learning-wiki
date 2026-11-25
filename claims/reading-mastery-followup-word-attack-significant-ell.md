@@ -52,3 +52,4 @@ Follow-up data from Gunn et al. (2002), reported in Appendix A4 of the WWC revie
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](ell-early-reading-intervention-word-level-gains.md) — related
+- [Five years after the intervention, no significant group differences remained on vocabulary, working memory, spelling, reading comprehension or reading speed](no-sustained-differences-other-measures.md) — related

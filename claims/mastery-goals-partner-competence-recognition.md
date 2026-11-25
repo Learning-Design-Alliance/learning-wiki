@@ -52,3 +52,4 @@ Study 2 regression (63 tenth-graders in a computer-mediated cooperative task wit
 - [Performance goals predict assertion of one's own competence after a real sociocognitive conflict](performance-goals-self-competence-assertion.md) — related
 - [Mastery goals positively predict self-reported epistemic conflict regulation in an imagined sociocognitive conflict](mastery-goals-predict-epistemic-conflict-regulation.md) — related
 - [Performance goals regulate conflict with more-competent others toward competitive (approach) or protective (avoidance) interpersonal behavior](performance-goals-regulate-conflict-more-competent-others.md) — related
+- [Performance goals enhance utilization of high-quality information received from an exchange partner](performance-goals-increase-high-quality-information-utilization.md) — related

@@ -54,3 +54,4 @@ Kruskal-Wallis H test of pre-test scores across the three groups (EG1 N = 11, me
 - [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related
 - [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related
 - [Satisfaction in learning and self-confidence in learning did not differ significantly between the three simulation groups (p > 0.05)](no-group-difference-in-satisfaction-and-self-confidence.md) — related
+- [The control group started with lower Forces content knowledge than the intervention group before the unit, motivating pre-test-adjusted analyses](pretest-dck-difference-between-conditions.md) — reports the opposite

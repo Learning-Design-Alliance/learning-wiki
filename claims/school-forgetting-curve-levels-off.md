@@ -69,3 +69,6 @@ Narrative review of interval-event studies: Landauer and Ainslie's practice-exam
 - [Retention of meaningful material follows a negatively accelerated forgetting curve with large early losses that level off](ebbinghaus-curve-meaningful-material.md) — a broader claim this one bears on
 - [Naturalistic studies show a triphasic retention curve including a flat permastore phase from about 6 to 25–30 years after learning](permastore-triphasic-retention-curve.md) — a narrower finding that bears on this claim
 - [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related
+- [Grades and standardized test scores strongly predict retention test performance but have trivial effects on the rate of performance decline over decades](grades-sat-predict-level-not-decline-rate.md) — related
+- [Performance of student and adult control groups on individual items are the best predictors of that item's loss over the retention interval](item-loss-predicted-control-group-performance.md) — related
+- [Naturalistic retention shows no statistically significant difference in decline between recall and recognition test formats](recall-recognition-equal-decline-naturalistic.md) — related

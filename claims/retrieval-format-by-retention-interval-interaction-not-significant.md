@@ -56,3 +56,4 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses — related
+- [Initial retrieval practice format (short-answer, multiple-choice, hybrid-massed, hybrid-spaced) produced little or no difference in delayed meaningful learning in Experiments 1 and 2 and in a combined analysis](no-format-effect-experiments-1-2.md) — related

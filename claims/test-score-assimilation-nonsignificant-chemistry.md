@@ -67,3 +67,4 @@ In the combined Model 6, 'the assimilation effects of test scores in mathematics
 - [Extended Ie Science Contrast Assimilation](extended-ie-science-contrast-assimilation.md)
 - [Achievement measure type moderates comparison effects: grades yield stronger achievement-to-self-concept paths, standardized tests higher achievement correlations](grades-versus-tests-moderate-comparison-effects.md) — possibly the same claim (merge candidate)
 - [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [The 2I/E model's relations replicated with both grades and standardized test scores as achievement indicators (Studies 1 and 2)](2ie-model-grades-and-test-scores.md) — possibly the same claim (merge candidate)

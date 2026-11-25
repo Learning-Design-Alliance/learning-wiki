@@ -52,3 +52,4 @@ Cross-lagged panel model analyses across five annual waves (Grades 5–9, N = 2,
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](self-concept-predicts-later-value-math-english.md) — related
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](stable-relation-size-across-secondary-years.md) — related
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related
+- [Cross-sectional dimensional effects of math grades on German self-concepts exist, but not of German grades on math self-concepts](cross-sectional-dimensional-effects-asymmetric.md) — related

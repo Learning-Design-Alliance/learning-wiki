@@ -106,3 +106,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Prior academic self-concept significantly predicts later achievement after controlling for initial achievement (β = 0.08)](asc-predicts-later-achievement-meta-analysis.md) — related
 - [CLPM estimates on ECLS-K:2011 replicate prior findings of asymmetric cross-lagged prediction and very high autoregressive paths (.74-.81)](clpm-replicates-asymmetric-prediction-high-autoregressive.md) — related
 - [Academic self-efficacy and academic performance reciprocally influence each other over time in two-wave panel data](self-efficacy-performance-reciprocal-effects.md) — related
+- [Positive reciprocal relations exist between math and German grades but not between math and German self-concepts at cross-lags](positive-grade-reciprocal-relations-no-self-concept-reciprocity.md) — related

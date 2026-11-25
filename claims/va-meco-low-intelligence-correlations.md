@@ -52,3 +52,4 @@ Correlational analysis in the N = 395 survey using the DESIGMA A+ intelligence m
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — related
 - [C-Scale-I scores correlate positively with the Visual Analogue Confidence Scale (r = 0.61), supporting concurrent validity](c-scale-i-concurrent-validity-cvas.md) — related
 - [RTE scores show near-zero correlations with academic ability measures, supporting discriminant validity](rte-discriminant-validity-sat.md) — related
+- [PALS sub-scales show divergent validity, with only small correlations among a few scales](pals-divergent-validity-small-correlations.md) — related

@@ -103,6 +103,7 @@ QAR improves comprehension by making the question–text relationship explicit, 
 - [Question Generation](../strategies/question-generation.md) — the extension phase where learners author questions by type
 - [Think-Aloud](../elements/think-aloud.md) — the modeling method for making classification decisions visible
 - [Teachers should make task demands explicit, compelling, varied, and metacognitively supported when assigning text-study tasks](explicit-compelling-varied-task-demands-strategy.md)
+- [Teaching three kinds of comprehension questions with a question-chart during text discussion](three-kinds-of-comprehension-questions-chart.md)
 
 ## Examples
 - **Raphael's original materials** — Taffy Raphael's QAR instructional sequence, widely reproduced in reading methods textbooks and basal reading programs since the mid-1980s.

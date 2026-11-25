@@ -67,3 +67,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Intentional teacher groupings with responsive regrouping during in-person PD supported the formation of informal mentorships](intentional-grouping-supports-informal-mentorship.md) — related
 - [REU mentors' expectations for students varied widely, from appropriately scoped projects to tasks mismatched with students' skill levels](reu-mentor-expectations-varied.md) — related
 - [Industry mentors reported learners became comfortable with Python and used ChatGPT as just-in-time support for troubleshooting](mentor-reports-chatgpt-just-in-time-support.md) — related
+- [Underachievement is reinterpreted as insufficient time spent relative to time needed, from perseverance, instruction quality, or opportunity](underachievement-reinterpreted-time-ratio.md) — related

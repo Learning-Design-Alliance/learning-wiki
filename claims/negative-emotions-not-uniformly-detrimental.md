@@ -56,3 +56,4 @@ Theoretical argument in the commentary's integration-versus-differentiation sect
 - [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related
 - [Having choice over exercise objects raises the emotional valence of children's learning experience in the ITS](choice-raises-emotional-valence-learning-experience.md) — a narrower finding that bears on this claim
 - [Avoidance goals show almost uniformly negative findings in Western cultures](avoidance-goals-uniformly-negative.md) — reports the opposite
+- [The approach/avoidance valence dimension shows no effects on information giving or information utilization](no-valence-dimension-effects-information-exchange.md) — related

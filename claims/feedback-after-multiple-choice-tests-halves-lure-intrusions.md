@@ -72,3 +72,4 @@ The chapter reports studies where students restudied correct answers after multi
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — reports the opposite
 - [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — reports the opposite
+- [Multiple-choice retrieval practice produced a negative suggestion effect (increased lure production on the final test) in Experiment 3, where restudy replaced direct feedback, but not in Experiments 1 and 2, which provided direct feedback](negative-suggestion-effect-feedback-dependent.md) — related

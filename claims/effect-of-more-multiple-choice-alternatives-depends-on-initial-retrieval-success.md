@@ -81,3 +81,4 @@ The chapter reports the other half of this pattern: "when initial retrieval succ
 - [Retrieval practice success is not causally linked to the magnitude of the testing effect](retrieval-success-not-causal-for-testing-effect.md) — related
 - [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](mcq-exclusive-use-retention-risk.md) — related
 - [The authors hypothesise that the long-menu format encourages retrieval practice that may support mid- and long-term retention](long-menu-encourages-retrieval-practice-hypothesis.md) — related
+- [Retrieval during short-answer questions is more difficult (slower response times) than during multiple-choice questions, yet difficulty did not predict greater delayed retention](short-answer-more-difficult-by-response-time.md) — related

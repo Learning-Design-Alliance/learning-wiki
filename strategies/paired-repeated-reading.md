@@ -67,6 +67,7 @@ Repeated reading works because rereading familiar text reduces word-recognition 
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 - [Give initial teacher support to pupils at very low reading levels before expecting independent reading](ar-initial-support-low-readers.md)
 - [Facilitator-led pedagogical intervention pairing slow learners with proficient peers and giving feedback](facilitator-pedagogical-intervention-oct.md)
+- [Repeated reading with individualized text sets and progress graphs for fluency training](repeated-reading-progress-graphs-fluency.md)
 
 ## Examples
 - **[Read Naturally](../products/read-naturally.md)** (https://www.readnaturally.com) — commercial program combining audio modeling, timed repeated reading, and graphed progress monitoring; built directly on the repeated reading evidence base.

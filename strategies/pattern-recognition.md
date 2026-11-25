@@ -80,10 +80,12 @@ Learning a concept means learning which features matter and which do not; multip
 5. Name and consolidate the pattern after learners attempt articulation, then connect it to the target procedure or concept.
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — cases are the raw material from which patterns are extracted
 - [Concept attainment](../patterns/concept-attainment.md) — the classic pattern-recognition routine for concept learning
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — existing schemas are the substrate new patterns attach to
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — pattern recognition across domains is the mechanism of analogy
+- [Provide paired cases of a scientific phenomenon on the same page with a brief explicit prompt to compare them](brief-prompt-to-compare-cases-strategy.md)
 
 ## Examples
 - **[CGI for Math](../principles/responsive-teaching.md)** — teachers learn to recognize problem types (result-unknown, change-unknown, etc.) by sorting and comparing varied word problems, then map student strategies to each type.

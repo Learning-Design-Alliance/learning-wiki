@@ -50,3 +50,4 @@ Mann–Whitney U comparison of achievement pre-test scores in the semi-experimen
 - [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related
 - [Experimental-group students taught with concept cartoons showed significant gains on all four flow map parameters, including correctness (misconception reduction)](concept-cartoons-improve-all-flowmap-parameters.md) — related
 - [Seventh-grade students taught the particulate nature of matter unit with concept cartoons achieved significantly higher post-test scores than control students taught with the current program](concept-cartoons-raise-grade7-achievement-posttest.md) — related
+- [The control group started with lower Forces content knowledge than the intervention group before the unit, motivating pre-test-adjusted analyses](pretest-dck-difference-between-conditions.md) — reports the opposite

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/domain-multiplism-effect-scientific-group-only.md
+---
+
+# Revision history: [claims/domain-multiplism-effect-scientific-group-only](../claims/domain-multiplism-effect-scientific-group-only.md)
+
+### 2026-11-24 · ingest · process:wiki-ingest
+Ingested from drive3-merk-2018-topic-specific-epistemic-beliefs-extending-the-theory-of-int (Topic specific epistemic beliefs: Extending the Theory of Integrated Domains in Personal Epistemology) via eval_harness.py + ingest_extractions.py

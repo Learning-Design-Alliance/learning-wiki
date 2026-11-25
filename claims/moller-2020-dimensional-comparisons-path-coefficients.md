@@ -98,3 +98,5 @@ The article reports, citing Möller et al. (2020), a meta-analysis of the classi
 - [Path analysis supports the I/E model: positive within-domain paths (.61 math, .49 verbal) and negative cross-domain paths (-.21, -.27)](ie-model-path-coefficients-supported.md) — possibly the same claim (merge candidate)
 - [Biology self-concept was negatively related to achievement in both mathematics and German, with the relation slightly higher for mathematics](biology-self-concept-contrast-both-domains.md) — a narrower finding that bears on this claim
 - [Academic self-attributions and self-concepts are content-specific: attributions in verbal areas do not generalize to math outcomes](content-specificity-attributions-self-concepts.md) — related
+- [Dimensional comparison effects were stronger between dissimilar subjects (math and German) than between similar subjects (German and English)](2ie-dimensional-effects-subject-similarity.md) — related
+- [Dimensional comparison processes in elementary school are weak and only partially significant, with a mixed pattern across grades and domains](dimensional-comparisons-weak-partially-significant-elementary.md) — reports the opposite

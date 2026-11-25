@@ -49,3 +49,4 @@ Exploratory correlation analysis of PSG-recorded central fast spindle density ag
 - [Longer NREM periods in a short nap negatively correlate with subsequent encoding performance, possibly due to sleep inertia](nrem-percentage-negative-correlation-encoding.md) — related
 - [Napping reduces forgetting only for items learned by retrieval practice without feedback, not for restudied or feedback-retrieved items](nap-reduces-forgetting-only-no-feedback-retrieval.md) — related
 - [Wake groups show greater recall-change differences between learning conditions than nap groups, driven by no-feedback items](wake-group-greater-recall-change-differences.md) — related
+- [Retention of word pairs across sleep correlates positively with the percentage of NonREM sleep and negatively with the percentage of REM sleep](nonrem-positive-rem-negative-retention-correlations.md) — related

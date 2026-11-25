@@ -133966,5 +133966,61 @@
  "media-design\trefutation texts with images\ttext-only refutation texts": {
   "label": "refutation texts with images vs text-only refutation texts",
   "treatment_is_a": true
+ },
+ "active-learning\targumentation-fostering lesson plans with peer-group dialogue\tusual teacher-centered pedagogy": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentative and dialogic Forces lessons\tusual teacher-centered Forces lessons": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentative and dialogic lesson plans\tusual teacher-centered teaching": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic and argumentative lesson plans with peer-group work\tusual directive, teacher-centered pedagogy": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic and argumentative peer-group lessons\tusual directive, teacher-centered teaching": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic and argumentative peer-group lessons\tusual teacher-centered lessons": {
+  "label": "Dialogic, argumentative peer-group learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tjoint presentation (JP)\tsequential presentation (SP)": {
+  "label": "joint vs sequential presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tjoint presentation with comparison instructions (JP + I)\tsequential presentation (SP)": {
+  "label": "joint presentation with comparison instructions vs sequential presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tjoint presentation with explicit comparison instructions\tjoint presentation without instructions and sequential presentation": {
+  "label": "joint presentation with explicit comparison instructions vs joint presentation without instructions and sequential presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tjoint presentation with explicit comparison instructions\tsequential presentation": {
+  "label": "joint presentation with comparison instructions vs sequential presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tjoint presentation without comparison instructions\tsequential presentation": {
+  "label": "joint vs sequential presentation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-week one-to-one reading intervention\tordinary classroom activities": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tjoint presentation with comparison instructions (JP + I)\tjoint presentation without comparison instructions (JP)": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured one-to-one phonics, comprehension, and fluency training\tordinary classroom activities": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
  }
 }

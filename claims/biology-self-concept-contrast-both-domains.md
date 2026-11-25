@@ -54,3 +54,4 @@ In the extended grades model of the 20,050-student sample, 'self-concept in biol
 - [Contrast effects appear between math-like and verbal-like domains in both self-concept and intrinsic value](contrast-effects-math-like-verbal-like-self-concept-intrinsic-value.md) — related
 - [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — a broader claim this one bears on
 - [Grades in the three science subjects had only small across-subjects effects on other self-concepts](small-science-across-subjects-effects.md) — related
+- [Dimensional comparison effects were stronger between dissimilar subjects (math and German) than between similar subjects (German and English)](2ie-dimensional-effects-subject-similarity.md) — related

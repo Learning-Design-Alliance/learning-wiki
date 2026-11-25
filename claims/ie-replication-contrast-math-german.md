@@ -71,3 +71,5 @@ In the same replication step with Rasch-scaled test scores as achievement indica
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related
 - [Academic self-concept mediates within-domain and most cross-domain achievement–intrinsic value relations, with most within-domain relations fully mediated](self-concept-mediation-achievement-intrinsic-value.md) — related
 - [Grades in the three science subjects had only small across-subjects effects on other self-concepts](small-science-across-subjects-effects.md) — related
+- [Dimensional comparison processes in elementary school are weak and only partially significant, with a mixed pattern across grades and domains](dimensional-comparisons-weak-partially-significant-elementary.md) — related
+- [Skill development effects (grades → same-domain self-concept) are present from Grade 2 in math and Grade 3 onward in German](skill-development-effects-grades-2-4.md) — a narrower finding that bears on this claim

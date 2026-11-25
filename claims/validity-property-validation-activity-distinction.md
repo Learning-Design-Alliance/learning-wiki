@@ -46,3 +46,4 @@ Theoretical argument in the Ontology Versus Epistemology section. The authors di
 
 ## Related Claims
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [Validity is a property of proposed score interpretations and uses, not of the test or the test scores](validity-property-of-interpretations-not-tests.md) — reports the opposite

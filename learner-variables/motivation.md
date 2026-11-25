@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 497 claims (324 show a difference, 120 mixed, 53 no difference) · 357 studies (138 associational, 113 causal, 42 review, 17 quant-synthesis, 17 qualitative, 16 theoretical, 14 design), `q1`–`q4` · 96 of 357 report an effect size · 485 claims rest on one study
+> **Evidence** · 498 claims (324 show a difference, 121 mixed, 53 no difference) · 358 studies (139 associational, 113 causal, 42 review, 17 quant-synthesis, 17 qualitative, 16 theoretical, 14 design), `q1`–`q4` · 96 of 358 report an effect size · 486 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -547,6 +547,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Gender moderates engagement–achievement correlations: correlations strengthen as the proportion of female participants increases, but not for emotional engagement](../claims/gender-moderates-engagement-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [Prior performance is a significantly stronger antecedent of subsequent self-efficacy than self-efficacy is of subsequent performance](../claims/performance-stronger-antecedent-than-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Student motivation declines across grade levels and motivation measures predict later academic performance (review-reported background)](../claims/motivation-declines-across-grades-review-reported.md) [+W] — learners who differ on it differ in outcomes
+- [Task persistence mediates the math anxiety–achievement relationship in grade five but not in grade eight](../claims/task-persistence-mediation-grade-five-not-eight.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
