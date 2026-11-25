@@ -55,3 +55,4 @@ Ongoing analysis of 2022/23 literacy screening data from about 67,000 K–3 stud
 - [About one third of Massachusetts K–3 students were identified as significantly below benchmark at least once in 2023/24, with 19 percent identified in all three periods](one-third-k3-significantly-below-benchmark-massachusetts.md) — related
 - [About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY](within-year-risk-persistence.md) — related
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — related
+- [Second graders' multiplication performance improved substantially in both accuracy and speed across a school year of learning](multiplication-learning-overall-speed-accuracy-gains.md) — related

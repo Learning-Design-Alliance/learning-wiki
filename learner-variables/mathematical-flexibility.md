@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (18 show a difference, 7 mixed, 3 no difference) · 25 studies (13 causal, 7 associational, 3 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 25 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (18 show a difference, 8 mixed, 3 no difference) · 26 studies (13 causal, 8 associational, 3 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 26 report an effect size · 27 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -64,6 +64,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Less successful GR problem-solving strategies lacked integration between mathematical reasoning and physical visualization, with minimal or absent conceptualization and computation](../claims/unsuccessful-strategies-lack-math-physics-integration.md) [+M] — learners who differ on it differ in outcomes
 - [Replay-dominant and optimal-ending latent states predict higher conceptual knowledge, flexibility, and state test performance relative to the Incomplete-dominant state](../claims/replay-dominant-optimal-ending-states-predict-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Embedding-derived strategy uniqueness, diversity, and conformity are positive, statistically significant predictors of short-term algebra outcomes, with conformity the largest](../claims/strategy-measures-predict-short-term-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [The mean number of strategies used per child first increased and then decreased over the year of learning multiplication](../claims/strategy-repertoire-rise-then-fall-second-grade.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

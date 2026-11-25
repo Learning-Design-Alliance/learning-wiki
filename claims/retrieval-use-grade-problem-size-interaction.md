@@ -73,3 +73,4 @@ The same ANOVA showed the problem-size effect on retrieval use in all grades, F(
 - [As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency](retrieval-frequency-correlates-retrieval-efficiency.md) — related
 - [Simple additions are retrieved with equal accuracy in both languages from grade 10 onward, though still faster in German](simple-additions-equal-accuracy-higher-grades.md) — related
 - [The adult-like retrieval bias for multiplication over addition on strategy selection is significant only in fourth grade, with retrieval used as frequently for both operations in second and sixth grade](multiplication-retrieval-bias-fourth-grade-only.md) — related
+- [Execution of both repeated addition and retrieval became faster and more accurate over the year](strategy-execution-efficiency-gains-multiplication.md) — related

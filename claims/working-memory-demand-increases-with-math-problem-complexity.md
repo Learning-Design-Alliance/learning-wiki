@@ -54,3 +54,4 @@ Narrative review of the mathematical cognition literature, citing LeFevre et al.
 - [Arithmetic problem difficulty may increase as the square of the number of steps rather than directly with step count](problem-difficulty-square-of-steps.md) — related
 - [Min-counting becomes increasingly maladaptive as addition problem sizes increase](min-counting-maladaptive-larger-problems.md) — a narrower finding that bears on this claim
 - [LLM mathematical accuracy decreases as the number of digits increases, and varies by operation type](llm-math-accuracy-declines-with-digit-count.md) — a narrower finding that bears on this claim
+- [The quality of retrieval errors changed over the year: operand errors increased while operation and operand-repetition errors nearly disappeared, and errors shifted toward the multiplication odd-even pattern](retrieval-error-quality-shift-multiplication.md) — related

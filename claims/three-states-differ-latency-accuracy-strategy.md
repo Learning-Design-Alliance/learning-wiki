@@ -48,3 +48,4 @@ Descriptive statistics for trials assigned to their most probable state (Table 3
 - [Concurrent strategy assessment did not significantly alter problem-solving latencies](concurrent-strategy-assessment-no-reactivity.md) — related
 - [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](strategy-reports-shift-to-retrieval-with-practice.md) — related
 - [Hidden Markov modeling of practice latencies favors a three-learning-state model with within-state speedup](hmm-three-learning-states-best-fit.md) — related
+- [Retrieval use increased over the year, extended progressively to harder problems, and was best predicted by a problem's associative strength](retrieval-use-increase-and-extension-multiplication.md) — related

@@ -73,3 +73,4 @@ The ANOVA on correct procedural RTs showed higher procedural efficiency on addit
 - [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related
 - [Within-grade differences in primary school children's multiplication ability are very large.](very-large-within-grade-multiplication-ability-differences.md) — related
 - [Two sources of the problem-size effect — more frequent and more efficient retrieval on small than large problems — are present in children of all grades, while the procedural-efficiency source is present only in second grade](problem-size-sources-children-strategy-use.md) — related
+- [Execution of both repeated addition and retrieval became faster and more accurate over the year](strategy-execution-efficiency-gains-multiplication.md) — related

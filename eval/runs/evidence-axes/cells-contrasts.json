@@ -134118,5 +134118,405 @@
  "learner-difference\t10-year-olds\tadults": {
   "label": "children vs adults",
   "treatment_is_a": true
+ },
+ "learner-difference\t12- to 14-year-olds\tadults": {
+  "label": "12- to 14-year-olds vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12-year-olds\tadults": {
+  "label": "12-year-olds vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12U Chemistry enrolment trend\t12U Physics enrolment trend": {
+  "label": "Chemistry enrolment trend vs Physics enrolment trend",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12U Mathematics enrolment trends\t12U Physics enrolment trend": {
+  "label": "Mathematics enrolment trends vs Physics enrolment trend",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12th-grade classes with more instructional hours\t11th-grade classes with fewer instructional hours": {
+  "label": "More instructional hours vs fewer instructional hours",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13 children with uncorrected hyperopia (≥2 D)\t19 children with age-typical refractive error (≤1.5 D)": {
+  "label": "Uncorrected hyperopia vs age-typical refractive error",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13-, 14-, and 15-year-old students\t9-, 10-, and 11-year-old students": {
+  "label": "13- to 15-year-olds vs 9- to 11-year-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t13-year-olds\tadults": {
+  "label": "13-year-olds vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t15-year-olds\tadults": {
+  "label": "15-year-olds vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t16–20 years of professional experience\t21 or more years of professional experience": {
+  "label": "16-20 years of professional experience vs 21 or more years",
+  "treatment_is_a": false
+ },
+ "learner-difference\t19 Asian racial and ethnic subgroup predicted posttest means\tpan-Asian aggregated predicted posttest mean": {
+  "label": "Asian racial and ethnic subgroups vs pan-Asian aggregate",
+  "treatment_is_a": true
+ },
+ "learner-difference\t19 Asian racial and ethnic subgroup predicted pretest means\tpan-Asian aggregated predicted pretest mean": {
+  "label": "Asian racial and ethnic subgroups vs pan-Asian aggregate",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1stGen students belonging to HM groups\tnon-1stGen students belonging to non-HM groups": {
+  "label": "First-generation students in historically marginalized groups vs non-first-generation students in non-historically marginalized groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1–2 years of ED experience\tless than 1 year of ED experience": {
+  "label": "1-2 years of emergency-department experience vs less than 1 year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1–4 years of clinical experience\t5–10, 11–15, and 16+ years of clinical experience": {
+  "label": "1-4 years of clinical experience vs 5 or more years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2-SD lower clinical decision-making score\thigher clinical decision-making score": {
+  "label": "Higher clinical decision-making score vs lower clinical decision-making score",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2-SD lower communication score\thigher communication score": {
+  "label": "Higher communication score vs lower communication score",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2-SD lower multiple-choice score\thigher multiple-choice score": {
+  "label": "Higher multiple-choice score vs lower multiple-choice score",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2-SD lower patient-physician communication score\t2-SD higher communication score": {
+  "label": "Higher patient-physician communication score vs lower patient-physician communication score",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2-SD lower patient-physician communication score\thigher patient-physician communication score": {
+  "label": "Higher patient-physician communication score vs lower patient-physician communication score",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2-factor achievement-goal model\tacademic achievement criterion": {
+  "label": "Two-factor achievement-goal model vs academic achievement criterion",
+  "treatment_is_a": true
+ },
+ "learner-difference\t200-level students\t100-level students": {
+  "label": "200-level students vs 100-level students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 UJ cohort\t2021 and 2022 UJ cohorts": {
+  "label": "2020 cohort vs 2021-2022 cohorts",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 cohort\t2021 and 2022 cohorts": {
+  "label": "2020 cohort vs 2021-2022 cohorts",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020/21 academic-year cohort\t2021/22 academic-year cohort": {
+  "label": "2020/21 academic-year cohort vs 2021/22 academic-year cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020/21 cohort\t2021/22 cohort": {
+  "label": "2020/21 cohort vs 2021/22 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 English achievement\t2019 English achievement": {
+  "label": "2021 English achievement vs 2019 English achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 cohort\t2024 cohort": {
+  "label": "2021 cohort vs 2024 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 entrants receiving limited contact teaching\t2018–2020 entrants receiving full contact teaching": {
+  "label": "Limited-contact teaching entrants vs full-contact teaching entrants",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 incoming students intending algebra-based physics\t2019 incoming students intending algebra-based physics": {
+  "label": "2021 incoming algebra-based-physics intenders vs 2019 incoming algebra-based-physics intenders",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 incoming students intending calculus-based physics\t2019 incoming students intending calculus-based physics": {
+  "label": "2021 incoming calculus-based-physics intenders vs 2019 incoming calculus-based-physics intenders",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 math achievement\t2019 math achievement": {
+  "label": "2021 mathematics achievement vs 2019 mathematics achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 pandemic-period English achievement\t2019 pre-pandemic English achievement": {
+  "label": "Pandemic-period English achievement vs pre-pandemic English achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 pandemic-period math achievement\t2019 pre-pandemic math achievement": {
+  "label": "Pandemic-period mathematics achievement vs pre-pandemic mathematics achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021–2022 holistic-rubric matriculating cohort\t2020–2021 vGRE-ranked matriculating cohort": {
+  "label": "2021-2022 holistic-rubric cohort vs 2020-2021 vGRE-ranked cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 UJ Physical Science students\tKSA student group from Bani-Salameh (2016)": {
+  "label": "2022 UJ Physical Science students vs KSA students from Bani-Salameh (2016)",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 UJ Physical Science students\tSpanish student groups from Martín-Blas et al. (2010)": {
+  "label": "2022 UJ Physical Science students vs Spanish student groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 cohort\t2020 and 2021 cohorts": {
+  "label": "2022 cohort vs 2020-2021 cohorts",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 cohort\t2020 cohort": {
+  "label": "2022 cohort vs 2020 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 cohort receiving hybrid teaching\t2020 cohort receiving hybrid teaching": {
+  "label": "2022 hybrid-teaching cohort vs 2020 hybrid-teaching cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 plastic-model cohort\t2019 plastic-model cohort": {
+  "label": "2022 plastic-model cohort vs 2019 plastic-model cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 post-pandemic freshmen\t2019 pre-pandemic freshmen": {
+  "label": "2022 post-pandemic freshmen vs 2019 pre-pandemic freshmen",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 student cohort\t2020 student cohort": {
+  "label": "2022 student cohort vs 2020 student cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022 students reporting resource-quality concerns\tother 2022 students": {
+  "label": "2022 students with resource-quality concerns vs other 2022 students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 GGNPS cohort\t2010 GGNPS cohort": {
+  "label": "2023 GGNPS cohort vs 2010 GGNPS cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 GGNPS respondents\t2010 GGNPS respondents": {
+  "label": "2023 GGNPS respondents vs 2010 GGNPS respondents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 US registered nurses\t2010 US nursing survey respondents": {
+  "label": "2023 US registered nurses vs 2010 US nursing survey respondents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 fifth-year students\t2019 fifth-year students": {
+  "label": "2023 fifth-year students vs 2019 fifth-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 fourth-year students\t2019 fourth-year students": {
+  "label": "2023 fourth-year students vs 2019 fourth-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 offering\t2024 offering": {
+  "label": "2023 offering vs 2024 offering",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 post-CBD PGY4 cohort\t2017 pre-CBD cohort": {
+  "label": "2023 post-CBD PGY4 cohort vs 2017 pre-CBD cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 second-year students\t2019 second-year students": {
+  "label": "2023 second-year students vs 2019 second-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 survey cohort\t2010 survey cohort": {
+  "label": "2023 survey cohort vs 2010 survey cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 third-year students\t2019 third-year students": {
+  "label": "2023 third-year students vs 2019 third-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023–24 cohort after introduction of open-enrollment intensified ELA\t2022–23 cohort before the policy change": {
+  "label": "Post-policy intensified ELA cohort vs pre-policy cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2024–2025 cohorts\t2023 cohort": {
+  "label": "2024-2025 cohorts vs 2023 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2060 projected Asian-White IQ gap\tcurrent Asian-White IQ gap": {
+  "label": "Projected Asian-White IQ gap vs current Asian-White IQ gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2060 projected White-Black IQ gap\tcurrent White-Black IQ gap": {
+  "label": "Projected White-Black IQ gap vs current White-Black IQ gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2060 projected White-Hispanic IQ gap\tcurrent White-Hispanic IQ gap": {
+  "label": "Projected White-Hispanic IQ gap vs current White-Hispanic IQ gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t20–30-year-old respondents\t51–60-year-old respondents": {
+  "label": "20-30-year-olds vs 51-60-year-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t20–30-year-old respondents\t>61-year-old respondents": {
+  "label": "20-30-year-olds vs over-61-year-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t21st-century trained ophthalmologists\t20th-century trained ophthalmologists": {
+  "label": "21st-century-trained ophthalmologists vs 20th-century-trained ophthalmologists",
+  "treatment_is_a": true
+ },
+ "learner-difference\t21–50 baseline colonoscopies\tno baseline colonoscopies": {
+  "label": "21-50 baseline colonoscopies vs no baseline colonoscopies",
+  "treatment_is_a": true
+ },
+ "learner-difference\t22 women with lowest ASQ variance scores\tsample as a whole": {
+  "label": "Women with lowest ASQ variance scores vs whole sample",
+  "treatment_is_a": true
+ },
+ "learner-difference\t24-hour clinics\tother clinics": {
+  "label": "24-hour clinics vs other clinics",
+  "treatment_is_a": true
+ },
+ "learner-difference\t25–34-year-old faculty\t65–74-year-old faculty": {
+  "label": "25-34-year-old faculty vs 65-74-year-old faculty",
+  "treatment_is_a": true
+ },
+ "learner-difference\t28-day reservist course\t80-day standard course": {
+  "label": "28-day reservist course vs 80-day standard course",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2nd- and 3rd-year students\t1st-year students": {
+  "label": "Second- and third-year students vs first-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3 years or more working in the same unit\t0–2 years working in the same unit": {
+  "label": "3 or more years in the same unit vs 0-2 years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3- and 4-factor achievement-goal models\tacademic achievement criterion": {
+  "label": "Three- and four-factor achievement-goal models vs academic achievement criterion",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3- to 5-year-olds\tadults": {
+  "label": "3- to 5-year-olds vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t30 minutes of weekly leisure-time MVPA\tinactive adolescents": {
+  "label": "30 minutes of weekly leisure-time MVPA vs inactive adolescents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t30+ minutes/week interacting with LAs\t0 minutes/week interacting with LAs": {
+  "label": "30 or more minutes per week interacting with learning assistants vs 0 minutes",
+  "treatment_is_a": true
+ },
+ "learner-difference\t30–60 minutes of autonomous learning\t10–30 minutes of autonomous learning": {
+  "label": "30-60 minutes of autonomous learning vs 10-30 minutes",
+  "treatment_is_a": true
+ },
+ "learner-difference\t31–40-year-old respondents\t51–60-year-old respondents": {
+  "label": "31-40-year-olds vs 51-60-year-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t32–34 6/7 weeks gestation\tterm, at least 37 weeks gestation": {
+  "label": "32-34 6/7 weeks' gestation vs term gestation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t32–34 6/7 weeks gestation\tterm, ≥37 weeks gestation": {
+  "label": "32-34 6/7 weeks' gestation vs term gestation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t32–36 6/7 weeks gestation\t≥37 weeks gestation": {
+  "label": "32-36 6/7 weeks' gestation vs term gestation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t35–36 6/7 weeks gestation\tterm, ≥37 weeks gestation": {
+  "label": "35-36 6/7 weeks' gestation vs term gestation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t35–36 6/7 weeks gestation children\tterm children (at least 37 weeks gestation)": {
+  "label": "35-36 6/7-week children vs term children",
+  "treatment_is_a": true
+ },
+ "learner-difference\t37 students who passed Phase 1\t187 students who did not pass Phase 1": {
+  "label": "Passed Phase 1 vs did not pass Phase 1",
+  "treatment_is_a": true
+ },
+ "learner-difference\t39 open-access study programs\tpooled Medicine/Dentistry entry-exam control group": {
+  "label": "Open-access study programs vs Medicine/Dentistry entry-exam control group",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3D Stapes Trainer training for ENT specialists\t3D Stapes Trainer training for ENT residents": {
+  "label": "3D Stapes Trainer training for ENT specialists vs ENT residents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3D versus 2D viewing mode\t2D versus 3D viewing mode": {
+  "label": "3D viewing mode vs 2D viewing mode",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3D-printed incision-and-suture simulator\tanimal model": {
+  "label": "3D-printed incision-and-suture simulator vs animal model",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3MTL heavy-users: used podcasts for both topics\tintermediate-users or non-users": {
+  "label": "Heavy podcast users for both topics vs intermediate or non-users",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3MTL users for both topics\tusers for one topic or non-users": {
+  "label": "Podcast users for both topics vs users for one topic or non-users",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3PLM-estimated self-efficacy for learning\tfinal exam scores": {
+  "label": "Self-efficacy for learning vs final exam scores",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3PLM-estimated self-efficacy for learning at θ > 0\tGPA across the reported full range": {
+  "label": "Self-efficacy for learning at positive ability levels vs GPA across full range",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd ESO and trainee-teacher master groups\tother educational levels": {
+  "label": "Third ESO and trainee-teacher master groups vs other educational levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd-, 4th-, 5th-, and 6th-grade groups\tother grade groups": {
+  "label": "Third- to sixth-grade groups vs other grade groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd-grade mathematics performance\t8th-grade mathematics performance": {
+  "label": "Third-grade mathematics performance vs eighth-grade mathematics performance",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd-year residents\tother academic levels": {
+  "label": "Third-year residents vs other academic levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd-year students\t4th-year students": {
+  "label": "Third-year students vs fourth-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd-year undergraduates\tother academic levels": {
+  "label": "Third-year undergraduates vs other academic levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3rd–4th-year students\t1st–2nd-year students": {
+  "label": "Third- and fourth-year students vs first- and second-year students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4 weekly physics classes\tno weekly physics classes": {
+  "label": "Weekly physics classes vs no weekly physics classes",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year B.Sc./M.Sc. degree\tcertificate/3-year B.Sc. degree": {
+  "label": "Four-year BSc/MSc degree vs certificate or three-year BSc degree",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year STEM degree programme\t3-year STEM degree programme": {
+  "label": "Four-year STEM degree program vs three-year STEM degree program",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-year accelerated graduate-entry course\tstandard 5-year course": {
+  "label": "Four-year accelerated graduate-entry medicine vs five-year standard medicine",
+  "treatment_is_a": true
  }
 }

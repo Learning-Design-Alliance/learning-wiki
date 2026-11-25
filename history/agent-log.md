@@ -5,6 +5,19 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-11: Lemaire & Siegler on retry; Underwood & Keppel still unreadable
+
+`j-drive-11` retried the two j-drive-10 failures. Lemaire & Siegler (1995) ingested on the same OCR text: 8
+claims on second graders' multiplication strategies (repertoire, retrieval use, execution, choice adaptiveness,
+early errors predicting later strategy use). Its first run had failed only on `i3` codes with no printed effect
+size, so the retry was a fresh model run, not a text fix. The candidate step also wrote one research-method page
+from j-drive-10's Alibali & Goldin-Meadow candidate (baseline-adjusted, construct-distinct readiness designs).
+All 9 pages in scope by both models.
+
+Underwood & Keppel (1962) failed a third time, again on quotations: its text is a two-column scan whose columns
+the text layer interleaves, and neither the column splitter nor a retry recovers sentences that match. It needs
+a clean copy (an OCR conversion of the maintainer's PDF) before another try.
+
 ## 2026-11-25 · j-drive-10: four image-only papers, by OCR and by the maintainer's transcription
 
 `j-drive-10` read 7 sources: four papers from the maintainer's Drive folder whose PDFs are page images with no

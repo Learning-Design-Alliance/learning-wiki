@@ -50,3 +50,4 @@ Pearson correlations between rubric dimensions computed separately at T0, T1, an
 - [Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology](criterion-level-decline-patterns-visualization.md)
 - [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](procedural-visualization-execution-decays-faster.md)
 - [Inhibition relates to procedural skill in secondary-school children but to conceptual understanding in adults](inhibition-procedural-children-conceptual-adults.md)
+- [Execution of both repeated addition and retrieval became faster and more accurate over the year](strategy-execution-efficiency-gains-multiplication.md) — related
