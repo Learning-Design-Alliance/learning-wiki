@@ -1,0 +1,518 @@
+# Paschke, Steinmayr, Mertens, Neubauer & Spinath (2025), Dataset 2 (MEGA):
+# competence beliefs and intrinsic motivation in maths, Grades 2-4.
+#
+# Second of two samples in the article; see paschke-2025-study1. Seven waves
+# about 4 months apart, and a three-wave model on waves 1, 4 and 7 for one-year
+# intervals. Read from the PMC full text (PMC12598449).
+#
+# Table 1's last row is labelled "July 2001 (t W7)"; the Participants section
+# dates the seventh wave July 2011, which is used here.
+
+schema_version: 2
+study:
+  key: paschke-2025-study2
+  citation: Paschke, P., Steinmayr, R., Mertens, A., Neubauer, A. B., & Spinath, B. (2025). Re-examination of the
+    reciprocal relation between intrinsic motivation and competence beliefs in math using the random-intercept cross-lagged
+    panel framework. Child Development, 96(6), 2201–2220.
+  doi: 10.1111/cdev.70028
+  design:
+    family: longitudinal
+    design_detail: 'Dataset 2 (MEGA project, Weidinger et al. 2018), reanalysed: seven waves about 4 months apart,
+      July 2009 (Grade 2) to July 2011, plus a three-wave model on waves 1, 4 and 7 (one-year intervals). Multi-indicator
+      RI-CLPMs and CLPMs, autoregressive and cross-lagged, in Mplus 8.501 with MLR and FIML; gender as a time-varying
+      covariate. No correction for clustering (it caused nonconvergence). Scalar invariance for competence beliefs,
+      metric for intrinsic value. No assignment of conditions.'
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: random-intercepts-competence-beliefs-intrinsic-motivation-strongly-correlated
+  bearing: supports
+  anchor: paschke-2025
+- claim: concurrent-correlations-competence-beliefs-intrinsic-motivation-substantial
+  bearing: supports
+  anchor: paschke-2025
+- claim: ri-clpm-little-no-reciprocal-competence-beliefs-intrinsic-motivation
+  bearing: qualifies
+  anchor: paschke-2025
+evidence_base:
+  unit: participants
+  size:
+    value: 542
+    unit: participants
+  additional_sizes:
+  - value: 27
+    unit: classes
+    note: classes, nested in 11 schools; not modelled as clusters
+  - value: 11
+    unit: schools
+    note: elementary schools
+  population:
+    description: German elementary students, 50.2% female; 54.1% reported German as first language, 16.4% another
+      language, 29.5% did not report. About 75% of parents consented.
+    age_or_stage: Grade 2 at the first wave, Grade 4 at the last
+    age:
+      unit: years
+      mean: 7.96
+      sd: 0.58
+      note: at the first measurement occasion
+  context:
+    setting: Germany, 2009-2011; about 45-minute sessions in class, run by trained research assistants, items read
+      aloud
+  arms: []
+comparisons:
+- id: within-person
+  kind: none
+  description: Within-person paths in the RI-CLPMs and lagged paths in the CLPMs; no contrast between groups.
+- id: between-person
+  kind: none
+  description: Between-person and concurrent correlations in the whole Dataset 2 sample; no contrast between groups.
+- id: whole-sample-scales
+  kind: none
+  description: Internal consistency of the scales in the whole sample.
+observations:
+- id: iv-carryover-ri-w1-w2
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W1–t W2 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2009 to November 2009 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.38
+    standard_error: 0.12
+    p_value: 0.001
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). The cross-lagged RI-CLPM gives 0.22 (SE 0.22) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W1–t W2 IV → IV 0.22 0.22 0.319 0.38 0.12 0.001 0.58 0.09 < 0.001 0.72 0.04 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-w2-w3
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W2–t W3 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: November 2009 to March 2010 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.22
+    standard_error: 0.17
+    p_value: 0.185
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). The cross-lagged RI-CLPM gives 0.46 (SE 0.24) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W2–t W3 IV → IV 0.46 0.24 0.060 0.22 0.17 0.185 0.81 0.08 < 0.001 0.73 0.04 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-w3-w4
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W3–t W4 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: March 2010 to July 2010 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.46
+    standard_error: 0.14
+    p_value: 0.001
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). The cross-lagged RI-CLPM gives 0.31 (SE 0.16) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W3–t W4 IV → IV 0.31 0.16 0.053 0.46 0.14 0.001 0.71 0.06 < 0.001 0.80 0.03 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-w4-w5
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W4–t W5 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2010 to November 2010 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.68
+    standard_error: 0.09
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). p < 0.001. The cross-lagged RI-CLPM gives 0.70 (SE 0.11) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W4–t W5 IV → IV 0.70 0.11 < 0.001 0.68 0.09 < 0.001 0.87 0.04 < 0.001 0.88 0.02 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-w5-w6
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W5–t W6 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: November 2010 to March 2011 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.58
+    standard_error: 0.1
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). p < 0.001. The cross-lagged RI-CLPM gives 0.50 (SE 0.12) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W5–t W6 IV → IV 0.50 0.12 < 0.001 0.58 0.10 < 0.001 0.76 0.05 < 0.001 0.83 0.03 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-w6-w7
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W6–t W7 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: March 2011 to July 2011 (adjacent waves, about 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.71
+    standard_error: 0.07
+    model: Autoregressive RI-CLPM, seven waves, tentatively favoured for simplicity (best BIC; the cross-lagged
+      RI-CLPM had the better AIC). p < 0.001. The cross-lagged RI-CLPM gives 0.69 (SE 0.09) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W6–t W7 IV → IV 0.69 0.09 < 0.001 0.71 0.07 < 0.001 0.84 0.04 < 0.001 0.88 0.02 < 0.001
+  source_location: Table 5, Dataset 2 (seven time points), RI-CLPM autoregressive model columns
+- id: iv-stability-clpm-w1-w4
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics
+    source_language: t W1–t W4 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2009 to July 2010 (waves 1 and 4, one year)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.51
+    standard_error: 0.05
+    model: Autoregressive CLPM on waves 1, 4 and 7 only, p < 0.001. A CLPM path is a rank-order (between- and within-person)
+      stability, not a within-person carry-over. The cross-lagged CLPM gives 0.40 (SE 0.09); no model was clearly
+      superior in the three-wave analysis.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W1–t W4 IV → IV −0.03 0.30 0.934 0.22 0.25 0.381 0.40 0.09 < 0.001 0.51 0.05 < 0.001
+  source_location: Table 5, Dataset 2 (three time points), CLPM autoregressive model column
+- id: iv-stability-clpm-w4-w7
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics
+    source_language: t W4–t W7 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2010 to July 2011 (waves 4 and 7, one year)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.75
+    standard_error: 0.04
+    model: Autoregressive CLPM on waves 1, 4 and 7, p < 0.001; the cross-lagged CLPM gives 0.62 (SE 0.07).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W4–t W7 IV → IV 0.41 0.15 0.007 0.59 0.17 < 0.001 0.62 0.07 < 0.001 0.75 0.04 < 0.001
+  source_location: Table 5, Dataset 2 (three time points), CLPM autoregressive model column
+- id: cb-to-iv-ri-w4-w7
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t W4–t W7 CB → IV
+    measure: Within-person competence beliefs at wave 4 predicting within-person intrinsic motivation at wave 7
+    scale: standardised cross-lagged path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2010 to July 2011 (waves 4 and 7, one year)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.32
+    standard_error: 0.14
+    p_value: 0.027
+    model: Cross-lagged RI-CLPM on waves 1, 4 and 7. The CLPM gives 0.21 (SE 0.07, p 0.003). The first one-year
+      interval (waves 1 to 4) gives 0.34 (SE 0.30, p 0.264). In the seven-wave RI-CLPM, no 4-month CB -> IV path
+      was significant.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W4–t W7 CB → IV 0.32 0.14 0.027 0.21 0.07 0.003
+  source_location: Table 6, Dataset 2 (three time points); Results 4.3.3
+- id: random-intercepts-r
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: between-person
+  outcome:
+    construct: Stable between-person parts of competence beliefs and intrinsic motivation
+    source_language: The random intercepts correlated
+    measure: Correlation of the random intercepts of competence beliefs and intrinsic motivation, latent, three
+      items each
+    scale: correlation
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: across the seven waves, July 2009 to July 2011
+  result:
+    measure_type: correlation
+    estimate: 0.7
+    model: Autoregressive RI-CLPM, seven waves, p < 0.001; the cross-lagged seven-wave RI-CLPM gives r = 0.73, and
+      the three-wave models 0.63 (cross-lagged) and 0.77 (autoregressive).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: 'The random intercepts correlated positively and significantly in all RI‐CLPMs (Dataset 1 cross‐lagged:
+    r = 0.84, p < 0.001; Dataset 1 autoregressive: r = 0.89, p < 0.001; Dataset 2, seven time points cross‐lagged:
+    r = 0.73, p < 0.001; Dataset 2, seven time points autoregressive: r = 0.70, p < 0.001;'
+  source_location: Results 4.1
+- id: concurrent-r-clpm-w1
+  sample:
+    value: 542
+    unit: participants
+  comparison_ref: between-person
+  outcome:
+    construct: Competence beliefs with intrinsic motivation, same wave
+    source_language: t W1 CB ↔ IV
+    measure: Concurrent latent correlation of competence beliefs and intrinsic motivation at the first wave
+    scale: correlation
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: July 2009 (t W1), end of Grade 2
+  result:
+    measure_type: correlation
+    estimate: 0.72
+    standard_error: 0.05
+    model: 'Seven-wave CLPM, p < 0.001; the cross-lagged and the autoregressive CLPM both print 0.72 (SE 0.05).
+      RI-CLPM within-person: 0.76 (SE 0.07) and 0.74 (SE 0.08).'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t W1 CB ↔ IV 0.76 0.07 < 0.001 0.74 0.08 < 0.001 0.72 0.05 < 0.001 0.72 0.05 < 0.001
+  source_location: Table 4, Dataset 2 (seven time points), CLPM columns
+- id: iv-omega
+  comparison_ref: whole-sample-scales
+  outcome:
+    construct: Intrinsic motivation scale
+    source_language: Internal consistency (McDonald's omega)
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation (the Spinath and Steinmayr 2008 scale)
+    scale: McDonald's omega
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: each of the seven waves
+  result:
+    measure_type: reliability
+    estimate_range:
+      lower: 0.78
+      upper: 0.9
+      over:
+        value: 7
+        unit: sessions
+    reliability:
+      statistic: other
+      over: items
+      form: McDonald's omega
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: A range over the seven measurement occasions; the source does not say which wave is which.
+  source_quote: Internal consistency (McDonald's omega) ranged from ω = 0.78 to ω = 0.90.
+  source_location: Section 3.2.3.1
+- id: cb-omega
+  comparison_ref: whole-sample-scales
+  outcome:
+    construct: Competence beliefs scale
+    source_language: Internal consistency
+    measure: 'Three items: how good at math, how easy to learn new things in math, which group of students in math;
+      5-point scale, recoded so higher is higher competence beliefs'
+    scale: McDonald's omega
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: each of the seven waves
+  result:
+    measure_type: reliability
+    estimate_range:
+      lower: 0.8
+      upper: 0.9
+      over:
+        value: 7
+        unit: sessions
+    reliability:
+      statistic: other
+      over: items
+      form: McDonald's omega
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The sentence names no coefficient; it follows the intrinsic-value paragraph, which names
+    McDonald's omega, and prints ω.
+  source_quote: Internal consistency ranged from ω = 0.80 to ω = 0.90.
+  source_location: Section 3.2.3.2

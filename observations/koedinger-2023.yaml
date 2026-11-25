@@ -1,0 +1,345 @@
+# Koedinger, Carvalho, Liu & McLaughlin (2023): an astonishing regularity in
+# student learning rate.
+#
+# A secondary analysis: the authors fit the same mixed-effects logistic growth
+# model (iAFM) to each of 27 DataShop datasets and report the distribution of
+# the per-dataset estimates (median, mean, 95% CI or SD across datasets). So the
+# unit every observation below is computed over is the DATASET, k = 27, not the
+# 6,946 students; a reader taking a CI here as a CI over students would read it
+# wrongly.
+#
+# The population intercept and learning rate are the iAFM's fixed effects, but
+# here they are the source's own measurements of initial accuracy and gain per
+# practice opportunity, summarised across datasets, so they are recorded as
+# what the source measured. Each is recorded as `measure_type: mean` (the mean
+# across datasets, with its printed CI or SD); the median the source leads with
+# is kept in `note`, never substituted.
+#
+# `population.age: unreported`: the main text names educational levels ("late
+# elementary to college", "grades 5 to 12, college, adult learners") and prints
+# no age figure. Per-dataset grade levels are in SI Appendix Table S1, which was
+# not read. No reliability coefficient is printed for the outcome (first-attempt
+# correctness, scored automatically).
+#
+# Read from the Europe PMC open-access XML (PMC10068755), main text only.
+
+schema_version: 2
+
+study:
+  key: koedinger-2023
+  citation: "Koedinger, K. R., Carvalho, P. F., Liu, R., & McLaughlin, E. A. (2023). An astonishing regularity in student learning rate. Proceedings of the National Academy of Sciences, 120(13), e2221311120."
+  doi: "10.1073/pnas.2221311120"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of 27 existing student-interaction datasets from
+      LearnLab's DataShop (intelligent tutoring systems, educational games and
+      online courses). In each dataset a mixed-effects logistic regression
+      growth model (individual Additive Factors Model, iAFM) predicts
+      first-attempt success from practice opportunities on a knowledge
+      component, with overall, per-student and per-KC intercepts and learning
+      rates; the per-dataset estimates are summarised across datasets. AFM,
+      iAFM and a calendar-time AFM were compared by AIC and BIC. No
+      intervention was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: practice-opportunities-needed-after-verbal-instruction
+    bearing: supports
+    anchor: koedinger-et-al-2023
+  - claim: students-differ-in-initial-knowledge-not-learning-rate
+    bearing: supports
+    anchor: koedinger-et-al-2023
+
+evidence_base:
+  unit: other
+  size:
+    value: 27
+    unit: other
+  additional_sizes:
+    - value: 6946
+      unit: participants
+      note: "learners across the 27 datasets"
+    - value: 12
+      unit: other
+      note: "courses the datasets come from (mathematics, science and language)"
+  population:
+    description: >-
+      Students using educational technology in the natural context of academic
+      courses in mathematics, science and language, from late elementary school
+      to college; in the methods, "grades 5 to 12, college, adult learners".
+      About 200 observations per student.
+    age_or_stage: "Late elementary to college; grade levels per dataset are in SI Appendix Table S1 (not read)"
+    age: unreported
+  context:
+    setting: >-
+      Self-paced work in intelligent tutoring systems, educational games and
+      online courses, in class or as homework, usually after lectures and
+      assigned readings. The systems give immediate feedback, on-demand hints
+      and explanatory instruction, and require or show a correct response
+      before moving on.
+  variation:
+    - dimension: "Domain"
+      distribution: "6 language, 16 mathematics, 5 science datasets"
+    - dimension: "Educational level"
+      distribution: "8 elementary, 8 middle/high school, 11 college datasets"
+  arms:
+    - id: all-datasets
+      description: >-
+        Every student in the 27 datasets, each practising knowledge components
+        in an educational technology with feedback and hints; a success is a
+        correct first attempt without a hint.
+      elements:
+        - term: "practice opportunities with immediate feedback and on-demand hints"
+          anchors:
+            - elements/practice
+            - elements/immediate-feedback
+
+comparisons: []
+
+observations:
+
+  - id: initial-performance-intercept
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Initial accuracy before practice"
+      source_language: "population iAFM intercept (initial knowledge estimate)"
+      measure: "Population intercept θ of the iAFM fitted to each dataset: log odds of a correct first attempt at opportunity 0"
+      scale: "log odds"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of practice on a knowledge component, after up-front verbal instruction"
+    result:
+      measure_type: mean
+      estimate: 0.501
+      unit: "log odds, mean across 27 datasets"
+      ci_lower: 0.285
+      ci_upper: 0.718
+      interval_type: confidence
+      note: >-
+        The source leads with the median across datasets, 0.638 log odds, which
+        it converts to 65.42% correct; the mean converts to 61.79% (95% CI
+        56.77% to 66.82%). Below the authors' mastery criterion of 80% correct.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is unreported because a mean intercept is not an effect. The
+      interval is across datasets, not across students.
+    source_quote: "The median population intercept (θ) across the 27 datasets is 0.638 log odds ( M = 0.501, 95% CI = [0.285,0.718]), which converts to 65.42% correct (M = 61.79%, 95% CI = [56.77%, 66.82%])."
+    source_location: "Results, Students Start at About 65% Correctness and Need about 7 Practice Repetitions"
+
+  - id: overall-learning-rate
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Gain in accuracy per practice opportunity"
+      source_language: "overall learning rate ( δ ) ... per opportunity"
+      measure: "Population learning-rate slope δ of the iAFM fitted to each dataset"
+      scale: "log odds per opportunity"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "per practice opportunity on a knowledge component"
+    result:
+      measure_type: mean
+      estimate: 0.15
+      unit: "log odds per opportunity, mean across 27 datasets"
+      ci_lower: 0.08
+      ci_upper: 0.22
+      interval_type: confidence
+      note: >-
+        The median across datasets is 0.09 log odds per opportunity, which the
+        source converts to a 2.5 percentage point increase for one opportunity
+        from the median intercept of 65%. The abstract rounds the typical gain
+        to "about 0.1 log odds or 2.5% in accuracy per opportunity".
+    moderators:
+      reported: []
+      candidate:
+        - "The authors report in the Discussion that fitting with less accurate KC models lowers the estimated overall learning rate; the analysis is in SI Appendix, not read."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The median overall learning rate ( δ ) across datasets is 0.09 log odds ( M = 0.15, 95% CI = [0.08, 0.22]) per opportunity, which converts to a 2.5 percentage point increase for one practice opportunity from the median intercept (θ) of 65%."
+    source_location: "Results, Students Start at About 65% Correctness and Need about 7 Practice Repetitions"
+
+  - id: opportunities-to-mastery
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Practice opportunities needed to reach mastery"
+      source_language: "number of opportunities to reach mastery"
+      measure: "(log-odds(0.80) - log-odds(θ)) / δ, from each dataset's overall iAFM estimates"
+      scale: "practice opportunities"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "from the start of practice to the 80% mastery criterion"
+    result:
+      measure_type: mean
+      estimate: 12.27
+      unit: "practice opportunities per knowledge component, mean across 27 datasets"
+      ci_lower: 7.09
+      ci_upper: 17.45
+      interval_type: confidence
+      note: "The median across datasets is 7.24 opportunities, the figure the source summarises as about seven."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A quantity the source derives from its two fitted estimates by the
+      formula it prints, not a separately observed count.
+    source_quote: "Across all datasets, the median number of opportunities to reach mastery is 7.24 ( M = 12.27, 95% CI = [7.09, 17.45])."
+    source_location: "Results, Students Start at About 65% Correctness and Need about 7 Practice Repetitions"
+
+  - id: student-intercept-sd
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Between-student variation in initial accuracy"
+      source_language: "SD of student intercepts (θ + θ i )"
+      measure: "Standard deviation of the student intercepts within each dataset"
+      scale: "log odds"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of practice"
+    result:
+      measure_type: mean
+      estimate: 0.724
+      sd: 0.283
+      unit: "log odds; mean across 27 datasets of the within-dataset SD"
+      note: >-
+        Median across datasets 0.651. The within-dataset interquartile range of
+        student intercepts has median 0.830 (M = 0.988, SD = 0.430). result.sd
+        is the SD across datasets of the within-dataset SD, as printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "For each dataset, we computed the SD of student intercepts (θ + θ i ) and found the median standard across datasets to be 0.651 ( M = 0.724, SD = 0.283) and the median interquartile range is 0.830 ( M = 0.988, SD = 0.430) in log odds ‡ ."
+    source_location: "Results, Students Vary Substantially in Initial Knowledge"
+
+  - id: student-learning-rate-sd
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Between-student variation in learning rate"
+      source_language: "SD ... of learning rate for students ( δ i )"
+      measure: "Standard deviation of the student learning-rate estimates within each dataset"
+      scale: "log odds per opportunity"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "per practice opportunity"
+    result:
+      measure_type: mean
+      estimate: 0.022
+      sd: 0.019
+      unit: "log odds per opportunity; mean across 27 datasets of the within-dataset SD"
+      note: >-
+        Median across datasets 0.015; median interquartile range 0.018 (M =
+        0.028, SD = 0.024). With the KC learning-rate parameters removed the
+        interquartile range was 0.021. result.sd is the SD across datasets of
+        the within-dataset SD, as printed.
+    moderators:
+      reported:
+        - variable: "Domain"
+          relationship: "Median interquartile range of student learning rate larger in the 6 language datasets (0.045 log odds) than in the 16 mathematics (0.017) and 5 science (0.008) datasets"
+          source_quote: "Interestingly, there appears to be greater student learning-rate variation in the six language domain datasets (median interquartile range of 0.045 log odds) than in the 16 math and five science domain datasets (median interquartile range of 0.017 log odds and 0.008 log odds, respectively)."
+        - variable: "Grade level"
+          relationship: "Similar across levels: median interquartile range 0.015 upper elementary, 0.018 middle/high school, 0.018 college"
+          source_quote: "Student learning-rate variation due to grade levels is more consistent with median interquartile ranges of 0.015 log odds for upper elementary, 0.018 log odds for middle/high school, and 0.018 log odds for college."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The median SD across datasets for student learning rate was 0.015 ( M = 0.022; SD = 0.019) and the interquartile range was 0.018 ( M = 0.028, SD = 0.024),"
+    source_location: "Results, Students are Astonishingly Similar in Learning Rate"
+
+  - id: kc-learning-rate-sd
+    sample:
+      value: 27
+      unit: other
+    arm_ref: all-datasets
+    outcome:
+      construct: "Between-knowledge-component variation in learning rate"
+      source_language: "SD ... of learning rate for ... KCs ( γ k )"
+      measure: "Standard deviation of the knowledge-component learning-rate estimates within each dataset"
+      scale: "log odds per opportunity"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "per practice opportunity"
+    result:
+      measure_type: mean
+      estimate: 0.175
+      sd: 0.177
+      unit: "log odds per opportunity; mean across 27 datasets of the within-dataset SD"
+      note: >-
+        Median across datasets 0.102; median interquartile range 0.132 (M =
+        0.175, SD = 0.147). The source uses this variation to argue the model
+        can detect learning-rate differences where they exist.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "whereas the median SD across datasets for KC learning rate was orders of magnitude larger at 0.102 ( M = 0.175; SD = 0.177) and the interquartile range was seven times larger at 0.132 ( M = 0.175, SD = 0.147)."
+    source_location: "Results, Students are Astonishingly Similar in Learning Rate"
+
+not_yet_extracted:
+  - "Model comparison: AFM best in 6 of 27 datasets by AIC and 12 of 27 by BIC, iAFM in 21 (AIC) or 15 (BIC); Bayes factors favoured iAFM in 15 and AFM in 11; the calendar-time AFM fit best in 1 of 20 datasets."
+  - "Table 2: initial % correct and opportunities to mastery at the 25th, 50th and 75th percentiles of initial knowledge and of learning rate (e.g. 13.13 vs 3.66 opportunities by initial knowledge; 7.89 vs 6.94 by learning rate)."
+  - "SI Appendix (Table S1 per-dataset estimates and grade levels, mean observations per student-KC pair, hard/easy KC and KC-model-quality analyses), not read."

@@ -1,0 +1,456 @@
+# Rohrer, Dedrick & Stershic (2015): interleaved practice improves mathematics
+# learning. One classroom experiment, Grade 7, one Tampa middle school.
+#
+# The design is unusual and is recorded as the source describes it, not as a
+# stronger label: practice schedule (interleaved or blocked) is WITHIN subject,
+# counterbalanced across two problem kinds (graph and slope) by group, and the
+# nine classes were randomly assigned to the two counterbalancing groups; test
+# delay (1 or 30 days after a review) is BETWEEN subjects, randomised to
+# students within each class. So every student contributes an interleaved and a
+# blocked score, and each delay group is 63 students. The source does not call
+# it a randomised controlled trial, and the class-level assignment of
+# counterbalancing groups is not modelled in its analysis; `family: other`
+# carries that rather than a label the source does not use.
+#
+# The four test means with their SDs are recorded as `measure_type: mean`, one
+# per schedule and delay, because the simulator reads them and the source prints
+# them; the d values are separate observations, as printed. Neither is computed
+# from the other.
+#
+# `population.age`: the source says only that "nearly every student was 12 years
+# old at the beginning of the study". Recorded as a median of 12 with that
+# wording in the note; no range, mean or SD is printed.
+#
+# Read from the ERIC copy (ED557355), an author manuscript in the journal's
+# advance-online layout (2014, Vol. 106, No. 4, page numbers 1-9). Its text layer
+# writes several math symbols as glyph codes: "=" is "=", "<" is "<",
+# "ηp²" is partial eta squared. The source_quotes keep them verbatim; the
+# numbers beside them are clean.
+
+schema_version: 2
+
+study:
+  key: rohrer-2015
+  citation: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900–908."
+  doi: "10.1037/edu0000001"
+  design:
+    family: other
+    design_detail: >-
+      Classroom experiment. Practice schedule (interleaved vs blocked) was a
+      counterbalanced within-subject variable: Group 1 (four classes) received
+      interleaved graph problems and blocked slope problems, Group 2 (five
+      classes) the reverse; the two honors/gifted classes were randomly
+      assigned to different groups and the other seven classes randomly
+      assigned with a constraint on teachers. Test delay (1 or 30 days after a
+      review) was a between-subjects variable, randomly assigned to students
+      within each class. Analysed by paired t tests per delay and a two-way
+      mixed ANOVA (schedule within, delay between).
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: interleaved-benefit-one-day-delay-d042
+    bearing: supports
+    anchor: rohrer-2015
+  - claim: interleaved-practice-higher-math-test-scores
+    bearing: supports
+    anchor: rohrer-2015
+  - claim: interleaving-benefit-persists-thirty-days
+    bearing: supports
+    anchor: rohrer-2015
+  - claim: interleaving-benefit-persists-thirty-days
+    bearing: supports
+    anchor: rohrer-2015-2
+  - claim: interleaved-practice-near-immunity-forgetting
+    bearing: supports
+    anchor: rohrer-2015
+
+evidence_base:
+  unit: participants
+  size:
+    value: 126
+    unit: participants
+  additional_sizes:
+    - value: 9
+      unit: classes
+      note: "seventh-grade classes taught by three teachers; the unit assigned to counterbalancing group"
+    - value: 150
+      unit: participants
+      note: "students of the 164 in the participating classes with parent permission and student assent; the 126 analysed attended on both the review and the test day"
+    - value: 63
+      unit: participants
+      note: "students in each test-delay group (1 day and 30 days)"
+  population:
+    description: >-
+      Seventh-grade students at a large public middle school in Tampa, Florida,
+      2013-2014, all with a passing score (3 or higher) on the Grade 6 FCAT
+      mathematics section; 61 girls (48%); 38% free or reduced-price lunch;
+      10% Asian, 14% Black, 22% Hispanic, 6% multiracial, 47% White (district
+      aggregate data).
+    age_or_stage: "Grade 7. The source says only: Nearly every student was 12 years old at the beginning of the study."
+    age: unreported
+  context:
+    setting: >-
+      Regular mathematics classes; teachers gave their usual lessons and the
+      authors supplied the practice assignments. Assignments were done as
+      homework, solutions were presented in class and students corrected their
+      own errors.
+  arms:
+    - id: interleaved
+      description: >-
+        Interleaved practice of one problem kind (graph or slope): four problems
+        in the assignment after the tutorial, the remaining eight distributed
+        one per assignment across later assignments.
+      elements:
+        - term: "interleaved mathematics practice"
+          anchors:
+            - principles/interleaving
+      dose:
+        amount: 12
+        unit: "problems of the kind, across 10 assignments over about 3 months"
+        detail: "Assignments on Days 1 to 86-88; one review problem of each kind on Day 93"
+    - id: blocked
+      description: >-
+        Blocked practice of the other problem kind: all 12 problems of that kind
+        in the single assignment that followed its tutorial.
+      dose:
+        amount: 12
+        unit: "problems of the kind, in one assignment"
+        detail: "Same review as the interleaved kind on Day 93"
+
+comparisons:
+  - id: interleaved-vs-blocked
+    kind: other
+    index_arm: interleaved
+    reference_arm: blocked
+    description: >-
+      Within-subject contrast, counterbalanced: each student's score on the
+      problem kind practised interleaved against their score on the kind
+      practised blocked, on the same test.
+  - id: test-scoring
+    kind: none
+    description: "Properties of the unannounced test (three graph and three slope problems), across the whole sample; no contrast."
+
+observations:
+
+  - id: test-1day-d
+    sample:
+      value: 63
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Mathematics problem solving, graph and slope problems"
+      source_language: "test scores"
+      measure: "Unannounced test of novel problems, three graph and three slope, 18 minutes, scored correct or not by two raters blind to condition"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 day after the review"
+      offset:
+        value: 1
+        unit: days
+        from: "review session (Day 93)"
+    result:
+      measure_type: cohens_d
+      estimate: 0.42
+      ci_lower: 0.07
+      ci_upper: 0.77
+      interval_type: confidence
+      p_value: ".02"
+      statistic: "t(62) = 2.39"
+      descriptives: "interleaved 80% (SD 33%) vs blocked 64% (SD 42%)"
+      note: "The source does not say which SD forms the denominator of d."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Analysed with students as independent units, although the counterbalancing
+      group was assigned by class.
+    source_quote: "Students tested 1 day after the review showed a moderate benefit of interleaving, 80% ( SD = 33%) vs. 64% ( SD = 42%), t(62) = 2.39, p = .02, d = 0.42, 95% confidence interval (CI) [0.07, 0.77]."
+    source_location: "Results"
+
+  - id: test-30day-d
+    sample:
+      value: 63
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Mathematics problem solving, graph and slope problems"
+      source_language: "test scores"
+      measure: "Unannounced test of novel problems, three graph and three slope, 18 minutes, scored correct or not by two raters blind to condition"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "30 days after the review"
+      offset:
+        value: 30
+        unit: days
+        from: "review session (Day 93)"
+    result:
+      measure_type: cohens_d
+      estimate: 0.79
+      ci_lower: 0.43
+      ci_upper: 1.15
+      interval_type: confidence
+      p_value: "<.001"
+      statistic: "t(62) = 4.54"
+      descriptives: "interleaved 74% (SD 39%) vs blocked 42% (SD 43%)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Students tested 30 days after the review showed a large benefit of interleaving, 74% ( SD = 39%) vs. 42% ( SD = 43%), t(62) = 4.54, p < .001, Cohen’s d = 0.79, 95% CI [0.43, 1.15]."
+    source_location: "Results"
+
+  - id: schedule-main-effect
+    sample:
+      value: 126
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Mathematics problem solving, graph and slope problems"
+      source_language: "interleaved practice was superior to blocked practice"
+      measure: "Unannounced test, both delays"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 or 30 days after the review, pooled over delay"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.165
+      statistic: "F(1, 124) = 24.43"
+      p_value: "<.001"
+      model: "Two-way ANOVA, practice schedule within subject, test delay between subjects"
+      note: "Main effect of test delay in the same model: F(1, 124) = 7.69, p < .01, partial eta squared .058, scores higher at the shorter delay."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "A two-way analysis of variance (with practice schedule as a within-subject variable and test delay as a between-subjects variable) showed that interleaved practice was superior to blocked practice, F(1, 124) = 24.43, p < .001, ηp² = .165, and that test scores were greater at the shorter test delay, F(1, 124) = 7.69, p < .01, ηp² = .058."
+    source_location: "Results"
+
+  # The interaction is the test of whether the benefit changes with delay. Not
+  # significant; the source reports no effect size for it.
+  - id: schedule-by-delay-interaction
+    sample:
+      value: 126
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Change in the interleaving benefit with test delay"
+      source_language: "the interaction between practice schedule and test delay"
+      measure: "Unannounced test, 1-day against 30-day group"
+      scale: "percent correct"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 against 30 days after the review"
+    result:
+      measure_type: other
+      statistic: "F(1, 124) = 2.84"
+      p_value: ".09"
+      model: "Two-way ANOVA, practice schedule within subject, test delay between subjects"
+      interpretation: "Not statistically significant. In the Discussion the authors write that the benefit 'does not diminish over time and perhaps grows larger'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, the interaction between practice schedule and test delay was not statistically significant, F(1, 124) = 2.84, p = .09."
+    source_location: "Results"
+
+  - id: mean-interleaved-1day
+    sample:
+      value: 63
+      unit: participants
+    arm_ref: interleaved
+    outcome: &test_outcome
+      construct: "Mathematics problem solving, graph and slope problems"
+      source_language: "test scores"
+      measure: "Unannounced test of novel problems, three graph and three slope, 18 minutes"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 day after the review"
+      offset: {value: 1, unit: days, from: "review session (Day 93)"}
+    result:
+      measure_type: mean
+      estimate: 80
+      sd: 33
+      unit: "percent correct on the problems practised interleaved"
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Students tested 1 day after the review showed a moderate benefit of interleaving, 80% ( SD = 33%) vs. 64% ( SD = 42%),"
+    source_location: "Results"
+
+  - id: mean-blocked-1day
+    sample:
+      value: 63
+      unit: participants
+    arm_ref: blocked
+    outcome: *test_outcome
+    time:
+      label: "1 day after the review"
+      offset: {value: 1, unit: days, from: "review session (Day 93)"}
+    result:
+      measure_type: mean
+      estimate: 64
+      sd: 42
+      unit: "percent correct on the problems practised blocked"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    source_quote: "Students tested 1 day after the review showed a moderate benefit of interleaving, 80% ( SD = 33%) vs. 64% ( SD = 42%),"
+    source_location: "Results"
+
+  - id: mean-interleaved-30day
+    sample:
+      value: 63
+      unit: participants
+    arm_ref: interleaved
+    outcome: *test_outcome
+    time:
+      label: "30 days after the review"
+      offset: {value: 30, unit: days, from: "review session (Day 93)"}
+    result:
+      measure_type: mean
+      estimate: 74
+      sd: 39
+      unit: "percent correct on the problems practised interleaved"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    source_quote: "Students tested 30 days after the review showed a large benefit of interleaving, 74% ( SD = 39%) vs. 42% ( SD = 43%),"
+    source_location: "Results"
+
+  - id: mean-blocked-30day
+    sample:
+      value: 63
+      unit: participants
+    arm_ref: blocked
+    outcome: *test_outcome
+    time:
+      label: "30 days after the review"
+      offset: {value: 30, unit: days, from: "review session (Day 93)"}
+    result:
+      measure_type: mean
+      estimate: 42
+      sd: 43
+      unit: "percent correct on the problems practised blocked"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    source_quote: "Students tested 30 days after the review showed a large benefit of interleaving, 74% ( SD = 39%) vs. 42% ( SD = 43%),"
+    source_location: "Results"
+
+  - id: test-alpha-slope
+    sample:
+      value: 126
+      unit: participants
+    comparison_ref: test-scoring
+    outcome:
+      construct: "Internal consistency of the slope-problem test items"
+      source_language: "Internal consistency reliabilities, as measured by Cronbach's alpha"
+      measure: "Three slope problems on the unannounced test"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test, 1 or 30 days after the review"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The source does not say whether alpha was computed over both delay groups
+      together; the sample is recorded as the whole analysed sample on that
+      reading. Scoring agreement is reported only as "the few discrepancies (six
+      in 756)" between the two raters; no agreement coefficient is printed, and
+      none is computed here.
+    source_quote: "Internal consistency reliabili- ties, as measured by Cronbach’s alpha, were .89 and .77 for the slope and graphing problems, respectively."
+    source_location: "Method, Procedure (last paragraph)"
+
+  - id: test-alpha-graph
+    sample:
+      value: 126
+      unit: participants
+    comparison_ref: test-scoring
+    outcome:
+      construct: "Internal consistency of the graph-problem test items"
+      source_language: "Internal consistency reliabilities, as measured by Cronbach's alpha"
+      measure: "Three graph problems on the unannounced test"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test, 1 or 30 days after the review"
+    result:
+      measure_type: reliability
+      estimate: 0.77
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Internal consistency reliabili- ties, as measured by Cronbach’s alpha, were .89 and .77 for the slope and graphing problems, respectively."
+    source_location: "Method, Procedure (last paragraph)"
+
+not_yet_extracted:
+  - "Per problem kind and delay (Welch t tests): 1 day graph 89% vs 73%, d = 0.54, p = .029; slope 73% vs 54%, d = 0.43, p = .10; 30 days graph 84% vs 54%, d = 0.81; slope 65% vs 29%, d = 0.87."
+  - "Practice-assignment scores as a compliance measure (self-corrected, so not a learning measure): blocked 81%, interleaved 84%, last eight interleaved problems 82%; review 94% vs 89%."
+  - "Baseline equivalence of the two counterbalancing groups on six NAEP Grade-8 items: 76% (SD 22%) vs 79% (SD 22%), t(108) = 0.62, d = 0.12."
+  - "Teacher survey (three teachers, Appendix B)."

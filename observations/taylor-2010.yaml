@@ -1,0 +1,328 @@
+# Taylor & Rohrer (2010): interleaved versus blocked practice of four kinds of
+# prism problem, with spacing held equal, in fourth graders.
+#
+# Read from the publisher PDF (Applied Cognitive Psychology, 12 pp.). The
+# extracted text renders "=" as "¼" and "×" as "/C2"; the source quotes below
+# keep those characters exactly as the text layer has them.
+#
+# What the record holds and what it does not:
+#
+#   * `population.age` with every figure printed: "10 or 11 years of age
+#     (M = 10.5, SD = 0.51)".
+#   * No reliability: the tests were scored right or wrong on a four-problem
+#     paper test, and the article prints no reliability or scorer agreement.
+#   * No single-group means as `measure_type: mean`: the article prints the
+#     group percentages without SDs (Figure 2 shows SE bars only), so they sit
+#     in `descriptives` beside the contrasts the article does report.
+#   * The group sizes are not printed. 24 children in all, t(22); a split of 12
+#     and 12 is not stated and is not recorded.
+#   * Cohen's d is printed unsigned. Each observation's interpretation says
+#     which group was higher.
+
+schema_version: 2
+
+study:
+  key: taylor-2010
+  citation: "Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. Applied Cognitive Psychology, 24(6), 837–848."
+  doi: "10.1002/acp.1598"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-group experiment: each child was randomly assigned to interleaved or
+      blocked practice before a single practice session (a tutorial, then a
+      partial-problem phase of 8 problems of each of four kinds and a
+      full-problem phase of 3 of each kind, with feedback). Blocked practice
+      put a filler task between same-kind problems so the spacing gap between
+      two problems of the same kind was equal in both conditions (30 s in the
+      partial phase, 75 s in the full phase). Two paper tests one day later
+      with no feedback.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: interleaving-improves-discrimination
+    bearing: supports
+    anchor: taylor-rohrer-2010
+  - claim: interleaving-not-spacing-persists-over-delay
+    bearing: supports
+    anchor: taylor-rohrer-2010
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  additional_sizes:
+    - value: 2
+      unit: participants
+      note: "completed the practice session but were absent for the test session; excluded from all analyses"
+  population:
+    description: >-
+      Fourth-grade students (12 boys, 12 girls) at an elementary school in
+      St. Petersburg, Florida. None answered a pre-test problem correctly.
+    age_or_stage: "Grade 4, aged 10 or 11"
+    age:
+      unit: years
+      min: 10
+      max: 11
+      mean: 10.5
+      sd: 0.51
+  context:
+    setting: "Practice session with a computer-generated presentation and individual paper booklets, then two paper-and-pencil tests one day later"
+  arms:
+    - id: interleaved
+      description: "Practice problems of the four kinds (faces, corners, edges, angles of a prism) intermixed: every four consecutive problems one of each kind, no two of a kind consecutive, an average of three problems between same-kind problems; filler tasks all at the end of each phase."
+      dose:
+        amount: 44
+        unit: practice problems
+        detail: "32 partial problems (8 of each kind) and 12 full problems (3 of each kind), with feedback after each, plus one solved example of each kind per phase"
+    - id: blocked
+      description: "All problems of one kind directly after that kind's example, with a filler task (30 s, then 75 s) between consecutive same-kind problems so the spacing gap equalled the interleaved group's average."
+      dose:
+        amount: 44
+        unit: practice problems
+        detail: "Same problems, examples and filler tasks as the interleaved group, in blocked order"
+
+comparisons:
+  - id: interleaved-vs-blocked
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: blocked
+    description: "Interleaved against blocked practice of the same problems, with the spacing gap between same-kind problems held equal."
+
+observations:
+
+  - id: test1-interleaved-vs-blocked
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Choosing and applying the right procedure on new problems"
+      source_language: "Test 1, which required participants to pair each kind of problem with the appropriate solution"
+      measure: "Four new problems, one of each kind; each required writing the right formula and substituting the number of base sides; 2 minutes, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one day after the practice session"
+      offset:
+        value: 1
+        unit: days
+        from: "end of the practice session"
+    result:
+      measure_type: cohens_d
+      estimate: 1.21
+      statistic: "t(22) = 2.96"
+      p_value: "< .01"
+      descriptives:
+        interleaved: "77% correct"
+        blocked: "38% correct"
+      interpretation: "Interleaved higher; d printed unsigned"
+    moderators:
+      reported: []
+      candidate:
+        - "Amount of practice: the authors suggest blocked practice near ceiling may have inflated the test benefit"
+        - "Similarity of the problem kinds"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      No confidence interval and no per-group n are printed; no test
+      reliability is reported for this four-problem test.
+    source_quote: "Mean accuracy on Test 1, which required participants to pair each kind of problem with the appropriate solution (as in the practice session), was more than doubled by the interleaving of practice (77% vs. 38%), t(22) ¼ 2.96, p < .01, Cohen’s d ¼ 1.21."
+    source_location: "Results, Tests, p. 842"
+
+  - id: practice-full-phase-accuracy
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Accuracy during practice"
+      source_language: "interleaving impaired accuracy during the full-problem phase"
+      measure: "The three full problems of each kind in the practice session (F1-F3), both solution steps"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session, full-problem phase"
+    result:
+      measure_type: cohens_d
+      estimate: 1.20
+      statistic: "t(22) = 2.94"
+      p_value: "< .05"
+      descriptives:
+        interleaved: "79% correct"
+        blocked: "98% correct"
+      interpretation: "Blocked higher during practice; d printed unsigned"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Likewise, interleaving impaired accuracy during the full- problem phase (79% vs. 98%), t(22) ¼ 2.94, p < .05, Cohen’s d ¼ 1.20."
+    source_location: "Results, Practice problems, p. 842"
+
+  - id: practice-partial-phase-accuracy
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Accuracy during practice"
+      source_language: "mean accuracy was far worse when practice problems were interleaved rather than blocked"
+      measure: "The eight partial problems of each kind (P1-P8), first solution step only (write the expression)"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session, partial-problem phase"
+    result:
+      measure_type: cohens_d
+      estimate: 2.02
+      statistic: "t(22) = 4.94"
+      p_value: "< .01"
+      descriptives:
+        interleaved: "68% correct"
+        blocked: "99% correct"
+      interpretation: "Blocked higher during practice; d printed unsigned"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Across all problems in the partial-problem phase, mean accuracy was far worse when practice problems were interleaved rather than blocked (68% vs. 99%), t(22) ¼ 4.94, p < .01, Cohen’s d ¼ 2.02."
+    source_location: "Results, Practice problems, p. 842"
+
+  - id: strategy-by-session-interaction
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Reversal between practice and test accuracy"
+      source_language: "interaction between strategy (interleaving vs. blocked) and session (practice vs. Test 1)"
+      measure: "Accuracy in the full-problem phase (F1-F3) against Test 1 accuracy, two-way ANOVA"
+      scale: "percentage correct"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice session against the test one day later"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.57
+      statistic: "F(1, 22) = 29.33"
+      p_value: "< .001"
+      interpretation: "Interleaving lowered practice accuracy and raised Test 1 accuracy"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "This interaction between strategy (interleaving vs. blocked) and session (practice vs. Test 1), where practice performance is measured by the full-problem phase (F1–F3), was shown by a two-way analysis of variance to be signiﬁcant, F (1, 22) ¼ 29.33, p < .001, h2p ¼ .57."
+    source_location: "Results, Tests, p. 843"
+
+  - id: test1-error-type-interaction
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Errors choosing among taught procedures"
+      source_language: "discrimination error"
+      measure: "Share of Test 1 problems answered with one of the other three taught formulas (discrimination error) or with a formula never taught (fabrication error)"
+      scale: "percentage of Test 1 problems"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one day after the practice session"
+      offset:
+        value: 1
+        unit: days
+        from: "end of the practice session"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.21
+      statistic: "F(1, 22) = 5.70 (strategy by error type)"
+      p_value: "< .05"
+      descriptives:
+        discrimination-errors: "blocked 46%, interleaved 10%"
+        fabrication-errors: "blocked 15%, interleaved 13%"
+      interpretation: "Blocking raised discrimination errors (post hoc Tukey p < .001) and not fabrication errors"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The estimate is the strategy-by-error-type interaction; no effect size
+      is printed for the discrimination-error difference alone.
+    source_quote: "As shown, blocked practice and interleaved practice produced about the same number of fabrication errors (15% vs. 13%, respectively), but interleaving of practice dramatically reduced the frequency of discrimination errors (46% vs. 10%). This interaction between strategy (interleaved vs. blocked) and type of error (fabrication vs. discrimination) was conﬁrmed by a two-way analysis of variance, F (1, 22) ¼ 5.70, p < .05, h2p ¼ .21,"
+    source_location: "Results, Test errors, p. 844; Figure 2B"
+
+  - id: test2-formulas-provided
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Applying a given procedure"
+      source_language: "Test 2, which required participants to only perform the procedure"
+      measure: "Four new problems, one of each kind, with all four formulas printed at the top of the page"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one day after the practice session, directly after Test 1"
+    result:
+      measure_type: other
+      statistic: "t(22) = 1.19"
+      descriptives:
+        interleaved: "100% correct"
+        blocked: "90% correct"
+      interpretation: "Described by the authors as a small, unreliable benefit that may reflect a ceiling effect"
+    moderators:
+      reported: []
+      candidate:
+        - "Ceiling effect on Test 2"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "interleaving provided a small, unreliable beneﬁt on Test 2, which required participants to only perform the procedure (100% vs. 90%), t(22) ¼ 1.19."
+    source_location: "Results, Tests, p. 843"
