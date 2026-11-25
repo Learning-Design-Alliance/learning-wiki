@@ -72,3 +72,4 @@ Spearman's correlations in preliminary analyses. The printed correlations were �
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](gender-differences-enjoyment-boredom-early-grades.md) — related
 - [Percentage of students solving the mystery does not differ significantly by SRL group](no-srl-difference-mystery-completion.md) — related
+- [Boys and girls at age 11 do not differ significantly in general cognitive ability (d = 0.01)](no-sex-difference-in-g-age-11.md) — related

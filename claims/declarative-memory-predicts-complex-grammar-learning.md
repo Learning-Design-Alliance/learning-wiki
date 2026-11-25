@@ -52,3 +52,4 @@ Stepwise multiple regression on the Experiment 1 baseline group found that "for 
 - [Passive, exposure-based training before test boosts learning of both simple and complex grammatical rules relative to test-only performance](exposure-training-boosts-grammar-learning.md) — related
 - [Memory-subsystem correlations with grammar learning appear only when training precedes test, implicating memory during acquisition rather than test](memory-effects-require-training-phase.md) — related
 - [Presenting corrective feedback during the test phase does not improve grammar learning](test-phase-feedback-no-benefit.md) — related
+- [Some ideal student-model rules are too general for some students and fail to transfer to more complex contexts, prompting a finer-grained 55-rule revision](kt-overgeneral-rule-partitioning.md) — related

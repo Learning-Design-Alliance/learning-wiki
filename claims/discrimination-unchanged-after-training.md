@@ -53,3 +53,4 @@ Linear mixed model on relative monitoring accuracy found measurement point and b
 - [Feedback training did not change children's cue utilization despite repeated metacognitive experiences](feedback-training-did-not-change-cue-utilization.md) — related
 - [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
 - [Prolonged practice yields no evidence of improvement in discrimination for the intensity of sound](no-practice-improvement-intensity-discrimination.md) — related
+- [Pretest variability was not related to success on any learning or transfer measure, contrary to theoretical expectations](pretest-variability-not-predictive-success.md) — related

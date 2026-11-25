@@ -87,3 +87,4 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 - [THEA score gains did not differ significantly across the five semester/year administrations of the FOCUS Intervention](focus-thea-gains-no-semester-interaction.md) — related
 - [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related
 - [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — related
+- [Training group and trial block interacted in producing linear estimation patterns, indicating different rates of learning across feedback conditions](group-by-block-interaction-linear-fit.md) — related

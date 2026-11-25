@@ -52,3 +52,4 @@ During the study phase, subjects rated each passage's comprehensibility. "A 2 (p
 - [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
 - [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related
+- [Training group and trial block interacted in producing linear estimation patterns, indicating different rates of learning across feedback conditions](group-by-block-interaction-linear-fit.md) — related

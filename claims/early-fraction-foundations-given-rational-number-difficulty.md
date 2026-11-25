@@ -60,3 +60,4 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 - [Understanding rational numbers is not indiscriminately difficult for students](rational-number-understanding-not-indiscriminately-difficult.md) — related
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — related
 - [Most students believed mathematics teaching is more effective when it uses group work, builds on prior knowledge and connects topics, while few valued technology](students-rate-group-work-effective-teaching-feature.md) — related
+- [Direct development from natural number-biased to mathematically correct rational number size concepts was almost nonexistent over the 1-year period](nnb-to-correct-transition-almost-nonexistent.md) — related

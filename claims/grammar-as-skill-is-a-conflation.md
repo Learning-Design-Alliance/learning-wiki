@@ -55,3 +55,4 @@ Theoretical argument in section III. The author critiques the declarative-to-pro
 - [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related
+- [Some ideal student-model rules are too general for some students and fail to transfer to more complex contexts, prompting a finer-grained 55-rule revision](kt-overgeneral-rule-partitioning.md) — related

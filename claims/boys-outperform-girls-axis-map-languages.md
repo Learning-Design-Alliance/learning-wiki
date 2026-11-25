@@ -53,3 +53,4 @@ Repeated measures MANCOVA of GLIM scores pooled over Grades 4-6 (possible totals
 - [Gender differences on graphics items arise on tasks requiring movement between 2D and 3D representations or directional processing, not on 2D-to-2D tasks](gender-differences-2d-3d-processing-items.md) — related
 - [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](gender-gap-stable-across-three-years.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
+- [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related

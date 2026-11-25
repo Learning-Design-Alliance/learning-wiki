@@ -56,3 +56,4 @@ Cross-study synthesis combining this article's adult sample (18–84) with Weil 
 - [Adolescents showed significantly lower metacognitive ability compared to young adults](cms-adolescents-lower-metacognition.md) — reports the opposite
 - [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
+- [Performance patterns in a lifespan moral-judgment sample support a discontinuous, spurt-and-plateau characterization of conceptual development](shape-of-development-spurts-plateaus.md) — related

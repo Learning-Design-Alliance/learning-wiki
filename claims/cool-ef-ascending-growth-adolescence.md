@@ -61,3 +61,4 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Model-based learning emerges in adolescence in standard paradigms but 5-year-old children use it in simplified paradigms with higher rewards](model-based-learning-paradigm-moderation.md) — related
 - [Neither sex nor age was significantly associated with executive function scores in the 6–9-year-old sample](sex-age-not-associated-executive-functions.md) — related
 - [Under high support and practice, reflective judgment shows developmental spurts between ages 18-20 and 23-25/26, but the hypothesized 14-15 spurt appears only in stage-specific and highest-stage data](prji-developmental-spurts-18-20-23-25.md) — related
+- [Performance patterns in a lifespan moral-judgment sample support a discontinuous, spurt-and-plateau characterization of conceptual development](shape-of-development-spurts-plateaus.md) — related

@@ -54,3 +54,4 @@ Unsupervised EM clustering (MClust in R) of n-gram features from flip sequences,
 - [In the studied game quest, three GLA approaches yield insights into different ways students complete genetics tasks](three-gla-approaches-reveal-different-genetics-task-methods.md) — related
 - [Higher physics pre-test scores predicted more actions per trial, and more actions per trial predicted more level completions, across game types](actions-per-trial-predicts-level-completions.md) — related
 - [Interaction data can indicate students' solution strategies, e.g. distinguishing trial-and-error from analytic solving in a projectile game](ejss-data-reveals-trial-and-error-strategy.md) — related
+- [Stationarity tests show no evidence of learning in responses prior to the last error across the experimental groups](stationarity-before-last-error-supported.md) — related

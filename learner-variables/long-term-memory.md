@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 287 claims (169 show a difference, 69 mixed, 49 no difference) · 190 studies (105 causal, 36 review, 17 quant-synthesis, 13 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 190 report an effect size · 279 claims rest on one study
+> **Evidence** · 288 claims (170 show a difference, 69 mixed, 49 no difference) · 191 studies (106 causal, 36 review, 17 quant-synthesis, 13 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 191 report an effect size · 280 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -323,6 +323,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Spacing study opportunities impairs short-term performance but enhances long-term retention of verbal material, including complex materials](../claims/spacing-effect-learning-performance-dissociation.md) [+M] — measured as an outcome of the instruction studied
 - [Among participants practicing pseudoarithmetic problems in one uncontrolled pre-post study, a complete transition from algorithm to memory retrieval was observed by about the 60th exposure to each problem](../claims/retrieval-transition-by-block-60-pound-arithmetic.md) [+M] — measured as an outcome of the instruction studied
 - [Prior schema learning allows one-trial paired associates to be recalled 24 hours later and consolidated within 48 hours, becoming hippocampus-independent](../claims/schema-enables-rapid-consolidation-48-hours.md) [+M] — learners who differ on it differ in outcomes
+- [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](../claims/item-specific-strategy-shift.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

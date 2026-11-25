@@ -5,6 +5,26 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-9: the cusp literature, and DOIs with parentheses
+
+`j-drive-9` read 21 sources: 16 from the simulator's cusp-literature list (Rickard 2004, Baker, Goldstein &
+Heffernan 2011, Baker et al. 2013, Dawson-Tunik 2005, Straatemeier 2008, Opfer & Siegler 2007, Alibali 1999,
+Edelsbrunner 2018, Kainulainen 2017, Hartelman 1998, Underwood & Keppel 1962, Schneider & Hardy 2013,
+Schapiro & McClelland 2009, Haider & Frensch 2002, Suppes & Ginsberg 1963), Siegler & Stern 1998, and five
+`j-drive-8` failures. 18 were ingested and 115 pages kept, with no citation removed or flagged; Corbett 1995,
+Deary 2007 and Lohbeck 2019 went through on this retry. Hardy 1996 and Cohen, Pargman & Tenenbaum 2003 were
+left out under the methods-paper rule: they test the cusp model on sport anxiety, and the simulator takes
+nothing from them. Both scope models judged the research-method page on catastrophe theory out of scope; it
+is kept, because the simulator's phase self-check takes its catastrophe flags from that framework.
+
+Glenberg 1976 failed for the second time because of a bug in the extraction validator, not the model.
+`scripts/eval/ground_truth.py`'s `DOI_RE` stopped at the first `)`, so `10.1016/S0022-5371(76)90002-5` was
+looked up as `10.1016/S0022-5371(76` and reported as "does not resolve to any real work — likely
+fabricated". It is the same parenthesis bug the link-repair tools shipped on 2026-08-31. Every older
+Elsevier DOI of that shape was being rejected the same way. The pattern now takes a balanced bracketed group
+whole. Underwood 1962 and Tudge 1992 failed on quotations, both because the scans' text layers interleave
+the two columns in places.
+
 ## 2026-11-25 · j-drive-8: 26 simulator sources from the maintainer's Drive folder
 
 `j-drive-8` read 26 sources: Tudge 1992 from the clean Wiley copy the maintainer sent, 21 newly uploaded

@@ -56,3 +56,5 @@ Logistic regression at the trial level, where each trial comparing conditions A 
 - [Classroom expository CVS instruction dramatically increased fourth graders' CVS performance in individual hands-on interviews](classroom-cvs-instruction-interview-gains.md) — related
 - [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](dispositions-load-little-inquiry-prediction.md) — related
 - [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)
+- [Students' CVS understanding positively predicts their content knowledge profile at pretest: higher CVS scores go with more proficient prior knowledge profiles](cvs-predicts-pretest-knowledge-profiles.md) — related
+- [A traditional regression-based change score model attributes only low explained variance in knowledge change to CVS scores (1–2%)](regression-low-cvs-explained-variance.md) — related

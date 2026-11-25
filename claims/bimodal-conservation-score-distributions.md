@@ -69,3 +69,4 @@ The review reports Tabor and Kendler (1981), who used Piaget's class inclusion t
 - [YWYL MOOC pretest FMCE scores average 39.9% with a bimodal distribution, including a top quintile unlike the typical introductory physics population](ywyl-pretest-fmce-bimodal-distribution.md) — related
 - [Human item-level scores on bash command exams are strongly bimodal, concentrated at zero and near-full credit with little intermediate partial credit](human-bash-scores-bimodal-zero-or-near-full.md) — related
 - [Training on conservation is predicted to benefit only transitional children, confounding training studies](training-benefits-only-transitional-children.md) — related
+- [A pilot study found no divergence effect of optimal versus suboptimal test conditions on bimodality of conservation scores](divergence-optimal-test-conditions-pilot-null.md) — related

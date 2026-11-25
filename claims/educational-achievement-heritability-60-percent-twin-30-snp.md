@@ -88,3 +88,5 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 - Partners show high similarity in genetic factors for educational attainment (r = .73) — related
 - [University quality remains substantially heritable (47%) even after prior entrance exam achievement is accounted for](university-quality-heritable-beyond-prior-achievement.md) — a narrower finding that bears on this claim
 - [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — a narrower finding that bears on this claim
+- [A large proportion of GCSE variance is not accounted for by g, so non-g factors have a substantial impact on educational attainment](non-g-factors-substantial-impact-attainment.md) — related
+- [Residual verbal ability (orthogonal to g) adds a small, significant contribution to GCSE performance, from zero in Mathematics to about 7% in English](residual-verbal-adds-small-gcse-variance.md) — related

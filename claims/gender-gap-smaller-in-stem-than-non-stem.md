@@ -70,3 +70,4 @@ School-subset meta-regression of lnCVR by subject (STEM: lnCVR −0.079, CI −0
 - [Greater gender similarity in STEM grade variability arises because girls' grades are more variable in STEM than non-STEM, while boys' variability does not differ by subject](girls-more-variable-in-stem-boys-unchanged.md) — a narrower finding that bears on this claim
 - [Girls earn significantly higher and significantly less variable teacher-assigned grades than boys overall](girls-higher-less-variable-grades-overall.md) — a broader claim this one bears on
 - [The gender gap in STEM GPA is much smaller than in overall GPA and vanishes for most groups except the most privileged students](stem-gpa-gender-gap-vanishes-except-privileged.md) — related
+- [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related

@@ -50,3 +50,5 @@ Retrospective policy evaluation on ASSISTments data from over 200 students compa
 - [The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number](bkt-hmm-form-is-three-parameter-exponential.md) — related
 - [The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms](bkt-identifiability-explained-by-parameter-a.md) — related
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — related
+- [Incorporating individualized learning and performance parameter weights makes knowledge tracing sensitive to residual individual differences after nominal mastery](kt-individualized-parameter-weights.md) — related
+- [Allowing knowledge-tracing learning and performance parameters to vary across rules substantially improves fit to tutor performance data](kt-per-rule-parameter-fit.md) — related

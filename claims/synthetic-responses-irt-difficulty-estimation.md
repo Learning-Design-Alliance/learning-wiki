@@ -49,3 +49,4 @@ Evaluation on the 470-question holdout test set of a dataset of 251,851 student 
 - [Adding LLM-extracted pedagogical features raises difficulty-prediction correlation from about 0.68 to about 0.78 over embeddings and traditional features](llm-pedagogical-features-drive-difficulty-gain.md) — related
 - [Simulated-response difficulty estimates match the accuracy of a traditional 1PL analysis using approximately 5,818 real student answers (about 22.87% of available data)](rmse-efficiency-5818-real-answers.md) — related
 - [The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior](simulated-respondents-recover-guessing-parameter-048.md) — related
+- [An expanded 67-feature model of P(J) gave only a minor correlation improvement over the original feature set in ASSISTments.](expanded-feature-set-minor-improvement.md) — related

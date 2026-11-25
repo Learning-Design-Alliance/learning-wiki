@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (47 show a difference, 19 mixed, 5 no difference) · 39 studies (19 causal, 9 associational, 4 design, 3 qualitative, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 12 of 39 report an effect size · 66 claims rest on one study
+> **Evidence** · 73 claims (49 show a difference, 19 mixed, 5 no difference) · 41 studies (20 causal, 10 associational, 4 design, 3 qualitative, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 12 of 41 report an effect size · 68 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -107,6 +107,8 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Most students show inconsistent (mixed) reasoning across PMQ probes before instruction, and a sizable fraction remain inconsistent after instruction](../claims/pmq-mixed-inconsistent-reasoning-persists.md) [~W] — measured as an outcome of the instruction studied
 - [The extra percent-scale grade penalty for underrepresented students is independent of the students' understanding of physics as proxied by fraction of A-grades.](../claims/extra-penalty-independent-of-understanding.md) [-M] — an instructional effect differs with it
 - [Isomorphic Electric Charge and Gravitation task versions elicited little difference in covariational reasoning, though graduate students were more comfortable with Gravitation](../claims/isomorphic-charge-gravitation-little-difference.md) [-M] — measured as an outcome of the instruction studied
+- [Instructional condition is strongly associated with which developmental pathway children follow, with high instructional support favoring decreasing fragmentation](../claims/instruction-associated-with-transition-paths.md) [+M] — measured as an outcome of the instruction studied
+- [Latent profile membership was related to grade level and to fraction and decimal number line estimation skills](../claims/profile-membership-related-to-estimation-skills.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

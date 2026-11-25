@@ -73,3 +73,4 @@ Immediate generalization test (five novel-format problems) in the same experimen
 - [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](simultaneous-speech-gesture-next-day-retention.md) — related
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](simultaneous-speech-gesture-four-week-retention.md) — related
 - [Strategy conditions do not improve problem-solving performance for children without math difficulties](no-strategy-benefit-for-children-without-md.md) — related
+- [Overall behavioral variability decreased from pretest to posttest, but patterns of variability change did not depend on instruction type](variability-decreases-instruction-independent.md) — related

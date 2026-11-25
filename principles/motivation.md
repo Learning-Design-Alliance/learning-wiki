@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 143 claims (87 for, 54 mixed, 2 against) · 130 studies (38 causal, 30 review, 23 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 130 report an effect size · 129 claims rest on one study
+> **Evidence** · 144 claims (88 for, 54 mixed, 2 against) · 131 studies (38 causal, 30 review, 24 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 131 report an effect size · 130 claims rest on one study
 
 ## Conditional relationship
 
@@ -224,6 +224,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Perceived recognition, peer interaction, and belonging each predict end-of-course physics self-efficacy and interest after controlling for pre-course self-efficacy and interest](../claims/learning-environment-predicts-post-motivational-beliefs.md) [+W] — attached 2026-11-18 from Yangqiuting Li et al. (2020), which proposed "Foster an inclusive and equitable physics learning environment built on perceived recognition, peer interaction, and belonging to support students' motivational beliefs".
 - [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](../claims/learning-environment-mediate-gender-differences-motivation.md) [+W] — attached 2026-11-18 from Yangqiuting Li et al. (2020), which proposed "Foster an inclusive and equitable physics learning environment built on perceived recognition, peer interaction, and belonging to support students' motivational beliefs".
 - [Framing EDI activities as coming from the broader physics community reduces student pushback](../claims/community-authority-framing-reduces-pushback.md) [+W] — attached 2026-11-23 from Martha-Elizabeth Baylor et al. (2021), which proposed "Motivate EDI discussions using the broader physics community as the authority rather than the instructor"; tests this page's relationship.
+- [Academic self-concepts positively predict self-perceptions of effort of corresponding domains, with no negative cross-domain self-concept effects](../claims/self-concepts-predict-domain-effort-no-cross-domain-effects.md) [+W] — attached 2026-11-25 from Annette Lohbeck (2019), which proposed "Teachers of elementary students should attend to children with lower grades and enhance their domain-specific academic self-concepts".
 
 ## Objective and learner-valued goal
 

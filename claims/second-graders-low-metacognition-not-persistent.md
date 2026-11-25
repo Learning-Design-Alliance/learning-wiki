@@ -48,3 +48,4 @@ Longitudinal profile-change analysis of 95 second graders with complete data; al
 - [Task performance relates to metacognition profile membership at the first measurement point but not one year later](performance-profile-relation-dissociates-over-time.md) — related
 - [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
+- [A child's knowledge profile at one point in time predicts their knowledge profiles at later points in time](knowledge-profile-predicts-later-profiles.md) — related

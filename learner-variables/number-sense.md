@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (111 show a difference, 26 mixed, 18 no difference) · 70 studies (32 causal, 29 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 32 of 70 report an effect size · 149 claims rest on one study
+> **Evidence** · 157 claims (113 show a difference, 26 mixed, 18 no difference) · 72 studies (33 causal, 30 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 33 of 72 report an effect size · 151 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -190,6 +190,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Non-symbolic estimation partially and non-symbolic addition fully mediate the effect of non-symbolic comparison on exact calculation](../claims/estimation-addition-mediate-comparison-calculation.md) [+M] — learners who differ on it differ in outcomes
 - [Meeting the self-reported MVPA guideline in any combination was associated with higher numeracy scores](../claims/mvpa-guideline-higher-numeracy.md) [+W] — measured as an outcome of the instruction studied
 - [Numeracy achievement increased additively with the number of self-reported guidelines met, while literacy showed no significant differences by number of guidelines](../claims/additive-numeracy-number-guidelines-met.md) [+M] — measured as an outcome of the instruction studied
+- [Feedback on numbers where logarithmic and linear representations are most discrepant (around 150) produces the greatest representational change in children's number-line estimation](../claims/log-discrepancy-feedback-greatest-change.md) [+M] — measured as an outcome of the instruction studied
+- [Latent profile membership was related to grade level and to fraction and decimal number line estimation skills](../claims/profile-membership-related-to-estimation-skills.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

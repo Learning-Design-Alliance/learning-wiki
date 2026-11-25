@@ -54,3 +54,4 @@ Qualitative MAET case analysis of video footage of two high school students crea
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — a broader claim this one bears on
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — a broader claim this one bears on
+- [Gesture-speech mismatches are highly prevalent and correlate strongly with number of strategies expressed, supporting gesture as a window into strategy variability](gesture-mismatch-indexes-strategy-variability.md) — related

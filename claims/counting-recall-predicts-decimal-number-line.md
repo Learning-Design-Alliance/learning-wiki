@@ -55,3 +55,4 @@ Regression for Decimal Number Line: the model accounted for 12.9% of the varianc
 - [Nonsymbolic exact addition is predicted by the VSSP plus the CE and symbolic number line estimation, suggesting an alternate transcoding to the symbolic code](alternate-transcoding-nonsymbolic-exact-addition.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — a broader claim this one bears on
+- [Latent profile membership was related to grade level and to fraction and decimal number line estimation skills](profile-membership-related-to-estimation-skills.md) — related

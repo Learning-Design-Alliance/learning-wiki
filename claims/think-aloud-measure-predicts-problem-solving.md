@@ -55,3 +55,4 @@ Think-aloud protocols of two multistep word problems were scored with a systemat
 - [The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations](cognitive-model-captures-71-percent-verbalizations.md) — related
 - [Stronger verbal convergent thinking is associated with better mathematical problem performance in Dutch 9–13-year-olds](verbal-ct-linked-math-performance-children.md) — related
 - [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](flexibility-explains-word-problem-gains.md) — related
+- [Bimodal solution times and converging measures validate trial-by-trial strategy classifications on inversion problems](bimodal-solution-times-validate-strategy-classification.md) — related

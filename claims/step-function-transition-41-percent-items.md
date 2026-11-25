@@ -48,3 +48,6 @@ Analysis of strategy-probe data from Experiment 1 at the item level: "For 90 of 
 ## Related Claims
 - [CMPL simulation confirms component power-law predictions at the item level for RTs and SDs during a strategy shift, with identical within-strategy rate parameters](cmpl-simulation-component-power-laws.md) — related
 - [Among participants practicing pseudoarithmetic problems in one uncontrolled pre-post study, a complete transition from algorithm to memory retrieval was observed by about the 60th exposure to each problem](retrieval-transition-by-block-60-pound-arithmetic.md) — related
+- [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](item-specific-strategy-shift.md) — a broader claim this one bears on
+- [Item-level response times showed step-function decreases from before to after practice in an alphabet arithmetic experiment, in one group with no comparison group](smooth-speedup-questioned-global-laws.md) — a broader claim this one bears on
+- [Item-level response times exhibit pronounced step-function decreases with practice that are uniquely predicted by the CMPL strategy selection model](step-function-rt-decreases-cmpl-prediction.md) — related

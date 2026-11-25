@@ -56,3 +56,4 @@ The authors argue that a simulated learner should be judged on whether it reprod
 - [Apprentice learner models act as a check against expert blind spots because they start without target skills](apprentice-learner-models-check-expert-blind-spots.md) — the same architecture used for tutor authoring
 - [Simulated learner models in the reviewed literature tend to represent only narrow aspects of student learning.](simulated-learners-models-narrow-aspects.md) — the broader state of simulated-learner validity
 - [Tuning Apprentice Learner agents to individual students with HyperOpt reduces prediction error relative to a generic baseline on the tutor problems used for tuning](hyperopt-tuned-agents-lower-error-same-data.md) — related
+- [Aggregating Lisp learning data by production rule yields systematic learning curves, while aggregation by more superficial units does not](production-rule-learning-curves-lisp-tutor.md) — related

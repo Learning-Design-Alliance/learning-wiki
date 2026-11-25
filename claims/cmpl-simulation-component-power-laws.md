@@ -68,3 +68,6 @@ Second simulation mimicking Experiment 1 conditions (18 participants, 12 problem
 - [Instance-theory prediction of equal RT and SD rate parameters is disconfirmed: 16 of 18 participants showed steeper RT than SD rates](rt-sd-rate-parameters-differ.md) — related
 - [For 41% of practiced items the algorithm-to-retrieval transition was a step function, with retrieval used exclusively thereafter](step-function-transition-41-percent-items.md) — related
 - [Among participants practicing pseudoarithmetic problems in one uncontrolled pre-post study, a complete transition from algorithm to memory retrieval was observed by about the 60th exposure to each problem](retrieval-transition-by-block-60-pound-arithmetic.md) — related
+- [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](item-specific-strategy-shift.md) — related
+- [Item-level response times showed step-function decreases from before to after practice in an alphabet arithmetic experiment, in one group with no comparison group](smooth-speedup-questioned-global-laws.md) — related
+- [Item-level response times exhibit pronounced step-function decreases with practice that are uniquely predicted by the CMPL strategy selection model](step-function-rt-decreases-cmpl-prediction.md) — related

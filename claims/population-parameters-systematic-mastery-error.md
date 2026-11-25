@@ -49,3 +49,4 @@ Simulation of 1000 students learning one KC across 100 trials, with data generat
 - [Adding a Prior Error Valence (PEV) feature to a population-parameter model reduces systematic mastery-timing error in simulation](pev-reduces-simulation-mastery-error.md) — related
 - [EPFA estimates fewer trials to mastery for above-average students and more trials for below-average students relative to standard PFA](epfa-mastery-trials-by-student-level.md) — related
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — a broader claim this one bears on
+- [Allowing knowledge-tracing learning and performance parameters to vary across rules substantially improves fit to tutor performance data](kt-per-rule-parameter-fit.md) — related

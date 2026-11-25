@@ -1,0 +1,51 @@
+---
+type: claim
+title: Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency
+description: Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency
+id: overlaying-averaged-fits-model-sufficiency
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-25
+evidence_strength: moderate
+newest_evidence: 2004
+sources:
+  - id: rickard-2004
+    resource: "https://doi.org/10.1037/0278-7393.30.1.65"
+    title: "Rickard, T. C. (2004). Strategy execution in cognitive skill learning: An item-level test of candidate models. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30(1), 65-82. https://doi.org/10.1037/0278-7393.30.1.65"
+    author: Rickard, T. C.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rickard 2004: no comparison group (read from the study by two models, 2026-11-25)
+
+## Subclaims
+`q2 i?` Overlaying the best-fitting averaged item-level model predictions onto group-averaged data reveals systematic deviations that diagnose model insufficiency, as demonstrated by the inability of the instance model to fit CMPL-generated step functions and vice versa. [→ Rickard 2004](#rickard-2004)
+
+## Evidence
+
+### Rickard 2004
+
+Rickard, T. C. (2004). Strategy execution in cognitive skill learning: An item-level test of candidate models. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30(1), 65-82. https://doi.org/10.1037/0278-7393.30.1.65
+
+`q2 · i?` · `causal · r2`
+
+The article demonstrates through model fitting and simulation that "overlaying of averaged item fits on averaged data can provide a sensitive test for model sufficiency," revealing systematic overprediction and underprediction patterns invisible in standard group-level goodness-of-fit measures.
+
+> "It is shown that overlaying of averaged item fits on averaged data can provide a sensitive test for model sufficiency"
+
+## Discussion
+
+
+## Related Claims
+- [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — a narrower finding that bears on this claim
+- [Instance-theory prediction of equal RT and SD rate parameters is disconfirmed: 16 of 18 participants showed steeper RT than SD rates](rt-sd-rate-parameters-differ.md) — related
+- [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — related

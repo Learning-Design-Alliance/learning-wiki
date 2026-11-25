@@ -67,3 +67,4 @@ Rasch-model difficulty estimates from the same analysis (Table I). The authors r
 - [The face-to-face tutorial equated Post-Test scores at low and medium difficulty, but With-OnLabs students scored higher in the high-difficulty group](onlabs-posttest-advantage-high-difficulty-only.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) — related
+- [Item difficulty estimates for adjacent complexity levels are separated by statistically significant gaps in the Rasch analysis](adjacent-complexity-level-significant-gaps.md) — related

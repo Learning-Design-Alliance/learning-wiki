@@ -67,3 +67,4 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 - [Twin-shared environmental effects, not sibling-shared (family-wide) effects, explain part of grade variance, consistent with grades reflecting individual achievement](twin-shared-not-sibling-shared-environment-grades.md) — related
 - [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
 - [For women in the middle HES stratum, the shared family environment made an outsized contribution to variability in educational attainment](middle-hes-women-shared-environment-outsized.md) — related
+- [A large proportion of GCSE variance is not accounted for by g, so non-g factors have a substantial impact on educational attainment](non-g-factors-substantial-impact-attainment.md) — related

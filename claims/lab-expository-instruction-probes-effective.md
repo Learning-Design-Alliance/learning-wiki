@@ -76,3 +76,4 @@ Grade-moderated transfer from the same summarized laboratory study: third and fo
 - [Children trained with explicit instruction and probes became good experimenters at transfer more often than untrained children (44% vs. 22% and 13%).](cvs-training-produces-good-experimenters.md) — related
 - [Probe questions without direct instruction did not improve children's ability to design unconfounded experiments.](probes-alone-no-cvs-improvement.md) — possibly the same claim (merge candidate)
 - [Explicit instruction plus practice in controlling variables transfers to new materials seven months later, with stronger transfer in older children](control-of-variables-instruction-transfers-seven-months.md) — related
+- [Strategy probes provide a valid index of underlying strategy use during skill acquisition](strategy-probe-validity.md) — related

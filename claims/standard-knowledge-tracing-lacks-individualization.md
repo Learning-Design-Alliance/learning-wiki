@@ -55,3 +55,6 @@ This is the authors' characterizing statement, not an empirical result: despite 
 - [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](multi-skill-prior-strategy-best-prediction-error.md) — related
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related
 - [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](population-parameters-systematic-mastery-error.md) — a narrower finding that bears on this claim
+- [Incorporating individualized learning and performance parameter weights makes knowledge tracing sensitive to residual individual differences after nominal mastery](kt-individualized-parameter-weights.md) — related
+- [Allowing knowledge-tracing learning and performance parameters to vary across rules substantially improves fit to tutor performance data](kt-per-rule-parameter-fit.md) — related
+- [After nominal mastery, variability in knowledge-tracing test predictions reflects persistent differences in the slip parameter rather than knowledge state](kt-slip-parameter-dominates-test-predictions.md) — related

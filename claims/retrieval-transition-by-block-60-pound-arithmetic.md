@@ -69,3 +69,5 @@ The abstract's summary statement of the Experiment 1 practice outcome: "A comple
 ## Related Claims
 - [CMPL simulation confirms component power-law predictions at the item level for RTs and SDs during a strategy shift, with identical within-strategy rate parameters](cmpl-simulation-component-power-laws.md) — related
 - [For 41% of practiced items the algorithm-to-retrieval transition was a step function, with retrieval used exclusively thereafter](step-function-transition-41-percent-items.md) — related
+- [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](item-specific-strategy-shift.md) — related
+- [Strategy probes cause reactivity, accelerating the shift to retrieval during skill practice](strategy-probe-reactivity.md) — related

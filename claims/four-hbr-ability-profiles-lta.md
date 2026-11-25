@@ -73,3 +73,4 @@ Description of the extracted profiles: the relevant profile (38% pretest, 19% po
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
 - [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related
 - [Global competence profiles of the physics instructors concentrate at the Intermediate level, depicting a teaching community in transition](intermediate-profile-concentration-physics-instructors.md) — related
+- [CVS understanding predicts pretest-to-posttest profile transitions, with patterns differing by starting profile](cvs-predicts-knowledge-profile-transitions.md) — related

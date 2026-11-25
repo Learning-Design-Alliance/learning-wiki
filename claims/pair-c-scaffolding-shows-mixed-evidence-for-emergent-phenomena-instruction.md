@@ -81,3 +81,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — related
 - [There was no difference between groups in the change in deep learning approach across time](no-difference-deep-approach-change-cbl.md) — related
 - [A structured-inquiry remote telescope evaluation showed highly significant gains in astronomical understanding and reduced alternative conceptions, with perception gains varying dramatically between schools](csurtp-eye-observatory-evaluation-gains.md) — related
+- [Across the whole sample, teacher-guided inquiry instruction on floating and sinking strongly reduced misconceptions and moderately to strongly increased intermediate and scientific conceptions](floating-sinking-instruction-misconception-reduction-gains.md) — related

@@ -55,3 +55,4 @@ Cross-sectional behavioural study of 28 adolescents (11–17 years) and 28 adult
 - [Confidence ratings shift toward higher confidence across adolescence and decline in adulthood (Broc)](confidence-bias-rises-in-adolescence-declines-adulthood.md) — related
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
 - [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
+- [Performance patterns in a lifespan moral-judgment sample support a discontinuous, spurt-and-plateau characterization of conceptual development](shape-of-development-spurts-plateaus.md) — related

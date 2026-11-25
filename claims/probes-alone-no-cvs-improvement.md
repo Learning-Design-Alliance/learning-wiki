@@ -48,3 +48,4 @@ In the hands-on study, one-way ANOVAs per condition found that "children's perfo
 - [Explicit CVS training combined with probe questions increased children's use of unconfounded experimental designs across hands-on phases, with transfer gains sustained in both transfer tasks.](cvs-training-probe-improves-cvs-use.md) — related
 - [Children trained with explicit instruction and probes became good experimenters at transfer more often than untrained children (44% vs. 22% and 13%).](cvs-training-produces-good-experimenters.md) — related
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — possibly the same claim (merge candidate)
+- [Strategy probes provide a valid index of underlying strategy use during skill acquisition](strategy-probe-validity.md) — related
