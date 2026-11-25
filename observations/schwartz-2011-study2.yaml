@@ -1,0 +1,332 @@
+# Schwartz, Chase, Oppezzo & Chin (2011), Experiment 2: inventing with
+# contrasting cases (ICC) against tell-and-practice (T&P), a second sample of
+# eighth-graders at the same school.
+#
+# Read from the authors' accepted manuscript ("Journal of Educational
+# Psychology, in press", 62 pp.); Table 1 was checked against the PDF page
+# image (manuscript p. 53). The manuscript prints no DOI; 10.1037/a0025140 is
+# the DOI the wiki's claim pages carry for this article.
+#
+# What the record holds and what it does not:
+#
+#   * `population.age: unreported`: grade only, no age figure.
+#   * `measure_type: reliability`: the one agreement sentence in Experiment 1's
+#     method covers "both studies", printed only as a lower bound (> 98%).
+#   * `measure_type: mean` for each condition on the spring-constant transfer
+#     problem and the word problems, from Table 1 with the printed SDs.
+#   * The design family. The article says Experiment 2 "followed a nearly
+#     identical protocol" to Experiment 1, whose students were randomly
+#     assigned within class; it does not restate the assignment for
+#     Experiment 2 except for the random allocation of the 1- or 4-case
+#     transfer problem. Recorded as a randomised trial on that sentence, and
+#     the design_detail says so.
+#   * The contrasts are ANCOVAs with prior science achievement as covariate,
+#     omitting two T&P students without grades; the means in Table 1 are the
+#     raw condition means. Per-condition n is not printed.
+#   * The median-split columns of Table 1 (high/low achievers) print means
+#     only, no SDs, and are left out.
+
+schema_version: 2
+
+study:
+  key: schwartz-2011-study2
+  citation: "Schwartz, D. L., Chase, C. C., Oppezzo, M. A., & Chin, D. B. (2011). Practicing versus inventing with contrasting cases: The effects of telling first on learning and transfer. Journal of Educational Psychology, 103(4), 759–775. Experiment 2."
+  doi: "10.1037/a0025140"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Stated as "a nearly identical protocol" to Experiment 1 (stratified
+      random assignment to T&P or ICC within class), with four changes:
+      instructors blind to the hypotheses; 24 randomly chosen pairs videotaped
+      on the first worksheet; the immediate transfer task removed and the word
+      problems and delayed transfer combined into one posttest one week after
+      instruction; and each student given the 1- or 4-case trampoline
+      transfer problem at random. Contrasts analysed by ANCOVA with cumulative
+      science grade as covariate and a treatment-by-covariate term.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: icc-greater-ratio-transfer
+    bearing: supports
+    anchor: schwartz-2011-3
+  - claim: equal-word-problem-proficiency
+    bearing: supports
+    anchor: schwartz-2011-2
+  - claim: icc-benefits-low-and-high-achievers
+    bearing: supports
+    anchor: schwartz-2011
+
+evidence_base:
+  unit: participants
+  size:
+    value: 120
+    unit: participants
+  additional_sizes:
+    - value: 2
+      unit: participants
+      note: "T&P students without cumulative grades, omitted from the ANCOVAs"
+    - value: 24
+      unit: pairs
+      note: "pairs videotaped on the clown worksheet (3 pairs x 4 classes x 2 treatments)"
+  population:
+    description: "Eighth-grade students at the same diverse middle school as Experiment 1."
+    age_or_stage: "Grade 8"
+    age: unreported
+  context:
+    setting: "Regular physics instruction at one middle school, instructors blind to the hypotheses"
+  arms:
+    - id: icc
+      description: "Invent with contrasting cases: invent an index from each contrasting-cases worksheet without being told the formula; the ratio lecture and explicit instruction on density and speed after all inventing tasks."
+      delivery:
+        grouping: pair
+        basis: stated
+    - id: tell-and-practice
+      description: "Tell and practice: an instructional page with the formula and a worked example, then practice applying the formula to the same worksheets; the ratio lecture before the later lessons."
+      delivery:
+        grouping: pair
+        basis: stated
+
+comparisons:
+  - id: icc-vs-tell-and-practice
+    kind: between-groups
+    index_arm: icc
+    reference_arm: tell-and-practice
+    description: "Inventing with contrasting cases before being told, against being told first and practising on the same cases."
+
+observations:
+
+  - id: spring-constant-transfer-icc-vs-tp
+    comparison_ref: icc-vs-tell-and-practice
+    outcome:
+      construct: "Spontaneous far transfer of ratio structure"
+      source_language: "transfer"
+      measure: "Trampoline spring-constant problem on the posttest, in a 1-case or 4-case version assigned at random; credit for each trampoline described by a ratio"
+      scale: "percent of cases described with a ratio"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: cohens_d
+      estimate: 0.31
+      statistic: "F(1, 111) = 10.6, MSE = 0.20 (ANCOVA, achievement covariate)"
+      p_value: ".002"
+      descriptives:
+        icc: "M = 50.9%, SD = 49.9 (Table 1, unadjusted)"
+        tell-and-practice: "M = 23.3%, SD = 41.8 (Table 1, unadjusted)"
+      interpretation: "ICC higher"
+    moderators:
+      reported:
+        - variable: "Prior science achievement (cumulative class grade)"
+          relationship: "Achievement predicted transfer, F(1, 111) = 9.2, but did not interact with treatment, F(1, 111) = 0.18"
+          source_quote: "With respect to posttest performance, the ICC students exhibited greater transfer; F(1, 111) = 10.6, MSE = 0.20, p = .002, d = .31; there was an effect of achievement on transfer; F(1, 111) = 9.2, p = .003; but there was no treatment by achievement interaction; F(1, 111) = 0.18, p = .67."
+        - variable: "Number of cases in the transfer problem (1 or 4)"
+          relationship: "The ICC advantage held for both versions, with no treatment by number-of-cases interaction, F(1,112) = 0.5"
+          source_quote: "Importantly, there was no treatment by number-of-cases interaction; F(1,112) = 0.5, p = .481, which indicates that the ICC students transferred their understanding of ratio."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A separate two-way analysis of the same problem by condition and number
+      of cases reports F(1,112) = 10.8, p = .001, d = .31 for condition. The
+      ANCOVA's analysed n is not printed.
+    source_quote: "With respect to posttest performance, the ICC students exhibited greater transfer; F(1, 111) = 10.6, MSE = 0.20, p = .002, d = .31;"
+    source_location: "Experiment 2, Results, manuscript p. 24; Table 1"
+
+  - id: spring-constant-transfer-icc-mean
+    arm_ref: icc
+    outcome:
+      construct: "Spontaneous far transfer of ratio structure"
+      source_language: "Ratios at Transfer: Spring Constant"
+      measure: "Trampoline problem on the posttest, 1-case or 4-case version"
+      scale: "percent of cases described with a ratio"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: mean
+      estimate: 50.9
+      sd: 49.9
+      unit: "percent of transfer cases described with a ratio"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A single-group mean, not an effect; pooled over the 1- and 4-case versions as Table 1 prints it; the group's n is not printed."
+    source_quote: "Ratios at Transfer Spring Constant 53.5%‡ (50.0) 23.0% (42.4) 50.9%‡ (49.9) 23.3% (41.8) 64.0% 40.9% 32.9% 8.7%"
+    source_location: "Table 1, Experiment 2, ICC column"
+
+  - id: spring-constant-transfer-tp-mean
+    arm_ref: tell-and-practice
+    outcome:
+      construct: "Spontaneous far transfer of ratio structure"
+      source_language: "Ratios at Transfer: Spring Constant"
+      measure: "Trampoline problem on the posttest, 1-case or 4-case version"
+      scale: "percent of cases described with a ratio"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: mean
+      estimate: 23.3
+      sd: 41.8
+      unit: "percent of transfer cases described with a ratio"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A single-group mean, not an effect; pooled over the 1- and 4-case versions as Table 1 prints it; the group's n is not printed."
+    source_quote: "Ratios at Transfer Spring Constant 53.5%‡ (50.0) 23.0% (42.4) 50.9%‡ (49.9) 23.3% (41.8) 64.0% 40.9% 32.9% 8.7%"
+    source_location: "Table 1, Experiment 2, T&P column"
+
+  - id: word-problems-icc-vs-tp
+    comparison_ref: icc-vs-tell-and-practice
+    outcome:
+      construct: "Routine application of the taught formulas"
+      source_language: "word problems"
+      measure: "Density and speed word problems on the combined posttest"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: cohens_d
+      estimate: 0.04
+      statistic: "F(1, 111) = 0.21, MSE = 0.03 (ANCOVA, achievement covariate)"
+      p_value: ".65"
+      descriptives:
+        icc: "M = 64.8%, SD = 19.6 (Table 1, unadjusted)"
+        tell-and-practice: "M = 66.4%, SD = 19.5 (Table 1, unadjusted)"
+      interpretation: "No treatment difference; d printed unsigned, and T&P's raw mean is the higher"
+    moderators:
+      reported:
+        - variable: "Prior science achievement (cumulative class grade)"
+          relationship: "Very strong effect of achievement on word problems, F(1, 111) = 34.0, with no treatment by achievement interaction, F(1, 111) = 0.09"
+          source_quote: "there was a very strong effect of achievement; F(1, 111) = 34.0, p < .001; but again, there was no interaction of treatment by achievement; F(1, 111) = 0.09, p = .76."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "For the word problems, there were no treatment differences, F(1, 111) = 0.21, MSE = 0.03, p = .65, d = .04;"
+    source_location: "Experiment 2, Results, manuscript p. 24; Table 1"
+
+  - id: word-problems-icc-mean
+    arm_ref: icc
+    outcome:
+      construct: "Routine application of the taught formulas"
+      source_language: "Word Problems"
+      measure: "Density and speed word problems on the combined posttest"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: mean
+      estimate: 64.8
+      sd: 19.6
+      unit: "percent correct on the word problems"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Word Problems 70.1% (23.1) 75.2% (20.3) 64.8% (19.6) 66.4% (19.5) 75.0% 57.0% 72.9% 56.5%"
+    source_location: "Table 1, Experiment 2, ICC column"
+
+  - id: word-problems-tp-mean
+    arm_ref: tell-and-practice
+    outcome:
+      construct: "Routine application of the taught formulas"
+      source_language: "Word Problems"
+      measure: "Density and speed word problems on the combined posttest"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest one week after instruction"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of instruction"
+    result:
+      measure_type: mean
+      estimate: 66.4
+      sd: 19.5
+      unit: "percent correct on the word problems"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Word Problems 70.1% (23.1) 75.2% (20.3) 64.8% (19.6) 66.4% (19.5) 75.0% 57.0% 72.9% 56.5%"
+    source_location: "Table 1, Experiment 2, T&P column"
+
+not_yet_extracted:
+  - "Coder agreement: the source reports only that it \"was greater than 98% for each measure for both studies\". A lower bound, not a measured value, so it is not recorded as a reliability estimate; the schema has no field for a bound."
+  - "Deep-structure recall ICC 58.6% (40.6) vs T&P 38.4% (36.0), ANCOVA F(1, 111) = 8.7, d = .28; surface features 33.1% (14.8) vs 28.5% (15.2), d = .15 (Table 1; manuscript p. 23)"
+  - "Worksheet accuracy during instruction: ICC 84.7% (22.7) vs T&P 91.8% (12.2), F(1, 113) = 4.5, with per-worksheet breakdown (manuscript p. 24)"
+  - "Videotaped pairs: transitions among cases ICC 20.1 (10.3) vs T&P 6.0 (4.7), F(1, 22) = 18.7, d = .92 (manuscript p. 25)"
+  - "Regression of transfer on structural recall (r = .34), condition (rmodel = .39) and interaction (rmodel = .40, n.s.) (manuscript p. 25)"
