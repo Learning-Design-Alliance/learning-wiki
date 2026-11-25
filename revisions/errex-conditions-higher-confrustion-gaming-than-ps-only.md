@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/errex-conditions-higher-confrustion-gaming-than-ps-only.md
+---
+
+# Revision history: [claims/errex-conditions-higher-confrustion-gaming-than-ps-only](../claims/errex-conditions-higher-confrustion-gaming-than-ps-only.md)
+
+### 2026-11-25 · ingest · process:wiki-ingest
+Ingested from sim14-mogessie-2020-confrustion-and-gaming-while-learning-with-erroneo (Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game) via eval_harness.py + ingest_extractions.py

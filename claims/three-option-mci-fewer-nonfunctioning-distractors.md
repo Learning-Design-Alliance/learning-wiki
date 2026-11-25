@@ -67,3 +67,4 @@ Counts of items with zero non-functioning distractors under the traditional meth
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [Nonfunctioning distracters are more numerous in four- and five-option MCQs than in three-option MCQs](nonfunctioning-distracters-more-in-four-five-option-mcqs.md) — a broader claim this one bears on
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related

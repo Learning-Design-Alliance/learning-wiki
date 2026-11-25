@@ -54,3 +54,4 @@ Comparison of final academic performance between the two cohorts; course evaluat
 - [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](gamification-sla-learning-motivation-no-confirmed-correlation.md) — related
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related
 - [Quiz grades stayed similar after gamification, suggesting students engaged meaningfully rather than gaming the leaderboard](meaningful-engagement-quiz-grades-similar.md) — related
+- [High-gaming students scored substantially lower on the post-test than never-gaming students with equally low pre-test scores (44% vs 68%).](high-gaming-lower-posttest-than-matched-low-pretest.md) — related

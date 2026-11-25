@@ -50,3 +50,5 @@ Cross-sectional SEM analysis of survey data from 566 Chinese non-English majors;
 - [Autonomy-supportive teaching is strongly associated with positive academic emotions in EFL learners](ast-associated-positive-academic-emotions.md) — related
 - [Direct effect of autonomy-supportive teaching on agentic engagement is significant but small relative to the indirect path](ast-direct-effect-small-partial-mediation.md) — related
 - [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](autonomy-support-predicts-agentic-engagement-map-mediated.md) — possibly the same claim (merge candidate)
+- [Perceived controlling teaching negatively predicts university EFL students' agentic engagement despite a positive indirect path through performance-approach goals](controlling-teaching-negatively-predicts-agentic-engagement.md) — related

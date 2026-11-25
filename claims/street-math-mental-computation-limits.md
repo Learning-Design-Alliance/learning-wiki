@@ -48,3 +48,4 @@ The authors' own interpretive argument in the discussion section, offered as a r
 - [In the formal test, children fail the same items they solved in the market because school-taught symbol routines replace quantity-based mental strategies](street-math-different-routines-two-settings.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — a broader claim this one bears on
 - [Students' explanations rarely use repeated addition for whole-number-by-decimal multiplication; many instead invoke a part-whole logic](no-repeated-addition-explanations-part-whole-logic.md) — related
+- [Non-working school children show the reverse pattern: accurate on abstract problems but failing applied market problems, relying on inefficient written algorithms](school-children-fail-applied-market-problems.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (103 show a difference, 52 mixed, 26 no difference) · 77 studies (32 associational, 23 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 30 of 77 report an effect size · 177 claims rest on one study
+> **Evidence** · 185 claims (106 show a difference, 53 mixed, 26 no difference) · 78 studies (33 associational, 23 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 30 of 78 report an effect size · 181 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -216,6 +216,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Performance goals produce less openness in information giving than mastery or no goals](../claims/performance-goals-reduce-information-giving-openness.md) [+M] — learners who differ on it differ in outcomes
 - [Performance-approach goal orientation was not negatively related to math achievement in this primary-grade sample](../claims/performance-approach-not-negative-primary-math.md) [-M] — learners who differ on it differ in outcomes
 - [Reciprocity and exploitation orientations mediate the effect of achievement goals on openness in information giving](../claims/reciprocity-exploitation-mediate-openness-effect.md) [+M] — learners who differ on it differ in outcomes
+- [All three perceived teaching styles correlate positively with agentic engagement, except controlling shows no significant correlation with mastery-approach goals](../claims/teaching-style-bivariate-correlations-agentic-engagement.md) [~M] — measured as an outcome of the instruction studied
+- [Both mastery-approach and performance-approach goals positively predict agentic engagement in EFL learning](../claims/approach-goals-positively-predict-agentic-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived controlling teaching negatively predicts university EFL students' agentic engagement despite a positive indirect path through performance-approach goals](../claims/controlling-teaching-negatively-predicts-agentic-engagement.md) [+M] — measured as an outcome of the instruction studied
+- [The relationship of perceived social relatedness to agentic engagement is fully mediated by both mastery-approach and performance-approach goals](../claims/social-relatedness-fully-mediated-agentic-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

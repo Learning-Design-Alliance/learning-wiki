@@ -55,3 +55,6 @@ Within the Sleep-Wake condition of the 27-child experiment, paired t-tests showe
 - [Retention over 24 h is significantly better when sleep follows learning directly (sleep–wake) than when sleep is delayed by a day of waking (wake–sleep)](sleep-wake-order-24h-retention.md) — related
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — related
 - [In the Wake-Sleep condition, recall did not increase significantly over the wake interval but rose significantly after the subsequent sleep interval](wake-sleep-condition-recall-gain-after-delayed-sleep.md) — related
+- [A night of sleep improves auditory declarative memory in early adolescents, with a 20.6% advantage in paired-associate recall over an equal interval without sleep](sleep-improves-declarative-memory-adolescents.md) — related
+- [Sleep shortly after learning stabilizes declarative memories, slowing the rate of forgetting during subsequent wakefulness](sleep-stabilizes-memories-against-wake.md) — related
+- [At 12 hr retest, word pair recall is superior after a night of sleep than after a day of wakefulness, driven by a sleep-wake difference for unrelated but not related pairs](sleep-vs-wake-12hr-word-pair-recall.md) — related

@@ -52,3 +52,4 @@ Mantel-Haenszel DIF analysis of Sample 1 posttest, stratified by total test scor
 - [Removing the significantly gender-unfair FCI items eliminates a substantial portion of the gender gap in at least some samples](fci-unfair-item-removal-reduces-gap.md) — related
 - [No single physical concept or prior experience unifies the gender-unfair FCI items, though distractor preferences differ by gender](fci-unfair-items-no-common-concept.md) — related
 - [Cohen's d over-estimates item-level DIF effect sizes compared with Cohen's h for proportional success rates](cohens-d-overestimates-fci-dif-effect-sizes.md) — related
+- [Most FCI distractors functioned in Uganda, but three distractors (items 14, 15, 23) were inappropriate, with two chosen by under 5% of students](fci-uganda-distractor-effectiveness.md) — related

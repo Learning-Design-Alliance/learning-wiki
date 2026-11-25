@@ -70,3 +70,7 @@ Protocol analysis of the formal-test examples: for instance, a child computing 4
 - [In speak-aloud interviews, introductory physics students who could not solve symbolic problems often confused known and unknown symbols in the symbolic versions but not the numeric versions](interviews-known-unknown-confusion-symbolic.md) — related
 - [Reasoning with quantities represented as general variables destabilizes student reasoning, while invariant reasoning remains a productive resource](general-variables-destabilize-reasoning-invariant-resource.md) — related
 - [Mental computation via repeated chunked additions becomes grossly inefficient with large numbers, so informal routines cannot replace school computation](street-math-mental-computation-limits.md) — related
+- [Market arithmetic skills transfer to new hypothetical market problems, but with a substantial loss of accuracy](market-skills-transfer-within-domain-with-loss.md) — related
+- [Children working in markets accurately perform complex multi-step arithmetic in real transactions, mostly mentally](market-working-children-accurate-real-transactions.md) — related
+- [Non-working school children show the reverse pattern: accurate on abstract problems but failing applied market problems, relying on inefficient written algorithms](school-children-fail-applied-market-problems.md) — related
+- [Market-working children fail abstract school-format arithmetic of equal or lesser complexity](working-children-fail-abstract-school-maths.md) — related

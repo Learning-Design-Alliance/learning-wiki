@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 804 claims (429 show a difference, 199 mixed, 176 no difference) · 563 studies (301 associational, 183 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 80 of 563 report an effect size · 796 claims rest on one study
+> **Evidence** · 805 claims (429 show a difference, 199 mixed, 177 no difference) · 564 studies (301 associational, 184 causal, 24 review, 18 quant-synthesis, 17 design, 12 theoretical, 8 qualitative), `q1`–`q4` · 80 of 564 report an effect size · 797 claims rest on one study
 
 ## How to read this page
 
@@ -843,6 +843,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Boys showed higher mean intrinsic motivation and early-grade achievement than girls, with small effect sizes, and girls' motivation declined from grade 1 to 2](../claims/sex-differences-math-motivation-achievement-small-effects.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender effects on reflective judgment are inconsistent: males scored higher on the RJI overall, but PRJI gender differences varied by age group](../claims/inconsistent-gender-effects-reflective-judgment.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In Study 1, boys had lower achievement than girls in all subjects but maths and higher self-concepts in math and biology, while girls had higher self-concepts in German and English](../claims/gender-differences-achievement-selfconcept-study1.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No sex difference in performance on either the paired-associate or letter-number task in the adolescent sample](../claims/no-sex-difference-memory-tasks-adolescents.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

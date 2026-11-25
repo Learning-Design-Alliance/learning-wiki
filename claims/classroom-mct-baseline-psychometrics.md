@@ -86,3 +86,4 @@ Length-adjusted Cronbach's alpha (normalized to 50 items via the Spearman-Brown 
 ## Related Claims
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
+- [Teacher-made tests tend to yield score reliabilities averaging about .50, while published standardized tests yield reliabilities of .85-.95](teacher-made-reliability-about-50-vs-standardized-85-95.md) — reports the opposite

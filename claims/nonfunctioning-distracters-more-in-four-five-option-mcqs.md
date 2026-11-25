@@ -49,3 +49,4 @@ Distracter analysis (Table 4) of the randomized comparison found most questions 
 - [Converting items from 4- to 3-option format reduced the percentage of non-functioning distractors and increased the number of items without any NFD under both flagging methods](three-option-mci-fewer-nonfunctioning-distractors.md) — a narrower finding that bears on this claim
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Three-option MCQ items tend to discriminate better between high and low performers than five-option items, but not significantly](three-option-mcq-discrimination-index-higher-not-significant.md) — related
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related

@@ -47,3 +47,10 @@ Summary of Starch's grade-reliability study: the same papers graded by "142 teac
 ## Related Claims
 - [Teachers' geometry marks usually bear a positive relation to the four fundamental abilities](teachers-marks-relate-to-geometry-abilities.md) — related
 - [Starch's arithmetic scale shows decided grade-to-grade overlap: about 33% of any grade reach or exceed the median of the grade above, with a strong sex difference favoring boys](starch-arithmetic-scale-overlap-sex-difference.md) — related
+- [Marks on a geometry paper vary even more widely than marks on English papers, with a probable error of 7.5 versus 4.0 and 4.8 for the English papers](geometry-marks-vary-more-than-english.md) — a narrower finding that bears on this claim
+- [A given teacher's standard is inconsistent across papers: 19 of 142 teachers marked the poorer paper higher, and 23 marked it 15 or more points lower.](intra-teacher-grading-inconsistency.md) — a narrower finding that bears on this claim
+- [Reanalysis of Jacoby's astronomy grading data shows wide mark variations that impeach reliability, contrary to Jacoby's own conclusion.](jacoby-astronomy-marks-also-unreliable.md) — a narrower finding that bears on this claim
+- [The range of marks given by different teachers to the same examination paper may be as large as 35 or 40 points.](same-paper-mark-range-35-40-points.md) — related
+- [Marks assigned to the answer of a single examination question vary about as widely as marks assigned to the entire paper](single-question-marks-vary-as-widely-as-whole-paper.md) — a narrower finding that bears on this claim
+- [Teachers assign extremely widely varying grades to the same geometry examination paper, with marks distributed normally around a median of 70 and a probable error of 7.5](wide-variation-grades-same-geometry-paper.md) — related
+- [Grading variation persists within a single school: five geometry teachers in one school graded the same paper 70, 65, 60, 70, and 59, and four teachers in an Ohio school graded it 76, 75, 67, and 61](within-school-grading-variation-geometry.md) — a narrower finding that bears on this claim

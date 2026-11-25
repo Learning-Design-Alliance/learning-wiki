@@ -68,3 +68,4 @@ Spearman correlations in the same dataset; Table IV reports BKT-based carelessne
 - [Carelessness detected by the BKFC model is negatively and significantly associated with post-test scores, controlling for final knowledge level](bkfc-carelessness-negative-posttest-association.md) — related
 - [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related
 - [Carelessness detected by the BKT-based and ML contextual slip models is positively and significantly associated with post-test and delayed post-test scores](contextual-slip-carelessness-positive-posttest-association.md) — related
+- [Gaming the system is a significant negative predictor of posttest performance in the decimals game, controlling for pretest](gaming-negative-predictor-posttest-decimals-game.md) — related

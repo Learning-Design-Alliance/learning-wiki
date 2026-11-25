@@ -54,3 +54,4 @@ Structural path in the same SEM; the article reports a large effect size, "f² =
 - [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related
 - [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](relative-weights-engagement-correlates.md) — related
 - [Autonomy-supportive teaching is strongly associated with positive academic emotions in EFL learners](ast-associated-positive-academic-emotions.md) — related
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](autonomy-support-predicts-agentic-engagement-map-mediated.md) — related

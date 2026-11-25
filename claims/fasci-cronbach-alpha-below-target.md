@@ -52,3 +52,4 @@ Classical test theory analysis comparing this study's 60 respondents with two pr
 - [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
 - [Psychometric studies of the AEQ report most constructs falling below the conventional Cronbach's alpha cutoff of 0.80](aeq-psychometric-validity-questionable.md) — related
 - [In the G Study, most observed-score variance lies in the person-by-item interaction for FA (~60%) and in the items themselves for SCI (42%)](g-study-variance-items-dominate-error.md) — related
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](fci-uganda-low-reliability-alpha-0-15.md) — related

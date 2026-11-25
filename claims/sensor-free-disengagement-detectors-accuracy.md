@@ -77,3 +77,5 @@ Off-task behavior detection (Baker 2007, as reported here) relied solely on sema
 - [Students disengage at a 'skipping threshold', and data logs triangulate self-reported skipping with actual skipping behaviour](vp-skipping-threshold-triangulated.md) — related
 - [System interaction logs predict training phrase count (productivity) better than dialogue features in collaborative middle school chatbot development](logs-better-predict-training-phrase-count.md) — related
 - [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related
+- [The frequency of gaming the system is the only off-task behavior significantly negatively correlated with post-test score in cognitive tutor classrooms (r = -0.38).](gaming-system-frequency-negative-posttest-correlation.md) — related
+- [Overall off-task frequency correlated negatively with post-test score (r = -0.33), but the type of off-task behavior mattered more than its quantity.](offtask-quantity-versus-type-learning.md) — related

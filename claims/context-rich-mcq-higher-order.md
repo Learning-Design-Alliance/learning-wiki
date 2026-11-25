@@ -73,3 +73,4 @@ The review reports studies of the effect of stimulus on thought processes in ope
 - [Student responses to equivalent physics questions show strong context dependence](context-dependence-physics-responses.md) — related
 - [Reformulating hard open-ended problems into MCQ or cloze formats reduces empirical difficulty, with a consistent ordering MCQ4 ≤ MCQ10 ≤ Cloze ≤ Open-ended](reformulation-reduces-difficulty-ordering.md) — related
 - [Bloom's taxonomy cognitive level of multiple-choice items shows no significant relationship to actual item difficulty or item discrimination](cognitive-level-no-relation-difficulty.md) — related
+- [K2 MCQs under Bloom's taxonomy rose from 84 (35.0%) to 123 (51.3%) and K1 items fell from 156 to 117 from pre-training to post-training, in one uncontrolled pre-post study](fdp-increases-k2-cognitive-level-items.md) — related

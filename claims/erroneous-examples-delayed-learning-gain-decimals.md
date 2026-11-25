@@ -59,3 +59,4 @@ Randomized experiment with 390 sixth-grade students (188 ErrEx, 202 PS) using we
 - [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](con-errex-more-often-effective.md) — related
 - [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
 - [Classroom testing benefits facts (g = 0.524), concept learning (g = 0.644), and knowledge application in problem solving (g = 0.453).](testing-benefits-facts-concepts-problem-solving.md) — related
+- [Erroneous examples in the game did not improve posttest performance, failing to replicate the prior intelligent-tutor finding](errex-game-no-posttest-advantage.md) — reports the opposite

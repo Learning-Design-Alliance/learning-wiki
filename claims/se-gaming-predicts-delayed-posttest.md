@@ -48,3 +48,4 @@ Study 1 linear regression predicting delayed posttest (overall R² = 0.58, F(2,6
 - [Gaming the system is significantly negatively correlated with test performance in the digital learning game](gaming-negative-correlation-test-performance.md) — related
 - [Deterministic interaction patterns relate to delayed retention self-explanation quality but not posttest performance](hurst-relates-to-retention-not-posttest.md) — related
 - [In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest](hards-solved-complex-predicts-posttest.md) — related
+- [Gaming the system is a significant negative predictor of posttest performance in the decimals game, controlling for pretest](gaming-negative-predictor-posttest-decimals-game.md) — a narrower finding that bears on this claim

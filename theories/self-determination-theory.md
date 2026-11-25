@@ -19,7 +19,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 165 claims (124 for, 38 mixed, 3 against) · 112 studies (50 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 112 report an effect size · 159 claims rest on one study
+> **Evidence** · 168 claims (127 for, 38 mixed, 3 against) · 113 studies (51 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 113 report an effect size · 162 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -222,6 +222,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Relatedness buffers intent to persist against low sense of belonging](../claims/relatedness-buffers-low-sb.md) [+W] — attached 2026-11-21 from Swagata Sarkar et al. (2025), which proposed "Self-determination theory as a framework for belonging-driven persistence in graduate physics"; tests this page's relationship.
 - [On days when adolescents feel more competent, both their motivation to invest effort in learning (Cog-ED) and self-reported academic motivation are higher](../claims/daily-competence-predicts-motivation-within-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Self-determination theory: satisfaction of autonomy, competence and relatedness needs as precursors of self-regulated academic motivation"; tests this page's relationship.
 - [Adolescents with greater average perceived autonomy show higher motivation to invest effort in learning and higher self-reported academic motivation](../claims/average-autonomy-predicts-motivation-between-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Self-determination theory: satisfaction of autonomy, competence and relatedness needs as precursors of self-regulated academic motivation"; tests this page's relationship.
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](../claims/autonomy-support-predicts-agentic-engagement-map-mediated.md) [+W] — attached 2026-11-25 from Jiang AL et al. (2021), which proposed "An integrated SDT and Achievement Goal Theory perspective on teaching style, achievement goals, and agentic engagement"; tests this page's relationship.
+- [Perceived controlling teaching negatively predicts university EFL students' agentic engagement despite a positive indirect path through performance-approach goals](../claims/controlling-teaching-negatively-predicts-agentic-engagement.md) [+W] — attached 2026-11-25 from Jiang AL et al. (2021), which proposed "An integrated SDT and Achievement Goal Theory perspective on teaching style, achievement goals, and agentic engagement"; tests this page's relationship.
+- [The relationship of perceived social relatedness to agentic engagement is fully mediated by both mastery-approach and performance-approach goals](../claims/social-relatedness-fully-mediated-agentic-engagement.md) [+W] — attached 2026-11-25 from Jiang AL et al. (2021), which proposed "An integrated SDT and Achievement Goal Theory perspective on teaching style, achievement goals, and agentic engagement"; tests this page's relationship.
 
 ## The evidence by question
 

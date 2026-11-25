@@ -88,3 +88,4 @@ Difficulty-stratified ablation: with examples alone, 'for harder and open-ended 
 - [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](mark-scheme-improves-llm-grading.md) — related
 - [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related
+- [Students without teaching experience graded the English papers more leniently than teachers, by 5.2 and 5.7 points.](inexperienced-students-grade-more-leniently.md) — related

@@ -49,3 +49,4 @@ Null result from the 27-child counterbalanced design: words recalled at criterio
 - [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](afternoon-encoding-higher-word-pair-retention-24h.md) — related
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — a broader claim this one bears on
 - [A condition-by-timing interaction suggests students who received arts-integrated science first retained more when later taught conventionally](arts-integration-condition-timing-transfer-effect.md) — related
+- [Working-memory performance on the letter-number control task was not affected by time of day or relation to sleep in adolescents](working-memory-unaffected-by-sleep-or-time-of-day.md) — related

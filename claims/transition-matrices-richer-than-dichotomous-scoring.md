@@ -70,3 +70,4 @@ Same transition-matrix summary analysis of Rice University pre-/post-instruction
 - [Applying couplet scoring post development can reveal items that cannot measure a targeted objective: all FCI item 18 options earn a point for principle L4](post-hoc-couplet-scoring-reveals-unmeasurable-objective.md) — related
 - [Physical Science students' pre-to-post FCI answer choices were more chaotic, while Engineering students converged on either the persistent misconception or the correct answer](bphys-chaotic-alluvial-choices.md) — related
 - [Model analysis of research-based multiple-choice questions yields richer information than score-based analysis](model-analysis-richer-than-score-based-analysis.md) — a broader claim this one bears on
+- [A student's choice of incorrect answer on a diagnostic question reveals the nature of their misconception](wrong-answer-choice-reveals-misconception.md) — related

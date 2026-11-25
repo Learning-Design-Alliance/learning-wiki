@@ -54,3 +54,4 @@ Psychometric analysis of the DialogPR in the combined cross-sectional sample of 
 - [After excluding one construct-irrelevant metric, the remaining 31 simulator metrics showed acceptable internal consistency (standardized Cronbach's alpha = 0.79)](internal-consistency-alpha-079-31-metrics.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](fci-uganda-low-reliability-alpha-0-15.md) — related

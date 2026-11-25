@@ -51,3 +51,5 @@ Controlled experiment with 77 subjects assigned to four retention-interval condi
 - [Significant forgetting occurs in wake-first groups but not in sleep-first groups, and no circadian effect on encoding or immediate retrieval is found](no-forgetting-sleep-first-no-circadian-effect.md) — related
 - [Sleep does not substantially reduce forgetting during the subsequent waking day, providing no evidence that sleep protects traces against interference](sleep-no-next-day-protection.md) — related
 - [Sleep after learning enhances retention of 2D object locations in both children and adults](sleep-enhances-object-location-retention-children-adults.md) — related
+- [A night of sleep improves auditory declarative memory in early adolescents, with a 20.6% advantage in paired-associate recall over an equal interval without sleep](sleep-improves-declarative-memory-adolescents.md) — related
+- [Sleep shortly after learning stabilizes declarative memories, slowing the rate of forgetting during subsequent wakefulness](sleep-stabilizes-memories-against-wake.md) — related

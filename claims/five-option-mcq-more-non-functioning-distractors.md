@@ -81,3 +81,4 @@ Distractor-per-item comparison (Table 7) from the same analysis; fully functioni
 - [Classroom test designers predominantly use 4- and 5-option items, with 3-option items comprising less than 10% of all deployed items, despite expert recommendations favoring the 3-option format.](classroom-mct-option-number-prevalence.md) — related
 - [ChatGPT's item difficulty and answer-option distributions are overrepresented at the extremes compared to students](chatgpt-tug-k-extreme-item-difficulty-distribution.md) — related
 - [CodeTailor's personalized Parsons puzzles contain significantly fewer movable blocks than fully movable puzzles built from the same solution](codetailor-puzzles-more-concise.md) — related
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related

@@ -48,3 +48,4 @@ Agreement analysis comparing the truncated Bloom's taxonomy classifications made
 - [Bloom's taxonomy cognitive level of multiple-choice items shows no significant relationship to actual item difficulty or item discrimination](cognitive-level-no-relation-difficulty.md) — related
 - [Faculty members' predictions of multiple-choice item difficulty are only weakly correlated with actual student scores, with correct difficulty estimates on 48% of items](faculty-item-difficulty-prediction-weak.md) — related
 - [Six experts' item difficulty ratings explained 33% of the variance in examinees' actual MCQ difficulty on the Ethiopian UGMLE](ugmle-expert-ratings-33-percent-variance.md) — related
+- [K2 MCQs under Bloom's taxonomy rose from 84 (35.0%) to 123 (51.3%) and K1 items fell from 156 to 117 from pre-training to post-training, in one uncontrolled pre-post study](fdp-increases-k2-cognitive-level-items.md) — related

@@ -49,3 +49,4 @@ Null analysis in the Push ball sample testing sex effects on initial and final a
 
 ## Related Claims
 - [Initial-angle adaptation in a visuomotor rotation task is not adult-like until roughly 13–14 years of age, with younger children adapting less](adaptation-immature-until-adolescence-visuomotor.md) — related
+- [No sex difference in performance on either the paired-associate or letter-number task in the adolescent sample](no-sex-difference-memory-tasks-adolescents.md) — related

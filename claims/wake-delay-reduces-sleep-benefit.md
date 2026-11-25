@@ -55,3 +55,4 @@ Decay-inference analysis comparing the second half of the wake–sleep interval 
 - [Retention over 24 h is significantly better when sleep follows learning directly (sleep–wake) than when sleep is delayed by a day of waking (wake–sleep)](sleep-wake-order-24h-retention.md) — related
 - [The recall gain after sleep was significantly larger when sleep immediately followed learning than when it followed a day of wakefulness](immediate-sleep-larger-retention-gain-than-delayed-sleep.md) — related
 - [In the Wake-Sleep condition, recall did not increase significantly over the wake interval but rose significantly after the subsequent sleep interval](wake-sleep-condition-recall-gain-after-delayed-sleep.md) — related
+- [Sleep shortly after learning stabilizes declarative memories, slowing the rate of forgetting during subsequent wakefulness](sleep-stabilizes-memories-against-wake.md) — related

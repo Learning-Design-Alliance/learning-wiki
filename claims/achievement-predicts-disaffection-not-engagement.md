@@ -71,3 +71,4 @@ Same two-level multivariate model: no statistically significant prediction of be
 - [Time of day shows no significant effect on students' situation-specific engagement once subject, teacher, and day of week are controlled](no-time-of-day-effect-on-situational-engagement.md) — related
 - [GPA is positively predicted by behavioral and cognitive engagement but not by emotional engagement, with only 6% of variance explained](engagement-dimensions-predict-gpa.md) — reports the opposite
 - [Only cognitive-behavioral engagement uniquely predicted math achievement; emotional engagement did not predict beyond it, and social engagement negatively predicted achievement](cognitive-behavioral-engagement-unique-achievement-predictor.md) — related
+- [Disaffection and emotional engagement show no significant cross-lagged effects on each other from one lesson to the next](no-crosslag-emotional-engagement-disaffection.md) — related

@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (40 for, 37 mixed, 3 against) · 71 studies (18 causal, 15 associational, 13 review, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 10 of 71 report an effect size · 72 claims rest on one study
+> **Evidence** · 82 claims (42 for, 37 mixed, 3 against) · 72 studies (18 causal, 16 associational, 13 review, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 10 of 72 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,8 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Teacher perceptions of student‐specific structure positively predict students' controlled motivation, contrary to expectations](../claims/student-specific-structure-controlled-motivation.md) [~W] — attached 2026-11-08 from Domen et al. (2020), which proposed "Teacher training and interventions should focus on combining autonomy support with structure for different students".
 - [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](../claims/project-lab-most-preferred-freedom-reason.md) [+W] — attached 2026-11-18 from Z. Yasemin Kalender et al. (2020), which proposed "Gradual increase of student agency across lab units culminating in a student-guided Project Lab".
 - [Students' self-rated Sense of Agency scores rose significantly from pre-test to post-test over a semester in open-ended physics labs with gradually increased student agency, in one uncontrolled pre-post study](../claims/open-ended-labs-increase-sense-of-agency.md) [+M] — attached 2026-11-18 from Z. Yasemin Kalender et al. (2020), which proposed "Gradual increase of student agency across lab units culminating in a student-guided Project Lab"; tests this page's relationship.
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](../claims/autonomy-support-predicts-agentic-engagement-map-mediated.md) [+W] — attached 2026-11-25 from Jiang AL et al. (2021), which proposed "When fostering agentic engagement, teachers should consider students' achievement goal orientations and prior learning experience"; tests this page's relationship.
+- [Perceived controlling teaching negatively predicts university EFL students' agentic engagement despite a positive indirect path through performance-approach goals](../claims/controlling-teaching-negatively-predicts-agentic-engagement.md) [+W] — attached 2026-11-25 from Jiang AL et al. (2021), which proposed "When fostering agentic engagement, teachers should consider students' achievement goal orientations and prior learning experience"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

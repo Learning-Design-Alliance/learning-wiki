@@ -64,3 +64,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — related
 - [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related
 - [ProtoPIQL whole-test scores are fairly normally distributed with mean 11 of 18 but internal reliability below accepted thresholds](protopiql-score-distribution-reliability.md) — related
+- [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](fci-uganda-low-reliability-alpha-0-15.md) — related

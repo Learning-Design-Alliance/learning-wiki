@@ -73,3 +73,4 @@ Same retrospective study's pass/fail agreement analysis at the institutional 65%
 - [Students failing the Pass check phase are excluded from ranking and their peer evaluations removed](pass-check-exclusion-rule.md) — related
 - [False reference solutions degrade LLM absolute marking accuracy but leave rank-order agreement largely intact](false-solutions-degrade-accuracy-not-ranking.md) — related
 - [LLM marking of code-based scientific plots achieves exceptionally strong rank-order agreement with human markers](llm-plot-marking-strong-rank-agreement.md) — a narrower finding that bears on this claim
+- [Whether a pupil passes depends substantially on the individual teacher's subjective estimate: 22 of 142 teachers failed a paper its own teacher passed.](promotion-depends-on-teacher-subjective-estimate.md) — related

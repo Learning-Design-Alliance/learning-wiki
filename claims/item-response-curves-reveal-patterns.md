@@ -56,3 +56,4 @@ Item Response Curves for three PIQL v2.2 items (Fig. 3) show fraction choosing e
 - [Couplet scoring differentiates among distractor responses on a multiple-choice item, whereas dichotomous scoring gives all distractors the same score](couplet-scoring-differentiates-fci-item18-distractors.md) — related
 - [High co-construction items had a mix of incorrect answers with no dominant distractor and included complex multistep questions](qm-high-co-construction-item-features.md) — related
 - [Item difficulty varied substantially across the questionnaire, from p = 0.02 to p ≈ 0.89](inpress-item-difficulty-variability.md) — related
+- [IRC analysis classified FCI items 4, 9 and 21 as inefficient for Ugandan students, while item 1 was effective](irc-analysis-inefficient-fci-items-4-9-21.md) — related

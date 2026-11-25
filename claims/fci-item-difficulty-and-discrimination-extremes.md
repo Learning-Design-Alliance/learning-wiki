@@ -58,3 +58,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related
 - [The 30-item FCI bank is insufficient for Chain-CAT: high-discrimination items dominate administration while many low-discrimination items are never used](fci-item-bank-insufficient-chain-cat.md) — related
 - [FCI question 22 showed a 10% context shift, almost twice any other question, attributed mainly to its removal from a four-question group, indicating responses within question groups are not independent](fci-question-22-group-dependence-10-percent-shift.md) — related
+- [73.3% of FCI items showed poor discrimination and eight items had negative discrimination indices in the Ugandan sample](fci-uganda-poor-discrimination-73-percent.md) — related

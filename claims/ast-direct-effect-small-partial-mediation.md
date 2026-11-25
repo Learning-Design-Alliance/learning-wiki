@@ -49,3 +49,5 @@ In the partial mediation SEM, the direct path remained significant, "β = 0.23, 
 - [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](pae-mediate-ast-agentic-engagement.md) — related
 - [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related
 - [Autonomy-supportive teaching is strongly associated with positive academic emotions in EFL learners](ast-associated-positive-academic-emotions.md) — related
+- [Perceived teacher autonomy support positively predicts university EFL students' agentic engagement, with mastery-approach goals as a mediator](autonomy-support-predicts-agentic-engagement-map-mediated.md) — related
+- [Perceived controlling teaching negatively predicts university EFL students' agentic engagement despite a positive indirect path through performance-approach goals](controlling-teaching-negatively-predicts-agentic-engagement.md) — related

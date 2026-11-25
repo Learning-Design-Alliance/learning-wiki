@@ -72,3 +72,4 @@ Omnibus repeated-measures ANOVA on finger-tapping performance in the same random
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
 - [Twenty-four-hour consolidation of motor skill differs according to the time of day of training, with deterioration in the morning, stabilization in the afternoon, and improvement in the evening](consolidation-depends-on-training-time-of-day.md) — related
 - [Skill acquisition during a finger-tapping training session does not differ according to time of day of training](motor-acquisition-independent-of-time-of-day.md) — related
+- [Working-memory performance on the letter-number control task was not affected by time of day or relation to sleep in adolescents](working-memory-unaffected-by-sleep-or-time-of-day.md) — related

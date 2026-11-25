@@ -56,3 +56,4 @@ In the randomized exam comparison, flaws were assessed with the 19-item Tarrant 
 - [Only a minority of five-option MCQs have four effective distractors, with 19% of questions having four effective distractors and 32% having three](mcq-minority-four-effective-distractors.md) — related
 - [Most SBA questions in undergraduate medical summative exams contain fewer than four functional distractors](fewer-than-four-functional-distractors-sba-medical-exams.md) — related
 - [CodeTailor's personalized Parsons puzzles contain significantly fewer movable blocks than fully movable puzzles built from the same solution](codetailor-puzzles-more-concise.md) — related
+- [Non-functioning distractors were significantly fewer in post-training MCQ examinations](fdp-reduces-nonfunctioning-distractors.md) — related
