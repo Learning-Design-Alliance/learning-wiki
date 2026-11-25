@@ -1,0 +1,531 @@
+# Garon-Carrier et al. (2016): intrinsic motivation and achievement in
+# mathematics, grades 1 to 4, in the Quebec Longitudinal Study of Child
+# Development.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The four cross-lagged paths and the two motivation stability paths of
+#     the final (non-constrained) latent cross-lagged model, Figure 2. The
+#     text gives the stability paths by grade (".31 to .42") and says which
+#     cross-lagged paths were significant, but it does not print the
+#     cross-lagged values; they appear only as labels in Figure 2. Which grade
+#     interval each cross-lagged label belongs to is read from the figure's
+#     layout (the text layer lists "-.01ns .09" beside the grade 1-2
+#     stability .31 and ".02ns .14" beside the grade 2-4 stability .42), and
+#     each of those observations says so.
+#   * Observed (manifest) correlations from Table 2: the three concurrent
+#     motivation-achievement correlations and one lagged one.
+#   * `population.age` with the figures printed per wave: grade 1 in months
+#     (M = 85.82, SD = 3.06), grades 2 and 4 in years. The structured field
+#     holds the grade 1 wave; the other waves are in its note.
+#   * `measure_type: reliability` for the achievement tests (alpha, computed
+#     in this sample) and for the motivation scale (an alpha range the article
+#     quotes from Guay et al. 2010, grades 1 to 3, not computed in this
+#     sample). The two are not equally good and the observations say which is
+#     which.
+#   * No single-group means. Table 1 prints means by sex and grade, but no
+#     figure recorded here rests on them.
+#
+# Read from the accepted author manuscript (self-archived peer-reviewed
+# version), which names the published DOI on its first page.
+
+schema_version: 2
+
+study:
+  key: garon-carrier-2016
+  citation: "Garon-Carrier, G., Boivin, M., Guay, F., Kovas, Y., Dionne, G., Lemelin, J.-P., Séguin, J. R., Vitaro, F., & Tremblay, R. E. (2016). Intrinsic motivation and achievement in mathematics in elementary school: A longitudinal investigation of their association. Child Development, 87(1), 165–175."
+  doi: "10.1111/cdev.12458"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Prospective birth-cohort study (QLSCD) with three school waves (grades
+      1, 2 and 4). Cross-lagged structural equation model (Mplus 7.11, FIML)
+      of latent intrinsic motivation and latent mathematics achievement, with
+      achievement at each wave adjusted for non-verbal cognitive ability
+      (WPPSI-R Block Design at age 6) and correlated uniquenesses for matching
+      motivation items. Observational; no condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: achievement-predicts-later-math-intrinsic-motivation
+    bearing: supports
+    anchor: garoncarrier-2016
+  - claim: math-intrinsic-motivation-does-not-predict-achievement
+    bearing: supports
+    anchor: garoncarrier-2016
+  - claim: findings-challenge-sdt-motivation-drives-achievement
+    bearing: supports
+    anchor: garoncarrier-2016
+  - claim: motivation-achievement-correlation-increases-with-grade
+    bearing: supports
+    anchor: garoncarrier-2016
+  - claim: motivation-achievement-association-gender-invariant
+    bearing: supports
+    anchor: garoncarrier-2016
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1478
+    unit: participants
+  additional_sizes:
+    - value: 1528
+      unit: participants
+      note: "assessed in grade 1"
+    - value: 1451
+      unit: participants
+      note: "assessed in grade 2"
+    - value: 1334
+      unit: participants
+      note: "assessed in grade 4"
+    - value: 2223
+      unit: participants
+      note: "children in the QLSCD birth cohort"
+  population:
+    description: >-
+      Canadian (Quebec) children from a representative birth cohort born
+      between October 1997 and July 1998, followed through elementary school.
+      All started school the same year. Analysed n varied between 1323 and
+      1478 across measures; average attrition 4.37% a year from age 7 to 10.
+      Children with missing achievement scores tended to have lower
+      achievement and lower socioeconomic background.
+    age_or_stage: "Grades 1, 2 and 4 of elementary school (age 7-10)"
+    age:
+      unit: months
+      mean: 85.82
+      sd: 3.06
+      note: "At the grade 1 wave. Grade 2: M = 8.10 years, SD = .26. Grade 4: M = 10.14 years, SD = .26."
+  context:
+    setting: "Quebec elementary schools; achievement tests administered individually at school or at home by a trained research assistant; motivation questionnaire completed in a face-to-face interview"
+  arms: []
+
+comparisons:
+  - id: whole-cohort
+    kind: none
+    description: "Associations within the whole cohort across waves; no contrast between groups."
+
+observations:
+
+  - id: achievement-to-motivation-g1-g2
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation in mathematics"
+      source_language: "achievement predicted intrinsic motivation"
+      measure: "Latent intrinsic motivation in grade 2 (3 Elementary School Motivation Scale items) regressed on latent grade 1 achievement (Number Knowledge Test), controlling for grade 1 motivation"
+      scale: "standardized cross-lagged path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 1 to grade 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.09
+      model: >-
+        Non-constrained latent cross-lagged model, standardized solution
+        (Figure 2): chi2(133) = 371.76, CFI = .97, TLI = .96, RMSEA = .033.
+        Constraining the cross-lagged paths to equality worsened fit,
+        delta chi2(2) = 10.17.
+    moderators:
+      reported:
+        - variable: "Sex"
+          relationship: "A sex-invariant model (loadings, stability paths, cross paths and covariance equal) did not fit worse: delta chi2(26) = 36.26, p = .08"
+          source_quote: "Thus, the associations between intrinsic motivation and mathematics achievement did not vary across sex."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The value is a label in Figure 2, marked significant there (only paths
+      marked "ns" are not); the text says the path is significant but does not
+      print it. Its grade interval is read from the figure's layout. No
+      standard error or confidence interval is printed for any path.
+    source_quote: "Cross-lagged models showed that achievement predicted intrinsic motivation from grades 1 to 2, and from grades 2 to 4."
+    source_location: "Abstract; Results, Testing the direction of the associations; Figure 2"
+
+  - id: achievement-to-motivation-g2-g4
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation in mathematics"
+      source_language: "achievement predicted intrinsic motivation"
+      measure: "Latent intrinsic motivation in grade 4 regressed on latent grade 2 achievement (Canadian Achievement Test), controlling for grade 2 motivation"
+      scale: "standardized cross-lagged path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 2 to grade 4"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.14
+      model: "Non-constrained latent cross-lagged model, standardized solution (Figure 2)."
+    moderators:
+      reported:
+        - variable: "Sex"
+          relationship: "No difference between boys and girls in the cross-lagged pattern"
+          source_quote: "Thus, the associations between intrinsic motivation and mathematics achievement did not vary across sex."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A Figure 2 label, marked significant; its grade interval is read from
+      the figure's layout. No standard error or confidence interval printed.
+    source_quote: "Cross-lagged models showed that achievement predicted intrinsic motivation from grades 1 to 2, and from grades 2 to 4."
+    source_location: "Abstract; Results, Testing the direction of the associations; Figure 2"
+
+  - id: motivation-to-achievement-g1-g2
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "cross-lagged paths from motivation to achievement"
+      measure: "Latent grade 2 achievement (Canadian Achievement Test, adjusted for non-verbal cognitive ability) regressed on latent grade 1 intrinsic motivation, controlling for grade 1 achievement"
+      scale: "standardized cross-lagged path coefficient"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 1 to grade 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.01
+      model: "Non-constrained latent cross-lagged model, standardized solution (Figure 2); marked ns."
+      interpretation: "Not statistically significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A Figure 2 label marked "ns"; its grade interval is read from the
+      figure's layout. The authors report in a footnote a similar pattern
+      with teacher ratings of achievement in grades 1, 2, 4 and 6, without
+      values.
+    source_quote: "The cross-lagged paths from motivation to achievement were not statistically significant."
+    source_location: "Results, Testing the direction of the associations; Figure 2"
+
+  - id: motivation-to-achievement-g2-g4
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "cross-lagged paths from motivation to achievement"
+      measure: "Latent grade 4 achievement (Canadian Achievement Test, adjusted for non-verbal cognitive ability) regressed on latent grade 2 intrinsic motivation, controlling for grade 2 achievement"
+      scale: "standardized cross-lagged path coefficient"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 2 to grade 4"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.02
+      model: "Non-constrained latent cross-lagged model, standardized solution (Figure 2); marked ns."
+      interpretation: "Not statistically significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "A Figure 2 label marked \"ns\"; its grade interval is read from the figure's layout."
+    source_quote: "The cross-lagged paths from motivation to achievement were not statistically significant."
+    source_location: "Results, Testing the direction of the associations; Figure 2"
+
+  - id: motivation-stability-g1-g2
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation in mathematics"
+      source_language: "stability paths for intrinsic motivation in mathematics"
+      measure: "Latent grade 2 intrinsic motivation regressed on latent grade 1 intrinsic motivation, in the cross-lagged model"
+      scale: "standardized autoregressive path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 1 to grade 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.31
+      model: >-
+        Non-constrained latent cross-lagged model. Constraining the two
+        motivation stability paths to equality did not worsen fit,
+        delta chi2(1) = .55, p = .46. Achievement stability paths were .76
+        (grade 1 to 2) and .74 (grade 2 to 4).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A latent path, not the observed correlation; Table 2 gives the observed
+      grade 1-grade 2 motivation correlation as .30.
+    source_quote: "The stability paths for intrinsic motivation in mathematics were somewhat lower, but slightly increased over time from .31 to .42, although the increase did not reach significance when the longitudinal stability paths were constrained to equality (c = d, see Figure 1), as shown by a non-significant deterioration of the fit, ∆χ2 (1) = .55, p = .46 (results available from the authors)."
+    source_location: "Results, Testing the direction of the associations"
+
+  - id: motivation-stability-g2-g4
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation in mathematics"
+      source_language: "stability paths for intrinsic motivation in mathematics"
+      measure: "Latent grade 4 intrinsic motivation regressed on latent grade 2 intrinsic motivation, in the cross-lagged model"
+      scale: "standardized autoregressive path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 2 to grade 4"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.42
+      model: "Non-constrained latent cross-lagged model; the difference from .31 was not significant."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "A latent path; Table 2 gives the observed grade 2-grade 4 motivation correlation as .39."
+    source_quote: "The stability paths for intrinsic motivation in mathematics were somewhat lower, but slightly increased over time from .31 to .42, although the increase did not reach significance when the longitudinal stability paths were constrained to equality (c = d, see Figure 1), as shown by a non-significant deterioration of the fit, ∆χ2 (1) = .55, p = .46 (results available from the authors)."
+    source_location: "Results, Testing the direction of the associations"
+
+  - id: concurrent-r-grade-1
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation and achievement in mathematics"
+      source_language: "Cross-sectional correlations"
+      measure: "Observed correlation of grade 1 intrinsic motivation score with grade 1 Number Knowledge Test score"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 1"
+    result:
+      measure_type: correlation
+      estimate: 0.13
+      model: "Sample correlation matrix (Table 2), FIML; all coefficients significant at p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "An observed correlation, not corrected for the unreliability of either measure."
+    source_quote: "Cross-sectional correlations indicated that intrinsic motivation for mathematics was increasingly positively correlated to achievement in mathematics (r = .13 in grade 1 to r = .22 in grade 4)."
+    source_location: "Results, Associations between motivation and achievement; Table 2"
+
+  - id: concurrent-r-grade-2
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation and achievement in mathematics"
+      source_language: "Concurrent correlations"
+      measure: "Observed correlation of grade 2 intrinsic motivation score with grade 2 Canadian Achievement Test score"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 2"
+    result:
+      measure_type: correlation
+      estimate: 0.11
+      model: "Sample correlation matrix (Table 2), FIML; all coefficients significant at p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Table 2 row 5 (AM grade 2), column 2 (IM grade 2). Observed, not corrected for unreliability."
+    source_quote: "5. AM grade 2 .08 .11 .15 .53"
+    source_location: "Table 2"
+
+  - id: concurrent-r-grade-4
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation and achievement in mathematics"
+      source_language: "Cross-sectional correlations"
+      measure: "Observed correlation of grade 4 intrinsic motivation score with grade 4 Canadian Achievement Test score"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 4"
+    result:
+      measure_type: correlation
+      estimate: 0.22
+      model: "Sample correlation matrix (Table 2), FIML; all coefficients significant at p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Observed, not corrected for unreliability."
+    source_quote: "Cross-sectional correlations indicated that intrinsic motivation for mathematics was increasingly positively correlated to achievement in mathematics (r = .13 in grade 1 to r = .22 in grade 4)."
+    source_location: "Results, Associations between motivation and achievement; Table 2"
+
+  - id: lagged-r-motivation-g4-achievement-g1
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Intrinsic motivation and achievement in mathematics"
+      source_language: "Sample correlation matrix"
+      measure: "Observed correlation of grade 4 intrinsic motivation score with grade 1 Number Knowledge Test score"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "achievement in grade 1, motivation in grade 4"
+    result:
+      measure_type: correlation
+      estimate: 0.15
+      model: "Sample correlation matrix (Table 2), FIML; all coefficients significant at p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Table 2 row 4 (AM grade 1), column 3 (IM grade 4). The same row gives
+      .13 with grade 1 and .11 with grade 2 motivation. Observed, not
+      corrected for unreliability.
+    source_quote: "4. AM grade 1 .13 .11 .15"
+    source_location: "Table 2"
+
+  - id: nkt-alpha-grade-1
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Mathematics achievement test reliability"
+      source_language: "Its internal consistency"
+      measure: "Number Knowledge Test (27 items of basic arithmetic), grade 1"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 1"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article does not say outright that this alpha was computed in its
+      own sample, unlike the CAT alphas, which it gives per grade; it is
+      printed without a citation.
+    source_quote: "Its internal consistency was α = .79."
+    source_location: "Method, Instruments, Achievement in mathematics"
+
+  - id: cat-alpha-grade-2
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Mathematics achievement test reliability"
+      source_language: "Internal consistency of the CAT"
+      measure: "Canadian Achievement Test, arithmetic operations (addition, subtraction, multiplication), grade 2"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 2"
+    result:
+      measure_type: reliability
+      estimate: 0.76
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Internal consistency of the CAT was α = .76, and α = .81, in grades 2 and 4 respectively, and CAT scores were fairly stable (r = .50) between grade 2 and grade 4 (see Table 2)."
+    source_location: "Method, Instruments, Achievement in mathematics"
+
+  - id: cat-alpha-grade-4
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Mathematics achievement test reliability"
+      source_language: "Internal consistency of the CAT"
+      measure: "Canadian Achievement Test, arithmetic operations (addition, subtraction, multiplication, division), grade 4"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade 4"
+    result:
+      measure_type: reliability
+      estimate: 0.81
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Internal consistency of the CAT was α = .76, and α = .81, in grades 2 and 4 respectively, and CAT scores were fairly stable (r = .50) between grade 2 and grade 4 (see Table 2)."
+    source_location: "Method, Instruments, Achievement in mathematics"
+
+not_yet_extracted:
+  - "Motivation scale internal consistency, .75 to .81 from grade 1 to grade 3: the article cites it from Guay et al. (2010) and prints none for its own sample, so it is not recorded as this study's reliability."

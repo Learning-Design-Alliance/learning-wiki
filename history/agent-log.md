@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · Observation records pilot: ten simulator-cited sources
+
+The pilot for recording the learning-graph simulator's sources in `observations/`, using the new reliability, mean
+and age fields. It covers the ten most-used sources with readable full text: Baker et al. (2004), Bao & Redish (2006),
+Garon-Carrier et al. (2016), Koedinger et al. (2023), Lazarides et al. (2019), Möller et al. (2009), Paschke et al.
+(2025, two datasets), Rohrer et al. (2015), Schwartz et al. (2011, two studies) and Taylor & Rohrer (2010). That is
+12 files and 108 observations.
+
+Agents wrote the records, two sources each, at five to ten minutes of working time per source. Every `source_quote`
+was then checked verbatim against the source text, and every recorded number found in it, by a script outside the
+agents.
+
+Four corrections were made after the agents finished:
+- Rohrer's quotes take the article's symbols where the ERIC text layer had glyph codes.
+- Rohrer's age is `unreported`, because the source prints no figure ("nearly every student was 12").
+- Schwartz's ">98%" coder agreement is listed as not extracted, because it is a bound, not a measured value.
+- Garon-Carrier's motivation-scale reliability is listed as not extracted, because it was cited from Guay et al.
+  (2010) and not computed in this sample.
+
+Koedinger's iAFM estimates (θ, δ) are recorded as the paper's findings, pending the maintainer's view on fitted
+parameters.
+
+Figures the simulator uses that are not in the article are left out, and each record says so: Baker's interval for
+the partial correlation, Garon-Carrier's [.17, .27], and Koedinger's per-student-KC count, which is in the SI.
+
 ## 2026-11-25 · Observation schema: reliability, single-group means and structured ages
 
 Checking the sources the learning-graph simulator cites against `observations/`, three kinds of figure had nowhere

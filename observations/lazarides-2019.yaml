@@ -1,0 +1,506 @@
+# Lazarides, Gaspard & Dicke (2019): teacher enthusiasm, class-level maths
+# interest and perceived teacher support over Grade 5 to Grade 6.
+#
+# Read from a repository copy of the article-in-press (Elsevier typeset PDF,
+# "Learning and Instruction xxx (xxxx)", published online 2018). Volume, issue
+# and pages are from Crossref (60, 126-137, 2019), not from the copy.
+#
+# Two waves (start of Grade 5, start of Grade 6) of a multilevel latent change
+# model: change is modelled at the CLASS level and only stability paths at the
+# student level. So the between-level observations are about 47 classes, and
+# the within-level ones about the 1,000 students.
+#
+# Table 2 (manifest intercorrelations) is interleaved with body text in the
+# extracted copy. The within-level block reads cleanly as an upper triangle
+# (row 1 three values, row 2 two, row 3 one), so its six cells are recorded;
+# the between-level block is not used here.
+#
+# Table 5 prints p = .01 for the teacher-support -> interest-change path; the
+# Results text prints p = .003 for the same beta and SE. The text is recorded,
+# and the table's figure is kept in the observation's note.
+
+schema_version: 2
+
+study:
+  key: lazarides-2019
+  citation: "Lazarides, R., Gaspard, H., & Dicke, A.-L. (2019). Dynamics of classroom motivation: Teacher enthusiasm and the development of math interest and teacher support. Learning and Instruction, 60, 126–137."
+  doi: "10.1016/j.learninstruc.2018.01.012"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Two-wave panel (beginning of Grade 5 and of Grade 6) from Cohort 1 of the
+      TRAIN study, subsample of the 47 classes that kept their classroom teacher.
+      Multilevel latent change models in Mplus 7.0 with strong measurement
+      invariance, FIML for missing data: change in interest and perceived
+      teacher support modelled at the classroom level, stability paths only at
+      the student level. Model 1 levels and changes; Model 2 adds
+      teacher-reported enthusiasm; Model 3 adds the cross paths from each Grade
+      5 class level to the other construct's change. No assignment of
+      conditions.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: class-teacher-support-predicts-interest-change
+    bearing: supports
+    anchor: lazarides-2018
+  - claim: classroom-membership-variance-support-interest
+    bearing: supports
+    anchor: lazarides-2018
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1000
+    unit: participants
+  additional_sizes:
+    - value: 47
+      unit: classes
+      note: "classrooms that did not change classroom teacher from Grade 5 to 6; the unit of the between-level change model (mean 21.28 students per class)"
+    - value: 42
+      unit: other
+      note: "classroom teachers who taught mathematics in these classes and reported their enthusiasm"
+    - value: 3160
+      unit: participants
+      note: "original TRAIN Cohort 1 sample from which the subsample was drawn"
+  population:
+    description: >-
+      German secondary students (53.6% male) in the first year after the
+      transition from elementary school, in the Hauptschule (50.6%, 26
+      classrooms), Realschule (10.4%, 4 classrooms) and Mittelschule (37.8%,
+      17 classrooms) tracks. Teachers 70.7% female, 0 to 38 years of
+      experience. Student participation 81.8% at Time 1.
+    age_or_stage: "Grades 5 and 6; ages given at Time 1 (start of Grade 5)"
+    age:
+      unit: years
+      mean: 11.14
+      sd: 0.57
+      note: "at Time 1, the beginning of Grade 5"
+  context:
+    setting: "Mathematics classes in secondary schools in Baden-Württemberg and Saxony, Germany; anonymised surveys during regular classroom hours"
+  arms: []
+
+comparisons:
+  - id: between-classes
+    kind: none
+    description: "Class-level (between) part of the multilevel latent change models and descriptives across the 47 classrooms; no contrast between groups."
+  - id: within-classes
+    kind: none
+    description: "Student-level (within) part of the models and the within-level manifest correlations; no contrast between groups."
+  - id: whole-sample-scales
+    kind: none
+    description: "Internal consistency of the student-report scales in the whole subsample."
+
+observations:
+
+  - id: support-g5-predicts-interest-change-class
+    sample:
+      value: 47
+      unit: classes
+    comparison_ref: between-classes
+    outcome:
+      construct: "Change in class-level mathematics interest"
+      source_language: "the class average change in the students' mathematics interest"
+      measure: "Latent change score of class-level interest (three items, four-point scale), Grade 5 to Grade 6, regressed on class-level perceived teacher support in Grade 5"
+      scale: "standardised regression coefficient"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 to start of Grade 6"
+      offset:
+        value: 1
+        unit: years
+        from: "start of Grade 5"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.46
+      standard_error: 0.15
+      p_value: 0.003
+      model: >-
+        Model 3, between level: class-level teacher support in Grade 5 ->
+        change in class-level interest, with teacher-reported enthusiasm and
+        the reverse cross path (Grade 5 class interest -> change in teacher
+        support, beta .09, SE .17, p = .59) in the model.
+      note: "Table 5 prints p = .01 for this path; the Results text prints p = .003. The text figure is recorded."
+    moderators:
+      reported: []
+      candidate:
+        - "School track; the Appendix B robustness model adding school type and class achievement gives this path as .31 (SE .14)"
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      implementation_detail is unreported because no intervention was
+      delivered; teacher support is students' perception of their classroom
+      teacher, not a manipulated condition.
+    source_quote: "In line with Hypothesis 3a, the class average student-perceived teacher support in Grade 5 was sig- nificantly and positively related to the class average change in the students' mathematics interest (β = .46, SE = .15, p = .003)."
+    source_location: "Results 3.2; Table 5 (Model 3, Between)"
+
+  - id: interest-stability-student
+    sample:
+      value: 1000
+      unit: participants
+    comparison_ref: within-classes
+    outcome:
+      construct: "Mathematics interest, Grade 6"
+      source_language: "their mathematics interest in Grade 6"
+      measure: "Latent student-level interest in Grade 6 regressed on latent student-level interest in Grade 5"
+      scale: "standardised regression coefficient (stability path)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 to start of Grade 6"
+      offset:
+        value: 1
+        unit: years
+        from: "start of Grade 5"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.48
+      standard_error: 0.06
+      model: "Model 1, within level; the same value is printed for Models 2 and 3 (Tables 4 and 5)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "At the student level, the students' mathematics interest in Grade 5 was significantly and positively related to their mathematics interest in Grade 6 (β = .48, SE = .06, p \\< .001)."
+    source_location: "Results 3.2; Table 3 (Within)"
+
+  - id: interest-g5-g6-r-student
+    sample:
+      value: 1000
+      unit: participants
+    comparison_ref: within-classes
+    outcome:
+      construct: "Mathematics interest, Grade 5 with Grade 6"
+      source_language: "Interest G5 / Interest G6"
+      measure: "Within-level manifest correlation of the interest scale across the two waves, computed in Mplus with FIML"
+      scale: "standardised correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 with start of Grade 6"
+    result:
+      measure_type: correlation
+      estimate: 0.40
+      interpretation: "Described by the authors as moderate stability at the student level; p < .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Read from Table 2, whose rows are interleaved with body text in the extracted copy; row 1 of the within block carries three values (columns 2, 3, 4)."
+    source_quote: '1\) Interest G5 .40\*\*\* .18\*\*\* .13\*\*'
+    source_location: "Table 2, Within, row 1"
+
+  - id: support-g5-g6-r-student
+    sample:
+      value: 1000
+      unit: participants
+    comparison_ref: within-classes
+    outcome:
+      construct: "Perceived teacher support, Grade 5 with Grade 6"
+      source_language: "Teacher Support G5 / Teacher Support G6"
+      measure: "Within-level manifest correlation of the seven-item perceived teacher support scale across the two waves"
+      scale: "standardised correlation"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 with start of Grade 6"
+    result:
+      measure_type: correlation
+      estimate: 0.41
+      interpretation: "p < .001. The latent within-level stability path in Table 3 is a different statistic (beta .46, SE .04)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Read from Table 2; the row 3 label and its single value (column 4) fall on separate lines of the extracted copy, before the Between block begins."
+    source_quote: '3\) Teacher Support G5 4) Teacher Support G6 .41\*\*\*'
+    source_location: "Table 2, Within, row 3"
+
+  - id: interest-support-r-student-g5
+    sample:
+      value: 1000
+      unit: participants
+    comparison_ref: within-classes
+    outcome:
+      construct: "Mathematics interest with perceived teacher support, Grade 5"
+      source_language: "Interest G5 / Teacher Support G5"
+      measure: "Within-level manifest correlation of interest and perceived teacher support at the same wave"
+      scale: "standardised correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5"
+    result:
+      measure_type: correlation
+      estimate: 0.18
+      interpretation: "p < .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: '1\) Interest G5 .40\*\*\* .18\*\*\* .13\*\*'
+    source_location: "Table 2, Within, row 1, column 3"
+
+  - id: interest-support-r-student-g6
+    sample:
+      value: 1000
+      unit: participants
+    comparison_ref: within-classes
+    outcome:
+      construct: "Mathematics interest with perceived teacher support, Grade 6"
+      source_language: "Interest G6 / Teacher Support G6"
+      measure: "Within-level manifest correlation of interest and perceived teacher support at the same wave"
+      scale: "standardised correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 6"
+    result:
+      measure_type: correlation
+      estimate: 0.29
+      interpretation: "p < .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Row 2 of the within block carries two values, columns 3 (Teacher Support G5, .17) and 4 (Teacher Support G6, .29)."
+    source_quote: '2\) Interest G6 .17\*\*\* .29\*\*\*'
+    source_location: "Table 2, Within, row 2, column 4"
+
+  - id: support-icc1-g5
+    sample:
+      value: 47
+      unit: classes
+    comparison_ref: between-classes
+    outcome:
+      construct: "Share of variance in perceived teacher support between classrooms"
+      source_language: "proportion of total variance of perceived teacher support ... attributable to students' belonging to the same classroom"
+      measure: "Perceived teacher support, initial level (start of Grade 5), unconditional multilevel latent change model"
+      scale: "ICC1"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 (initial level)"
+    result:
+      measure_type: reliability
+      estimate: 0.21
+      reliability:
+        statistic: icc
+        over: other
+        form: "ICC1 (individual ratings attributable to class membership); ICC2 for the same row is .85"
+      interpretation: "Authors: ICC1 above .05 shows individual ratings are attributable to group membership; ICC2 above .70 indicates accurate class means"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source computes the ICCs to assess the reliability of the aggregated
+      student variables, so the record files them as reliability over
+      classrooms (`over: other`). The change score's ICC1 is .15.
+    source_quote: "Teacher Support Initial level 3.21 0.04 .21 .85"
+    source_location: "Table 1; Results 3.1"
+
+  - id: interest-icc1-g5
+    sample:
+      value: 47
+      unit: classes
+    comparison_ref: between-classes
+    outcome:
+      construct: "Share of variance in mathematics interest between classrooms"
+      source_language: "13% of the variance of students' interest was attributable to stu- dents' belonging to the same classroom"
+      measure: "Mathematics interest, initial level (start of Grade 5), unconditional multilevel latent change model"
+      scale: "ICC1"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start of Grade 5 (initial level)"
+    result:
+      measure_type: reliability
+      estimate: 0.13
+      reliability:
+        statistic: icc
+        over: other
+        form: "ICC1; ICC2 for the same row is .64"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Interest Initial level 3.61 0.03 .13 .64"
+    source_location: "Table 1; Results 3.1"
+
+  - id: interest-alpha-g5
+    comparison_ref: whole-sample-scales
+    outcome:
+      construct: "Mathematics interest scale"
+      source_language: "Internal consistency"
+      measure: "Three items, four-point Likert scale, adapted from Marsh et al. (2005)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1, start of Grade 5"
+    result:
+      measure_type: reliability
+      estimate: 0.66
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as satisfactory"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Internal consistency was sa- tisfactory at both Times 1 and 2 (α = .66 and .74 at Grades 5 and 6, respectively)."
+    source_location: "Section 2.2.1"
+
+  - id: interest-alpha-g6
+    comparison_ref: whole-sample-scales
+    outcome:
+      construct: "Mathematics interest scale"
+      source_language: "Internal consistency"
+      measure: "Three items, four-point Likert scale, adapted from Marsh et al. (2005)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 2, start of Grade 6"
+    result:
+      measure_type: reliability
+      estimate: 0.74
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as satisfactory"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Internal consistency was sa- tisfactory at both Times 1 and 2 (α = .66 and .74 at Grades 5 and 6, respectively)."
+    source_location: "Section 2.2.1"
+
+  - id: support-alpha-g5
+    comparison_ref: whole-sample-scales
+    outcome:
+      construct: "Perceived teacher support scale"
+      source_language: "The internal consistency of the scale"
+      measure: "Seven items about the classroom teacher's active support and patience, four-point Likert scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1, start of Grade 5"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The internal consistency of the scale was good at both Times 1 and 2 (Grade 5: α = .89; Grade 6: α = .91)."
+    source_location: "Section 2.2.2"
+
+  - id: support-alpha-g6
+    comparison_ref: whole-sample-scales
+    outcome:
+      construct: "Perceived teacher support scale"
+      source_language: "The internal consistency of the scale"
+      measure: "Seven items about the classroom teacher's active support and patience, four-point Likert scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 2, start of Grade 6"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The internal consistency of the scale was good at both Times 1 and 2 (Grade 5: α = .89; Grade 6: α = .91)."
+    source_location: "Section 2.2.2"

@@ -1,0 +1,477 @@
+# Möller, Pohlmann, Köller & Marsh (2009): a meta-analytic path analysis of the
+# internal/external frame of reference (I/E) model.
+#
+# WHAT THIS FILE RECORDS, and what the source does not print:
+#
+#   * The two headline pooled correlations (math-verbal achievement .67, math-
+#     verbal self-concept .10) and the four path coefficients of the I/E model,
+#     all from the all-samples analysis (k = 69, N = 125,308).
+#   * The years-in-school moderation of the self-concept correlation, as three
+#     strata (before Year 7, Years 7-9, beyond Year 9). The article prints the
+#     three r values and nothing else for them: no k, no CI, no N per stratum.
+#     So each stratum is an arm named by `arm_ref`, and `pooled_k: unreported`.
+#   * `population.age: unreported`. Year in school was coded per sample and
+#     tested as a continuous moderator, but the article prints no age figure
+#     for the samples. The SDQ age bands it mentions (up to 12, up to 17, 16 to
+#     25) describe the instruments' intended ranges, not the samples.
+#   * No reliability observation: the article prints no reliability for any
+#     achievement or self-concept measure in the corpus, and does not correct
+#     the pooled correlations for attenuation. Its own coding agreement is
+#     described only as "very few occasional disagreements", with no
+#     coefficient.
+#   * No single-group means: a correlation meta-analysis prints none.
+#
+# Read from a JSTOR repository copy of the published article. Table 2 (the
+# per-study correlations) is unreadable in the text layer and nothing below
+# rests on it.
+
+schema_version: 2
+
+study:
+  key: moller-2009
+  citation: "Möller, J., Pohlmann, B., Köller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79(3), 1129–1167."
+  doi: "10.3102/0034654309337522"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of the six correlations among math achievement, verbal
+      achievement, math self-concept and verbal self-concept, then a path
+      analysis (maximum likelihood) of the pooled correlation matrix, with
+      multiple-group analyses for achievement measure and self-concept
+      measure. Observational correlations throughout; no study in the corpus
+      is described as experimental.
+  synthesis:
+    model: "Random-effects procedures (Rosenberg, Adams & Gurevitch, 2000) for weighted mean correlations; mixed-effects models for moderators"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycINFO
+        - Education Resources Information Center
+        - Social Science Index
+      date_range: "reports available by the end of 2006"
+    inclusion:
+      - "Reports all six bivariate correlations among math achievement, verbal achievement, math self-concept and verbal self-concept"
+      - "Verbal achievement in the native language only (standardized tests or teacher grades)"
+      - "Math achievement only; science subjects excluded"
+      - "Self-reports of verbal and math capability (SDQ scales, cognitive scales or self-efficacy measures)"
+    exclusion:
+      - "Foreign-language achievement"
+      - "Indirect achievement indicators such as time spent on homework"
+      - "Reports re-using a sample already included"
+    data_handling:
+      - "Coefficients retrieved by two coders independently; disagreements resolved by consulting a third person"
+      - "Correlations transformed to Fisher's z, inverse-variance weighted, and transformed back to r"
+      - "Multiple operations of one variable averaged for the overall analysis; entered separately for the test-versus-grades analyses"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: ie-model-achievement-self-concept-correlation-contrast
+    bearing: supports
+    anchor: möller-2009
+  - claim: ie-model-path-coefficients-supported
+    bearing: supports
+    anchor: möller-2009
+  - claim: ie-model-generalizability-age-gender-country
+    bearing: qualifies
+    anchor: möller-2009
+
+evidence_base:
+  unit: studies
+  size:
+    value: 69
+    unit: studies
+  additional_sizes:
+    - value: 125308
+      unit: participants
+      note: "total participants across the 69 independent samples"
+    - value: 26
+      unit: studies
+      note: "of the 69 samples come from one report, the Marsh and Hau (2004) PISA 2000 data"
+    - value: 43
+      unit: studies
+      note: "samples that are not PISA data (N = 67,726), analysed separately as a check"
+  population:
+    description: >-
+      69 independent samples of school students (and, for SDQ III studies,
+      older students) from Asia, Australia, Europe and the United States or
+      Canada. Year in school and percentage female were coded per sample; for
+      10 samples there was no information on gender distribution.
+    age_or_stage: >-
+      Coded as years in school and tested as a continuous moderator; the
+      article reports strata before Year 7, Years 7 to 9, and beyond Year 9.
+      No age range or mean is printed for the samples.
+    age: unreported
+  context:
+    setting: "Correlational studies of academic self-concept in schools; achievement measured by standardized tests (40 samples) or teacher-assigned grades (32 samples)"
+  variation:
+    - dimension: "Achievement measure"
+      distribution: "Test 40 samples (N = 100,637), grades 32 (N = 43,069); three studies included both"
+    - dimension: "Self-concept measure"
+      distribution: "SDQ I 8, SDQ II 37, SDQ III 3, cognitive 19, self-efficacy 5"
+    - dimension: "Country"
+      distribution: "Asia 7, Australia 12, Europe 39, United States 7 (66 samples coded for country)"
+  arms:
+    - id: before-year-7
+      description: "The samples of students before Year 7 in school."
+    - id: years-7-to-9
+      description: "The samples of students between Years 7 and 9."
+    - id: beyond-year-9
+      description: "The samples of students beyond Year 9."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Pooled correlations and path coefficients across all 69 samples; no contrast between groups."
+
+observations:
+
+  - id: math-verbal-achievement-r
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Math achievement and verbal achievement"
+      source_language: "math and verbal achievements were highly correlated"
+      measure: "Standardized tests or teacher-assigned grades in mathematics and in the native language, as reported by the primary studies"
+      scale: "correlation between math and verbal achievement"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.67
+      ci_lower: 0.64
+      ci_upper: 0.70
+      interval_type: confidence
+      k:
+        value: 69
+        unit: studies
+      heterogeneity:
+        statistic: "Q"
+        value: 111.28
+        interpretation: "Significant at p < .001 (Table 3)"
+      model: "random-effects; weighted mean effect size E = .81 (pooled variance .07) back-transformed to r"
+    moderators:
+      reported:
+        - variable: "Achievement measure (standardized test vs teacher grades)"
+          relationship: "Correlation higher for tests (r = .74) than for grades (r = .54), Table 6"
+          source_quote: "Correlations between math and verbal achievements were higher when based on test scores instead of grades."
+        - variable: "Year of publication"
+          relationship: "Larger in older studies (r = .71) than in more recent ones (r = .44)"
+          source_quote: "Average correlations between math and verbal achievements and between self-concepts in the two domains were larger for older studies (achievement: r = .7 1 , self-concept r - . 1 9) than for more recent studies (achieve- ment: r - .44, self-concept r = .03)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Without the PISA samples (k = 43, N = 67,726) the same correlation is
+      .59 (CI .52-.65). The article does not correct correlations for
+      measurement unreliability.
+    source_quote: "As predicted by the internal/external frame of refer- ence (I/E) model, math and verbal achievements were highly correlated over- all (. 67), but the correlation between math and verbal self concepts (. 10) was close to zero."
+    source_location: "Abstract; Table 3, All samples, MAch-VAch row"
+
+  - id: math-verbal-self-concept-r
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Math self-concept and verbal self-concept"
+      source_language: "correlation between math and verbal self concepts"
+      measure: "Self-reported math and verbal self-concept (SDQ I-III, cognitive scales or self-efficacy measures)"
+      scale: "correlation between math and verbal self-concept"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.10
+      ci_lower: 0.05
+      ci_upper: 0.15
+      interval_type: confidence
+      k:
+        value: 69
+        unit: studies
+      heterogeneity:
+        statistic: "Q"
+        value: 123.61
+        interpretation: "Significant at p < .001 (Table 3)"
+      model: "random-effects; weighted mean effect size E = .10 (pooled variance .03)"
+    moderators:
+      reported:
+        - variable: "Years in school"
+          relationship: "Q = 6.96, p < .05 for the self-concept correlation (Table 5); see the three stratum observations"
+          source_quote: "As the homogeneity index shows, years in school was related to magnitude of the effect sizes for the self-concept correlations (see Table 5)."
+        - variable: "Self-concept measure"
+          relationship: "r = .50 with self-efficacy measures, between -.03 and .22 with SDQ or cognitive measures (Table 7)"
+          source_quote: "Effect sizes for the relation between both self-concepts were substantially larger when self-efficacy measures were used (r = .50) than when a version of the SDQ or solely cognitive measures were used (r between -.03 and .22; see Table 7)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Without the PISA samples the correlation is .11 (CI .05-.17). Not
+      corrected for measurement unreliability.
+    source_quote: "As predicted by the internal/external frame of refer- ence (I/E) model, math and verbal achievements were highly correlated over- all (. 67), but the correlation between math and verbal self concepts (. 10) was close to zero."
+    source_location: "Abstract; Table 3, All samples, MSelf-VSelf row"
+
+  - id: self-concept-r-before-year-7
+    arm_ref: before-year-7
+    outcome:
+      construct: "Math self-concept and verbal self-concept"
+      source_language: "the self-concept correlation"
+      measure: "Self-reported math and verbal self-concept, as in the primary studies"
+      scale: "correlation between math and verbal self-concept"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "before Year 7 in school"
+    result:
+      measure_type: correlation
+      estimate: 0.27
+      model: "average correlation for the stratum, from the years-in-school moderator analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The article prints only the r for each stratum: no k, N or confidence
+      interval, and does not say where the stratum boundaries were drawn
+      beyond the wording quoted.
+    source_quote: "An inspection of the effect sizes of different categories shows that the self-concept correlation is higher for younger students (before Year 7, r = .27) than for middle (between Years 7 and 9, r = .01) and older students (beyond Year 9, r = .09)."
+    source_location: "Results, Moderator analyses, Years in school"
+
+  - id: self-concept-r-years-7-to-9
+    arm_ref: years-7-to-9
+    outcome:
+      construct: "Math self-concept and verbal self-concept"
+      source_language: "the self-concept correlation"
+      measure: "Self-reported math and verbal self-concept, as in the primary studies"
+      scale: "correlation between math and verbal self-concept"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "between Years 7 and 9 in school"
+    result:
+      measure_type: correlation
+      estimate: 0.01
+      model: "average correlation for the stratum, from the years-in-school moderator analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "An inspection of the effect sizes of different categories shows that the self-concept correlation is higher for younger students (before Year 7, r = .27) than for middle (between Years 7 and 9, r = .01) and older students (beyond Year 9, r = .09)."
+    source_location: "Results, Moderator analyses, Years in school"
+
+  - id: self-concept-r-beyond-year-9
+    arm_ref: beyond-year-9
+    outcome:
+      construct: "Math self-concept and verbal self-concept"
+      source_language: "the self-concept correlation"
+      measure: "Self-reported math and verbal self-concept, as in the primary studies"
+      scale: "correlation between math and verbal self-concept"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "beyond Year 9 in school"
+    result:
+      measure_type: correlation
+      estimate: 0.09
+      model: "average correlation for the stratum, from the years-in-school moderator analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "An inspection of the effect sizes of different categories shows that the self-concept correlation is higher for younger students (before Year 7, r = .27) than for middle (between Years 7 and 9, r = .01) and older students (beyond Year 9, r = .09)."
+    source_location: "Results, Moderator analyses, Years in school"
+
+  - id: path-math-achievement-to-math-self-concept
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Math self-concept"
+      source_language: "positive paths from achievement to the corresponding self concepts"
+      measure: "Path from math achievement to math self-concept, estimated on the pooled correlation matrix with verbal achievement in the model"
+      scale: "path coefficient (beta weight)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.61
+      k:
+        value: 69
+        unit: studies
+      model: >-
+        Saturated path model (maximum likelihood) fitted to the weighted mean
+        correlation matrix of all 69 samples; .64 without the PISA samples.
+        The alternative route (path analysis within each study, then
+        meta-analysis of the paths) is reported as giving almost identical
+        results.
+    moderators:
+      reported:
+        - variable: "Achievement measure (teacher grades vs standardized tests)"
+          relationship: "Positive within-domain paths higher with grades (.75 math, .68 verbal) than with tests (.57 math, .47 verbal), Table 8"
+          source_quote: "The sec- ond finding of this multigroup analysis was that grades had a stronger impact on corresponding self-concepts than objective test scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      No standard error or confidence interval is printed for any path. The
+      saturated model has no fit index.
+    source_quote: "A path analysis revealed support for the I/E model, with positive paths from achievement to the corresponding self concepts (.61 for math, .49 for verbal) and negative paths from achievement in one subject to self-concept in the other subject (-.21 from math achievement on verbal self-concept, -.27 from verbal achievement to math self-concept)."
+    source_location: "Abstract; Table 8, All samples"
+
+  - id: path-verbal-achievement-to-verbal-self-concept
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Verbal self-concept"
+      source_language: "positive paths from achievement to the corresponding self concepts"
+      measure: "Path from verbal achievement to verbal self-concept, estimated on the pooled correlation matrix with math achievement in the model"
+      scale: "path coefficient (beta weight)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.49
+      k:
+        value: 69
+        unit: studies
+      model: "Saturated path model on the pooled correlation matrix of all 69 samples; .52 without the PISA samples."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "A path analysis revealed support for the I/E model, with positive paths from achievement to the corresponding self concepts (.61 for math, .49 for verbal) and negative paths from achievement in one subject to self-concept in the other subject (-.21 from math achievement on verbal self-concept, -.27 from verbal achievement to math self-concept)."
+    source_location: "Abstract; Table 8, All samples"
+
+  - id: path-math-achievement-to-verbal-self-concept
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Verbal self-concept"
+      source_language: "negative paths from achievement in one subject to self-concept in the other subject"
+      measure: "Cross path from math achievement to verbal self-concept, controlling for verbal achievement"
+      scale: "path coefficient (beta weight)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.21
+      k:
+        value: 69
+        unit: studies
+      model: "Saturated path model on the pooled correlation matrix of all 69 samples; -.21 without the PISA samples."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "A path analysis revealed support for the I/E model, with positive paths from achievement to the corresponding self concepts (.61 for math, .49 for verbal) and negative paths from achievement in one subject to self-concept in the other subject (-.21 from math achievement on verbal self-concept, -.27 from verbal achievement to math self-concept)."
+    source_location: "Abstract; Table 8, All samples"
+
+  - id: path-verbal-achievement-to-math-self-concept
+    sample:
+      value: 69
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Math self-concept"
+      source_language: "negative paths from achievement in one subject to self-concept in the other subject"
+      measure: "Cross path from verbal achievement to math self-concept, controlling for math achievement"
+      scale: "path coefficient (beta weight)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, mostly cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.27
+      k:
+        value: 69
+        unit: studies
+      model: "Saturated path model on the pooled correlation matrix of all 69 samples; -.26 without the PISA samples."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "A path analysis revealed support for the I/E model, with positive paths from achievement to the corresponding self concepts (.61 for math, .49 for verbal) and negative paths from achievement in one subject to self-concept in the other subject (-.21 from math achievement on verbal self-concept, -.27 from verbal achievement to math self-concept)."
+    source_location: "Abstract; Table 8, All samples"

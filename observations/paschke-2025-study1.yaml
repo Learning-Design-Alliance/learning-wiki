@@ -1,0 +1,419 @@
+# Paschke, Steinmayr, Mertens, Neubauer & Spinath (2025), Dataset 1: competence
+# beliefs and intrinsic motivation in maths, Grades 2-3, RI-CLPM and CLPM.
+#
+# The article reanalyses two independent samples; this file is Dataset 1
+# (Spinath and Steinmayr 2008) and paschke-2025-study2 is Dataset 2. Read from
+# the PMC full text (PMC12598449), whose tables are tab-separated and clean.
+#
+# A within-person autoregressive path in an RI-CLPM and a CLPM autoregressive
+# path are different statistics: the first is carry-over of a child's deviation
+# from their own mean, the second rank-order stability. Each observation's
+# model field says which. All coefficients are standardised as printed.
+#
+# N: the abstract says 670, the Participants section 664. 664 is recorded.
+
+schema_version: 2
+study:
+  key: paschke-2025-study1
+  citation: Paschke, P., Steinmayr, R., Mertens, A., Neubauer, A. B., & Spinath, B. (2025). Re-examination of the
+    reciprocal relation between intrinsic motivation and competence beliefs in math using the random-intercept cross-lagged
+    panel framework. Child Development, 96(6), 2201–2220.
+  doi: 10.1111/cdev.70028
+  design:
+    family: longitudinal
+    design_detail: 'Dataset 1 (Spinath and Steinmayr 2008), reanalysed: four waves 3 to 4 months apart, June 2002
+      (Grade 2) to May 2003 (Grade 3). Multi-indicator RI-CLPMs and traditional CLPMs, each in an autoregressive
+      and a cross-lagged version, in Mplus 8.501 with MLR and FIML; gender as a time-varying covariate; type = complex
+      with class as cluster. Residual measurement invariance held for both constructs. No assignment of conditions.'
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: random-intercepts-competence-beliefs-intrinsic-motivation-strongly-correlated
+  bearing: supports
+  anchor: paschke-2025
+- claim: concurrent-correlations-competence-beliefs-intrinsic-motivation-substantial
+  bearing: supports
+  anchor: paschke-2025
+- claim: single-significant-cross-lagged-path-competence-beliefs-intrinsic-motivation
+  bearing: supports
+  anchor: paschke-2025
+evidence_base:
+  unit: participants
+  size:
+    value: 664
+    unit: participants
+  additional_sizes:
+  - value: 29
+    unit: classes
+    note: classes, in 13 elementary schools; used as the cluster variable for standard errors, not a unit of assignment
+  - value: 13
+    unit: schools
+    note: elementary schools in North-Rhine Westphalia
+  population:
+    description: German elementary students, 44.7% male, 51.8% female, 3.5% gender not reported; 98% reported being
+      white, 86% German citizenship. The abstract gives 670 students; the Participants section gives 664, which
+      is recorded.
+    age_or_stage: Grade 2 at the first wave, Grade 3 at the fourth
+    age:
+      unit: years
+      mean: 8.81
+      sd: 0.56
+      note: at the first measurement occasion; the abstract rounds the mean to 8.80
+  context:
+    setting: North-Rhine Westphalia, Germany, 2002-2003; about 30-minute test sessions administered by teachers
+      who did not teach the class
+  arms: []
+comparisons:
+- id: within-person
+  kind: none
+  description: Within-person (occasion-deviation) paths in the RI-CLPMs and lagged paths in the CLPMs; no contrast
+    between groups.
+- id: between-person
+  kind: none
+  description: Between-person and concurrent correlations in the whole Dataset 1 sample; no contrast between groups.
+- id: whole-sample-scales
+  kind: none
+  description: Internal consistency and retest reliability of the scales in the whole sample.
+observations:
+- id: iv-carryover-ri-s1-s2
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t S1–t S2 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: June 2002 to October 2002 (adjacent waves, 3 to 4 months apart)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.37
+    standard_error: 0.14
+    p_value: 0.008
+    model: Autoregressive RI-CLPM (no cross-lagged paths), the best-fitting model in Dataset 1 by AIC and BIC; gender
+      as a time-varying covariate. The cross-lagged RI-CLPM gives 0.08 (SE 0.28) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S1–t S2 IV → IV 0.08 0.28 0.785 0.37 0.14 0.008 0.59 0.08 < 0.001 0.81 0.02 < 0.001
+  source_location: Table 5, Dataset 1, RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-s2-s3
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t S2–t S3 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: October 2002 to January 2003 (adjacent waves)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.42
+    standard_error: 0.14
+    p_value: 0.002
+    model: Autoregressive RI-CLPM; the cross-lagged RI-CLPM gives 0.11 (SE 0.68) for this interval.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S2–t S3 IV → IV 0.11 0.68 0.868 0.42 0.14 0.002 0.79 0.10 < 0.001 0.81 0.04 < 0.001
+  source_location: Table 5, Dataset 1, RI-CLPM autoregressive model columns
+- id: iv-carryover-ri-s3-s4
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t S3–t S4 IV → IV
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: standardised path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: January 2003 to May 2003 (adjacent waves)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.59
+    standard_error: 0.1
+    model: Autoregressive RI-CLPM, p < 0.001; the cross-lagged RI-CLPM gives 0.65 (SE 0.26).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S3–t S4 IV → IV 0.65 0.26 0.011 0.59 0.10 < 0.001 0.90 0.10 < 0.001 0.84 0.04 < 0.001
+  source_location: Table 5, Dataset 1, RI-CLPM autoregressive model columns
+- id: cb-to-iv-ri-s1-s2
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: within-person
+  outcome:
+    construct: Intrinsic motivation (intrinsic value) for mathematics, within-person deviation
+    source_language: t S1–t S2 CB → IV
+    measure: Within-person competence beliefs at t S1 predicting within-person intrinsic motivation at t S2
+    scale: standardised cross-lagged path coefficient
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: June 2002 to October 2002
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.41
+    standard_error: 0.19
+    p_value: 0.035
+    model: Cross-lagged RI-CLPM; the only significant cross-path of six in Dataset 1. The CLPM gives 0.26 (SE 0.09,
+      p 0.005) for the same path.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S1–t S2 CB → IV 0.41 0.19 0.035 0.26 0.09 0.005
+  source_location: Table 6, Dataset 1; Results 4.3.3
+- id: random-intercepts-r
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: between-person
+  outcome:
+    construct: Stable between-person parts of competence beliefs and intrinsic motivation
+    source_language: The random intercepts correlated
+    measure: Correlation of the random intercepts of competence beliefs and intrinsic motivation, latent, three
+      items each
+    scale: correlation
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: across the four waves, June 2002 to May 2003
+  result:
+    measure_type: correlation
+    estimate: 0.89
+    model: Autoregressive RI-CLPM, p < 0.001; the cross-lagged RI-CLPM gives r = 0.84.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: 'The random intercepts correlated positively and significantly in all RI‐CLPMs (Dataset 1 cross‐lagged:
+    r = 0.84, p < 0.001; Dataset 1 autoregressive: r = 0.89, p < 0.001; Dataset 2, seven time points cross‐lagged:
+    r = 0.73, p < 0.001; Dataset 2, seven time points autoregressive: r = 0.70, p < 0.001;'
+  source_location: Results 4.1
+- id: concurrent-r-clpm-ar-s1
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: between-person
+  outcome:
+    construct: Competence beliefs with intrinsic motivation, same wave
+    source_language: t S1 CB ↔ IV
+    measure: Concurrent latent correlation of competence beliefs and intrinsic motivation at the first wave
+    scale: correlation
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: June 2002 (t S1), Grade 2
+  result:
+    measure_type: correlation
+    estimate: 0.8
+    standard_error: 0.03
+    model: 'Autoregressive CLPM, p < 0.001. Same row: cross-lagged CLPM 0.74 (SE 0.04); RI-CLPM within-person 0.57
+      (SE 0.14, cross-lagged) and 0.47 (SE 0.15, autoregressive).'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S1 CB ↔ IV 0.57 0.14 < 0.001 0.47 0.15 0.002 0.74 0.04 < 0.001 0.80 0.03 < 0.001
+  source_location: Table 4, Dataset 1, CLPM autoregressive model column
+- id: concurrent-r-clpm-cl-s1
+  sample:
+    value: 664
+    unit: participants
+  comparison_ref: between-person
+  outcome:
+    construct: Competence beliefs with intrinsic motivation, same wave
+    source_language: t S1 CB ↔ IV
+    measure: Concurrent latent correlation of competence beliefs and intrinsic motivation at the first wave
+    scale: correlation
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: June 2002 (t S1), Grade 2
+  result:
+    measure_type: correlation
+    estimate: 0.74
+    standard_error: 0.04
+    model: Cross-lagged CLPM, p < 0.001.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: unreported
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: t S1 CB ↔ IV 0.57 0.14 < 0.001 0.47 0.15 0.002 0.74 0.04 < 0.001 0.80 0.03 < 0.001
+  source_location: Table 4, Dataset 1, CLPM cross-lagged model column
+- id: iv-omega
+  comparison_ref: whole-sample-scales
+  outcome:
+    construct: Intrinsic motivation scale
+    source_language: Internal consistency (McDonald's omega)
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: McDonald's omega
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: each of the four waves
+  result:
+    measure_type: reliability
+    estimate_range:
+      lower: 0.99
+      upper: 1.0
+      over:
+        value: 4
+        unit: sessions
+    reliability:
+      statistic: other
+      over: items
+      form: McDonald's omega
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: A range over the four measurement occasions as printed; no per-wave omega is inferred. An
+    omega of 1.00 for a three-item scale is as the source prints it.
+  source_quote: Internal consistency (McDonald's omega) ranged from ω = 0.99 to ω = 1.00 across the measurement
+    points.
+  source_location: Section 3.1.3.1
+- id: iv-retest
+  comparison_ref: whole-sample-scales
+  outcome:
+    construct: Intrinsic motivation scale
+    source_language: test–retest reliabilities between the adjacent measurement points
+    measure: Three items, how much the child likes mental arithmetic, math problems and doing calculations; 5-point
+      scale, recoded so higher is more intrinsic motivation
+    scale: test-retest correlation (r tt) between adjacent measurement points
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: adjacent waves, 3 to 4 months apart
+  result:
+    measure_type: reliability
+    estimate_range:
+      lower: 0.66
+      upper: 0.85
+      over:
+        value: 3
+        unit: pairs
+    reliability:
+      statistic: other
+      over: occasions
+      form: test-retest correlation (r tt) between adjacent measurement points
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: Three adjacent pairs of the four waves; the source cites Spinath and Steinmayr (2008) for
+    these figures.
+  source_quote: The test–retest reliabilities between the adjacent measurement points ranged from r tt = 0.66 to
+    r tt = 0.85 (see Spinath and Steinmayr 2008 for further details).
+  source_location: Section 3.1.3.1
+- id: cb-omega
+  comparison_ref: whole-sample-scales
+  outcome:
+    construct: Competence beliefs scale
+    source_language: Internal consistency
+    measure: 'Three items: how good at math, how easy to learn new things in math, which group of students in math;
+      5-point scale, recoded so higher is higher competence beliefs'
+    scale: McDonald's omega
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: each of the four waves
+  result:
+    measure_type: reliability
+    estimate: 0.99
+    reliability:
+      statistic: other
+      over: items
+      form: McDonald's omega
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Internal consistency was ω = 0.99 at all measurement points and retest reliabilities ranged from
+    r tt = 0.45 to r tt = 0.87.
+  source_location: Section 3.1.3.2
