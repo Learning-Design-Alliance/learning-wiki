@@ -49,3 +49,5 @@ The review reports, citing Church and Goldin-Meadow, a study classifying childre
 - [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — related
 - [Training on conservation is predicted to benefit only transitional children, confounding training studies](training-benefits-only-transitional-children.md) — related
+- [Children who produce many gesture-speech mismatches (discordant) benefit more from instruction in mathematical equivalence than children who produce few (concordant)](discordant-children-more-receptive-to-instruction.md) — related
+- [Gesture-speech mismatch distinguishes children on the threshold of learning a concept from those who are not](gesture-speech-mismatch-index-of-readiness.md) — possibly the same claim (merge candidate)

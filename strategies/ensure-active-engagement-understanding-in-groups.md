@@ -17,7 +17,7 @@ sources:
 # Ensure students are actively engaged in understanding procedures during group work rather than merely obtaining answers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 From the social-constructivist perspective the article adopts, the issue in group assessment is not limiting collaboration but "ensuring that students are actively engaged in learning how to solve problems rather than copying others' work or being told the procedures to use". Groups should be instructed to make sure everyone understands how to solve problems and to help students having difficulty, as in this study's preparation activities. Students who insisted on understanding procedures succeeded individually; those who used procedures without understanding did not.

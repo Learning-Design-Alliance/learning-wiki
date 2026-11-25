@@ -14,7 +14,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (23 for, 5 mixed) · 26 studies (11 qualitative, 4 associational, 4 theoretical, 3 causal, 2 design, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (24 for, 5 mixed) · 27 studies (11 qualitative, 5 associational, 4 theoretical, 3 causal, 2 design, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 27 report an effect size · 27 claims rest on one study
 
 ## Description
 
@@ -72,6 +72,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [Cascade conceptual change: remapping a readout can set off a connected series of resource changes, as in the truck–car collision activity](../claims/cascade-change-readout-remap-truck-car.md) [+W] — attached 2026-11-22 from Wittmann (2005), which proposed "Four forms of conceptual change described with resource graphs: incremental and cascade as processes, wholesale and dual construction as states".
 - [Students answer sound-wave questions inconsistently, mixing object-like and wave-like reasoning both before and after instruction](../claims/inconsistent-object-and-event-reasoning-sound-waves.md) [+W] — attached 2026-11-22 from Michael C. Wittmann et al. (2002), which proposed "Resources model of student reasoning: thinking built from fine-grained resources combined into object-like and event-like sets".
 - [In the extension study, subjects attended to more situational features than I&V considered and changed answers systematically based on those features](../claims/subjects-attend-more-features-systematic-answer-changes.md) [+W] — attached 2026-11-23 from Andrea A. diSessa et al. (2004), which proposed "Contextuality and specification as refinements of the coherence-versus-fragmentation debate"; tests this page's relationship.
+- [Under dual-task load, discordant children recall words less well than concordant children while both fail the math task, suggesting extra cognitive effort from concurrent hypotheses](../claims/discordant-dual-task-word-recall-cost.md) [+W] — attached 2026-11-25 from Martha Wagner Alibali et al. (1993), which proposed "Concurrent activation of multiple hypotheses characterizes the transitional knowledge state"; tests this page's relationship.
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

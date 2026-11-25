@@ -51,3 +51,4 @@ Hyewon Jang. (2026). Measurement of the effect of member performances on team ou
 - [Member performances explain less than half the variance in team outcomes in two-stage exams](member-performance-explains-less-than-half-team-variance.md) — related
 - [In regression models, the best and mean of member performances significantly affect team outcomes, whereas the standard deviation has a weak effect](regression-best-mean-significant-sd-weak-team-outcomes.md) — related
 - Virtual team size predicts decision-making effectiveness, with social loafing observed even in four-member teams — related
+- [Whether every group member actively participated was the single best predictor of group mean individual test scores, accounting for 53% of variance](everyone-active-predicts-group-mean-individual-scores.md) — related

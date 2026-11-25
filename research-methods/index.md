@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1521 entries** · 0 stable · 1521 in review · 0 drafts
+**1522 entries** · 0 stable · 1522 in review · 0 drafts
 
 ---
 
@@ -607,6 +607,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Genetic nurturing design](genetic-nurturing-design.md) - The genetic nurturing design separates, within genotyped parent–offspring trios, polygenic scores based on alleles parents transmitted to their offspring from scores based on non-transmitted alleles.
 * [Gesture Memory Support Model (GMSM): seven dimensions for characterizing instructional gestures](gesture-memory-support-model-gmsm-seven-dimensions-for-characterizing-instructional-gestur.md) - The GMSM is a preliminary theoretical and operational framework for characterizing instructional gestures in L2 vocabulary learning.
 * [Gesture-level video annotation method for robotic surgical skill assessment](gesture-level-video-annotation-method-for-robotic-surgical-skill-assessment.md) - The article builds on a gesture classification system that \"deconstructs robotic tissue dissection into basic surgical maneuvers,\" involving \"nine dissection gestures (e.g., hook) and four supporting gestures (e.g., retraction).\" Annotators label each gesture's name, duration, and arm, achieving 91.
+* [Gesture–speech match, mismatch, and discordance coding method](gesturespeech-match-mismatch-and-discordance-coding-method.md) - A coding procedure in which verbal and gestural explanations are coded independently (speech from audio only, gesture from video only) according to a lexicon of procedures such as Add All, Add to Equal, Carry, Grouping, Add-Subtract, and Equalizer, then compared per explanation.
 * [GIFT evaluation testbed methodology for experimentally assessing ITS technologies](gift-evaluation-testbed-methodology-for-experimentally-assessing-its-technologies.md) - GIFT's evaluation function serves as a testbed, derived from Hanks et al.
 * [Gilmore's eight catastrophe flags for detecting developmental transitions](gilmores-eight-catastrophe-flags-for-detecting-developmental-transitions.md) - Gilmore's eight criteria (flags) — bimodality, inaccessibility, sudden jumps, hysteresis, divergence, divergence of linear response, anomalous variance and critical slowing down — are empirical criteria for detecting transitions, illustrated for the cusp model with conservation acquisition.
 * [Gold-standard cognitive training intervention design](gold-standard-cognitive-training-intervention-design.md) - Drawing on recent reviews of cognitive training, the article states that \"a gold standard cognitive intervention should (1) employ outcome measures with a clear targeted theoretical construct; (2) minimize potential placebo effects...

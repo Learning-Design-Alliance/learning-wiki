@@ -81,3 +81,4 @@ From the strong girls section: in the one group where boys did not dominate the 
 - [Girls directed more visual attention to instructional content (virtual teacher and screen) while boys distributed attention more broadly including to virtual peer learners.](gender-differences-visual-attention-vr-classroom.md) — related
 - [Classroom observations revealed uneven adherence to training, with repetition and chorus reading still dominating classes](observations-uneven-adherence-chorus-reading.md) — related
 - [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related
+- [Girls declined significantly from pretest rule while boys did not, across all conditions](gender-difference-collaboration-decline.md) — related

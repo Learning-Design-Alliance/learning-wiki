@@ -54,3 +54,5 @@ Interview data from fall 2020 students. One student said lab activities were suc
 - [Without grade incentives, students stopped completing in-class collaborative activities and out-of-class work in flipped and asynchronous online classes](grade-incentives-needed-online-activities.md) — related
 - [Half of surveyed TAs expected to score the same or lower individually than their group score after peer collaboration, motivating a focus on individual accountability](half-tas-expected-lower-individual-score-after-group-work.md) — related
 - [Students do not effectively use self-paced digital tools without grade incentives and support, whether in flipped courses or optional self-study tutorials](student-engagement-needs-incentives-support.md) — related
+- [For students needing help, individual test scores were better when all other group members actively participated](all-others-active-participation-helps-help-needing-students.md) — related
+- [Whether every group member actively participated was the single best predictor of group mean individual test scores, accounting for 53% of variance](everyone-active-predicts-group-mean-individual-scores.md) — related

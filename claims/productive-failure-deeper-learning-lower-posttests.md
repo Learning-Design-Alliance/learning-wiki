@@ -69,3 +69,4 @@ The editorial defines productive failure as one of the most interesting findings
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
 - [Fourth-graders given a choice-based (Select) preparation task outperformed those given a highly open-ended (Generate) task on the posttest in a productive-failure-style collaboration design](select-outperformed-generate-posttest-fourth-grade.md) — related
+- [Mean performance on every problem component was significantly lower on the individual test than in the group setting](individual-scores-lower-than-group-scores-webb-1993.md) — related

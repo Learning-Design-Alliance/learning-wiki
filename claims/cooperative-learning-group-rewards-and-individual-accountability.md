@@ -190,3 +190,5 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [The best member's individual-round performance correlates with team-round outcomes in two-stage physics exams (r = 0.70)](best-member-score-correlates-team-outcome-two-stage.md) — related
 - [Personalized assignments promoted student collaboration and discussion while making mechanical copying much less likely](personalized-assignments-promote-collaboration-reduce-copying.md) — related
 - Virtual team size predicts decision-making effectiveness, with social loafing observed even in four-member teams — related
+- [For students needing help, individual test scores were better when all other group members actively participated](all-others-active-participation-helps-help-needing-students.md) — a narrower finding that bears on this claim
+- [Whether every group member actively participated was the single best predictor of group mean individual test scores, accounting for 53% of variance](everyone-active-predicts-group-mean-individual-scores.md) — related

@@ -50,3 +50,5 @@ Distribution of performance change by ethnic background and ability level (Table
 
 ## Related Claims
 - [Group behavior categories were significantly related to ability level and marginally to ethnic background, but not gender](group-behavior-related-to-ability-ethnicity.md) — related
+- [White and Asian-American students scored higher than Hispanic and African-American students on the individual test, but ethnic background added no variance beyond ability and behavior](ethnic-background-gap-not-over-ability-and-behavior.md) — related
+- [Behavior in the group was related to ability but not to gender, ethnic background, or group composition characteristics](group-behavior-related-to-ability-only.md) — related

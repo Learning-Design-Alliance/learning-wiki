@@ -5,6 +5,30 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · j-drive-10: four image-only papers, by OCR and by the maintainer's transcription
+
+`j-drive-10` read 7 sources: four papers from the maintainer's Drive folder whose PDFs are page images with no
+text layer, and three retries from j-drive-9. The image papers could not be read here: model transcription of
+whole articles was refused, so the text came from elsewhere. Lemaire & Siegler (1995), Webb (1993, *Educational
+Assessment*) and Alibali & Goldin-Meadow (1993) came from Google Docs' own OCR of the maintainer's copies
+(line-end hyphens rejoined before caching). Steinberg & Sabella (1997), where Drive's OCR returned only the cover
+page, came from a transcription the maintainer supplied. As before, no source text or PDF is committed.
+
+Five ingested, 30 pages (27 claims, 2 strategies, 1 research method): Glenberg (1976) on its third try, now
+that `ground_truth.DOI_RE` reads its parenthesised DOI; Tudge (1992), Alibali & Goldin-Meadow, Steinberg &
+Sabella and Webb. No page had two out-of-scope votes. The split votes fell on Glenberg's lag-effect pages, a
+simulator source. Two failed validation and are retried in the next batch: Lemaire & Siegler, where every
+error was an `i3` with no printed effect size (the model's coding, not the text), and Underwood & Keppel (1962),
+where one quotation still fails against text whose two columns OCR interleaves.
+
+The Webb journal article is the published version of the CRESST report ingested in j-drive-8 (no DOI). The
+batch's merge step folded one pair (trying to understand help, into understanding procedures predicts
+individual success). Five more cross-version pairs were sent to the merge judges by hand
+(`judge_claim_merges.py --pairs`), and both judges called all five different findings, so they stay. One is a real
+difference between the versions: the report finds a marginal association between group behaviour and ethnic
+background, and the article none. The ethnicity claim links to `race-and-ethnicity` with the group-difference
+wording.
+
 ## 2026-11-25 · j-drive-9: the cusp literature, and DOIs with parentheses
 
 `j-drive-9` read 21 sources: 16 from the simulator's cusp-literature list (Rickard 2004, Baker, Goldstein &

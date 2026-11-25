@@ -50,3 +50,4 @@ Authors' interpretation drawn from the study's process-coding results: high grou
 - [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](chatgpt-automates-cbl-workbook-effort.md) — related
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Whether students used group resources to try to understand procedures strongly predicted individual-test success](understanding-procedures-predicts-individual-success.md) — a narrower finding that bears on this claim
+- [Students who copied others' work or did not contribute to group discussion obtained high group scores but low individual test scores](copiers-and-noncontributors-low-individual-scores.md) — a narrower finding that bears on this claim

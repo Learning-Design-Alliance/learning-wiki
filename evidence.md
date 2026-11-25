@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **20,291 distinct studies** behind 89,782 claims. What they add up to (the sections below have the detail):
+The wiki holds **20,296 distinct studies** behind 89,809 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 1% are pre-registered trials or well-powered meta-analyses (`q4`). 60% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 4,827 of 20,291 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 4,827 of 20,296 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 2,176 studies are rated `r3`, done well for their kind; 1,490 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 78% of studies, and 51% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -21,21 +21,21 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 89,782 |
-| Evidence entries | 105,955 |
-| Distinct studies | 20,291 |
-| Claims resting on one study | 88,979 (99%) |
+| Claims | 89,809 |
+| Evidence entries | 105,989 |
+| Distinct studies | 20,296 |
+| Claims resting on one study | 89,005 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 4,827 of 20,291 (24%) |
+| Studies reporting an effect size | 4,827 of 20,296 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 180 | 3,432 | 2,679 | 469 | 6,760 |
+| causal | 180 | 3,434 | 2,680 | 469 | 6,763 |
 | quant-synthesis | 218 | 420 | 94 | 139 | 871 |
 | review | 359 | 1,096 | 184 | 160 | 1,799 |
-| associational | 288 | 2,707 | 1,508 | 327 | 4,830 |
+| associational | 288 | 2,707 | 1,510 | 327 | 4,832 |
 | qualitative | 586 | 717 | 123 | 126 | 1,552 |
 | design | 252 | 2,369 | 588 | 79 | 3,288 |
 | theoretical | 293 | 698 | 109 | 90 | 1,190 |
@@ -45,9 +45,9 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 2,093 (10%) | 12,124 (60%) | 5,864 (29%) | 210 (1%) |
+| 2,093 (10%) | 12,126 (60%) | 5,867 (29%) | 210 (1%) |
 
-**Studies per claim:** 0: 3, 1: 88,979, 2: 700, 3: 77, 4 or more: 23.
+**Studies per claim:** 0: 3, 1: 89,005, 2: 701, 3: 77, 4 or more: 23.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -150,14 +150,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 35.5 | 0 |
 | [elements](elements/index.md) | 1,057 | 799 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 39 | 0 |
-| [strategies](strategies/index.md) | 17,685 | 13,036 | 1 | 0 |
+| [strategies](strategies/index.md) | 17,687 | 13,038 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 14 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 925 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 103 | 0 |
 | [designs](designs/index.md) | 5,897 | 3,861 | 1 | 1 |
 | [products](products/index.md) | 5,847 | 4,068 | 1 | 1 |
-| [research-methods](research-methods/index.md) | 1,521 | 1,158 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 1,522 | 1,158 | 1 | 0 |
 
 ## Toward pooled estimates
 
