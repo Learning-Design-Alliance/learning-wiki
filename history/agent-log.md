@@ -5,6 +5,13 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · Fitted estimates: published ones are recorded
+
+The maintainer settled the question the pilot left open. A fitted estimate printed in a published paper is recorded
+in `observations/`, like any other figure the paper reports. A parameter we fitted ourselves stays in the simulator's
+documentation. Koedinger et al.'s (2023) iAFM θ and δ therefore stay in `koedinger-2023`. `observations/SCHEMA.md`
+had said that no source model's fitted parameters are recorded here, and now states the rule as decided.
+
 ## 2026-11-25 · Observation records pilot: ten simulator-cited sources
 
 The pilot for recording the learning-graph simulator's sources in `observations/`, using the new reliability, mean

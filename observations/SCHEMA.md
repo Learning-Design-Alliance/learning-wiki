@@ -323,9 +323,11 @@ names with `arm_ref`. Before this, an observation that rests on no contrast (a S
 and now a mean or a reliability) compiled with nothing saying which configuration it
 described. The compiler version is now 5.
 
-A source model's fitted parameters are **not** recorded here. They belong in the
-simulator's documentation, which cites the source. The wiki records what the source
-measured (maintainer, 2026-11-25).
+**A fitted estimate is recorded when a published paper prints it; one we fitted ourselves
+is not** (maintainer, 2026-11-25). Koedinger et al.'s (2023) iAFM estimates of initial
+accuracy and gain per practice opportunity are the paper's own published figures, so
+`koedinger-2023` records them. A parameter the simulator fitted to a source stays in the
+simulator's documentation, which cites the source.
 
 ---
 
