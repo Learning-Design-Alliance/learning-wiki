@@ -107,3 +107,4 @@ The same homework scores converted to within-class z-scores each week showed "an
 - [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](sbl-post-intervention-gains-20-50-percent.md) — related
 - [Experimental-group students taught with the hybrid CFC-analogy-template approach scored significantly higher than control-group students on the overall posttest (ProKT)](hybrid-approach-improves-introductory-programming-posttest.md) — related
 - [The correlation between TA-assigned scores and template problem-solving scores increased substantially over the term, from r = 0.286 to r = 0.689](ta-grading-template-correlation-increased.md) — related
+- [Second graders' multiplication performance improved substantially in both accuracy and speed across a school year of learning](multiplication-learning-overall-speed-accuracy-gains.md) — related

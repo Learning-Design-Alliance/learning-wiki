@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1522 entries** · 0 stable · 1522 in review · 0 drafts
+**1523 entries** · 0 stable · 1523 in review · 0 drafts
 
 ---
 
@@ -97,6 +97,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations](bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md) - The article operationalizes dialogue through four Bakhtin-inspired themes used both to train teachers and to analyze noticing utterances.
 * [Balanced training-set design for machine coding](balanced-training-set-design-for-machine-coding.md) - Because unbalanced training data produce systematic over- or under-estimation of code prevalence, the article recommends balancing the presence and absence of a code in training data.
 * [Baseline covariate adjustment in education randomized trials](baseline-covariate-adjustment-in-education-randomized-trials.md) - The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses.
+* [Baseline-adjusted, construct-distinct readiness study design](baseline-adjusted-construct-distinct-readiness-study-design.md) - Drawing on Brainerd (1977), the article sets two methodological standards for studies claiming to identify children on the verge of learning: the learning measure \"must take into account the child's level of knowledge before training\", indexing improvement rather than absolute performance, and the m
 * [Bayesian dominance-based framework for comparing ordinal categorical education distributions](bayesian-dominance-based-framework-for-comparing-ordinal-categorical-education-distributio.md) - A Bayesian framework for comparing ordinal categorical education distributions: first order stochastic dominance and a restricted two-category form for education levels; generalized Lorenz dominance, the Cowell–Flachaire and Jenkins indices, and a poverty-style headcount index for inequality.
 * [Bayesian estimation of autoregressive parameters in short single-subject time series](bayesian-estimation-of-autoregressive-parameters-in-short-single-subject-time-series.md) - The authors state a limitation of their classical procedures: single-subject designs are very short time series and this presents a problem in estimating the parameters in the autoregressive process assumed for the errors.
 * [Bayesian Networks for student modelling, assessment, and collaborative learning theory](bayesian-networks-for-student-modelling-assessment-and-collaborative-learning-theory.md) - Bayesian Networks are presented as both a specification language and a computational mechanism with practical value in designing group and learning support systems: they have \"been frequently used to build student models (Millán et al., 2010) and for assessment (Almond et al., 2015)\".

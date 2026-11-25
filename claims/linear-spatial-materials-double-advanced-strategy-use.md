@@ -70,3 +70,4 @@ Accuracy-of-execution analysis in the same experiment: the ANCOVA "revealed a co
 - [Kindergartners practicing addition with linear-spatial materials show greater reduction in absolute error on unpracticed problems than those practicing with irregular arrays](linear-spatial-materials-reduce-addition-absolute-error.md) — related
 - [The strategy advantage of linear-spatial materials is driven specifically by count-on, which children in that condition attempt and execute accurately more often at posttest](linear-spatial-materials-drive-count-on-strategy-gains.md) — a narrower finding that bears on this claim
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
+- [Execution of both repeated addition and retrieval became faster and more accurate over the year](strategy-execution-efficiency-gains-multiplication.md) — related

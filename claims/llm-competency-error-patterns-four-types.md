@@ -115,3 +115,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Single-turn prompts are insufficient for most realistic LLM-assisted data analysis tasks](single-turn-prompts-insufficient-llm-data-analysis.md) — related
 - The dominant bottleneck in LLM logical reasoning is semantic rather than syntactic, with recurring failure modes identified — a broader claim this one bears on
 - Agent failures recur across later tasks: 81.0% of verified failures in a 500-task run are semantically related to at least one later failure — related
+- [The quality of retrieval errors changed over the year: operand errors increased while operation and operand-repetition errors nearly disappeared, and errors shifted toward the multiplication odd-even pattern](retrieval-error-quality-shift-multiplication.md) — related
