@@ -52,3 +52,4 @@ Within-subject ANOVA with rank transformation on competence ratings across three
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [Answer switching during peer disagreement is driven by both one's own confidence and the partner's confidence](confidence-predicts-answer-switching.md) — related
+- [Cognitive state - whether a child's rule is confident or uncertain - moderates the direction of change, with a reasoning-state interaction](cognitive-state-confident-uncertain-moderator.md) — related

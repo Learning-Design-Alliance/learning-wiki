@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1523 entries** · 0 stable · 1523 in review · 0 drafts
+**1524 entries** · 0 stable · 1524 in review · 0 drafts
 
 ---
 
@@ -848,6 +848,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Model of Educational Reconstruction (MER)](model-of-educational-reconstruction-mer.md) - The Model of Educational Reconstruction (MER) is a framework for science education research and development that the Einstein-First project used to structure its three research questions and development cycles.
 * [Model-agnostic framework for evaluating statistical models in physics education research](model-agnostic-framework-for-evaluating-statistical-models-in-physics-education-research.md) - The article presents a flow-diagram framework for building and evaluating statistical models in physics education research, covering raw data description, data encoding and transformation, train/test splitting, comparison of multiple statistical models, out-of-sample performance evaluation, and expl
 * [Model-comparison approach for linear vs non-linear mental-effort relations (Models 0–4)](model-comparison-approach-for-linear-vs-non-linear-mental-effort-relations-models-04.md) - A reusable analytic procedure the article introduces: five competing two-level mixed-effects models (random participant intercepts) ordered by complexity — no relation, linear, quadratic, cubic, and more complex than cubic (mental effort as factor) — compared on marginal R2, AIC and BIC.
+* [Model-preserving averaging functions for nonlinear forgetting models](model-preserving-averaging-functions-for-nonlinear-forgetting-models.md) - For each nonlinear model there is an averaging operation that preserves the model equation when individual data are aggregated: geometric averaging for the power and exponential models, harmonic averaging for the hyperbolic model, and arithmetic averaging for the linear and logarithmic models, as ta
 * [Modes of Collaboration framework](modes-of-collaboration-framework.md) - The Modes of Collaboration framework describes student interactions in group work along three independently assessed dimensions: social (consonant vs.
 * [Modified Delphi consensus methodology for establishing educational standards](modified-delphi-consensus-methodology-for-establishing-educational-standards.md) - The article employs a modified Delphi consensus approach, described as a systematic method that has demonstrated robust reliability in establishing educational standards across surgical specialties through structured expert consultation.
 * [Modified discrimination index algorithm scaled by maximum marks and accommodating negative marking](modified-discrimination-index-algorithm-scaled-by-maximum-marks-and-accommodating-negative.md) - The paper redefines the discrimination index, scaling the top-versus-bottom-27% mark difference by each question's maximum marks so one equation covers MCQs, long-answer and experimental items.

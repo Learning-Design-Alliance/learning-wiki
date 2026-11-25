@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**17687 entries** · 0 stable · 17686 in review · 1 drafts
+**17688 entries** · 0 stable · 17687 in review · 1 drafts
 
 ---
 
@@ -1197,6 +1197,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Autonomy-supportive ESP teaching strategies to foster motivation](autonomy-supportive-esp-teaching-strategies.md) - The article recommends that ESP educators design language programs emphasizing autonomy and create supportive contexts for practice.
 * [Avoid a harder, more optimised AI opponent because it is unlikely to improve educational outcomes](avoid-harder-ai-opponent-strategy.md) - The article advises against adding a more sophisticated AI opponent for new learners.
 * [Avoid asking participants to arrive with 'clean' hair worn down; recommend against references to cleanliness in participant communications](avoid-cleanliness-and-worn-down-hair-requests.md) - The review explains that common pre-visit requests — hair clean and worn down — pose unanticipated burdens for Black and Latinx participants: washing, detangling, and styling can take hours, be uncomfortable or painfu...
+* [Avoid averaging artifacts by using nonarithmetic averaging, individual analysis, or the stochastic parameter approach](avoid-averaging-artifact-nonarithmetic-individual-stochastic.md) - The article presents at least three ways to avoid the power law artifact when fitting nonlinear models to learning or forgetting data: use the model-preserving (nonarithmetic) averaging function matched to the model,...
 * [Avoid basing mathematics assessments and interventions on dot comparison tasks; prefer comparison formats without salient visual cues](avoid-dot-comparison-in-math-assessment-intervention.md) - Because the dot comparison task's correlation with mathematics achievement appears to reflect inhibition demands, the authors conclude that \"efforts to integrate dot comparison tasks into mathematical assessment and i...
 * [Avoid classical-physics framing and the Bohr atom model when introducing quantum concepts such as electron orbits](avoid-bohr-model-and-classical-references-in-qp.md) - Drawing on the reviewed literature (Ireson 1999, Greson 1999) and the study's own questionnaire data, the article recommends that instruction avoid linking quantum concepts to classical physics and skip the Bohr model...
 * [Avoid comforting cues that divert children's attention away from their mistakes](avoid-comforting-cues-diverting-attention-mistakes.md) - Based on the finding that attention to mistakes is a crucial mechanism of post-error recovery, the authors caution that adults' comforting responses to children's errors may backfire.

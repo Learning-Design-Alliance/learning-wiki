@@ -64,3 +64,4 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related
 - [Far fewer girls than boys choose physics at age 16 across all four UK nations](uk-age16-physics-gender-uptake-gap.md) — related
 - [The GIST study concluded that girls' underachievement in science stemmed from choosing not to study science rather than lacking opportunity](gist-choosing-not-opportunity.md) — reports the opposite
+- [In Study 1, boys had lower achievement than girls in all subjects but maths and higher self-concepts in math and biology, while girls had higher self-concepts in German and English](gender-differences-achievement-selfconcept-study1.md) — related

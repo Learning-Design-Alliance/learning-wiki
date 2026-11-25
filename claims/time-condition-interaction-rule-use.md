@@ -47,3 +47,4 @@ Multivariate repeated-measures MANOVA (condition x gender x age group x time) on
 ## Related Claims
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
 - [Intervention outcomes did not depend on grade level: no grade differences and no condition-by-grade interactions](dialect-intervention-outcomes-invariant-across-grades.md) — related
+- [Equal-rule pairs showed no development; children paired with a same-rule partner declined slightly on average](equal-rule-pairs-no-development.md) — related

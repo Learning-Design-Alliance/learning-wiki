@@ -69,3 +69,4 @@ Pairwise comparison within the high prior knowledge group on conceptual understa
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
+- [The number of arguments during interaction was not a significant factor, though children who never argued fared worst](argument-count-not-significant.md) — related

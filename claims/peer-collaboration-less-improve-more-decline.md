@@ -67,3 +67,5 @@ Same t-test analysis on second posttest-pretest differences: the more competent 
 - [Improvement of less competent members and decline of more competent members depended on accepting the partner's reasoning (reasoning accepted x condition interaction)](accepting-partner-reasoning-drives-outcome.md) — related
 - [Effects of pairing with a more or less competent partner did not vary by age: 5-year-olds benefited as much as 8-9-year-olds](age-does-not-moderate-partner-effects.md) — related
 - [Only less competent children with inconsistent rules paired with more competent consistent-rule partners showed the favorable pattern of improvement without partner regression](high-consistent-low-inconsistent-dyads-success.md) — related
+- [Equal-rule pairs showed no development; children paired with a same-rule partner declined slightly on average](equal-rule-pairs-no-development.md) — related
+- [In unequal-rule pairs, lower partners improved almost one rule on average while higher partners declined by almost the same amount](unequal-rule-lower-improve-higher-decline.md) — possibly the same claim (merge candidate)

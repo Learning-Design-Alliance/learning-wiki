@@ -134518,5 +134518,21 @@
  "learner-difference\t4-year accelerated graduate-entry course\tstandard 5-year course": {
   "label": "Four-year accelerated graduate-entry medicine vs five-year standard medicine",
   "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration\tindividual retesting": {
+  "label": "peer collaboration vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer pairs collaboratively discussed balance-beam predictions\tindividual retesting as controls": {
+  "label": "peer collaboration vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer pairs solving beam problems collaboratively\tindividual children retested as controls": {
+  "label": "peer collaboration vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer pairs solving beam-prediction problems\tindividual control children": {
+  "label": "peer collaboration vs individual learning",
+  "treatment_is_a": true
  }
 }

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5847 entries** · 0 stable · 5847 in review · 0 drafts
+**5848 entries** · 0 stable · 5848 in review · 0 drafts
 
 ---
 
@@ -877,6 +877,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Cogmed RM](cogmed-rm.md) - Cogmed RM is a commercial adaptive online working-memory training programme with coach support and reward games, developed and distributed by Cogmed/Pearson.
 * [Cognitive Academic Language Learning Approach (CALLA)](cognitive-academic-language-learning-approach-calla.md) - CALLA is Chamot and colleagues' instructional framework for explicitly teaching academic language-learning and metacognitive strategies through preparation, presentation, practice, evaluation, and expansion.
 * [Cognitive Activity Training (CAT) program](cognitive-activity-training-cat-program.md) - A 10-week hybrid tabletop-game and MentalUp digital cognitive-rehabilitation programme developed by Belhan Çelik et al.
+* [Cognitive effort-discounting (Cog-ED) task](cognitive-effort-discounting-cog-ed-task.md) - A value-based decision-making task developed by Kramer et al.
 * [Cognitive First Aid Rating Scale (CFARs)](cognitive-first-aid-rating-scale-cfars.md) - A validated 10-item assessor-rated scale adapted from Blackburn’s revised Cognitive Rating Scale to evaluate the therapeutic competence of newly trained professionals delivering cognitive-behavioural psychological support.
 * [Cognitive Flexibility Scale](cognitive-flexibility-scale.md) - A 19-item adjective-pair self-report assessment developed by Bilgin to measure individuals' cognitive flexibility.
 * [Cognitive Load Questionnaire (CLQ) by Klepsch et al. (2017)](cognitive-load-questionnaire-clq-by-klepsch-et-al-2017.md) - An eight-item self-report assessment developed by Klepsch and colleagues for measuring learners’ perceived intrinsic, extraneous, and germane cognitive load after a learning task.
