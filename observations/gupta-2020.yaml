@@ -69,6 +69,11 @@ evidence_base:
     description: Non-science major college students at a Research I university in the western United States;
       55 high- and 60 low-prior-knowledge learners retained for analysis
     age_or_stage: college students, mean age 23.25
+    age:
+      unit: years
+      mean: 23.25
+      sd: 6.01
+      note: all 160 participants, before the middle prior-knowledge third was dropped
   context:
     setting: Laboratory-style study; self-paced computer-based learning phase of up to one hour followed
       by a practice booklet
@@ -234,6 +239,9 @@ comparisons:
 - id: correlational
   kind: none
   description: Correlations between CLM and QCM subscales across participants; no contrast between arms.
+- id: posttest-scoring
+  kind: none
+  description: Agreement between the two graduate students who graded the posttest; no contrast between arms.
 observations:
 - id: three-way-posttest
   comparison_ref: three-way-interaction
@@ -571,3 +579,94 @@ observations:
     implementation_detail: observed
     outcome_timing: partial
     effect_size: observed
+# Added 2026-11-25 by hand from the cached article, to test the `mean` and
+# `reliability` result types. The two means were previously recorded only in
+# the `note` of highpk-completion-vs-full-posttest, where nothing could read them.
+- id: highpk-completion-posttest-mean
+  arm_ref:
+  - highpk-easy-completion
+  - highpk-difficult-completion
+  source_quote: In contrast, higher-prior knowledge learners demonstrated higher performance mean in completion-worked
+    examples (M = 11.19, SD = 2.06) than full-worked examples (M = 10.00, SD = 2.78).
+  source_location: Results, prior knowledge and worked example
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: mean
+    estimate: 11.19
+    sd: 2.06
+    unit: posttest points (maximum 25)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: highpk-full-posttest-mean
+  arm_ref:
+  - highpk-easy-full
+  - highpk-difficult-full
+  source_quote: In contrast, higher-prior knowledge learners demonstrated higher performance mean in completion-worked
+    examples (M = 11.19, SD = 2.06) than full-worked examples (M = 10.00, SD = 2.78).
+  source_location: Results, prior knowledge and worked example
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: mean
+    estimate: 10.00
+    sd: 2.78
+    unit: posttest points (maximum 25)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: posttest-interrater-reliability
+  comparison_ref: posttest-scoring
+  source_quote: The test results were graded by two independent graduate students showing an interrater reliability
+    of Cronbach’s Alpha = 0.969.
+  source_location: Method, Instruments, Posttest
+  outcome:
+    construct: scoring consistency
+    source_language: interrater reliability
+    measure: two graduate students' grades for the 10-problem posttest
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: reliability
+    estimate: 0.969
+    reliability:
+      statistic: cronbach_alpha
+      over: raters
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  observability_notes: Alpha computed over two raters' scores, as the source labels it; the pretest's
+    figure (0.993) is a different instrument and is not recorded here.

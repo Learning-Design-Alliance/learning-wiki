@@ -146,6 +146,19 @@ MEASURE_TYPES = {
     # siblings (PND, NAP, IRD) are deliberately NOT added until a record needs
     # one, because a vocabulary value nobody uses goes stale.
     "tau_u",
+    # A property of a MEASURE, not a relationship between configurations: how
+    # consistently an instrument, a coding scheme or a grader scores. Every
+    # grading source the simulator cites reports one, and before this value
+    # they were written into `other` or into prose (`model:`), where nothing
+    # could find them. Requires `result.reliability` naming the statistic and
+    # what it is computed over — see RELIABILITY_STATISTICS.
+    "reliability",
+    # One configuration's mean on a stated scale, with its SD when printed. A
+    # mean is a description of a group, never an effect, so it must name the
+    # arm it describes (`arm_ref`) and the unit it is in (`result.unit`). Two
+    # means side by side are two observations; the difference between them is
+    # a `mean_difference` only where the source reports one.
+    "mean",
 }
 
 # The subset that quantifies a RELATIONSHIP rather than describing a sample.
@@ -162,7 +175,31 @@ EFFECT_MEASURE_TYPES = {
 COUNT_UNITS = {
     "participants", "studies", "reports", "classes", "schools", "sites",
     "effect-sizes", "comparisons", "pairs", "items", "sessions", "other",
+    # Measurement scales, for a figure reported across them: Marsh et al. (2015)
+    # give one alpha range over five self-concept scales.
+    "scales",
 }
+
+# Which reliability or agreement coefficient a `reliability` result is. Only the
+# ones a record or a simulator source needs: ICC, kappa, KR-20 and alpha were
+# named by the grading sources, percent agreement by van Yperen et al. (2014),
+# who print it beside their kappa. Siblings (omega, Krippendorff's alpha,
+# split-half) are added when a record needs one, not before.
+RELIABILITY_STATISTICS = {
+    "icc", "cohens_kappa", "weighted_kappa", "fleiss_kappa", "kr20",
+    "cronbach_alpha", "percent_agreement", "other",
+}
+
+# What the coefficient is computed OVER — the facet whose consistency it
+# measures. An alpha of .85 over items says nothing about agreement between
+# raters, and a kappa between two coders says nothing about the items; a bare
+# "reliability .85" cannot be read without this.
+RELIABILITY_FACETS = {"raters", "items", "occasions", "forms", "other"}
+
+# A structured age is optional and sits BESIDE the population prose, never in
+# place of it: "Grades 7 and 10" or "first-semester engineering students"
+# carries what the numbers cannot.
+AGE_UNITS = {"years", "months"}
 
 DIRECTIONS = {"higher-is-better", "lower-is-better", "contextual"}
 
@@ -312,6 +349,52 @@ def _count(issues, where, value, field, required=False):
     if not isinstance(value.get("value"), (int, float)):
         _err(issues, where, f"{field}.value must be a number")
     _enum(issues, where, value.get("unit"), COUNT_UNITS, f"{field}.unit", required=True)
+
+
+def _validate_age(issues, where, age) -> None:
+    """`population.age`: a mapping of numbers in a stated unit, or the literal
+    `unreported`.
+
+    Absent means nobody looked; `unreported` means somebody read the source and
+    it prints no age figure (van Yperen et al. 2014 code age per sample and print
+    no distribution of it). Only the numbers the source prints are given — a
+    range with no mean stays a range, and a mean is never computed from one."""
+    if age == "unreported":
+        return
+    if not isinstance(age, dict):
+        _err(issues, where, "age must be a mapping {unit, min, max, mean, sd} or the "
+                            f"literal 'unreported' (got {age!r})")
+        return
+    _enum(issues, where, age.get("unit"), AGE_UNITS, "age.unit", required=True)
+    nums = {}
+    for f in ("min", "max", "mean", "median", "sd"):
+        v = age.get(f)
+        if v is None:
+            continue
+        if isinstance(v, bool) or not isinstance(v, (int, float)):
+            _err(issues, where, f"age.{f} must be a number (got {v!r})")
+        else:
+            nums[f] = v
+    if not ({"min", "max", "mean", "median"} & set(nums)):
+        _err(issues, where, "age carries no figure — give at least one of min, max, mean "
+                            "or median, or write `age: unreported`")
+    if "sd" in nums and "mean" not in nums:
+        _err(issues, where, "age.sd without age.mean describes nothing")
+    if nums.get("sd", 0) < 0:
+        _err(issues, where, "age.sd must not be negative")
+    lo, hi = nums.get("min"), nums.get("max")
+    if lo is not None and hi is not None and lo > hi:
+        _err(issues, where, f"age.min {lo} is above age.max {hi}")
+    for f in ("mean", "median"):
+        v = nums.get(f)
+        if v is not None and ((lo is not None and v < lo) or (hi is not None and v > hi)):
+            _err(issues, where, f"age.{f} {v} lies outside age.min..age.max")
+    unknown = set(age) - {"unit", "min", "max", "mean", "median", "sd", "note"}
+    if unknown:
+        _err(issues, where, f"age has unknown field(s) {sorted(unknown)}; allowed: unit, "
+                            "min, max, mean, median, sd, note")
+    if age.get("note") is not None:
+        _str(issues, where, age.get("note"), "age.note")
 
 
 def arms_named(value) -> list:
@@ -630,6 +713,8 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
     for block in ("population", "context"):
         if eb.get(block) is not None and not isinstance(eb[block], dict):
             _err(issues, where, f"{block} must be a mapping")
+    if isinstance(eb.get("population"), dict) and "age" in eb["population"]:
+        _validate_age(issues, f"{where}.population", eb["population"]["age"])
 
     # How the base VARIES. A single sample has one population; a corpus of 23
     # studies has a distribution over populations, and flattening that to a
@@ -774,8 +859,9 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     # which is how a single-group study's one arm gets used. An arm named by an
     # observation's `arm_ref` counts as used too: a SUCRA is a result about
     # that arm even though it contrasts nothing.
-    used |= {o.get("arm_ref") for o in (rec.get("observations") or [])
-             if isinstance(o, dict) and o.get("arm_ref")}
+    for o in rec.get("observations") or []:
+        if isinstance(o, dict):
+            used |= set(arms_named(o.get("arm_ref")))
     for orphan in sorted(arm_ids - used):
         _err(issues, f"{key}.evidence_base.arms",
              f"arm {orphan!r} is named by no comparison — an arm nothing is "
@@ -869,9 +955,20 @@ def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, famil
     if sref is not None and sref not in subject_ids:
         _err(issues, where, f"subject_ref {sref!r} is not an id in evidence_base.subjects "
                             f"({', '.join(sorted(subject_ids)) or 'none declared'})")
-    if aref is not None and aref not in arm_ids:
-        _err(issues, where, f"arm_ref {aref!r} is not an id in evidence_base.arms "
-                            f"({', '.join(sorted(arm_ids)) or 'none'})")
+    # An arm reference may name several arms, exactly as a comparison side may:
+    # Gupta & Zheng print one mean for higher-prior-knowledge learners with
+    # completion examples, pooled over the easy and the difficult cells.
+    if aref is not None and not arms_named(aref):
+        _err(issues, where, f"arm_ref must be an arm id or a list of arm ids (got {aref!r})")
+    for a in arms_named(aref):
+        if a not in arm_ids:
+            _err(issues, where, f"arm_ref {a!r} is not an id in evidence_base.arms "
+                                f"({', '.join(sorted(arm_ids)) or 'none'})")
+    mt = (o.get("result") or {}).get("measure_type") if isinstance(o.get("result"), dict) else None
+    if mt == "mean" and aref is None:
+        _err(issues, where, "a `mean` result describes one configuration and must name it "
+                            "with arm_ref; a difference between two arms is a "
+                            "mean_difference on a comparison")
 
     mods = o.get("moderators") or {}
     if not isinstance(mods, dict):
@@ -966,6 +1063,51 @@ def _validate_result(o, where, family) -> list:
         if r.get("estimate") is not None:
             _err(issues, where, "a qualitative result must not carry an `estimate` — "
                                 "reducing a qualitative finding to a number invents one")
+
+    if mt == "reliability":
+        rel = r.get("reliability")
+        if not isinstance(rel, dict):
+            _err(issues, where, "a reliability result requires result.reliability: "
+                                "{statistic, over} — which coefficient, and computed over "
+                                "raters, items, occasions or forms")
+        else:
+            _enum(issues, where, rel.get("statistic"), RELIABILITY_STATISTICS,
+                  "result.reliability.statistic", required=True)
+            _enum(issues, where, rel.get("over"), RELIABILITY_FACETS,
+                  "result.reliability.over", required=True)
+            # The variant, as the source names it: "ICC(2,1), absolute
+            # agreement", "quadratic weights". Free text, because the
+            # variants are many and only the source's own label is reliable.
+            if rel.get("form") is not None:
+                _str(issues, where, rel.get("form"), "result.reliability.form")
+            lo, hi = (0, 100) if rel.get("statistic") == "percent_agreement" else (-1, 1)
+            vals = [r.get("estimate")]
+            if isinstance(r.get("estimate_range"), dict):
+                vals += [r["estimate_range"].get("lower"), r["estimate_range"].get("upper")]
+            for v in vals:
+                if isinstance(v, (int, float)) and not lo <= v <= hi:
+                    _err(issues, where, f"reliability value {v} lies outside {lo}..{hi} for "
+                                        f"{rel.get('statistic')!r}"
+                                        + (" (percent agreement is written 0-100)"
+                                           if hi == 100 else ""))
+        if r.get("estimate") is None and r.get("estimate_range") is None:
+            _err(issues, where, "a reliability result must carry result.estimate or "
+                                "result.estimate_range")
+    elif r.get("reliability") is not None:
+        _err(issues, where, "result.reliability is only meaningful with measure_type: reliability")
+
+    if mt == "mean":
+        if not isinstance(r.get("estimate"), (int, float)) or isinstance(r.get("estimate"), bool):
+            _err(issues, where, "a mean result must carry result.estimate as a number")
+        # The scale the mean is on. "11.19" is unreadable without "points out of
+        # 25"; a mean with no unit is the bare `n=` problem again.
+        _str(issues, where, r.get("unit"), "result.unit", required=True)
+        sd = r.get("sd")
+        if sd is not None and (isinstance(sd, bool) or not isinstance(sd, (int, float)) or sd < 0):
+            _err(issues, where, f"result.sd must be a non-negative number (got {sd!r})")
+    elif r.get("sd") is not None:
+        _err(issues, where, "result.sd is only meaningful with measure_type: mean; an SD "
+                            "printed beside a contrast belongs in `descriptives`")
 
     for f in ("estimate", "ci_lower", "ci_upper", "standard_error"):
         v = r.get(f)

@@ -1,0 +1,355 @@
+# Van Yperen, Blaga & Postmes (2014): achievement goals and nonself-report
+# performance across work, sports and education.
+#
+# WHAT THIS FILE TESTS, by needing it:
+#
+#   * `measure_type: reliability`. The authors print their own coding
+#     agreement, kappa .58 and 79.5%, the figure that says how far the coded
+#     moderators can be trusted. Before this value it had nowhere to go but
+#     prose. Two observations, because the source prints two statistics.
+#   * `population.age: unreported`. Age was coded per sample (Appendix S3) and
+#     tested as a moderator (Table 7), but the article prints no age range or
+#     mean. Absent would say nobody looked; `unreported` says the source is
+#     silent.
+#   * Corpus strata as arms, with a correlation that rests on no contrast
+#     (`arm_ref`): r for the education domain is a result about one stratum,
+#     not a comparison of two.
+#
+# `k` here counts EFFECT SIZES, not studies: Table 2's note says so, and the
+# corpus is 98 papers, 112 samples and 295 effect sizes. A reader taking k = 72
+# as 72 studies would overstate the evidence for the education estimate.
+
+schema_version: 2
+
+study:
+  key: van-yperen-2014
+  citation: "Van Yperen, N. W., Blaga, M., & Postmes, T. (2014). A meta-analysis of self-reported achievement goals and nonself-report performance across three achievement domains (work, sports, and education). PLoS ONE, 9(4), e93594."
+  doi: "10.1371/journal.pone.0093594"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of correlations between self-reported 2x2 achievement goals
+      (mastery-approach, performance-approach, performance-avoidance,
+      mastery-avoidance) and nonself-report performance. Each goal analysed
+      separately to keep effect sizes independent; categorical moderators
+      (domain, goal measure, nationality, publication status) and simple
+      regressions on age and sex.
+  synthesis:
+    model: "Random-effects model with inverse-variance weights"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycINFO
+        - Web of Science
+    data_handling:
+      - "Two independent coders for effect sizes and moderators; disagreements resolved by discussion before analysis"
+      - "Age approximated where a study did not report it; sex coded missing"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: approach-goals-positive-avoidance-negative-performance
+    bearing: supports
+    anchor: van-yperen-nw-2014
+  - claim: domain-moderates-map-performance
+    bearing: supports
+    anchor: van-yperen-nw-2014
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 295
+    unit: effect-sizes
+  additional_sizes:
+    - value: 98
+      unit: reports
+      note: "papers included"
+    - value: 112
+      unit: other
+      note: "independent samples within the 98 papers"
+    - value: 33983
+      unit: participants
+      note: "total participants across the 112 samples"
+  population:
+    description: >-
+      Samples from work, sports and education. 53.1% women; mostly US or
+      Canadian (59.0%), then European (23.0%), Asian (10.8%) and other
+      nationalities (7.2%).
+    age_or_stage: >-
+      Coded per sample and tested as a continuous moderator (no effect,
+      ps > .10); approximated where a primary study did not report it. The
+      article prints no age range or mean.
+    age: unreported
+  context:
+    setting: "Work, sports and education; performance measured by grades, exams, sales, supervisor ratings and sports results, never by self-report"
+  variation:
+    - dimension: "Achievement domain"
+      distribution: "78 of 98 papers education, 13 sports, 7 work"
+    - dimension: "Achievement goal measure"
+      distribution: "AGQ-3 17 samples, PALS 16, AGQ-4 13, VandeWalle 13, Button et al. 12, AGQ-S 8, Duda & Nicholls 5, Roberts et al. 3, adapted or customised 25"
+  arms:
+    - id: education
+      description: "The education-domain stratum of the corpus: grade point averages, exam scores and teacher-assessed class performance."
+    - id: work
+      description: "The work-domain stratum: sales performance and supervisor-rated job performance."
+    - id: sports
+      description: "The sports-domain stratum."
+
+comparisons:
+  - id: whole-corpus-map
+    kind: none
+    description: "Mastery-approach goals and performance across the whole corpus; no contrast between strata."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the two independent coders on effect-size statistics and moderator codes, across the corpus."
+
+observations:
+
+  - id: map-performance-overall
+    sample:
+      value: 103
+      unit: effect-sizes
+    comparison_ref: whole-corpus-map
+    outcome:
+      construct: "Performance attainment"
+      source_language: "nonself-report performance"
+      measure: "Grades, exam scores, sales, supervisor ratings and sports results as reported by the primary studies"
+      scale: "correlation with mastery-approach goal scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.14
+      ci_lower: 0.12
+      ci_upper: 0.16
+      interval_type: confidence
+      k:
+        value: 103
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 394.47
+        interpretation: "Q_w significant (p < .01), indicating heterogeneity among effect sizes"
+      publication_bias:
+        method: "Rosenberg's fail-safe N, funnel plots, Egger's regression, trim and fill"
+        finding: "Fail-safe N = 16,824 with k = 103 and Egger's p = .62 indicated no bias; trim and fill imputed three effect sizes on the left side"
+      model: "random-effects"
+    moderators:
+      reported:
+        - variable: "Achievement domain"
+          relationship: "Correlation higher in work (r = .27) than in education (r = .13) and sports (r = .17)"
+          source_quote: "The overall positive correlation between MAp goals and performance attainment (see Table 2 ) was qualified by achievement domain, Q b (2) = 9.60, p = .008 (see Table 3 )."
+        - variable: "Nationality"
+          relationship: "Strongest in Asian (r = .21) and other (r = .23) samples, weaker in US/Canadian samples (r = .11)"
+          source_quote: "Correlations between both MAp goals and performance, Q b (3) = 14.41, p = .002 (see Table 3 ) and MAv goals and performance, Q b (2) = 12.26, p = .007 (see Table 6 ) were moderated by nationality."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "As shown in Table 2 , overall positive correlations were found between MAp goals and performance ( r MAp = .14, Z = 11.78, p <.001)"
+    source_location: "Results, General Effects; Table 2"
+
+  - id: map-performance-education
+    sample:
+      value: 72
+      unit: effect-sizes
+    arm_ref: education
+    outcome:
+      construct: "Academic performance"
+      source_language: "performance attainment"
+      measure: "Grade point averages, exam scores and teacher-assessed class performance"
+      scale: "correlation with mastery-approach goal scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.13
+      ci_lower: 0.10
+      ci_upper: 0.15
+      interval_type: confidence
+      k:
+        value: 72
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 77.21
+        interpretation: "Q_w within the education class"
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Domain 9.60** 2 1. Education .13 a .10, .15 72 9.57** 77.21"
+    source_location: "Table 3, Domain rows"
+
+  - id: map-performance-work
+    sample:
+      value: 6
+      unit: effect-sizes
+    arm_ref: work
+    outcome:
+      construct: "Job performance"
+      source_language: "performance attainment"
+      measure: "Sales performance and supervisor-rated job performance"
+      scale: "correlation with mastery-approach goal scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.27
+      ci_lower: 0.18
+      ci_upper: 0.35
+      interval_type: confidence
+      k:
+        value: 6
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 1.50
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "2. Work .27 b .18, .35 6 5.80** 1.50"
+    source_location: "Table 3, Domain rows"
+
+  - id: map-performance-sports
+    sample:
+      value: 13
+      unit: effect-sizes
+    arm_ref: sports
+    outcome:
+      construct: "Sports performance"
+      source_language: "performance attainment"
+      measure: "Sports results as reported by the primary studies"
+      scale: "correlation with mastery-approach goal scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.17
+      ci_lower: 0.10
+      ci_upper: 0.23
+      interval_type: confidence
+      k:
+        value: 13
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 8.75
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "3. Sports .17 ab .10, .23 13 5.10** 8.75"
+    source_location: "Table 3, Domain rows"
+
+  # The reliability of the CODING, not of any instrument in the corpus. It is
+  # what a reader needs to judge the moderator analyses: a domain or nationality
+  # code agreed at kappa .58 before discussion is a moderately reliable code.
+  - id: coder-agreement-kappa
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "rate of agreement between the two independent coders"
+      measure: "Two coders' codes for effect-size statistics and the moderators domain, goal measure, age, sex, nationality and publication status"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.58
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      interpretation: "Described by the authors as 'not very high, but acceptable'"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect and the source reports none for this outcome. The analysed data
+      are the consensus codes, so this figure bounds how far the codes could be
+      trusted before discussion, not after.
+    source_quote: "The overall rate of agreement between the two independent coders with respect to effect size statistics and moderators (domain, AG measure, age, sex, nationality, and publication status) was not very high, but acceptable: 79.5% (Cohen’s k = .58)."
+    source_location: "Methods, Statistical Methods"
+
+  - id: coder-agreement-percent
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "rate of agreement between the two independent coders"
+      measure: "Two coders' codes for effect-size statistics and the moderators domain, goal measure, age, sex, nationality and publication status"
+      scale: "percent of codes agreed"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 79.5
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The overall rate of agreement between the two independent coders with respect to effect size statistics and moderators (domain, AG measure, age, sex, nationality, and publication status) was not very high, but acceptable: 79.5% (Cohen’s k = .58)."
+    source_location: "Methods, Statistical Methods"

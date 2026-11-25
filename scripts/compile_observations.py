@@ -47,7 +47,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import observation_lib as ol
 
 RECORD_KIND = "research_observation"
-COMPILER_VERSION = 4
+COMPILER_VERSION = 5  # 5: about_arms for observations that rest on no contrast
 
 
 def compile_all(directory: Path | None = None) -> tuple[list, list]:
@@ -142,6 +142,13 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                     },
                     "arms": list(arms.values()),
                     "comparison": comp,
+                    # The arm(s) an observation is ABOUT when it rests on no
+                    # contrast — a SUCRA, a reliability coefficient, one group's
+                    # mean. Before this the compiled row said nothing of which
+                    # configuration it described, and a consumer had to go back
+                    # to the YAML. Always a list, like the comparison sides.
+                    "about_arms": [arms[a] for a in ol.arms_named(o.get("arm_ref"))
+                                   if a in arms],
                     # The analysed sample for THIS result, which is routinely
                     # not the study's: a comprehension ANOVA on 62 of 67
                     # randomised, or a pooled estimate over 9 of 23 studies.
@@ -210,8 +217,11 @@ def explain(records: list, observation_id: str) -> int:
               f"{'  analysis: ' + prov['analysis_ref'] if prov.get('analysis_ref') else ''}")
     else:
         print("    source not recorded")
-    idx_arms = cfg["comparison"].get("index_arms") or []
-    block("WHAT WAS DONE", "" if idx_arms else "(no index arm — see the comparison below)")
+    idx_arms = cfg["comparison"].get("index_arms") or cfg.get("about_arms") or []
+    if cfg.get("about_arms"):
+        block("WHAT WAS DONE", "(a result about one configuration, resting on no contrast)")
+    else:
+        block("WHAT WAS DONE", "" if idx_arms else "(no index arm — see the comparison below)")
     for idx in idx_arms:
         if len(idx_arms) > 1:
             print(f"    [{idx.get('id')}] {idx.get('description')}")
@@ -252,12 +262,22 @@ def explain(records: list, observation_id: str) -> int:
     for f in ("age_or_stage", "prior_knowledge", "language_background"):
         if (ebase.get("population") or {}).get(f):
             print(f"    {f}: {ebase['population'][f]}")
+    age = (ebase.get("population") or {}).get("age")
+    if age == "unreported":
+        print("    age: unreported (the source prints no age figure)")
+    elif isinstance(age, dict):
+        parts = [f"{k} {age[k]}" for k in ("min", "max", "mean", "median", "sd") if k in age]
+        print(f"    age ({age.get('unit')}): {', '.join(parts)}"
+              + (f" — {age['note']}" if age.get("note") else ""))
     for v in ebase.get("variation") or []:
         print(f"    varies by {v.get('dimension')}: {v.get('distribution')}")
 
     refs = cfg["comparison"].get("reference_arms") or []
-    block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] "
-                           f"{cfg['comparison'].get('description')}")
+    if cfg.get("about_arms") and not cfg["comparison"].get("kind"):
+        block("COMPARED WITH", "nothing: a result about the configuration above, not a contrast")
+    else:
+        block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] "
+                               f"{cfg['comparison'].get('description')}")
     if cfg["comparison"].get("contrast"):
         ct = cfg["comparison"]["contrast"]
         coeffs = ", ".join(f"{k}={v}" for k, v in (ct.get("coefficients") or {}).items())
@@ -286,7 +306,12 @@ def explain(records: list, observation_id: str) -> int:
                                   f"{over.get('unit')} — no pooled estimate reported")
     else:
         block("WITH WHAT RESULT", f"{res.get('measure_type')} = {res.get('estimate')} "
-                                  f"{res.get('unit') or ''}".strip())
+                                  f"{res.get('unit') or ''}".strip()
+                                  + (f", SD {res['sd']}" if res.get("sd") is not None else ""))
+    if res.get("reliability"):
+        rl = res["reliability"]
+        print(f"    reliability: {rl.get('statistic')} over {rl.get('over')}"
+              + (f" ({rl['form']})" if rl.get("form") else ""))
     for f in ("standard_error", "ci_lower", "ci_upper", "p_value", "statistic",
               "model", "finding", "interpretation", "descriptives", "note"):
         if res.get(f) is not None:

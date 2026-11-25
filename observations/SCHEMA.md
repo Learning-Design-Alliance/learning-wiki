@@ -273,6 +273,60 @@ Martinengo et al. pool **9** studies for knowledge, **3** for clinical behaviour
 change and **2** for surgical skills, out of a corpus of **23**. A `k` on the
 study would be wrong for every observation in it.
 
+### Reliability, single-group means and structured ages
+
+Added 2026-11-25. The sources the learning-graph simulator cites were checked
+against this schema, and three kinds of figure had nowhere to go. Each addition was
+tested on a real record before it was added: `van-yperen-2014`, `marsh-2015-study1`
+and `gupta-2020`. All three are optional, and the schema stays at version 2.
+
+- **`measure_type: reliability`** records how consistently an instrument, a coding
+  scheme or a grader scores. It is a property of a measure, not a relationship
+  between configurations.
+  - `result.reliability.statistic` says which coefficient.
+  - `result.reliability.over` says what it is computed over. An alpha over items
+    says nothing about agreement between raters.
+  - The variant goes in `form`, in the source's own words ("ICC(2,1), absolute
+    agreement").
+  - It is not an effect, so it is not one of the measure types that
+    `effect_size: unreported` is checked against.
+
+  How the three test records use it:
+  - Van Yperen et al. print their coders' agreement as kappa .58 and as 79.5%.
+    That is two observations.
+  - Marsh et al. give only a range over five scales (".79 < α < .85").
+    `estimate_range` holds it without inventing a midpoint.
+  - Gupta & Zheng label two raters' agreement "Cronbach's Alpha = 0.969". It is
+    recorded as `cronbach_alpha` over `raters`, because that is what the source
+    computed.
+- **`measure_type: mean`** is one configuration's mean on a stated scale, with its
+  SD when printed.
+  - The observation must name its group with `arm_ref`, which may now be a list.
+    Gupta & Zheng print one mean for higher-prior-knowledge learners with
+    completion examples, pooled over the easy and the difficult cells.
+  - `result.unit` is required, for the same reason every count carries one.
+  - Two means side by side are two observations. A `mean_difference` is recorded
+    only where the source reports one.
+  - `result.sd` is refused on every other measure type. An SD printed beside a
+    contrast belongs in `descriptives`.
+- **`population.age`** holds the age figures a source prints (`min`, `max`,
+  `mean`, `median`, `sd`), in `years` or `months`. It sits beside the population
+  prose, which stays.
+  - Marsh et al. print the range, the mean and the SD. Their Study 2 prints only a
+    mean.
+  - `age: unreported` is the explicit state for a source that prints no age
+    figure. Van Yperen et al. code age per sample and test it as a moderator, but
+    the article gives no distribution.
+
+The compiled record now carries `configuration.about_arms`: the arms an observation
+names with `arm_ref`. Before this, an observation that rests on no contrast (a SUCRA,
+and now a mean or a reliability) compiled with nothing saying which configuration it
+described. The compiler version is now 5.
+
+A source model's fitted parameters are **not** recorded here. They belong in the
+simulator's documentation, which cites the source. The wiki records what the source
+measured (maintainer, 2026-11-25).
+
 ---
 
 ## The four epistemic states
@@ -406,11 +460,16 @@ appears_in:                  # OPTIONAL; each entry validated when present
 evidence_base:               # required — what the results are ABOUT
   unit:                      # required — participants | studies | reports | classes
                              # | schools | sites | effect-sizes | comparisons
-                             # | pairs | items | sessions | other
+                             # | pairs | items | sessions | scales | other
   size: {value, unit}        # required; unit must agree with `unit` above
   additional_sizes:          # every other count worth keeping
     - {value, unit, note}    # note required — say what this counts
   population: | context:     # open-world mappings, as v1
+    age: {unit, min, max, mean, median, sd, note}   # OPTIONAL, beside the prose,
+                             # never instead of it. unit: years | months.
+                             # Only the figures the source prints; at least one
+                             # of min/max/mean/median. Or the literal `unreported`
+                             # when somebody read the source and it prints none.
   variation:                 # how the base VARIES — a corpus has a distribution
     - {dimension, distribution}   # over populations, not one population
   arms:
@@ -477,6 +536,11 @@ observations:                # required, non-empty
       certainty: {rating, framework}
       # measure_type: qualitative additionally takes finding (required),
       # perspective, collection_method — and MUST NOT carry `estimate`
+      # measure_type: reliability REQUIRES reliability: {statistic, over, form}
+      #   (statistic and over required) and an estimate or estimate_range;
+      #   kappas, alphas and ICCs lie in -1..1, percent_agreement in 0..100
+      # measure_type: mean REQUIRES estimate and unit, takes sd, and the
+      #   observation must name its group with arm_ref (one arm or a list)
     moderators:
       reported: [{variable, relationship, source_quote}]   # all three required
       candidate: [...]       # plausible explanations; never promoted
@@ -513,8 +577,11 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 | field | values |
 |---|---|
 | `study.design.family` | `randomized-controlled-trial` `cluster-randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
-| `result.measure_type` | `tau_u` `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
-| count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `other` |
+| `result.measure_type` | `tau_u` `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `reliability` `mean` `other` |
+| `result.reliability.statistic` | `icc` `cohens_kappa` `weighted_kappa` `fleiss_kappa` `kr20` `cronbach_alpha` `percent_agreement` `other` |
+| `result.reliability.over` | `raters` `items` `occasions` `forms` `other` |
+| `population.age.unit` | `years` `months` |
+| count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `scales` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |
 | `observability.*` | `observed` `partial` `unreported` |
 | `heterogeneity.statistic` | `I2` `tau2` `Q` `H` `other` |

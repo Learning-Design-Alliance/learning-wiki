@@ -161,5 +161,5 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 ## Toward pooled estimates
 
-A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **28 study records**: 2 report a standardised mean difference directly and 6 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
+A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **30 study records**: 2 report a standardised mean difference directly and 7 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
 

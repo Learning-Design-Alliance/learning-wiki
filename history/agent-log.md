@@ -5,6 +5,37 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-25 · Observation schema: reliability, single-group means and structured ages
+
+Checking the sources the learning-graph simulator cites against `observations/`, three kinds of figure had nowhere
+to go. Grading sources report reliability and agreement, several sources report one group's mean, and ages were
+held only in prose. All three additions are optional and the schema stays at version 2:
+
+- `measure_type: reliability`, with `result.reliability: {statistic, over, form}`. The statistics are ICC, the
+  kappas, KR-20, alpha, percent agreement and `other`; `over` is raters, items, occasions, forms or `other`.
+- `measure_type: mean`, which requires `result.unit`, takes an `sd`, and names its group with `arm_ref`. `arm_ref`
+  may now be a list.
+- `population.age: {unit, min, max, mean, median, sd, note}`, beside the population prose, or the literal
+  `unreported`.
+
+Each addition was tested on a real record:
+
+- Van Yperen et al. (2014), new: coder kappa .58 and 79.5% agreement, `age: unreported`, and four
+  mastery-approach correlations, whose `k` counts effect sizes.
+- Marsh et al. (2015) Study 1, new: an alpha range of .79–.85 over five scales, and an age range of 12–18
+  (M 14.24, SD 1.6).
+- Gupta & Zheng (2020): two posttest means that had been kept only in a note, a posttest interrater alpha of .969,
+  and a mean age of 23.25 (SD 6.01).
+
+Twenty-one mutations of the new fields each fail validation.
+
+Bao & Redish (2006) was not used. Its only means are Table 2's model-density matrices, and the manuscript's text
+layer prints those with reversed digits and an unclear model order.
+
+The compiler (version 5) now emits `configuration.about_arms`. Until now an observation resting on no contrast
+compiled without naming its arm. A source model's fitted parameters stay in the simulator's documentation, not here
+(maintainer).
+
 ## 2026-11-25 · j-sim-15: four more simulator-cited sources
 
 Seven sources the learning-graph simulator cites were queued, with Fang et al. (2018) retried after its failed
