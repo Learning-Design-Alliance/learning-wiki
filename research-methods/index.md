@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1531 entries** · 0 stable · 1531 in review · 0 drafts
+**1532 entries** · 0 stable · 1532 in review · 0 drafts
 
 ---
 
@@ -728,6 +728,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Joint display analysis](joint-display-analysis.md) - The article defines joint display analysis, following Fetters and Guetterman (2021), as \"an iterative process in which researchers use the joint display structure to identify connections between qualitative and quantitative constructs and generate meta-inferences\" based on the fit of the two data ty
 * [Joint GLMM model for IRT estimation with collateral information](joint-glmm-model-for-irt-estimation-with-collateral-information.md) - The article applies a multivariate joint model under the generalized linear mixed models framework that \"simultaneously models binary item response and continuous RT response on test items that nested within person\" (Klein Entink, Fox, & van der Linden, 2009).
 * [Joint modeling of English proficiency growth and reclassification timing (SREM)](joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem.md) - Because the joint model outperformed the conventional approach, the article supports designing EL policy analytics that estimate proficiency growth and reclassification timing together rather than separately.
+* [Joint reporting and interpretation of prior-knowledge correlations with posttest and gain scores](joint-reporting-and-interpretation-of-prior-knowledge-correlations-with-posttest-and-gain.md) - The article argues that the correlation rP with posttest knowledge and the correlations rG (rAG, rNG) with knowledge gains are non-redundant and carry different meanings, so researchers should ensure that \"these correlations should always be reported and interpreted together.\" Reporting only rP invi
 * [Joint RT-and-accuracy diffusion modeling of trial-level learning trajectories](joint-rt-and-accuracy-diffusion-modeling-of-trial-level-learning-trajectories.md) - The article recommends analyzing learning with by-trial evidence-accumulation models fit to the joint distributions of response time and accuracy, rather than aggregating across sessions or relying on accuracy alone.
 * [Jonassen-informed prompt-variation framework with MAPS-based evaluation for probing LRM physics reasoning](jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph.md) - The article adapts Jonassen's problem-classification framework to generative-AI problem solving along two dimensions: \"prompt-specificity, or how much information is explicitly given versus left for the model to infer, and modality, or whether the problem is presented through text alone or with visu
 * [Jorion et al.'s three-generic-claims framework for concept-inventory validity](jorion-et-als-three-generic-claims-framework-for-concept-inventory-validity.md) - A validation framework for concept inventories, attributed to Jorion and colleagues, that the authors follow to evaluate the CLCI.
