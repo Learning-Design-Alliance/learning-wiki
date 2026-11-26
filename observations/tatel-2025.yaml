@@ -1,0 +1,530 @@
+# Tatel & Ackerman (2025): procedural skill retention and decay, a
+# meta-analysis of 1,344 effect sizes from 457 reports.
+#
+# Read from the APA author manuscript (140 pp., "not the copy of record");
+# volume, issue and pages from Crossref. The manuscript has NO tables: Tables
+# 1-7 are referred to but not included, so every figure below is from the
+# text. The intercepts of the meta-regressions (Tables 2-4) and the predicted
+# d by interval (Table 5) are therefore not recorded.
+#
+# Two estimands, kept apart on purpose:
+#
+#   * The DECAY SLOPES are the meta-regression coefficient of retention
+#     interval (months) on the d between final acquisition and retention,
+#     fitted LINEARLY (a quadratic fitted accuracy better but was rejected as
+#     U-shaped). Negative = decline.
+#   * The HALF-GAIN TIMES (6.5, 13 and 11 months) are the authors' own
+#     derived estimates: predicted retention d from those linear models,
+#     subtracted from the pooled acquisition d. They are recorded as printed
+#     ("approximately", "about"); nothing is recomputed here.
+#
+# The speed slope's interval is printed across a line break and the text
+# layer drops its second minus sign ("[-0.11, 0.02]"); the PDF page (p. 35)
+# reads "[-0.11, -0.02]", which is what is recorded. Its source_quote is the
+# abstract sentence, which the text layer reproduces cleanly.
+#
+# Age: samples were adults by inclusion ("ages 17 and up"); sample age was
+# coded but is reported only in the Supplemental Materials, which were not
+# read, so `age: unreported`.
+
+schema_version: 2
+
+study:
+  key: tatel-2025
+  citation: "Tatel, C. E., & Ackerman, P. L. (2025). Procedural skill retention and decay: A meta-analytic review. Psychological Bulletin, 151(6), 696–736."
+  doi: "10.1037/bul0000481"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of studies measuring a procedural skill with a significant
+      non-verbal motor component at least twice, separated by a retention
+      interval of at least 24 hours of non-use or intermittent use. Effect
+      sizes are within-sample Cohen's d between performance occasions,
+      computed with the independent-samples formula. Random-effects
+      meta-regressions of the final-acquisition-to-retention d on retention
+      interval (months), run separately for accuracy, speed and mixed
+      performance measures, with moderators entered as interaction terms.
+    preregistration:
+      status: not-preregistered
+      source_quote: "This work was not preregistered."
+  synthesis:
+    model: "Random-effects meta-regression (REML, metafor) with robust variance estimation for dependent effect sizes"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - Scopus
+        - Google Scholar
+        - Web of Science Core Collection
+        - PubMed
+        - PsycINFO
+        - ProQuest
+        - National Technical Reports Library (NTIS)
+      date_range: "Published up to October 2022"
+      records_screened: 20379
+      records_included: 457
+    inclusion:
+      - "Non-clinical adult samples (ages 17 and up)"
+      - "A task requiring a behavioural output with a significant non-verbal motor component"
+      - "At least two objective performance measurements separated by a retention interval of at least 24 hours of non-use or intermittent use"
+      - "Continuous performance measures at acquisition and retention with central tendency and variation statistics"
+      - "Published in English"
+    exclusion:
+      - "Observational learning only during acquisition"
+      - "A performance-affecting treatment (e.g. sleep deprivation, alcohol) with no control group"
+    data_handling:
+      - "Analyses use the 1,273 effect sizes from 425 reports computed with the independent-samples d formula; t- and author-reported d analysed separately (Supplemental Materials)"
+      - "Two retention-interval outliers (60 and 120 months) removed from meta-regressions, leaving 1,268 effect sizes"
+      - "Effect sizes on the same task within a measure category averaged; dependence handled by robust variance estimation"
+      - "Most study variables coded by a single coder; task characteristics coded independently by both authors"
+      - "Publication bias examined by publication type and PET-PEESE (Supplemental Materials)"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: procedural-skill-decay-rate-per-month
+    bearing: supports
+    anchor: tatel-2025
+  - claim: half-acquisition-gains-lost-months
+    bearing: supports
+    anchor: tatel-2025
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 1344
+    unit: effect-sizes
+  additional_sizes:
+    - value: 457
+      unit: reports
+      note: "reports included"
+    - value: 1273
+      unit: effect-sizes
+      note: "effect sizes computed with the independent-samples formula, from 425 reports: the set analysed"
+    - value: 1268
+      unit: effect-sizes
+      note: "effect sizes in the meta-regressions after removing the two retention-interval outliers"
+    - value: 496
+      unit: other
+      note: "distinct retention intervals across the 425 reports"
+  population:
+    description: >-
+      Non-clinical adult samples learning procedural skills with motor
+      components. 70% of tasks real-world (medical/dental procedures 40% of
+      effect sizes, sports 17%, military/transportation 7%, miscellaneous 6%)
+      and 30% laboratory/artificial.
+    age_or_stage: "Adults by inclusion ('ages 17 and up'); sample age coded but reported only in the Supplemental Materials."
+    age: unreported
+  context:
+    setting: "Training studies of procedural skills (e.g. CPR, laparoscopic surgery, sports skills, marksmanship) followed by a retention interval of non-use or intermittent use"
+  variation:
+    - dimension: "Performance measure"
+      distribution: "Accuracy 65%, speed 21%, mixed 14% of effect sizes"
+    - dimension: "Retention interval"
+      distribution: "Positively skewed: 44% under one week, 28% two days or fewer; 47 intervals longer than six months, 14 longer than one year; longest analysed 24 months"
+  arms:
+    - id: initial-acquisition
+      description: "Performance at the start of skill acquisition (training)."
+    - id: final-acquisition
+      description: "Performance at the end of skill acquisition (training)."
+    - id: retention-test
+      description: "Performance after a retention interval of at least 24 hours of non-use or intermittent use of the skill."
+
+comparisons:
+  - id: retention-vs-final-acquisition
+    kind: within-subject-baseline
+    index_arm: retention-test
+    reference_arm: final-acquisition
+    description: "The same learners' performance at retention against their performance at the end of acquisition; negative d is decline."
+  - id: final-vs-initial-acquisition
+    kind: within-subject-baseline
+    index_arm: final-acquisition
+    reference_arm: initial-acquisition
+    description: "The same learners' performance at the end of acquisition against the start; the acquisition gain."
+  - id: retention-loss-as-share-of-acquisition-gain
+    kind: other
+    index_arm: retention-test
+    reference_arm: initial-acquisition
+    description: >-
+      Predicted retention d from the linear decay meta-regression subtracted
+      from the pooled acquisition d, read as the share of the acquisition gain
+      lost after a given interval.
+  - id: effect-size-coding
+    kind: none
+    description: "Agreement between two authors coding the same sample of effect sizes; no contrast between configurations."
+
+observations:
+
+  - id: decay-slope-accuracy
+    sample:
+      value: 824
+      unit: effect-sizes
+    comparison_ref: retention-vs-final-acquisition
+    outcome:
+      construct: "Procedural skill performance, accuracy-based measures"
+      source_language: "accuracy-based performance measures"
+      measure: "Accuracy-based performance on the trained procedural task, as reported by the primary studies"
+      scale: "meta-regression slope: change in Cohen's d (retention minus final acquisition) per month of retention interval"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention intervals from 24 hours to 24 months after final acquisition"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.08
+      ci_lower: -0.10
+      ci_upper: -0.05
+      interval_type: confidence
+      unit: "SD units per month"
+      k:
+        value: 824
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 3820.34
+        interpretation: "Residual heterogeneity after retention interval, p < 0.01"
+      model: "Linear random-effects meta-regression with robust variance estimation, 311 reports"
+    moderators:
+      reported:
+        - variable: "Task type (laboratory/artificial vs real-world)"
+          relationship: "Shallower decline for real-world tasks than for laboratory tasks (interaction 0.11, p < 0.01)"
+          source_quote: "The slope of the regression line between retention interval and effect size was shallower (i.e., the relationship was weaker) for real-world tasks than for laboratory/artificial tasks, which indicates that performance on laboratory tasks declined faster over time than performance on real-world tasks did (ß Accuracy = 0.11, p < 0.01, ß Speed = 0.07, ns)."
+        - variable: "Component complexity"
+          relationship: "Shallower decline for higher component complexity (interaction 0.03, p < 0.05)"
+          source_quote: "Component complexity was a statistically significant moderator of the relationship between retention interval and effect size for accuracy-based and mixed performance measures (ß Accuracy = 0.03, p < 0.05; ß Mixed = 0.07, p < 0.05)."
+        - variable: "Intervening performance opportunities during the retention interval"
+          relationship: "Shallower decline when the skill was performed during the interval (interaction 0.07, p < 0.05)"
+          source_quote: "Performance opportunities during the retention interval was a statistically significant moderator of the relationship between retention interval and effect size for accuracy-based performance measures (ß Accuracy = 0.07, p < 0.05)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      A linear model was retained although a quadratic fitted the accuracy data
+      better, because the quadratic was U-shaped. The intercept is in Table 2,
+      which the manuscript does not contain. d was computed with the
+      independent-samples formula on repeated measures of the same learners.
+    source_quote: "strengthen by 0.08 per month of intermittent or non-use (ß = -0.08 [-0.10, -0.05]) for accuracy"
+    source_location: "Results, RQ 1, pp. 34-35"
+
+  - id: decay-slope-speed
+    sample:
+      value: 266
+      unit: effect-sizes
+    comparison_ref: retention-vs-final-acquisition
+    outcome:
+      construct: "Procedural skill performance, speed-based measures"
+      source_language: "speed-based performance measures"
+      measure: "Speed-based performance on the trained procedural task, as reported by the primary studies"
+      scale: "meta-regression slope: change in Cohen's d (retention minus final acquisition) per month of retention interval"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention intervals from 24 hours to 24 months after final acquisition"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.06
+      ci_lower: -0.11
+      ci_upper: -0.02
+      interval_type: confidence
+      unit: "SD units per month"
+      k:
+        value: 266
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 898.41
+        interpretation: "Residual heterogeneity after retention interval, p < 0.01"
+      model: "Linear random-effects meta-regression with robust variance estimation, 115 reports"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The interval is read from the PDF page (p. 35), where it is printed
+      across a line break as "[-0.11, -" / "0.02]"; the text layer drops the
+      second minus sign. Intercept in Table 3, not in the manuscript.
+    source_quote: "Results indicated that mean differences in SD units grew stronger by 0.08/month for accuracy-based performance measures and 0.06/month for speed-based and mixed performance measures."
+    source_location: "Abstract; Results, RQ 1, p. 35"
+
+  - id: decay-slope-mixed
+    sample:
+      value: 178
+      unit: effect-sizes
+    comparison_ref: retention-vs-final-acquisition
+    outcome:
+      construct: "Procedural skill performance, mixed speed-and-accuracy measures"
+      source_language: "mixed performance measures"
+      measure: "Performance measures combining speed and accuracy, as reported by the primary studies"
+      scale: "meta-regression slope: change in Cohen's d (retention minus final acquisition) per month of retention interval"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention intervals from 24 hours to 24 months after final acquisition"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.06
+      ci_lower: -0.10
+      ci_upper: -0.02
+      interval_type: confidence
+      unit: "SD units per month"
+      k:
+        value: 178
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 1045.03
+        interpretation: "Residual heterogeneity after retention interval, p < 0.01"
+      model: "Linear random-effects meta-regression with robust variance estimation, 89 reports"
+    moderators:
+      reported:
+        - variable: "Component complexity"
+          relationship: "Shallower decline for higher component complexity (interaction 0.07, p < 0.05)"
+          source_quote: "Component complexity was a statistically significant moderator of the relationship between retention interval and effect size for accuracy-based and mixed performance measures (ß Accuracy = 0.03, p < 0.05; ß Mixed = 0.07, p < 0.05)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "ß Mixed = -0.06 [-0.10, -0.02]"
+    source_location: "Results, RQ 1, p. 35"
+
+  - id: acquisition-gain-accuracy
+    sample:
+      value: 561
+      unit: effect-sizes
+    comparison_ref: final-vs-initial-acquisition
+    outcome:
+      construct: "Procedural skill acquisition gain, accuracy-based measures"
+      source_language: "skill acquisition effect size for accuracy-based performance measures"
+      measure: "Accuracy-based performance at initial vs final acquisition"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of skill acquisition"
+    result:
+      measure_type: cohens_d
+      estimate: 1.49
+      ci_lower: 1.39
+      ci_upper: 1.58
+      interval_type: confidence
+      k:
+        value: 561
+        unit: effect-sizes
+      model: "random-effects (REML, robust variance estimation)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The text gives 793 effect sizes in the acquisition meta-analysis but its
+      three category counts (561, 188, 114) sum to 863; the discrepancy is the
+      article's and is not resolved here. Speed d = 1.88 [1.68, 2.09] and
+      mixed d = 2.48 [2.19, 2.77] are in the same sentence of the source.
+    source_quote: "The metaanalytic estimate for the skill acquisition effect size for accuracy-based performance measures was d = 1.49 [1.39, 1.58]"
+    source_location: "Results, Research Question 2, p. 36"
+
+  - id: half-gain-lost-accuracy
+    comparison_ref: retention-loss-as-share-of-acquisition-gain
+    outcome:
+      construct: "Retention of the acquisition gain, accuracy-based measures"
+      source_language: "half of initial skill acquisition gains to be lost"
+      measure: "Retention interval at which predicted decay d equals half the pooled acquisition d"
+      scale: "months of intermittent or non-use"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "derived across retention intervals up to 24 months"
+    result:
+      measure_type: other
+      estimate: 6.5
+      unit: "months"
+      model: >-
+        Derived by the authors: predicted retention d from the linear accuracy
+        meta-regression subtracted from the pooled acquisition d (1.49). The
+        same derivation puts the loss of all the gain at approximately 16
+        months.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed as "about 6.5 months" (abstract: "approximately"). It is the time
+      for the linear model's mean loss to reach half the acquisition gain, not
+      the half-life of a fitted exponential or hyperbolic curve. No interval is
+      printed.
+    source_quote: "For accuracy-based performance measures, one can expect half of initial skill acquisition gains to be lost after about 6.5 months of intermittent or non-use and all of initial skill acquisition gains to be lost just after approximately 16 months of intermittent or non-use."
+    source_location: "Results, Research Question 2, p. 36; Abstract"
+
+  - id: half-gain-lost-speed
+    comparison_ref: retention-loss-as-share-of-acquisition-gain
+    outcome:
+      construct: "Retention of the acquisition gain, speed-based measures"
+      source_language: "half of initial skill acquisition gains to be lost"
+      measure: "Retention interval at which predicted decay d equals half the pooled acquisition d"
+      scale: "months of intermittent or non-use"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "derived across retention intervals up to 24 months"
+    result:
+      measure_type: other
+      estimate: 13
+      unit: "months"
+      model: "Derived by the authors from the linear speed meta-regression and the pooled speed acquisition d (1.88). The authors decline to estimate the loss of the whole gain for speed, as it would project beyond the data."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Printed as 'about 13 months'; no interval."
+    source_quote: "For speed-based performance measures, one can expect half of initial skill acquisition gains to be lost after about 13 months of intermittent or non-use."
+    source_location: "Results, Research Question 2, p. 36"
+
+  - id: half-gain-lost-mixed
+    comparison_ref: retention-loss-as-share-of-acquisition-gain
+    outcome:
+      construct: "Retention of the acquisition gain, mixed speed-and-accuracy measures"
+      source_language: "half of initial skill acquisition gains to be lost"
+      measure: "Retention interval at which predicted decay d equals half the pooled acquisition d"
+      scale: "months of intermittent or non-use"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "derived across retention intervals up to 24 months"
+    result:
+      measure_type: other
+      estimate: 11
+      unit: "months"
+      model: "Derived by the authors from the linear mixed-measure meta-regression and the pooled mixed acquisition d (2.48)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Printed as 'about 11 months'; no interval."
+    source_quote: "For mixed performance measures, one can expect half of initial skill acquisition gains to be lost after about 11 months of intermittent or non-use."
+    source_location: "Results, Research Question 2, p. 36"
+
+  - id: effect-size-coding-correlation
+    sample:
+      value: 61
+      unit: effect-sizes
+    comparison_ref: effect-size-coding
+    outcome:
+      construct: "Inter-coder reliability of effect-size coding"
+      source_language: "The correlation between effect sizes coded"
+      measure: "Effect sizes coded independently by two study authors on a sample of 61 effect sizes"
+      scale: "correlation between the two coders' effect sizes"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 0.99
+      reliability:
+        statistic: other
+        over: raters
+        form: "correlation between effect sizes coded by two study authors"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Reliability of the meta-analysts' effect-size coding, not of any primary
+      study's instrument. Most other study variables were coded by one coder,
+      so no agreement applies to them.
+    source_quote: "A sample of 61 effect sizes were coded by two study authors to obtain interrater reliability estimates. The correlation between effect sizes coded was 0.99 and the exact agreement between the two coders was 95%."
+    source_location: "Method, Interrater Agreement and Reliability, p. 25"
+
+  - id: effect-size-coding-agreement
+    sample:
+      value: 61
+      unit: effect-sizes
+    comparison_ref: effect-size-coding
+    outcome:
+      construct: "Inter-coder agreement on effect-size coding"
+      source_language: "the exact agreement between the two coders"
+      measure: "Effect sizes coded independently by two study authors on a sample of 61 effect sizes"
+      scale: "percent exact agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 95
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "A sample of 61 effect sizes were coded by two study authors to obtain interrater reliability estimates. The correlation between effect sizes coded was 0.99 and the exact agreement between the two coders was 95%."
+    source_location: "Method, Interrater Agreement and Reliability, p. 25"
+
+not_yet_extracted:
+  - "Pooled acquisition d for speed (1.88 [1.68, 2.09]) and mixed (2.48 [2.19, 2.77]) measures (Results, RQ 2)"
+  - "Interrater agreement on task characteristics: 59% open vs closed-loop, 96% dexterity, 91% gross body coordination, 89% precision/steadiness, 79% component, 83% coordinative and 90% dynamic complexity (Method)"
+  - "Intercepts of the three decay meta-regressions (Tables 2-4) and predicted d by three-month interval (Table 5): tables not in the manuscript"
+  - "Months to a full SD of decline: 10 (accuracy), 14 (speed), 7 (mixed), from Table 5 predictions (Results, RQ 1)"
+  - "Further moderator interactions: real-world task categories, open vs closed loop, ability demands, instructions, study quality (Results, RQ 3-4; Table 7 not in the manuscript)"
+  - "Replication of Arthur et al. (1998) on studies to 1998 (Supplemental Materials)"
