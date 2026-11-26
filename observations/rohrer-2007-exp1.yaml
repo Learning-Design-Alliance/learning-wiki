@@ -1,0 +1,388 @@
+# Rohrer & Taylor (2007), Experiment 1: spaced against massed practice, and
+# heavy against light massed practice, of one permutation procedure.
+#
+# Read from the publisher PDF (Instructional Science, pp. 481-498). The text
+# layer is clean for every figure used here except the ANOVA's effect size,
+# which it renders as "g2p = 0.11"; the page image (p. 489) prints a partial
+# eta squared, and the source_quote of `omnibus-test-anova` is taken from the
+# page image with that sign written as "ηp²".
+#
+# What the record holds and what it does not:
+#
+#   * Three single-group means with their printed SEs (`measure_type: mean`,
+#     `standard_error`). The article prints SEs, never SDs; no SD is derived.
+#   * Per-group n is not printed. 66 completed all three sessions and 60 were
+#     analysed, F(2, 57); no split of the 60 is stated or recorded here.
+#   * No pairwise effect size is printed. The pairwise Holm-Sidak results are
+#     recorded with `effect_size: unreported` and the percentages in
+#     `descriptives`.
+#   * Age: `unreported`. The article says only "undergraduates".
+#   * No reliability: a five-problem test scored right or wrong, and the
+#     article prints no reliability or scorer agreement.
+#   * Assignment: the Procedure says only that each student "was assigned to
+#     the group"; the base-rate section says pre-experimental knowledge would
+#     not confound the experiment "because of random assignment", which is the
+#     basis for the design family below.
+
+schema_version: 2
+
+study:
+  key: rohrer-2007-exp1
+  citation: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. Instructional Science, 35(6), 481–498."
+  doi: "10.1007/s11251-007-9015-8"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Laboratory experiment, three groups between participants (Spacers,
+      Massers, Light Massers), three sessions a week apart. After a 3-minute
+      tutorial, each practice set was two worked examples (45 s each, then a
+      15-s projected solution) and two practice problems (45 s each, no
+      feedback). Spacers did set 1 in session 1 and set 2 in session 2;
+      Massers did both sets in session 1; Light Massers did set 1 only. Each
+      group was tested one week after its last practice problem (Massers and
+      Light Massers in session 2, Spacers in session 3); all groups had to
+      attend all three sessions. Analyses kept only students who answered at
+      least one of the first two practice problems correctly.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: spaced-practice-improves-retention
+    bearing: supports
+    anchor: rohrer-taylor-2007
+  - claim: extra-massed-math-practice-no-test-benefit
+    bearing: supports
+    anchor: rohrer-taylor-2007
+
+evidence_base:
+  unit: participants
+  size:
+    value: 60
+    unit: participants
+  additional_sizes:
+    - value: 66
+      unit: participants
+      note: "completed all three sessions; 6 excluded for answering neither of the first two practice problems correctly"
+    - value: 14
+      unit: participants
+      note: "completed the first session but failed to attend the second or third; not analysed"
+    - value: 50
+      unit: participants
+      note: "separate base-rate survey sample from the same participant pool (43 women), none of whom took part in either experiment; none solved any of three practice problems in 3 minutes"
+  population:
+    description: >-
+      Undergraduates at the University of South Florida (51 women among the
+      66 who completed all sessions). The task, counting the permutations of
+      a letter sequence with a repeated letter, was unknown to the pool by
+      the base-rate survey.
+    age_or_stage: "Undergraduates; the article prints no age figures."
+    age: unreported
+  context:
+    setting: "Laboratory sessions with a projected tutorial and printed test booklets; three sessions spaced one week apart"
+  arms:
+    - id: spacers
+      description: "Two practice sets (each two worked examples and two practice problems) split across sessions 1 and 2, a week apart; tested one week after the last practice problem."
+      dose:
+        amount: 4
+        unit: practice problems
+        detail: "Plus four worked examples with projected solutions, two before each pair of problems"
+    - id: massers
+      description: "Both practice sets in session 1, directly after the tutorial; tested one week later, in session 2; a filler task in session 3."
+      dose:
+        amount: 4
+        unit: practice problems
+        detail: "Plus four worked examples with projected solutions"
+    - id: light-massers
+      description: "The first practice set only, in session 1; tested one week later, in session 2; a filler task in session 3."
+      dose:
+        amount: 2
+        unit: practice problems
+        detail: "Plus two worked examples with projected solutions"
+
+comparisons:
+  - id: spacers-vs-massers
+    kind: between-groups
+    index_arm: spacers
+    reference_arm: massers
+    description: "The same four practice problems spaced across two sessions a week apart against massed in one session; retention interval equal at one week."
+  - id: massers-vs-light-massers
+    kind: between-groups
+    index_arm: massers
+    reference_arm: light-massers
+    description: "Four massed practice problems against two (the overlearning comparison)."
+  - id: three-groups
+    kind: other
+    index_arm: spacers
+    reference_arm:
+      - massers
+      - light-massers
+    description: "Omnibus one-way ANOVA across the three groups; the source reports one F and one partial eta squared for all three."
+
+observations:
+
+  - id: test-spacers-vs-massers
+    sample:
+      value: 60
+      unit: participants
+    comparison_ref: spacers-vs-massers
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "test accuracy"
+      measure: "Five novel permutation problems on one sheet, 225 s in all, no feedback; same problems and order for all"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "each group's last practice problem"
+    result:
+      measure_type: other
+      statistic: "Holm-Sidak comparison following F(2, 57) = 3.59"
+      p_value: "< 0.05"
+      descriptives:
+        spacers: "74% (SE = 8%)"
+        massers: "49% (SE = 10%)"
+      interpretation: "Spacers outscored Massers; no pairwise effect size printed"
+    moderators:
+      reported: []
+      candidate:
+        - "Age: the authors caution that the effect might be muted or absent with much younger students"
+        - "Transfer: the test used problems exactly like those practised"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Per-group n is not printed, and no pairwise effect size or interval is
+      given; the omnibus partial eta squared is a separate observation.
+    source_quote: "Spacers outscored both the Massers (p < 0.05) and the Light Massers (p < 0.05), but the Massers and the Light Massers did not differ reliably (p = 0.8)."
+    source_location: "Results and discussion, Test performance, p. 489"
+
+  - id: test-massers-vs-light-massers
+    sample:
+      value: 60
+      unit: participants
+    comparison_ref: massers-vs-light-massers
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "test accuracy"
+      measure: "Five novel permutation problems on one sheet, 225 s in all, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "each group's last practice problem"
+    result:
+      measure_type: other
+      statistic: "Holm-Sidak comparison following F(2, 57) = 3.59"
+      p_value: "0.8"
+      descriptives:
+        massers: "49% (SE = 10%)"
+        light-massers: "46% (SE = 7%)"
+      interpretation: "No reliable difference: a null effect of overlearning, which the authors argue is not a ceiling effect because Spacers scored far higher"
+    moderators:
+      reported: []
+      candidate:
+        - "Amount of extra practice: the authors allow that a tenfold rather than twofold difference might boost scores"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Spacers outscored both the Massers (p < 0.05) and the Light Massers (p < 0.05), but the Massers and the Light Massers did not differ reliably (p = 0.8)."
+    source_location: "Results and discussion, Test performance, p. 489"
+
+  - id: omnibus-test-anova
+    sample:
+      value: 60
+      unit: participants
+    comparison_ref: three-groups
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "test accuracy"
+      measure: "Five novel permutation problems, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "each group's last practice problem"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.11
+      statistic: "F(2, 57) = 3.59"
+      p_value: "< 0.05"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote taken from the page image of p. 489: the text layer renders the
+      partial eta squared sign as "g2p".
+    source_quote: "An analysis of variance revealed a reliable difference between the groups, F (2, 57) = 3.59, p < 0.05, ηp² = 0.11."
+    source_location: "Results and discussion, Test performance, p. 489"
+
+  - id: test-mean-spacers
+    arm_ref: spacers
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "mean test accuracy"
+      measure: "Five novel permutation problems, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "last practice problem"
+    result:
+      measure_type: mean
+      estimate: 74
+      unit: "percent correct"
+      standard_error: 8
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The group's n is not printed; the SE is as printed and no SD is derived from it."
+    source_quote: "the Spacers’ mean test accuracy of 74% (SE = 8%) exceeded both the Massers’ average of 49% (SE = 10%) and the Light Massers’ average of 46% (SE = 7%)."
+    source_location: "Results and discussion, Test performance, p. 489; Fig. 2b"
+
+  - id: test-mean-massers
+    arm_ref: massers
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "average test accuracy"
+      measure: "Five novel permutation problems, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "last practice problem"
+    result:
+      measure_type: mean
+      estimate: 49
+      unit: "percent correct"
+      standard_error: 10
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The group's n is not printed; the SE is as printed and no SD is derived from it."
+    source_quote: "the Spacers’ mean test accuracy of 74% (SE = 8%) exceeded both the Massers’ average of 49% (SE = 10%) and the Light Massers’ average of 46% (SE = 7%)."
+    source_location: "Results and discussion, Test performance, p. 489; Fig. 2b"
+
+  - id: test-mean-light-massers
+    arm_ref: light-massers
+    outcome:
+      construct: "Solving new problems with a learned mathematics procedure"
+      source_language: "average test accuracy"
+      measure: "Five novel permutation problems, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the last practice problem"
+      offset:
+        value: 1
+        unit: weeks
+        from: "last practice problem"
+    result:
+      measure_type: mean
+      estimate: 46
+      unit: "percent correct"
+      standard_error: 7
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The group's n is not printed; the SE is as printed and no SD is derived from it."
+    source_quote: "the Spacers’ mean test accuracy of 74% (SE = 8%) exceeded both the Massers’ average of 49% (SE = 10%) and the Light Massers’ average of 46% (SE = 7%)."
+    source_location: "Results and discussion, Test performance, p. 489; Fig. 2b"
+
+  - id: practice-set2-spacers-vs-massers
+    comparison_ref: spacers-vs-massers
+    outcome:
+      construct: "Accuracy during practice"
+      source_language: "second practice set mean accuracy"
+      measure: "The two practice problems of the second set (after two worked examples)"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second practice set: session 1 for Massers, session 2 (one week later) for Spacers"
+    result:
+      measure_type: other
+      statistic: "t < 1"
+      descriptives:
+        spacers: "83% (SE = 6%)"
+        massers: "82% (SE = 7%)"
+      interpretation: "A one-week delay did not impair second-set practice accuracy; the authors attribute this to the worked examples that began each set"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Yet despite the delay imposed upon the Spacers, their second practice set mean accuracy of 83% (SE = 6%) was about equal to the Massers’ average of 82% (SE = 7%), t < 1."
+    source_location: "Results and discussion, Practice performance, p. 489"
+
+not_yet_extracted:
+  - "First-set practice accuracy across all groups, 95% (SE = 2%), with no reliable group differences (p > 0.05): one figure for the whole sample before the groups diverged."
+  - "Three Massers who did not attend the third session scored lower on average than the Massers who did; no figure printed."

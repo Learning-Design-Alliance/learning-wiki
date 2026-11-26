@@ -1,0 +1,288 @@
+# Rohrer & Taylor (2007), Experiment 2: mixed (interleaved) against blocked
+# practice of four volume formulas, with practice spread over two sessions in
+# both groups.
+#
+# Read from the publisher PDF (Instructional Science, pp. 481-498); the text
+# layer is clean for every figure recorded here.
+#
+# What the record holds and what it does not:
+#
+#   * Two single-group test means with their printed SEs (`measure_type:
+#     mean`, `standard_error`). The article prints SEs, never SDs.
+#   * The test contrast is printed as t(14) although 18 students were
+#     analysed ("every student was included in all further analyses") and the
+#     practice contrasts are t(16). The df is recorded as printed; nothing is
+#     corrected or inferred from it. Per-group n is not printed.
+#   * Age: `unreported`. The article says only "undergraduates".
+#   * No reliability: an eight-problem test scored right or wrong, with no
+#     reliability or scorer agreement printed.
+#   * Within each session the mixed schedule also put more problems between
+#     two of the same kind than the blocked one did. The article does not
+#     discuss this; it is a candidate moderator only.
+
+schema_version: 2
+
+study:
+  key: rohrer-2007-exp2
+  citation: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. Instructional Science, 35(6), 481–498."
+  doi: "10.1007/s11251-007-9015-8"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Laboratory experiment, two groups between participants, each student
+      randomly assigned to Mixers or Blockers at the start of session 1.
+      Sessions 1 and 2 (a week apart) were practice sessions, each with four
+      tutorials (45 s each) and 16 practice problems (40 s each, followed by a
+      10-s projected solution); session 3, a week after session 2, was the
+      test. Both groups saw the same tutorials and problems in each session;
+      only the order differed.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: interleaving-improves-discrimination
+    bearing: supports
+    anchor: rohrer-taylor-2007
+
+evidence_base:
+  unit: participants
+  size:
+    value: 18
+    unit: participants
+  additional_sizes:
+    - value: 15
+      unit: participants
+      note: "completed the first session but failed to attend the second or third; not analysed"
+    - value: 25
+      unit: participants
+      note: "separate base-rate survey sample from the same pool (14 women), none of whom took part in either experiment; none solved any of the eight test problems in 8 minutes"
+  population:
+    description: >-
+      Undergraduates at the University of South Florida (13 women of 18),
+      none of whom took part in Experiment 1. The four volume formulas were
+      unknown to the pool by the base-rate survey.
+    age_or_stage: "Undergraduates; the article prints no age figures."
+    age: unreported
+  context:
+    setting: "Laboratory sessions with printed booklets and projected solutions; three sessions spaced one week apart"
+  arms:
+    - id: mixers
+      description: "All four tutorials first, then the 16 practice problems in random order, constrained so each run of four held one problem per solid (wedge, spheroid, spherical cone, half cone); in each of two sessions."
+      dose:
+        amount: 32
+        unit: practice problems
+        detail: "16 per session over two sessions a week apart, each followed by a 10-s solution; no problem repeated across sessions"
+    - id: blockers
+      description: "Each tutorial followed immediately by the four problems for that solid; in each of two sessions."
+      dose:
+        amount: 32
+        unit: practice problems
+        detail: "Same tutorials and problems as the Mixers, in blocked order"
+
+comparisons:
+  - id: mixed-vs-blocked
+    kind: between-groups
+    index_arm: mixers
+    reference_arm: blockers
+    description: "Mixed against blocked order of the same practice problems, both spread over two sessions a week apart."
+
+observations:
+
+  - id: test-mixed-vs-blocked
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: mixed-vs-blocked
+    outcome:
+      construct: "Choosing and applying the right procedure on new problems"
+      source_language: "mean test performance"
+      measure: "Eight novel problems, two per solid, in random order (same order for all), 8 minutes, no feedback; formula written in a box and volume in an oval"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the second practice session"
+      offset:
+        value: 1
+        unit: weeks
+        from: "the second practice session (last practice problem)"
+    result:
+      measure_type: cohens_d
+      estimate: 1.34
+      statistic: "t(14) = 2.64"
+      p_value: "< 0.05"
+      descriptives:
+        mixers: "63% (SE = 12%)"
+        blockers: "20% (SE = 9%)"
+      interpretation: "Mixers higher; d printed unsigned"
+    moderators:
+      reported: []
+      candidate:
+        - "Spacing within session: same-kind problems were further apart under mixing"
+        - "Similarity of the problem kinds (the authors' account is discrimination between superficially similar problems)"
+        - "Age: the authors caution that effects might be muted or absent with much younger students"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The test t is printed with 14 df against 18 analysed students and 16 df
+      for the practice contrasts; recorded as printed. No interval and no
+      per-group n are printed.
+    source_quote: "By contrast, the mean test performance of Mixers (63%, SE = 12%) was far greater than that of the Blockers (20%, SE = 9%), t(14) = 2.64, p < 0.05, d = 1.34, as shown in Fig. 4c."
+    source_location: "Results and discussion, Test performance, p. 492"
+
+  - id: test-mean-mixers
+    arm_ref: mixers
+    outcome:
+      construct: "Choosing and applying the right procedure on new problems"
+      source_language: "mean test performance"
+      measure: "Eight novel problems, two per solid, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the second practice session"
+      offset:
+        value: 1
+        unit: weeks
+        from: "the second practice session"
+    result:
+      measure_type: mean
+      estimate: 63
+      unit: "percent correct"
+      standard_error: 12
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The group's n is not printed; the SE is as printed and no SD is derived from it."
+    source_quote: "By contrast, the mean test performance of Mixers (63%, SE = 12%) was far greater than that of the Blockers (20%, SE = 9%)"
+    source_location: "Results and discussion, Test performance, p. 492; Fig. 4c"
+
+  - id: test-mean-blockers
+    arm_ref: blockers
+    outcome:
+      construct: "Choosing and applying the right procedure on new problems"
+      source_language: "mean test performance"
+      measure: "Eight novel problems, two per solid, no feedback"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week after the second practice session"
+      offset:
+        value: 1
+        unit: weeks
+        from: "the second practice session"
+    result:
+      measure_type: mean
+      estimate: 20
+      unit: "percent correct"
+      standard_error: 9
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The group's n is not printed; the SE is as printed and no SD is derived from it."
+    source_quote: "By contrast, the mean test performance of Mixers (63%, SE = 12%) was far greater than that of the Blockers (20%, SE = 9%)"
+    source_location: "Results and discussion, Test performance, p. 492; Fig. 4c"
+
+  - id: practice-mixed-vs-blocked
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: mixed-vs-blocked
+    outcome:
+      construct: "Accuracy during practice"
+      source_language: "Practice session performance"
+      measure: "The 32 practice problems, averaged across the two practice sessions"
+      scale: "percentage correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the two practice sessions, averaged"
+    result:
+      measure_type: cohens_d
+      estimate: 1.06
+      statistic: "t(16) = 3.14"
+      p_value: "< 0.01"
+      descriptives:
+        blockers: "89% (SE = 4%)"
+        mixers: "60% (SE = 7%)"
+        session-1: "87% vs. 43% (Blockers vs. Mixers), t(16) = 3.88, p < 0.01"
+        session-2: "91% vs. 78% (Blockers vs. Mixers), t(16) = 1.58, p > 0.05"
+      interpretation: "Blockers higher during practice; d printed unsigned"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The session-1 contrast is printed with d = 0.53 beside t(16) = 3.88,
+      which is smaller than the averaged d of 1.06 beside a smaller t; that d
+      is left unrecorded rather than guessed at.
+    source_quote: "Practice session performance was impeded by mixture (Fig. 4b), as the Blockers’ average of 89% (SE = 4%) statistically exceeded the Mixers’ average of 60% (SE = 7%), t (16) = 3.14, p < 0.01,d = 1.06."
+    source_location: "Results and discussion, Practice performance, p. 492"
+
+  - id: strategy-by-phase-interaction
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: mixed-vs-blocked
+    outcome:
+      construct: "Reversal between practice and test accuracy"
+      source_language: "interaction between practice strategy (mixed vs. blocked) and experiment phase (practice vs. test)"
+      measure: "Practice accuracy against test accuracy, two-way ANOVA"
+      scale: "percentage correct"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice sessions against the test one week later"
+    result:
+      measure_type: other
+      statistic: "F(1, 16) = 35.08"
+      p_value: "< 0.001"
+      interpretation: "Mixing lowered practice accuracy and raised test accuracy; no effect size printed for the interaction"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Thus, mixed practice produced superior test performance and inferior practice performance (compared to blocked practice), as evidenced by a statistically significant interaction between practice strategy (mixed vs. blocked) and experiment phase (practice vs. test), F (1, 16) = 35.08, p < 0.001."
+    source_location: "Results and discussion, Test performance, p. 492"
+
+not_yet_extracted:
+  - "Correct formula with a wrong answer occurred on only two test problems across all students (one Mixer, one Blocker); the authors read the Blockers' errors as wrong formula choice. A count without a denominator per group, not encoded."
