@@ -1,0 +1,619 @@
+# Pan & Rickard (2018): transfer of test-enhanced learning, a meta-analysis.
+#
+# Read from the APA author manuscript (text layer; 48 pp. of text plus tables).
+# Volume, issue and pages are from Crossref. The manuscript gives the corpus as
+# N = 10,396; the version of record's abstract may differ, and this file records
+# the manuscript's figure only.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled transfer estimate (d = 0.40) and the six category-level
+#     estimates from Table 2. The categories are kinds of TRANSFER TEST, so they
+#     are recorded as different outcomes of the one testing-vs-reexposure
+#     contrast, not as different arms.
+#   * The two intercepts that answer "how much transfer with no enhancing
+#     moderator": the random-effects final model (d = 0.21) and the PEESE model
+#     adjusted for publication bias (d = 0.015). They are the paper's own fitted
+#     estimates and differ by an order of magnitude, which is the finding.
+#   * `measure_type: reliability` for the coding of the two moderators the final
+#     model retains (response congruency, kappa .82; elaborated retrieval
+#     practice, kappa .92). The effect sizes themselves carry no printed
+#     extraction agreement.
+#   * `population.age: unreported`. The article says nearly all samples were
+#     university students and gives an age range (50-66) only for the two
+#     studies of older adults; no figure describes the corpus.
+#
+# `k` counts EFFECT SIZES throughout (192 from 122 experiments in 67 papers).
+# Standard errors come from robust variance estimation with small-sample
+# adjusted df, printed beside each estimate in Table 2.
+
+schema_version: 2
+
+study:
+  key: pan-2018
+  citation: "Pan, S. C., & Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. Psychological Bulletin, 144(7), 710–756."
+  doi: "10.1037/bul0000151"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of transfer effect sizes (Cohen's d) comparing practice
+      testing with a non-testing reexposure control (e.g., restudy) on a final
+      test that differs from the practice test. Hierarchical random-effects
+      model with two random effects (study, and experiment within study) and
+      robust variance estimation; single and simultaneous moderator fits over
+      seven candidate moderators; PET-PEESE and Vevea-Woods weight-function
+      sensitivity analyses for publication bias; category-level meta-analyses
+      for six transfer categories. Included experiments used between- or
+      within-subjects designs.
+  synthesis:
+    model: "Hierarchical random-effects meta-analysis with robust variance estimation (Stata robumeta, hierarchical weights)"
+    heterogeneity_statistic: "tau2 (between papers) and omega2 (experiments within paper)"
+    search:
+      databases:
+        - PsycINFO
+        - ProQuest Dissertations and Theses
+      date_range: "1963 to 2016 in the database records; included studies dated 1975 to 2016"
+      records_screened:
+        value: 280
+        unit: reports
+      records_included:
+        value: 67
+        unit: reports
+    data_handling:
+      - "Two raters screened PsycINFO titles (Cohen's kappa .81) and abstracts (kappa .83); the first author screened full texts and dissertations"
+      - "Candidate moderators coded by the authors, with a second coding by a trained research assistant (all published articles for five moderators, a random 25% of effect sizes for the other two); discrepancies resolved by discussion"
+      - "Initial test performance missing for 30% of effect sizes; analyses involving it use the 135 effect sizes with that data"
+      - "Ancestral searches and requests to 52 researchers for unpublished studies"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: testing-yields-transfer-versus-reexposure-control-d-040
+    bearing: supports
+    anchor: steven-c-pan-and-timothy-c-rickard-2018
+  - claim: retrieval-practice-improves-transfer
+    bearing: supports
+    anchor: pan-rickard-2018
+  - claim: transfer-greatest-test-formats-application-inference-medical-mediator-cues
+    bearing: supports
+    anchor: steven-c-pan-and-timothy-c-rickard-2018
+  - claim: transfer-weakest-rearranged-untested-materials-worked-examples
+    bearing: supports
+    anchor: steven-c-pan-and-timothy-c-rickard-2018
+  - claim: publication-bias-reduces-intercept-no-transfer-without-moderators
+    bearing: supports
+    anchor: steven-c-pan-and-timothy-c-rickard-2018
+  - claim: moderators-congruency-elaborated-retrieval-initial-test-performance
+    bearing: supports
+    anchor: steven-c-pan-and-timothy-c-rickard-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 192
+    unit: effect-sizes
+  additional_sizes:
+    - value: 122
+      unit: other
+      note: "experiments contributing the 192 effect sizes"
+    - value: 67
+      unit: reports
+      note: "studies (papers): 53 published and 14 unpublished by the end of the search"
+    - value: 10396
+      unit: participants
+      note: "total N across the corpus, as printed in the manuscript's abstract"
+  population:
+    description: >-
+      Nearly all samples recruited from young adult (university student)
+      populations; exceptions were 3 studies with elementary school children,
+      2 with high school students and 2 with older adults. All studies but one
+      written in English.
+    age_or_stage: >-
+      Mostly young adults (university students); the two older-adult studies
+      are described as 50-66 years. No age figure is printed for the corpus.
+    age: unreported
+  context:
+    setting: "Laboratory and some classroom and medical-training studies of practice testing, 1975-2016"
+  variation:
+    - dimension: "Transfer category"
+      distribution: "Test format 56 effect sizes, application and inference questions 41, stimulus-response rearrangement 33, mediator and related word cues 27, problem-solving skills 18, untested materials seen during initial study 17"
+    - dimension: "Initial test performance reported"
+      distribution: "135 of 192 effect sizes"
+  arms:
+    - id: practice-testing
+      description: "Training on studied materials by testing (retrieval practice), with or without correct-answer feedback, followed by a final test that differs from the practice test."
+      elements:
+        - term: "practice testing"
+    - id: nontesting-reexposure
+      description: "Non-testing reexposure control during training (e.g., restudy), with the same number of item repetitions as the testing condition."
+
+comparisons:
+  - id: testing-vs-reexposure
+    kind: other
+    index_arm: practice-testing
+    reference_arm: nontesting-reexposure
+    description: >-
+      Practice testing against non-testing reexposure on a transfer test, pooled
+      across experiments that assigned the conditions between or within
+      subjects.
+  - id: moderator-coding-agreement
+    kind: none
+    description: "Agreement between the authors' coding and a trained research assistant's second coding of the candidate moderators."
+
+observations:
+
+  - id: transfer-overall
+    sample:
+      value: 192
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer of learning"
+      source_language: "transfer effect sizes"
+      measure: "Final tests differing from the practice test in format, items, cues, or required application, as in the primary studies"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.40
+      standard_error: 0.046
+      ci_lower: 0.31
+      ci_upper: 0.50
+      interval_type: confidence
+      p_value: "< .00001"
+      k:
+        value: 192
+        unit: effect-sizes
+      heterogeneity:
+        statistic: tau2
+        value: 0.084
+        interpretation: "Between-paper variance; within-paper (experiment) variance omega2 = 0.050"
+      publication_bias:
+        method: "PET-PEESE (PEESE indicated in all cases) and Vevea-Woods weight-function sensitivity analyses"
+        finding: "Highly significant sampling-variability slope (p < .0001) suggesting publication bias; moderator estimates minimally affected, intercept effectively zero"
+      model: "Hierarchical random-effects with robust variance estimation; adjusted df 43.016"
+    moderators:
+      reported:
+        - variable: "Response congruency"
+          relationship: "Single-moderator fit: d = 0.28 without congruency, increase of 0.30 with it"
+          source_quote: "In those fits, only response congruency was significant (p = .0006)."
+        - variable: "Elaborated retrieval practice and response congruency (simultaneous fit)"
+          relationship: "Increase of d = 0.35 with response congruency and 0.22 with elaborated retrieval practice; 0.78 with both"
+          source_quote: "In the final model, the moderators of response congruency and elaborated retrieval practice were significant (ps ≤ .0094)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Retention interval was coded per effect size and tested as a candidate
+      moderator; the pooled estimate is over all intervals.
+    source_quote: "Overall across all categories (k = 192) 0.40 0.046 43.016 <.00001 [0.31,0.50]"
+    source_location: "Results, Overall Meta-Analyses; Table 2"
+
+  - id: transfer-test-format
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer across test formats"
+      source_language: "Test format"
+      measure: "Final test in a different format from the practice test (e.g., cued recall to multiple-choice)"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.58
+      standard_error: 0.071
+      ci_lower: 0.43
+      ci_upper: 0.73
+      interval_type: confidence
+      p_value: "< .00001"
+      k:
+        value: 56
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 20.86"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Test format (k = 56) 0.58 0.071 20.86 <.00001 [0.43,0.73]"
+    source_location: "Table 2"
+
+  - id: transfer-stimulus-response-rearrangement
+    sample:
+      value: 33
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer to rearranged stimulus-response items"
+      source_language: "Stimulus-response rearrangement"
+      measure: "Final test presenting the practised response as the cue, or otherwise rearranging cue and response"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.22
+      standard_error: 0.098
+      ci_lower: -0.019
+      ci_upper: 0.45
+      interval_type: confidence
+      p_value: ".066"
+      k:
+        value: 33
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 6.46"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Stimulus-response rearrangement (k = 33) 0.22 0.098 6.46 .066 [-0.019,0.45]"
+    source_location: "Table 2"
+
+  - id: transfer-untested-materials
+    sample:
+      value: 17
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer to untested material seen during study"
+      source_language: "Untested materials seen during initial study"
+      measure: "Final test on parts of the studied material that were not practised"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.16
+      standard_error: 0.12
+      ci_lower: -0.10
+      ci_upper: 0.43
+      interval_type: confidence
+      p_value: ".20"
+      k:
+        value: 17
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 10.086"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The text gives the category as 17 effect sizes from 12 studies. Its PEESE
+      intercept (d = -0.32) is not recorded here.
+    source_quote: "Untested materials seen during initial study (k = 17) 0.16 0.12 10.086 .20 [-0.10,0.43]"
+    source_location: "Table 2"
+
+  - id: transfer-application-inference
+    sample:
+      value: 41
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer to application and inference questions"
+      source_language: "Application and inference questions"
+      measure: "Final test questions requiring application or inference from practised material"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.33
+      standard_error: 0.11
+      ci_lower: 0.085
+      ci_upper: 0.56
+      interval_type: confidence
+      p_value: ".013"
+      k:
+        value: 41
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 10.39"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Application and inference questions (k = 41) 0.33 0.11 10.39 .013 [0.085,0.56]"
+    source_location: "Table 2"
+
+  - id: transfer-problem-solving
+    sample:
+      value: 18
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer of problem-solving skills"
+      source_language: "Problem-solving skills"
+      measure: "Final problems requiring practised skills, including medical diagnosis and worked-example problems"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.29
+      standard_error: 0.15
+      ci_lower: -0.078
+      ci_upper: 0.65
+      interval_type: confidence
+      p_value: ".10"
+      k:
+        value: 18
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 5.46"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Problem-solving skills (k = 18) 0.29 0.15 5.46 .10 [-0.078,0.65]"
+    source_location: "Table 2"
+
+  - id: transfer-mediator-cues
+    sample:
+      value: 27
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer to mediator and related word cues"
+      source_language: "Mediator and related word cues"
+      measure: "Final test cueing the practised target with a mediator or related word instead of the practised cue"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: cohens_d
+      estimate: 0.61
+      standard_error: 0.089
+      ci_lower: 0.25
+      ci_upper: 0.97
+      interval_type: confidence
+      p_value: ".018"
+      k:
+        value: 27
+        unit: effect-sizes
+      model: "Category-level random-effects with robust variance estimation; adjusted df 2.12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Adjusted df of 2.12 means the robust interval is wide despite the small
+      SE; the estimate rests on few independent papers.
+    source_quote: "Mediator and related word cues (k = 27) 0.61 0.089 2.12 .018 [0.25,0.97]"
+    source_location: "Table 2"
+
+  - id: intercept-random-effects-final-model
+    sample:
+      value: 192
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer of learning with no enhancing moderator present"
+      source_language: "When neither was present, the estimated transfer effect size"
+      measure: "Intercept of the simultaneous moderator fit retaining response congruency and elaborated retrieval practice"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.21
+      standard_error: 0.064
+      ci_lower: 0.081
+      ci_upper: 0.35
+      interval_type: confidence
+      p_value: ".0031"
+      k:
+        value: 192
+        unit: effect-sizes
+      model: "Random-effects meta-regression (final model); adjusted df 21.11. Not adjusted for publication bias."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "When both of those factors were present, the estimated transfer effect size was d = 0.78. When neither was present, the estimated transfer effect size was d = 0.21."
+    source_location: "Results, Simultaneous moderator fits; Table 3"
+
+  - id: intercept-peese-with-moderators
+    sample:
+      value: 192
+      unit: effect-sizes
+    comparison_ref: testing-vs-reexposure
+    outcome:
+      construct: "Transfer of learning with no enhancing moderator present, adjusted for publication bias"
+      source_language: "the intercept, representing the estimated effect size when neither moderator effect is present"
+      measure: "Intercept of the PEESE regression of d on sampling variability with response congruency and elaborated retrieval practice included"
+      scale: "Cohen's d"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final test after the primary studies' retention intervals, pooled"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.015
+      statistic: "t = 0.33"
+      p_value: ".74"
+      k:
+        value: 192
+        unit: effect-sizes
+      model: >-
+        PEESE weighted linear regression (weights 1/sv). In the same model the
+        sampling-variability slope was 3.86 (p < .0001), response congruency
+        0.36 and elaborated retrieval practice 0.18. Without moderators the
+        PEESE intercept was 0.17.
+      interpretation: "Described by the authors as effectively zero"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 4 prints no standard error or interval for PEESE coefficients, only
+      beta, t and p. The weight-function sensitivity intercepts (Table 5) range
+      from 0.12 (moderate one-tailed) to -0.12 (severe one-tailed) and are not
+      recorded as separate observations.
+    source_quote: "It is also notable that the intercept in the PEESE analysis to the overall dataset with moderators included (d = 0.015) falls in between the estimated intercepts in the moderate one-tailed (d = 0.12) and severe one-tailed (d = ─0.12) sensitivity analyses."
+    source_location: "Results, Analyses adjusted for publication bias; Table 4"
+
+  - id: coding-agreement-response-congruency
+    sample:
+      value: 192
+      unit: effect-sizes
+    comparison_ref: moderator-coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "Intercoder agreement"
+      measure: "Dichotomous code for response congruency between initial and final test, coded by the authors and again by a trained research assistant"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before discrepancies were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.82
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article says a random 25% of the dataset (48 effect sizes) was coded a
+      second time for this moderator; `sample` is the dataset the code applies
+      to, not the double-coded subset. effect_size is `unreported` because a
+      reliability coefficient is not an effect.
+    source_quote: "Because of this stringent criterion, any significant effects for response congruency that may be observed in the current meta-analyses may actually understate its influence.3 Intercoder agreement was к = 0.82."
+    source_location: "Method, candidate moderators: Response congruency"
+
+  - id: coding-agreement-elaborated-retrieval
+    sample:
+      value: 192
+      unit: effect-sizes
+    comparison_ref: moderator-coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "Intercoder agreement"
+      measure: "Dichotomous code for elaborated retrieval practice (broad encoding methods, elaborative feedback, or both), coded by the authors and again by a trained research assistant"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before discrepancies were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.92
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      As for response congruency, the second coding covered a random 25% of the
+      dataset (48 effect sizes).
+    source_quote: "If broad encoding, elaborative feedback, or both (as defined below) was present, this variable was coded as 1; otherwise it was coded as zero. Intercoder agreement was к = 0.92."
+    source_location: "Method, candidate moderators: Elaborated retrieval practice"
+
+not_yet_extracted:
+  - "Single and simultaneous moderator coefficients for the 135 effect sizes with initial test performance (Table 3), including initial test performance beta 0.82 (single) and 0.58 (simultaneous), and the PEESE intercept of -0.30 in that subset (Table 4)"
+  - "Weight-function sensitivity estimates under four publication-bias scenarios (Table 5)"
+  - "Category-level moderator, PEESE and sensitivity analyses (Tables 6-8), including the untested-materials PEESE intercept of -0.32"
+  - "Sub-category estimates within the six transfer categories (e.g., medical diagnosis, worked examples) shown in the forest plots and category sections"
+  - "Intercoder agreement for the other candidate moderators: design kappa .97, feedback kappa .97, item repetitions and initial test performance 1.00, retention interval 0.98 (proportion of identical values); screening agreement kappa .81 (titles) and .83 (abstracts)"
+  - "Comparison of transfer effects with testing effects on identical items (smaller transfer effects on average, p = .00070)"

@@ -2,29 +2,48 @@
 # relations of students' academic emotions (enjoyment, pride, anxiety, anger,
 # boredom) in mathematics, physics, German and English, Grades 8 and 11.
 #
-# What is recorded: the between-domains results, per grade sample.
-#   * The text prints the general between-domains coefficients ONLY as limits
-#     ("below .35" in Grade 8, "below .20" in Grade 11), so they are recorded
-#     as `result.bound`, never as estimates. Both limits exclude the
-#     mathematics-physics relations and pride between English and German.
-#   * The mathematics-physics relations are recorded as the ranges the text
-#     prints (estimate_range over the five emotions); Table 2's individual
-#     coefficients agree with those ranges where they can be read.
-#   * The homogeneity index h(d), the authors' test of the grade difference,
-#     as the range over the five emotions per grade.
-#   * Reliability: standardized alphas of the 20 emotion scales, as the range
-#     the text prints per grade.
+# What is recorded, per grade sample unless said otherwise:
+#   * Between-domains (Table 2, Table 3):
+#     - The general between-domains coefficients, printed in the text ONLY as
+#       limits ("below .35" in Grade 8, "below .20" in Grade 11), recorded as
+#       `result.bound`, never as estimates. Both limits exclude the
+#       mathematics-physics relations and pride between English and German.
+#     - The mathematics-physics relations as the ranges the text prints
+#       (estimate_range over the five emotions), with the Table 2 cells in
+#       notes.
+#     - The one other exception, pride between English and German (Table 2:
+#       .51 in Grade 8, .29 in Grade 11), as point estimates.
+#     - The homogeneity index h(d) per grade, as the range over the five
+#       emotions.
+#   * Within-domain (Table 5, Table 6):
+#     - The boredom-anger and enjoyment-boredom latent correlations, as the
+#       ranges the text prints across the four domains and both grades.
+#     - The homogeneity index h(e), one observation per domain and grade.
+#   * Reliability: alphas of the 20 emotion scales, the range per grade.
 # The two grades are separate samples analysed in separate models, so they
-# are arms, and each result names its grade with `arm_ref`. Nothing here
-# contrasts them as an effect: the article tests the h(d) difference but
-# prints no estimate of it.
+# are arms; each per-grade result names its grade with `arm_ref`, and a range
+# the text prints across both grades names the `both-grades` comparison.
+# Nothing here contrasts the grades as an effect: the article tests the h(d)
+# and h(e) differences but prints no estimate of them.
 #
-# The text layer is from the typeset article with PDF glyph codes left in
-# (/H11005 for "=", /H11002 for minus, /H11021 for "<"). No page image was
-# available beside the text file, so every quote below was chosen to contain
-# no glyph code, and Table 2 coefficients with a coded minus sign were not
-# read. The medians printed beside the ranges ("Mdn" followed by a coded
-# equals sign) are given in notes only.
+# Source and page images. The text layer of this repository copy (University
+# of Konstanz, "First publ. in: Journal of Educational Psychology 99 (2007), 4,
+# pp. 715-733") prints "=", minus and "<" as glyphs (⫽, ⫺, ⬍), and Tables 2, 5
+# and 6 come out of it as scattered columns. So the following source_quotes
+# were copied from the PDF page images, with the article's own characters
+# (real "=" and minus signs, superscript asterisks written as plain *):
+#   - the alpha sentence (p. 719) on both alpha observations;
+#   - the h(d) sentence (p. 721) on both h(d) observations;
+#   - the Table 2 pride rows (p. 720), the Table 5 sentence (p. 724) and the
+#     Table 6 rows (p. 726).
+# Every other quote is a substring of the text layer as it stands.
+#
+# Alpha discrepancy, checked against the page image of Appendix A (p. 731):
+# the appendix prints .93 for Grade 8 pride in mathematics, while the text says
+# the standardized alphas ranged from .72 to .92 in Grade 8. The appendix
+# column is headed only "α", and nothing on the pages says whether it is raw or
+# standardized, so the pages do not settle it; the text's range is recorded as
+# printed and the discrepancy is noted on the Grade 8 alpha observation.
 
 schema_version: 2
 
@@ -61,6 +80,21 @@ appears_in:
   - claim: between-domain-emotions-weaker-with-grade-level
     bearing: supports
     anchor: goetz-et-al-2007
+  - claim: within-domain-structure-anger-boredom-enjoyment-patterns
+    bearing: supports
+    anchor: goetz-et-al-2007
+  - claim: within-domain-emotion-differentiation-anger-boredom
+    bearing: supports
+    anchor: goetz-et-al-2007
+  - claim: within-domain-relations-vary-by-domain
+    bearing: supports
+    anchor: goetz-et-al-2007
+  - claim: within-domain-emotion-relations-differ-across-domains
+    bearing: supports
+    anchor: goetz-et-al-2007
+  - claim: within-domain-relations-stable-across-grades
+    bearing: supports
+    anchor: goetz-et-al-2007
 
 evidence_base:
   unit: participants
@@ -95,7 +129,11 @@ evidence_base:
         value: 235
         unit: participants
 
-comparisons: []
+comparisons:
+  - id: both-grades
+    kind: none
+    description: "A figure the text prints across both grade samples and all four domains; no contrast between the grades."
+    index_arm: [grade-8, grade-11]
 
 observations:
 
@@ -134,9 +172,10 @@ observations:
       outcome_timing: observed
       effect_size: partial
     observability_notes: >-
-      effect_size is partial: the text gives only an upper limit; the
-      individual coefficients are in Table 2, whose negative values are
-      glyph-coded in the text read here and were not transcribed.
+      effect_size is partial: the text gives only an upper limit. The
+      individual coefficients are in Table 2 (read from the page image);
+      they are not recorded one by one, as the text's limit is the figure
+      the article states as its result.
     source_quote: "With the exception of substantial relations between emotions in mathematics and physics and the relatively strong relations between pride in English and German, all coefficients were below .35 in the Grade 8 sample and below .20 in the Grade 11 sample."
     source_location: "Results, Between-Domains Analyses, Strength of between-domains relations (Hypothesis 1a); Table 2"
 
@@ -290,7 +329,7 @@ observations:
     observability_notes: >-
       `over` counts the five emotions, each summarised over its four domain
       scales.
-    source_quote: "h(d) ranged from .22 to .38 in the Grade 8 sample"
+    source_quote: "h(d) ranged from .22 to .38 in the Grade 8 sample (Mdn = .30) and from .06 to .20 in the Grade 11 sample (Mdn = .11)."
     source_location: "Results, Between-domains relations as a function of emotion type and grade level (Hypotheses 1b, 1c); Table 3"
 
   - id: between-domain-homogeneity-grade11
@@ -329,7 +368,7 @@ observations:
       implementation_detail: observed
       outcome_timing: observed
       effect_size: observed
-    source_quote: "and from .06 to .20 in the Grade 11 sample"
+    source_quote: "h(d) ranged from .22 to .38 in the Grade 8 sample (Mdn = .30) and from .06 to .20 in the Grade 11 sample (Mdn = .11)."
     source_location: "Results, Between-domains relations as a function of emotion type and grade level (Hypotheses 1b, 1c); Table 3"
 
   - id: emotion-scale-alpha-grade8
@@ -362,10 +401,13 @@ observations:
         form: "standardized alpha"
       note: >-
         Median .88 per the text. Lowest: German anxiety .72 (Appendix A).
-        Appendix A prints .93 for Grade 8 pride in mathematics, above the
-        text's upper limit of .92; Appendix A is headed Cronbach's alpha and
-        the text says standardized alphas, so the text's range is recorded
-        as printed and the discrepancy left unresolved.
+        Appendix A (page image, p. 731) prints .93 for Grade 8 pride in
+        mathematics, above the text's upper limit of .92. The appendix
+        column is headed only "α" and the text introduces Appendix A as
+        giving "Cronbach's alphas" while the range sentence says
+        "Standardized alphas"; nothing on the pages says which the appendix
+        column is, so the text's range is recorded as printed and the
+        discrepancy left unresolved.
     moderators:
       reported: []
       candidate: []
@@ -374,7 +416,7 @@ observations:
       implementation_detail: observed
       outcome_timing: observed
       effect_size: unreported
-    source_quote: "Standardized alphas for the emo- tion scales ranged from .72 to .92"
+    source_quote: "Standardized alphas for the emotion scales ranged from .72 to .92 (Mdn = .88) in the Grade 8 sample and from .66 to .93 (Mdn = .88) in the Grade 11 sample."
     source_location: "Method, Measurement of Discrete Emotions in Different Domains; Appendix A"
 
   - id: emotion-scale-alpha-grade11
@@ -414,15 +456,442 @@ observations:
       implementation_detail: observed
       outcome_timing: observed
       effect_size: unreported
-    observability_notes: >-
-      The range's quote is short because the sentence carries glyph-coded
-      equals signs on either side of it; the text's sentence continues "in
-      the Grade 11 sample".
-    source_quote: "sample and from .66 to .93"
+    source_quote: "Standardized alphas for the emotion scales ranged from .72 to .92 (Mdn = .88) in the Grade 8 sample and from .66 to .93 (Mdn = .88) in the Grade 11 sample."
     source_location: "Method, Measurement of Discrete Emotions in Different Domains; Appendix A"
 
+  - id: pride-english-german-r-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Between-domains relation of pride, English and German"
+      source_language: "the relatively strong relations between pride in English and German"
+      measure: "Disattenuated correlation between the English and German latent pride factors"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.51
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: >-
+        Table 2 marks it p < .01 (**). The text names it, with mathematics-physics, as the exception to the below-.35 limit.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 2 row read from the page image (p. 720); the cell is the row E, column G entry.
+    source_quote: "E .16* .27** .51** 1"
+    source_location: "Results, Between-Domains Analyses; Table 2, Grade 8, Pride block, row E (columns M, P, G, E)"
+
+  - id: pride-english-german-r-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Between-domains relation of pride, English and German"
+      source_language: "the relatively strong relations between pride in English and German"
+      measure: "Disattenuated correlation between the English and German latent pride factors"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.29
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: >-
+        Table 2 marks it p < .01 (**). The text names it, with mathematics-physics, as the exception to the below-.20 limit.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 2 row read from the page image (p. 720); the cell is the row E, column G entry.
+    source_quote: "E −.08 .11 .29** 1"
+    source_location: "Results, Between-Domains Analyses; Table 2, Grade 11, Pride block, row E (columns M, P, G, E)"
+
+  - id: boredom-anger-within-domain-r
+    sample:
+      value: 542
+      unit: participants
+    comparison_ref: both-grades
+    outcome:
+      construct: "Within-domain relation between boredom and anger"
+      source_language: "Conspicuously strong correlations were found between boredom and anger"
+      measure: "Latent correlation between the boredom and anger factors within one domain, from one SEM per domain and grade"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.81
+        upper: 0.90
+        over:
+          value: 8
+          unit: other
+      model: "One SEM per domain and grade; correlations corrected for unreliability"
+      note: >-
+        Table 5 (page image, p. 724), Grade 8: mathematics .85, physics .90, German .87, English .81; Grade 11: mathematics .84, physics .81, German .81, English .82. All Table 5 coefficients p < .01 per its note. The authors note the coefficients are corrected for unreliability and so the highest derivable from the data.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      `over` counts the eight domain-by-grade cells (4 domains x 2 grades). Quote taken from the page image.
+    source_quote: "Conspicuously strong correlations were found between boredom and anger (range = .81 to .90, across domains and grade levels) and between enjoyment and boredom (range = −.76 to −.91, across domains and grade levels)."
+    source_location: "Results, Within-Domain Analyses; Table 5"
+
+  - id: enjoyment-boredom-within-domain-r
+    sample:
+      value: 542
+      unit: participants
+    comparison_ref: both-grades
+    outcome:
+      construct: "Within-domain relation between enjoyment and boredom"
+      source_language: "between enjoyment and boredom"
+      measure: "Latent correlation between the enjoyment and boredom factors within one domain, from one SEM per domain and grade"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: -0.91
+        upper: -0.76
+        over:
+          value: 8
+          unit: other
+      model: "One SEM per domain and grade; correlations corrected for unreliability"
+      note: >-
+        Table 5 (page image, p. 724), Grade 8: mathematics −.76, physics −.81, German −.88, English −.83; Grade 11: mathematics −.81, physics −.81, German −.91, English −.77. All Table 5 coefficients p < .01 per its note.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      `over` counts the eight domain-by-grade cells (4 domains x 2 grades). Quote taken from the page image.
+    source_quote: "Conspicuously strong correlations were found between boredom and anger (range = .81 to .90, across domains and grade levels) and between enjoyment and boredom (range = −.76 to −.91, across domains and grade levels)."
+    source_location: "Results, Within-Domain Analyses; Table 5"
+
+  - id: within-domain-homogeneity-mathematics-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Homogeneity of the five emotions within mathematics"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.56
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .745, Level 2 .581, Level 1 .623, h(e) .56. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "Mathematics .745 .581 .623 .56"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 8"
+
+  - id: within-domain-homogeneity-physics-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Homogeneity of the five emotions within physics"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.49
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .628, Level 2 .657, Level 1 .559, h(e) .49. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "Physics .628 .657 .559 .49"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 8"
+
+  - id: within-domain-homogeneity-german-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Homogeneity of the five emotions within German"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.21
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .223, Level 2 .840, Level 1 .663, h(e) .21. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "German .223 .840 .663 .21"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 8"
+
+  - id: within-domain-homogeneity-english-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Homogeneity of the five emotions within English"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.38
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .323, Level 2 .527, Level 1 .535, h(e) .38. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "English .323 .527 .535 .38"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 8"
+
+  - id: within-domain-homogeneity-mathematics-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Homogeneity of the five emotions within mathematics"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.59
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .758, Level 2 .517, Level 1 .669, h(e) .59. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "Mathematics .758 .517 .669 .59"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 11"
+
+  - id: within-domain-homogeneity-physics-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Homogeneity of the five emotions within physics"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.49
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .597, Level 2 .635, Level 1 .587, h(e) .49. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "Physics .597 .635 .587 .49"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 11"
+
+  - id: within-domain-homogeneity-german-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Homogeneity of the five emotions within German"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.16
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .173, Level 2 .915, Level 1 .611, h(e) .16. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "German .173 .915 .611 .16"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 11"
+
+  - id: within-domain-homogeneity-english-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Homogeneity of the five emotions within English"
+      source_language: "Homogeneity of emotions: Homogeneity index h(e)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within emotion-specific scales within persons' emotion-transcending scores), one model per domain and grade; negative-emotion items inverted"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.40
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 6 row: Level 3 variance .456, Level 2 .684, Level 1 .502, h(e) .40. The text: all h(e) differences between domains significant (p < .05) in both samples except physics-English in Grade 11; no domain's h(e) differed significantly between grades (p > .05).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Quote is the Table 6 row read from the page image (p. 726).
+    source_quote: "English .456 .684 .502 .40"
+    source_location: "Results, Within-domain relations as a function of domain and grade level (Hypotheses 2b, 2c); Table 6, Grade 11"
+
 not_yet_extracted:
-  - "Table 2's individual between-domains coefficients and emotion-achievement correlations (negative values are glyph-coded in the text read here)"
-  - "Within-domain results: Table 5 latent correlations among the five emotions per domain (boredom-anger .81 to .90, enjoyment-boredom -.76 to -.91 as printed with coded minus signs) and Table 6 h(e) per domain and grade"
-  - "Appendix A scale means and SDs per grade, and the midterm-grade means and SDs"
+  - "Table 2's individual between-domains coefficients other than mathematics-physics and pride English-German (all legible on the page image; the text's limits are recorded instead), and its emotion-achievement and achievement-achievement correlations"
+  - "Table 5 within-domain correlations other than boredom-anger and enjoyment-boredom"
+  - "Table 3 variance components, and the h(d) and h(e) significance tests (Appendix C)"
+  - "Appendix A scale means and SDs per grade, and the midterm-grade means and SDs; Appendix B zero-order correlations"
   - "SEM fit indexes (Tables 1 and 4)"
