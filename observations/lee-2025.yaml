@@ -1,0 +1,225 @@
+# Lee, Kim & Bong (2025): parental and perceived teacher beliefs, and Korean
+# third and fourth graders' math mindsets, motivation and achievement.
+#
+# Cross-sectional baseline data (collected before a parent-belief intervention
+# began) analysed with a multilevel path model. Recorded: the student-level
+# (within-class, group-mean-centred) correlation between students' fixed
+# mindset and their math self-efficacy, the corresponding standardised path,
+# and the alphas of the two scales, all printed in Tables 1 and 2.
+#
+# Read from the PubMed Central full text (PMC12319187) converted from XML to
+# text: no PDF and no page images. Tables 1 and 2 came through as one cell per
+# line with stars on their own lines; whitespace-normalised, their rows read
+# cleanly and every figure below was read from them. The text layer spells
+# "self-efficacy" with U+2010 hyphens, which the quotes keep.
+
+schema_version: 2
+
+study:
+  key: lee-2025
+  citation: "Lee, H. J., Kim, S., & Bong, M. (2025). Social antecedents of children's mindsets, motivation and achievement in math: Investigating parental beliefs and perceived teacher beliefs. British Journal of Educational Psychology, 95(3), 849–870."
+  doi: "10.1111/bjep.12764"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional multilevel path analysis (Mplus 8.7, FIML) of two
+      baseline student surveys about 3 weeks apart, a parent questionnaire,
+      and a researcher-developed math test about 4 weeks after the second
+      survey, all collected before a parent-belief intervention started.
+      Student-level variables group-mean centred, class means at the class
+      level; school and grade as class-level covariates. The authors call for
+      longitudinal or experimental research to establish causal relationships.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: student-fixed-mindset-predicts-math-motivation-outcomes
+    bearing: supports
+    anchor: lee-2025
+
+evidence_base:
+  unit: participants
+  size:
+    value: 507
+    unit: participants
+  additional_sizes:
+    - value: 28
+      unit: classes
+      note: "classrooms students were nested in (14 third-grade, 14 fourth-grade); not a unit of assignment"
+    - value: 2
+      unit: schools
+      note: "public elementary schools in Seoul and Daejeon"
+    - value: 700
+      unit: participants
+      note: "third and fourth graders and their parents invited; 509 consented, 2 excluded for completing no survey"
+  population:
+    description: >-
+      Korean third graders (253) and fourth graders (254), 249 girls (49.1%),
+      and their parents, at two public elementary schools in 2019.
+    age_or_stage: "Grades 3 and 4"
+    age:
+      unit: years
+      mean: 9.42
+      sd: 0.60
+  context:
+    setting: "Surveys during regular classroom hours; parent questionnaires sent home in sealed envelopes; 40-minute math test given by homeroom teachers"
+  arms: []
+
+comparisons:
+  - id: student-level-whole-sample
+    kind: none
+    description: "Student-level (within-class, group-mean-centred) associations and scale properties across the whole sample; no contrast between groups."
+
+observations:
+
+  - id: fixed-mindset-self-efficacy-correlation-student-level
+    sample:
+      value: 472
+      unit: participants
+    comparison_ref: student-level-whole-sample
+    outcome:
+      construct: "Math self-efficacy"
+      source_language: "S self‐efficacy"
+      measure: "Five MSLQ self-efficacy items (e.g. 'I'm confident I can do an excellent job on the assignments and tests in math'), correlated with Dweck's (1999) three self-form fixed mindset items"
+      scale: "Pearson correlation of group-mean-centred scores, 5-point Likert scales"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "baseline surveys before the intervention, about 3 weeks apart (mindset and self-efficacy in the same second survey)"
+    result:
+      measure_type: correlation
+      estimate: -0.39
+      p_value: "< .001"
+      model: "Student-level correlation among group-mean-centred variables; Table 1 below the diagonal. The class-level correlation (class-aggregated, above the diagonal) is -.17."
+      descriptives: "Uncentred: S fixed mindset M 2.24, SD 0.97; S self-efficacy M 3.74, SD 0.88; n 472 each"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The n of 472 is Table 1's n for each of the two measures; the correlation
+      was estimated with the model's FIML missing-data handling, so its exact
+      analysed n is not printed beyond that.
+    source_quote: "6. S self‐efficacy −.04 .22 *** −.02 .40 *** −.39 *** ‐ −.27 .52 ** .61 ***"
+    source_location: "Table 1, row 6 (S self-efficacy), column 5 (S fixed mindset)"
+
+  - id: fixed-mindset-to-self-efficacy-path-student-level
+    sample:
+      value: 507
+      unit: participants
+    comparison_ref: student-level-whole-sample
+    outcome:
+      construct: "Math self-efficacy"
+      source_language: "their own math self‐efficacy"
+      measure: "Five MSLQ self-efficacy items regressed on students' fixed mindset and the parental and perceived teacher belief measures"
+      scale: "standardized path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "baseline surveys before the intervention"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.33
+      standard_error: 0.04
+      p_value: "< .001"
+      model: >-
+        Multilevel path model, student level (within-class), controlling for
+        parents' self-reported fixed mindset and expectations and students'
+        perceptions of their teacher's fixed mindset and expectations; FIML.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The SE (.04) is from Table 2, row "S fixed mindset", self-efficacy
+      column ("S fixed mindset −.33 .04 <.001"); the quote is the text's
+      report of the same path. Sample is N = 507 under FIML.
+    source_quote: "Students' fixed mindset, in turn, linked positively to their test anxiety (β = .40, p < .001) and negatively to their own math self‐efficacy (β = −.33, p < .001), persistence (β = −.11, p = .008) and achievement (β = −.12, p = .014)."
+    source_location: "Results, Multilevel path analysis; Table 2"
+
+  - id: fixed-mindset-alpha
+    comparison_ref: student-level-whole-sample
+    outcome:
+      construct: "Internal consistency of the student fixed mindset scale"
+      source_language: "S fixed mindset"
+      measure: "Dweck's (1999) three fixed mindset items, self-form, math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "baseline survey"
+    result:
+      measure_type: reliability
+      estimate: 0.82
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Fifth value of Table 1's alpha row, in the S fixed mindset column.
+    source_quote: "α .66 .89 .84 .89 .82 .89 .71 .77 .74–.84"
+    source_location: "Table 1, row α, column 5 (S fixed mindset)"
+
+  - id: self-efficacy-alpha
+    comparison_ref: student-level-whole-sample
+    outcome:
+      construct: "Internal consistency of the student math self-efficacy scale"
+      source_language: "S self‐efficacy"
+      measure: "Five MSLQ self-efficacy items, math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "baseline survey"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Sixth value of Table 1's alpha row, in the S self-efficacy column.
+    source_quote: "α .66 .89 .84 .89 .82 .89 .71 .77 .74–.84"
+    source_location: "Table 1, row α, column 6 (S self-efficacy)"
+
+not_yet_extracted:
+  - "The rest of Table 1: correlations among all nine variables at both levels, means, SDs, skewness, kurtosis, the other alphas (.66 to .89; achievement .74–.84) and ICCs (.00 to .05)"
+  - "The rest of Table 2: every student- and class-level path, including parental expectations to fixed mindset (β = −.11) and perceived teacher fixed mindset to fixed mindset (.29)"
+  - "Indirect effects and Monte Carlo confidence intervals (Table 3)"
+  - "Measurement-model fit (footnote 4): TLIs ≥ .93, CFIs ≥ .97, RMSEA ≤ .08, SRMR ≤ .03"
