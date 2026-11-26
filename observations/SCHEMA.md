@@ -323,9 +323,18 @@ names with `arm_ref`. Before this, an observation that rests on no contrast (a S
 and now a mean or a reliability) compiled with nothing saying which configuration it
 described. The compiler version is now 5.
 
-A source model's fitted parameters are **not** recorded here. They belong in the
-simulator's documentation, which cites the source. The wiki records what the source
-measured (maintainer, 2026-11-25).
+**A bound is recorded as a bound** (`result.bound: {operator, value}`, added 2026-11-25 on
+the maintainer's go-ahead). Schwartz et al. (2011) say only that coder agreement "was greater
+than 98%". Writing 98 as the estimate claims a measured value the source never printed, and
+dropping it loses what the source did say. A bound replaces `estimate` and
+`estimate_range`, never sits beside them, and a reliability bound must lie in the
+statistic's range. A p-value given as "p > .05" stays in `p_value`, which is free text.
+
+**A fitted estimate is recorded when a published paper prints it; one we fitted ourselves
+is not** (maintainer, 2026-11-25). Koedinger et al.'s (2023) iAFM estimates of initial
+accuracy and gain per practice opportunity are the paper's own published figures, so
+`koedinger-2023` records them. A parameter the simulator fitted to a source stays in the
+simulator's documentation, which cites the source.
 
 ---
 
@@ -541,6 +550,8 @@ observations:                # required, non-empty
       #   kappas, alphas and ICCs lie in -1..1, percent_agreement in 0..100
       # measure_type: mean REQUIRES estimate and unit, takes sd, and the
       #   observation must name its group with arm_ref (one arm or a list)
+      bound: {operator, value}   # OPTIONAL, INSTEAD of estimate: a value the source
+                             # prints only as a limit (">98%"). operator: < <= > >=
     moderators:
       reported: [{variable, relationship, source_quote}]   # all three required
       candidate: [...]       # plausible explanations; never promoted
@@ -581,6 +592,7 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 | `result.reliability.statistic` | `icc` `cohens_kappa` `weighted_kappa` `fleiss_kappa` `kr20` `cronbach_alpha` `percent_agreement` `other` |
 | `result.reliability.over` | `raters` `items` `occasions` `forms` `other` |
 | `population.age.unit` | `years` `months` |
+| `result.bound.operator` | `<` `<=` `>` `>=` |
 | count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `scales` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |
 | `observability.*` | `observed` `partial` `unreported` |

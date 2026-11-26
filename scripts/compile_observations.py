@@ -304,6 +304,10 @@ def explain(records: list, observation_id: str) -> int:
         block("WITH WHAT RESULT", f"{res.get('measure_type')} ranged {er.get('lower')} to "
                                   f"{er.get('upper')} across {over.get('value')} "
                                   f"{over.get('unit')} — no pooled estimate reported")
+    elif isinstance(res.get("bound"), dict):
+        b = res["bound"]
+        block("WITH WHAT RESULT", f"{res.get('measure_type')} {b.get('operator')} {b.get('value')} "
+                                  f"(a bound: the source prints no value)")
     else:
         block("WITH WHAT RESULT", f"{res.get('measure_type')} = {res.get('estimate')} "
                                   f"{res.get('unit') or ''}".strip()

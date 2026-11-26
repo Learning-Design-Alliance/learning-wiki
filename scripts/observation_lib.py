@@ -201,6 +201,11 @@ RELIABILITY_FACETS = {"raters", "items", "occasions", "forms", "other"}
 # carries what the numbers cannot.
 AGE_UNITS = {"years", "months"}
 
+# A value a source reports only as a limit: "agreement was greater than 98%",
+# "all ps > .10". Recording the limit as the estimate would claim a measured
+# value the source never printed; dropping it loses what the source did say.
+BOUND_OPERATORS = {"<", "<=", ">", ">="}
+
 DIRECTIONS = {"higher-is-better", "lower-is-better", "contextual"}
 
 # The Learning Design Spec separates a learner capability from a valued
@@ -1064,6 +1069,25 @@ def _validate_result(o, where, family) -> list:
             _err(issues, where, "a qualitative result must not carry an `estimate` — "
                                 "reducing a qualitative finding to a number invents one")
 
+    bound = r.get("bound")
+    if bound is not None:
+        if not isinstance(bound, dict):
+            _err(issues, where, "result.bound must be a mapping {operator, value}")
+        else:
+            _enum(issues, where, bound.get("operator"), BOUND_OPERATORS,
+                  "result.bound.operator", required=True)
+            bv = bound.get("value")
+            if isinstance(bv, bool) or not isinstance(bv, (int, float)):
+                _err(issues, where, f"result.bound.value must be a number (got {bv!r})")
+            unknown = set(bound) - {"operator", "value"}
+            if unknown:
+                _err(issues, where, f"result.bound has unknown field(s) {sorted(unknown)}")
+        if r.get("estimate") is not None or r.get("estimate_range") is not None:
+            _err(issues, where, "result carries a bound and an estimate: a bound is what the "
+                                "source printed INSTEAD of a value, so never both")
+        if mt in ("qualitative", "mean"):
+            _err(issues, where, f"result.bound is not meaningful with measure_type {mt}")
+
     if mt == "reliability":
         rel = r.get("reliability")
         if not isinstance(rel, dict):
@@ -1081,7 +1105,8 @@ def _validate_result(o, where, family) -> list:
             if rel.get("form") is not None:
                 _str(issues, where, rel.get("form"), "result.reliability.form")
             lo, hi = (0, 100) if rel.get("statistic") == "percent_agreement" else (-1, 1)
-            vals = [r.get("estimate")]
+            vals = [r.get("estimate"), (r.get("bound") or {}).get("value")
+                    if isinstance(r.get("bound"), dict) else None]
             if isinstance(r.get("estimate_range"), dict):
                 vals += [r["estimate_range"].get("lower"), r["estimate_range"].get("upper")]
             for v in vals:
@@ -1090,9 +1115,10 @@ def _validate_result(o, where, family) -> list:
                                         f"{rel.get('statistic')!r}"
                                         + (" (percent agreement is written 0-100)"
                                            if hi == 100 else ""))
-        if r.get("estimate") is None and r.get("estimate_range") is None:
-            _err(issues, where, "a reliability result must carry result.estimate or "
-                                "result.estimate_range")
+        if r.get("estimate") is None and r.get("estimate_range") is None \
+                and r.get("bound") is None:
+            _err(issues, where, "a reliability result must carry result.estimate, "
+                                "result.estimate_range or result.bound")
     elif r.get("reliability") is not None:
         _err(issues, where, "result.reliability is only meaningful with measure_type: reliability")
 

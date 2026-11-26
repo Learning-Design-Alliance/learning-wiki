@@ -100,6 +100,9 @@ comparisons:
     index_arm: icc
     reference_arm: tell-and-practice
     description: "Inventing with contrasting cases before being told, against being told first and practising on the same cases."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the primary coder and a secondary coder who blind-coded 25% of the data for each measure; no contrast between arms."
 
 observations:
 
@@ -324,8 +327,40 @@ observations:
     source_quote: "Word Problems 70.1% (23.1) 75.2% (20.3) 64.8% (19.6) 66.4% (19.5) 75.0% 57.0% 72.9% 56.5%"
     source_location: "Table 1, Experiment 2, T&P column"
 
+  - id: coder-agreement
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "agreement"
+      measure: "Primary coder against a secondary coder on 25% of the data, every measure, blind to condition"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      bound:
+        operator: ">"
+        value: 98
+      reliability:
+        statistic: percent_agreement
+        over: raters
+      interpretation: "Printed as a lower bound for every measure in both studies; no measured value is given."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Measures were blind-coded, and agreement was greater than 98% for each measure for both studies."
+    source_location: "Method, Measures (Study 1); applies to both studies"
+
 not_yet_extracted:
-  - "Coder agreement: the source reports only that it \"was greater than 98% for each measure for both studies\". A lower bound, not a measured value, so it is not recorded as a reliability estimate; the schema has no field for a bound."
   - "Deep-structure recall ICC 58.6% (40.6) vs T&P 38.4% (36.0), ANCOVA F(1, 111) = 8.7, d = .28; surface features 33.1% (14.8) vs 28.5% (15.2), d = .15 (Table 1; manuscript p. 23)"
   - "Worksheet accuracy during instruction: ICC 84.7% (22.7) vs T&P 91.8% (12.2), F(1, 113) = 4.5, with per-worksheet breakdown (manuscript p. 24)"
   - "Videotaped pairs: transitions among cases ICC 20.1 (10.3) vs T&P 6.0 (4.7), F(1, 22) = 18.7, d = .92 (manuscript p. 25)"
