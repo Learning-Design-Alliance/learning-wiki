@@ -1,0 +1,299 @@
+# Bursztyn & Jensen (2015), setting 1: the leaderboard natural experiment.
+#
+# The article reports two independent settings with different samples, so each
+# is its own record. This one is the change, on 20 September 2011, of a
+# commercial computer-based learning system used in remedial Grade 10-11
+# English and math courses: points and top-three leaderboards were added
+# overnight for every user at once. Setting 2 (the randomised SAT-prep sign-up
+# experiment) is `bursztyn-2015-study2`.
+#
+# DESIGN, recorded no stronger than the source states. The authors call it a
+# natural experiment, but every estimate is a before-versus-after comparison of
+# the same students with student fixed effects. There is no comparison group:
+# the change reached all students and all schools on the same day. So the
+# family is `other`, the two "arms" are the same students before and after the
+# change, and the comparison is `within-subject-baseline`. The authors argue
+# against mean reversion and time effects with placebo dates and quartile
+# contrasts; footnote 9 says that with time trends added the point estimates are
+# negative for every quartile and essentially zero for quartile 1.
+#
+# The analysed unit is the STUDENT-DAY, not the student: Table I's
+# "Observations" (95,342 in all) count student-days, and standard errors are
+# clustered by classroom. The number of students is printed only as "over
+# 5,000 ... across more than 100 schools", a lower bound, so it is kept in the
+# population prose and not recorded as a count.
+#
+# Age: the source has no data on students beyond their names, so
+# `age: unreported`. No reliability figure applies to a click-log count, and
+# none is printed.
+#
+# Read from the author manuscript deposited in PubMed Central (PMC4698889,
+# NIHMS745446), whose text layer keeps the minus signs in Table I.
+
+schema_version: 2
+
+study:
+  key: bursztyn-2015-study1
+  citation: "Bursztyn, L., & Jensen, R. (2015). How does peer pressure affect educational investments? The Quarterly Journal of Economics, 130(3), 1329–1367."
+  doi: "10.1093/qje/qjv021"
+  design:
+    family: other
+    design_detail: >-
+      Natural experiment (the authors' term) analysed as a before-after
+      comparison without a comparison group: OLS of correct answers per student
+      per day on a post-change dummy with student fixed effects, one month
+      before to one month after the change, run for the full sample and
+      separately by quartile of each student's within-classroom prechange
+      performance. Robust standard errors clustered by classroom. Placebo
+      change dates (218 for quartile 4) and a permutation test as checks.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: leaderboard-introduction-24-percent-performance-decline
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+  - claim: top-quartile-40-percent-decline-monotonic
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+
+evidence_base:
+  unit: other
+  size:
+    value: 95342
+    unit: other
+  population:
+    description: >-
+      Students in tenth- and eleventh-grade remedial English and math courses,
+      including exit-exam preparation, required of students who scored in the
+      lowest proficiency levels on the previous year's state test or failed the
+      high school exit exam. Schools have a higher minority share and local
+      poverty rate than others in the main state. After dropping classrooms with
+      fewer than five students or no prechange use, "a sample of over 5,000
+      students across more than 100 schools". `size` counts student-day
+      observations (Table I, column 1).
+    age_or_stage: "Grades 10 and 11; no data on students beyond first and last names"
+    age: unreported
+  context:
+    setting: "In-class and at-home use of a commercial computer-based learning system: multiple-choice questions drawn at random from a database, private correctness feedback, students free to choose how many to answer"
+  arms:
+    - id: pre-change
+      description: "The month before 20 September 2011: questions with private feedback on correctness only."
+    - id: post-change
+      description: "The month after 20 September 2011: the same system plus points (1,000 for a correct first try, 325 for a correct second or third try) and real-time tabs naming the top three scorers in the class, school and all users, with each student's own rank. Introduced without notice for all students at once."
+      dose:
+        amount: 1
+        unit: month
+        detail: "post period trimmed to one month to match the prechange month"
+
+comparisons:
+  - id: post-vs-pre
+    kind: within-subject-baseline
+    index_arm: post-change
+    reference_arm: pre-change
+    description: "The same students' correct answers per day in the month after the leaderboard change against the month before, with student fixed effects; no untreated comparison group."
+
+observations:
+
+  - id: correct-per-day-full-sample
+    sample:
+      value: 95342
+      unit: other
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Practice performance"
+      source_language: "Number of correct answers per day"
+      measure: "Questions answered correctly per student per day on the system; a day with no attempts recoded to 0 only if at least two classmates attempted a question that day"
+      scale: "correct answers per day"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one month before to one month after the change"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.6266
+      standard_error: 0.117
+      unit: "correct answers per day"
+      p_value: "< .01"
+      model: "OLS with student fixed effects; robust SEs clustered by classroom; R-squared 0.185"
+      descriptives: "Mean of the dependent variable before the change 2.57"
+      interpretation: "The authors describe this as a 24 percent decline from the baseline of 2.6"
+    moderators:
+      reported:
+        - variable: "Prechange performance quartile"
+          relationship: "Declines largest in the top quartile and turning positive in the bottom quartile; the authors reject equality for each pair of quartiles"
+          source_quote: "As we move down from the top quartile in the prechange performance distribution, the effects on performance become less negative, and eventually for the bottom quartile turn positive"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      `sample` counts student-days, not students. The effect is in raw units;
+      no standardized effect size is printed. No comparison group, so trends
+      common to all students are not separated from the change.
+    source_quote: "After the system is introduced, on average students answer 0.63 fewer questions correctly per day (significant at the 1 percent level). This is a 24 percent decline from the baseline of 2.6."
+    source_location: "Section II.B; Table I, column (1)"
+
+  - id: correct-per-day-quartile-1
+    sample:
+      value: 37171
+      unit: other
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Practice performance, lowest prechange quartile"
+      source_language: "Number of correct answers per day"
+      measure: "Correct answers per student per day, students in quartile 1 of their classroom's distribution of total correct answers in the prechange month"
+      scale: "correct answers per day"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one month before to one month after the change"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.1717
+      standard_error: 0.079
+      unit: "correct answers per day"
+      p_value: "< .05"
+      model: "OLS with student fixed effects; robust SEs clustered by classroom; R-squared 0.161"
+      descriptives: "Mean of the dependent variable before the change 1.27"
+      note: "Footnote 9: with time trends included the point estimates are negative for all quartiles, though essentially zero for quartile 1 (Online Appendix Table A.III, not read)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      `sample` counts student-days. Quartile 1 holds more observations than the
+      others because class sizes are not divisible by four (footnote 7).
+      Quartiles are formed on the prechange month, so regression toward the mean
+      could contribute; the authors argue against it.
+    source_quote: "Post–system change dummy −0.6266*** [0.117] 0.1717** [0.079] −0.5391*** [0.117] −1.2486*** [0.183] −1.9340*** [0.254]"
+    source_location: "Table I, column (2)"
+
+  - id: correct-per-day-quartile-2
+    sample:
+      value: 22978
+      unit: other
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Practice performance, second prechange quartile"
+      source_language: "Number of correct answers per day"
+      measure: "Correct answers per student per day, students in quartile 2 of their classroom's prechange distribution"
+      scale: "correct answers per day"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one month before to one month after the change"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.5391
+      standard_error: 0.117
+      unit: "correct answers per day"
+      p_value: "< .01"
+      model: "OLS with student fixed effects; robust SEs clustered by classroom; R-squared 0.159"
+      descriptives: "Mean of the dependent variable before the change 2.43"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: "`sample` counts student-days."
+    source_quote: "Post–system change dummy −0.6266*** [0.117] 0.1717** [0.079] −0.5391*** [0.117] −1.2486*** [0.183] −1.9340*** [0.254]"
+    source_location: "Table I, column (3)"
+
+  - id: correct-per-day-quartile-3
+    sample:
+      value: 20427
+      unit: other
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Practice performance, third prechange quartile"
+      source_language: "Number of correct answers per day"
+      measure: "Correct answers per student per day, students in quartile 3 of their classroom's prechange distribution"
+      scale: "correct answers per day"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one month before to one month after the change"
+    result:
+      measure_type: regression_coefficient
+      estimate: -1.2486
+      standard_error: 0.183
+      unit: "correct answers per day"
+      p_value: "< .01"
+      model: "OLS with student fixed effects; robust SEs clustered by classroom; R-squared 0.173"
+      descriptives: "Mean of the dependent variable before the change 3.47"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: "`sample` counts student-days."
+    source_quote: "Post–system change dummy −0.6266*** [0.117] 0.1717** [0.079] −0.5391*** [0.117] −1.2486*** [0.183] −1.9340*** [0.254]"
+    source_location: "Table I, column (4)"
+
+  - id: correct-per-day-quartile-4
+    sample:
+      value: 14766
+      unit: other
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Practice performance, top prechange quartile"
+      source_language: "Number of correct answers per day"
+      measure: "Correct answers per student per day, students in quartile 4 of their classroom's prechange distribution, those most at risk of appearing on the leaderboard"
+      scale: "correct answers per day"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one month before to one month after the change"
+    result:
+      measure_type: regression_coefficient
+      estimate: -1.9340
+      standard_error: 0.254
+      unit: "correct answers per day"
+      p_value: "< .01"
+      model: "OLS with student fixed effects; robust SEs clustered by classroom; R-squared 0.174"
+      descriptives: "Mean of the dependent variable before the change 4.81"
+      interpretation: "The authors describe this as a 40 percent decline from the prechange baseline of 4.8, and say over 90 percent of the fall in correct answers came from attempting fewer questions"
+      note: "None of 218 placebo change dates gave a larger decline, or a change as large in either direction, for quartile 4."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: "`sample` counts student-days."
+    source_quote: "For students in the top quartile in column (5), the change was associated with answering 1.93 fewer questions correctly per day (significant at the 1 percent level). This represents a 40 percent decline from the prechange baseline of 4.8."
+    source_location: "Section II.B; Table I, column (5)"
+
+not_yet_extracted:
+  - "Percent of attempted questions answered correctly and at-home use (Online Appendix Table A.IV), and the time-trend and one- or two-week-window robustness tables (A.I-A.III): in the online appendix, not read"
+  - "Placebo-date distribution for quartile 4 (Figure II) and the permutation test (footnote 11, p = .00)"

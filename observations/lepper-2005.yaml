@@ -1,0 +1,381 @@
+# Lepper, Corpus & Iyengar (2005): intrinsic and extrinsic motivation in
+# Grades 3-8, age differences and academic correlates.
+#
+# One cross-sectional sample (797 students, two San Francisco Bay Area
+# districts). The two achievement measures come from DIFFERENT subsets: the
+# California Achievement Test only for 136 students in the first district, and
+# report-card GPA only for 216 in the second. Each correlation carries its own
+# analysed n, because reading the .27 or .28 as resting on 797 would overstate
+# its precision several-fold.
+#
+# Reliability: the authors print their own alpha (.90) and 6-week test-retest
+# r (.74, second district only) for the 17-item intrinsic scale. They print no
+# reliability for the California Achievement Test.
+#
+# Age: the questionnaire asked students their age, but the article prints no
+# age figure, only grade levels, so `age: unreported`.
+#
+# Read from the publisher full text as a pdftotext text layer; no PDF of this
+# article was available to view. The text layer renders "=", the minus sign and
+# "<" with symbol-font substitutes; the source_quote fields use the characters
+# the article prints. Table 2's asterisks appear escaped ("\*") as in the text
+# layer. Every figure recorded below was read in running text or in the
+# Table 2 row, where the layer is not interleaved.
+
+schema_version: 2
+
+study:
+  key: lepper-2005
+  citation: "Lepper, M. R., Corpus, J. H., & Iyengar, S. S. (2005). Intrinsic and extrinsic motivational orientations in the classroom: Age differences and academic correlates. Journal of Educational Psychology, 97(2), 184–196."
+  doi: "10.1037/0022-0663.97.2.184"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional questionnaire study across Grades 3 to 8. Harter's forced-
+      choice intrinsic-versus-extrinsic scale decomposed into separate 5-point
+      Likert-type intrinsic (17 items) and extrinsic (13 items) scales. One-way
+      ANOVAs across the six grade levels with a weighted polynomial linear
+      contrast; correlations of each scale with report-card GPA (concurrent,
+      second district) and with California Achievement Test scores (the next
+      academic period, first-district subset).
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: intrinsic-motivation-positively-correlated-achievement
+    bearing: supports
+    anchor: lepper-2005
+  - claim: intrinsic-motivation-positively-correlated-achievement
+    bearing: supports
+    anchor: lepper-2005-2
+  - claim: intrinsic-motivation-linear-decline-grades-3-8
+    bearing: supports
+    anchor: lepper-2005
+
+evidence_base:
+  unit: participants
+  size:
+    value: 797
+    unit: participants
+  additional_sizes:
+    - value: 577
+      unit: participants
+      note: "first district, large urban; the California Achievement Test subset (136) comes from here"
+    - value: 220
+      unit: participants
+      note: "second district, suburban; report-card GPA (216) and the test-retest subsample (208) come from here"
+  population:
+    description: >-
+      Third- to eighth-grade students in two public school districts in the San
+      Francisco Bay Area, roughly equally divided across the six grades; 401
+      girls and 395 boys (one not reporting sex). 42% Asian American (76% of
+      them Chinese American), 34% Caucasian, 2% African American, 5% Hispanic,
+      10% other, 7% not reporting.
+    age_or_stage: "Grades 3 through 8; age was asked on the questionnaire but no age figure is printed"
+    age: unreported
+  context:
+    setting: "Classroom questionnaire of about 30 minutes, administered by one of seven administrators with parental consent; achievement data taken from school records several months later"
+  arms:
+    - id: grade-3
+      description: "Third-grade students in the cross-sectional sample (n not printed per grade)."
+    - id: grade-8
+      description: "Eighth-grade students in the cross-sectional sample (n not printed per grade)."
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Scale properties, correlations and the grade-level trend in the whole sample or the district subset that had the measure; no contrast between assigned groups."
+
+observations:
+
+  - id: intrinsic-cat5-overall-r
+    sample:
+      value: 136
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Standardized achievement"
+      source_language: "standardized test scores"
+      measure: "California Achievement Test (CAT5), overall score, collected for the academic period after the survey"
+      scale: "correlation with the 17-item intrinsic motivation scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test in the new academic period following the survey year"
+    result:
+      measure_type: correlation
+      estimate: 0.27
+      p_value: "< .01"
+      note: "Extrinsic motivation correlated -.32 (p < .001) with the same scores. In a regression with both scales, intrinsic beta = .21 (p = .01), extrinsic beta = -.27 (p < .01), footnote 4."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      First-district subset only; its grade and ethnic make-up is not printed
+      separately. The article reports no reliability for the California
+      Achievement Test, and too few scores for a comparison by grade.
+    source_quote: "standardized test scores proved both positively correlated with intrinsic motivation (r = .27, p < .01)"
+    source_location: "Results, Relationship to Achievement, Test scores; Table 2"
+
+  - id: intrinsic-cat5-math-r
+    sample:
+      value: 136
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "CAT5—Math"
+      measure: "California Achievement Test (CAT5), mathematics portion, collected for the academic period after the survey"
+      scale: "correlation with the 17-item intrinsic motivation scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test in the new academic period following the survey year"
+    result:
+      measure_type: correlation
+      estimate: 0.28
+      p_value: "< .01"
+      note: "Table 2 also prints CAT5 Reading .21 (p < .05) with intrinsic motivation, and -.28 (p < .01) for extrinsic motivation with CAT5 Math."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The n of 136 is the subset with test data stated in the Procedure, not in
+      Table 2 itself. The intrinsic scale is school-general, not specific to
+      mathematics.
+    source_quote: 'CAT5—Overall .27\*\* −.32\*\*\* CAT5—Reading .21\* −.30\*\*\* CAT5—Math .28\*\* −.28\*\*'
+    source_location: "Table 2, CAT5 rows (intrinsic column first)"
+
+  - id: intrinsic-gpa-r
+    sample:
+      value: 216
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Grade point average"
+      source_language: "overall GPA"
+      measure: "Report-card grades for the survey year on a 4-point scale, averaged over language arts, math, social studies, science and an elective"
+      scale: "correlation with the 17-item intrinsic motivation scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "concurrent with the survey year"
+    result:
+      measure_type: correlation
+      estimate: 0.34
+      p_value: "< .001"
+      note: "Extrinsic motivation correlated -.23 (p < .01) with GPA. In a regression with both scales, intrinsic beta = .29 (p < .01), extrinsic beta = -.10 (ns), footnote 3."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Second district only. The authors say the correlation was positive at all
+      six grade levels but print no per-grade values.
+    source_quote: "there was a significant positive correlation between overall GPA and intrinsic motivation (r = .34, p < .001)"
+    source_location: "Results, Relationship to Achievement, Grades; Table 2"
+
+  - id: intrinsic-scale-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Intrinsic motivation scale"
+      source_language: "Items were internally consistent"
+      measure: "17-item intrinsic motivation scale (preference for challenge, curiosity, independent mastery items), 5-point Likert-type"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the survey administration"
+    result:
+      measure_type: reliability
+      estimate: 0.90
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article does not state the n on which the alpha was computed, so no
+      sample is recorded. The extrinsic composite's alpha (.78) and subscale
+      alphas (.77, .73, .67) are printed in the same section.
+    source_quote: "Items were internally consistent (α = .90)"
+    source_location: "Method, Measures, Motivational orientation"
+
+  - id: intrinsic-scale-retest
+    sample:
+      value: 208
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Intrinsic motivation scale"
+      source_language: "test–retest data"
+      measure: "17-item intrinsic motivation scale, administered twice 6 weeks apart"
+      scale: "correlation between the two administrations"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "6 weeks after the initial administration"
+      offset:
+        value: 6
+        unit: weeks
+        from: "initial administration"
+    result:
+      measure_type: reliability
+      estimate: 0.74
+      p_value: "< .001"
+      reliability:
+        statistic: other
+        over: occasions
+        form: "test-retest Pearson r"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Second district only."
+    source_quote: "test–retest data collected from participants in the second school district (n = 208) 6 weeks after the initial administration revealed a strong positive correlation between the two test administrations (r = .74, p < .001)."
+    source_location: "Method, Measures, Motivational orientation"
+
+  - id: intrinsic-linear-trend-share
+    sample:
+      value: 797
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Intrinsic motivation across grade levels"
+      source_language: "reported intrinsic motivation"
+      measure: "17-item intrinsic motivation scale, mean item rating"
+      scale: "share of between-grade variance on a weighted linear contrast across Grades 3-8"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, one administration"
+    result:
+      measure_type: other
+      estimate: 96
+      unit: "percent of between-groups variance"
+      statistic: "F(1, 791) = 92.58"
+      p_value: "< .001"
+      model: "Weighted polynomial linear contrast within a one-way ANOVA across six grade levels; omnibus F(5, 791) = 19.27, p < .001"
+      interpretation: "Lower intrinsic motivation at each higher grade, almost wholly linear. Cross-sectional: different children at each grade, not change within children."
+    moderators:
+      reported: []
+      candidate:
+        - "Social desirability: CSDS scores were higher in Grade 3 than Grade 8; with CSDS as covariate the grade effect (F(5, 212) = 3.00) and linear trend (F(1, 212) = 13.69) remained (second district only)"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      A share of variance explained by the trend, not a standardized effect of
+      grade. Per-grade n and the Grade 4-7 means are shown only in Figure 2.
+    source_quote: "A weighted polynomial contrast assessing the linear trend across grade levels proved highly significant, F(1, 791) = 92.58, p < .001, and accounted for 96% of the between- groups variance."
+    source_location: "Results, Age Differences, Intrinsic motivation"
+
+  - id: intrinsic-mean-grade-3
+    arm_ref: grade-3
+    outcome:
+      construct: "Intrinsic motivation"
+      source_language: "levels of reported intrinsic motivation"
+      measure: "17-item intrinsic motivation scale, mean item rating"
+      scale: "5-point Likert-type scale"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, one administration"
+    result:
+      measure_type: mean
+      estimate: 4.07
+      sd: 0.67
+      unit: "points on the 5-point scale"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The number of third graders is not printed."
+    source_quote: "levels of reported intrinsic motivation were highest for the young- est students (third grade, M = 4.07, SD = .67) and lowest for the oldest students (eighth grade, M = 3.42, SD = .75), F(5, 791) = 19.27, p < .001."
+    source_location: "Results, Age Differences, Intrinsic motivation"
+
+  - id: intrinsic-mean-grade-8
+    arm_ref: grade-8
+    outcome:
+      construct: "Intrinsic motivation"
+      source_language: "levels of reported intrinsic motivation"
+      measure: "17-item intrinsic motivation scale, mean item rating"
+      scale: "5-point Likert-type scale"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, one administration"
+    result:
+      measure_type: mean
+      estimate: 3.42
+      sd: 0.75
+      unit: "points on the 5-point scale"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The number of eighth graders is not printed."
+    source_quote: "levels of reported intrinsic motivation were highest for the young- est students (third grade, M = 4.07, SD = .67) and lowest for the oldest students (eighth grade, M = 3.42, SD = .75), F(5, 791) = 19.27, p < .001."
+    source_location: "Results, Age Differences, Intrinsic motivation"
+
+not_yet_extracted:
+  - "Extrinsic motivation: correlation with intrinsic motivation (r = -.24) and Table 1 subscale intercorrelations"
+  - "Extrinsic motivation by grade: omnibus F(5, 791) = 5.05, a Grade 3 versus all other grades difference only; preference for easy work rising with grade once Grade 3 is excluded"
+  - "Ethnicity: intrinsic-extrinsic correlation Caucasian -.30 versus Chinese American -.11 (z = 2.32)"
+  - "Teacher ratings of intrinsic motivation correlated .26 with self-reported intrinsic motivation (first district, n = 299)"
+  - "Children's Social Desirability Scale reliability: the article cites Crandall and colleagues' split-half reliabilities and prints none of its own"

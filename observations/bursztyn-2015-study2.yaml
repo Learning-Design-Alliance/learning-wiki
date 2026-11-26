@@ -1,0 +1,347 @@
+# Bursztyn & Jensen (2015), setting 2: the SAT-prep sign-up field experiment.
+#
+# The article's second, independent setting (setting 1, the leaderboard change,
+# is `bursztyn-2015-study1`). 825 eleventh graders in 26 honors and nonhonors
+# classrooms of four south Los Angeles high schools were offered free access to
+# an online SAT preparation course. Sign-up forms, pre-sorted in an alternating
+# pattern and handed out in seat order, differed in one word: the decision would
+# be kept private from everyone "including" (private) or "except" (public) the
+# other students in the room. The authors describe this as randomising at the
+# level of the student within the classroom; no sign-up decision was in fact
+# revealed.
+#
+# Results are reported separately for nonhonors and honors classes, and then
+# for "some-honors" students (taking one to three honors classes), who were
+# found in an honors or a nonhonors class depending on which period the team
+# arrived. That last split is not randomised: the authors argue the timing is
+# unrelated to student characteristics and compare only students taking the
+# same number of honors classes. Each split is its own observation with its own
+# analysed n; nothing is pooled here.
+#
+# Age: the article prints mean age only per condition (Table II: private 16.74,
+# SD 0.535, n 411; public 16.75, SD 0.489, n 414), never for the whole sample.
+# Choosing one of them, or averaging them, would be a deduced figure, so
+# `population.age` is not written and the two printed means are recorded as
+# `measure_type: mean` observations on their arms. No reliability figure is
+# printed for any measure.
+#
+# Read from the author manuscript deposited in PubMed Central (PMC4698889,
+# NIHMS745446). Table quotes are given whitespace-normalised, as the table rows
+# span several lines in that text.
+
+schema_version: 2
+
+study:
+  key: bursztyn-2015-study2
+  citation: "Bursztyn, L., & Jensen, R. (2015). How does peer pressure affect educational investments? The Quarterly Journal of Economics, 130(3), 1329–1367."
+  doi: "10.1093/qje/qjv021"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Field experiment with assignment of the sign-up form (public or private)
+      across students within classrooms, forms pre-sorted in an alternating
+      pattern. Linear probability models of sign-up on a public-treatment
+      dummy, separately for nonhonors and honors classes, without and with
+      individual covariates and classroom and surveyor fixed effects; robust,
+      wild-bootstrap clustered and permutation-test p-values. The some-honors
+      analysis exploits which class a student happened to be in when the team
+      arrived, which was not randomised.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: public-signup-reduces-nonhonors-signup-11-points
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+  - claim: honors-classes-signup-unaffected-by-privacy
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+  - claim: some-honors-students-conform-to-local-peer-norms
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+  - claim: popularity-concern-moderates-peer-pressure-response
+    bearing: supports
+    anchor: bursztyn-leonardo-2015
+
+evidence_base:
+  unit: participants
+  size:
+    value: 825
+    unit: participants
+  additional_sizes:
+    - value: 26
+      unit: classes
+      note: "classrooms visited across the four schools; assignment was within classrooms, so classes are not the unit assigned"
+    - value: 4
+      unit: schools
+      note: "the four largest public high schools in a disadvantaged area of south Los Angeles"
+    - value: 560
+      unit: participants
+      note: "students in nonhonors classes"
+    - value: 265
+      unit: participants
+      note: "students in honors classes"
+    - value: 343
+      unit: participants
+      note: "some-honors students, taking some but not all honors classes (42 percent of the sample)"
+  population:
+    description: >-
+      Eleventh-grade students in four large public high schools (around 3,000
+      students each) in south Los Angeles, with more students eligible for free
+      and reduced-price meals (84 versus 68 percent) and of Hispanic ethnicity
+      (96 versus 69 percent) than the average LAUSD school. All students present
+      in the visited classrooms took part. Table II: 51-52 percent male, 96
+      percent Hispanic, mean GPA about 2.5, about 1.4 honors classes on average.
+    age_or_stage: "Grade 11; mean age printed only per condition (Table II), recorded as two observations"
+  context:
+    setting: "One classroom visit per period, December 2013 to April 2014; the whole intervention took less than 10 minutes; the course was worth about $200 per student and was not previously used in these schools"
+  arms:
+    - id: private-signup
+      description: "Sign-up form stating the decision would be kept completely private from everyone, including the other students in the room."
+      size:
+        value: 411
+        unit: participants
+    - id: public-signup
+      description: "Identical sign-up form stating the decision would be kept completely private from everyone, except the other students in the room."
+      size:
+        value: 414
+        unit: participants
+
+comparisons:
+  - id: public-vs-private
+    kind: between-groups
+    index_arm: public-signup
+    reference_arm: private-signup
+    description: "Students given the public form against classmates given the private form, within the same classrooms."
+
+observations:
+
+  - id: signup-public-effect-nonhonors
+    sample:
+      value: 560
+      unit: participants
+    comparison_ref: public-vs-private
+    outcome:
+      construct: "Educational investment decision"
+      source_language: "Dummy: student signed up for the SAT prep course"
+      measure: "Whether the student signed up on the form for the free online SAT preparation course"
+      scale: "proportion signing up"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer, in class"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.1083
+      standard_error: 0.040
+      unit: "proportion signing up (linear probability model)"
+      p_value: "robust .007; wild bootstrap .012; permutation .006"
+      model: "OLS, no controls, nonhonors classes (Table III col. 1); with individual covariates -0.1195 [0.040], n 531; adding classroom and surveyor fixed effects -0.1231 [0.040], n 531"
+      descriptives: "Mean private take-up 0.717. Raw sign-up 72 percent private, 61 percent public (Figure IV)"
+    moderators:
+      reported:
+        - variable: "Self-rated importance of being popular"
+          relationship: "Public sign-up 20 percentage points lower for students saying popularity is important (p = .002); small (4 points) and non-significant for those saying it is not"
+          source_quote: "Figure V shows that for students in nonhonors classes who say that it is important to be popular, the sign-up rate is 20 percentage points lower in the public condition than in the private condition (p = .002)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The effect is a difference in proportions; no standardized effect size is
+      printed. The popularity split is self-reported on a later form.
+    source_quote: "Public treatment −0.1083*** [0.040] −0.1195*** [0.040] −0.1231*** [0.040] 0.0157 [0.033] 0.0095 [0.032] 0.0092 [0.031]"
+    source_location: "Section III.D; Table III, column (1); Figure IV"
+
+  - id: signup-public-effect-honors
+    sample:
+      value: 265
+      unit: participants
+    comparison_ref: public-vs-private
+    outcome:
+      construct: "Educational investment decision"
+      source_language: "Dummy: student signed up for the SAT prep course"
+      measure: "Whether the student signed up on the form for the free online SAT preparation course"
+      scale: "proportion signing up"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer, in class"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.0157
+      standard_error: 0.033
+      unit: "proportion signing up (linear probability model)"
+      p_value: ".631"
+      model: "OLS, no controls, honors classes (Table III col. 4); with covariates 0.0095 [0.032] and with fixed effects 0.0092 [0.031], n 258"
+      descriptives: "Mean private take-up 0.917. Raw sign-up 92 percent private, 93 percent public"
+      interpretation: "No difference; sign-up near ceiling under both forms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "In honors classes, private and public sign-up rates are very high overall, and very similar: 92 percent of students sign up under the private treatment, while 93 percent sign up under the public one (p = .631)."
+    source_location: "Section III.D; Table III, column (4); Figure IV"
+
+  - id: signup-public-effect-some-honors-in-nonhonors
+    sample:
+      value: 184
+      unit: participants
+    comparison_ref: public-vs-private
+    outcome:
+      construct: "Educational investment decision"
+      source_language: "Dummy: student signed up for the SAT prep course"
+      measure: "Sign-up for the course among students taking one to three honors classes who were offered it while in one of their nonhonors classes"
+      scale: "proportion signing up"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer, in class"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.1673
+      standard_error: 0.061
+      unit: "proportion signing up (linear probability model)"
+      p_value: "robust .007; wild bootstrap .008; permutation .006"
+      model: "OLS with dummies for the number of honors classes (Table IV col. 1); with covariates, fixed effects and honors-subject controls the estimates are -0.1486 to -0.1467, n 176"
+      descriptives: "Mean private take-up 0.848"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The public/private form is assigned; which class type a some-honors
+      student was in at the visit is not, and is argued to be as good as random
+      by timing.
+    source_quote: "Public treatment −0.1673*** [0.061] −0.1486** [0.061] −0.1465** [0.063] −0.1467** [0.064] 0.0850* [0.047] 0.0729 [0.046] 0.0834* [0.045] 0.0887* [0.048]"
+    source_location: "Section III.D; Table IV, column (1)"
+
+  - id: signup-public-effect-some-honors-in-honors
+    sample:
+      value: 159
+      unit: participants
+    comparison_ref: public-vs-private
+    outcome:
+      construct: "Educational investment decision"
+      source_language: "Dummy: student signed up for the SAT prep course"
+      measure: "Sign-up for the course among students taking one to three honors classes who were offered it while in one of their honors classes"
+      scale: "proportion signing up"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer, in class"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.0850
+      standard_error: 0.047
+      unit: "proportion signing up (linear probability model)"
+      p_value: "robust .071; wild bootstrap .114; permutation .061"
+      model: "OLS with dummies for the number of honors classes (Table IV col. 5); other specifications 0.0729 to 0.0887, n 155"
+      descriptives: "Mean private take-up 0.864"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      Significant at the 10 percent level in three of four specifications;
+      class type at the visit was not randomised (see the previous observation).
+    source_quote: "Public treatment −0.1673*** [0.061] −0.1486** [0.061] −0.1465** [0.063] −0.1467** [0.064] 0.0850* [0.047] 0.0729 [0.046] 0.0834* [0.045] 0.0887* [0.048]"
+    source_location: "Section III.D; Table IV, column (5)"
+
+  - id: age-mean-private
+    sample:
+      value: 411
+      unit: participants
+    arm_ref: private-signup
+    outcome:
+      construct: "Age"
+      source_language: "Age"
+      measure: "Student age, covariate balance table"
+      scale: "years"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer"
+    result:
+      measure_type: mean
+      estimate: 16.74
+      sd: 0.535
+      unit: years
+      note: "Balance test against the public condition p = .851"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "How age was collected (form or records) is not stated."
+    source_quote: "Age 16.74 [0.535] 16.75 [0.489] .851"
+    source_location: "Table II, Age row"
+
+  - id: age-mean-public
+    sample:
+      value: 414
+      unit: participants
+    arm_ref: public-signup
+    outcome:
+      construct: "Age"
+      source_language: "Age"
+      measure: "Student age, covariate balance table"
+      scale: "years"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the offer"
+    result:
+      measure_type: mean
+      estimate: 16.75
+      sd: 0.489
+      unit: years
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Age 16.74 [0.535] 16.75 [0.489] .851"
+    source_location: "Table II, Age row"
+
+not_yet_extracted:
+  - "Popularity interaction regressions (Table V): nonhonors public x important -0.1972 [0.063], public x not important -0.0425 [0.053]; honors 0.0494 and -0.0044"
+  - "Classmates' private sign-up rates and GPA by class type (65 versus 100 percent; GPA 2.03 versus 3.54)"
+  - "Account activation (Section III.F): 8.2 percentage points lower when public in nonhonors classes, from 57 percent (p = .051); 81 percent follow-through overall"
