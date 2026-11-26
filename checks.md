@@ -8,11 +8,11 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 90,124, from 20,925 sources |
+| Claims | 90,132, from 20,926 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 8,777 claims (10%) |
-| Claims citing at least one DOI | 76,584 claims (85%) |
-| Sources whose citations went through the Crossref identity gate | 20,095 of 20,925 |
+| Claims citing at least one DOI | 76,592 claims (85%) |
+| Sources whose citations went through the Crossref identity gate | 20,096 of 20,926 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 11 |
@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 24,486 sources reviewed: 20,925 ingested, 3,561 refused (out-of-scope 3,072, no-ingestable-content 207, validation-error 205, already-covered 31, uncoded 22, opinion-piece 17, parse-error 4, no-contributions-extracted 3).
+**Coverage.** 24,487 sources reviewed: 20,926 ingested, 3,561 refused (out-of-scope 3,072, no-ingestable-content 207, validation-error 205, already-covered 31, uncoded 22, opinion-piece 17, parse-error 4, no-contributions-extracted 3).
 
 ### 2. Extraction and structural validation
 
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 20,095 of 20,925 ingested sources passed the gate with the registry reachable; 559 DOIs removed as the wrong paper, 99 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 20,096 of 20,926 ingested sources passed the gate with the registry reachable; 559 DOIs removed as the wrong paper, 99 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 76,584 of 90,124 claims (85%) cite a DOI; 2,915 claims removed for having none.
+**Coverage.** 76,592 of 90,132 claims (85%) cite a DOI; 2,915 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 106,701 evidence entries; 12,760 rest on a printed effect size and 93,973 report none (`i?`); 100,122 carry a rigour rating.
+**Coverage.** 106,714 evidence entries; 12,763 rest on a printed effect size and 93,983 report none (`i?`); 100,135 carry a rigour rating.
 
 ### 9. Duplicates and merges
 

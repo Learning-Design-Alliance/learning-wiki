@@ -50,3 +50,4 @@ Moderator analysis of the 56 corrected correlations. The article reports year of
 - [Stem-equivalent MC and CR items yield significantly higher corrected correlations than non-stem-equivalent items](stem-equivalent-items-higher-mc-cr-correlations.md) — related
 - [Item design characteristics explain about 23% of the variance in MC–CR correlations across studies](item-design-explains-23-percent-variance.md) — related
 - [The mean disattenuated MC–CR correlation under a random effects model is 0.902, below unity](mean-corrected-mc-cr-correlation-0902.md) — related
+- [Stem-equivalent items reduce the OE–CE score difference but do not significantly moderate the OE–CE correlation](stem-equivalency-moderates-oe-ce-score-difference.md) — related

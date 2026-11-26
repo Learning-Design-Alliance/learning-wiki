@@ -5,6 +5,17 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · j-sim-19: Breuer et al. (2023) with a stronger extraction model
+
+Breuer et al. (2023) had failed structural validation twice with the default extraction model (`z-ai/glm-5.3-flash`).
+That model gave impact codes to meta-regression moderators without quoting a printed effect size. Retried with
+`anthropic/claude-opus-5.5`, the same pipeline passed validation with 0 errors after one correction pass. It wrote
+8 claims, for example the pooled CE–OE difference, d = −0.65, coded `i2`.
+
+All of Breuer's citations were checked against Crossref: none removed, none flagged. Neither scope model voted a page
+out, and the citation-edit check flagged only 3 added lines. Norman et al. (1985) is treated as unavailable
+(maintainer), so every source the simulator cites now has its text in the wiki.
+
 ## 2026-11-26 · j-sim-18: Jin et al. (2026) and two retries
 
 The batch queued Jin et al. (2026), from the maintainer's Drive copy, with three retries from j-sim-16. Three of the

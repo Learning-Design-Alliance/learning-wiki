@@ -49,3 +49,4 @@ Random effects moderator analysis of 56 disattenuated correlations from 29 studi
 - [Content-equivalent items show a slight but nonsignificant correlation advantage, and essay-type CR items yield lower corrected correlations](content-equivalent-nonsignificant-essay-lower.md) — related
 - [Item design characteristics explain about 23% of the variance in MC–CR correlations across studies](item-design-explains-23-percent-variance.md) — a broader claim this one bears on
 - [The mean disattenuated MC–CR correlation under a random effects model is 0.902, below unity](mean-corrected-mc-cr-correlation-0902.md) — related
+- [Stem-equivalent items reduce the OE–CE score difference but do not significantly moderate the OE–CE correlation](stem-equivalency-moderates-oe-ce-score-difference.md) — reports the opposite
