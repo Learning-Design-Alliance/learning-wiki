@@ -1,0 +1,332 @@
+# van Rijsewijk, Dijkstra, Pattiselanno, Steglich & Veenstra (2016): who helps
+# whom in adolescent classroom help-nomination networks (SNARE, RSiena).
+#
+# Read from the University of Groningen repository copy (publisher's PDF,
+# version of record). The text layer renders "=" as "!" and the minus sign as
+# "#" ("b ! #.17"), and pdftotext splits Table 2 into columns. So every
+# source_quote below that carries an "=", a minus sign, or a Table 2 row was
+# taken from the page images (pp. 898, 900, 901) in the article's own
+# characters, and will not substring-match the text layer. The quotes for the
+# zero-outdegree and reciprocity text ranges match the text layer as is.
+#
+# WHAT THIS RECORD HOLDS:
+#
+#   * The help-nomination network's descriptive shape: mean number of helpers
+#     named (a single-group mean, `arm_ref` on the one cohort), the share
+#     naming no helper and the share of nominations reciprocated (Table 2,
+#     one value per wave, so held as a range over the three waves, not as an
+#     invented midpoint).
+#   * The RSiena meta-analytic parameters the authors report as findings:
+#     reciprocity, and the academic-achievement ego effect, with the
+#     ego-alter selection-table value for low achievers naming high
+#     achievers. These are the article's own fitted estimates (log-odds
+#     contributions to the actor's objective function), recorded as printed.
+#   * `population.age` with the one sample-level mean the article prints
+#     (13.4); the per-wave means and per-wave ranges are in the note.
+#
+# Academic achievement here is SELF-RATED (Dutch and mathematics, 1-5 each,
+# summed), not grades or a test, and the help question covers any kind of help
+# (homework, a flat bicycle tyre, feeling down). Both limit what the
+# achievement findings say about academic help.
+
+schema_version: 2
+
+study:
+  key: van-rijsewijk-2016
+  citation: "van Rijsewijk, L., Dijkstra, J. K., Pattiselanno, K., Steglich, C., & Veenstra, R. (2016). Who helps whom? Investigating the development of adolescent prosocial relationships. Developmental Psychology, 52(6), 894-908."
+  doi: "10.1037/dev0000106"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Three-wave longitudinal social network study within one school year
+      (October 2011, December 2011, April 2012) of all first- and second-year
+      students of one Dutch secondary school with four locations. Unlimited
+      within-classroom peer nominations to "who helps you with problems".
+      Stochastic actor-based models (RSiena) fitted separately to four
+      school-location networks (classrooms combined with structural zeros
+      between classes) and combined in a random-effects meta-analysis of the
+      location parameters (Snijders & Baerveldt, 2003). Observational: no
+      condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: low-achievers-received-more-help
+    bearing: supports
+    anchor: van-rijsewijk-2016
+  - claim: low-achievers-received-more-help
+    bearing: supports
+    anchor: van-rijsewijk-2016-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 840
+    unit: participants
+  additional_sizes:
+    - value: 854
+      unit: participants
+      note: "first- and second-year students assessed, before refusals and deletions"
+    - value: 40
+      unit: classes
+      note: "classrooms; nominations were made only within the classroom"
+    - value: 4
+      unit: sites
+      note: "school locations; RSiena models were fitted per location and meta-analysed"
+  population:
+    description: >-
+      First- and second-year students of one secondary school in the northern
+      Netherlands covering the full range of academic tracks, part of the SNARE
+      project. 838, 842 and 839 participants at Waves 1-3; 49.6-49.8% boys.
+      Fifteen students refused consent and their data were deleted.
+    age_or_stage: "First and second year of secondary school"
+    age:
+      unit: years
+      mean: 13.4
+      note: >-
+        13.4 is the abstract's figure for the sample across waves. Table 2 gives
+        wave means of 13.1, 13.3 and 13.7; Table 3 gives age ranges of
+        11.43-15.35 at Wave 1 and 11.61-15.47 at Wave 2.
+  context:
+    setting: "Classroom computer questionnaire during regular school hours, about 45 minutes, passive parental consent under Dutch law"
+  arms:
+    - id: snare-cohort
+      description: "All participating first- and second-year students, as one group; the network descriptives are computed over them (per classroom, then averaged, where Table 2 marks it)."
+
+comparisons:
+  - id: rsiena-selection-model
+    kind: none
+    description: "Parameters of the RSiena selection model for the help network, meta-analysed across the four school locations; each parameter is a tendency within the whole network, not a contrast between groups."
+
+observations:
+
+  - id: helpers-named-mean
+    arm_ref: snare-cohort
+    outcome:
+      construct: "Number of peers named as helpers"
+      source_language: "the number of helpers (outdegree)"
+      measure: "Unlimited within-classroom nominations to 'who helps you with problems (e.g., with homework, with repairing a flat [bicycle] tire, or when you are feeling down)?'"
+      scale: "classmates named per participant"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "averaged across Waves 1-3 of one school year"
+    result:
+      measure_type: mean
+      estimate: 2.47
+      sd: 2.73
+      unit: "classmates named as helpers"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Nominations from participants who named everyone in their class were set
+      to structural zeros before this figure (five at Waves 1 and 2, seven at
+      Wave 3, one at all waves). Table 2 prints the per-classroom means as 2.5,
+      2.5 and 2.4 by wave.
+    source_quote: "On average, the number of helpers (outdegree) across the waves was 2.47 (SD = 2.73)."
+    source_location: "Method, Measures, Prosocial relationships (p. 898); quote from the page image"
+
+  - id: named-no-helper-share
+    arm_ref: snare-cohort
+    outcome:
+      construct: "Share of students naming no helper"
+      source_language: "0 Outdegree (%)"
+      measure: "Participants who nominated no classmate on the help question"
+      scale: "percent of participants"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October 2011, December 2011, April 2012)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 18.5
+        upper: 21.9
+        over:
+          value: 3
+          unit: other
+      unit: "percent of participants"
+      descriptives: "Table 2: 18.5 (W1), 20.3 (W2), 21.9 (W3); the text gives the range as 18% to 22%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over the three waves (the `over` unit is `other` because
+      the count vocabulary has no unit for measurement waves). Table 2's note
+      says this row is calculated over the full sample, not per classroom.
+    source_quote: "Prosocial relations were quite common, as only 18% to 22% reported not being helped (zero outdegree), and 8% to 10% of the participants were not reported as helpers (zero indegree)."
+    source_location: "Results, Descriptive Results (p. 899); Table 2 row '0 Outdegree (%) 18.5 20.3 21.9' (p. 900, read from the page image)"
+
+  - id: reciprocated-nominations-share
+    arm_ref: snare-cohort
+    outcome:
+      construct: "Reciprocity of help nominations"
+      source_language: "Reciprocity (%)"
+      measure: "Share of help nominations that were mutual, calculated per classroom network and averaged over the 40 classrooms"
+      scale: "percent of nominations"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October 2011, December 2011, April 2012)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 43.5
+        upper: 49.1
+        over:
+          value: 3
+          unit: other
+      unit: "percent of nominations reciprocated, classroom average"
+      descriptives: "Table 2: 49.1 (W1), 43.5 (W2), 44.5 (W3); the text gives 'About 40% to 50%'. Density was 13.0% at every wave."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over the three waves. Reciprocity here is a share of
+      nominations, not of dyads; the article does not define the denominator
+      further than "the nominations were mutual".
+    source_quote: "About 40% to 50% of the nominations were mutual (reciprocal)."
+    source_location: "Results, Descriptive Results (p. 899); Table 2 row 'Reciprocity (%) 49.1 43.5 44.5' (p. 900, read from the page image)"
+
+  - id: rsiena-reciprocity-parameter
+    comparison_ref: rsiena-selection-model
+    outcome:
+      construct: "Tendency to reciprocate help nominations"
+      source_language: "reciprocity parameter"
+      measure: "RSiena reciprocity effect (recip) on the help network, controlling for the other selection effects in Table 5"
+      scale: "log-odds contribution to the actor's objective function"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.72
+      standard_error: 0.09
+      p_value: "p < .001"
+      model: >-
+        Stochastic actor-based selection model (RSiena), mean parameter over
+        four school locations from a random-effects meta-analysis. Reported
+        odds 5.59, 95% CI of the odds 4.65-6.72; between-location SD 0.19,
+        chi-squared(3) = 4.23 (not significant).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A fitted model parameter the authors report as a finding. The authors
+      warn that its odds reading assumes all else equal, which they call
+      problematic because network parameters correlate.
+    source_quote: "The positive value of the reciprocity parameter (b = 1.72, SE = .09, odds = 5.59) indicates that helping relations tended to become mutual"
+    source_location: "Results, Structural network effects (p. 901); Table 5; quote from the page image"
+
+  - id: achievement-ego-effect
+    comparison_ref: rsiena-selection-model
+    outcome:
+      construct: "Naming peers as helpers (receiving help), by own academic achievement"
+      source_language: "The negative ego effect for academic achievement"
+      measure: "RSiena ego effect of self-rated academic achievement (Dutch plus mathematics, each 1-5, summed; mean 6.94, SD 1.44) on nominating helpers"
+      scale: "log-odds contribution to the actor's objective function per scale point"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.17
+      standard_error: 0.02
+      p_value: "p < .001"
+      model: >-
+        Same RSiena meta-analysis. Odds .84 (95% CI .82-.87). The alter effect
+        of achievement (being named as a helper) was b = .01, SE = .02, odds
+        1.01, and the similarity effect b = .17, SE = .23, both not
+        significant. Between-location chi-squared(3) for the ego effect 5.59,
+        not significant.
+    moderators:
+      reported: []
+      candidate:
+        - "The help question pooled academic, practical and emotional help; the authors expect academic help specifically would relate more strongly to achievement"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Achievement is a self-rating, not grades or a test score. A negative ego
+      effect means higher self-rated achievers named fewer helpers.
+    source_quote: "The negative ego effect for academic achievement suggests that higher achievers received help less often (b = −.17, SE = .02, odds = .84)."
+    source_location: "Results, Academic achievement (p. 900); Table 5; quote from the page image"
+
+  - id: low-to-high-achiever-selection
+    comparison_ref: rsiena-selection-model
+    outcome:
+      construct: "Attraction of a low achiever to a high-achieving helper"
+      source_language: "Low-achieving students, however, tended to mention high-achieving peers as their helpers"
+      measure: "Ego-alter selection table for self-rated academic achievement, derived by the authors from the Table 5 ego, alter and similarity parameters"
+      scale: "contribution to the actor's objective function (low-achieving ego, high-achieving alter)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: other
+      estimate: 0.73
+      descriptives: "Table 6, academic achievement: low ego to low alter -.05, low to high .73, high to low -.71, high to high -.46"
+      interpretation: "The authors summarise: low-achieving adolescents generally received help more often, and in particular from high-achieving peers"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A value the authors computed from fitted parameters, as printed in Table
+      6; no standard error or interval is given for it. The article does not
+      print the share of help flowing from higher to lower achievers.
+    source_quote: "In Table 6, it can be seen that higher achievers less likely mentioned low- or high-achieving peers as their helpers (−.71 and −.46). Low-achieving students, however, tended to mention high-achieving peers as their helpers (.73)."
+    source_location: "Results, Academic achievement (p. 900); Table 6 (p. 904); quote from the page image"
+
+not_yet_extracted:
+  - "Other Table 5 RSiena parameters: outdegree -1.99, transitivity .45, balance -.08, outdegree popularity -.29, friendship .88; ego, alter and similarity effects of sex, depressive mood, peer rejection and popularity"
+  - "Other Table 2 network descriptives by wave: zero indegree 8.5/8.1/10.0%, transitivity 57.3/55.6/54.4%, same sex 79.5/80.4/79.1%, Jaccard indices 37.5% and 31.3%; friendship network density 25-27%"
+  - "Internal consistency of the three-item depressive-mood scale (alpha .81 at Wave 1, .85 at Wave 2): a predictor, not the help-network outcome"
+  - "Table 4 correlations of giving and receiving help with study variables, by gender and wave"

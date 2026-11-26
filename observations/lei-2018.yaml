@@ -1,0 +1,469 @@
+# Lei, Cui & Zhou (2018): student engagement and academic achievement, a
+# meta-analysis of correlations (Grades 1-12, literature 2003-2015).
+#
+# Read from the publisher's PDF text layer; every quote matches it. The article
+# has no tables: every figure below is in the Results text (pp. 522-524).
+#
+# WHAT THIS RECORD HOLDS:
+#
+#   * The four pooled correlations, overall engagement and its behavioural,
+#     emotional and cognitive domains, each with its own k. Summed, the four
+#     k (30 + 55 + 47 + 31) equal the 163 effect sizes, so k counts effect
+#     sizes (one per independent sample per domain), not studies.
+#   * The reporting-method strata for behavioural and emotional engagement
+#     (other-reported against self-reported) as arms with `arm_ref`, because
+#     the article prints a pooled r per stratum and no k for either.
+#   * `age: unreported`: the article names Grades 1 to 12 and prints no age
+#     figure.
+#
+# No reliability is recorded: the article prints no reliability for any
+# engagement or achievement measure and does not correct correlations for
+# attenuation. No moderator k is printed for the reporting-method or
+# cultural-value strata.
+#
+# The cultural-value text contradicts itself for behavioural engagement: it
+# says the correlation "was higher for Western students (r = .354 ...) than for
+# Eastern students (r = .377 ...)". Both numbers are recorded as printed in a
+# moderator entry; which label or number is wrong cannot be settled from the
+# article.
+
+schema_version: 2
+
+study:
+  key: lei-2018
+  citation: "Lei, H., Cui, Y., & Zhou, W. (2018). Relationships between student engagement and academic achievement: A meta-analysis. Social Behavior and Personality, 46(3), 517-528."
+  doi: "10.2224/sbp.7054"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of Pearson correlations between student engagement
+      (overall, and the behavioural, emotional and cognitive domains of
+      Fredricks et al.'s three-factor model) and academic achievement, in
+      Chinese- and English-language studies published 2003-2015. Moderators:
+      method of reporting engagement and cultural value (subgroup homogeneity
+      tests) and gender (meta-regression on the share of male or female
+      participants). The authors state that the included studies were
+      cross-sectional and that no causal inference can be made.
+  synthesis:
+    model: "Comprehensive Meta-Analysis 2.0; r converted to Fisher's z, weighted, and back-transformed; the article states it used a fixed effect model to calculate homogeneity statistics and names no other pooling model"
+    heterogeneity_statistic: "Q and I2"
+    search:
+      databases:
+        - CNKI
+        - VIP
+        - Wanfang
+        - Web of Science
+        - Elsevier SDOL
+        - EBSCO
+        - Springer
+        - PsycINFO
+        - ProQuest Digital Dissertations
+        - Google Scholar
+      date_range: "2003-2015"
+      records_screened: 273
+      records_included: 69
+    inclusion:
+      - "Engagement conceptualised as behavioural, emotional and cognitive (studies using the vigor/dedication/absorption model excluded)"
+      - "Empirical study mainly of the engagement-achievement correlation, reporting a Pearson r"
+      - "Sample size clear; participants from the general population"
+      - "Engagement measured at the individual level, not the class level"
+      - "Published in Chinese or English"
+    data_handling:
+      - "Effect sizes per independent sample; correlations at several time points for the same domain and index averaged into one"
+      - "Where a study reported all three domains but not overall engagement, overall was the average of the three domains"
+      - "Where a study reported several aspects of one domain, their average correlation was used"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: overall-engagement-achievement-r269
+    bearing: supports
+    anchor: lei-2018
+  - claim: behavioral-engagement-strongest-correlation
+    bearing: supports
+    anchor: lei-2018
+  - claim: reporting-method-moderates-engagement-achievement
+    bearing: supports
+    anchor: lei-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 163
+    unit: effect-sizes
+  additional_sizes:
+    - value: 69
+      unit: other
+      note: "independent samples (the abstract calls them independent studies); 1 to 8 samples per study"
+    - value: 196473
+      unit: participants
+      note: "total participants across the 69 samples"
+  population:
+    description: >-
+      Students in Grades 1 to 12 from the general population, in samples coded
+      by cultural value as Eastern (Asian countries such as China, Korea, the
+      Philippines, Singapore), Western (European and North American) or other.
+    age_or_stage: "Grades 1 to 12"
+    age: unreported
+  context:
+    setting: "School students; achievement indices as reported by the primary studies"
+  variation:
+    - dimension: "Engagement domain of the participants"
+      distribution: "overall engagement 14.31% of participants, behavioural 45.20%, emotional 24.76%, cognitive 15.73%"
+    - dimension: "Cultural value"
+      distribution: "Eastern, Western or other; counts per category not printed"
+  arms:
+    - id: be-other-reported
+      description: "Samples in which behavioural engagement was reported by someone other than the student (the authors say mainly teachers)."
+    - id: be-self-reported
+      description: "Samples in which behavioural engagement was self-reported by the student."
+    - id: ee-other-reported
+      description: "Samples in which emotional engagement was reported by someone other than the student."
+    - id: ee-self-reported
+      description: "Samples in which emotional engagement was self-reported by the student."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Pooled correlation across all samples reporting the domain; no contrast between groups."
+
+observations:
+
+  - id: overall-engagement-achievement
+    sample:
+      value: 30
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices as reported by the primary studies, correlated with overall student engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.269
+      ci_lower: 0.258
+      ci_upper: 0.279
+      interval_type: confidence
+      p_value: "p < .001"
+      statistic: "z = 46.095"
+      k:
+        value: 30
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 88.442
+        interpretation: "QT(29) = 250.906, p < .001"
+    moderators:
+      reported:
+        - variable: "Cultural value"
+          relationship: "Higher in Eastern samples (r = .320) than Western samples (r = .257)"
+          source_quote: "the correlations between overall, emotional, and cognitive engagement and academic achievement were higher for Eastern students (r = .320, p < .001; r = .276, p < .001; r = .343, p < .001, respectively) compared to Western students (r = .257, p < .001; r = .205, p < .001; r = .241, p < .001, respectively)."
+        - variable: "Gender composition of the sample"
+          relationship: "Meta-regression significant (QM(1, k = 26) = 87.383); the article reports the effect size increasing with the number of female participants, rOE = .881"
+          source_quote: "gender significantly moderated the relationships of overall, behavioral, and cognitive engagement with academic achievement, QM,OE (1,k = 26) = 87.383, p < .001"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Where a primary study did not report overall engagement, the authors
+      used the average of its three domain correlations.
+    source_quote: "overall engagement, rOE = .269 (z = 46.095, p < .001, k = 30, 95% CI = .258, .279)"
+    source_location: "Results, Overall Relationship (p. 523); heterogeneity in Moderator Analysis (p. 523)"
+
+  - id: behavioral-engagement-achievement
+    sample:
+      value: 55
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices as reported by the primary studies, correlated with behavioural engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.350
+      ci_lower: 0.344
+      ci_upper: 0.355
+      interval_type: confidence
+      p_value: "p < .001"
+      statistic: "z = 108.688"
+      k:
+        value: 55
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 97.263
+        interpretation: "QT(54) = 1972.869 (printed as p < .00)"
+    moderators:
+      reported:
+        - variable: "Method of reporting engagement"
+          relationship: "Other-reported r = .428 against self-reported r = .303; QB = 429.996, df = 1"
+          source_quote: "Specifically, the effect size (r = .428, p < .001) between other-reported behavioral engagement and academic achievement was significantly higher than that for self-reported behavioral engagement (r = .303, p < .001)."
+        - variable: "Cultural value"
+          relationship: "Printed as higher for Western (r = .354) than Eastern (r = .377) samples, which contradicts its own numbers; QB = 29.567, df = 2"
+          source_quote: "Conversely, the correlation between behavioral engagement and academic achievement was higher for Western students (r = .354, p < .001) than for Eastern students (r = .377, p < .001)."
+        - variable: "Gender composition of the sample"
+          relationship: "Meta-regression significant (QM(1, k = 48) = 26.538); rBE = .614"
+          source_quote: "QM,BE (1,k = 48) = 26.538, p < .001"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "behavioral engagement, rBE = .350 (z = 108.688, p < .001, k = 55, 95% CI = .344, .355)"
+    source_location: "Results, Overall Relationship (p. 523)"
+
+  - id: emotional-engagement-achievement
+    sample:
+      value: 47
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices as reported by the primary studies, correlated with emotional engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.216
+      ci_lower: 0.208
+      ci_upper: 0.224
+      interval_type: confidence
+      p_value: "p < .001"
+      statistic: "z = 48.333"
+      k:
+        value: 47
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 96.621
+        interpretation: "QT(46) = 549.016, p < .001"
+    moderators:
+      reported:
+        - variable: "Method of reporting engagement"
+          relationship: "Other-reported r = .431 against self-reported r = .211; QB = 62.035, df = 1"
+          source_quote: "again, the effect size for this relationship was higher for other-reported emotional engagement (r = .431, p < .001) than for self-reported emotional engagement (r = .211, p < .001)."
+        - variable: "Gender composition of the sample"
+          relationship: "Not significant: QM(1, k = 94) = 3.472, p > .05"
+          source_quote: "The effect of gender on the correlation between emotional engagement and academic achievement was nonsignificant, QM,EE (1,k = 94) = 3.472, p > .05."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The gender meta-regression for emotional engagement is printed with
+      k = 94, more than the 47 effect sizes pooled for this domain; the
+      article does not explain the difference.
+    source_quote: "emotional engagement, rEE = .216 (z = 48.333, p < .001, k = 47, 95% CI = .208, .224)"
+    source_location: "Results, Overall Relationship (p. 523)"
+
+  - id: cognitive-engagement-achievement
+    sample:
+      value: 31
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices as reported by the primary studies, correlated with cognitive engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.245
+      ci_lower: 0.235
+      ci_upper: 0.256
+      interval_type: confidence
+      p_value: "p < .001"
+      statistic: "z = 43.968"
+      k:
+        value: 31
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 91.654
+        interpretation: "QT(30) = 359.469, p < .001"
+    moderators:
+      reported:
+        - variable: "Gender composition of the sample"
+          relationship: "Meta-regression significant (QM(1, k = 27) = 12.252); rCE = .499"
+          source_quote: "QM,CE (1,k = 27) = 12.252, p < .001, respectively"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "cognitive engagement, rCE = .245 (z = 43.968, p < .001, k = 31, 95% CI = .235, .256)"
+    source_location: "Results, Overall Relationship (p. 523)"
+
+  - id: behavioral-other-reported
+    arm_ref: be-other-reported
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices correlated with other-reported behavioural engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.428
+      p_value: "p < .001"
+      heterogeneity:
+        statistic: I2
+        value: 90.132
+        interpretation: "Printed with the between-strata test QB = 429.996, df = 1, p < .001; the article does not say whether this I2 is within or between strata"
+    moderators:
+      reported: []
+      candidate:
+        - "The authors suggest teachers, who report most other-reported engagement, may base their ratings on students' actual performance"
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: "No k, confidence interval or sample count is printed for either reporting-method stratum."
+    source_quote: "Specifically, the effect size (r = .428, p < .001) between other-reported behavioral engagement and academic achievement was significantly higher than that for self-reported behavioral engagement (r = .303, p < .001)."
+    source_location: "Results, Moderator Analysis, Method of reporting engagement (p. 523)"
+
+  - id: behavioral-self-reported
+    arm_ref: be-self-reported
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices correlated with self-reported behavioural engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.303
+      p_value: "p < .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "Specifically, the effect size (r = .428, p < .001) between other-reported behavioral engagement and academic achievement was significantly higher than that for self-reported behavioral engagement (r = .303, p < .001)."
+    source_location: "Results, Moderator Analysis, Method of reporting engagement (p. 523)"
+
+  - id: emotional-other-reported
+    arm_ref: ee-other-reported
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices correlated with other-reported emotional engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.431
+      p_value: "p < .001"
+      heterogeneity:
+        statistic: I2
+        value: 81.712
+        interpretation: "Printed with the between-strata test QB = 62.035, df = 1, p < .001; the article does not say whether this I2 is within or between strata"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "again, the effect size for this relationship was higher for other-reported emotional engagement (r = .431, p < .001) than for self-reported emotional engagement (r = .211, p < .001)."
+    source_location: "Results, Moderator Analysis, Method of reporting engagement (p. 523)"
+
+  - id: emotional-self-reported
+    arm_ref: ee-self-reported
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indices correlated with self-reported emotional engagement"
+      scale: "Pearson r (pooled via Fisher's z)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional, as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.211
+      p_value: "p < .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "again, the effect size for this relationship was higher for other-reported emotional engagement (r = .431, p < .001) than for self-reported emotional engagement (r = .211, p < .001)."
+    source_location: "Results, Moderator Analysis, Method of reporting engagement (p. 523)"
+
+not_yet_extracted:
+  - "Cultural-value strata as pooled correlations per domain (Eastern r = .320/.276/.343 and Western r = .257/.205/.241 for overall/emotional/cognitive; behavioural Western .354, Eastern .377), held here only as moderator entries; no k printed"
+  - "Gender meta-regression coefficients printed as rOE = .881, rBE = .614, rCE = .499, held here only in moderator entries; the article's sentence names 'overall, emotional, and cognitive' where the test lists overall, behavioural and cognitive"
+  - "Fall & Roberts (2012) and Furrer & Skinner (2003) correlations cited in the introduction: other studies' figures, not this meta-analysis's"

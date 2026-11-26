@@ -1,0 +1,326 @@
+# Marsh (1984): dimensions of self-attribution, self-concept and achievement,
+# 559 Grade 5 students in Sydney.
+#
+# NOT Marsh, Cairns, Relich, Barnes & Debus (1984), JEP 76(1), 3-32, which is a
+# different sample and a different version of the Sydney Attribution Scale (SAS);
+# that paper is key marsh-1984-cairns and nothing here comes from it.
+#
+# Read from the publisher PDF (APA, scan quality). The text layer interleaves the
+# two columns and reads every table column by column, so the quotes for the
+# Table 1 and Table 3 figures were taken from the PAGE IMAGES (pp. 1299, 1302),
+# written as the table rows print them. The quotes from running text are
+# verbatim from the text layer.
+#
+# What is recorded and why:
+#
+#   * The correlation between the reading-ability and maths-ability attribution
+#     factors (.10). It is the one figure the article prints for how far
+#     attributions in one domain go with attributions in the other. It is an
+#     exploratory oblique factor-pattern correlation, not a correlation between
+#     scale scores. The six success/failure x cause factors are defined by
+#     reading AND maths items together, so the article prints no reading x maths
+#     correlation for any other attribution (failure/ability included).
+#   * Coefficient alpha for the SAS success and failure scales (ranges, medians
+#     in the note), and for the eight SDQ self-concept scales.
+#   * The content-specific correlations of the reading and maths ability
+#     attribution scores with reading and maths self-concept (Table 3).
+#
+# Age: the article says only "mostly 10-year-olds", so `age: unreported`.
+
+schema_version: 2
+
+study:
+  key: marsh-1984
+  citation: "Marsh, H. W. (1984). Relations among dimensions of self-attribution, dimensions of self-concept, and academic achievements. Journal of Educational Psychology, 76(6), 1291–1308."
+  doi: "10.1037/0022-0663.76.6.1291"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional correlational survey. Exploratory (SPSS, oblique rotation)
+      and confirmatory (LISREL V) factor analyses of the Sydney Attribution
+      Scale; correlations of attribution scores with self-reported and
+      peer- and teacher-inferred self-concepts (SDQ) and with achievement
+      tests and teacher ratings; an exploratory path model the author says
+      the cross-sectional design cannot validly test causally.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 559
+    unit: participants
+  additional_sizes:
+    - value: 19
+      unit: classes
+      note: "fifth-grade classes; 18 of the 19 single-sex"
+    - value: 7
+      unit: schools
+      note: "private Catholic schools in Sydney; two did not take part in the achievement testing"
+  population:
+    description: >-
+      Fifth-grade students in seven private Catholic schools in Sydney,
+      Australia, families from lower-middle to upper-middle socioeconomic
+      status, academic abilities about average.
+    age_or_stage: "Grade 5, \"mostly 10-year-olds\"; the article prints no age range or mean"
+    age: unreported
+  context:
+    setting: >-
+      Self-report instruments read aloud to intact classes of no more than 34
+      by one of the authors; achievement tests given earlier by classroom
+      teachers. Achievement tests missing for 142 students (25%), teacher
+      ratings for 36 (6%); correlations use pairwise deletion.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Factor correlations, scale reliabilities and correlations in the whole Grade 5 sample; no contrast between groups."
+
+observations:
+
+  - id: reading-math-ability-attribution-factor-correlation
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-domain consistency of ability attributions (reading with maths)"
+      source_language: "Factor pattern correlations: Read Abil, Math Abil"
+      measure: >-
+        Correlation between the reading-ability and maths-ability factors of an
+        exploratory oblique factor analysis of 36 SAS item-pairs. Each factor is
+        defined mainly by that subject's success/ability items (positive
+        loadings) and, less, its failure/ability items (negative loadings).
+      scale: "factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.10
+      model: >-
+        Exploratory factor analysis (SPSS, iterated communalities, Kaiser
+        normalisation, oblique rotation), seven factors. The other six
+        attribution factors (success effort and external; failure ability,
+        effort and external) pool reading and maths items, so no reading x
+        maths correlation is printed for them.
+      note: "Table 1 is titled 'Responses to the Self-Description Questionnaire' but its rows and note are the SAS item-pairs."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed without decimal points (10). A factor correlation from an
+      exploratory solution, not a correlation of observed scale scores; no
+      standard error or p value is printed for it.
+    source_quote: "Read Abil 100 / Math Abil 10 100"
+    source_location: "Table 1, Factor pattern correlations, p. 1299 (quoted from the page image)"
+
+  - id: sas-success-scales-alpha
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of SAS success-attribution scales"
+      source_language: "Coefficient alphas for the 6 success scales"
+      measure: "Six SAS success scales (reading and maths x ability, effort, external), 6 items each, 5-point false-true ratings"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single administration"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.69
+        upper: 0.84
+        over:
+          value: 6
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Median .82"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Coefficient alphas for the 6 success scales (.69 to .84, Mdn = .82) were generally higher than for the 6 failure scales (.57 to .76, Mdn = .66)."
+    source_location: "Method, Testing Materials, p. 1297"
+
+  - id: sas-failure-scales-alpha
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of SAS failure-attribution scales"
+      source_language: "Coefficient alphas for ... the 6 failure scales"
+      measure: "Six SAS failure scales (reading and maths x ability, effort, external), 6 items each, 5-point false-true ratings"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single administration"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.57
+        upper: 0.76
+        over:
+          value: 6
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: >-
+        Median .66. The eight summary scores analysed (six pooling reading and
+        maths items, plus reading and maths ability) had alphas .70 to .86
+        (Mdn .83); only failure/external was below .80.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Coefficient alphas for the 6 success scales (.69 to .84, Mdn = .82) were generally higher than for the 6 failure scales (.57 to .76, Mdn = .66)."
+    source_location: "Method, Testing Materials, p. 1297"
+
+  - id: sdq-scales-alpha
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of SDQ self-concept scales"
+      source_language: "Coefficient alphas for the eight SDQ scales in this study"
+      measure: "Self-Description Questionnaire, eight scales (four nonacademic, Reading, Math, General School, General-Self)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single administration"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.79
+        upper: 0.91
+        over:
+          value: 8
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Median .87; total academic and total nonacademic scores each .91."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Coefficient alphas for the eight SDQ scales in this study varied between .79 and .91 (Mdn = .87)."
+    source_location: "Method, Testing Materials, p. 1297"
+
+  - id: reading-ability-attribution-reading-self-concept
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Reading self-concept"
+      source_language: "Student self-concepts: Reading"
+      measure: "SDQ Reading self-concept factor score, correlated with the SAS reading-ability score (Read Abil = RSA - RFA)"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.62
+      p_value: "< .01 (any |r| > .12, two-tailed)"
+      note: >-
+        Same row: Math Abil with Reading self-concept .13. Read Abil' (the
+        Model 8 variant) with Reading self-concept .57.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Reading 62 13 57 19 37 23 -19 -38 -28 -04"
+    source_location: "Table 3, Student self-concepts, p. 1302 (quoted from the page image)"
+
+  - id: math-ability-attribution-math-self-concept
+    sample:
+      value: 559
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics self-concept"
+      source_language: "Student self-concepts: Math"
+      measure: "SDQ Math self-concept factor score, correlated with the SAS maths-ability score (Math Abil = MSA - MFA)"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.59
+      p_value: "< .01 (any |r| > .12, two-tailed)"
+      note: >-
+        Same row: Read Abil with Math self-concept .09. Math Abil' (the
+        Model 8 variant) with Math self-concept .52.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Math 09 59 13 52 38 40 -06 -30 -15 -06"
+    source_location: "Table 3, Student self-concepts, p. 1302 (quoted from the page image)"
+
+not_yet_extracted:
+  - "Table 2 CFA fit for Models 0-10 (e.g. coefficient d .664 for the six-factor model, .778 for Model 5, .822 for Model 8); Model 10 (12 separate factors) was ill-defined, two factor correlations exceeding 1.0, which ones not stated."
+  - "Table 1 other factor correlations (e.g. Fail Abil with Fail Efft .47) and the full oblique pattern matrix."
+  - "Table 3 correlations with peer- and teacher-inferred self-concepts, achievement tests (Read Abil with reading test .41, Math Abil with maths test .33), teacher ratings, and multiple Rs."
+  - "Achievement test reliabilities: reading sections split-half .87 and .92 (correlated .73), maths test split-half .86."
+  - "Figure 1 path coefficients (e.g. academic self-concept to success/ability .49; reading achievement to reading self-concept .65)."
+  - "SDQ reliabilities 'in the .80s and .90s' from earlier studies are cited, not this sample's, and are not recorded."
