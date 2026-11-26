@@ -1,0 +1,341 @@
+# Kalyuga, Chandler, Tuovinen & Sweller (2001), Experiment 2: worked examples
+# against problem solving for the same apprentices, now more experienced,
+# learning to write Boolean switching equations, tested at two stages.
+#
+# Read from a text extraction of the published article (OCR'd scan). No PDF of
+# this article was available beside the text, so no page image was checked.
+#
+# TABLE 2 IN THE TEXT. The "Questions scores" row comes out as one clean
+# sequence, M 9.4 8.2 10.2 10.6 and SD 3.1 3.2 2.3 1.7, but the column header
+# is garbled ("Worked examples Stage / Problem / of testing / solving Stage of
+# testing / I 2 2"). The column order (worked examples Stages 1 and 2, then
+# problem solving Stages 1 and 2) was checked against the article's own text
+# before recording: the Stage 1 means average to the printed "9.8 out of 12",
+# and the Stage 2 means and SDs reproduce the printed simple effect F(1, 22) =
+# 5.26 to rounding. The instructional-efficiency row is scrambled and is not
+# recorded.
+#
+# WHAT THIS FILE USES:
+#   * `measure_type: mean` with SD, one observation per arm and stage.
+#   * `population.age: unreported`, as in Experiment 1: the same 24
+#     apprentices, and the article gives no age.
+#   * No reliability: none is printed for the test.
+#
+# Quotes containing "p < ." are cut before it where possible, because the OCR
+# text writes it as "p \<". Where a quote keeps it, it is reproduced as the
+# text file has it.
+
+schema_version: 2
+
+study:
+  key: kalyuga-2001-exp2
+  citation: "Kalyuga, S., Chandler, P., Tuovinen, J., & Sweller, J. (2001). When problem solving is superior to studying worked examples. Journal of Educational Psychology, 93(3), 579-588."
+  doi: "10.1037/0022-0663.93.3.579"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-group experiment with the Experiment 1 participants randomly
+      re-allocated to worked examples (n = 12) or problem solving (n = 12),
+      tested at two stages a week apart with two common training sessions
+      between them. Analysed by 2 (instructional procedure) x 2 (stage) ANOVAs
+      with repeated measures on stage, and simple effects per stage.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: redundancy-effect-problem-solving-superior-experienced-learners
+    bearing: supports
+    anchor: kalyuga-2001
+  - claim: no-advantage-either-procedure-stage1-experiment2
+    bearing: supports
+    anchor: kalyuga-2001
+  - claim: instruction-experience-interaction-performance-measures
+    bearing: supports
+    anchor: kalyuga-2001
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  population:
+    description: >-
+      The 24 Australian trade apprentices of Experiment 1, most somewhat
+      experienced in writing simple PLC programs by its end, familiar with
+      general rules of algebra, with no previous exposure to the switching-
+      equation materials.
+    age_or_stage: "Had completed at least Year 10 of high school; first-year trade apprentices who had completed Experiment 1"
+    age: unreported
+  context:
+    setting: "Natural training environment (apprentice training centres); computer-based training"
+  arms:
+    - id: worked-examples
+      description: "Studied 23 worked examples of relay circuits with their Boolean switching equations, each followed by a similar problem (46 circuits) at Stage 1; 12 examples alternating with 12 problems at Stage 2."
+      size:
+        value: 12
+        unit: participants
+    - id: problem-solving
+      description: "Typed a Boolean equation for each of the same 46 circuits (24 at Stage 2), three attempts of up to 3 min each, with the correct equation shown after a third failure."
+      size:
+        value: 12
+        unit: participants
+
+comparisons:
+  - id: problem-solving-vs-worked-examples
+    kind: between-groups
+    index_arm: problem-solving
+    reference_arm: worked-examples
+    description: "Problem solving against worked examples on the 12-question switching-equation test, at a given stage, or in its change across stages."
+
+observations:
+
+  - id: test-score-stage1-worked-examples
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-examples
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions, each a relay circuit for which a Boolean equation is typed, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: mean
+      estimate: 9.4
+      sd: 3.1
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 9.4 8.2 10.2 10.6 SD 3.1 3.2 2.3 1.7"
+    source_location: "Table 2, Questions scores row, worked examples Stage 1 column"
+
+  - id: test-score-stage1-problem-solving
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: problem-solving
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions, each a relay circuit for which a Boolean equation is typed, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: mean
+      estimate: 10.2
+      sd: 2.3
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 9.4 8.2 10.2 10.6 SD 3.1 3.2 2.3 1.7"
+    source_location: "Table 2, Questions scores row, problem solving Stage 1 column"
+
+  - id: test-score-stage2-worked-examples
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-examples
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions on six- and seven-element relay circuits, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two common training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: mean
+      estimate: 8.2
+      sd: 3.2
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 9.4 8.2 10.2 10.6 SD 3.1 3.2 2.3 1.7"
+    source_location: "Table 2, Questions scores row, worked examples Stage 2 column"
+
+  - id: test-score-stage2-problem-solving
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: problem-solving
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions on six- and seven-element relay circuits, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two common training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: mean
+      estimate: 10.6
+      sd: 1.7
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 9.4 8.2 10.2 10.6 SD 3.1 3.2 2.3 1.7"
+    source_location: "Table 2, Questions scores row, problem solving Stage 2 column"
+
+  - id: test-score-stage1-simple-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: problem-solving-vs-worked-examples
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "test performance scores"
+      measure: "12-question performance test"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: other
+      statistic: "F(1, 22) = 0.46, MSE = 7.30"
+      interpretation: "No significant difference between groups at Stage 1; both groups averaged 9.8 of 12"
+      note: "The MSE is separated from the F by the table note in the OCR text but reads as 'MSE 7.30' at the start of the next block."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "For the test performance scores. there was no significant simple effect for Stage 1, F(1, 22)= 0.46."
+    source_location: "Experiment 2, Results and Discussion, p. 586"
+
+  - id: test-score-stage2-simple-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: problem-solving-vs-worked-examples
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "test performance scores"
+      measure: "12-question performance test"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two common training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: other
+      statistic: "F(1, 22) = 5.26, MSE = 6.66"
+      p_value: "< .05"
+      interpretation: "Problem solving group performed significantly better than the worked examples group"
+      note: "The OCR text drops the '=' sign and prints 'F(1. 22)'; the figures read cleanly."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "MSE 7.30, but there was a significant effect for Stage 2. F(1. 22) 5.26, MSE 6.66,"
+    source_location: "Experiment 2, Results and Discussion, p. 586"
+
+  - id: test-score-interaction
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: problem-solving-vs-worked-examples
+    outcome:
+      construct: "Switching-equation test performance"
+      source_language: "test performance scores"
+      measure: "12-question performance test, Stage 1 and Stage 2"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Change from Stage 1 to Stage 2 (group by stage interaction)"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: other
+      statistic: "F(1, 22) = 4.52, MSE = 1.85"
+      p_value: "< .05"
+      model: "2 (instructional procedure) x 2 (stage) ANOVA with repeated measures on stage"
+      interpretation: "The problem solving group improved more from Stage 1 to Stage 2 than the worked examples group"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "There were significant interactions for the test performance scores F(1, 22)= 4.52, MSE = 1.85,"
+    source_location: "Experiment 2, Results and Discussion, p. 586"
+
+not_yet_extracted:
+  - "Test attempts (interaction F(1, 22) = 9.01; Stage 2 simple effect F(1, 22) = 4.37), test time, instruction time and mental-load ratings (Table 2)"
+  - "Instructional efficiency (Stage 2 simple effect F(1, 22) = 4.97); the efficiency row of Table 2 is scrambled in the OCR text"

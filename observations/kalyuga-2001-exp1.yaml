@@ -1,0 +1,307 @@
+# Kalyuga, Chandler, Tuovinen & Sweller (2001), Experiment 1: worked examples
+# against problem solving for inexperienced trade apprentices learning to write
+# PLC programs, tested at three stages of growing experience.
+#
+# Read from a text extraction of the published article (OCR'd scan). No PDF of
+# this article was available beside the text, so no page image was checked.
+#
+# TABLE 1 IS PARTLY GARBLED IN THE TEXT. The instruction-time and
+# instructional-efficiency rows come out scrambled and are NOT recorded. The
+# "Questions scores" row comes out as one clean sequence, M 5.9 7.3 6.3 3.8 3.7
+# 5,4 and SD 3.5 4.0 4.0 3.4 3.4 3.5, under a header giving worked examples
+# Stages 1-3 then problem solving Stages 1-3. That column order was checked
+# against the article's own simple-effect F tests for Stages 1 and 2 (the
+# printed means and SDs reproduce F(1, 22) = 2.41 and 5.85 to rounding) before
+# the Stage 1 and 2 means were recorded. Stage 3 is not recorded: the problem
+# solving mean prints as "5,4" in the OCR and nothing in the text confirms it.
+#
+# Most F tests in this section also come out of the OCR without their "="
+# signs or with figures interleaved; only those whose wording reads cleanly
+# are recorded. The 2 x 3 interaction for test scores is garbled ("F(2,
+# 4.21, MSE 2.87") and is not recorded.
+#
+# WHAT THIS FILE USES:
+#   * `measure_type: mean` with SD, one observation per arm and stage.
+#   * `population.age: unreported`: the article gives schooling and training
+#     stage (at least Year 10; a month or two into the first-year trade
+#     course), never an age.
+#   * No reliability: the article prints no reliability for the 12-item test.
+#     The correlations it gives for subjective load ratings are cited from
+#     other studies (see not_yet_extracted).
+#
+# Experiment 2 used the same 24 apprentices, re-randomised, and is its own
+# record (kalyuga-2001-exp2).
+
+schema_version: 2
+
+study:
+  key: kalyuga-2001-exp1
+  citation: "Kalyuga, S., Chandler, P., Tuovinen, J., & Sweller, J. (2001). When problem solving is superior to studying worked examples. Journal of Educational Psychology, 93(3), 579-588."
+  doi: "10.1037/0022-0663.93.3.579"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-group experiment, participants randomly allocated to worked examples
+      (n = 12) or problem solving (n = 12), with repeated testing at three
+      stages a week apart; between stages all participants received the same
+      additional training sessions. Analysed by 2 (instructional procedure) x
+      3 (stage) ANOVAs with simple effects per stage. Small sample, in an
+      apprentice training centre.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: worked-examples-superior-for-inexperienced-learners
+    bearing: supports
+    anchor: kalyuga-2001
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  population:
+    description: >-
+      Twenty-four trade apprentices from two major Australian manufacturing
+      companies, familiar with simple electrical diagrams and basic algebra,
+      with no previous exposure to relay circuits or PLC programming.
+    age_or_stage: "Had completed at least Year 10 of high school and a month or two of their first-year trade course"
+    age: unreported
+  context:
+    setting: "Natural training environment (apprentice training centres); computer-based training packages on laptop computers"
+  arms:
+    - id: worked-examples
+      description: "Studied 12 worked examples of relay circuits with numbered PLC programming steps, each followed by a problem to solve (24 circuits in all), at Stage 1; 11 examples alternating with 11 problems at Stages 2 and 3."
+      size:
+        value: 12
+        unit: participants
+    - id: problem-solving
+      description: "Solved the same 24 circuits as problems (22 at Stages 2 and 3), three attempts of up to 3 min each, with the correct steps shown after a third failure."
+      size:
+        value: 12
+        unit: participants
+
+comparisons:
+  - id: worked-examples-vs-problem-solving
+    kind: between-groups
+    index_arm: worked-examples
+    reference_arm: problem-solving
+    description: "Worked examples against problem solving on the 12-question performance test, at a given stage."
+
+observations:
+
+  - id: test-score-stage1-worked-examples
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-examples
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions, each a relay circuit to program, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: mean
+      estimate: 5.9
+      sd: 3.5
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 5.9 7.3 6.3 3.8 3.7 5,4 SD 3.5 4.0 4.0 3.4 3.4 3.5"
+    source_location: "Table 1, Questions scores row, worked examples Stage 1 column"
+
+  - id: test-score-stage1-problem-solving
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: problem-solving
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions, each a relay circuit to program, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: mean
+      estimate: 3.8
+      sd: 3.4
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 5.9 7.3 6.3 3.8 3.7 5,4 SD 3.5 4.0 4.0 3.4 3.4 3.5"
+    source_location: "Table 1, Questions scores row, problem solving Stage 1 column"
+
+  - id: test-score-stage2-worked-examples
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-examples
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions on five- and six-element relay circuits, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two additional training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: mean
+      estimate: 7.3
+      sd: 4.0
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 5.9 7.3 6.3 3.8 3.7 5,4 SD 3.5 4.0 4.0 3.4 3.4 3.5"
+    source_location: "Table 1, Questions scores row, worked examples Stage 2 column"
+
+  - id: test-score-stage2-problem-solving
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: problem-solving
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "Questions scores"
+      measure: "12 test questions on five- and six-element relay circuits, three attempts each, scored correct or incorrect"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two additional training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: mean
+      estimate: 3.7
+      sd: 3.4
+      unit: "questions correct out of 12"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Questions scores M 5.9 7.3 6.3 3.8 3.7 5,4 SD 3.5 4.0 4.0 3.4 3.4 3.5"
+    source_location: "Table 1, Questions scores row, problem solving Stage 2 column"
+
+  - id: test-score-stage1-simple-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: worked-examples-vs-problem-solving
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "test performance scores"
+      measure: "12-question performance test"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 1, immediately after the first experimental training session"
+    result:
+      measure_type: other
+      statistic: "F(1, 22) = 2.41"
+      interpretation: "No significant difference between groups at Stage 1 (means favoured worked examples)"
+      note: "The MSE for this test is interleaved with other figures in the OCR text and is not recorded."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "For the test performance scores there was no significant simple effect for Stage 1, F(1, 22)= 2.41."
+    source_location: "Experiment 1, Results and Discussion, p. 584"
+
+  - id: test-score-stage2-simple-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: worked-examples-vs-problem-solving
+    outcome:
+      construct: "PLC programming test performance"
+      source_language: "test performance scores"
+      measure: "12-question performance test"
+      scale: "score out of 12"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Stage 2, a week after Stage 1, after two additional training sessions"
+      offset:
+        value: 1
+        unit: weeks
+        from: "Stage 1"
+    result:
+      measure_type: other
+      statistic: "F(1, 22) = 5.85, MSE = 13.79"
+      p_value: "< .05"
+      interpretation: "Worked examples group performed significantly better than the problem solving group"
+      note: "The OCR text drops the '=' signs; the figures themselves read cleanly."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "but there was a significant effect for Stage 2, F(1, 22) 5.85, MSE 13.79,"
+    source_location: "Experiment 1, Results and Discussion, p. 584"
+
+not_yet_extracted:
+  - "Stage 3 test scores (problem solving mean prints as '5,4' in the OCR) and the Stage 3 simple effect, whose F value is missing from the OCR text"
+  - "The 2 x 3 group-by-stage interaction for test scores, garbled in the OCR text ('F(2, 4.21, MSE 2.87, p < .05')"
+  - "Test time, test attempts, mental-load ratings and instructional efficiency (Table 1 and simple effects); the instruction-time and efficiency rows of Table 1 are scrambled in the OCR"
+  - "Correlations of subjective load ratings with objective measures, cited from other studies (Moray, 1982; O'Donnell & Eggemeier, 1986), not this study's figure"

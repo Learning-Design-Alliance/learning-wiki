@@ -1,0 +1,543 @@
+# Pavlik & Anderson (2005): practice and forgetting effects on vocabulary
+# memory, an activation-based model of the spacing effect.
+#
+# Two kinds of figure, kept apart:
+#
+#   * The EXPERIMENT's observed results (Sections 2-3): 40 adults learned
+#     Japanese-English pairs in one session under 11 within-subject
+#     repetition x spacing conditions and were retested 1 or 7 days later
+#     (20 per group). Recorded: the S2 mean correctness per retention group
+#     and the four ANOVA effects the article prints. No effect size (eta2 or
+#     otherwise) is printed for any of them, so each is an F test with
+#     effect_size unreported.
+#   * The extended ACT-R model's FITTED PARAMETERS for this experiment
+#     (Table 1, p. 572, "Experiment" column). These are the authors' own
+#     published estimates (maintainer ruling 2026-11-25: a published paper's
+#     fitted estimates are recorded). measure_type `other`, because a model
+#     parameter is neither an effect nor a group mean. Fitted by minimising a
+#     chi-square over 162 condition means; no standard errors are printed.
+#     The encoding scalar b = 1 is marked as a FIXED parameter in Table 1 and
+#     is therefore not recorded as an estimate.
+#
+# The Table 1 quotes were taken from the page image of p. 572: the text layer
+# prints the table column by column, so no row survives in it. Every other
+# quote is verbatim from the text layer.
+#
+# `population.age: unreported`: the article says the participants were
+# "mostly college students" and prints no age figure. No reliability
+# coefficient is printed (recall was typed and scored correct or incorrect).
+#
+# Design family `other`: the repetition and spacing factors are within-subject
+# with word-to-condition assignment randomised per participant, but the article
+# says only that twenty participants "were assigned" to each retention group,
+# not how, so no randomised between-group design is claimed.
+
+schema_version: 2
+
+study:
+  key: pavlik-2005
+  citation: "Pavlik, P. I., Jr., & Anderson, J. R. (2005). Practice and forgetting effects on vocabulary memory: An activation-based model of the spacing effect. Cognitive Science, 29(4), 559–586."
+  doi: "10.1207/s15516709cog0000_14"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment. Within subjects: number of S1 tests after the
+      initial study (1, 2, 4 or 8) crossed with spacing (2, 14 or 98
+      intervening presentations), the 8 x 98 cell omitted, giving 11
+      conditions of eight word pairs each; word assignment to conditions
+      randomised per participant. Between subjects: retention interval of 1
+      or 7 days to the second session (S2), 20 participants each, method of
+      assignment not stated. Repeated-measures ANOVAs on proportion correct.
+      An extended ACT-R activation model (decay rate a function of activation
+      at each presentation, Equations 2, 4 and 5) was then fitted to the 162
+      condition means by minimising a chi-square statistic.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: retention-interval-and-spacing-main-effects
+    bearing: supports
+    anchor: philip-i-pavlik-jr-2005
+  - claim: spacing-benefit-increases-with-more-practice-repetitions
+    bearing: supports
+    anchor: philip-i-pavlik-jr-2005
+  - claim: spacing-crossover-interaction-less-forgetting
+    bearing: supports
+    anchor: philip-i-pavlik-jr-2005
+  - claim: wider-spacing-lowers-in-session-performance-no-serial-position
+    bearing: supports
+    anchor: philip-i-pavlik-jr-2005
+
+evidence_base:
+  unit: participants
+  size:
+    value: 40
+    unit: participants
+  additional_sizes:
+    - value: 104
+      unit: items
+      note: "Japanese-English word pairs, stimuli and buffers together"
+    - value: 162
+      unit: other
+      note: "aggregate correctness means the model was fitted to (81 per retention group: 37 for S1 conditions, 44 for S2)"
+  population:
+    description: >-
+      Adults from the Pittsburgh, Pennsylvania community, mostly college
+      students recruited by online advertisement, all professing no knowledge
+      of Japanese. All 40 completed the experiment.
+    age_or_stage: "Mostly college students; no age figure printed"
+    age: unreported
+  context:
+    setting: "Computer-based paired-associate learning in the laboratory, two sessions of 60 to 90 minutes; paid $9 to $15 per session depending on a points score"
+  arms:
+    - id: retention-1-day
+      description: "Second session (S2) 1 day after the learning session (S1)."
+      size:
+        value: 20
+        unit: participants
+    - id: retention-7-day
+      description: "Second session (S2) 7 days after the learning session (S1)."
+      size:
+        value: 20
+        unit: participants
+    - id: spacing-2
+      description: "Within-subject: S1 presentations of a pair separated by 2 intervening presentations."
+      size:
+        value: 40
+        unit: participants
+    - id: spacing-14
+      description: "Within-subject: S1 presentations of a pair separated by 14 intervening presentations."
+      size:
+        value: 40
+        unit: participants
+    - id: spacing-98
+      description: "Within-subject: S1 presentations of a pair separated by 98 intervening presentations (not crossed with 8 tests)."
+      size:
+        value: 40
+        unit: participants
+
+comparisons:
+  - id: retention-7-vs-1-day
+    kind: between-groups
+    index_arm: retention-7-day
+    reference_arm: retention-1-day
+    description: "7-day against 1-day retention interval before S2."
+  - id: spacing-levels
+    kind: other
+    index_arm:
+      - spacing-14
+      - spacing-98
+    reference_arm: spacing-2
+    description: "Within-subject omnibus test across the three spacing levels (2, 14, 98 intervening presentations); an F test with 2 df, not a pairwise contrast. The sides are listed for reading only."
+  - id: model-fit-experiment
+    kind: none
+    description: "The extended ACT-R model fitted to all 162 condition means of the experiment; no contrast between configurations."
+
+observations:
+
+  - id: s2-mean-correct-1-day
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: retention-1-day
+    outcome:
+      construct: "Delayed recall of vocabulary"
+      source_language: "mean correctness for S2"
+      measure: "Typed English translation of the Japanese cue, scored correct or incorrect, over the S2 test trials"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second session"
+      offset:
+        value: 1
+        unit: days
+        from: "learning session (S1)"
+    result:
+      measure_type: mean
+      estimate: 0.64
+      unit: "proportion correct, all S2 trials and conditions"
+      note: "No SD printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The mean correctness for S2 was 0.64 for the 1-day retention interval and 0.52 for the 7-day retention interval."
+    source_location: "Section 3, Results and discussion, p. 566"
+
+  - id: s2-mean-correct-7-day
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: retention-7-day
+    outcome:
+      construct: "Delayed recall of vocabulary"
+      source_language: "mean correctness for S2"
+      measure: "Typed English translation of the Japanese cue, scored correct or incorrect, over the S2 test trials"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second session"
+      offset:
+        value: 7
+        unit: days
+        from: "learning session (S1)"
+    result:
+      measure_type: mean
+      estimate: 0.52
+      unit: "proportion correct, all S2 trials and conditions"
+      note: "No SD printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The mean correctness for S2 was 0.64 for the 1-day retention interval and 0.52 for the 7-day retention interval."
+    source_location: "Section 3, Results and discussion, p. 566"
+
+  - id: s2-retention-interval-effect
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: retention-7-vs-1-day
+    outcome:
+      construct: "Delayed recall of vocabulary"
+      source_language: "people forgot more when the retention interval went from 1 to 7 days"
+      measure: "S2 proportion correct, repeated-measures ANOVA (S1 repetitions x S1 spacing x S2 trial x retention interval), 8-repetition conditions excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second session, 1 or 7 days after S1"
+    result:
+      measure_type: other
+      statistic: "F(1, 38) = 4.26"
+      p_value: "< .05"
+      interpretation: "Lower S2 recall after 7 days than after 1 day"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "First, this analysis showed that people forgot more when the retention interval went from 1 to 7 days, F(1, 38) = 4.26, p < .05."
+    source_location: "Section 3, Results and discussion, p. 567"
+
+  - id: s2-spacing-main-effect
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: spacing-levels
+    outcome:
+      construct: "Delayed recall of vocabulary"
+      source_language: "a strong main effect of spacing"
+      measure: "S2 proportion correct, same repeated-measures ANOVA, 8-repetition conditions excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second session, 1 or 7 days after S1"
+    result:
+      measure_type: other
+      statistic: "F(2, 76) = 58.2"
+      p_value: "< .001"
+      interpretation: "Recall on S2 differed by S1 spacing; Fig. 3 shows it better after wider spacing"
+    moderators:
+      reported:
+        - variable: "Number of S1 repetitions"
+          relationship: "The benefit of spacing increased with more repetitions at a spacing (S1 repetition x S1 spacing interaction, F(4, 152) = 4.38, p < .005)"
+          source_quote: "More important, we found a significant S1 repetition × S1 spacing interaction, F(4, 152) = 4.38, p < .005, reflecting an increasing benefit to spacing with more repetitions at a particular spacing."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "It also revealed a strong main effect of spacing, F(2, 76) = 58.2, p < .001."
+    source_location: "Section 3, Results and discussion, p. 567"
+
+  - id: s2-repetition-by-spacing
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: spacing-levels
+    outcome:
+      construct: "Delayed recall of vocabulary"
+      source_language: "an increasing benefit to spacing with more repetitions at a particular spacing"
+      measure: "S2 proportion correct, same repeated-measures ANOVA, 8-repetition conditions excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second session, 1 or 7 days after S1"
+    result:
+      measure_type: other
+      statistic: "F(4, 152) = 4.38 (S1 repetition x S1 spacing interaction)"
+      p_value: "< .005"
+      interpretation: "The spacing benefit grew with the number of S1 repetitions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "More important, we found a significant S1 repetition × S1 spacing interaction, F(4, 152) = 4.38, p < .005, reflecting an increasing benefit to spacing with more repetitions at a particular spacing."
+    source_location: "Section 3, Results and discussion, p. 567"
+
+  - id: spacing-crossover-across-retention
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: spacing-levels
+    outcome:
+      construct: "Forgetting between sessions"
+      source_language: "a crossover spacing interaction over the retention interval"
+      measure: "Proportion correct on the last S1 trials against the first S2 trials, repeated-measures ANOVA (Trial x S1 spacing condition), 8-repetition conditions excluded"
+      scale: "proportion correct"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last S1 trial to first S2 trial, across the 1- or 7-day interval"
+    result:
+      measure_type: other
+      statistic: "F(2, 76) = 321 (Trial x S1 spacing condition interaction)"
+      p_value: "< .001"
+      interpretation: "Wider-spaced sequences were lower at the end of S1 and higher at the start of S2: less forgetting after wider spacing"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The interaction of Trial × S1 spacing condition was strong, F(2, 76) = 321, p < .001. This interaction suggested presentation sequences with wider spacing resulted in less forgetting."
+    source_location: "Section 3, Results and discussion, p. 564; Fig. 2"
+
+  - id: s1-spacing-lowers-performance
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: spacing-levels
+    outcome:
+      construct: "Performance during learning"
+      source_language: "significantly lower performance with wider spacing"
+      measure: "Proportion correct on the first four S1 trials, repeated-measures ANOVA (Practice condition x S1 spacing x S2 retention interval group)"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the learning session (S1)"
+    result:
+      measure_type: other
+      statistic: "F(2, 76) = 240"
+      p_value: "< .001"
+      interpretation: "Lower S1 performance with wider spacing, attributed by the authors to the longer intervals before those trials"
+      note: "The same analysis showed improvement across the first four S1 trials, F(3, 114) = 412, p < .001, and no S1 difference between the retention groups, F(1, 38) = 1.13, p = .296."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The results of this analysis confirmed that performance improved across the first four trials of S1, F(3, 114) = 412, p < .001, and that there was significantly lower performance with wider spacing, F(2, 76) = 240, p < .001."
+    source_location: "Section 3, Results and discussion, p. 564"
+
+  - id: actr-decay-intercept
+    comparison_ref: model-fit-experiment
+    outcome:
+      construct: "Model parameter: decay intercept"
+      source_language: "Decay intercept (a)"
+      measure: "Extended ACT-R model, Equation 4: d_i = c e^(m_(i-1)) + a; a is the decay rate of a pair's first presentation"
+      scale: "model parameter (dimensionless decay exponent)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "fitted to both sessions of the experiment"
+    result:
+      measure_type: other
+      estimate: 0.177
+      unit: "decay exponent"
+      model: "Extended ACT-R activation model (Equations 2, 4, 5), fitted by minimising chi-square over 162 condition means; fit r2 = 0.944, RMSD adjusted = 0.046, chi2 = 328 on 157 df (Table 1)"
+      note: "Fitted estimate, no standard error printed. The model refitted to the restricted data set used for the SAM comparison (8-test condition excluded, first S2 trial only; Table 1, Experiment Reduced Model) gave 0.172."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fitted model parameter, not an effect; effect_size is unreported for that reason."
+    source_quote: "Decay intercept (a) 0.177 0.172 0.217 0.149 0.300 0.058"
+    source_location: "Table 1, p. 572, Experiment column (quoted from the page image)"
+
+  - id: actr-decay-scale
+    comparison_ref: model-fit-experiment
+    outcome:
+      construct: "Model parameter: decay scale"
+      source_language: "Decay scale (c)"
+      measure: "Extended ACT-R model, Equation 4: d_i = c e^(m_(i-1)) + a; c scales how much the activation at a presentation raises that presentation's decay"
+      scale: "model parameter"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "fitted to both sessions of the experiment"
+    result:
+      measure_type: other
+      estimate: 0.217
+      unit: "decay scale"
+      model: "Extended ACT-R activation model, Table 1 Experiment column; fit r2 = 0.944"
+      note: "Fitted estimate, no standard error printed. With c = 0 the model reduces to standard ACT-R (Equation 1). The refit to the restricted data set (Table 1, Experiment Reduced Model) gave 0.250."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fitted model parameter, not an effect."
+    source_quote: "Decay scale (c) 0.217 0.250 0.143 0.495 0.419 0.283"
+    source_location: "Table 1, p. 572, Experiment column (quoted from the page image)"
+
+  - id: actr-threshold
+    comparison_ref: model-fit-experiment
+    outcome:
+      construct: "Model parameter: retrieval threshold"
+      source_language: "Threshold (τ)"
+      measure: "Extended ACT-R model, Equation 2: p(recall) = 1 / (1 + e^((τ - m)/s))"
+      scale: "activation units"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "fitted to both sessions of the experiment"
+    result:
+      measure_type: other
+      estimate: -0.704
+      unit: "activation"
+      model: "Extended ACT-R activation model, Table 1 Experiment column"
+      note: "Fitted for this experiment and then fixed at this value for every other data set in Table 1."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fitted model parameter, not an effect."
+    source_quote: "Threshold (τ) –0.704 –0.704a –0.704a –0.704a –0.704a –0.704a"
+    source_location: "Table 1, p. 572, Experiment column (quoted from the page image; superscript a marks fixed parameters in the other columns)"
+
+  - id: actr-noise
+    comparison_ref: model-fit-experiment
+    outcome:
+      construct: "Model parameter: activation noise"
+      source_language: "Noise (s)"
+      measure: "Extended ACT-R model, Equation 2: s is the noise in activation, the sensitivity of recall to changes in activation"
+      scale: "activation units"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "fitted to both sessions of the experiment"
+    result:
+      measure_type: other
+      estimate: 0.255
+      unit: "logistic noise scale"
+      model: "Extended ACT-R activation model, Table 1 Experiment column"
+      note: "Fitted for this experiment and then fixed at this value for every other data set in Table 1."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fitted model parameter, not an effect."
+    source_quote: "Noise (s) 0.255 0.255a 0.255a 0.255a 0.255a 0.255a"
+    source_location: "Table 1, p. 572, Experiment column (quoted from the page image)"
+
+  - id: actr-interference-scalar
+    comparison_ref: model-fit-experiment
+    outcome:
+      construct: "Model parameter: between-session interference scalar"
+      source_language: "Inteference scalar (h)"
+      measure: "Multiplier converting real time between sessions to psychological time in Equation 5 (1 within a session)"
+      scale: "ratio of between-session to within-session interference"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "applied to the 1- or 7-day gap between sessions"
+    result:
+      measure_type: other
+      estimate: 0.025
+      unit: "scale factor on between-session time"
+      model: "Extended ACT-R activation model, Table 1 Experiment column"
+      note: >-
+        Table 1 does not mark h as fixed for the Experiment column, but the
+        text calls it the ratio 1/40 used across the two experiments with
+        between-session intervals and says h was not estimated separately for
+        each; it was then fixed at 0.025 for the Bahrick data. Table 1 spells
+        the row "Inteference" as printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A model parameter, not an effect."
+    source_quote: "For the models in this article, the scale factor to convert real time to psychological time (a measure of intervening interfering events) is 1 within an experiment and 0.025 between experiments."
+    source_location: "Section 4, p. 569; Table 1, p. 572"
+
+not_yet_extracted:
+  - "S1 baseline checks: first-two-trial means 0.542 and 0.515 (two and four practices), F(1, 39) = 3.1; 0.662, 0.643 and 0.653 (two, four, eight practices), F(2, 38) = 0.60; serial position F(7, 273) = 1.925, all p > .05 (p. 564)."
+  - "Correlation of the S2 patterns between retention intervals, r = .959, p < .001 (p. 566)."
+  - "Model fits to Raaijmakers' (2003) SAM comparison, Bahrick (1979), Bahrick & Phelps (1987), Rumelhart (1967), Young (1971) and Glenberg (1976) data (Table 1 other columns and Sections 4.2-5): fits to other authors' data, not this experiment's observations."
+  - "Fit to the restricted data set used to compare with Raaijmakers' (2003) SAM model (Table 1, 'Experiment Reduced Model'): a 0.172, c 0.250, r2 0.990, chi2 43.3 on 28 df, against SAM chi2 = 166 on 23 df (p. 573)."
