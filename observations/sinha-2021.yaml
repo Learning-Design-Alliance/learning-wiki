@@ -1,0 +1,427 @@
+# Sinha & Kapur (2021): problem solving followed by instruction (PS-I) against
+# instruction followed by problem solving (I-PS), a three-level meta-analysis of
+# 166 comparisons from 53 studies in 45 articles.
+#
+# Records the pooled conceptual-knowledge-and-transfer estimate, the pooled
+# procedural-knowledge estimate, the p-curve estimate of the true effect, the
+# 2nd-to-5th-grade subgroup estimate, the PF fidelity score as a predictor of
+# effect size, the mean PF fidelity score of the 2nd-to-5th-grade comparisons,
+# and the coders' agreement on the PF fidelity criteria (printed only as a bound).
+#
+# THE SUBGROUP BRACKETS. Table 4 prints "2nd to 5th graders (-0.09 [-0.92,
+# -0.16])", and the Discussion repeats it as a 95% CI. The bracket does not
+# contain its point estimate (nor do the 6th-10th and undergraduate brackets),
+# so it cannot be a confidence interval around -0.09 as printed. The figures
+# are recorded as printed in `descriptives`, not as ci_lower/ci_upper.
+#
+# `population.age: unreported`: the article codes learners by grade level only
+# and prints no age figure. No reliability is printed for any outcome measure in
+# the corpus; the only agreement figures are the meta-analysts' own coding kappas.
+#
+# Read from the ETH Zurich Research Collection copy of the published article
+# (CC BY 4.0), text layer; the quoted passages are clean in that layer.
+
+schema_version: 2
+
+study:
+  key: sinha-2021
+  citation: "Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. Review of Educational Research, 91(5), 761–798."
+  doi: "10.3102/00346543211019105"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Three-level meta-analysis (participants within studies within articles)
+      of experimental and quasi-experimental comparisons of PS-I against I-PS,
+      Hedges' g with 95% CIs; subgroup analyses by PF design fidelity criteria,
+      learner grade level, region, pretesting and intervention characteristics;
+      meta-regressions; Egger's test, trim and fill, and p-curve analysis.
+    preregistration:
+      status: unreported
+  synthesis:
+    model: "Three-level (multilevel) random-effects meta-analysis, implemented in R; a complementary Bayesian multilevel model reported in a footnote"
+    heterogeneity_statistic: "Q and I2 (distributed over the three levels)"
+    search:
+      databases:
+        - Google Scholar
+      date_range: "Articles citing the seminal PF articles, as of June 26, 2019"
+      records_screened: 908
+      records_included: 45
+    inclusion:
+      - "Cited Kapur (2008) or Kapur & Bielaczyc (2012) and/or the follow-up PF articles Kapur (2014, 2015, 2016)"
+      - "Reported an experimental or quasi-experimental comparison between PF and I-PS"
+      - "Assessed conceptual knowledge or transfer, and optionally procedural knowledge"
+    data_handling:
+      - "PF fidelity criteria coded by the first author with a research assistant after the authors agreed criteria on 20% of articles; disagreements resolved by discussion"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: productive-failure-improves-conceptual-learning
+    bearing: supports
+    anchor: sinha-kapur-2021
+  - claim: psi-procedural-knowledge-null-pooled-effect
+    bearing: supports
+    anchor: tanmay-sinha-and-manu-kapur-2021
+  - claim: publication-bias-corrected-psi-effect-strong
+    bearing: supports
+    anchor: tanmay-sinha-and-manu-kapur-2021
+  - claim: psi-effect-increases-with-grade-level
+    bearing: supports
+    anchor: tanmay-sinha-and-manu-kapur-2021
+  - claim: pf-fidelity-predicts-psi-effect-size
+    bearing: supports
+    anchor: tanmay-sinha-and-manu-kapur-2021
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 166
+    unit: effect-sizes
+  additional_sizes:
+    - value: 166
+      unit: comparisons
+      note: "PS-I versus I-PS comparisons, one effect size each"
+    - value: 53
+      unit: studies
+      note: "studies reporting the 166 comparisons"
+    - value: 45
+      unit: reports
+      note: "articles reporting the 53 studies"
+    - value: 81
+      unit: comparisons
+      note: "experimental comparisons (random assignment)"
+    - value: 85
+      unit: comparisons
+      note: "quasi-experimental comparisons (whole classes assigned)"
+    - value: 25
+      unit: comparisons
+      note: "comparisons with 2nd to 5th graders (15.1%, Table 1)"
+  population:
+    description: >-
+      Learners in comparisons of PS-I with I-PS: 2nd to 5th graders 25
+      comparisons (15.1%), 6th to 10th graders 75 (45.2%), undergraduates 61
+      (36.7%), postgraduates and professionals 5 (3%). North America 72
+      comparisons, Asia 46, Europe 43, Australia 5.
+    age_or_stage: "Coded by grade level only (2nd-5th, 6th-10th, undergraduates, others); the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Classroom (quasi-experimental) and controlled experimental studies"
+    materials: "Mathematics 75 comparisons, basic sciences 47, medicine 32, domain-general skills 8, others 4 (Table 1)"
+  variation:
+    - dimension: "Learner grade level"
+      distribution: "2nd-5th 25 (15.1%), 6th-10th 75 (45.2%), undergraduates 61 (36.7%), others 5 (3%)"
+    - dimension: "Design type"
+      distribution: "81 experimental, 85 quasi-experimental comparisons"
+  arms:
+    - id: ps-i
+      description: "Problem solving followed by instruction, across all comparisons; productive failure is the subset implemented to the PF design principles."
+      elements:
+        - term: "problem solving before instruction (productive failure, a subset)"
+    - id: i-ps
+      description: "Instruction followed by problem solving, across all comparisons."
+      elements:
+        - term: "instruction before problem solving"
+    - id: ps-i-grades-2-5
+      description: "PS-I conditions in the 25 comparisons with 2nd to 5th graders."
+      size: {value: 25, unit: comparisons}
+    - id: i-ps-grades-2-5
+      description: "I-PS conditions in the 25 comparisons with 2nd to 5th graders."
+      size: {value: 25, unit: comparisons}
+
+comparisons:
+  - id: psi-vs-ips
+    kind: between-groups
+    index_arm: ps-i
+    reference_arm: i-ps
+    description: "PS-I against I-PS, pooled over comparisons; positive g favours PS-I."
+  - id: psi-vs-ips-grades-2-5
+    kind: between-groups
+    index_arm: ps-i-grades-2-5
+    reference_arm: i-ps-grades-2-5
+    description: "PS-I against I-PS in the 2nd-to-5th-grade subgroup; positive g favours PS-I."
+  - id: fidelity-coding
+    kind: none
+    description: "Agreement between coders on the PF design fidelity criteria; no contrast between configurations."
+
+observations:
+
+  - id: conceptual-transfer-overall
+    sample: {value: 166, unit: comparisons}
+    comparison_ref: psi-vs-ips
+    outcome:
+      construct: "Conceptual knowledge and transfer"
+      source_language: "conceptual knowledge and transfer"
+      measure: "Posttests of conceptual knowledge, transfer, or both, as in the primary studies"
+      scale: "Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest as in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.36
+      ci_lower: 0.20
+      ci_upper: 0.51
+      interval_type: confidence
+      p_value: "< .0001"
+      k: {value: 166, unit: comparisons}
+      heterogeneity:
+        statistic: "Q"
+        value: 295.91
+        interpretation: "Q(165) = 295.91, p < .0001, described as moderate; total I2 = 42.01% (57.99%, 38.51% and 3.50% of variance at the three levels)"
+      publication_bias:
+        method: "Funnel plot, Egger's test, trim and fill; p-curve"
+        finding: "Egger's test not significant (intercept = 0.63, p = .219), no studies imputed by trim and fill; p-curve right-skewed with evidential value, true effect estimated at g = 0.87"
+      model: "three-level random-effects; a Bayesian multilevel model gave g = 0.36, 95% CI [0.19, 0.52] (footnote 12)"
+    moderators:
+      reported:
+        - variable: "PF design fidelity"
+          relationship: "Overall PF fidelity score predicted effect size (beta = 0.0065); see the fidelity observation"
+          source_quote: "The overall PF fidel- ity score (computed as a percentage) was a significant predictor of the effect size (β = 0.0065, p < .001, 95% CI [0.0044, 0.0087])."
+        - variable: "Learner grade level"
+          relationship: "Negative pooled estimate for 2nd to 5th graders, more positive with age range"
+          source_quote: "The pooled effect size estimate for younger students (2nd to 5th graders) was negative, and these estimates increased (or became more positive) with the age range."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Overall, our results showed a significant effect (Hedge’s g) of 0.36 [95% CI 0.20, 0.51] in favor of PS-I (compared to I-PS) for conceptual knowledge and transfer"
+    source_location: "Discussion (p. 783); the same figures in Results, Pooled Effect Size Estimates (pp. 776-777), where the sentence runs across a page break"
+
+  - id: procedural-overall
+    sample: {value: 51, unit: comparisons}
+    comparison_ref: psi-vs-ips
+    outcome:
+      construct: "Procedural knowledge"
+      source_language: "procedural knowledge"
+      measure: "Posttests of procedural knowledge, as in the primary studies"
+      scale: "Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest as in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.03
+      ci_lower: -0.20
+      ci_upper: 0.15
+      interval_type: confidence
+      p_value: ".7384"
+      k: {value: 51, unit: comparisons}
+      model: "three-level random-effects"
+      interpretation: "Not significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "For the n = 51/166 comparisons assessing procedural knowl- edge, results suggested the pooled effect size for procedural knowledge to be Hedge’s g = −0.03, p = .7384, 95% CI [−0.20, 0.15]."
+    source_location: "Results, Pooled Effect Size Estimates (p. 777)"
+
+  - id: conceptual-transfer-pcurve-true-effect
+    comparison_ref: psi-vs-ips
+    outcome:
+      construct: "Conceptual knowledge and transfer"
+      source_language: "estimate of true effect size (in absence of publication bias)"
+      measure: "Effect size whose expected p-curve best fits the observed p-curve of significant results"
+      scale: "Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest as in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.87
+      model: "p-curve estimate of the true effect size; estimated power of the included comparisons 94% (CI 91% to 97%)"
+      note: "A bias-adjusted estimate from the p-curve, not a pooled random-effects estimate. No interval is printed for it."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      Figure 3's caption says the publication-bias assessment covered n = 166
+      comparisons, but a p-curve uses only the significant results among them
+      and the article does not print how many those were, so k for this
+      estimate is recorded as unreported.
+    source_quote: "The estimate of true effect size (in absence of publication bias) was therefore computed to be Hedge’s g = 0.87."
+    source_location: "Results, P-Curve Analysis (p. 783)"
+
+  - id: conceptual-transfer-grades-2-5
+    sample: {value: 25, unit: comparisons}
+    comparison_ref: psi-vs-ips-grades-2-5
+    outcome:
+      construct: "Conceptual knowledge and transfer"
+      source_language: "Hedge’s g of −0.09"
+      measure: "Posttests of conceptual knowledge, transfer, or both, as in the primary studies"
+      scale: "Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest as in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.09
+      k: {value: 25, unit: comparisons}
+      descriptives: "Printed bracket [-0.92, -0.16], labelled a 95% CI in the Discussion; it does not contain the point estimate"
+      p_value: "subgroup difference marked ** (p < .01), relative to the other grade subgroups"
+      interpretation: "Negative, favouring I-PS; the authors call the effect favouring I-PS low"
+      model: "three-level random-effects, subgroup analysis"
+    moderators:
+      reported: []
+      candidate:
+        - "Low PF design fidelity in the 2nd-to-5th-grade comparisons (mean fidelity 56.86%), offered by the authors as one possible explanation; the grade-by-fidelity interaction was significant only for 6th to 10th graders and marginal for undergraduates."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k = 25 is the number of 2nd-to-5th-grade comparisons in Table 1 and in the
+      Discussion ("n = 18/25"); Table 4 itself prints no k. The bracket printed
+      with the estimate excludes the estimate, so no interval is recorded.
+    source_quote: "Younger age students (2nd to 5th graders), however, seemed to benefit from I-PS interventions, although the average effect size favor- ing I-PS was low (Hedge’s g of −0.09 [95% CI −0.92, −0.16]."
+    source_location: "Table 4 (p. 777) and Discussion (p. 786)"
+
+  - id: fidelity-predicts-effect-size
+    sample: {value: 166, unit: comparisons}
+    comparison_ref: psi-vs-ips
+    outcome:
+      construct: "Conceptual knowledge and transfer"
+      source_language: "a significant predictor of the effect size"
+      measure: "Comparison-level effect sizes regressed on the overall PF fidelity score (percentage of criteria met)"
+      scale: "meta-regression coefficient per percentage point of PF fidelity"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest as in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.0065
+      ci_lower: 0.0044
+      ci_upper: 0.0087
+      interval_type: confidence
+      p_value: "< .001"
+      k: {value: 166, unit: comparisons}
+      model: "meta-regression on overall PF fidelity score; with the time-span interaction the fidelity slope was 0.0173 overall and -0.0116 for interventions of a few hours (p = .0546)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: partial
+    observability_notes: >-
+      k is taken as all 166 comparisons, which the article implies but does
+      not state for this meta-regression separately.
+    source_quote: "The overall PF fidel- ity score (computed as a percentage) was a significant predictor of the effect size (β = 0.0065, p < .001, 95% CI [0.0044, 0.0087])."
+    source_location: "Results, Productive Failure Fidelity for the PS-I Design (p. 778)"
+
+  - id: mean-fidelity-grades-2-5
+    sample: {value: 25, unit: comparisons}
+    arm_ref: ps-i-grades-2-5
+    outcome:
+      construct: "PF design fidelity of the PS-I implementation"
+      source_language: "overall PF fidelity score"
+      measure: "Percentage of the seven coded PF design fidelity criteria met by the PS-I condition"
+      scale: "percent"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as coded from the primary reports"
+    result:
+      measure_type: mean
+      estimate: 56.86
+      sd: 27.84
+      unit: "percent of PF fidelity criteria met"
+      interpretation: "Described by the authors as low"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is unreported because this is a descriptive mean of a coding
+      score, not an effect. For comparison the article prints mean fidelity of
+      74.45 (SD 22.64) for interventions spanning a few days and 42.01 (SD
+      26.13) for a few hours.
+    source_quote: "Finally, across the comparisons involving 2nd to 5th graders, the low over- all PF fidelity score (M = 56.86%, SD = 27.84%) might also be responsible for negative effects for PS-I."
+    source_location: "Discussion, Students' Incoming Characteristics (p. 786)"
+
+  - id: fidelity-coding-agreement
+    comparison_ref: fidelity-coding
+    outcome:
+      construct: "Inter-rater agreement on PF design fidelity codes"
+      source_language: "Inter-rater reliability"
+      measure: "Codes for the PF design fidelity criteria of each comparison, first author and a research assistant"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      bound:
+        operator: ">"
+        value: 0.7
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "kappa; the article writes it as κ"
+      note: "The Method also lists per-criterion kappas for the seven PF fidelity criteria (κ = 0.92, 1.0, 0.87, 1.0, 1.0, 0.73, and 0.91), recorded under not_yet_extracted."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article does not name the kappa variant; Cohen's kappa is the
+      reading for two raters, and the article prints only κ.
+    source_quote: "the first author (with the help of a research assistant) coded the remaining com- parisons. Inter-rater reliability was κ > 0.7."
+    source_location: "Method, Subgroup Analysis (p. 773)"
+
+not_yet_extracted:
+  - "Per-criterion coding kappas: PF fidelity criteria κ = 0.92, 1.0, 0.87, 1.0, 1.0, 0.73, 0.91; demographic codes κ = 1.0, 1.0, 0.84; intervention characteristics κ = 1.0 (p. 772-773)."
+  - "Table 3 subgroup estimates by each PF fidelity criterion; Table 4 estimates for 6th-10th graders (0.50), undergraduates (0.28), others (1.03), regions and pretesting; Table 5 by design type, time span, concept (domain-general skills -0.17) and outcome. Their printed brackets often exclude the point estimate, as for grades 2-5."
+  - "Meta-regression interactions of time span with affective draw and group work, and of grade level with PF fidelity (6th-10th beta = 0.0190; undergraduates beta = 0.0080)."
+  - "Table 6 multiple-regression predictor importance for the seven fidelity criteria."
+  - "Bayesian posterior probabilities of the pooled SMD below 0.2, 0.3, 0.4 and 0.5 (footnote 12)."

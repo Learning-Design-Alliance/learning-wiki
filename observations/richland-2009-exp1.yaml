@@ -1,0 +1,243 @@
+# Richland, Kornell & Kao (2009), Experiment 1: a pretest on five embedded
+# concepts before reading an unmarked essay, against extended study of the
+# same essay for the same 10 minutes. Immediate final test.
+#
+# Records the tested-items contrast (d = 1.1), the two condition means with
+# their SEs, and the untested-items contrast (no difference, no d printed).
+# The extended-study figure is the condition's OVERALL mean on all 10 items,
+# as the article says, not a mean over matched items.
+#
+# `population.age: unreported`: Experiment 1 prints no age figure.
+#
+# No scoring reliability is printed for the final test in any experiment (how
+# answers were scored is not described), so no reliability is recorded.
+#
+# Read from the publisher PDF of the article supplied for this batch (beside its
+# pdftotext text layer). The text layer writes "=" as U+2AFD and "<" as U+2B0D,
+# and drops the hyphen in "bolded-only" and "italicized-only" at line breaks;
+# every source_quote containing those characters was taken from the page images
+# (PDF pp. 246-251) and uses the characters the article prints. The numbers in
+# the text layer and the page images agree.
+
+schema_version: 2
+study:
+  key: richland-2009-exp1
+  citation: 'Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful
+    retrieval attempts enhance learning? Journal of Experimental Psychology: Applied, 15(3), 243–257.
+    Experiment 1.'
+  doi: 10.1037/a0016496
+  design:
+    family: other
+    design_detail: 'Group-setting experiment in a lecture class. Participants were described as randomly
+      assigned to conditions but were assigned on the basis of seating areas, and the authors note they
+      did not have tight control over cell size. Test and study: 2-min pretest on 5 of the 10 testable
+      items, then 8 min reading the passage. Extended study: 10 min reading. Untimed final test of all
+      10 items immediately after.'
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: pretesting-enhances-retention-over-extended-study
+  bearing: supports
+  anchor: richland-2009
+- claim: pretesting-no-cost-to-untested-items
+  bearing: supports
+  anchor: richland-2009
+- claim: pretesting-enhances-learning
+  bearing: supports
+  anchor: richland-kornell-and-kao-2009
+evidence_base:
+  unit: participants
+  size:
+    value: 63
+    unit: participants
+  population:
+    description: Undergraduates given course credit for participating. No age or sex figures are printed
+      for this experiment.
+    age_or_stage: Undergraduates
+    age: unreported
+  context:
+    setting: Group setting in a lecture class; assignment by seating area
+    materials: A two-page essay on vision and cerebral achromatopsia from Sacks (1995) with 10 testable
+      sentences; two counterbalanced 5-question pretests; a 10-question final test.
+  arms:
+  - id: test-and-study
+    description: 'Test and study: 2-min pretest on five embedded concepts (5% answered correctly), then
+      8 min studying the unmarked passage.'
+    size:
+      value: 36
+      unit: participants
+    elements:
+    - term: unsuccessful retrieval attempt (pretest) before studying the text
+      anchors:
+      - principles/retrieval-practice
+    dose:
+      amount: 10
+      unit: min in total (2 min pretest, 8 min study)
+  - id: extended-study
+    description: 'Extended study: 10 min studying the unmarked passage, the same total time.'
+    size:
+      value: 27
+      unit: participants
+    elements:
+    - term: additional study time on the same text
+    dose:
+      amount: 10
+      unit: min of study
+comparisons:
+- id: test-vs-extended-study
+  kind: between-groups
+  index_arm: test-and-study
+  reference_arm: extended-study
+  description: Pretest then study against extended study for the same total time, between participants.
+observations:
+- id: tested-items-vs-extended-study
+  sample:
+    value: 63
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of pretested concepts
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Test and
+      study: the 5 pretested items; extended study: the overall mean on all 10 items.'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: immediately after the study period
+  result:
+    measure_type: cohens_d
+    estimate: 1.1
+    statistic: t(61) = 4.26
+    p_value: < .0001
+    descriptives: test and study M = 75% (SE 3.2) vs extended study M = 56% (SE 2.7)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: As shown in Figure 1, testing resulted in better posttest performance (M = 75%, SE = 3.2)
+    than did the provision of extra time to study the same material (M = 56%, SE = 2.7), t(61) = 4.26,
+    p < .0001, d = 1.1.
+  source_location: Experiment 1, Results (p. 246)
+- id: mean-test-and-study-tested-items
+  sample:
+    value: 36
+    unit: participants
+  arm_ref: test-and-study
+  outcome:
+    construct: Final-test recall of pretested concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. The 5 pretested
+      items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 75
+    standard_error: 3.2
+    unit: percent correct on the final test, pretested items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: As shown in Figure 1, testing resulted in better posttest performance (M = 75%, SE = 3.2)
+    than did the provision of extra time to study the same material (M = 56%, SE = 2.7)
+  source_location: Experiment 1, Results (p. 246)
+- id: mean-extended-study
+  sample:
+    value: 27
+    unit: participants
+  arm_ref: extended-study
+  outcome:
+    construct: Final-test recall of the passage's testable concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. All 10 items
+      (the condition's overall mean).
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 56
+    standard_error: 2.7
+    unit: percent correct on the final test, all 10 items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: As shown in Figure 1, testing resulted in better posttest performance (M = 75%, SE = 3.2)
+    than did the provision of extra time to study the same material (M = 56%, SE = 2.7)
+  source_location: Experiment 1, Results (p. 246)
+- id: untested-items-vs-extended-study
+  sample:
+    value: 63
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of concepts not pretested
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Test and
+      study: the 5 items not pretested; extended study: the items as above.'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: other
+    statistic: t(61) = 1.3
+    p_value: '.20'
+    descriptives: untested items in test and study M = 50% (SE 3.4); extended study as above
+    interpretation: No significant difference; no effect size printed. The untested-items mean (50%, SE
+      3.4) is from the within-condition comparison in the same paragraph.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: There was not a significant difference between accuracy on the untested items in the test
+    and study condition and in the extended study condition, t(61) = 1.3, p = .20.
+  source_location: Experiment 1, Results (p. 246)
+not_yet_extracted:
+- 'Within the test and study condition, tested items (M = 75%, SE = 3.2) against untested items (M = 50%,
+  SE = 3.4), t(35) = 5.03, p < .0001, d = 1.7: an item-level contrast within one arm.'
+- 'Pretest accuracy: 5% of questions answered correctly in the test and study condition.'

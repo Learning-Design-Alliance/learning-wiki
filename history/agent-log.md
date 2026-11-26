@@ -5,6 +5,37 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation records batch 4: ten more simulator-cited sources
+
+Nine of the ten sources get records, as 15 files with 93 observations:
+- Sinha & Kapur (2021), Yeager et al. (2019), Becker et al. (2017), Fuchs et al. (2009), Goetz et al. (2007),
+  Sadler et al. (2013) and Steinberg & Sabella (1997).
+- Rickard (1997), two experiments.
+- Richland et al. (2009), five experiments.
+
+Sala & Gobet (2017) gets no record. It is a short review whose figures all come from the authors' three earlier
+meta-analyses (chess, doi:10.1016/j.edurev.2016.02.002; music, doi:10.1016/j.edurev.2016.11.005; working memory,
+doi:10.1037/dev0000265). Records for the simulator's figures from it belong on those papers.
+
+Every quote was checked against its text layer. Richland's quotes were taken from the PDF page images, where the text
+layer has symbol-font substitutes and drops hyphens. Becker's quotes give the comparison signs as the article prints
+them, where the text layer escaped them. Steinberg & Sabella was read from an OCR copy.
+
+Left out, and why:
+- Sadler et al.'s Table 3: the text layer prints minus signs as a leading "2". It needs a page image.
+- Goetz et al.'s Table 2 coefficients with a coded minus sign. Steinberg & Sabella's Table I: the OCR splits it across a
+  page break.
+- Rickard's fitted CMPL parameters, which are printed only as figure curves.
+
+Findings for the simulator to check:
+- Sinha & Kapur's Table 4 interval for grades 2–5, [−0.92, −0.16], does not contain its estimate of −0.09. The same is
+  true for two other grade bands. It is recorded as printed, not as a CI.
+- Sala & Gobet's passive-control working-memory interval, 0.18 [−0.09, 0.26], should be checked against the 2017
+  working-memory paper.
+- Yeager et al. print the school-achievement interaction as B = −0.07 with an interval of (0.02, 0.13).
+- Richland et al.'s Experiment 4 prints two standard errors for each of its two main means.
+- Steinberg & Sabella do not print the 36% figure the simulator attributes to them. It comes from Bao & Redish.
+
 ## 2026-11-26 · Observation records batch 3: ten more simulator-cited sources
 
 The batch covers the next ten most-used sources with full text, as 12 files with 93 observations:
