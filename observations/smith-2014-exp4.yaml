@@ -1,0 +1,393 @@
+# Smith & Karpicke (2014), Experiment 4: initial success brought closer
+# between formats (short texts, piloted questions, verbatim questions only),
+# direct correct-answer feedback, final test 1 week later with two texts in
+# short-answer and two in multiple-choice format.
+#
+# WHAT THIS FILE RECORDS, the figures behind the learning-graph simulator's
+# high-success contrast:
+#
+#   * The printed d for short-answer against multiple-choice practice, 0.40
+#     [−0.07, 0.87] (Table 10), collapsed over final-test format.
+#   * Initial success as means: multiple-choice .83, short-answer .72,
+#     F(1, 70) = 8.81, partial eta squared .11, a 10.8-point gap.
+#   * Final short-answer test means for the three practice arms (.50, .59,
+#     .63, printed in the text) and final multiple-choice test means (.76,
+#     .80, .80, Table 7 only), each with Table 7's standard error. Table 7
+#     prints SEs, not SDs, so `result.sd` is never filled and no SD is
+#     derived; the SE goes in `standard_error`.
+#   * `population.age: unreported`: no age figure is printed.
+#
+# TABLE 7 was first read from a text layer that emits it column by column.
+# Every cell recorded here, including the final multiple-choice means (.76,
+# .80, .80) and every standard error, is now CONFIRMED ON THE PAGE IMAGE
+# (p. 796), and the Table 7 quotes are the table's rows as printed.
+#
+# The pilot that selected the questions (12 different subjects; 89% vs 83%
+# correct) is a different sample and has no arms here; it is listed in
+# not_yet_extracted. Scoring reliability (r = .94, across all four
+# experiments) is in smith-2014-overall.
+#
+# Conditions were "assigned" (method not stated): `family: other`. Read from
+# the publisher PDF's text layer.
+# Quotes are in the article's own characters. The publisher PDF's text layer
+# writes its symbol-font glyphs as control characters and MathType runs:
+# U+0002 is "=", U+0003 "–", U+0004 "×", U+0005 the minus sign "−",
+# "g2p ¼ :66" is "η²p = .66" and "F B1" is "F < 1". With those mapped (and
+# spacing around "=" ignored) every quote is a substring of the text file.
+#
+# CHECKED AGAINST PAGE IMAGES (2026-11-26): the publisher PDF (Taylor & Francis
+# download with its cover page, the same file the text layer was made from) was
+# viewed page by page. Every source_quote in this file and every recorded number
+# was compared with the printed page and matches it; the glyph-code rewriting
+# (U+0002 "=", U+0005 "−", "g2p ¼ :" "η²p = .", "F B1" "F < 1") gives the
+# page's own characters. The exceptions to "every quote is a substring of the
+# text file" are the table-row quotes (Tables 1, 3, 6 and 7), whose
+# source_location or observability_notes say "page image": they are rows
+# quoted from the printed page, because the text layer emits those tables
+# column by column.
+# Published online 2013, issue 2014.
+
+schema_version: 2
+
+study:
+  key: smith-2014-exp4
+  citation: "Smith, M. A., & Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. Memory, 22(7), 784–802. (Published online 2013.) Experiment 4."
+  doi: "10.1080/09658211.2013.831454"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment, 4 (retrieval format) x 2 (final test format)
+      mixed factorial. 36 students assigned to each of short-answer,
+      multiple-choice, hybrid (short-answer then multiple-choice, as the
+      hybrid-massed condition of Experiments 1-2) and no-retrieval-practice
+      control (method not stated). Four short TOEFL texts studied on the
+      computer, eight verbatim practice questions per text, then a feedback
+      sentence with the correct answer; no time limit. Final test 1 week
+      later: two texts in short-answer and two in multiple-choice format,
+      fully counterbalanced across subjects.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: exp4-pilot-equated-initial-success
+    bearing: supports
+    anchor: smith-2014-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 144
+    unit: participants
+  population:
+    description: "Purdue University undergraduates, none of whom had taken part in the earlier experiments."
+    age_or_stage: "Undergraduates; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Laboratory, two sessions 1 week apart."
+    materials: >-
+      Four texts from the reading-comprehension section of a TOEFL
+      test-preparation book (The Sun, 256 words; Sea Otters, 275; Early
+      History of Jazz, 219; Bessemer Steel, 270). Eight of 11 piloted
+      questions kept per text, the three with the largest short-answer vs
+      multiple-choice success differences dropped; multiple-choice items had
+      four plausible lures.
+  arms:
+    - id: multiple-choice
+      description: "Initial practice by selecting the answer among five alternatives, then the feedback sentence."
+      size: {value: 36, unit: participants}
+      elements:
+        - term: "multiple-choice retrieval practice with correct-answer feedback"
+          anchors:
+            - principles/retrieval-practice
+    - id: short-answer
+      description: "Initial practice by typing an answer, then the feedback sentence."
+      size: {value: 36, unit: participants}
+      elements:
+        - term: "short-answer retrieval practice with correct-answer feedback"
+          anchors:
+            - principles/retrieval-practice
+    - id: hybrid
+      description: "Each question answered first in short-answer and then immediately in multiple-choice format, then the feedback sentence."
+      size: {value: 36, unit: participants}
+      elements:
+        - term: "short-answer then multiple-choice retrieval practice with correct-answer feedback"
+          anchors:
+            - principles/retrieval-practice
+
+comparisons:
+  - id: sa-vs-mc
+    kind: between-groups
+    index_arm: short-answer
+    reference_arm: multiple-choice
+    description: "Short-answer against multiple-choice retrieval practice, between subjects."
+  - id: hybrid-vs-mc
+    kind: between-groups
+    index_arm: hybrid
+    reference_arm: multiple-choice
+    description: "Hybrid against multiple-choice retrieval practice, between subjects."
+
+observations:
+
+  - id: d-sa-vs-mc-final
+    sample: {value: 72, unit: participants}
+    comparison_ref: sa-vs-mc
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "mean proportion correct on the final test"
+      measure: "Final test of the 32 practice questions, two texts in short-answer and two in multiple-choice format"
+      scale: "proportion correct, collapsed over final-test format"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &oneweek
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.40
+      ci_lower: -0.07
+      ci_upper: 0.87
+      interval_type: confidence
+      interpretation: "Positive: the short-answer arm scored higher; the interval includes zero."
+      note: "Collapsed across final assessment format. The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: &obs_eff
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "0.40 [ −0.07, 0.87]"
+    source_location: "Table 10 (p. 798), column SA − MC, row Experiment 4"
+
+  - id: initial-mean-mc
+    sample: {value: 36, unit: participants}
+    arm_ref: multiple-choice
+    outcome: &initial
+      construct: "Initial retrieval success"
+      source_language: "mean proportion correct for each initial retrieval practice format"
+      measure: "Proportion correct on the initial practice questions (multiple-choice arm: multiple-choice items; short-answer arm: short-answer items)"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &initialtime
+      label: "during the practice session"
+    result:
+      measure_type: mean
+      estimate: 0.83
+      unit: "proportion correct on the initial multiple-choice questions"
+      standard_error: 0.02
+      statistic: "Against the short-answer arm: F(1, 70) = 8.81, partial eta squared .11"
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &senote >-
+      The standard error is Table 7's; Table 7 prints standard errors, not
+      standard deviations, and no SD is derived from it.
+    source_quote: "A one-way ANOVA revealed that performance was higher in the multiple-choice condition (M = .83) than in the short-answer condition (M = .72); F(1, 70) = 8.81, η²p = .11."
+    source_location: "Experiment 4, Results, Initial performance (p. 796); Table 7"
+
+  - id: initial-mean-sa
+    sample: {value: 36, unit: participants}
+    arm_ref: short-answer
+    outcome: *initial
+    time: *initialtime
+    result:
+      measure_type: mean
+      estimate: 0.72
+      unit: "proportion correct on the initial short-answer questions"
+      standard_error: 0.03
+      statistic: "Against the multiple-choice arm: F(1, 70) = 8.81, partial eta squared .11"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *senote
+    source_quote: "A one-way ANOVA revealed that performance was higher in the multiple-choice condition (M = .83) than in the short-answer condition (M = .72); F(1, 70) = 8.81, η²p = .11."
+    source_location: "Experiment 4, Results, Initial performance (p. 796); Table 7"
+
+  - id: initial-gap
+    comparison_ref: sa-vs-mc
+    outcome:
+      <<: *initial
+      scale: "percentage-point difference, multiple-choice minus short-answer"
+      direction: contextual
+    time: *initialtime
+    result:
+      measure_type: mean_difference
+      estimate: 10.8
+      unit: "percentage points, multiple-choice above short-answer"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_eff
+    source_quote: "The difference between the two conditions was only 10.8% in this experiment"
+    source_location: "Experiment 4, Results, Initial performance (p. 796); the sentence continues on p. 797, after Table 7, with \"around 30–40%\" for the first two experiments"
+
+  - id: final-sa-test-mean-mc
+    sample: {value: 36, unit: participants}
+    arm_ref: multiple-choice
+    outcome: &finalsa
+      construct: "Delayed retention of text content"
+      source_language: "mean proportion correct on the final test"
+      measure: "Final short-answer test (the two texts assigned to short-answer format), hand-scored 1 / 0.5 / 0 blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.50
+      unit: "proportion correct on the final short-answer test"
+      standard_error: 0.03
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *senote
+    source_quote: "Least significant difference posthoc comparisons revealed that students in the hybrid condition (M = .63) performed better than those in the multiple-choice condition (M = .50), F(1, 70) = 6.59, η²p = .09,"
+    source_location: "Experiment 4, Results, Final performance (p. 797); Table 7"
+
+  - id: final-sa-test-mean-sa
+    sample: {value: 36, unit: participants}
+    arm_ref: short-answer
+    outcome: *finalsa
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.59
+      unit: "proportion correct on the final short-answer test"
+      standard_error: 0.04
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *senote
+    source_quote: "those in the shortanswer condition (M = .59) performed marginally better than those in the multiple-choice condition, F(1, 70) = 3.34, p = .07, η²p = .05."
+    source_location: "Experiment 4, Results, Final performance (p. 797); Table 7"
+
+  - id: final-sa-test-mean-hybrid
+    sample: {value: 36, unit: participants}
+    arm_ref: hybrid
+    outcome: *finalsa
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.63
+      unit: "proportion correct on the final short-answer test"
+      standard_error: 0.04
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *senote
+    source_quote: "Least significant difference posthoc comparisons revealed that students in the hybrid condition (M = .63) performed better than those in the multiple-choice condition (M = .50), F(1, 70) = 6.59, η²p = .09,"
+    source_location: "Experiment 4, Results, Final performance (p. 797); Table 7"
+
+  - id: final-sa-test-sa-vs-mc
+    sample: {value: 72, unit: participants}
+    comparison_ref: sa-vs-mc
+    outcome:
+      <<: *finalsa
+      scale: "partial eta squared for format"
+    time: *oneweek
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.05
+      statistic: "F(1, 70) = 3.34 (least significant difference post hoc comparison)"
+      p_value: "p = .07"
+      descriptives: "short-answer M = .59 vs multiple-choice M = .50"
+      interpretation: "Marginal short-answer advantage on the final short-answer test."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_eff
+    source_quote: "those in the shortanswer condition (M = .59) performed marginally better than those in the multiple-choice condition, F(1, 70) = 3.34, p = .07, η²p = .05."
+    source_location: "Experiment 4, Results, Final performance (p. 797)"
+
+  - id: final-sa-test-hybrid-vs-mc
+    sample: {value: 72, unit: participants}
+    comparison_ref: hybrid-vs-mc
+    outcome:
+      <<: *finalsa
+      scale: "partial eta squared for format"
+    time: *oneweek
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.09
+      statistic: "F(1, 70) = 6.59 (least significant difference post hoc comparison)"
+      descriptives: "hybrid M = .63 vs multiple-choice M = .50"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_eff
+    source_quote: "Least significant difference posthoc comparisons revealed that students in the hybrid condition (M = .63) performed better than those in the multiple-choice condition (M = .50), F(1, 70) = 6.59, η²p = .09,"
+    source_location: "Experiment 4, Results, Final performance (p. 797)"
+
+  - id: final-mc-test-mean-mc
+    sample: {value: 36, unit: participants}
+    arm_ref: multiple-choice
+    outcome: &finalmc
+      construct: "Delayed retention of text content"
+      source_language: "mean proportion correct on the final test"
+      measure: "Final multiple-choice test (the two texts assigned to multiple-choice format), computer-scored"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.76
+      unit: "proportion correct on the final multiple-choice test"
+      standard_error: 0.03
+      note: "No effect of practice format on the final multiple-choice test (F < 1)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: &colnote >-
+      From Table 7 only (the text does not print this mean), confirmed on
+      the page image. The standard error is a standard error, not an SD.
+    source_quote: "Multiple-choice – .83 (.02) .50 (.03) .76 (.03)"
+    source_location: "Table 7 (p. 796), row Multiple-choice, column Final assessment: Multiple-choice; row quoted from the page image"
+
+  - id: final-mc-test-mean-sa
+    sample: {value: 36, unit: participants}
+    arm_ref: short-answer
+    outcome: *finalmc
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.80
+      unit: "proportion correct on the final multiple-choice test"
+      standard_error: 0.03
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *colnote
+    source_quote: "Short-answer .72 (.03) – .59 (.04) .80 (.03)"
+    source_location: "Table 7 (p. 796), row Short-answer, column Final assessment: Multiple-choice; row quoted from the page image"
+
+  - id: final-mc-test-mean-hybrid
+    sample: {value: 36, unit: participants}
+    arm_ref: hybrid
+    outcome: *finalmc
+    time: *oneweek
+    result:
+      measure_type: mean
+      estimate: 0.80
+      unit: "proportion correct on the final multiple-choice test"
+      standard_error: 0.03
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *colnote
+    source_quote: "Hybrid .70 (.03) .83 (.02) .63 (.04) .80 (.03)"
+    source_location: "Table 7 (p. 796), row Hybrid, column Final assessment: Multiple-choice; row quoted from the page image"
+
+not_yet_extracted:
+  - "Pilot for question selection: 12 subjects not in any reported experiment; 'During the pilot the multiple-choice group successfully answered 89% and the short-answer group successfully answered 83% correct (F < 1) for the 32 questions that we ultimately used in Experiment 4.' A different sample with no recorded arms."
+  - "No-retrieval-practice control (Table 7, confirmed on the page image): final short-answer .41 (.03), final multiple-choice .60 (.03); every practice arm beat it on both final tests, all Fs(1, 70) > 4.04, ps < .05."
+  - "Format main effect on the final short-answer test: F(2, 105) = 3.34, partial eta squared .06; on the final multiple-choice test F < 1."
+  - "Hybrid initial success (Table 7, confirmed on the page image): short-answer items .70 (.03), multiple-choice items .83 (.02)."
+  - "Table 9 (p. 798) d against control, Experiment 4: multiple-choice 0.82 [0.35, 1.29], short-answer 1.15 [0.68, 1.62], hybrid 1.24 [0.77, 1.71]; Table 10 Hybrid-M − SA 0.12 [−0.35, 0.59], Hybrid-M − MC 0.52 [0.05, 0.99]."
+  - "Response times (Table 8): short-answer M = 13.5 s vs multiple-choice M = 8.8 s, F(1, 70) = 12.05, partial eta squared .15."
+  - "Lure intrusions: 28% (multiple-choice), 29% (hybrid), 22% (no retrieval), 19% (short-answer); F(3, 136) = 1.78, p = .15."

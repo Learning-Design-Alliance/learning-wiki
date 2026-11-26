@@ -1,0 +1,516 @@
+# Conway, Cohen & Stanhope (1991): retention of a cognitive psychology course
+# 3 to 125 months after it ended, in 373 former Open University students.
+#
+# WHAT THIS FILE RECORDS, the figures behind the learning-graph simulator's
+# recognition-against-recall contrast:
+#
+#   * Overall mean recognition (concepts 71%, names 68.5%) and the floor the
+#     text prints for it ("never fell below 63%", recorded as a bound), and
+#     overall mean cued recall (concepts 32.3%, names 30.2%). These are means
+#     over all 12 retention-interval cohorts; the per-interval values are
+#     plotted in Figures 1 and 2 and are not read off the figures here.
+#   * The recognition d′ means (concepts 1.20, names 1.09) and the d′ range
+#     across intervals (2.20 at the shortest, 0.85 at the longest), and the
+#     retention-interval effects in the recognition and cued-recall ANOVAs.
+#
+# NOT COMPARABLE AS PRINTED: recognition was an old/new judgement on 16
+# targets and 16 foils (subjects told about half were old), so chance is
+# about 50%; cued recall's chance level was set at zero from a control group.
+# The recognition and recall tests also sampled different names and concepts.
+# The authors warn about intertest comparisons (footnote 4). Nothing here
+# corrects one for the other. The article prints hit percentages and d′ but
+# no false-alarm rate.
+#
+# AGE: the article prints mean age at retrieval for each retention-interval
+# cohort (Table 1, 39.6 to 58.9 years), and says all students were "mature
+# students" over 21, but prints no age figure for the whole sample. So
+# `population.age: unreported` at the grain of the sample, with the cohort
+# means and SDs in `variation`. Four Table 1 cells were OCR-garbled ("1 l.l",
+# "l 1.6", "I 1.9", and the RI-41 percentage "I 1.3"); read from the page
+# image they are 11.1, 11.6, 11.9 (age SDs at 39, 77 and 113 months) and
+# 11.3 (percent of the sample at 41 months). All twelve age SDs are now
+# recorded from the page image.
+#
+# RELIABILITY: none is printed for any memory test. The only check is of the
+# questionnaire: a 20% subset checked against student records, "No
+# discrepancies were found", which is not a coefficient and is listed in
+# not_yet_extracted.
+#
+# First read from the APA publisher scan's OCR text layer. Quotes use the
+# article's characters where the OCR differs: "\<" is "<", a line-break
+# hyphen ("dif- ferent") is joined, "ofRI" is "of RI" and "F(1 l, 361)" is
+# "F(11, 361)".
+#
+# CHECKED AGAINST PAGE IMAGES (2026-11-26): the publisher scan (PDF, 15 pp.)
+# was viewed page by page. Every quote above that fixed an OCR error, and every
+# other quote and recorded number in this file, was compared with the printed
+# page (pp. 395-405) and matches it. The five simple-main-effect observations
+# (names against concepts at single retention intervals) were added from the
+# page images of pp. 400-401; their quotes are taken from the page, because the
+# OCR interleaves column text there ("O", "e~ 40'") and garbles "MSe".
+#
+# PER-INTERVAL VALUES: no per-interval recognition or recall percentage is
+# printed as a number anywhere in the article (text, Tables 1-3, figure
+# captions); they exist only as plotted points in Figures 1-2 and are not read
+# off the charts. What the text does print per interval is the names-against-
+# concepts simple main effects (27 and 39 months for recognition; 15, 27 and
+# 125 months for cued recall), recorded below.
+
+schema_version: 2
+
+study:
+  key: conway-1991
+  citation: "Conway, M. A., Cohen, G., & Stanhope, N. (1991). On the very long-term retention of knowledge acquired through formal education: Twelve years of cognitive psychology. Journal of Experimental Psychology: General, 120(4), 395–409."
+  doi: "10.1037/0096-3445.120.4.395"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional study. Former students of one Open University
+      cognitive psychology course (taken 1978-1989) tested by mailed test
+      pack at 12 retention intervals (RIs, 3 to 125 months after the final
+      examination), RI being the cohort's course year. Five tests in fixed
+      order: name and concept recognition (old/new), fact verification
+      (general and specific), concept grouping, cued recall of names and
+      concepts, research-methods recognition. Mixed ANOVAs with RI between
+      subjects; d′ for recognition; within-year and whole-sample hierarchical
+      regressions on grade, contact, interest, age, RI and confidence.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: names-concepts-decline-then-stabilize-36-months
+    bearing: supports
+    anchor: conway-1991
+
+evidence_base:
+  unit: participants
+  size:
+    value: 373
+    unit: participants
+  population:
+    description: >-
+      Former Open University students of a one-year cognitive psychology
+      course in the final year of a part-time degree; about half volunteers,
+      the rest traced through student records (response rates 44% by mail,
+      90% by telephone); about 40% of all former students of the course.
+      Students who went on to careers or study in cognitive psychology were
+      not used; post-course contact was low.
+    age_or_stage: >-
+      Adults; all "mature students" over 21. Mean age at retrieval is printed
+      per retention-interval cohort only (Table 1), rising from 39.6 at 3
+      months to 58.9 at 125 months; less than 10% of the sample was over 65
+      at test. No whole-sample age figure is printed.
+    age: unreported
+  context:
+    setting: "Tests mailed to former students' homes and completed unsupervised, with instructions not to consult course material."
+    materials: >-
+      Recognition: 16 target and 16 foil concepts, then 16 target and 16 foil
+      names, one topic area per subject. Cued recall: 12 statements with the
+      critical name (6) or concept (6) replaced by its initial letter.
+  variation:
+    - dimension: "Retention interval in months (subjects per cohort)"
+      distribution: "3: 33; 15: 37; 27: 35; 39: 25; 41: 42; 53: 48; 65: 28; 77: 27; 89: 27; 101: 23; 113: 18; 125: 30"
+    - dimension: "Mean age at retrieval by retention interval, years"
+      distribution: "3: 39.6; 15: 39.8; 27: 45.5; 39: 46.7; 41: 46.8; 53: 48.5; 65: 52.9; 77: 54.4; 89: 55.7; 101: 52.6; 113: 53.3; 125: 58.9"
+    - dimension: "SD of age at retrieval by retention interval, years (Table 1, read from the page image)"
+      distribution: "3: 8.1; 15: 8.9; 27: 10.1; 39: 11.1; 41: 9.4; 53: 10.1; 65: 8.7; 77: 11.6; 89: 10.0; 101: 10.7; 113: 11.9; 125: 9.6"
+  arms:
+    - id: former-students
+      description: "All 373 former students, every retention-interval cohort; one course, no manipulated configuration."
+      size: {value: 373, unit: participants}
+
+comparisons:
+  - id: across-retention-intervals
+    kind: none
+    description: "Differences among the 12 retention-interval cohorts (between subjects); a cross-sectional comparison, not a contrast of configurations."
+  - id: names-vs-concepts
+    kind: none
+    description: "Names against concepts within the same subjects (type of test, within subjects); a contrast of materials, not of configurations."
+
+observations:
+
+  - id: recognition-concepts-mean
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome: &recog
+      construct: "Recognition of course knowledge after a long retention interval"
+      source_language: "mean percentage of correctly recognized concepts"
+      measure: "Old/new recognition of 16 target concepts among 16 stylistically similar foils; percentage of old items correctly recognised (hits)"
+      scale: "percent of old items recognised; chance about 50%"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &alltime
+      label: "3 to 125 months after the course's final examination, pooled over 12 cohorts"
+    result:
+      measure_type: mean
+      estimate: 71
+      unit: "percent of old concepts correctly recognised, mean over all retention intervals"
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &meannote >-
+      A mean over all retention intervals as the text prints it; no SD is
+      printed. The per-interval percentages are only plotted (Figures 1-2).
+    source_quote: "of correctly recognized concepts was 71% compared with 68.5%, for names;"
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: recognition-names-mean
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome:
+      <<: *recog
+      source_language: "mean percentage of correctly recognized ... names"
+      measure: "Old/new recognition of 16 target names among 16 foil names of the same length and initial letter; percentage of old items correctly recognised (hits)"
+    time: *alltime
+    result:
+      measure_type: mean
+      estimate: 68.5
+      unit: "percent of old names correctly recognised, mean over all retention intervals"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *meannote
+    source_quote: "of correctly recognized concepts was 71% compared with 68.5%, for names;"
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: recognition-floor
+    arm_ref: former-students
+    outcome:
+      <<: *recog
+      source_language: "the mean percentage of correctly recognized old items"
+      measure: "Old/new recognition of names and of concepts; the lowest retention-interval mean on either test"
+    time:
+      label: "every retention interval, 3 to 125 months"
+    result:
+      measure_type: other
+      bound: {operator: ">=", value: 63}
+      unit: "percent of old items correctly recognised, per retention-interval mean"
+      interpretation: "No retention-interval mean on either recognition test fell below 63%; recognition was always reliably above chance."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: >-
+      Printed only as a floor ("never fell below 63%"), so it is a bound, not
+      an estimate; which interval and test reached it is not stated in the
+      text.
+    source_quote: "in both tests across all RIs, the mean percentage of correctly recognized old items never fell below 63%, and recognition performance was always reliably above chance."
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: cued-recall-concepts-mean
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome: &recall
+      construct: "Recall of course knowledge after a long retention interval"
+      source_language: "the mean number of items correctly recalled"
+      measure: "Cued recall: fill in the deleted concept from a statement and its initial letter (6 concept items)"
+      scale: "percent correct; chance set at zero from control subjects' responses"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *alltime
+    result:
+      measure_type: mean
+      estimate: 32.3
+      unit: "percent of concept items correctly recalled, mean over all retention intervals"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *meannote
+    source_quote: "the mean number of items correctly recalled for names was 30.2% compared with 32.3% for concepts."
+    source_location: "Results, Analysis of Measures of Retention (p. 401)"
+
+  - id: cued-recall-names-mean
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome:
+      <<: *recall
+      measure: "Cued recall: fill in the deleted proper name from a statement and its initial letter (6 name items)"
+    time: *alltime
+    result:
+      measure_type: mean
+      estimate: 30.2
+      unit: "percent of name items correctly recalled, mean over all retention intervals"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *meannote
+    source_quote: "the mean number of items correctly recalled for names was 30.2% compared with 32.3% for concepts."
+    source_location: "Results, Analysis of Measures of Retention (p. 401)"
+
+  - id: recognition-dprime-concepts
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome: &dprime
+      construct: "Recognition sensitivity for course knowledge"
+      source_language: "d-prime"
+      measure: "Old/new recognition of concepts, converted to d′ per subject"
+      scale: "d′"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *alltime
+    result:
+      measure_type: mean
+      estimate: 1.20
+      unit: "d′, mean over all retention intervals"
+      statistic: "Type of test (concepts vs names): F(1, 361) = 5.553, MSe = 1.77, p < .02"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: &dnote >-
+      The text prints the d′ means but no false-alarm rates or SDs; the
+      authors note that the same analysis on raw data gave identical
+      findings.
+    source_quote: "The main effect of type of test arose because more concepts were accurately recognized than names: The mean values of d-prime were 1.20 versus 1.09, respectively."
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: recognition-dprime-names
+    sample: {value: 373, unit: participants}
+    arm_ref: former-students
+    outcome:
+      <<: *dprime
+      measure: "Old/new recognition of names, converted to d′ per subject"
+    time: *alltime
+    result:
+      measure_type: mean
+      estimate: 1.09
+      unit: "d′, mean over all retention intervals"
+      statistic: "Type of test (concepts vs names): F(1, 361) = 5.553, MSe = 1.77, p < .02"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *dnote
+    source_quote: "The main effect of type of test arose because more concepts were accurately recognized than names: The mean values of d-prime were 1.20 versus 1.09, respectively."
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: recognition-dprime-range
+    arm_ref: former-students
+    outcome:
+      <<: *dprime
+      measure: "Old/new recognition of names and concepts, d′ per retention interval"
+    time:
+      label: "from the shortest to the longest retention intervals"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 0.85
+        upper: 2.20
+        over: {value: 12, unit: other}
+      unit: "d′"
+      interpretation: "2.20 at the shortest retention intervals, 0.85 at the longest."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: >-
+      `over` counts the 12 retention-interval cohorts (unit other). The text
+      does not say whether the range is over names, concepts or both, nor
+      which intervals "the shortest RIs" and "the longest RIs" are.
+    source_quote: "Overall, the d-prime values ranged from 2.20, for the shortest RIs, to 0.85, for the longest RIs, demonstrating that subjects at different RIs were sensitive to old items from the course material and that false positives did not dominate their responding."
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: recognition-ri-effect
+    sample: {value: 373, unit: participants}
+    comparison_ref: across-retention-intervals
+    outcome:
+      <<: *dprime
+      measure: "Old/new recognition of names and concepts, d′; RI (12 levels) between subjects, test type within"
+      scale: "F test for retention interval"
+    time:
+      label: "across 12 retention intervals, 3 to 125 months"
+    result:
+      measure_type: other
+      statistic: "F(11, 361) = 10.05, MSe = 7.01"
+      p_value: "p < .0001"
+      interpretation: "Recognition declined over the first 36 to 48 months and then levelled out; the decline was more rapid for names than concepts (reliable at the 27- and 39-month RIs)."
+    moderators:
+      reported:
+        - variable: "Type of knowledge (names vs concepts)"
+          relationship: "Recognition of names declined faster than recognition of concepts; reliable at the 27- and 39-month intervals"
+          source_quote: "It is also clear from Figure 1 that the decline in retention is more rapid for names than concepts."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "A main effect of RI was observed, F(11,361) = 10.05, MSe = 7.01, p < .0001, as was a main effect of type of test, F(1,361) = 5.553, MSe = 1.77, p < .02."
+    source_location: "Results, Analysis of Measures of Retention (p. 400)"
+
+  - id: cued-recall-ri-effect
+    sample: {value: 373, unit: participants}
+    comparison_ref: across-retention-intervals
+    outcome:
+      <<: *recall
+      measure: "Cued recall of names and concepts, percent correct; RI (12 levels) between subjects, test type within"
+      scale: "F test for retention interval"
+    time:
+      label: "across 12 retention intervals, 3 to 125 months"
+    result:
+      measure_type: other
+      statistic: "F(11, 361) = 5.07, MSe = 5,356"
+      p_value: "p < .0001"
+      interpretation: "Cued recall varied with RI, with an RI x test type interaction, F(11, 361) = 3.54, p < .0001; the main effect of test type was not significant, F(1, 361) = 3.401, p = .06."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "main effects of RI, F(11, 361) = 5.07, MSe = 5,356, p < .0001, and the interaction of RI by type of test, F(11, 361) = 3.54, MSe = 802, p < .0001, were observed."
+    source_location: "Results, Analysis of Measures of Retention (p. 401)"
+
+  - id: recognition-names-vs-concepts-27m
+    comparison_ref: names-vs-concepts
+    outcome:
+      <<: *dprime
+      measure: "Old/new recognition of names and of concepts, d′, at one retention interval"
+      scale: "F test, names against concepts, at one retention interval"
+    time:
+      label: "27 months after the final examination (the 27-month cohort)"
+      offset: {value: 27, unit: months, from: "the course's final examination"}
+    result:
+      measure_type: other
+      statistic: "F(1, 361) = 4.58, MSe = 0.32"
+      p_value: "p < .033"
+      interpretation: "Recognition of concepts more accurate than of names at 27 months; one of only two intervals where they differed reliably."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A simple main effect within one retention-interval cohort, tested
+      against the whole-sample error term (df 361); no analysed n and no
+      cell means are printed for it, so no sample is attached. Quote taken
+      from the page image.
+    source_quote: "At these points, recognition of concepts was reliably more accurate than recognition of names: F(1,361) = 4.58, MSe = 0.32, p < .033, for the 27-month RI, and F(1,361) = 5.88, MSe = 0.32, p < .016, for the 39-month RI."
+    source_location: "Results, Analysis of Measures of Retention, simple main effects (p. 400)"
+
+  - id: recognition-names-vs-concepts-39m
+    comparison_ref: names-vs-concepts
+    outcome:
+      <<: *dprime
+      measure: "Old/new recognition of names and of concepts, d′, at one retention interval"
+      scale: "F test, names against concepts, at one retention interval"
+    time:
+      label: "39 months after the final examination (the 39-month cohort)"
+      offset: {value: 39, unit: months, from: "the course's final examination"}
+    result:
+      measure_type: other
+      statistic: "F(1, 361) = 5.88, MSe = 0.32"
+      p_value: "p < .016"
+      interpretation: "Recognition of concepts more accurate than of names at 39 months."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A simple main effect within one retention-interval cohort, tested
+      against the whole-sample error term (df 361); no analysed n and no
+      cell means are printed for it, so no sample is attached. Quote taken
+      from the page image.
+    source_quote: "At these points, recognition of concepts was reliably more accurate than recognition of names: F(1,361) = 4.58, MSe = 0.32, p < .033, for the 27-month RI, and F(1,361) = 5.88, MSe = 0.32, p < .016, for the 39-month RI."
+    source_location: "Results, Analysis of Measures of Retention, simple main effects (p. 400)"
+
+  - id: cued-recall-names-vs-concepts-15m
+    comparison_ref: names-vs-concepts
+    outcome:
+      <<: *recall
+      measure: "Cued recall of names and of concepts, percent correct, at one retention interval"
+      scale: "F test, names against concepts, at one retention interval"
+    time:
+      label: "15 months after the final examination (the 15-month cohort)"
+      offset: {value: 15, unit: months, from: "the course's final examination"}
+    result:
+      measure_type: other
+      statistic: "F(1, 361) = 11.33, MSe = 226"
+      p_value: "p < .001"
+      interpretation: "Cued recall of concepts higher than of names at 15 months."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A simple main effect within one retention-interval cohort, tested
+      against the whole-sample error term (df 361); no analysed n and no
+      cell means are printed for it, so no sample is attached. Quote taken
+      from the page image.
+    source_quote: "Cued recall of concepts was reliably higher at 15 months, F(1,361) = 11.33, MSe = 226, p < .001, and 27 months, F(1,361) = 17.80, MSe = 226, p < .001."
+    source_location: "Results, Analysis of Measures of Retention, simple main effects (p. 401)"
+
+  - id: cued-recall-names-vs-concepts-27m
+    comparison_ref: names-vs-concepts
+    outcome:
+      <<: *recall
+      measure: "Cued recall of names and of concepts, percent correct, at one retention interval"
+      scale: "F test, names against concepts, at one retention interval"
+    time:
+      label: "27 months after the final examination (the 27-month cohort)"
+      offset: {value: 27, unit: months, from: "the course's final examination"}
+    result:
+      measure_type: other
+      statistic: "F(1, 361) = 17.80, MSe = 226"
+      p_value: "p < .001"
+      interpretation: "Cued recall of concepts higher than of names at 27 months."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A simple main effect within one retention-interval cohort, tested
+      against the whole-sample error term (df 361); no analysed n and no
+      cell means are printed for it, so no sample is attached. Quote taken
+      from the page image.
+    source_quote: "Cued recall of concepts was reliably higher at 15 months, F(1,361) = 11.33, MSe = 226, p < .001, and 27 months, F(1,361) = 17.80, MSe = 226, p < .001."
+    source_location: "Results, Analysis of Measures of Retention, simple main effects (p. 401)"
+
+  - id: cued-recall-names-vs-concepts-125m
+    comparison_ref: names-vs-concepts
+    outcome:
+      <<: *recall
+      measure: "Cued recall of names and of concepts, percent correct, at one retention interval"
+      scale: "F test, names against concepts, at one retention interval"
+    time:
+      label: "125 months after the final examination (the 125-month cohort)"
+      offset: {value: 125, unit: months, from: "the course's final examination"}
+    result:
+      measure_type: other
+      statistic: "F(1, 361) = 8.80, MSe = 226"
+      p_value: "p < .003"
+      interpretation: "Reversal: cued recall of names higher than of concepts at 125 months; the authors call the difference uninterpretable."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A simple main effect within one retention-interval cohort, tested
+      against the whole-sample error term (df 361); no analysed n and no
+      cell means are printed for it, so no sample is attached. Quote taken
+      from the page image.
+    source_quote: "A reversal of this effect was observed at the 125-month RI in which cued recall of names was reliably higher than cued recall of concepts, F(1, 361) = 8.80, MSe = 226, p < .003."
+    source_location: "Results, Analysis of Measures of Retention, simple main effects (p. 401)"
+
+not_yet_extracted:
+  - "Per-interval recognition and cued-recall percentages: plotted in Figures 1 and 2 only; not read off the figures."
+  - "Fact verification: no RI effect (F < 1.76), RI x type interaction F(11, 361) = 3.32; general facts around 65% at every RI; specific facts a linear decline, F(1, 361) = 10.30. Concept grouping: RI effect F(11, 361) = 4.20. Research methods: RI effect F(11, 361) = 2.88, around 75% correct."
+  - "Table 2 (p. 404): percentage of retention variance accounted for by grade (averaging 5.6%), contact, interest rating, age, RI and confidence rating, per test; scrambled in the OCR but legible on the page image (e.g. recognition of concepts: grade 4.3, contact 0, IRAT 3.7, age 2.4, RI 9.5, CR 1.5, total 19.3)."
+  - "Confidence ratings: recognition CR RI effect F(11, 361) = 5.80, type F(1, 361) = 168.60; mean CR names 1.91 vs concepts 2.14."
+  - "Questionnaire accuracy: a 20% subset of responses checked against central student records for grade and age at course; 'No discrepancies were found.' Not a reliability coefficient for any memory test."
+  - "Table 1 (p. 398) grade and contact means and SDs per RI cohort, legible on the page image."
+  - "Table 3 (p. 405): loadings of the tests, CRs, RI and age on four factors."
