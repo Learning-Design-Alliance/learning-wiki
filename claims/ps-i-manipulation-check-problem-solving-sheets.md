@@ -57,3 +57,4 @@ MANCOVA over four process measures (mathematics grade F(4,74) = 6.36, p < 0.001,
 - [The experimental manipulation succeeded: most participants reported overchallenge during difficult tasks and underchallenge during easy tasks](manipulation-check-over-underchallenge-distributions.md) — related
 - [Fourth-graders given a choice-based (Select) preparation task outperformed those given a highly open-ended (Generate) task on the posttest in a productive-failure-style collaboration design](select-outperformed-generate-posttest-fourth-grade.md) — related
 - [PF students show better knowledge retention than DI students on a delayed post-test two weeks later](pf-better-retention-delayed-post-test-python.md) — related
+- [Solving unfamiliar problems before explicit instruction improves children's conceptual knowledge of mathematical equivalence at posttest and 2-week retention](solve-before-instruct-better-conceptual-knowledge.md) — related

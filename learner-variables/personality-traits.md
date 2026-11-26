@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (128 show a difference, 41 mixed, 24 no difference) · 93 studies (52 associational, 16 review, 13 causal, 7 quant-synthesis, 5 theoretical), `q1`–`q4` · 31 of 93 report an effect size · 193 claims rest on one study
+> **Evidence** · 194 claims (129 show a difference, 41 mixed, 24 no difference) · 94 studies (53 associational, 16 review, 13 causal, 7 quant-synthesis, 5 theoretical), `q1`–`q4` · 32 of 94 report an effect size · 194 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -228,6 +228,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [When secondary GPA is controlled, Conscientiousness adds as much to predicting tertiary GPA as intelligence does](../claims/conscientiousness-incremental-tertiary-gpa.md) [+W] — learners who differ on it differ in outcomes
 - [Conscientiousness shows the strongest negative association with habitual academic self-handicapping (r = .40)](../claims/conscientiousness-strongest-negative-antecedent-self-handicapping.md) [+M] — learners who differ on it differ in outcomes
 - [Neuroticism is positively associated with habitual academic self-handicapping (r = .38)](../claims/neuroticism-positive-antecedent-self-handicapping.md) [+M] — learners who differ on it differ in outcomes
+- [Positive parental involvement predicted children's conscientiousness and intrinsic motivation](../claims/parental-involvement-predicts-conscientiousness-motivation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

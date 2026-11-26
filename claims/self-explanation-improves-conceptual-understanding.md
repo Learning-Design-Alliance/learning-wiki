@@ -255,3 +255,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Adding self-explanation prompts to tutored practice produced greater explanation ability and conceptual transfer without extra instructional time](self-explanation-prompts-improve-transfer.md) — a narrower finding that bears on this claim
 - [Most self-explanation characteristics can be regarded as relatively stable person characteristics generalizable across examples](self-explanation-characteristics-stable.md) — a narrower finding that bears on this claim
 - [Better schema abstraction is associated with greater transfer of the principle to a novel problem](schema-quality-predicts-transfer.md) — related
+- [Self-explanation prompts did not improve learning more than solving additional practice problems at equal time on task](self-explanation-no-benefit-over-extra-practice.md) — related

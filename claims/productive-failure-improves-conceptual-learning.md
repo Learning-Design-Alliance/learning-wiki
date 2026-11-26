@@ -264,3 +264,6 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Experiment 2: with element interactivity increased, explicit instruction first was superior on both similar and transfer questions](exp2-explicit-first-superior-similar-and-transfer.md) — reports the opposite
 - [The article attributes problem-solving first advantages in the literature to relatively low element interactivity of conceptual tasks](literature-explained-by-low-element-interactivity.md) — related
 - [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related
+- [Children who explored before instruction solved intervention problems less accurately and used poorer strategies than instructed-first children](exploration-lower-intervention-accuracy.md) — reports the opposite
+- [Exploration before instruction increased variety of incorrect strategies and improved encoding of problem structure at midtest](exploration-strategy-variability-encoding.md) — a narrower finding that bears on this claim
+- [Solving unfamiliar problems before explicit instruction improves children's conceptual knowledge of mathematical equivalence at posttest and 2-week retention](solve-before-instruct-better-conceptual-knowledge.md) — a narrower finding that bears on this claim

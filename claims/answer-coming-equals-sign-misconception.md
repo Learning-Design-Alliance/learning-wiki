@@ -61,3 +61,4 @@ The brief describes this documented misconception, citing Carpenter et al. (2003
 - [Function-based algebra affords a consistent interpretation of both equivalence and equals of functions](function-based-consistent-equivalence-equals-interpretation.md) — related
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related
 - [Students interpret mathematical relationships erroneously, seeing quantities on the right side of an equal sign as the cause of those on the left, and require visible motion to accept a field's existence](cause-in-formula-and-field-if-mobility.md) — related
+- [Children given instruction first were far more likely to define the equal sign relationally at midtest, but exploration yielded better structural encoding](midtest-relational-definition-instruct-first.md) — related

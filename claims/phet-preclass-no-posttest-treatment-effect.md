@@ -70,3 +70,4 @@ The same linear model analysis reports: "As expected, pre-test was a highly sign
 - [No evidence that treatment affected the in-class clicker test following instruction](phet-preclass-no-inclass-treatment-effect.md) — related
 - [For the Resonance topic, pre-class assignments including a PhET activity drew more reported time on task](phet-resonance-longer-time-on-task.md) — related
 - [Within the PhET conditions, more reported time on the PhET activity went with more favorable perceptions of the assignment](phet-time-linked-to-perceptions.md) — related
+- [Order of exploration and instruction did not affect procedural knowledge](procedural-knowledge-unaffected-by-order.md) — related

@@ -49,3 +49,4 @@ Regression models on NEPS longitudinal data (N = 11,358) predicting end-of-year 
 - [In German tutoring, support was positively associated with school satisfaction and marginally with family satisfaction, with no significant effects on grades](german-tutoring-support-satisfaction-no-grade-effects.md) — related
 - [In mathematics tutoring, the support dimension was positively associated with satisfaction with school, while structure and challenge did not predict grades](math-tutoring-support-school-satisfaction.md) — related
 - [The instructional quality of private tutoring can be described by three correlated but separable dimensions — structure, challenge, and support — in mathematics, German, and English](three-dimensions-tutoring-quality-fit.md) — related
+- [Private tutoring time positively predicted achievement and was controlled in the mediation model](private-tutoring-positive-achievement-effect.md) — reports the opposite

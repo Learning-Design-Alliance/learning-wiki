@@ -68,3 +68,4 @@ Same longitudinal path model on the KCYPS 2018 cohort (N = 2,387); the communica
 - [Household income significantly predicted higher private educational expenditure one year later in Korean adolescents](income-predicts-private-educational-expenditure-korea.md) — related
 - [Household income indirectly influenced perceived academic performance through private educational expenditure but not through parent–child communication](material-pathway-mediation-significant-korea.md) — related
 - [Attending a private school and being younger are independently associated with higher academic achievement](private-school-younger-age-higher-achievement.md) — related
+- [Private tutoring time positively predicted achievement and was controlled in the mediation model](private-tutoring-positive-achievement-effect.md) — related

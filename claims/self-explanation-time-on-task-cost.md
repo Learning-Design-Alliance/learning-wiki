@@ -55,3 +55,4 @@ The monograph's implementation-issues review of time-on-task evidence across sel
 - [Active processing of instructional explanation prompts increase coverage of main content items](active-processing-prompts-increase-main-content-coverage.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
+- [Self-explanation prompts did not improve learning more than solving additional practice problems at equal time on task](self-explanation-no-benefit-over-extra-practice.md) — related

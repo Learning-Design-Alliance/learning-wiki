@@ -69,3 +69,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related
 - [Adding perceived conscientiousness in a hierarchical regression significantly increases explained variance in actual academic performance](hierarchical-regression-conscientiousness-variance-increase.md) — related
 - [Agentic engagement uniquely predicts course achievement after controlling for other engagement aspects (Study 2)](agentic-engagement-unique-predictive-validity-achievement.md) — related
+- [Conscientiousness and intrinsic motivation jointly predicted achievement, with school belonging as partial mediator](individual-factors-predict-achievement-belonging-partial-mediation.md) — related

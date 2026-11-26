@@ -50,3 +50,4 @@ PROCESS Model 4 and Model 14 moderated mediation with 10,000 bootstrap samples i
 ## Related Claims
 - [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
+- [Conscientiousness and intrinsic motivation jointly predicted achievement, with school belonging as partial mediator](individual-factors-predict-achievement-belonging-partial-mediation.md) — related

@@ -71,3 +71,4 @@ Spearman correlation analysis in the same 179-student pilot study relating motiv
 - [Motivational persistence correlates positively with conscientiousness and with National Residency Exam score, though individual persistence factors differ in direction](motivational-persistence-correlates-with-conscientiousness-and-score.md) — related
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — related
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](autonomous-extrinsic-motivation-positive-cbt-attitude.md) — related
+- [Positive parental involvement predicted children's conscientiousness and intrinsic motivation](parental-involvement-predicts-conscientiousness-motivation.md) — related

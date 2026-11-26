@@ -61,3 +61,5 @@ The review reports, citing Song et al. (2024), that "belonging mediated the rela
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related
 - [Learning engagement mediates the relationship between professional identity and academic achievement in nursing students](learning-engagement-mediate-professional-identity-academic-achievement.md) — related
+- [Conscientiousness and intrinsic motivation jointly predicted achievement, with school belonging as partial mediator](individual-factors-predict-achievement-belonging-partial-mediation.md) — related
+- [School belonging mediated the relations of parental involvement and individual factors with academic achievement](school-belonging-mediation-achievement.md) — related
