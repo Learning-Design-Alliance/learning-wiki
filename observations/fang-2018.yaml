@@ -1,0 +1,518 @@
+# Fang, Huang, Zhang, Huang, Li & Yuan (2018): a meta-analysis of the
+# big-fish-little-pond effect (BFLPE) on academic self-concept.
+#
+# Read from the publisher full text (Frontiers, open access), text layer.
+# Quotes are copied from that text layer, with two repairs: pdftotext put
+# spaces inside some words ("BFL PE", "influenc e"), which are closed up as
+# the article prints them, and its fi/ff ligature characters are written as
+# plain letters. The wording is otherwise unchanged.
+#
+# WHAT A READER NEEDS TO KNOW:
+#
+#   * `k` counts EFFECT SIZES, not studies: 56 effect sizes from 33 studies,
+#     and the authors say dependence among effect sizes from one study or one
+#     research team "was not examined here". A k of 25 for high school is 25
+#     effect sizes, several from the same study.
+#   * The pooled effect is a back-transformed mean of Fisher-Z-transformed
+#     multilevel regression coefficients (beta of class- or school-average
+#     achievement on self-concept, controlling individual achievement). It is
+#     recorded as a regression coefficient, as the source prints it.
+#   * Table 3's interval for primary school prints LL -0.29 and UL -0.29,
+#     which cannot contain its own estimate of -0.21. That interval is not
+#     recorded. The other strata's intervals are recorded as printed; several
+#     are visibly asymmetric about their estimates, so treat them with care.
+#   * Age was coded only as school level (primary, middle, high, college). The
+#     article prints no age range or mean: `age: unreported`.
+#   * Coding "was conducted by two researchers twice with an interval of 2
+#     months"; no agreement coefficient is printed, so there is no reliability
+#     observation.
+
+schema_version: 2
+
+study:
+  key: fang-2018
+  citation: "Fang, J., Huang, X., Zhang, M., Huang, F., Li, Z., & Yuan, Q. (2018). The big-fish-little-pond effect on academic self-concept: A meta-analysis. Frontiers in Psychology, 9, 1569."
+  doi: "10.3389/fpsyg.2018.01569"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of multilevel regression coefficients of class- or
+      school-average achievement on student academic self-concept, controlling
+      individual achievement (the classic BFLPE model). Coefficients
+      transformed to Fisher's Z, pooled and converted back. Random-effects
+      model for the overall estimate; mixed-effects moderator analyses for
+      student age, comparison target, self-concept domain and student
+      location; meta-regression on sample size and publication year.
+  synthesis:
+    model: "Random-effects model (Comprehensive Meta-Analysis 3.0); mixed-effects models for categorical moderators"
+    heterogeneity_statistic: "Q and I2"
+    heterogeneity_thresholds: "I2 0-25% none, 25-50% low, 50-75% moderate, 75-100% high"
+    reporting_guideline: "PRISMA"
+    search:
+      databases:
+        - Educational Database
+        - Research Library
+        - Psychology Database
+        - PsycARTICLES
+        - PsycINFO
+        - ERIC
+      date_range: "1 January 1984 to 1 January 2018"
+      records_screened: 386
+      records_included: 33
+    inclusion:
+      - "Quantitative research on the BFLPE on student academic self-concept"
+      - "Classic BFLPE model testing the class/school effect after controlling the student effect"
+      - "Regression coefficients of class/school average achievement on self-concept explicitly reported"
+      - "Detailed information on the class or school taken as comparison target"
+      - "English-language, full-text, peer-reviewed articles"
+    exclusion:
+      - "Results from participants with intellectual or learning disability"
+      - "Studies using the same data resource as another included study (39 reduced to 33)"
+    data_handling:
+      - "Coefficients coded per independent sample; with repeated measurements the last measurement was taken"
+      - "Coding done by two researchers twice, two months apart; no agreement figure printed"
+      - "Dependence among effect sizes from one study or one research team not examined"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: bflpe-pooled-negative-effect-asc
+    bearing: supports
+    anchor: fang-j-2018
+  - claim: bflpe-moderated-by-student-age
+    bearing: supports
+    anchor: fang-j-2018
+  - claim: bflpe-moderated-by-student-location
+    bearing: supports
+    anchor: fang-j-2018
+  - claim: bflpe-null-moderators-target-samplesize-year
+    bearing: supports
+    anchor: fang-j-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 56
+    unit: effect-sizes
+  additional_sizes:
+    - value: 33
+      unit: studies
+      note: "studies included after removing those that used the same data resource"
+    - value: 1276838
+      unit: participants
+      note: "total N across the 33 included studies"
+  population:
+    description: >-
+      Students in classes or schools, from primary school to college. Seven
+      effect sizes from Asia, 29 from Europe (19 Germany), 10 from North
+      America, 1 from Oceania and 9 from mixed multi-country samples. 39 effect
+      sizes from large-scale assessments (7 PISA, 6 TIMSS, 26 others such as
+      TOSCA) and 17 from independently collected data.
+    age_or_stage: >-
+      Coded as school level: primary school (9 effect sizes), middle school
+      (20), high school (25), college (2). No age figures printed.
+    age: unreported
+  context:
+    setting: "Classes and schools; comparison target class-average achievement (17 effect sizes) or school-average achievement (39)"
+  variation:
+    - dimension: "Self-concept domain"
+      distribution: "general 14 effect sizes; STEM 30 (22 mathematics, 8 science); verbal 12 (4 French, 6 English, 2 general verbal)"
+    - dimension: "Comparison target"
+      distribution: "school-average achievement 39 effect sizes, class-average achievement 17"
+  arms:
+    - id: primary-school
+      description: "Effect sizes from primary-school samples."
+      size: {value: 9, unit: effect-sizes}
+    - id: middle-school
+      description: "Effect sizes from middle-school samples."
+      size: {value: 20, unit: effect-sizes}
+    - id: high-school
+      description: "Effect sizes from high-school samples."
+      size: {value: 25, unit: effect-sizes}
+    - id: college
+      description: "Effect sizes from college samples."
+      size: {value: 2, unit: effect-sizes}
+    - id: general-asc
+      description: "Effect sizes on general academic self-concept."
+      size: {value: 14, unit: effect-sizes}
+    - id: stem-asc
+      description: "Effect sizes on STEM (mathematics or science) self-concept."
+      size: {value: 30, unit: effect-sizes}
+    - id: verbal-asc
+      description: "Effect sizes on verbal (French, English or general verbal) self-concept."
+      size: {value: 12, unit: effect-sizes}
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "The pooled BFLPE across all 56 effect sizes; no contrast between strata."
+
+observations:
+
+  - id: bflpe-pooled
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "student ASC"
+      measure: "Self-concept scales of the primary studies (general, STEM or verbal), regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; last measurement where repeated"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.28
+      ci_lower: -0.32
+      ci_upper: -0.24
+      interval_type: confidence
+      statistic: "Z = -13.84"
+      p_value: "< 0.001"
+      k:
+        value: 56
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 25478.88
+        interpretation: "Q = 25,478.88 (df = 55, p < 0.001), I2 = 99.78%: high heterogeneity, so the random-effects model was chosen"
+      publication_bias:
+        method: "Funnel plot and Egger regression test"
+        finding: "Egger t = 0.32 (df = 54, p > 0.05); the authors conclude no publication bias"
+      model: "random-effects"
+      interpretation: "Students in a class or school whose average ability is one SD above the mean have self-concept 0.28 SD below the average, as the authors read it"
+    moderators:
+      reported:
+        - variable: "Student age (school level)"
+          relationship: "Strongest in high school (-0.32), then middle school (-0.28) and college (-0.23), weakest in primary school (-0.21)"
+          source_quote: "the heterogeneity test was significant with Q = 7.86 ( df = 3, p < 0.05), which meant that student age significantly moderates the BFLPE."
+        - variable: "Academic self-concept domain"
+          relationship: "Strongest for verbal (-0.31), then STEM (-0.30), weakest for general self-concept (-0.22)"
+          source_quote: "the heterogeneity test was significant with Q = 7.23 ( df = 2, p < 0.05), which meant that ASC domain significantly moderates the BFLPE."
+        - variable: "Student location"
+          relationship: "Strongest in Asia (-0.35), weakest in North America (-0.20); Europe -0.30, Oceania -0.27, mixed -0.26"
+          source_quote: "the heterogeneity test was significant with Q = 11.07 ( df = 4, p < 0.05), which meant that student location significantly moderates the BFLPE."
+        - variable: "Comparison target (class- vs school-average achievement)"
+          relationship: "No significant moderation"
+          source_quote: "There was no significant influence of comparison target:Q = 0.01 (df = 1, p > 0.05)"
+        - variable: "Sample size"
+          relationship: "No significant moderation in meta-regression"
+          source_quote: "Meta-regression showed that there was no significant influence of sample size with Q = 0.00 (df = 1, p > 0.05)."
+        - variable: "Publication year"
+          relationship: "No significant moderation in meta-regression"
+          source_quote: "Meta-regression showed that there was no significant influence of publication year with Q = 0.35 (df = 1, p > 0.05)."
+      candidate:
+        - "Dependence among effect sizes from the same study or research team, which the authors did not examine"
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The integrated results showed a significant negative effect of class/school average achievement on student ASC: β = − 0.28 (Z = −13.84, p < 0.001, 95% CI = [−0.32, −0.24])"
+    source_location: "Results, Mean Effect Size"
+
+  - id: bflpe-primary-school
+    sample:
+      value: 9
+      unit: effect-sizes
+    arm_ref: primary-school
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "student ASC"
+      measure: "Self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.21
+      statistic: "Z = -4.98"
+      p_value: "< 0.001"
+      k:
+        value: 9
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 3 prints the 95% CI for this stratum as LL -0.29, UL -0.29, an
+      interval that cannot contain the stratum's own estimate of -0.21. It is
+      a printing error of unknown direction, so no interval is recorded.
+    source_quote: "Primary school 9 −0.21 −0.29 −0.29 −4.98***"
+    source_location: "Table 3, Student age as moderator of the BFLPE"
+
+  - id: bflpe-middle-school
+    sample:
+      value: 20
+      unit: effect-sizes
+    arm_ref: middle-school
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "student ASC"
+      measure: "Self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.28
+      ci_lower: -0.35
+      ci_upper: -0.26
+      interval_type: confidence
+      statistic: "Z = -6.61"
+      p_value: "< 0.001"
+      k:
+        value: 20
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Interval recorded as printed; it is asymmetric about the estimate, and
+      the same table prints an impossible interval for primary school.
+    source_quote: "Middle school 20 −0.28 −0.35 −0.26 −6.61***"
+    source_location: "Table 3, Student age as moderator of the BFLPE"
+
+  - id: bflpe-high-school
+    sample:
+      value: 25
+      unit: effect-sizes
+    arm_ref: high-school
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "student ASC"
+      measure: "Self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.32
+      ci_lower: -0.37
+      ci_upper: -0.20
+      interval_type: confidence
+      statistic: "Z = -11.19"
+      p_value: "< 0.001"
+      k:
+        value: 25
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Interval recorded as printed; it is asymmetric about the estimate, and
+      the same table prints an impossible interval for primary school.
+    source_quote: "High school 25 −0.32 −0.37 −0.20 −11.19***"
+    source_location: "Table 3, Student age as moderator of the BFLPE"
+
+  - id: bflpe-college
+    sample:
+      value: 2
+      unit: effect-sizes
+    arm_ref: college
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "student ASC"
+      measure: "Self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.23
+      ci_lower: -0.27
+      ci_upper: -0.13
+      interval_type: confidence
+      statistic: "Z = -11.07"
+      p_value: "< 0.001"
+      k:
+        value: 2
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Two effect sizes, both listed in Table 1 as college samples (Marsh et
+      al., 2007; Marsh and O'Mara, 2010). Interval recorded as printed; it is
+      asymmetric about the estimate.
+    source_quote: "College 2 −0.23 −0.27 −0.13 −11.07***"
+    source_location: "Table 3, Student age as moderator of the BFLPE"
+
+  - id: bflpe-general-asc
+    sample:
+      value: 14
+      unit: effect-sizes
+    arm_ref: general-asc
+    outcome:
+      construct: "General academic self-concept"
+      source_language: "general ASC"
+      measure: "General academic self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.22
+      ci_lower: -0.26
+      ci_upper: -0.18
+      interval_type: confidence
+      statistic: "Z = -10.89"
+      p_value: "< 0.001"
+      k:
+        value: 14
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "General ASC 14 −0.22 −0.26 −0.18 −10.89***"
+    source_location: "Table 4, ASC domain as moderator of the BFLPE"
+
+  - id: bflpe-stem-asc
+    sample:
+      value: 30
+      unit: effect-sizes
+    arm_ref: stem-asc
+    outcome:
+      construct: "STEM academic self-concept"
+      source_language: "STEM ASC"
+      measure: "Mathematics or science self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.30
+      ci_lower: -0.35
+      ci_upper: -0.25
+      interval_type: confidence
+      statistic: "Z = -10.61"
+      p_value: "< 0.001"
+      k:
+        value: 30
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "STEM ASC 30 −0.30 −0.35 −0.25 −10.61***"
+    source_location: "Table 4, ASC domain as moderator of the BFLPE"
+
+  - id: bflpe-verbal-asc
+    sample:
+      value: 12
+      unit: effect-sizes
+    arm_ref: verbal-asc
+    outcome:
+      construct: "Verbal academic self-concept"
+      source_language: "verbal ASC"
+      measure: "Verbal (French, English or general verbal) self-concept scales of the primary studies, regressed on class- or school-average achievement controlling individual achievement"
+      scale: "regression coefficient of class/school-average achievement, back-transformed from Fisher's Z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.31
+      ci_lower: -0.43
+      ci_upper: -0.18
+      interval_type: confidence
+      statistic: "Z = -4.48"
+      p_value: "< 0.001"
+      k:
+        value: 12
+        unit: effect-sizes
+      model: "mixed-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Verbal ASC 12 −0.31 −0.43 −0.18 −4.48***"
+    source_location: "Table 4, ASC domain as moderator of the BFLPE"
+
+not_yet_extracted:
+  - "Student-location strata (Table 5): Asia k 7, -0.35 [-0.45, -0.25]; Europe k 29, -0.30; North America k 10, -0.20; Oceania k 1, -0.27; mixed k 9, -0.26. Summarised only in the pooled observation's moderators."
+  - "The 56 individual coefficients, sample sizes and codes in Tables 1 and 2."
+  - "Marsh and Hau (2003), beta -0.20 (SD 0.08) across 26 countries, is cited in the introduction from another study and is not this meta-analysis's figure."

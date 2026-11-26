@@ -1,0 +1,251 @@
+# Kang & Pashler (2012; published online 2011), Experiment 1: learning three
+# artists' painting styles under four study schedules, tested on new paintings.
+#
+# The issue is Applied Cognitive Psychology 26(1), January 2012 (Crossref); the
+# front matter says "Published online 2 May 2011". The key keeps the online year.
+#
+# WHAT IS RECORDED, and what is not:
+#
+#   * The omnibus ANOVA with its printed partial eta squared.
+#   * Interleaved against each of the other three conditions. The article prints
+#     the three pairwise results together, only as limits ("ts > 2.48, ds >
+#     0.78"), so each is a `result.bound` on d, never an estimate. The three
+#     observations share that one quotation.
+#   * Temporal spaced against massed (spacing without interleaving): printed only
+#     as "ts < 1" for the differences among the three non-interleaved
+#     conditions, recorded as a bound on t. No effect size is printed for it.
+#   * The condition means are printed only inside the bars of Figure 3. The text
+#     layer read here does not contain them and no PDF was available, so no mean
+#     is recorded (see not_yet_extracted).
+#
+# `population.age: unreported`: the article prints no age figure. No reliability
+# figure is printed for the transfer test (a scored forced-choice test).
+#
+# Experiment 2 is a different sample (90 undergraduates) and has its own file,
+# kang-2011-exp2.
+
+schema_version: 2
+
+study:
+  key: kang-2011-exp1
+  citation: "Kang, S. H. K., & Pashler, H. (2012). Learning painting styles: Spacing is advantageous when it promotes discriminative contrast. Applied Cognitive Psychology, 26(1), 97–103. (Published online 2 May 2011.) Experiment 1."
+  doi: "10.1002/acp.1801"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Laboratory experiment. Study condition (Massed, Interleaved, Temporal
+      Spaced, Simultaneous Massed) manipulated between subjects, subjects
+      randomly assigned to one of four conditions (21 to 23 a condition). Study
+      phase of 72 paintings (24 by each of three artists, artist's name shown),
+      a ~20-minute unrelated video as filler, then a self-paced transfer test of
+      48 previously unseen paintings (16 per artist), three-alternative forced
+      choice, no feedback. Average presentation time per painting equated at
+      5 s across conditions.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: temporal-spacing-alone-insufficient-for-induction
+    bearing: supports
+    anchor: kang-and-pashler-2012
+  - claim: interleaving-benefit-persists-low-memory-load
+    bearing: supports
+    anchor: kang-and-pashler-2012
+
+evidence_base:
+  unit: participants
+  size:
+    value: 88
+    unit: participants
+  population:
+    description: "Undergraduates from the University of California, San Diego Psychology Subject Pool, participating for course credit. None reported being familiar with the work of any of the three artists."
+    age_or_stage: "Undergraduates; no age figure is printed"
+    age: unreported
+  context:
+    setting: "Laboratory; computer terminals, single session"
+    materials: >-
+      Forty landscape paintings each by Jan Blencowe, Richard Lindenberg and Rae
+      O'Shea, chosen for obscurity and for similar style and subject matter;
+      cropped to remove signatures and resized to 15 x 11 cm. 24 per artist
+      randomly selected per subject for study, the other 16 for the test.
+  arms:
+    - id: massed
+      description: "Massed: 72 paintings one at a time, 5 s each with a 0.5-s blank, blocked by artist (artist order random per subject)."
+      elements:
+        - term: "blocked presentation of exemplars by category"
+          anchors:
+            - principles/interleaving
+    - id: interleaved
+      description: "Interleaved: the same 72 paintings and timing, the sequence cycling through the three artists (ABCABC...), no two paintings by one artist in succession."
+      elements:
+        - term: "interleaving exemplars of different categories"
+          anchors:
+            - principles/interleaving
+    - id: temporal-spaced
+      description: "Temporal Spaced: blocked by artist as in Massed, but each painting followed by a 0.5-s blank, a cartoon drawing for 10.5 s and another 0.5-s blank, giving the same temporal spacing between paintings by an artist as Interleaved. Study phase almost 20 minutes."
+      elements:
+        - term: "temporal spacing by unrelated filler, sequence blocked by category"
+    - id: simultaneous-massed
+      description: "Simultaneous Massed: paintings four at a time, all by one artist, for 20 s with a 2-s blank, sets blocked by artist (six sets per artist)."
+      elements:
+        - term: "simultaneous presentation of several exemplars of one category"
+
+comparisons:
+  - id: omnibus-four-conditions
+    kind: none
+    description: "One-way ANOVA across all four study conditions; an omnibus test, not a contrast between two named arms."
+  - id: interleaved-vs-temporal-spaced
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: temporal-spaced
+    description: "Interleaving against blocked presentation with the interleaved condition's temporal spacing restored by filler."
+  - id: interleaved-vs-massed
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: massed
+    description: "Interleaved against massed (blocked) presentation."
+  - id: interleaved-vs-simultaneous-massed
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: simultaneous-massed
+    description: "Interleaved against blocked presentation four paintings at a time."
+  - id: temporal-spaced-vs-massed
+    kind: between-groups
+    index_arm: temporal-spaced
+    reference_arm: massed
+    description: "Temporal spacing without interleaving against massed presentation."
+
+observations:
+
+  - id: omnibus-anova
+    sample: {value: 88, unit: participants}
+    comparison_ref: omnibus-four-conditions
+    outcome: &transfer
+      construct: "Classification of new paintings by artist (perceptual category induction)"
+      source_language: "final transfer test"
+      measure: "48 previously unseen paintings, 16 per artist, self-paced, three-alternative forced choice of the artist's name, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &after-filler
+      label: "after a ~20-minute video filler following the study phase"
+      offset: {value: 20, unit: minutes, from: "end of the study phase (approximate; the article writes ~20)"}
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.099
+      statistic: "F(3, 84) = 3.067, MSE = 0.036"
+      model: "One-way between-subjects ANOVA on study condition; alpha .05"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "[F (3, 84) = 3.067, MSE = 0.036, partial η2 = 0.099]"
+    source_location: "Experiment 1, Results and discussion (p. 99)"
+
+  - id: interleaved-vs-temporal-spaced
+    comparison_ref: interleaved-vs-temporal-spaced
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: cohens_d
+      bound: {operator: ">", value: 0.78}
+      statistic: "ts > 2.48, printed once for the three pairwise comparisons of Interleaved with each other condition"
+      interpretation: "Interleaved significantly higher than Temporal Spaced; the d is printed only as a lower limit shared by the three comparisons."
+    moderators:
+      reported: []
+      candidate:
+        - "Discriminative contrast between categories, which the authors propose interleaving promotes and temporal spacing alone does not; their interpretation, not a tested moderator"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      effect_size is `partial` because only a bound is printed. The analysed n
+      for the pair is not printed (21 to 23 a condition), so `sample` is
+      omitted. The article does not say how d was computed.
+    source_quote: "Pairwise comparisons between the conditions confirmed that performance in the Interleaved condition was significantly higher than in each of the other three conditions (ts > 2.48, ds > 0.78)"
+    source_location: "Experiment 1, Results and discussion (p. 99)"
+
+  - id: interleaved-vs-massed
+    comparison_ref: interleaved-vs-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: cohens_d
+      bound: {operator: ">", value: 0.78}
+      statistic: "ts > 2.48, printed once for the three pairwise comparisons of Interleaved with each other condition"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: "Only a shared lower bound is printed; the pair's analysed n is not printed."
+    source_quote: "Pairwise comparisons between the conditions confirmed that performance in the Interleaved condition was significantly higher than in each of the other three conditions (ts > 2.48, ds > 0.78)"
+    source_location: "Experiment 1, Results and discussion (p. 99)"
+
+  - id: interleaved-vs-simultaneous-massed
+    comparison_ref: interleaved-vs-simultaneous-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: cohens_d
+      bound: {operator: ">", value: 0.78}
+      statistic: "ts > 2.48, printed once for the three pairwise comparisons of Interleaved with each other condition"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: "Only a shared lower bound is printed; the pair's analysed n is not printed."
+    source_quote: "Pairwise comparisons between the conditions confirmed that performance in the Interleaved condition was significantly higher than in each of the other three conditions (ts > 2.48, ds > 0.78)"
+    source_location: "Experiment 1, Results and discussion (p. 99)"
+
+  - id: temporal-spaced-vs-massed-null
+    comparison_ref: temporal-spaced-vs-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: other
+      bound: {operator: "<", value: 1}
+      statistic: "t for the differences among the three non-interleaved conditions (Massed, Temporal Spaced, Simultaneous Massed), printed only as ts < 1"
+      interpretation: "No reliable difference between temporal spacing and massed presentation; the bound is on the t statistic, not on an effect size."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No effect size is printed for this null. The Temporal Spaced study phase
+      was almost 20 minutes against about 6.5 for Massed, so the test came
+      later; the authors compared accuracy for the first- and third-presented
+      artist and found no reliable difference (t < 1), which they read as the
+      longer delay not explaining the null.
+    source_quote: "differences among the other three conditions were not reliable (ts < 1)."
+    source_location: "Experiment 1, Results and discussion (pp. 99–100)"
+
+not_yet_extracted:
+  - "Condition means on the transfer test, printed only inside the bars of Figure 3 (with 95% CI error bars); the text layer read here does not contain them."
+  - "Accuracy for the artist presented first against the artist presented third, a check on test delay (printed only as t < 1)."
