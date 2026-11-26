@@ -1,0 +1,362 @@
+# Yeager et al. (2019): the National Study of Learning Mindsets, a
+# pre-registered, individually randomised experiment in a nationally
+# representative sample of 65 US public high schools.
+#
+# WHAT IS RECORDED: the pre-registered GPA effect for lower-achieving students
+# (as the unstandardised coefficient and as the standardised mean difference
+# the article prints beside it), the null for higher-achieving students, the
+# intervention x lower-achiever interaction, and the effect on self-reported
+# fixed mindset (the manipulation's proximal target).
+#
+# Every sample size in the article is rounded to the nearest 10 under the
+# study's disclosure policy, so the n values below are rounded as printed.
+#
+# `population.age: unreported`: the article describes the sample only as
+# ninth-grade adolescents. Its Introduction glosses US ninth grade in general
+# as "age 14-15 years", which is a statement about the grade, not an age
+# figure for this sample, so it is not recorded as one.
+#
+# No reliability coefficient for the three-item fixed-mindset measure is
+# printed in the article text read here; GPA is administrative data.
+#
+# Read from the Europe PMC / PMC full text (PMC6786290), CC BY 4.0. The
+# Supplementary Information was not read.
+
+schema_version: 2
+
+study:
+  key: yeager-2019
+  citation: "Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Tipton, E., Schneider, B., Hulleman, C. S., Hinojosa, C. P., Paunesku, D., Romero, C., Flint, K., Roberts, A., Trott, J., Iachan, R., Buontempo, J., Yang, S. M., Carvalho, C. M., Hahn, P. R., Gopalan, M., Mhatre, P., Ferguson, R., Duckworth, A. L., & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. Nature, 573(7774), 364–369."
+  doi: "10.1038/s41586-019-1466-y"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Students individually randomised to a growth mindset or a control
+      condition within 65 schools drawn as a stratified random sample of
+      regular US public high schools. Intention-to-treat analyses: average
+      effects from a cluster-robust fixed-effects linear regression with school
+      fixed effects and survey weights; cross-school heterogeneity and
+      moderation from multilevel mixed-effects models; a blinded Bayesian
+      causal forest robustness analysis.
+    preregistration:
+      status: preregistered
+      registry: "OSF"
+      id: "https://osf.io/tn6g4"
+      source_quote: "The tick symbol indicates that a comprehensive analysis plan was pre-registered at https://osf.io/tn6g4."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: growth-mindset-improves-achievement
+    bearing: supports
+    anchor: yeager-et-al-2019
+  - claim: growth-mindset-raises-lower-achiever-gpas-national-experiment
+    bearing: supports
+    anchor: yeager-2019
+  - claim: growth-mindset-reduces-fixed-mindset-beliefs
+    bearing: supports
+    anchor: yeager-2019
+  - claim: mindset-gpa-effects-smaller-high-achieving-schools
+    bearing: supports
+    anchor: yeager-2019
+  - claim: peer-norms-sustain-mindset-gpa-effects
+    bearing: supports
+    anchor: yeager-2019
+
+evidence_base:
+  unit: participants
+  size:
+    value: 12490
+    unit: participants
+  additional_sizes:
+    - value: 65
+      unit: schools
+      note: "schools that agreed, participated and provided student records, of 139 selected; students were randomised within schools, so the school is not the unit of assignment"
+    - value: 6320
+      unit: participants
+      note: "the pre-registered target group of lower-achieving students (at or below the school-specific median prior GPA); rounded to the nearest 10"
+    - value: 6170
+      unit: participants
+      note: "higher-achieving students; rounded to the nearest 10"
+  population:
+    description: >-
+      Ninth-grade adolescents in a stratified random sample of regular US
+      public high schools (Tipton generalizability index 0.98). 11% self-reported
+      black/African-American, 4% Asian-American, 24% Latino/Latina, 43% white,
+      18% another race or ethnicity; 29% reported a mother with a bachelor's
+      degree or higher.
+    age_or_stage: >-
+      Ninth grade. The article prints no age figure for the sample; its
+      Introduction describes US ninth grade in general as "age 14–15 years".
+    age: unreported
+  context:
+    setting: >-
+      Two self-administered online sessions of about 25 minutes each, roughly
+      20 days apart, during regular school hours; 82% delivered August to
+      November 2015, the rest in January or February 2016. Teachers and
+      researchers blind to condition.
+  arms:
+    - id: growth-mindset
+      description: >-
+        Short online growth mindset intervention: the brain-is-like-a-muscle
+        metaphor in the context of the neuroscience of learning, stories from
+        older students and admired adults, reflection, and writing advice for a
+        struggling future ninth-grader.
+      elements:
+        - term: "growth mindset intervention"
+      dose:
+        amount: 2
+        unit: sessions
+        detail: "approximately 25 min each, roughly 20 days apart; less than one hour in total"
+      delivery:
+        grouping: self-paced
+        role: add-on
+        basis: inferred
+    - id: control
+      description: "Online control materials on brain functions, similar in form to the intervention but not addressing beliefs about intelligence."
+      dose:
+        amount: 2
+        unit: sessions
+        detail: "same schedule as the intervention"
+      delivery:
+        grouping: self-paced
+        role: add-on
+        basis: inferred
+
+comparisons:
+  - id: mindset-vs-control-lower-achievers
+    kind: between-groups
+    index_arm: growth-mindset
+    reference_arm: control
+    description: "Intervention against control among the pre-registered target group of lower-achieving students."
+  - id: mindset-vs-control-higher-achievers
+    kind: between-groups
+    index_arm: growth-mindset
+    reference_arm: control
+    description: "Intervention against control among higher-achieving students (above the school-specific median)."
+  - id: mindset-vs-control-by-prior-achievement
+    kind: between-groups
+    index_arm: growth-mindset
+    reference_arm: control
+    description: "Difference in the treatment effect between lower- and higher-achieving students, in the full sample (intervention x lower-achiever interaction)."
+
+observations:
+
+  - id: core-gpa-lower-achievers
+    sample:
+      value: 6320
+      unit: participants
+    comparison_ref: mindset-vs-control-lower-achievers
+    outcome:
+      construct: "Academic achievement (course grades)"
+      source_language: "post-intervention grade point average (GPA) in core ninth-grade classes"
+      measure: "Core-course GPA (mathematics, science, English or language arts, social studies) from school administrative records"
+      scale: "grade points, 0 to 4.3"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of ninth grade"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.10
+      unit: "grade points"
+      ci_lower: 0.04
+      ci_upper: 0.16
+      interval_type: confidence
+      standard_error: 0.03
+      p_value: "0.001"
+      statistic: "t = 3.51"
+      model: "Pre-registered intention-to-treat fixed-effects regression with school fixed effects and survey weights; k = 65 schools. The article prints the standardized mean difference as 0.11 (recorded separately)."
+    moderators:
+      reported:
+        - variable: "School achievement level"
+          relationship: "Treatment effect smaller in higher-achieving schools; standardized beta -0.25"
+          source_quote: "Treatment effects on ninth-grade GPAs among lower-achieving students were smaller in schools with higher achievement levels, intervention × school achievement level (continuous) interaction, unstandardized B = −0.07 (95% confidence interval = 0.02, 0.13), s.e. = 0.03, z = −2.76, n = 6,320, k = 65, P = 0.006, standardized β = −0.25."
+        - variable: "School behavioural challenge-seeking norms"
+          relationship: "Treatment effect larger where control-group peers chose more challenging problems; beta 0.23"
+          source_quote: "the intervention produced a greater difference in end-of-year GPAs relative to the control group when the behavioural norm that surrounded students was supportive of the growth mindset belief system, B = 0.11 (95% confidence interval = 0.01, 0.21), s.e. = 0.05, z = 2.18, n = 6,320, k = 65, P = 0.029, β = 0.23."
+        - variable: "Prior achievement (lower vs higher achievers)"
+          relationship: "Effect for lower achievers, none for higher achievers; interaction recorded as its own observation"
+          source_quote: "resulting in a significant intervention × lower-achiever interaction B = 0.09 grade points (95% confidence interval = 0.01–0.17), s.e. = 0.04, n = 12,490, k = 65, t = 2.179, P = 0.034)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The school-achievement interaction is printed with B = -0.07 but a 95% CI
+      of (0.02, 0.13); the signs disagree in the source and are quoted as
+      printed, not corrected.
+    source_quote: "lower-achieving adolescents earned higher GPAs in core classes at the end of the ninth grade when assigned to the growth mindset intervention, B = 0.10 grade points (95% confidence interval = 0.04, 0.16), s.e. = 0.03, n = 6,320, k = 65, t = 3.51, P = 0.001, standardized mean difference effect size of 0.11, relative to comparable students in the control condition."
+    source_location: "Main text, Average effects on core course GPAs"
+
+  - id: core-gpa-lower-achievers-smd
+    sample:
+      value: 6320
+      unit: participants
+    comparison_ref: mindset-vs-control-lower-achievers
+    outcome:
+      construct: "Academic achievement (course grades)"
+      source_language: "post-intervention grade point average (GPA) in core ninth-grade classes"
+      measure: "Core-course GPA from school administrative records"
+      scale: "standardized mean difference, treatment coefficient divided by the control group's raw SD"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of ninth grade"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.11
+      model: "Standardised by the authors: the intention-to-treat coefficient (B = 0.10 grade points) divided by the raw SD of the control group."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "No interval is printed for the standardised value; the interval belongs to the unstandardised coefficient."
+    source_quote: "lower-achieving adolescents earned higher GPAs in core classes at the end of the ninth grade when assigned to the growth mindset intervention, B = 0.10 grade points (95% confidence interval = 0.04, 0.16), s.e. = 0.03, n = 6,320, k = 65, t = 3.51, P = 0.001, standardized mean difference effect size of 0.11, relative to comparable students in the control condition."
+    source_location: "Main text, Average effects on core course GPAs; standardisation described in Methods, Analysis methods, Overview"
+
+  - id: core-gpa-higher-achievers
+    sample:
+      value: 6170
+      unit: participants
+    comparison_ref: mindset-vs-control-higher-achievers
+    outcome:
+      construct: "Academic achievement (course grades)"
+      source_language: "core course GPAs"
+      measure: "Core-course GPA from school administrative records"
+      scale: "grade points, 0 to 4.3"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of ninth grade"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.01
+      unit: "grade points"
+      ci_lower: -0.03
+      ci_upper: 0.06
+      interval_type: confidence
+      standard_error: 0.02
+      p_value: "0.634"
+      statistic: "t = 0.480"
+      model: "Intention-to-treat regression, k = 65 schools; the article prints a standardized mean difference of 0.01."
+      interpretation: "No significant treatment effect, as the pre-analysis plan predicted"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Confirming the predictions in the pre-analysis plan, higher-achieving students demonstrated no significant treatment effects on core course GPAs, B = 0.01 grade points (95% confidence interval = −0.03–0.06), s.e. = 0.02, n = 6,170, k = 65, t = 0.480, P = 0.634, standardized mean difference effect size = 0.01"
+    source_location: "Extended Data Table 1, legend"
+
+  - id: core-gpa-lower-achiever-interaction
+    sample:
+      value: 12490
+      unit: participants
+    comparison_ref: mindset-vs-control-by-prior-achievement
+    outcome:
+      construct: "Academic achievement (course grades)"
+      source_language: "intervention × lower-achiever interaction"
+      measure: "Core-course GPA from school administrative records"
+      scale: "grade points, 0 to 4.3; difference in treatment effect, lower minus higher achievers"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of ninth grade"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.09
+      unit: "grade points"
+      ci_lower: 0.01
+      ci_upper: 0.17
+      interval_type: confidence
+      standard_error: 0.04
+      p_value: "0.034"
+      statistic: "t = 2.179"
+      model: "Intention-to-treat regression in the full sample with an intervention x lower-achiever term; k = 65 schools."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "resulting in a significant intervention × lower-achiever interaction B = 0.09 grade points (95% confidence interval = 0.01–0.17), s.e. = 0.04, n = 12,490, k = 65, t = 2.179, P = 0.034)."
+    source_location: "Extended Data Table 1, legend"
+
+  - id: fixed-mindset-lower-achievers
+    sample:
+      value: 5650
+      unit: participants
+    comparison_ref: mindset-vs-control-lower-achievers
+    outcome:
+      construct: "Fixed mindset of intelligence"
+      source_language: "Self-reported fixed mindset"
+      measure: "Agreement with three statements such as “You have a certain amount of intelligence, and you really can’t do much to change it”"
+      scale: "1 (strongly disagree) to 6 (strongly agree); higher is a more fixed mindset"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the second treatment session"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.38
+      unit: "scale points (1-6)"
+      ci_lower: -0.46
+      ci_upper: -0.31
+      interval_type: confidence
+      standard_error: 0.04
+      p_value: "< 0.001"
+      statistic: "t = −10.14"
+      model: "Intention-to-treat regression, k = 65 schools. The article prints the standardized mean difference effect size as 0.33, unsigned."
+      heterogeneity:
+        statistic: "Q"
+        value: 57.2
+        interpretation: "No significant variability in the treatment effect on mindsets across schools (unstandardized tau-hat 0.08, Q with 64 df, P = 0.714); the GPA effect among lower achievers did vary (tau-hat 0.09, Q 85.5, P = 0.038)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The source prints the interval as (−0.31, −0.46); it is recorded with the
+      lower bound first. The standardised 0.33 is printed without a sign and is
+      kept in `model` rather than given a sign here. No reliability for the
+      three-item scale is printed in the article text read.
+    source_quote: "Among lower-achieving adolescents, the growth mindset intervention reduced the prevalence of fixed mindset beliefs relative to the control condition, reported at the end of the second treatment session, unstandardized B = −0.38 (95% confidence interval = −0.31, −0.46), standard error of the regression coefficient (s.e.) = 0.04, n = 5,650 students, k = 65 schools, t = −10.14, P < 0.001, standardized mean difference effect size of 0.33."
+    source_location: "Main text, Average effects on mindset"
+
+not_yet_extracted:
+  - "Poor performance rate (GPA below 2.0) among lower achievers: 5.3 percentage points fewer, 46% to 41%."
+  - "Mathematics and science GPA: B = 0.10 (Extended Data Tables 1-3, not in the text read)."
+  - "Conditional average treatment effects by school achievement and norms quartile (0.14 and 0.18 grade points core; 0.16 to 0.25 mathematics and science)."
+  - "Bayesian causal forest: posterior probability that the population-average treatment effect among lower achievers is positive at least 0.999."
+  - "Exploratory, not pre-registered: advanced mathematics enrolment in tenth grade up 3 percentage points (33% to 36%), n = 6,690 in 41 schools; positive interaction with school achievement level."

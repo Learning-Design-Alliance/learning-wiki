@@ -1,0 +1,363 @@
+# Steinberg & Sabella (1997): performance on Force Concept Inventory (FCI)
+# items against matched open-ended final-exam problems.
+#
+# SOURCE TEXT: an OCR transcription of a scan of the published article (pages
+# 2-7), not a PDF text layer. Every quote below was matched against that OCR
+# text; OCR can misread characters, so the quotes are only as exact as the
+# transcription. Figures 3, 4 and 6 (histograms) are images and were not read.
+# DOI 10.1119/1.2344625 checked against the article's front matter and
+# Crossref (volume 35, issue 3, pp. 150-155).
+#
+# WHAT THIS RECORD HOLDS:
+#
+#   * The one lecture class (spring 1996) in which 28 students took both the
+#     FCI (last week of the semester, ungraded) and exam problem 1 on the
+#     final exam (graded) the following week. The two instruments are the
+#     arms, and every figure is a single-group percentage, so each is a
+#     `mean` naming its arm. The paper prints no difference, no test and no
+#     interval; the 54% vs 90% gap is two observations, not one.
+#   * The instruments differ in format (multiple choice vs open ended),
+#     framing (colloquial vs formal), stakes (ungraded vs graded) and timing
+#     (one week apart) together, as the authors themselves list. Nothing here
+#     isolates any one of them.
+#   * The Newton's Third Law results come from a different sample (128
+#     students in three fall 1995 classes, exam problem 2) and are listed in
+#     not_yet_extracted rather than recorded against this sample.
+#   * No reliability coefficient is printed for either instrument, and no age.
+
+schema_version: 2
+
+study:
+  key: steinberg-1997
+  citation: "Steinberg, R. N., & Sabella, M. S. (1997). Performance on multiple-choice diagnostics and complementary exam problems. The Physics Teacher, 35(3), 150–155."
+  doi: "10.1119/1.2344625"
+  design:
+    family: observational
+    design_detail: >-
+      Descriptive comparison of the same students' responses to FCI items and
+      to open-ended final-exam problems written to correspond to them. No
+      inferential statistics; the authors state the number of students is
+      "perhaps too small for statistical confidence".
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: fci-q18-exam-free-body-gap
+    bearing: supports
+    anchor: steinberg-and-sabella-1997
+  - claim: motion-diagram-fci-exam-mismatch
+    bearing: supports
+    anchor: steinberg-and-sabella-1997
+  - claim: fci-exam-correlation-but-substantial-mismatch
+    bearing: supports
+    anchor: steinberg-and-sabella-1997
+
+evidence_base:
+  unit: participants
+  size:
+    value: 28
+    unit: participants
+  additional_sizes:
+    - value: 128
+      unit: participants
+      note: "students in three fall 1995 lecture classes who took the FCI and exam problem 2 (Newton's Third Law); a separate sample, not recorded here"
+  population:
+    description: >-
+      Students in a first-semester introductory calculus-based physics lecture
+      class at the University of Maryland, spring 1996, who completed both the
+      FCI and the final exam.
+    age_or_stage: "University, first-semester introductory calculus-based physics; no age figure printed"
+    age: unreported
+  context:
+    setting: "End of the semester, after instruction: FCI in the last week of the semester, final exam the following week"
+  arms:
+    - id: fci-diagnostic
+      description: "FCI items (five-option multiple choice, colloquial everyday framing), administered as an ungraded diagnostic in the last week of the semester."
+      size:
+        value: 28
+        unit: participants
+    - id: final-exam-problem
+      description: "Exam problem 1 (open-ended: free-body diagrams, force comparisons and velocity vectors in a formal physics setting), on the graded final exam the following week."
+      size:
+        value: 28
+        unit: participants
+
+comparisons:
+  - id: fci-vs-exam
+    kind: other
+    index_arm: final-exam-problem
+    reference_arm: fci-diagnostic
+    description: "The same students on an FCI item and on the corresponding part of the exam problem; within-subject, with format, framing, stakes and timing all differing."
+
+observations:
+
+  - id: fci-q18-first-law-correct
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Newton's first law, forces at constant velocity"
+      source_language: "answered the FCI question correctly"
+      measure: "FCI question 18: forces on an elevator moving upward at constant velocity"
+      scale: "percent of students correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: mean
+      estimate: 54
+      unit: "percent of students correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Of the 28 students who took both the FCI and the final exam, only 54% answered the FCI question correctly, whereas 90% answered the exam problem correctly."
+    source_location: "Newton's First Law, p. 151"
+
+  - id: exam1-part-a-first-law-correct
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: final-exam-problem
+    outcome:
+      construct: "Newton's first law, forces at constant velocity"
+      source_language: "answered the exam problem correctly"
+      measure: "Exam problem 1 part A: free-body diagram and force comparison for a steel ball lowered at constant speed"
+      scale: "percent of students correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final exam, the week after the FCI"
+    result:
+      measure_type: mean
+      estimate: 90
+      unit: "percent of students correct"
+    moderators:
+      reported: []
+      candidate:
+        - "Format (open-ended vs multiple choice), framing (formal vs colloquial), stakes (graded vs ungraded) and timing differ together; the authors offer each as a possible explanation, none tested"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Of the 28 students who took both the FCI and the final exam, only 54% answered the FCI question correctly, whereas 90% answered the exam problem correctly."
+    source_location: "Newton's First Law, p. 151"
+
+  - id: fci-q18-errors-choosing-intuitive-answer
+    sample:
+      value: 13
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Intuitive (force-maintains-motion) answer among errors"
+      source_language: "selected choice A"
+      measure: "FCI question 18 choice A, 'upward force on the elevator by the cable is greater than the downward force of gravity', among students answering incorrectly"
+      scale: "number of students, of the 13 who answered incorrectly"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: count
+      estimate: 10
+      note: "10 of the 13 students who answered FCI question 18 incorrectly"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The paper also says that across its lecture classes generally "about
+      40%" choose A and "about 50%" answer correctly; those are approximate
+      figures for other classes, not this sample, and are not recorded.
+    source_quote: "Not surprisingly, 10 of the 13 students who answered the FCI incorrectly selected choice A."
+    source_location: "Newton's First Law, p. 151"
+
+  - id: fci-q9-impetus-correct
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Forces after an impulse (impetus)"
+      source_language: "answered question 9 correctly"
+      measure: "FCI question 9: forces on a sliding puck after a kick"
+      scale: "percent of students correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: mean
+      estimate: 46
+      unit: "percent of students correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The percent correct on the matching exam part (problem 1 part B) is shown only in Figure 4 and is not printed in the text."
+    source_quote: "FCI performance of the students who completed exam problem 1 was comparable to other lecture classes: 46% answered question 9 correctly and 43% answered question 22 correctly."
+    source_location: "Impetus Force, p. 152"
+
+  - id: fci-q22-impetus-correct
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Forces after an impulse (impetus)"
+      source_language: "answered question 22 correctly"
+      measure: "FCI question 22: forces on a golf ball after it is hit (choice A or D counted correct)"
+      scale: "percent of students correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: mean
+      estimate: 43
+      unit: "percent of students correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "FCI performance of the students who completed exam problem 1 was comparable to other lecture classes: 46% answered question 9 correctly and 43% answered question 22 correctly."
+    source_location: "Impetus Force, p. 152; note 22 on scoring"
+
+  - id: fci-impetus-response-at-least-once
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Impetus-force responses"
+      source_language: "included either a “force in the direction of motion” or a “force of the ‘hit’” in at least one of their responses"
+      measure: "FCI questions 9 and 22 together"
+      scale: "percent of students"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: mean
+      estimate: 71
+      unit: "percent of students giving an impetus response on at least one of the two items"
+      note: "29% answered both items correctly"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "While 29% answered both correctly, 71% included either a “force in the direction of motion” or a “force of the ‘hit’” in at least one of their responses."
+    source_location: "Impetus Force, p. 152"
+
+  - id: fci-q7-motion-correct
+    sample:
+      value: 28
+      unit: participants
+    arm_ref: fci-diagnostic
+    outcome:
+      construct: "Speed after a perpendicular kick"
+      source_language: "This choice was selected by 61% of the class."
+      measure: "FCI question 7, correct choice E"
+      scale: "percent of students correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "last week of the semester, after instruction"
+    result:
+      measure_type: mean
+      estimate: 61
+      unit: "percent of students correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The matching exam part is described only as answered correctly by 'about half of the class'; no figure is printed, so none is recorded."
+    source_quote: "This choice was selected by 61% of the class."
+    source_location: "Motion Diagrams, p. 153"
+
+  - id: fci-q7-exam-matching-responses
+    sample:
+      value: 28
+      unit: participants
+    comparison_ref: fci-vs-exam
+    outcome:
+      construct: "Consistency of response across matched FCI and exam items"
+      source_language: "had answers where the FCI response matched the exam problem response"
+      measure: "FCI question 7 against the velocity-vector part of exam problem 1 part B"
+      scale: "number of students, of 28"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "FCI in the last week of the semester; final exam the following week"
+    result:
+      measure_type: count
+      estimate: 12
+      note: "12 of 28 matched; 4 gave exam answers matching no FCI choice; the remaining 12 gave exam answers corresponding to a different FCI choice"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Only 12 of the 28 students had answers where the FCI response matched the exam problem response."
+    source_location: "Motion Diagrams, p. 153"
+
+not_yet_extracted:
+  - "Newton's Third Law (separate sample of 128 students, exam problem 2): exam success of 67%, 65%, 53%, 29% and 14% for students answering 4, 3, 2, 1 and 0 of the four N3 FCI questions correctly; group sizes are only in Figure 6."
+  - "Table I, FCI question 13 by exam problem 2 response matrix (percentages). The OCR splits the table across a page break and does not show which instrument labels the rows and which the columns, so the off-diagonal cells cannot be assigned; not recorded. The text says only about half the students fell on the diagonal."
+  - "Of 21 students who stated their reasoning for incorrect N3 exam answers, 6 answered FCI question 13 consistently with that reasoning (128-student sample)."
+  - "Impetus: 'over one-third of the class did not answer the three virtually identical items in the same way' (a bound against a fraction, not recorded as a number); exam percent correct only in Figure 4."
+  - "Exam problem 1 part Bii second velocity vector: 12 of 28 correct; no matching FCI figure."
+  - "Background figures for other classes: about 50% correct and about 40% choosing A on FCI question 18 'for the lecture classes we tested'; almost 1000 students across more than a dozen classes."
