@@ -14,9 +14,16 @@
 #   * Temporal spaced against massed (spacing without interleaving): printed only
 #     as "ts < 1" for the differences among the three non-interleaved
 #     conditions, recorded as a bound on t. No effect size is printed for it.
-#   * The condition means are printed only inside the bars of Figure 3. The text
-#     layer read here does not contain them and no PDF was available, so no mean
-#     is recorded (see not_yet_extracted).
+#   * The four condition means, printed inside the bars of Figure 3 (p. 100) as
+#     two-decimal proportions, recorded as `measure_type: mean` named by arm_ref.
+#     They were read from page images of the published PDF; the text layer does
+#     not contain them. No SD or SE is printed: the error bars are 95% CIs whose
+#     limits are not printed, so no spread is recorded and none is estimated.
+#   * The printed F and MSE are recorded as printed; nothing is computed from
+#     them or checked against the means.
+#
+# Every source_quote was checked against page images of the published PDF
+# (Applied Cognitive Psychology 26(1), 97-103).
 #
 # `population.age: unreported`: the article prints no age figure. No reliability
 # figure is printed for the transfer test (a scored forced-choice test).
@@ -48,7 +55,7 @@ provenance:
   source_type: research
   extracted_by: claude/unspecified
   extracted_at: 2026-11-26
-  extraction_method: manual-from-repository-copy
+  extraction_method: manual-from-publisher-fulltext
   verification: unverified
 
 appears_in:
@@ -246,6 +253,90 @@ observations:
     source_quote: "differences among the other three conditions were not reliable (ts < 1)."
     source_location: "Experiment 1, Results and discussion (pp. 99–100)"
 
+  - id: mean-massed
+    arm_ref: massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.60
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.60" is printed inside the Massed bar of
+      Figure 3. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded. The arm's own n is not printed (21 to 23 a condition), so sample is omitted.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 3 caption (Experiment 1); value printed inside the Massed bar"
+
+  - id: mean-interleaved
+    arm_ref: interleaved
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.68
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.68" is printed inside the Interleaved bar of
+      Figure 3. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded. The arm's own n is not printed (21 to 23 a condition), so sample is omitted.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 3 caption (Experiment 1); value printed inside the Interleaved bar"
+
+  - id: mean-temporal-spaced
+    arm_ref: temporal-spaced
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.61
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.61" is printed inside the Temporal Spaced bar of
+      Figure 3. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded. The arm's own n is not printed (21 to 23 a condition), so sample is omitted.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 3 caption (Experiment 1); value printed inside the Temporal Spaced bar"
+
+  - id: mean-simultaneous-massed
+    arm_ref: simultaneous-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.60
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.60" is printed inside the Simultaneous Massed bar of
+      Figure 3. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded. The arm's own n is not printed (21 to 23 a condition), so sample is omitted.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 3 caption (Experiment 1); value printed inside the Simultaneous Massed bar"
+
 not_yet_extracted:
-  - "Condition means on the transfer test, printed only inside the bars of Figure 3 (with 95% CI error bars); the text layer read here does not contain them."
+  - "The 95% confidence-interval limits drawn as error bars in Figure 3; they are not printed as numbers."
   - "Accuracy for the artist presented first against the artist presented third, a check on test delay (printed only as t < 1)."

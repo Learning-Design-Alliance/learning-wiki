@@ -12,14 +12,19 @@
 #     Massed (d = 0.56), each with its printed t on 58 df, so 60 analysed.
 #   * Simultaneous Different against Interleaved, printed only as "t < 1",
 #     recorded as a bound on t; no effect size is printed for it.
-#   * The text layer breaks the Interleaved-against-Massed sentence across a
-#     page footer and the Figure 4 caption, so its source_quote is the part
-#     after the break ("condition [t(58) = 2.15, d = 0.56]"); the sentence
-#     before it reads "... than the Massed condition [t(58) = 2.94, d = 0.78]
-#     as did the Interleaved".
-#   * The condition means are printed only inside the bars of Figure 4. The text
-#     layer read here does not contain them and no PDF was available, so no mean
-#     is recorded (see not_yet_extracted).
+#   * Interleaved against Massed shares one printed sentence with Simultaneous
+#     Different against Massed; the sentence crosses the column break on p. 101,
+#     and its source_quote is now the whole sentence as printed.
+#   * The three condition means, printed inside the bars of Figure 4 (p. 101) as
+#     two-decimal proportions, recorded as `measure_type: mean` named by arm_ref.
+#     They were read from page images of the published PDF; the text layer does
+#     not contain them. No SD or SE is printed: the error bars are 95% CIs whose
+#     limits are not printed, so no spread is recorded and none is estimated.
+#   * The printed F and MSE are recorded as printed; nothing is computed from
+#     them or checked against the means.
+#
+# Every source_quote was checked against page images of the published PDF
+# (Applied Cognitive Psychology 26(1), 97-103).
 #
 # `population.age: unreported`: the article prints no age figure. No reliability
 # figure is printed for the transfer test.
@@ -49,7 +54,7 @@ provenance:
   source_type: research
   extracted_by: claude/unspecified
   extracted_at: 2026-11-26
-  extraction_method: manual-from-repository-copy
+  extraction_method: manual-from-publisher-fulltext
   verification: unverified
 
 evidence_base:
@@ -180,9 +185,9 @@ observations:
       implementation_detail: observed
       outcome_timing: observed
       effect_size: observed
-    observability_notes: "The analysed n of 60 is read from the printed df (58) and the 30 a condition. The sentence is split by a page footer and the Figure 4 caption in the text layer; see the header."
-    source_quote: "condition [t(58) = 2.15, d = 0.56]."
-    source_location: "Experiment 2, Results (p. 101), continuing \"... as did the Interleaved\" from the preceding sentence"
+    observability_notes: "The analysed n of 60 is read from the printed df (58) and the 30 a condition. The article does not say how d was computed."
+    source_quote: "Paired comparisons indicated that the Simultaneous Different condition yielded significantly better learning than the Massed condition [t(58) = 2.94, d = 0.78] as did the Interleaved condition [t(58) = 2.15, d = 0.56]."
+    source_location: "Experiment 2, Results (p. 101; the sentence crosses the column break)"
 
   - id: simultaneous-different-vs-interleaved-null
     sample: {value: 60, unit: participants}
@@ -205,5 +210,71 @@ observations:
     source_quote: "However, the difference between the Simultaneous Different and Interleaved conditions was not reliable (t < 1)."
     source_location: "Experiment 2, Results (p. 101)"
 
+  - id: mean-massed
+    sample: {value: 30, unit: participants}
+    arm_ref: massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.58
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.58" is printed inside the Massed bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Massed bar"
+
+  - id: mean-interleaved
+    sample: {value: 30, unit: participants}
+    arm_ref: interleaved
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.65
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.65" is printed inside the Interleaved bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Interleaved bar"
+
+  - id: mean-simultaneous-different
+    sample: {value: 30, unit: participants}
+    arm_ref: simultaneous-different
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.68
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.68" is printed inside the Simultaneous Different bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Simultaneous Different bar"
+
 not_yet_extracted:
-  - "Condition means on the test, printed only inside the bars of Figure 4 (with 95% CI error bars); the text layer read here does not contain them."
+  - "The 95% confidence-interval limits drawn as error bars in Figure 4; they are not printed as numbers."
