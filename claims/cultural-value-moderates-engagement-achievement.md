@@ -1,12 +1,12 @@
 ---
 type: claim
-title: "Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement"
-description: "Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement"
+title: "Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently"
+description: "Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently"
 id: cultural-value-moderates-engagement-achievement
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-24
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: strong
 newest_evidence: 2018
 sources:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement
+# Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
@@ -28,7 +28,7 @@ sources:
 
 ## Subclaims
 `q4 i2` Correlations for overall, emotional, and cognitive engagement with achievement are higher for Eastern than Western students. [→ Lei 2018](#lei-2018)
-`q4 i2` The behavioral engagement–achievement correlation is higher for Western students (r = .354) than Eastern students. [→ Lei 2018](#lei-2018)
+`q4 i2` For behavioral engagement the article says the correlation was higher for Western students, but the values it prints are r = .354 (Western) and r = .377 (Eastern), so its numbers put Eastern students slightly higher; the direction of this comparison is unresolved. [→ Lei 2018](#lei-2018)
 
 ## Evidence
 
@@ -38,7 +38,7 @@ Lei, H., Cui, Y., & Zhou, W. (2018). Relationships between student engagement an
 
 `q4 · i2` · `quant-synthesis · r2`
 
-Meta-analytic moderator analysis with homogeneity tests across all engagement domains (all p < .001). The article reports Eastern correlations of r = .320, r = .276, and r = .343 versus Western r = .257, r = .205, and r = .241; behavioral engagement was higher for Western students (r = .354).
+Meta-analytic moderator analysis with homogeneity tests across all engagement domains (all p < .001). The article reports Eastern correlations of r = .320, r = .276, and r = .343 versus Western r = .257, r = .205, and r = .241; for behavioral engagement the text says the correlation "was higher for Western students (r = .354, p < .001) than for Eastern students (r = .377, p < .001)", so the printed values contradict the sentence that reports them. Which is the typo is not established.
 
 > "the correlations between overall, emotional, and cognitive engagement and academic achievement were higher for Eastern students (r = .320, p \< .001; r = .276, p \< .001; r = .343, p \< .001, respectively) compared to Western students (r = .257, p \< .001; r = .205, p \< .001; r = .241, p \< .001, respectively)"
 

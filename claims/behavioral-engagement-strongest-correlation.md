@@ -47,4 +47,4 @@ Pooled effect sizes from the same meta-analysis of 69 samples. The article repor
 ## Related Claims
 - [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](relative-weights-engagement-correlates.md) — related
 - [Reporting method moderates engagement–achievement correlations: other-reported behavioral and emotional engagement show larger effect sizes than self-reported](reporting-method-moderates-engagement-achievement.md) — related
-- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement](cultural-value-moderates-engagement-achievement.md) — related
+- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently](cultural-value-moderates-engagement-achievement.md) — related

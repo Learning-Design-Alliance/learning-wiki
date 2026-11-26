@@ -6,11 +6,10 @@ id: rem-reciprocal-effects-ri-clpm-clpm-palma
 aliases: [rem-supported-across-model-taxonomy]
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-19
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-11-05
 sources:
   - id: herbert-w-marsh-2022
     resource: "https://doi.org/10.1007/s10648-022-09662-9"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2`–`r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -60,7 +59,7 @@ Marsh, H. W., Guo, J., Pekrun, R., Lüdtke, O., & Núñez-Regueiro, F. (2024). C
 
 `q2 · i?` · `associational · r3`
 
-Reanalysis of the PALMA longitudinal study (five annual waves of mathematics data, Years 5-9, Bavarian secondary schools; N = 3370 in the Method section) using new SEMs in Mplus. The article reports that its model taxonomy "consistently supported a priori reciprocal effect model (REM) predictions" with medium or large reciprocal effects; no numeric effect size is printed in the available text.
+Reanalysis of the PALMA longitudinal study (five annual waves of mathematics data, Years 5-9, Bavarian secondary schools; N = 3370 in the Method section) using new SEMs in Mplus. The article reports that its model taxonomy "consistently supported a priori reciprocal effect model (REM) predictions" with medium or large reciprocal effects. It prints the lag-1 cross-lagged paths as standardised coefficients: in the CLPM, self-concept → achievement .128 (SE .011) and achievement → self-concept .102 (SE .011); in the RI-CLPM, .145 (SE .026) and .125 (SE .022) (Table 5, model M1).
 
 > "consistently supported a priori reciprocal effect model (REM) predictions—medium or large reciprocal effects of ASC and achievement on each other."
 

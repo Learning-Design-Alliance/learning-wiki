@@ -1,0 +1,331 @@
+# Hass, Rivera & Silvia (2018): generalizability of layperson (MTurk) ratings of
+# divergent-thinking responses.
+#
+# A G-theory study of an existing dataset: 80 people drawn from Silvia et al.'s
+# (2008) Study 2, each answering two Alternative Uses and two Consequences
+# prompts, every response rated by three MTurk laypeople. Task family is a FIXED
+# facet, so each family has its own G-study; they are kept apart here as two
+# whole-sample comparisons rather than as arms (a task family is not a group of
+# people).
+#
+# Recorded: the G-study variance components for the average-rating system
+# (Table 2), and the D-study generalizability (E rho^2) and dependability (Phi)
+# coefficients for the study's own design of 3 raters and 2 items (Table 4 and
+# Section 3.3.3). These are the study's own reliability figures, so they are
+# `measure_type: reliability`, statistic `other`, over `other` (raters AND items
+# vary together in a D-study coefficient). No single-rater coefficient is
+# printed anywhere; none is derived here.
+#
+# The text layer renders the dependability symbol Phi as the digit "8". The two
+# Phi quotes (dependability-alternative-uses, dependability-consequences) were
+# therefore taken from the page image of p. 7 of the publisher PDF, in the
+# article's own characters, and are not substrings of the text layer. Every
+# other quote is copied from the text layer, where "Eρ 2" is the text layer's
+# rendering of E-rho-squared.
+#
+# The participants' ages are not printed (the article prints only the raters'
+# ages), so `age: unreported`.
+
+schema_version: 2
+
+study:
+  key: hass-2018
+  citation: "Hass, R. W., Rivera, M., & Silvia, P. J. (2018). On the dependability and feasibility of layperson ratings of divergent thinking. Frontiers in Psychology, 9, 1343."
+  doi: "10.3389/fpsyg.2018.01343"
+  design:
+    family: other
+    design_detail: >-
+      Generalizability study (fully crossed p x i x r design, persons x items x
+      raters, task family fixed) and decision study on an existing dataset: a
+      random 80 of the 227 participants of Silvia et al. (2008) Study 2, whose
+      divergent-thinking responses were re-rated by MTurk laypeople. Two scoring
+      systems (average rating per response; snapshot rating per response set)
+      each analysed separately, plus convergent-validity correlations. No
+      manipulation and no comparison groups.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 80
+    unit: participants
+  additional_sizes:
+    - value: 227
+      unit: participants
+      note: "the Silvia et al. (2008) Study 2 sample the 80 were randomly drawn from"
+    - value: 3
+      unit: other
+      note: "MTurk raters using the average-rating system (a second, different set of 3 used the snapshot system)"
+    - value: 4
+      unit: items
+      note: "prompts: two Alternative Uses (brick, knife) and two Consequences (no longer need sleep, 12 inches tall)"
+    - value: 2091
+      unit: other
+      note: "unique responses across the four prompts, each rated by each average-system rater"
+  population:
+    description: >-
+      Participants of Silvia et al. (2008) Study 2, re-analysed from an existing
+      dataset; the article describes them no further. Raters were US MTurk
+      workers with instructions but no special training: the three
+      average-system raters all female, M = 47 years; the three snapshot raters
+      two female, M = 32.3 years.
+    age_or_stage: "Not stated for the participants whose responses were rated."
+    age: unreported
+  context:
+    setting: >-
+      Divergent-thinking prompts answered in 3 minutes each in the original
+      study; ratings on a 1-5 scale (Table 1) made from spreadsheets over 2
+      days, raters paid $16 each.
+  arms: []
+
+comparisons:
+  - id: alternative-uses-average-ratings
+    kind: none
+    description: "G- and D-study of MTurk average ratings on the Alternative Uses family (brick, knife); no contrast between groups."
+  - id: consequences-average-ratings
+    kind: none
+    description: "G- and D-study of MTurk average ratings on the Consequences family (sleep, 12 inches tall); no contrast between groups."
+
+observations:
+
+  - id: g-study-components-alternative-uses
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: alternative-uses-average-ratings
+    outcome:
+      construct: "Sources of variance in divergent-thinking creativity ratings"
+      source_language: "Estimated variance components and percent of variance accounted for from the G-study using MTurk average ratings"
+      measure: "MTurk average creativity: average rating per person, per rater, per item, on the 1-5 Alternative Uses scale"
+      scale: "variance component for one person, one rater, one item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: other
+      estimate: 0.181
+      unit: "rater variance component (sigma^2 r)"
+      descriptives: >-
+        Table 2, Alternative Uses, estimate (% of variance): p 0.167 (24.4);
+        i 0.069 (10.2); r 0.181 (26.6); p x i 0.139 (20.4); p x r 0.008 (1.2);
+        r x i 0.021 (3.1); p x i x r, e 0.096 (14.1).
+      model: "p x i x r G-study, raters and items random, task family fixed (R gtheory package)"
+      interpretation: "Rater variance is large but person x rater variance is small: raters differed in leniency yet were consistent in ordering persons"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The estimate is the rater component; the other six components are kept
+      in descriptives as printed. A variance component is not an effect, so
+      effect_size is unreported.
+    source_quote: "r 0.181 26.6 0.351 56.9"
+    source_location: "Table 2, row r (Alternative uses columns)"
+
+  - id: g-study-components-consequences
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: consequences-average-ratings
+    outcome:
+      construct: "Sources of variance in divergent-thinking creativity ratings"
+      source_language: "Estimated variance components and percent of variance accounted for from the G-study using MTurk average ratings"
+      measure: "MTurk average creativity: average rating per person, per rater, per item, on the 1-5 Consequences scale"
+      scale: "variance component for one person, one rater, one item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: other
+      estimate: 0.351
+      unit: "rater variance component (sigma^2 r)"
+      descriptives: >-
+        Table 2, Consequences, estimate (% of variance): p 0.067 (11.0);
+        i 0.000 (0.00); r 0.351 (56.9); p x i 0.088 (14.2); p x r 0.015 (2.5);
+        r x i 0.008 (1.2); p x i x r, e 0.088 (14.2).
+      model: "p x i x r G-study, raters and items random, task family fixed (R gtheory package)"
+      interpretation: "Nearly twice the rater share of Alternative Uses (56.9% against 26.6%); person x rater still small"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 prints the Consequences person component as 0.067, Table 4 as
+      0.068, although the text says the two are identical; both are as printed
+      and neither is corrected here.
+    source_quote: "Second, there is nearly twice as much variance attributable to raters on Consequences items (56.9%) than on Alternative Uses items (26.6%)."
+    source_location: "Section 3.2.1, MTurk Average Scoring; Table 2"
+
+  - id: generalizability-alternative-uses
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: alternative-uses-average-ratings
+    outcome:
+      construct: "Reliability of creativity scores for relative decisions"
+      source_language: "generalizability coefficient, Eρ 2"
+      measure: "MTurk average creativity scores, Alternative Uses family"
+      scale: "generalizability coefficient (0-1; 0.80 or better described as excellent)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: reliability
+      estimate: 0.65
+      reliability:
+        statistic: other
+        over: other
+        form: "Generalizability coefficient E rho^2 (relative error variance), D-study for the current design of 3 raters and 2 items"
+      interpretation: "Below the 0.80 the authors take as adequate; Figure 2 shows 4 Alternative Uses items would reach it with 3 raters"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The coefficient's facets are raters and items together. Values for other
+      numbers of raters and items appear only in Figures 1-2 and are not read
+      off here.
+    source_quote: "As can be seen, the current design did not reach adequate generalizability as Eρ 2 = 0.65 for the Alternative Uses family, nor for the Consequences family, Eρ 2 = 0.52."
+    source_location: "Section 3.3.3; Table 4"
+
+  - id: generalizability-consequences
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: consequences-average-ratings
+    outcome:
+      construct: "Reliability of creativity scores for relative decisions"
+      source_language: "generalizability coefficient, Eρ 2"
+      measure: "MTurk average creativity scores, Consequences family"
+      scale: "generalizability coefficient (0-1; 0.80 or better described as excellent)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: reliability
+      estimate: 0.52
+      reliability:
+        statistic: other
+        over: other
+        form: "Generalizability coefficient E rho^2 (relative error variance), D-study for the current design of 3 raters and 2 items"
+      interpretation: "Below 0.80; the authors report that with 3 raters at least 8 Consequences items would be required"
+    moderators:
+      reported: []
+      candidate:
+        - "The 'no longer need sleep' item, whose new ratings correlated r = -0.10 with the original Silvia ratings, which the authors suggest is likely the reason for lower Consequences generalizability"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As can be seen, the current design did not reach adequate generalizability as Eρ 2 = 0.65 for the Alternative Uses family, nor for the Consequences family, Eρ 2 = 0.52."
+    source_location: "Section 3.3.3; Table 4"
+
+  - id: dependability-alternative-uses
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: alternative-uses-average-ratings
+    outcome:
+      construct: "Reliability of creativity scores for absolute decisions"
+      source_language: "dependability coefficient, Φ"
+      measure: "MTurk average creativity scores, Alternative Uses family"
+      scale: "dependability coefficient (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: reliability
+      estimate: 0.47
+      reliability:
+        statistic: other
+        over: other
+        form: "Dependability coefficient Phi (absolute error variance, rater and item main effects counted as error), D-study for 3 raters and 2 items"
+      interpretation: "The authors report dependability below 0.80 for every design and task family in Figures 3-4"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote taken from the page image (p. 7): the text layer renders Phi as "8".
+    source_quote: "The dependability coefficients are much lower for each family: Φ = 0.47 for Alternative uses"
+    source_location: "Section 3.3.3, p. 7 (page image); Table 4"
+
+  - id: dependability-consequences
+    sample:
+      value: 80
+      unit: participants
+    comparison_ref: consequences-average-ratings
+    outcome:
+      construct: "Reliability of creativity scores for absolute decisions"
+      source_language: "dependability coefficient, Φ"
+      measure: "MTurk average creativity scores, Consequences family"
+      scale: "dependability coefficient (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single rating pass, completed over 2 days"
+    result:
+      measure_type: reliability
+      estimate: 0.27
+      reliability:
+        statistic: other
+        over: other
+        form: "Dependability coefficient Phi (absolute error variance, rater and item main effects counted as error), D-study for 3 raters and 2 items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote taken from the page image (p. 7): the text layer renders Phi as "8".
+    source_quote: "and Φ = 0.27 for the Consequences family."
+    source_location: "Section 3.3.3, p. 7 (page image); Table 4"
+
+not_yet_extracted:
+  - "Snapshot scoring: G-study components (Table 3) and D-study coefficients for 3 raters and 2 items, E rho^2 0.33 for both families, Phi 0.24 (Alternative Uses) and 0.27 (Consequences) (Table 5)"
+  - "D-study variance components divided by n for the current design (Table 4), and relative and absolute error variances (0.088, 0.064; 0.187, 0.182)"
+  - "Generalizability and dependability for 1-10 raters or items (Figures 1-4); plotted only, no printed values"
+  - "Means, SDs and convergent-validity correlations among Silvia, MTurk average, snapshot and fluency scores (Table 6), e.g. MTurk average brick with Silvia brick r = 0.80, knife 0.82, sleep -0.10"

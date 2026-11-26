@@ -7,3 +7,6 @@ page: ../claims/hint-avoidance-related-greater-wheel-spinning.md
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from hub-235 (Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-26 · correction · claude/unspecified
+Corrected against the article's printed figures (observation records batches 6-7)

@@ -5,8 +5,8 @@ description: Educational level moderates the mastery-approach–dishonesty assoc
 id: educational-level-moderates-mastery-approach-dishonesty
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-22
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: weak
 newest_evidence: 2023
 sources:
@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Mastery-approach goals showed no correlation with academic dishonesty among elementary students (r = -0.019), significantly different from the negative average in secondary students (r = -0.197). [→ Tanja Fritz 2023](#tanja-fritz-2023)
+`q3 i?` Mastery-approach goals showed no correlation with academic dishonesty among elementary students (r = -0.019), significantly different from the negative average in secondary students (r = -0.213, Table 5; the Results text gives -0.197, which Table 5 labels as the meta-regression beta). [→ Tanja Fritz 2023](#tanja-fritz-2023)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Tanja Fritz, Hernán González Cruz, Stefan Janke, Martin Daumiller. (2023). Elu
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Meta-regression of sample educational level on mastery-approach associations: elementary "r = –0.019" vs. secondary "r = –0.197"; tertiary correlations were weaker (r = –0.110) and not significantly different from elementary. Only two elementary effect sizes contributed.
+Meta-regression of sample educational level on mastery-approach associations: elementary "r = –0.019" vs. secondary "r = –0.197"; tertiary correlations were weaker (r = –0.110) and not significantly different from elementary. Table 5 shows that –0.197 and –0.110 are the meta-regression betas; the back-transformed correlations it prints are r = –.213 (secondary) and r = –.128 (tertiary). The 95% interval quoted below, [–0.253, –0.172], belongs to the r of –.213. Only two elementary effect sizes contributed.
 
 > "the two effect sizes for students in elementary school showed no correlation between mastery-approach goals and academic dishonesty ( r = –0.019, 95% CI = [–0.158, 0.121]), and w ere significantly different from the negative average correlations within secondary students ( r = –0.197, 95% CI = [–0.253, –0.172])"
 

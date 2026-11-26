@@ -1,0 +1,376 @@
+# Northcutt, Ho & Chuang (2016): "multiple-account" cheating (CAMEO) in 115
+# HarvardX and MITx MOOCs, fall 2012 to spring 2015.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * How common CAMEO is, at the three denominators the source prints: 1.3% of
+#     certificates in the 69 courses with any CAMEO user (1,237 certificates);
+#     1% of the 103,370 unique certificate earners across all 115 courses (657
+#     accounts); and 25% of the 73 accounts earning 20 or more certificates.
+#     All are lower bounds by design: five conjunctive filters with
+#     conservative cutoffs, chosen to concede missed CAMEO users rather than
+#     risk false ones, and no ground truth to check them against.
+#   * CAMEO rates in STEM courses with and without prevention mechanisms
+#     (0.1% against 1.2% for the typical course). Prevention was not assigned:
+#     courses that happened to use it are compared with courses that did not.
+#   * Median ages of the two groups of certificate earners in the 69 courses
+#     (25 for CAMEO users, 32 for others), from Table 2A. The article prints no
+#     age figure for the 1.9 million participants as a whole, so
+#     `population.age` is `unreported` and the two subgroup medians are
+#     observations on their arms.
+#
+# No reliability or agreement coefficient is printed: the authors say they
+# have no "true" knowledge of cheating against which to evaluate the detector.
+# Table 2's note says demographics come from edX surveys with response rates
+# above 95%.
+#
+# The shares are written as the source prints them (percent), not rescaled.
+#
+# READ FROM THE PREPRINT (arXiv:1508.05699, 14 pp.), not the version of record.
+# The wiki treats a preprint and its published version as one study, so the
+# published article is cited and its DOI recorded; every figure and quote here
+# comes from the preprint and may differ from Computers & Education 100, 71-80.
+# The preprint prints no DOI; 10.1016/j.compedu.2016.04.008 resolves on
+# Crossref to "Detecting and preventing "multiple-account" cheating in massive
+# open online courses", Northcutt, Ho, Chuang, Computers & Education 100,
+# 71-80, September 2016, matching the preprint's title, authors and year
+# window. Table rows quoted below were checked against the page images
+# (pp. 13-14), since the text layer reads Table 2's two panels interleaved.
+# The curricular-area moderator quote was taken from the page images (pp. 5-6):
+# the text layer splits that sentence around a footnote and a page break.
+
+schema_version: 2
+
+study:
+  key: northcutt-2016
+  citation: "Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2016). Detecting and preventing \"multiple-account\" cheating in massive open online courses. Computers & Education, 100, 71-80."
+  doi: "10.1016/j.compedu.2016.04.008"
+  design:
+    family: observational
+    design_detail: >-
+      Retrospective analysis of edX clickstream logs. A detection algorithm
+      flags candidate harvester / master account pairs within a course by five
+      conjunctive filters: a Bayesian criterion that 90% of the "show answer"
+      to correct-submission time differences are positive (90% posterior
+      probability), a 90th-percentile time difference under 5 minutes, a
+      certified master with an uncertified harvester, a shared IP address
+      (transitive closure of modal IP and account name across courses), and no
+      more than 10 accounts on that IP. Prevalence is then tabulated by course,
+      curricular area, demographics and number of certificates; nothing was
+      assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: cameo-accounts-for-1237-certificates-1-3-percent-in-affected-courses
+    bearing: supports
+    anchor: northcutt-2015
+  - claim: cameo-rate-25-percent-among-20-plus-certificate-earners
+    bearing: supports
+    anchor: northcutt-2015
+  - claim: cameo-prevention-mechanisms-reduce-rate-to-0-1-percent
+    bearing: supports
+    anchor: northcutt-2015
+  - claim: cameo-users-more-likely-young-male-international
+    bearing: supports
+    anchor: northcutt-2015
+
+evidence_base:
+  unit: other
+  size:
+    value: 1893092
+    unit: other
+  additional_sizes:
+    - value: 1067570
+      unit: participants
+      note: "unique accounts behind the 1,893,092 enrollments (users who clicked into course content at least once)"
+    - value: 115
+      unit: other
+      note: "MOOCs (courses) from Harvard and MIT on edX"
+    - value: 155301
+      unit: other
+      note: "certificates earned"
+    - value: 103370
+      unit: participants
+      note: "unique accounts that earned a certificate"
+  population:
+    description: >-
+      Participants in HarvardX and MITx MOOCs on edX. Among certificate earners
+      in the 69 courses with CAMEO users, 33% female and 30% in the USA for
+      non-CAMEO earners, 19% and 14% for CAMEO users (Table 2A, from edX
+      surveys with response rates above 95%; country from modal IP address).
+    age_or_stage: >-
+      Adult and mixed-age MOOC participants. No age figure for the whole
+      sample; Table 2A prints median ages only for the two groups of
+      certificate earners in the 69 courses with CAMEO users, recorded as
+      observations on those arms.
+    age: unreported
+  context:
+    setting: >-
+      115 open online courses, fall 2012 to spring 2015 (analytic cutoff 2 June
+      2015), in four curricular areas. Most instructors allowed a "show answer"
+      option after submitting an answer, which is what CAMEO exploits.
+  arms:
+    - id: cameo-users
+      description: "Certificate earners identified as CAMEO users (master accounts) in the 69 courses with nonzero CAMEO users: 1,237 certificates."
+    - id: non-cameo-certificate-earners
+      description: "Certificate earners not identified as CAMEO users in the same 69 courses: 96,367 certificates."
+    - id: earners-20-plus-certificates
+      description: "Unique accounts that earned 20 or more certificates across the 115 courses."
+    - id: stem-cameo-prevention
+      description: "STEM courses that used mechanisms which logically prevent CAMEO (answers withheld until after the due date, or algorithmically generated items with varying solutions) in half or more of their assessment items: 18 courses, 11,717 certificates."
+    - id: stem-no-or-limited-prevention
+      description: "STEM courses with no or limited CAMEO prevention: 19 courses, 19,383 certificates."
+
+comparisons:
+  - id: whole-dataset
+    kind: none
+    description: "CAMEO prevalence across the course sample; no contrast between groups."
+
+observations:
+
+  - id: cameo-share-certificates-69-courses
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Prevalence of multiple-account cheating"
+      source_language: "CAMEO prevalence"
+      measure: "Certificates earned by detected CAMEO users as a share of all certificates in the 69 courses with any CAMEO user"
+      scale: "percent of certificates"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each course to the analytic cutoff, 2 June 2015"
+    result:
+      measure_type: other
+      estimate: 1.3
+      unit: "percent of certificates"
+      note: >-
+        1,237 certificates, earned by 657 unique users with 674 harvester
+        accounts; 1% across all 115 courses, and as many as 5% in some courses.
+        A lower bound by the authors' design.
+    moderators:
+      reported:
+        - variable: "Curricular area"
+          relationship: "Highest in Government, Health, and Social Science (1.3%), lowest in Computer Science (0.1%)"
+          source_quote: "Prevalence of CAMEO users is greatest in the Government, Health, and Social Science category (1.3%) and lowest in the Computer Science category (0.1%)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The denominator (all certificates in the 69 courses) is not printed as
+      one number; Table 2A gives 96,367 non-CAMEO and 1,237 CAMEO certificates,
+      and no total is derived here. No interval is printed.
+    source_quote: "Across these courses, we estimate that a total of 1,237 certificates were earned using the CAMEO strategy, 1% across all 115 courses, by 657 unique users employing 674 harvester accounts. In some courses, CAMEO users account for as many as 5% of the certificates earned. Across the 69 courses in which we identified CAMEO users, they account for 1.3% of certificates."
+    source_location: "Results, Prevalence of CAMEO; Table 2A"
+
+  - id: cameo-share-unique-earners-all-courses
+    sample:
+      value: 103370
+      unit: participants
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Prevalence of multiple-account cheating"
+      source_language: "Percent of Unique Certificate Earners with ≥1 CAMEO"
+      measure: "Unique certificate-earning accounts with at least one certificate earned by CAMEO, as a share of all unique certificate earners in the 115 courses"
+      scale: "percent of unique certificate earners"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fall 2012 to the analytic cutoff, 2 June 2015"
+    result:
+      measure_type: other
+      estimate: 1
+      unit: "percent of unique certificate earners"
+      note: "657 of 103,370 unique certificate earners (Table 3, N = 1 row); printed rounded to a whole percent."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Sample counts accounts, not verified people. Row checked against the page image (p. 14)."
+    source_quote: "1 103,370 657 1%"
+    source_location: "Table 3, first row"
+
+  - id: cameo-share-20-plus-certificate-earners
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: earners-20-plus-certificates
+    outcome:
+      construct: "Prevalence of multiple-account cheating among heavy certificate earners"
+      source_language: "Percent of Unique Certificate Earners with ≥1 CAMEO"
+      measure: "Accounts with 20 or more certificates that earned at least one by CAMEO"
+      scale: "percent of unique certificate earners"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fall 2012 to the analytic cutoff, 2 June 2015"
+    result:
+      measure_type: other
+      estimate: 25
+      unit: "percent of unique certificate earners"
+      note: >-
+        18 of 73 accounts. The share rises with certificates earned: 5% at 5 or
+        more (185 of 3,435), 6% at 10 or more, 18% at 15 or more, 40% at 25 or
+        more, 47% at 30 or more, 67% at 40 or more (2 of 3).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Row checked against the page image (p. 14)."
+    source_quote: "20 73 18 25%"
+    source_location: "Table 3, N = 20 row; Discussion"
+
+  - id: cameo-rate-stem-no-or-limited-prevention
+    arm_ref: stem-no-or-limited-prevention
+    outcome:
+      construct: "Prevalence of multiple-account cheating"
+      source_language: "CAMEO rate"
+      measure: "CAMEO certificates as a share of certificates, for the typical course (Table 2C)"
+      scale: "percent of certificates"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each course to the analytic cutoff, 2 June 2015"
+    result:
+      measure_type: other
+      estimate: 1.2
+      unit: "percent of certificates (typical course)"
+      note: "171 CAMEO certificates of 19,383 in 19 courses; 0.9% for the typical user."
+    moderators:
+      reported: []
+      candidate:
+        - "Course type and subject within STEM, which was not controlled when courses with and without prevention were compared."
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Prevention was not assigned and no test of the difference is printed.
+      Table 2C checked against the page image (p. 13).
+    source_quote: "Table 2C shows that the CAMEO rate in courses that employed these preventive strategies in half or more of the assessment items was substantially lower (0.1%) than the rate in courses that did not employ preventive strategies (1.2%)."
+    source_location: "Results, Prevention of CAMEO; Table 2C"
+
+  - id: cameo-rate-stem-prevention
+    arm_ref: stem-cameo-prevention
+    outcome:
+      construct: "Prevalence of multiple-account cheating"
+      source_language: "CAMEO rate"
+      measure: "CAMEO certificates as a share of certificates, for the typical course (Table 2C)"
+      scale: "percent of certificates"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each course to the analytic cutoff, 2 June 2015"
+    result:
+      measure_type: other
+      estimate: 0.1
+      unit: "percent of certificates (typical course)"
+      note: "8 CAMEO certificates of 11,717 in 18 courses; 0.1% for the typical user too."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Prevention was not assigned and no test of the difference is printed.
+      Table 2C checked against the page image (p. 13).
+    source_quote: "Table 2C shows that the CAMEO rate in courses that employed these preventive strategies in half or more of the assessment items was substantially lower (0.1%) than the rate in courses that did not employ preventive strategies (1.2%)."
+    source_location: "Results, Prevention of CAMEO; Table 2C"
+
+  - id: median-age-cameo-users
+    arm_ref: cameo-users
+    outcome:
+      construct: "Age"
+      source_language: "Median Age"
+      measure: "Median age of CAMEO certificate earners in the 69 courses with CAMEO users, from edX surveys"
+      scale: "years"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported on edX surveys"
+    result:
+      measure_type: other
+      estimate: 25
+      unit: "years (median)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      A median, not a mean; no spread is printed. The Table 2A row reads
+      non-CAMEO first, CAMEO second, checked against the page image (p. 13).
+    source_quote: "Median Age 32 25"
+    source_location: "Table 2A"
+
+  - id: median-age-non-cameo-earners
+    arm_ref: non-cameo-certificate-earners
+    outcome:
+      construct: "Age"
+      source_language: "Median Age"
+      measure: "Median age of non-CAMEO certificate earners in the 69 courses with CAMEO users, from edX surveys"
+      scale: "years"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported on edX surveys"
+    result:
+      measure_type: other
+      estimate: 32
+      unit: "years (median)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      A median, not a mean; no spread is printed. The Table 2A row reads
+      non-CAMEO first, CAMEO second, checked against the page image (p. 13).
+    source_quote: "Median Age 32 25"
+    source_location: "Table 2A"
+
+not_yet_extracted:
+  - "Table 2A: % female (33% non-CAMEO, 19% CAMEO), % bachelor's (79%, 59%), % USA (30%, 14%)."
+  - "Table 2B: CAMEO share of certificates by curricular area across 115 courses (Computer Science 0.1%, Government/Health/Social Science 1.3%, Humanities 1.1%, STEM 0.7%, overall 0.9%)."
+  - "Country rates among countries with at least 20 CAMEO users (Albania 12%, Indonesia 4%, Serbia 3%, Colombia 2%, China 2%; USA 0.4%)."
+  - "43 accounts earned 5 or more certificates by CAMEO."

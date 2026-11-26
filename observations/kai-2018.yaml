@@ -1,0 +1,297 @@
+# Kai, Almeda, Baker, Heffernan & Heffernan (2018): wheel-spinning and
+# productive persistence in ASSISTments Skill Builders, 2014-2015.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * How common wheel-spinning is under two definitions, each with the
+#     denominator the source prints: 12.3% of all 287,093 student-problem set
+#     pairs under Beck and Gong's opportunity-count definition (ten or more
+#     problems without three right in a row); 9.1% of the 75,481 pairs with ARRS
+#     information under the authors' retention-based definition (46.9% of the
+#     same 75,481 under Beck and Gong's).
+#   * Among the 66,533 pairs that stopped before the tenth problem, 56.2%
+#     mastered and 43.8% quit without mastery. The source prints no share of
+#     quitters out of ALL pairs; none is derived here.
+#   * The J48 detector's cross-validated AUC ROC (A' implementation), 0.684
+#     under student-skill-level and 0.636 under student-level cross-validation,
+#     SE 0.003 for both. A model-goodness figure, recorded as `other` and not as
+#     a reliability: it says how well the detector separates the two labelled
+#     groups, not how consistently a measure scores.
+#
+# No age figure is printed: the sample is "middle school" students in 298
+# schools, so `age: unreported`. No reliability or agreement coefficient is
+# printed for any measure (the labels come from logged mastery and the ARRS
+# retention test, which the authors call noisy without quantifying it), and no
+# kappa is reported for the detector.
+#
+# The shares are written as the source prints them (percent), not rescaled.
+#
+# Read from the journal's own PDF (JEDM 10(1), pp. 36-71). The 12.3% quote
+# contains "student-problem" hyphenated across a line break in the PDF, which
+# lost its hyphen in the text layer; that quote was taken from the page image
+# (p. 43) and gives the article's own spelling.
+#
+# DOI: the article's front matter prints none. 10.5281/zenodo.3344810 resolves
+# on DataCite to "Decision Tree Modeling of Wheel- Spinning and Productive
+# Persistence in Skill Builders", first creator Kai, Shimin, 2018, publisher
+# Zenodo, type journal article, cited by the JEDM article page (view/210). It is
+# the Zenodo concept DOI; its versions are 10.5281/zenodo.3344811 (1.0.0) and
+# 10.5281/zenodo.3344873 (1.0.1).
+
+schema_version: 2
+
+study:
+  key: kai-2018
+  citation: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N. (2018). Decision tree modeling of wheel-spinning and productive persistence in skill builders. Journal of Educational Data Mining, 10(1), 36-71."
+  doi: "10.5281/zenodo.3344810"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of a year of ASSISTments Skill Builder log data
+      (2014-2015). Student-problem set pairs labelled as productive persistence
+      or wheel-spinning from logged mastery (three correct in a row on or after
+      the 10th problem) and the first delayed ARRS retention test; a J48
+      decision tree built on 15 log features by outer-loop forward selection,
+      validated by 10-fold student-skill-level and student-level batch
+      cross-validation. Nothing was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: pairs
+  size:
+    value: 287093
+    unit: pairs
+  additional_sizes:
+    - value: 23896
+      unit: participants
+      note: "students whose Skill Builder data were used"
+    - value: 298
+      unit: schools
+      note: "middle schools the students came from"
+    - value: 619
+      unit: other
+      note: "Skill Builder problem sets attempted"
+    - value: 75481
+      unit: pairs
+      note: "student-problem set pairs left after removing 211,612 that reached mastery but had no ARRS test"
+    - value: 8948
+      unit: pairs
+      note: "persistent pairs (10 or more problems) used to build the models: 2,093 productive persistence, 6,855 wheel-spinning"
+  population:
+    description: >-
+      Middle school students using ASSISTments Skill Builders, a free online
+      formative assessment and tutoring system, mostly for mathematics, across
+      the United States.
+    age_or_stage: "Middle school; the article prints no age figure"
+    age: unreported
+  context:
+    setting: >-
+      ASSISTments Skill Builders, each on one Common Core mathematics skill;
+      mastery is three correct in a row, after which a single-item ARRS
+      retention test is given at increasing delays. Students are stopped after
+      10 problems in a problem set in one day and must return on a later day.
+  arms: []
+
+comparisons:
+  - id: whole-dataset
+    kind: none
+    description: "Shares and detector performance across the Skill Builder dataset; no contrast between groups."
+
+observations:
+
+  - id: wheel-spinning-beck-gong-all-pairs
+    sample:
+      value: 287093
+      unit: pairs
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Prevalence of wheel-spinning"
+      source_language: "wheel-spinning based on Beck and Gong's definition"
+      measure: "Share of student-problem set pairs completing more than 10 problems without three correct in a row (Beck and Gong's definition)"
+      scale: "percent of student-problem set pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school year 2014-2015"
+    result:
+      measure_type: other
+      estimate: 12.3
+      unit: "percent of student-problem set pairs"
+      note: >-
+        Denominator is the original dataset of all student-problem set pairs.
+        The authors argue this definition contains a great deal of productive
+        persistence, since many such students later reach mastery and pass a
+        retention test.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No interval is printed. Quote checked against the page image (p. 43)
+      for the hyphen in "student-problem".
+    source_quote: "When considering the original dataset containing all student-problem set pairs, 12.3% of the original 287,093 student-problem set pairs would have been considered wheel-spinning based on Beck and Gong’s definition."
+    source_location: "Section 4, Methodology, p. 43"
+
+  - id: wheel-spinning-retention-definition
+    sample:
+      value: 75481
+      unit: pairs
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Prevalence of wheel-spinning"
+      source_language: "wheel-spinning"
+      measure: "Share of student-problem set pairs with ARRS information that were persistent (10 or more problems) and either never reached three correct in a row on or after the 10th problem or reached it and failed the first ARRS test"
+      scale: "percent of student-problem set pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school year 2014-2015; retention judged on the first delayed ARRS test"
+    result:
+      measure_type: other
+      estimate: 9.1
+      unit: "percent of student-problem set pairs"
+      note: >-
+        6,855 wheel-spinning pairs out of 75,481. Under Beck and Gong's
+        definition the same 75,481 pairs give 46.9%.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The ARRS delay varies and could be customised by teachers; pairs with
+      mastery and no ARRS test were treated as missing and removed, so the
+      denominator is not all pairs. No interval is printed.
+    source_quote: "According to our definition, then, 9.1% of the total 75,481 student-problem set pairs that had ARRS information involved wheel-spinning, a much lower proportion of wheel-spinning than reported in earlier papers defining wheel-spinning as whether the student took a large number of problems to learn a skill (Beck & Gong, 2013)."
+    source_location: "Section 4, Methodology, p. 43"
+
+  - id: early-stoppers-quit-without-mastery
+    sample:
+      value: 66533
+      unit: pairs
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Quitting a skill without mastery"
+      source_language: "quit the problem set without achieving mastery, before attempting their tenth problem"
+      measure: "Among student-problem set pairs (with ARRS information) that stopped before the 10th problem, the share that stopped without three correct in a row"
+      scale: "percent of non-persistent student-problem set pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school year 2014-2015"
+    result:
+      measure_type: other
+      estimate: 43.8
+      unit: "percent of non-persistent student-problem set pairs"
+      note: >-
+        The other 56.2% mastered the problem set before the tenth problem. The
+        denominator is the 66,533 non-persistent pairs (the source words it as
+        "66,533 students"), not all pairs; no share of quitters out of all
+        pairs is printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The remaining 43.8% of the non-persistent student-problem set pairs quit the problem set without achieving mastery, before attempting their tenth problem."
+    source_location: "Section 4, Methodology, pp. 42-43"
+
+  - id: j48-auc-student-skill-cv
+    sample:
+      value: 8948
+      unit: pairs
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Detector performance: wheel-spinning versus productive persistence"
+      source_language: "AUC ROC"
+      measure: "15-feature J48 decision tree predicting wheel-spinning versus productive persistence; AUC ROC computed with the A' implementation"
+      scale: "AUC ROC (0.5 chance, 1.0 perfect)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "10-fold student-skill-level batch cross-validation"
+    result:
+      measure_type: other
+      estimate: 0.684
+      standard_error: 0.003
+      unit: "AUC ROC"
+      note: >-
+        Feature selection by outer-loop forward selection, which the authors
+        note tends to bias upward relative to true training-test splits. A
+        3-feature model reached 0.628; the best single feature 0.554.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A model-goodness figure, not an effect. Precision and recall are given
+      only as a curve (Figure 1) and in words; no kappa is reported.
+    source_quote: "The J48 model achieved an AUC ROC value of 0.684 under student-skill-level cross-validation. Under student-level cross-validation, AUC ROC decreased to 0.636."
+    source_location: "Section 6.1, Multi-feature model, p. 46"
+
+  - id: j48-auc-student-cv
+    sample:
+      value: 8948
+      unit: pairs
+    comparison_ref: whole-dataset
+    outcome:
+      construct: "Detector performance: wheel-spinning versus productive persistence"
+      source_language: "AUC ROC"
+      measure: "15-feature J48 decision tree predicting wheel-spinning versus productive persistence; AUC ROC computed with the A' implementation"
+      scale: "AUC ROC (0.5 chance, 1.0 perfect)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "10-fold student-level cross-validation, computed to check for over-fitting"
+    result:
+      measure_type: other
+      estimate: 0.636
+      standard_error: 0.003
+      unit: "AUC ROC"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The SE of 0.003 is stated for both cross-validation approaches, computed
+      by Hanley and McNeil's method.
+    source_quote: "The standard error for the AUC ROC metric for J48 was computed to be 0.003 for both cross-validation approaches (using the approach in Hanley & McNeil, 1982)."
+    source_location: "Section 6.1, Multi-feature model, p. 46"
+
+not_yet_extracted:
+  - "Decision-tree branches: the bottom-out-hint and minimum-hints features and the share of instances in each top branch (e.g. 89.74%, 2781 of 3099 pairs, in the max-past8BottomOut branch of the 3-feature model)."
+  - "Single-feature AUC ROC values beyond the best one (std-timeBetweenProblems 0.554; 0.544 cross-validated in a later model)."

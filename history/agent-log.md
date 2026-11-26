@@ -5,6 +5,36 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation records batch 7: eight simulator sources from open copies
+
+The batch adds 8 files and 49 observations: Fritz et al. (2023), Guo et al. (2016), Kai et al. (2018), Northcutt et al.
+(2016), van Rijsewijk et al. (2018) and (2019/2020), Hass et al. (2018), and Lee et al. (2025).
+
+Every copy is open access and was found before anyone was asked for one:
+- Publisher sites: Kai, Hass, van Rijsewijk (2018).
+- University repositories: Fritz (Freiburg), Guo (Konstanz).
+- arXiv: Northcutt, the preprint of the published article; the header says the figures may differ from the version of
+  record.
+- PubMed Central XML: Lee, van Rijsewijk (2019).
+
+Northcutt et al.'s claim pages cite the preprint DOI (10.48550/arxiv.1508.05699); the record cites the published
+version. Kai et al.'s DOI is a Zenodo concept DOI, confirmed on DataCite.
+
+Claim pages for an editor to look at:
+- educational-level-moderates-mastery-approach-dishonesty gives Fritz et al.'s secondary stratum as r = −0.197. That is
+  the meta-regression beta; Table 5 prints r = −.213. The article's own Results text mislabels it the same way.
+- van Rijsewijk et al. (2019) was published online in April 2019 and in the March 2020 issue; the claim pages cite 2019.
+- The Kai et al. claim page lists the authors out of order.
+
+Findings for the simulator to check:
+- Kai et al.: the ≈10% non-persistent share is not printed; the article prints 43.8% of the 66,533 pairs that stopped
+  early. The article prints no kappa.
+- van Rijsewijk et al. (2018): the 45–49% reciprocity is cited from another study, and no share of help flowing from
+  higher to lower achievers is printed.
+- Hass et al.: the single-rater reliabilities (.746, .601) are the simulator's own derivation from Table 2. Table 2 and
+  Table 4 print the Consequences person component as .067 and .068.
+- Guo et al.: the abstract gives 1,868 students and the Method 1,978.
+
 ## 2026-11-26 · Observation records batch 6: twelve more simulator-cited sources
 
 The batch adds 12 files and 109 observations, one file per source:

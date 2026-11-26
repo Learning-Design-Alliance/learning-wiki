@@ -5,8 +5,8 @@ description: Stem-equivalent MC and CR items yield significantly higher correcte
 id: stem-equivalent-items-higher-mc-cr-correlations
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-24
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: moderate
 newest_evidence: 2003
 sources:
@@ -40,6 +40,8 @@ Michael C. Rodriguez. (2003). Construct Equivalence of Multiple-Choice and Const
 Random effects moderator analysis of 56 disattenuated correlations from 29 studies. The article reports stem-equivalent items reached "a mean corrected correlation of 0.948" versus 0.860 for non-stem-equivalent items, with non-overlapping 95% confidence intervals.
 
 > "The random effects model for stem- equivalent correlations results in a mean corrected correlation of 0.948 and a 95% confidence interval of (0.913, 0.969), compared to non-stem-equivalent correlations where the mean is 0.860 with a 95% confidence interval (0.815, 0.894)."
+
+The article prints the stem-equivalent interval two ways: (0.913, 0.969) in the Results text quoted above (p. 177), and (0.907, 0.971) in Table 6 and the Discussion (p. 179). Which is the typo is not established; either way the two intervals do not overlap.
 
 ## Discussion
 

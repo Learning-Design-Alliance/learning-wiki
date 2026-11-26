@@ -12,6 +12,12 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-26
 
+* **Correction**: [claims/hint-avoidance-related-greater-wheel-spinning](claims/hint-avoidance-related-greater-wheel-spinning.md) — Corrected against the article's printed figures (observation records batches 6-7)
+* **Correction**: [claims/educational-level-moderates-mastery-approach-dishonesty](claims/educational-level-moderates-mastery-approach-dishonesty.md) — Corrected against the article's printed figures (observation records batches 6-7)
+* **Correction**: [claims/stem-equivalent-items-higher-mc-cr-correlations](claims/stem-equivalent-items-higher-mc-cr-correlations.md) — Corrected against the article's printed figures (observation records batches 6-7)
+* **Correction**: [claims/cultural-value-moderates-engagement-achievement](claims/cultural-value-moderates-engagement-achievement.md) — Corrected against the article's printed figures (observation records batches 6-7)
+* **Correction**: [claims/asc-achievement-temporal-asymmetry](claims/asc-achievement-temporal-asymmetry.md) — Corrected against the article's printed figures (observation records batches 6-7)
+* **Correction**: [claims/rem-reciprocal-effects-ri-clpm-clpm-palma](claims/rem-reciprocal-effects-ri-clpm-clpm-palma.md) — Corrected against the article's printed figures (observation records batches 6-7)
 * **Ingest**: [claims/oe-ce-gap-larger-us-and-post-2000-quantitative](claims/oe-ce-gap-larger-us-and-post-2000-quantitative.md) — Ingested from sim19-breuer-2023-effects-of-response-format-on-achievement-and-aptitude (Effects of response format on achievement and aptitude assessment results: multi-level random effects meta-analyses) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/test-stakes-moderate-oe-ce-correlation-quantitative-only](claims/test-stakes-moderate-oe-ce-correlation-quantitative-only.md) — Ingested from sim19-breuer-2023-effects-of-response-format-on-achievement-and-aptitude (Effects of response format on achievement and aptitude assessment results: multi-level random effects meta-analyses) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/written-short-answer-stronger-oe-ce-correlation](claims/written-short-answer-stronger-oe-ce-correlation.md) — Ingested from sim19-breuer-2023-effects-of-response-format-on-achievement-and-aptitude (Effects of response format on achievement and aptitude assessment results: multi-level random effects meta-analyses) via eval_harness.py + ingest_extractions.py

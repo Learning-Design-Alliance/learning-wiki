@@ -7,3 +7,6 @@ page: ../claims/rem-reciprocal-effects-ri-clpm-clpm-palma.md
 
 ### 2026-10-19 · ingest · process:wiki-ingest
 Ingested from jrnl-3b4d8e5205bc (Directional Ordering of Self-Concept, School Grades, and Standardized Tests Over Five Years: New Tripartite Models Juxtaposing Within- and Between-Person Perspectives) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-26 · correction · claude/unspecified
+Corrected against the article's printed figures (observation records batches 6-7)
