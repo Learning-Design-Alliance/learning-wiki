@@ -68,3 +68,4 @@ A quasi-experimental classroom study in which 109 seventh-grade mathematics stud
 - [FCP produced significantly higher post-test scores than CTM for rational expressions, while CTM produced significantly higher scores for factorization](fcp-beats-ctm-rational-expressions-loses-factorization.md) — related
 - [PF students show better knowledge retention than DI students on a delayed post-test two weeks later](pf-better-retention-delayed-post-test-python.md) — related
 - [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related
+- [Solving unfamiliar problems before explicit instruction improves children's conceptual knowledge of mathematical equivalence at posttest and 2-week retention](solve-before-instruct-better-conceptual-knowledge.md) — related

@@ -54,3 +54,4 @@ Correlational analysis against year 1 and year 2 examination marks in the HYMS c
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related
 - [A unified model combining affect, disengaged behaviour, and in-system performance achieves high overall correlation to standardized exam scores](unified-affect-behavior-performance-model-predicts-exam-scores.md) — related
+- [Positive parental involvement predicted children's conscientiousness and intrinsic motivation](parental-involvement-predicts-conscientiousness-motivation.md) — related

@@ -51,3 +51,4 @@ The article reports, citing Kreijkes et al. (2024), a comparison of using LLMs w
 - [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [In the integrated 2 × 2 analysis of Experiments 2 and 3, completed cognitive effort more reliably predicted accurate recognition memory while active engagement was more closely tied to memory for the processing context](integrated-2x2-effort-engagement-memory.md) — related

@@ -49,3 +49,4 @@ Descriptive correlation analysis (Table 1) across the analytic sample; the print
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
 - [School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools](school-ethnic-diversity-buffers-representation-decline.md) — related
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
+- [School belonging is positively correlated with elementary students' academic achievement](school-belonging-positive-correlation-achievement.md) — related

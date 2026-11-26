@@ -134778,5 +134778,429 @@
  "media-design\ttwo prior analogs plus a diagrammatic representation of the underlying principle\tone prior analog plus a diagrammatic representation of the underlying principle": {
   "label": "multiple analogies vs single analogy",
   "treatment_is_a": true
+ },
+ "active-learning\thigh active engagement\tlow active engagement": {
+  "label": "high active engagement vs low active engagement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tadditional completed effort\tno additional completed effort": {
+  "label": "additional effort vs no additional effort",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchosen-effort trials\tlow-effort trials": {
+  "label": "chosen effort vs low effort",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tforced think-aloud elaboration\tlow-effort opt-out": {
+  "label": "forced think-aloud elaboration vs low-effort opt-out",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tgreater active engagement\tless active engagement": {
+  "label": "greater active engagement vs less active engagement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher appreciation\tlower appreciation": {
+  "label": "higher appreciation vs lower appreciation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-year dental students\t3rd-year dental students": {
+  "label": "more advanced academic year vs less advanced academic year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-year dental students\t5th-year dental students": {
+  "label": "more advanced academic year vs less advanced academic year",
+  "treatment_is_a": false
+ },
+ "learner-difference\t4th-year medical students\tmedical students from other years": {
+  "label": "more advanced academic year vs other academic years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-year students\t5th-year students": {
+  "label": "more advanced academic year vs less advanced academic year",
+  "treatment_is_a": false
+ },
+ "learner-difference\t4th-year undergraduates\tstudents in other academic levels": {
+  "label": "more advanced academic level vs other academic levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th/5th-year students\t1st-year students": {
+  "label": "more advanced academic year vs less advanced academic year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5 to 10 years of teaching experience\tup to one year of teaching experience": {
+  "label": "more teaching experience vs less teaching experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5-9 training sessions in past 5 years\tno training sessions in past 5 years": {
+  "label": "more prior training vs no prior training",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5-point higher highest MCAT score\t5-point lower highest MCAT score": {
+  "label": "higher MCAT score vs lower MCAT score",
+  "treatment_is_a": true
+ },
+ "learner-difference\t50 least-Hispanic schools\tschools more than 70% Hispanic": {
+  "label": "higher Hispanic-school concentration vs lower Hispanic-school concentration",
+  "treatment_is_a": false
+ },
+ "learner-difference\t50 least-SED schools\t50 most-SED schools": {
+  "label": "higher socioeconomic disadvantage vs lower socioeconomic disadvantage",
+  "treatment_is_a": false
+ },
+ "learner-difference\t50–60 kg participants\tother-weight participants": {
+  "label": "50–60 kg vs other weight ranges",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-grade working memory\tkindergarten working memory": {
+  "label": "older learners vs younger learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year Hospital Pharmacy students\t3rd-year Cardiovascular Pharmacology students": {
+  "label": "5th-year Hospital Pharmacy students vs 3rd-year Cardiovascular Pharmacology students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-year students\t4th-year students": {
+  "label": "more advanced academic year vs less advanced academic year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th/7th semester medical students\t1st semester medical students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th/7th-semester medical students\t1st-semester medical students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th/7th-semester students\t1st-semester students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–10 years of experience\tless than 5 years of experience": {
+  "label": "more teaching experience vs less teaching experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–10 years of oncology nursing experience\tless than 5 years of oncology nursing experience": {
+  "label": "more oncology nursing experience vs less oncology nursing experience",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–7 days per week of physical activity\tlower or higher weekly physical activity": {
+  "label": "5–7 days/week physical activity vs lower or higher activity frequency",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–7 days/week of physical activity\tlower or higher weekly activity levels": {
+  "label": "5–7 days/week physical activity vs lower or higher activity frequency",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–7 days/week of physical activity\tlower physical-activity levels": {
+  "label": "5–7 days/week physical activity vs lower physical-activity levels",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–7 days/week of physical activity\tvery low or no weekly physical activity": {
+  "label": "5–7 days/week physical activity vs very low or no physical activity",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5–9 emergency drills in the past 5 years\tno emergency drills in the past 5 years": {
+  "label": "more emergency drills vs no emergency drills",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6 months exclusive breastfeeding\tless than 3 months exclusive breastfeeding": {
+  "label": "6 months exclusive breastfeeding vs less than 3 months",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6,584 American students in the RSW data set\t2,348 American students in the IDW American data set": {
+  "label": "RSW American students vs IDW American students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6-month MI training\tpre-training": {
+  "label": "6-month MI training vs pre-training",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6-year-olds with merged domain structures\t4-year-olds with separate domain structures": {
+  "label": "older learners with merged domain structures vs younger learners with separate domain structures",
+  "treatment_is_a": true
+ },
+ "learner-difference\t60 ChatGPT-solved TUG-K surveys\t471 students taking a high-school-level physics course": {
+  "label": "AI system vs human students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t65–74-year-old faculty\t25–34-year-old faculty": {
+  "label": "older faculty vs younger faculty",
+  "treatment_is_a": true
+ },
+ "learner-difference\t65–74-year-old faculty\tother age groups": {
+  "label": "older faculty vs other age groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\t68 students predicting the stone falls at the tower's base\tone student reasoning that it falls behind due to Earth's rotation": {
+  "label": "68-student group vs single-student group",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-grade students\t9th-grade students": {
+  "label": "higher grade level vs lower grade level",
+  "treatment_is_a": false
+ },
+ "learner-difference\t6th-semester W/HU students\t5th-semester W/HU students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-year female dental students\t2nd-year female dental students": {
+  "label": "older female dental students vs younger female dental students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-year medical students\t7th-year medical students": {
+  "label": "more advanced medical year vs less advanced medical year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-year students interested in surgery (group A)\t6th-year students not interested in surgery (group B)": {
+  "label": "interest in surgery vs no interest in surgery",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6–10 hours of IPV-and-disability training\tNo training": {
+  "label": "more IPV-and-disability training vs no training",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6–10 years of practice\t1–5 years of practice": {
+  "label": "more years of practice vs fewer years of practice",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6–15 minutes/week interacting with LAs\t0 minutes/week interacting with LAs": {
+  "label": "6–15 minutes/week LA interaction vs no LA interaction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6–15 years of work experience\t>15 years of work experience": {
+  "label": "more work experience vs less work experience",
+  "treatment_is_a": false
+ },
+ "learner-difference\t7 h or more of weekly leisure-time MVPA\tno leisure-time MVPA": {
+  "label": "7 or more hours/week leisure-time MVPA vs no leisure-time MVPA",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7 hours or more of weekly leisure-time MVPA\tinactive adolescents": {
+  "label": "7 or more hours/week leisure-time MVPA vs inactivity",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7-day abridged IMNCI training\t11-day standard IMNCI training": {
+  "label": "abridged 7-day training vs standard 11-day training",
+  "treatment_is_a": true
+ },
+ "learner-difference\t70% initial resources for women\tequal initial resources": {
+  "label": "70% initial resources for women vs equal initial resources",
+  "treatment_is_a": true
+ },
+ "learner-difference\t71-point pass/fail standard\tnovice and experienced group status": {
+  "label": "71-point pass/fail standard vs novice/experienced status",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7B distilled student\t14B Base": {
+  "label": "7B distilled model vs 14B base model",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7th graders\t5th graders": {
+  "label": "older grade level vs younger grade level",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7th-semester RUB model-course students\t7th-semester RUB traditional-course students": {
+  "label": "model course vs traditional course",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7th-semester students\t8th-semester students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7th-year students interested in surgery (group A)\t7th-year students not interested in surgery (group B)": {
+  "label": "interest in surgery vs no interest in surgery",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–11 completed e-learning modules\t0–6 completed e-learning modules": {
+  "label": "more e-learning modules completed vs fewer modules completed",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–8 hours of sleep with 5–7 days per week of physical activity\tat least 9 hours of sleep with 1–2 days per week of physical activity": {
+  "label": "7–8 hours sleep with 5–7 activity days/week vs at least 9 hours sleep with 1–2 activity days/week",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–8 hours of sleep with 5–7 days/week of physical activity\tat least 9 hours of sleep with 1–2 days/week of physical activity": {
+  "label": "7–8 hours sleep with 5–7 activity days/week vs at least 9 hours sleep with 1–2 activity days/week",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–9 h/night of sleep\tsleep durations outside the 7–9 h/night range": {
+  "label": "7–9 hours/night sleep vs sleep outside that range",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–9 hours of sleep per night\tother sleep durations": {
+  "label": "7–9 hours/night sleep vs other sleep durations",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–9 hours of sleep per night\tshorter or longer sleep duration": {
+  "label": "7–9 hours/night sleep vs shorter or longer sleep",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–9 hours of sleep/night\tshorter or longer sleep durations": {
+  "label": "7–9 hours/night sleep vs shorter or longer sleep",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7–9-year-olds\t10–13-year-olds": {
+  "label": "younger children vs older children",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8 hours of sleep before the test\tall-nighter before the test": {
+  "label": "8 hours sleep vs all-nighter",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8 subspecialties with a majority preference for competence\t7 subspecialties with no majority preference for competence": {
+  "label": "competence-preference subspecialties vs no-majority-preference subspecialties",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8- to 17-year-olds\t18- to 21-year-olds pooled as adults": {
+  "label": "children and adolescents vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8-hour Loving Kindness practice day\tno practice day": {
+  "label": "8-hour Loving Kindness practice vs no practice",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8-hour Open Monitoring practice day\tno practice day": {
+  "label": "8-hour Open Monitoring practice vs no practice",
+  "treatment_is_a": true
+ },
+ "learner-difference\t800N impulse-force target\t200N impulse-force target": {
+  "label": "800N impulse-force target vs 200N target",
+  "treatment_is_a": true
+ },
+ "learner-difference\t80–100% GPA ranking\t20–50% GPA ranking": {
+  "label": "higher GPA ranking vs lower GPA ranking",
+  "treatment_is_a": true
+ },
+ "learner-difference\t86 University of Wisconsin students grading the papers\thigh-school teachers grading the papers": {
+  "label": "university students grading papers vs high-school teachers grading papers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-grade boys\t8th-grade girls": {
+  "label": "boys vs girls",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-semester W/HU students\t5th-semester W/HU students": {
+  "label": "more advanced academic semester vs less advanced academic semester",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-semester W/HU students\t9th-semester RUB students": {
+  "label": "8th-semester W/HU students vs 9th-semester RUB students",
+  "treatment_is_a": false
+ },
+ "learner-difference\t9-year-olds\tadults": {
+  "label": "children vs adults",
+  "treatment_is_a": false
+ },
+ "learner-difference\t90th-percentile GRE-Q scorers\t10th-percentile GRE-Q scorers": {
+  "label": "higher GRE-Q scorers vs lower GRE-Q scorers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t90th-percentile Quantitative and Physics GRE scores\t10th-percentile Quantitative and Physics GRE scores": {
+  "label": "higher Quantitative and Physics GRE scorers vs lower scorers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t90° arm angle with shoulders over the compression point\tless-than-90° arm angle": {
+  "label": "90° arm angle vs less-than-90° arm angle",
+  "treatment_is_a": true
+ },
+ "learner-difference\t91% Status multiplier for women\tequal Status multiplier": {
+  "label": "91% status multiplier for women vs equal status multiplier",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade boys\t9th-grade girls": {
+  "label": "boys vs girls",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade honors students\t12th-grade non-honors students": {
+  "label": "honors students vs non-honors students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade honors students\t9th-grade non-honors students": {
+  "label": "honors students vs non-honors students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t9th-grade students\t6th-grade students": {
+  "label": "higher grade level vs lower grade level",
+  "treatment_is_a": true
+ },
+ "learner-difference\t> 30 independent ultrasound examinations\t≤ 30 independent ultrasound examinations": {
+  "label": "more independent ultrasound examinations vs fewer examinations",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>15 years in practice\t≤15 years in practice": {
+  "label": "more years in practice vs 15 years or fewer",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>15 years of nursing experience\t≤5 years of nursing experience": {
+  "label": "more nursing experience vs 5 years or fewer",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>2 years on SCIG treatment\t≤2 years on SCIG treatment": {
+  "label": "more than 2 years SCIG treatment vs 2 years or less",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>200 scans per practitioner\tfewer than 200 scans per practitioner": {
+  "label": "more than 200 scans per practitioner vs fewer than 200",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>4 h exercise weekly\tno exercising": {
+  "label": "more than 4 hours exercise weekly vs no exercise",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>5 blood transfusions in the past 6 months\t1–4 blood transfusions in the past 6 months": {
+  "label": "more than 5 blood transfusions vs 1–4 transfusions",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>5 years of professional experience\t≤5 years of professional experience": {
+  "label": "more professional experience vs 5 years or less",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA GPA\tD/F GPA": {
+  "label": "A GPA vs D/F GPA",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA GPA category\tD/F GPA category": {
+  "label": "A GPA vs D/F GPA",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA GPA students\tD/F GPA students": {
+  "label": "A-GPA students vs D/F-GPA students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA students paired with A students\tA students paired with C students": {
+  "label": "A students paired with A students vs A students paired with C students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA-Level Physics students taking AQA Engineering Physics\tA-Level Physics students not taking AQA Engineering Physics": {
+  "label": "A-Level Physics with AQA Engineering Physics vs without Engineering Physics",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA-S-Vi-Se learners\tother learning-style combinations": {
+  "label": "A-S-Vi-Se learning-style combination vs other combinations",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA-level Further Mathematics uptake\tA-level Mathematics uptake": {
+  "label": "Further Mathematics uptake vs Mathematics uptake",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA-level Physics students taking the AQA Engineering Physics option\tother A-level Physics students": {
+  "label": "AQA Physics Engineering Physics option vs other Physics students",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA-level Physics students who did not study the relevant AQA optional module\tstudents who studied an AQA optional module covering the topic": {
+  "label": "no relevant optional-module study vs relevant optional-module study",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAAA application\tFAST application": {
+  "label": "AAA application vs FAST application",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAAA application\tprocedural-guidance application": {
+  "label": "AAA application vs procedural-guidance application",
+  "treatment_is_a": true
+ },
+ "learner-difference\tAAPT members who were Verified Educators\tAAPT members in the estimated membership population who were not Verified Educators": {
+  "label": "Verified Educators vs non-Verified Educators",
+  "treatment_is_a": true
  }
 }

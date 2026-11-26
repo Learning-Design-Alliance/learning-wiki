@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (30 for, 30 mixed, 7 against) · 39 studies (24 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 14 of 39 report an effect size · 64 claims rest on one study
+> **Evidence** · 69 claims (32 for, 30 mixed, 7 against) · 40 studies (25 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 14 of 40 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,8 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [Students told concepts and formulas before practicing contrasting cases recall the ratio deep structure of those cases less well than students who invent first](../claims/telling-first-reduces-deep-structure-recall.md) [+W] — attached 2026-11-23 from Schwartz et al. (2011), which proposed "Delay explicit instruction until after students have explored novel deep structures, using inventing with contrasting cases as preparation for future learning"; tests this page's relationship.
 - [Inventing with contrasting cases before being told produces more spontaneous transfer to semantically unrelated ratio phenomena than being told first](../claims/icc-greater-ratio-transfer.md) [+W] — attached 2026-11-23 from Schwartz et al. (2011), which proposed "Delay explicit instruction until after students have explored novel deep structures, using inventing with contrasting cases as preparation for future learning"; tests this page's relationship.
 - [Telling first and inventing first produce equal proficiency at applying the formulas on standard word problems](../claims/equal-word-problem-proficiency.md) [~W] — attached 2026-11-23 from Schwartz et al. (2011), which proposed "Delay explicit instruction until after students have explored novel deep structures, using inventing with contrasting cases as preparation for future learning".
+- [Solving unfamiliar problems before explicit instruction improves children's conceptual knowledge of mathematical equivalence at posttest and 2-week retention](../claims/solve-before-instruct-better-conceptual-knowledge.md) [+W] — attached 2026-11-26 from DeCaro et al. (2012), which proposed "Place brief exploratory problem solving with feedback before explicit instruction to prepare learners to learn from it"; tests this page's relationship.
+- [Exploration before instruction increased variety of incorrect strategies and improved encoding of problem structure at midtest](../claims/exploration-strategy-variability-encoding.md) [+W] — attached 2026-11-26 from DeCaro et al. (2012), which proposed "Place brief exploratory problem solving with feedback before explicit instruction to prepare learners to learn from it".
 
 ## Objective and learner-valued goal
 

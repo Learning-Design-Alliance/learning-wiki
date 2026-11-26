@@ -70,3 +70,5 @@ The review reports mediation evidence consistent with motivational development m
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related
 - [Parents' school-based involvement is fairly consistently associated with benefits for children's achievement](school-based-involvement-benefits-achievement.md) — related
+- [Positive parental involvement predicted children's conscientiousness and intrinsic motivation](parental-involvement-predicts-conscientiousness-motivation.md) — related
+- [School belonging mediated the relations of parental involvement and individual factors with academic achievement](school-belonging-mediation-achievement.md) — related

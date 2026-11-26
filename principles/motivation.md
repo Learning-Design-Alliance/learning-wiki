@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 146 claims (89 for, 55 mixed, 2 against) · 132 studies (38 causal, 30 review, 25 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 132 report an effect size · 132 claims rest on one study
+> **Evidence** · 148 claims (91 for, 55 mixed, 2 against) · 133 studies (38 causal, 30 review, 26 associational, 13 theoretical, 10 qualitative, 9 quant-synthesis, 7 design), `q1`–`q4` · 18 of 133 report an effect size · 134 claims rest on one study
 
 ## Conditional relationship
 
@@ -227,6 +227,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Academic self-concepts positively predict self-perceptions of effort of corresponding domains, with no negative cross-domain self-concept effects](../claims/self-concepts-predict-domain-effort-no-cross-domain-effects.md) [+W] — attached 2026-11-25 from Annette Lohbeck (2019), which proposed "Teachers of elementary students should attend to children with lower grades and enhance their domain-specific academic self-concepts".
 - [On days when adolescents feel more competent, both their motivation to invest effort in learning (Cog-ED) and self-reported academic motivation are higher](../claims/daily-competence-predicts-motivation-within-person.md) [+W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Cultivate daily feelings of competence, a socially supportive school environment and reduced stress to support adolescents' academic motivation"; tests this page's relationship.
 - [Exploratory analyses: daily teacher and classmate support raise self-reported motivation, average parent and teacher support raise it, but average classmate support lowers it](../claims/support-source-specific-effects-exploratory.md) [~W] — attached 2026-11-25 from Kramer et al. (2024), which proposed "Cultivate daily feelings of competence, a socially supportive school environment and reduced stress to support adolescents' academic motivation"; tests this page's relationship.
+- [School belonging mediated the relations of parental involvement and individual factors with academic achievement](../claims/school-belonging-mediation-achievement.md) [+W] — attached 2026-11-26 from Seol et al. (2013), which proposed "Schools and teachers should treat school belonging as a support system for achievement".
+- [School belonging is positively correlated with elementary students' academic achievement](../claims/school-belonging-positive-correlation-achievement.md) [+W] — attached 2026-11-26 from Seol et al. (2013), which proposed "Schools and teachers should treat school belonging as a support system for achievement".
 
 ## Objective and learner-valued goal
 

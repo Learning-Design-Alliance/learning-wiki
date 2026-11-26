@@ -59,3 +59,4 @@ Hierarchical multiple regression in the 424-student survey: Step 1 (gender, coun
 - [Trait conscientiousness positively predicts academic performance, explaining additional variance beyond gender, age and total GMV](conscientiousness-predicts-academic-performance.md) — related
 - [Adding perceived conscientiousness in a hierarchical regression significantly increases explained variance in actual academic performance](hierarchical-regression-conscientiousness-variance-increase.md) — related
 - [Intrinsic motivation is positively correlated with both GPA and standardized test scores](intrinsic-motivation-positively-correlated-achievement.md) — reports the opposite
+- [Conscientiousness and intrinsic motivation jointly predicted achievement, with school belonging as partial mediator](individual-factors-predict-achievement-belonging-partial-mediation.md) — related

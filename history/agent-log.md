@@ -5,6 +5,23 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · j-sim-18: Jin et al. (2026) and two retries
+
+The batch queued Jin et al. (2026), from the maintainer's Drive copy, with three retries from j-sim-16. Three of the
+four were ingested; 20 new pages in all.
+
+- Jin et al. (2026) ingested.
+- DeCaro & Rittle-Johnson (2012) ingested on its retry.
+- Seol & Jung (2013) ingested once it was queued under its Korean title. The article prints the English title only
+  beside the English abstract at the end, so the first attempt's title check failed.
+- Breuer et al. (2023) failed structural validation a second time. It is a meta-regression, and the extraction model
+  gives impact codes to moderator findings without quoting a printed effect size. It is to be retried with a stronger
+  extraction model.
+
+Both scope models voted one Jin claim out of scope: that understanding, interest and liking correlate in cross-sentence
+reading. The simulator does not cite Jin, so the methods rule does not keep it, and it was removed with
+`remove_pages.py`. All 51 edits flagged by the citation-edit check were added claim links and header counts. Lint 0.
+
 ## 2026-11-26 · j-sim-16 and j-sim-17: the simulator's missing sources, and observation records batch 2
 
 **Ingest.** The maintainer supplied copies of the simulator-cited sources the wiki had no text for. Four more were

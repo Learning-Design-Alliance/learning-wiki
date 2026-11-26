@@ -50,3 +50,4 @@ Multilevel SEM (Model 1) across 2760 students in six countries found a significa
 ## Related Claims
 - [Relational understandings of the equals sign are associated with middle grades mathematics success](relational-equals-sign-understanding-middle-grades-success.md) — related
 - [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related
+- [Children given instruction first were far more likely to define the equal sign relationally at midtest, but exploration yielded better structural encoding](midtest-relational-definition-instruct-first.md) — related

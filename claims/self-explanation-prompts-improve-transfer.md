@@ -50,3 +50,4 @@ The article describes the Aleven and Koedinger (2002) experiment in KLI terms: c
 - [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](answer-items-no-difference-self-explanation-tutor.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
+- [Self-explanation prompts did not improve learning more than solving additional practice problems at equal time on task](self-explanation-no-benefit-over-extra-practice.md) — reports the opposite
