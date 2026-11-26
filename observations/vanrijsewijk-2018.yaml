@@ -1,0 +1,340 @@
+# van Rijsewijk, Oldenburg, Snijders, Dijkstra & Veenstra (2018): the shape
+# of classroom help-nomination networks and their association with grades
+# (SNARE, one Dutch secondary school, December 2011 network, April 2012 grades).
+#
+# Read from the publisher's PDF (PLOS ONE, CC BY 4.0) through its text layer.
+# Every source_quote below is from the running text of the Methods and Results,
+# which the text layer renders cleanly; Table 1 and Table 2 come out of the text
+# layer one cell per line, so no quote is taken from a table row.
+#
+# WHAT THIS RECORD HOLDS:
+#
+#   * The help network's descriptive shape per classroom: mean density and mean
+#     proportion of isolates over the 54 classrooms, each with its SD and the
+#     printed range (single-group means, `arm_ref` on the one cohort), the
+#     count of isolated students, and the count of classrooms with none.
+#   * The mean number of helpers a student named (outdegree).
+#   * The one significant classroom-level association with achievement:
+#     inequality (outdegree variance) in the multilevel full model.
+#   * `population.age` with the mean and SD the article prints (13.11, 0.66).
+#
+# No reliability, stability or agreement coefficient is printed for the help
+# nominations or for the grades, so no reliability observation is recorded.
+# The 45%-49% reciprocity figure in the Participants section is cited from an
+# earlier study ([47]), not measured here, and is not recorded (see
+# not_yet_extracted).
+#
+# The help question covers any kind of help (homework, a flat bicycle tyre,
+# feeling down), so the network is not an academic-help network as such. The
+# outgoing nominations of 30 students who named (almost) everyone were recoded
+# as missing before any network index was computed.
+
+schema_version: 2
+
+study:
+  key: vanrijsewijk-2018
+  citation: "van Rijsewijk, L. G. M., Oldenburg, B., Snijders, T. A. B., Dijkstra, J. K., & Veenstra, R. (2018). A description of classroom help networks, individual network position, and their associations with academic achievement. PLoS ONE, 13(12), e0208173."
+  doi: "10.1371/journal.pone.0208173"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of SNARE survey data: within-classroom peer
+      nominations to "who helps you with problems" assessed in December 2011,
+      and school-report grades (mean of Dutch, English and mathematics, 1-10)
+      up to April 2012, for all first- and second-year classrooms of one
+      school. Classroom network indices (density, proportion of isolates,
+      segmentation, outdegree variance as inequality) and individual indices
+      (number of helpers, isolation, Gil-Schmidt centrality) described, then
+      a two-level multilevel model (students in classrooms, Stata xtmixed) of
+      achievement on all indices with classroom size and sex as controls, plus
+      a K-means cluster analysis of classrooms. Observational: no condition
+      was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: help-networks-vary-widely-no-typical-classroom
+    bearing: supports
+    anchor: van-rijsewijk-2018
+  - claim: classroom-help-inequality-lower-achievement
+    bearing: supports
+    anchor: van-rijsewijk-2018
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1144
+    unit: participants
+  additional_sizes:
+    - value: 54
+      unit: classes
+      note: "first- and second-year classrooms of one school; mean classroom size 21.27 (SD 4.69); nominations only within the classroom"
+    - value: 1056
+      unit: participants
+      note: "students in the multilevel full model (Table 2), after missing values"
+    - value: 30
+      unit: participants
+      note: "students across 20 classrooms who named (almost) everyone as helper; their outgoing nominations were recoded as missing"
+  population:
+    description: >-
+      All first- and second-year students of one secondary school in the north
+      of the Netherlands, part of the SNARE project; 49.0% boys, 94.7% Dutch,
+      on average slightly lower SES than the Dutch average. Students who joined
+      or left the school between December and April were removed; five
+      classrooms had no grades available.
+    age_or_stage: "First and second year of secondary school"
+    age:
+      unit: years
+      mean: 13.11
+      sd: 0.66
+  context:
+    setting: "Classroom computer questionnaire during regular school hours, about 45 minutes, with a teacher and research assistant present; passive (opt-out) consent"
+  arms:
+    - id: snare-classrooms
+      description: "All 54 participating classrooms and their students, as one group; the network descriptives are computed per classroom (classroom indices) or per student (individual indices) over all of them."
+
+comparisons:
+  - id: multilevel-full-model
+    kind: none
+    description: "Associations of classroom and individual help-network indices with academic achievement in the multilevel full model; each coefficient is a slope over the whole sample, not a contrast between groups."
+
+observations:
+
+  - id: classroom-density-mean
+    sample:
+      value: 54
+      unit: classes
+    arm_ref: snare-classrooms
+    outcome:
+      construct: "Density of the classroom help network"
+      source_language: "The density in classrooms"
+      measure: "Help nominations present relative to the possible number of nominations in the classroom (0 to 1), computed per classroom"
+      scale: "proportion of possible help relations"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "December 2011 network"
+    result:
+      measure_type: mean
+      estimate: 0.12
+      sd: 0.04
+      unit: "proportion of possible help relations, classroom mean"
+      descriptives: "Range over the 54 classrooms .03 to .29 (Table 1 and text)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A mean over classrooms, not over students. Nominations were unlimited
+      within the classroom; the outgoing nominations of 30 near-everyone
+      nominators were set to missing before density was computed.
+    source_quote: "The density in classrooms ranged from .03 to .29, with an average of .12 (SD = .04)."
+    source_location: "Results, Description of classroom network indices; Table 1 row 1"
+
+  - id: classroom-isolates-proportion-mean
+    sample:
+      value: 54
+      unit: classes
+    arm_ref: snare-classrooms
+    outcome:
+      construct: "Share of a classroom isolated from the help network"
+      source_language: "The proportion of isolates"
+      measure: "Students with neither outgoing nor incoming help nominations, relative to classroom size, computed per classroom"
+      scale: "proportion of the classroom"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "December 2011 network"
+    result:
+      measure_type: mean
+      estimate: 0.06
+      sd: 0.09
+      unit: "proportion of classroom who are isolates, classroom mean"
+      descriptives: "Range over the 54 classrooms 0 to .50; the authors call .50 an outlier, the next value being .31"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The proportion of isolates ranged from 0 to .50 (M = .06, SD = .09), where .50 was an outlier (it was followed by value .31)."
+    source_location: "Results, Description of classroom network indices; Table 1 row 2"
+
+  - id: isolated-students-count
+    sample:
+      value: 1127
+      unit: participants
+    arm_ref: snare-classrooms
+    outcome:
+      construct: "Students isolated from the help network"
+      source_language: "isolates in the sample"
+      measure: "Students with neither outgoing nor incoming help nominations"
+      scale: "number of students"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "December 2011 network"
+    result:
+      measure_type: count
+      estimate: 61
+      unit: "students"
+      descriptives: "5.4% of the sample, spread over 32 classrooms; Table 1 gives N = 1127 for the isolation variable"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The sample of 1127 is Table 1's N for "% Isolation"; the text does not
+      state the denominator of the 5.4% itself.
+    source_quote: "There were 61 isolates in the sample (5.4%), spread out over 32 classrooms."
+    source_location: "Results, Description of individual position in the help network; Table 1 row 8"
+
+  - id: classrooms-without-isolates-count
+    sample:
+      value: 54
+      unit: classes
+    arm_ref: snare-classrooms
+    outcome:
+      construct: "Classrooms in which no student is isolated from the help network"
+      source_language: "no one was excluded from help relations"
+      measure: "Classrooms with no isolate (no student lacking both outgoing and incoming help nominations)"
+      scale: "number of classrooms"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "December 2011 network"
+    result:
+      measure_type: count
+      estimate: 22
+      unit: "classrooms"
+      descriptives: "22 of 54 classrooms; in classrooms with isolates their number ranged from 1 to 7 (the next highest being 4)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "In many networks (22 of the 54 classrooms), however, no one was excluded from help relations."
+    source_location: "Results, Description of classroom network indices"
+
+  - id: helpers-named-mean
+    sample:
+      value: 1074
+      unit: participants
+    arm_ref: snare-classrooms
+    outcome:
+      construct: "Number of peers named as helpers"
+      source_language: "Number of helpers"
+      measure: "Sum of a student's outgoing nominations to 'who helps you with problems (for example, with homework, with repairing a flat [bicycle] tire, or when you are feeling down)?'"
+      scale: "classmates named per student"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "December 2011 network"
+    result:
+      measure_type: mean
+      estimate: 2.59
+      sd: 2.66
+      unit: "classmates named as helpers"
+      descriptives: "Range 0 to 14; Table 1 N = 1074"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A mean over students. The skewness of the number of helpers was positive
+      in every classroom (M = 1.09, SD = 0.53, range 0.07-2.17).
+    source_quote: "On average, students mentioned about 2.59 classmates as helper (SD = 2.66). Some students nominated no helpers, whereas others nominated as many as 14."
+    source_location: "Results, Description of individual position in the help network; Table 1 row 7"
+
+  - id: inequality-achievement-coefficient
+    sample:
+      value: 1056
+      unit: participants
+    comparison_ref: multilevel-full-model
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Average school-report grade up to April 2012 over Dutch, English and mathematics (1-10, 5.5 a pass), from the school administration"
+      scale: "grade points per unit of classroom inequality (outdegree variance)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "network December 2011, grades averaged up to April 2012"
+      offset:
+        value: 4
+        unit: months
+        from: "network assessment"
+    result:
+      measure_type: regression_coefficient
+      estimate: -2.67
+      standard_error: 0.98
+      p_value: "p = .01"
+      model: >-
+        Two-level multilevel full model (54 classrooms, 1,056 students) with
+        density, proportion of isolates, segmentation, inequality and
+        classroom size at the classroom level and number of helpers,
+        isolation, centrality and sex at the individual level. Inequality
+        ranged from -.02 to .30 (M = .11, SD = .07). The intercept-only model
+        put 14% of achievement variance between classrooms; the full model
+        explained 33.3% of classroom-level and 3.7% of individual-level
+        variance.
+      interpretation: "The authors read it as achievement decreasing by about one point if inequality increased by one third of its range"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      An unstandardised slope in grade points, not a standardised effect. No
+      random slope or interaction (with individual network position or with
+      sex) was significant. Density (b = 2.09, SE 2.15), proportion of
+      isolates (b = -0.13, SE 0.78) and segmentation (b = -0.31, SE 0.51)
+      were not associated with achievement in the same model.
+    source_quote: "At the classroom level, the results reveal that inequality was significantly associated with achievement (b = −2.67, SE = 0.98, p = .01), which is consistent with our hypothesis that achievement was lower in more unequal classroom help networks (Hypothesis 3)."
+    source_location: "Results, Results multilevel analysis; Table 2"
+
+not_yet_extracted:
+  - "Segmentation index over classrooms: range .33-.98, M = .69, SD = .17; inequality range -.02 to .30, M = .11, SD = .07"
+  - "Table 1 bivariate correlations among classroom indices (density with isolates -.47, with segmentation -.74, with inequality .62; segmentation with isolates .50, with inequality -.67) and among individual indices"
+  - "Other Table 2 full-model coefficients: density, proportion of isolates, segmentation, classroom size (b = -0.03), number of helpers, isolation, centrality (b = 0.51, SE 0.29, p = .08), sex (b = -0.29)"
+  - "Intraclass correlation of achievement: 14% between classrooms, 86% between students"
+  - "K-means three-cluster solution of classrooms (N = 26, 22, 6) with cluster means of the indices and of achievement"
+  - "Academic achievement distribution: range 2.97-9.37, M = 6.88, SD = 0.93"
+  - "The 45%-49% share of mutual help nominations is cited from an earlier study ([47]), not measured in this article"

@@ -1,0 +1,429 @@
+# van Rijsewijk, Snijders, Dijkstra, Steglich & Veenstra (2019 online, 2020
+# issue): friendship and help networks of Dutch seventh-grade classrooms over
+# one school year, and how each shapes the other (SNARE, Bayesian RSiena).
+#
+# Read from the PubMed Central full text (PMC7064895, Wiley Open Access, CC
+# BY-NC 4.0), converted from JATS XML to text. There is no PDF and no page
+# image. Tables 2-5 come through the conversion one cell per line with clean
+# numbers, so their rows are quoted as a run of cells (row label, then the
+# values in column order, whitespace normalised). Table 1 is graphical (arrow
+# diagrams per parameter) and could not be read; nothing is taken from it.
+#
+# The key says 2019 because the article was first published online on 10 April
+# 2019; the issue is Journal of Research on Adolescence 30(1), March 2020,
+# which the citation gives.
+#
+# WHAT THIS RECORD HOLDS:
+#
+#   * Table 2's help- and friendship-network descriptives per wave, averaged
+#     over classrooms: help density, help and friendship reciprocity, helpers
+#     named (outdegree), and the wave-to-wave stability of help ties (Jaccard
+#     index). Each prints one value per wave, so each is held as a range over
+#     waves (or periods), never as an invented midpoint; the per-wave values
+#     are in `descriptives`.
+#   * The three RSiena multiplex parameters behind the claim pages: mutual
+#     versus one-sided help on friendship maintenance, and one-sided and
+#     mutual friendship on help. These are the article's own fitted estimates
+#     (posterior means of fixed log-odds parameters), recorded as printed. The
+#     printed SD is a posterior standard deviation and the printed p is a
+#     posterior probability that the parameter exceeds zero; neither is
+#     written into standard_error or a frequentist p-value field.
+#   * `population.age` with the wave-1 mean the text prints (12.7).
+#
+# No reliability or agreement coefficient is printed for the nominations. The
+# Jaccard index is the share of ties stable between waves (change plus any
+# measurement error), not a reliability coefficient, so it is recorded as
+# `other`, not `reliability`.
+#
+# The help question covers any kind of help (homework, a flat bicycle tyre,
+# feeling down) by design: the authors chose the broad wording to capture the
+# general tendency to help.
+
+schema_version: 2
+
+study:
+  key: vanrijsewijk-2019
+  citation: "van Rijsewijk, L. G. M., Snijders, T. A. B., Dijkstra, J. K., Steglich, C., & Veenstra, R. (2020). The interplay between adolescents' friendships and the exchange of help: A longitudinal multiplex social network study. Journal of Research on Adolescence, 30(1), 63-77. First published online 10 April 2019."
+  doi: "10.1111/jora.12501"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Three-wave longitudinal social network study within one school year
+      (October, December, April; 2011-2012) of all seventh-grade classrooms of
+      two Dutch secondary schools in SNARE. Unlimited within-classroom
+      nominations to "who are your best friends" and "who helps you with
+      problems". Descriptive network statistics, configuration tables of
+      friendship-by-help at one wave against the next, and a Bayesian
+      random-effects multiplex stochastic actor-based model (RSienaTest
+      1.2.5) of the co-evolution of the two networks, with hypothesis
+      parameters fixed across classrooms and control parameters varying
+      between them. Observational: no condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: friendship-help-networks-partial-overlap
+    bearing: supports
+    anchor: van-rijsewijk-2019
+  - claim: mutual-help-friendship-maintenance
+    bearing: supports
+    anchor: van-rijsewijk-2019
+  - claim: friendship-context-for-help
+    bearing: supports
+    anchor: van-rijsewijk-2019
+  - claim: friendship-context-for-help
+    bearing: supports
+    anchor: van-rijsewijk-2019-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 953
+    unit: participants
+  additional_sizes:
+    - value: 41
+      unit: classes
+      note: "seventh-grade classrooms analysed (mean size 23.2 at wave 1); nominations only within the classroom"
+    - value: 51
+      unit: classes
+      note: "classrooms initially in the sample; 10 were excluded from the analyses because their rate parameters were very large and the model could not converge"
+    - value: 2
+      unit: schools
+      note: "large regional secondary schools, one in the north and one in the middle of the Netherlands"
+  population:
+    description: >-
+      Seventh-grade students (first year of secondary education) of two Dutch
+      secondary schools, part of SNARE; at wave 1, 50.5% boys and 84.5% Dutch.
+      Sample sizes 953, 956 and 960 at the three waves; 11 students refused
+      consent across the year. Outgoing nominations of students who named
+      (almost) everyone at one wave but hardly anyone at the next were
+      recoded as missing (1, 13 and 8 students by wave).
+    age_or_stage: "Seventh grade, first year of secondary education"
+    age:
+      unit: years
+      mean: 12.7
+      note: "Wave 1 mean as printed in the text and abstract. Table 2 gives wave means of 12.66, 12.82 and 13.16."
+  context:
+    setting: "Classroom computer questionnaire during regular school hours, about 45 minutes, with a teacher and research assistant present; passive (opt-out) consent; waves in October (six weeks into the school year), December and April"
+  arms:
+    - id: seventh-grade-classrooms
+      description: "All 41 analysed seventh-grade classrooms and their students, as one group; Table 2's network descriptives are computed per classroom and averaged over them (tie counts summed)."
+
+comparisons:
+  - id: rsiena-multiplex-model
+    kind: none
+    description: "Fixed parameters of the Bayesian random-effects multiplex RSiena model of friendship and help; each parameter is a tendency within the networks of all 41 classrooms, not a contrast between groups of students."
+
+observations:
+
+  - id: help-density-by-wave
+    sample:
+      value: 41
+      unit: classes
+    arm_ref: seventh-grade-classrooms
+    outcome:
+      construct: "Density of the classroom help network"
+      source_language: "% Density"
+      measure: "Help nominations present relative to possible nominations in the classroom, per classroom, averaged over classrooms"
+      scale: "percent of possible help relations"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October, December, April of one school year)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 11.8
+        upper: 12.1
+        over:
+          value: 3
+          unit: other
+      unit: "percent of possible help relations, classroom average"
+      descriptives: "Table 2 help network: 11.8 (W1), 12.1 (W2), 11.9 (W3). Friendship network density in the same classrooms: 24.8, 26.0, 26.0. Help ties summed over classrooms 2,664, 2,751, 2,627."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over the three waves (the `over` unit is `other` because
+      the count vocabulary has no unit for measurement waves). The row's first
+      three values are the friendship network, the last three the help
+      network.
+    source_quote: "% Density 24.8 26.0 26.0 11.8 12.1 11.9"
+    source_location: "Results, Descriptive Results; Table 2"
+
+  - id: help-reciprocity-by-wave
+    sample:
+      value: 41
+      unit: classes
+    arm_ref: seventh-grade-classrooms
+    outcome:
+      construct: "Reciprocity of help nominations"
+      source_language: "% Reciprocity"
+      measure: "Share of help nominations that were mutual, per classroom, averaged over classrooms"
+      scale: "percent of nominations"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October, December, April of one school year)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 43.9
+        upper: 45.7
+        over:
+          value: 3
+          unit: other
+      unit: "percent of help nominations reciprocated, classroom average"
+      descriptives: "Table 2 help network: 45.7 (W1), 44.2 (W2), 43.9 (W3); the text gives 'about 45%'"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over the three waves. The article does not define the
+      denominator beyond "help nominations were mutual" (nominations, not
+      dyads).
+    source_quote: "% Reciprocity 63.0 62.4 64.8 45.7 44.2 43.9"
+    source_location: "Results, Descriptive Results; Table 2 (last three values, help network)"
+
+  - id: friendship-reciprocity-by-wave
+    sample:
+      value: 41
+      unit: classes
+    arm_ref: seventh-grade-classrooms
+    outcome:
+      construct: "Reciprocity of best-friend nominations"
+      source_language: "% Reciprocity"
+      measure: "Share of best-friend nominations that were mutual, per classroom, averaged over classrooms"
+      scale: "percent of nominations"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October, December, April of one school year)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 62.4
+        upper: 64.8
+        over:
+          value: 3
+          unit: other
+      unit: "percent of friendship nominations reciprocated, classroom average"
+      descriptives: "Table 2 friendship network: 63.0 (W1), 62.4 (W2), 64.8 (W3); the text gives 'About 65%'"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The range is over the three waves; the row's first three values are the friendship network."
+    source_quote: "% Reciprocity 63.0 62.4 64.8 45.7 44.2 43.9"
+    source_location: "Results, Descriptive Results; Table 2 (first three values, friendship network)"
+
+  - id: helpers-named-by-wave
+    sample:
+      value: 41
+      unit: classes
+    arm_ref: seventh-grade-classrooms
+    outcome:
+      construct: "Number of peers named as helpers"
+      source_language: "Outdegree"
+      measure: "Classmates a student named on 'who helps you with problems (for example, with homework, with repairing a flat [bicycle] tire, or when you are feeling down)?', averaged per classroom, then over classrooms"
+      scale: "classmates named per student"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "each of Waves 1-3 (October, December, April of one school year)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 2.45
+        upper: 2.59
+        over:
+          value: 3
+          unit: other
+      unit: "classmates named as helpers, classroom average"
+      descriptives: "Table 2 help network outdegree 2.45 (W1), 2.59 (W2), 2.52 (W3); SD outdegree 2.74, 2.95, 2.80; SD indegree 1.64, 1.69, 1.75. Friendship outdegree 5.14, 5.34, 5.37."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Recorded as `other` with a range over waves, not as a `mean`, because
+      the source prints one mean per wave and no single mean; the SDs are
+      Table 2's "SD outdegree", averaged over classrooms per the table note.
+    source_quote: "Outdegree 5.14 5.34 5.37 2.45 2.59 2.52 SD outdegree 3.60 3.70 3.49 2.74 2.95 2.80"
+    source_location: "Results, Descriptive Results; Table 2 (last three values, help network)"
+
+  - id: help-tie-stability-jaccard
+    sample:
+      value: 41
+      unit: classes
+    arm_ref: seventh-grade-classrooms
+    outcome:
+      construct: "Stability of help ties between waves"
+      source_language: "% Jaccard index"
+      measure: "Ties present at both waves relative to ties present at either, per classroom, averaged over classrooms"
+      scale: "percent (Jaccard index)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "wave 1 to 2 (period 1) and wave 2 to 3 (period 2)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 35.8
+        upper: 39.1
+        over:
+          value: 2
+          unit: other
+      unit: "percent of help ties stable between consecutive waves, classroom average"
+      descriptives: "Table 2 help network: 39.1 (period 1), 35.8 (period 2). Friendship network: 52.2, 52.7."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over the two periods between waves. A stability index of
+      ties, which mixes real change with any measurement error; it is not a
+      reliability coefficient and the article does not present it as one.
+    source_quote: "% Jaccard index 52.2 52.7 39.1 35.8"
+    source_location: "Results, Descriptive Results; Table 2, Changes in help (last two values)"
+
+  - id: mutual-help-friendship-maintenance
+    comparison_ref: rsiena-multiplex-model
+    outcome:
+      construct: "Maintenance of a friendship nomination"
+      source_language: "friendship maintenance"
+      measure: "RSiena maintenance-function parameter 4: effect of mutual versus one-sided help on keeping an existing best-friend nomination"
+      scale: "log-odds contribution to the actor's objective function"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.14
+      p_value: "posterior probability that the parameter is > 0: > .99"
+      model: >-
+        Bayesian random-effects multiplex stochastic actor-based model, 41
+        classrooms, 953 students; hypothesis parameters fixed across
+        classrooms. Posterior SD .22; odds 3.13. One-sided help versus no help
+        on maintenance (parameter 2) 0.92 (SD .14); mutual versus no help
+        (parameters 2+4) 2.05 (SD .18).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A posterior mean of a fitted model parameter, which the authors report
+      as a finding. The authors caution that its odds reading assumes all else
+      equal, which is strong because parameters correlate.
+    source_quote: "In line with our first hypothesis, there was a positive effect of mutual versus one‐sided help on friendship maintenance (parameter 4; η = 1.14, SD  = .22, p  = > .99)."
+    source_location: "Results, RSiena Results, Multiplex network parameters; Table 5 parameter 4"
+
+  - id: friendship-on-help
+    comparison_ref: rsiena-multiplex-model
+    outcome:
+      construct: "Naming a classmate as helper (receiving help)"
+      source_language: "receipt of help"
+      measure: "RSiena evaluation-function parameter 5: effect of one-sided versus no friendship on nominating that classmate as helper"
+      scale: "log-odds contribution to the actor's objective function"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.24
+      p_value: "posterior probability that the parameter is > 0: > .99"
+      model: >-
+        Same model. Posterior SD .09; odds 3.46. Mutual versus no friendship
+        (parameters 5+6) 2.15 (SD .08).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "In line with our expectations, there was a positive effect of one‐sided versus no friendship on receipt of help (parameter 5; η = 1.24, SD  = .09, p  > .99)"
+    source_location: "Results, RSiena Results, Multiplex network parameters; Table 5 parameter 5"
+
+  - id: mutual-friendship-on-help
+    comparison_ref: rsiena-multiplex-model
+    outcome:
+      construct: "Naming a classmate as helper (receiving help)"
+      source_language: "receipt of help"
+      measure: "RSiena evaluation-function parameter 6: effect of mutual versus one-sided friendship on nominating that classmate as helper"
+      scale: "log-odds contribution to the actor's objective function"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "network change from Wave 1 to Wave 2 and Wave 2 to Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.92
+      p_value: "posterior probability that the parameter is > 0: > .99"
+      model: "Same model. Posterior SD .07; odds 2.51."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "In addition, there was a positive effect of mutual versus one‐sided friendship on receipt of help (parameter 6; η = 0.92, SD  = .07, p  > .99)."
+    source_location: "Results, RSiena Results, Multiplex network parameters; Table 5 parameter 6"
+
+not_yet_extracted:
+  - "Other Table 2 descriptives: transitivity (friendship 61.6/64.2/64.6%, help 51.1/49.8/50.2%), same-sex nominations (friendship 83.2/85.1/86.0%, help 83.0/86.4/85.0%), tie creation, dissolution and stability counts, Jaccard distance"
+  - "Tables 3 and 4: friendship-by-help configurations at one wave (with counts) and the percentage of each resulting in no, one-sided or mutual friendship (or help) at the next wave"
+  - "Table 5 structural parameters for both networks (outdegree, reciprocity, transitivity, indegree popularity, outdegree activity, same sex) and the help-on-friendship initiation parameters 1 (1.26) and 3 (-1.87; about 20 pairs, authors urge caution), with 1+3 = -0.62"
+  - "Figure 3: scatterplot of classroom help density against friendship density, described in the text as showing hardly any association; no coefficient printed"
