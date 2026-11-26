@@ -1,0 +1,222 @@
+# Crouch & Mazur (2001): Peer Instruction, ten years of experience and results
+# at Harvard. This record holds the paper's Section III C result: how students'
+# ConcepTest answers changed after peer discussion, Fall 1997.
+#
+# Read from the publisher PDF's text layer (Am. J. Phys. 69(9), 970-977). Two
+# things could only be read from the page image (PDF page 3, journal p. 972):
+#
+#   * Figure 4's four category shares (correct twice 40%, incorrect to correct
+#     32%, correct to incorrect 6%, incorrect twice 22%). They are printed as
+#     labels inside the figure, which the text layer does not carry; the four
+#     figure quotes below are those labels as printed.
+#   * The "only 6% of the time" sentence runs across a column break, and the
+#     text layer splits it around the Figure 4 caption; that quote is taken from
+#     the page image.
+#
+# WHAT THIS FILE RECORDS, and why only this:
+#
+#   * One configuration (the Fall 1997 calculus-based course taught with PI) and
+#     four shares of its ConcepTest answer pairs, each its own observation
+#     (`arm_ref`). The axis of Figure 4 is "CT answer pairs (%)", so the 6% is a
+#     share of ALL answer pairs, not of the answers that were correct before
+#     discussion. The four shares sum to 100.
+#   * The year-by-year cohorts of Table I (FCI, MBT, normalized gain, N) are a
+#     historical comparison of different courses and are listed under
+#     not_yet_extracted; nothing here contrasts them.
+#   * `population.age: unreported`: the paper prints no age figure.
+#   * No reliability: the paper prints no reliability or agreement coefficient
+#     for the FCI, the MBT or the ConcepTest classification.
+#
+# The ConcepTest analysis prints no number of students or answer pairs, so no
+# analysed sample is recorded.
+
+schema_version: 2
+
+study:
+  key: crouch-2001
+  citation: "Crouch, C. H., & Mazur, E. (2001). Peer Instruction: Ten years of experience and results. American Journal of Physics, 69(9), 970-977."
+  doi: "10.1119/1.1374249"
+  design:
+    family: observational
+    design_detail: >-
+      Report of ten years of teaching introductory physics for nonmajors with
+      Peer Instruction. The record here is descriptive: every student answer
+      to every ConcepTest discussed in one semester (Fall 1997, calculus-based
+      course), each answer given before and after peer discussion, classified
+      into four categories. No comparison condition is involved in this
+      analysis.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: pi-discussion-increases-conceptest-correct-answers
+    bearing: supports
+    anchor: crouch-2001
+
+evidence_base:
+  unit: classes
+  size:
+    value: 1
+    unit: classes
+  additional_sizes:
+    - value: 117
+      unit: participants
+      note: "N printed in Table I for the Fall 1997 calculus-based course, for matched FCI and MBT samples; the ConcepTest analysis prints no N of its own"
+  population:
+    description: >-
+      Harvard University students in the calculus-based introductory physics
+      course for nonmajors (mechanics, first semester), whom the authors
+      describe as mostly honors biology or chemistry majors.
+    age_or_stage: "Undergraduates in an introductory course; no age figure printed"
+    age: unreported
+  context:
+    setting: "Large-enrolment lecture course taught with Peer Instruction: ConcepTests posed after short presentations, one or two minutes to answer individually, two to four minutes of discussion with neighbours, then a second poll. Answers are not graded; students get a small amount of credit for consistent participation."
+  arms:
+    - id: pi-calculus-fall-1997
+      description: "The Fall 1997 calculus-based introductory physics course at Harvard, taught with Peer Instruction; all ConcepTests discussed that semester."
+      delivery:
+        grouping: small-group
+        role: core-curriculum
+        basis: inferred
+
+comparisons: []
+
+observations:
+
+  - id: correct-to-incorrect
+    arm_ref: pi-calculus-fall-1997
+    outcome:
+      construct: "Answer change from right to wrong after peer discussion"
+      source_language: "correct to incorrect"
+      measure: "ConcepTest answer pairs (before and after discussion) correct before discussion and incorrect after"
+      scale: "percent of all ConcepTest answer pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one ConcepTest cycle: before and after two to four minutes of peer discussion, Fall 1997 semester"
+    result:
+      measure_type: other
+      estimate: 6
+      unit: "percent of all ConcepTest answer pairs"
+      interpretation: "Text: students changed from correct to incorrect answers during discussion only 6% of the time. The base is all answer pairs (Figure 4's axis), not answers initially correct."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The number of answer pairs, students and ConcepTests behind the
+      percentages is not printed.
+    source_quote: "Nearly half of the correct answers given were arrived at after discussion, and students changed from correct to incorrect answers during discussion only 6% of the time."
+    source_location: "Sec. III C, ConcepTest performance (pp. 972-973; read from the page image, where the text layer splits it around the Figure 4 caption); Figure 4 label 'correct to incorrect (6%)'"
+
+  - id: incorrect-to-correct
+    arm_ref: pi-calculus-fall-1997
+    outcome:
+      construct: "Answer change from wrong to right after peer discussion"
+      source_language: "incorrect to correct"
+      measure: "ConcepTest answer pairs incorrect before discussion and correct after"
+      scale: "percent of all ConcepTest answer pairs"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one ConcepTest cycle: before and after two to four minutes of peer discussion, Fall 1997 semester"
+    result:
+      measure_type: other
+      estimate: 32
+      unit: "percent of all ConcepTest answer pairs"
+      interpretation: "Text: the vast majority of students who revise their answers during discussion change from an incorrect answer to the correct answer, and nearly half of the correct answers given were arrived at after discussion."
+    moderators:
+      reported:
+        - variable: "Initial percentage of correct answers to a ConcepTest"
+          relationship: "Correct answers increase substantially after discussion when 35% to 70% answer correctly beforehand; the improvement is largest around 50%."
+          source_quote: "after discussion, the number of students who give the correct answer to a ConcepTest increases substantially, as long as the initial percentage of correct answers to a ConcepTest is between 35% and 70%."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The 32% is printed only as a label inside Figure 4. No ratio of
+      incorrect-to-correct to correct-to-incorrect changes is printed, and none
+      is computed here.
+    source_quote: "incorrect to correct (32%)"
+    source_location: "Figure 4 label (p. 972; read from the page image)"
+
+  - id: correct-twice
+    arm_ref: pi-calculus-fall-1997
+    outcome:
+      construct: "Answer correct before and after peer discussion"
+      source_language: "correct twice"
+      measure: "ConcepTest answer pairs correct both before and after discussion"
+      scale: "percent of all ConcepTest answer pairs"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one ConcepTest cycle: before and after two to four minutes of peer discussion, Fall 1997 semester"
+    result:
+      measure_type: other
+      estimate: 40
+      unit: "percent of all ConcepTest answer pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "correct twice (40%)"
+    source_location: "Figure 4 label (p. 972; read from the page image)"
+
+  - id: incorrect-twice
+    arm_ref: pi-calculus-fall-1997
+    outcome:
+      construct: "Answer incorrect before and after peer discussion"
+      source_language: "incorrect twice"
+      measure: "ConcepTest answer pairs incorrect both before and after discussion"
+      scale: "percent of all ConcepTest answer pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one ConcepTest cycle: before and after two to four minutes of peer discussion, Fall 1997 semester"
+    result:
+      measure_type: other
+      estimate: 22
+      unit: "percent of all ConcepTest answer pairs"
+      note: "Whether an incorrect-twice pair kept the same wrong answer or moved between wrong answers is not reported."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "incorrect twice (22%)"
+    source_location: "Figure 4 label (p. 972; read from the page image)"
+
+not_yet_extracted:
+  - "Table I, by year and course (calculus-based 1990 traditional, 1991-1997 PI; algebra-based 1998 PI, 1999 traditional, 2000 PI): FCI pre and post, absolute and normalized gain (0.25 in 1990 to 0.74 in 1997; 0.65, 0.40, 0.63 algebra-based), MBT and MBT quantitative scores, N. A historical comparison of different cohorts and instructors."
+  - "1985 final examination repeated in 1991: mean 63% to 69%, effect size 0.34."
+  - "Algebra-based E&M final, one repeated problem: PI (Spring 2000, N = 155) 7.4 out of 10, SD 2.9, against traditional (Spring 1999, N = 178) 5.5, SD 3.7; effect size 0.57."
+  - "No student gave the correct ConcepTest answer before discussion more than 80% of the time."
+  - "MPEX concept and reality-link clusters, algebra-based 1998: favorable 68% and 67% before and after; unfavorable 11% to 14% and 12% to 15%."
+  - "Course evaluations: 4.5 (calculus-based) and 3.4 (algebra-based) on a 1-5 scale."

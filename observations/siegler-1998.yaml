@@ -1,0 +1,404 @@
+# Siegler & Stern (1998): conscious and unconscious discovery of the inversion
+# shortcut (a + b - b) by German second graders, a microgenetic study.
+#
+# Read from the published PDF's text layer (JEP: General 127(4), 377-397). The
+# text layer reads Table 4 column by column, so its rows were read from the page
+# image (PDF page 7, journal p. 383), and the four Table 4 quotes below are taken
+# from that image, written as the row reads across. Every other quote is from the
+# running text. The OCR spells "defined" as "denned" in one sentence, so that
+# quote stops short of the word.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * Table 4: the accuracy of the old route (computation, 74% mixed and 73%
+#     blocked correct) against the newly discovered shortcut (100% in both
+#     groups), with each strategy's mean response time beside it. Each group's
+#     figure is its own observation (`arm_ref`). The table's "% correct" is the
+#     percentage of that group's trials on that strategy answered correctly; the
+#     source does not say whether it is a mean of per-child rates or a pooled
+#     ratio, so it is recorded as `other` in percent, as printed, not as `mean`.
+#   * 27 of 31 children (88%) showed the shortcut implicitly (a solution time of
+#     4 s or less with a computational explanation) before reporting it.
+#   * Use of the shortcut just after its first use, within the same session:
+#     73% of the mixed group on the next trial; "about 80%" of the blocked group
+#     on the next three. And in the session a week later, for the mixed group, a
+#     limit only: "On none of the first six trials ... did even 25%", recorded
+#     as a bound. The other next-session values are only in Figure 6, a line
+#     graph, and are not recorded.
+#   * `population.age`: the range is printed in months (100 to 115) and the mean
+#     in years (8.75). The structured field takes one unit, so it holds the
+#     range in months and the mean stays in the note, unconverted.
+#   * No reliability: the paper prints no agreement coefficient for its strategy
+#     classifications. It argues their validity from four kinds of convergent
+#     evidence (solution times, overt behaviour, their associations), none of
+#     which is an agreement statistic.
+
+schema_version: 2
+
+study:
+  key: siegler-1998
+  citation: "Siegler, R. S., & Stern, E. (1998). Conscious and unconscious strategy discoveries: A microgenetic analysis. Journal of Experimental Psychology: General, 127(4), 377-397."
+  doi: "10.1037/0096-3445.127.4.377"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Microgenetic two-group experiment over eight weekly sessions. After a
+      pretest session, the 31 children who had not used the shortcut were
+      randomly assigned, within quartiles of a standardised maths test, to a
+      blocked problems group (100% inversion problems in Sessions 2-4 and 6)
+      or a mixed problems group (50% inversion, 50% standard problems); both
+      received mixed sets in Sessions 1, 5 and 7, and transfer problems in
+      Session 8. Strategy on each trial was classified from the solution time
+      (4 s or less, or longer), the child's immediately retrospective
+      explanation and overt behaviour. Reported results use the first 10
+      inversion problems of each session.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: unconscious-shortcut-precedes-conscious-report
+    bearing: supports
+    anchor: siegler-1998
+  - claim: blocked-problems-faster-solutions-equal-accuracy
+    bearing: supports
+    anchor: siegler-1998
+
+evidence_base:
+  unit: participants
+  size:
+    value: 31
+    unit: participants
+  additional_sizes:
+    - value: 39
+      unit: participants
+      note: "original sample; 8 used the shortcut on at least one pretest trial and did not continue"
+  population:
+    description: >-
+      German second graders (18 girls, 13 boys) attending an afterschool centre
+      in Munich, who did not use the shortcut strategy on the pretest. Mean
+      performance on the SCHOLASTIC maths test was near the norms (44th
+      percentile on word problems, 47th on computation).
+    age_or_stage: "Second grade; 8- and 9-year-olds"
+    age:
+      unit: months
+      min: 100
+      max: 115
+      note: "Range printed in months at the beginning of the study; the mean is printed in years (8.75) and is not converted here."
+  context:
+    setting: "Individual weekly sessions in a quiet room of the afterschool centre, three female research assistants as experimenters; problems on index cards, timed by stopwatch to the nearest second"
+  arms:
+    - id: blocked
+      description: "Blocked problems: 20 inversion problems (a + b - b) and no standard problems in Sessions 2, 3, 4 and 6; the mixed set in Sessions 1, 5 and 7."
+      size:
+        value: 16
+        unit: participants
+      dose:
+        amount: 8
+        unit: weekly sessions
+        detail: "Session 1 pretest, Sessions 2-7 practice, Session 8 transfer"
+    - id: mixed
+      description: "Mixed problems: 10 inversion and 10 standard problems (a + b - c) in every practice session."
+      size:
+        value: 15
+        unit: participants
+      dose:
+        amount: 8
+        unit: weekly sessions
+        detail: "Session 1 pretest, Sessions 2-7 practice, Session 8 transfer"
+
+comparisons:
+  - id: blocked-vs-mixed
+    kind: between-groups
+    index_arm: blocked
+    reference_arm: mixed
+    description: "Blocked against mixed presentation of inversion problems, children randomly assigned within test-score quartiles."
+
+observations:
+
+  - id: computation-accuracy-mixed
+    arm_ref: mixed
+    outcome:
+      construct: "Accuracy of the old route (computation)"
+      source_language: "% correct"
+      measure: "Percentage of trials classified as the computation strategy (time over 4 s, computation explanation) that were answered correctly"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over Sessions 1-7, first 10 inversion problems of each session"
+    result:
+      measure_type: other
+      estimate: 74
+      unit: "percent of the group's computation-strategy trials answered correctly"
+      descriptives: "Computation used on 40% of trials; overt behaviour on 78%; mean response time 16 s."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source prints no number of trials behind the percentage and does not
+      say whether it is pooled over trials or averaged over children.
+    source_quote: "Computation 40 74 78 16"
+    source_location: "Table 4, Mixed problems group (p. 383; read from the page image)"
+
+  - id: computation-accuracy-blocked
+    arm_ref: blocked
+    outcome:
+      construct: "Accuracy of the old route (computation)"
+      source_language: "% correct"
+      measure: "Percentage of trials classified as the computation strategy (time over 4 s, computation explanation) that were answered correctly"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over Sessions 1-7, first 10 inversion problems of each session"
+    result:
+      measure_type: other
+      estimate: 73
+      unit: "percent of the group's computation-strategy trials answered correctly"
+      descriptives: "Computation used on 38% of trials; overt behaviour on 83%; mean response time 16 s."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source prints no number of trials behind the percentage and does not
+      say whether it is pooled over trials or averaged over children.
+    source_quote: "Computation 38 73 83 16"
+    source_location: "Table 4, Blocked problems group (p. 383; read from the page image)"
+
+  - id: shortcut-accuracy-mixed
+    arm_ref: mixed
+    outcome:
+      construct: "Accuracy of the newly discovered route (shortcut)"
+      source_language: "% correct"
+      measure: "Percentage of trials classified as the shortcut strategy (time of 4 s or less, no overt computation, shortcut explanation) that were answered correctly"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over Sessions 1-7, first 10 inversion problems of each session"
+    result:
+      measure_type: other
+      estimate: 100
+      unit: "percent of the group's shortcut-strategy trials answered correctly"
+      descriptives: "Shortcut used on 16% of trials; overt behaviour on 0%; mean response time 3 s."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Over all shortcut trials of the study, not only the first uses. The
+      negation, unconscious shortcut and computation-shortcut strategies were
+      also 100% correct in this group.
+    source_quote: "Shortcut 16 100 0 3"
+    source_location: "Table 4, Mixed problems group (p. 383; read from the page image)"
+
+  - id: shortcut-accuracy-blocked
+    arm_ref: blocked
+    outcome:
+      construct: "Accuracy of the newly discovered route (shortcut)"
+      source_language: "% correct"
+      measure: "Percentage of trials classified as the shortcut strategy (time of 4 s or less, no overt computation, shortcut explanation) that were answered correctly"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over Sessions 1-7, first 10 inversion problems of each session"
+    result:
+      measure_type: other
+      estimate: 100
+      unit: "percent of the group's shortcut-strategy trials answered correctly"
+      descriptives: "Shortcut used on 35% of trials; overt behaviour on 0%; mean response time 2 s."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Over all shortcut trials of the study, not only the first uses. The
+      negation, unconscious shortcut and computation-shortcut strategies were
+      also 100% correct in this group.
+    source_quote: "Shortcut 35 100 0 2"
+    source_location: "Table 4, Blocked problems group (p. 383; read from the page image)"
+
+  - id: implicit-before-explicit-discovery
+    sample:
+      value: 31
+      unit: participants
+    arm_ref:
+      - blocked
+      - mixed
+    outcome:
+      construct: "Implicit strategy discovery preceding explicit report"
+      source_language: "generated the short solution times that defined implicit use of the shortcut strategy before they generated verbal explanations explicitly reporting use of the strategy"
+      measure: "Children whose first solution time of 4 s or less with a computational explanation (unconscious shortcut) came before their first shortcut explanation"
+      scale: "number of children"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Sessions 1-7, trial by trial"
+    result:
+      measure_type: count
+      estimate: 27
+      unit: "children of 31"
+      descriptives: "Blocked group: 14 of 16 used the unconscious shortcut before either strategy with a shortcut explanation, and 15 of 16 showed short times before verbal acknowledgment. Mixed group: 12 of 15."
+      interpretation: "Printed as 88% of the 31 children, both groups combined."
+    moderators:
+      reported:
+        - variable: "Problem presentation (blocked or mixed)"
+          relationship: "The gap between implicit and explicit discovery was shorter in the blocked group: 86% discovered both forms in the same session, against 8% in the mixed group."
+          source_quote: "As shown in Figure 4, 86% of children in the blocked problems condition discovered the unconscious and conscious forms of the shortcut strategy in the same session, versus 8% of children in the mixed problems condition."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "combining the blocked and mixed conditions, 27 of the 31 children (88%) generated the short solution times"
+    source_location: "Results, Conscious and unconscious discovery of the shortcut strategy (p. 386)"
+
+  - id: shortcut-use-next-trial-mixed
+    arm_ref: mixed
+    outcome:
+      construct: "Use of a newly discovered strategy at the next opportunity"
+      source_language: "It was used by 73% of children in the mixed problems condition on the trial immediately after they first used it"
+      measure: "Percentage of children using the shortcut strategy on the inversion trial after their first use of it, within the same session"
+      scale: "percent of children"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the trial immediately after first use of the shortcut, same session"
+    result:
+      measure_type: other
+      estimate: 73
+      unit: "percent of children"
+      descriptives: "By only about 50% of children on the next two trials."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Figure 5 covers the 13 children in the mixed group who discovered the
+      shortcut, but footnote 3 drops a child's later trials when they fall in
+      the next session, so the denominator on this trial is not printed and no
+      sample is recorded. Every first use came on the 5th inversion problem of
+      a session or later.
+    source_quote: "It was used by 73% of children in the mixed problems condition on the trial immediately after they first used it but by only about 50% of children on the next two trials."
+    source_location: "Results, Strategy use just before and just after discovery of the shortcut strategy (p. 388); Figure 5"
+
+  - id: shortcut-use-next-three-trials-blocked
+    arm_ref: blocked
+    outcome:
+      construct: "Use of a newly discovered strategy at the next opportunities"
+      source_language: "about 80% of them continued to use it on the next three trials"
+      measure: "Percentage of children using the shortcut strategy on the three inversion trials after their first use of it, within the same session"
+      scale: "percent of children"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the three trials after first use of the shortcut, same session"
+    result:
+      measure_type: other
+      estimate: 80
+      unit: "percent of children"
+      interpretation: "Printed as an approximation ('about 80%'), read by the authors from Figure 5; not an exact figure."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Figure 5 covers the 15 children in the blocked group who discovered the
+      shortcut; footnote 3 drops trials that fall in the next session, so the
+      denominator per trial is not printed.
+    source_quote: "After children in this condition first used the shortcut strategy, about 80% of them continued to use it on the next three trials."
+    source_location: "Results, Strategy use just before and just after discovery of the shortcut strategy (p. 387); Figure 5"
+
+  - id: shortcut-use-next-session-mixed
+    arm_ref: mixed
+    outcome:
+      construct: "Use of a newly discovered strategy in the following session"
+      source_language: "On none of the first six trials of that session did even 25% of children use the shortcut strategy"
+      measure: "Percentage of children using the shortcut strategy on each of the first six inversion trials of the session after the one in which they first used it"
+      scale: "percent of children, per trial"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first six trials of the next session"
+      offset:
+        value: 1
+        unit: weeks
+        from: "the session of first use of the shortcut"
+    result:
+      measure_type: other
+      bound:
+        operator: "<"
+        value: 25
+      unit: "percent of children, on each of the first six trials"
+      interpretation: "By the end of that session almost all of the mixed group were again using the shortcut. The blocked group's next-session values are shown only in Figure 6: on the first two problems most used computation, then the unconscious shortcut, then the shortcut became the most common."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A limit only; per-trial percentages appear only in Figure 6 and are not
+      read off the graph here.
+    source_quote: "On none of the first six trials of that session did even 25% of children use the shortcut strategy."
+    source_location: "Results, p. 388; Figure 6"
+
+not_yet_extracted:
+  - "Per-strategy use, overt behaviour and response times for negation, unconscious shortcut and computation-shortcut (Table 4); only the computation and shortcut rows are recorded."
+  - "Overall accuracy 90% of trials in both groups; mean solution time 8 s (blocked) against 10 s (mixed), t(29) = 3.90, p < .001."
+  - "Onset of shortcut use: 81% of the blocked group began in Session 2 and 13% in Session 3; 69% of the mixed group first used it in Session 4 and 23% in Session 5; only 1 mixed-group child (7%) used it on a majority of inversion problems in any session."
+  - "Continued unconscious shortcut use after first explicit report: 16% of trials (blocked), 7% (mixed); 26 of the 28 children who ever used the shortcut."
+  - "Gap between implicit and explicit discovery: an average of 4.24 trials for the blocked-group children who made both in one session; 80% of the blocked group reported the shortcut within five trials of first implicit use."
+  - "Transfer session (Table 5): shortcut used on 65% against 38% of applicable generalization trials and 66% against 28% of inapplicable ones (blocked against mixed)."
+  - "Number of strategies per session: two Group x Session ANOVAs (Figure 9)."
