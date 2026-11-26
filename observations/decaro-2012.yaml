@@ -1,0 +1,474 @@
+# DeCaro & Rittle-Johnson (2012): exploring mathematics problems prepares
+# children to learn from instruction.
+#
+# WHAT THIS FILE RECORDS, and why at this grain:
+#
+#   * The order contrast (solve-instruct against instruct-solve) on
+#     conceptual knowledge, from the 2 x 2 x 2 ANCOVA (partial eta squared
+#     .03, with the covariate-adjusted marginal means 67% vs 60%) and from
+#     the separate ANCOVA at each test occasion (.03 at posttest, .03 at the
+#     retention test).
+#   * The null order effect on procedural knowledge, which the source prints
+#     only as "Fs < 1": recorded as a bound on F, never as an estimate.
+#   * Table 2's observed cell means and SDs (percent correct) for conceptual
+#     knowledge at the retention test and procedural knowledge at posttest
+#     and retention test, one observation per cell (measure_type mean).
+#     These are unadjusted; the 67% and 60% are covariate-adjusted marginal
+#     means, and neither is computed from the other.
+#   * `population.age`: mean 8.5, range 7.3-10.8, as printed (no SD).
+#
+# Not recorded as a reliability observation: the conceptual-assessment
+# scoring agreement, printed as "kappas = 89–96%" over an unstated number of
+# explanation items. The schema needs the count a range is taken over and the
+# source does not print it; it is in `not_yet_extracted`.
+#
+# The order contrast is a main effect in a factorial design, so each side of
+# `order` names the two cells it averages over (extra practice and
+# self-explanation); that is the factorial structure, not a heterogeneous
+# comparator.
+#
+# Read from the authors' personal copy of the published article (Elsevier
+# layout). The text layer renders partial eta squared as "g2p"; the three
+# source_quotes that carry it were taken from the PDF page images (pp. 560,
+# 561) in the article's own words, with the symbol written "ηp2".
+
+schema_version: 2
+
+study:
+  key: decaro-2012
+  citation: "DeCaro, M. S., & Rittle-Johnson, B. (2012). Exploring mathematics problems prepares children to learn from instruction. Journal of Experimental Child Psychology, 113(4), 552–568."
+  doi: "10.1016/j.jecp.2012.06.009"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Randomised 2 (order: solve-instruct or instruct-solve) x 2 (explanation
+      condition: extra practice or self-explanation) between-subjects
+      experiment, one-to-one tutoring of about 45 minutes, with a pretest, an
+      immediate posttest and a retention test about 2 weeks later. Children
+      scoring below 80% on a pretest were randomly assigned to conditions.
+      Analysed by 2 x 2 x 2 (time within subjects) ANCOVAs with conceptual
+      and procedural pretest scores and age as covariates, and by separate
+      2 x 2 ANCOVAs at each test occasion.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: solve-before-instruct-better-conceptual-knowledge
+    bearing: supports
+    anchor: decaro-2012
+  - claim: procedural-knowledge-unaffected-by-order
+    bearing: supports
+    anchor: decaro-2012
+
+evidence_base:
+  unit: participants
+  size:
+    value: 159
+    unit: participants
+  additional_sizes:
+    - value: 229
+      unit: participants
+      note: "second- to fourth-grade students for whom consent was obtained and who took the screening pretest"
+    - value: 6
+      unit: participants
+      note: "absent on the day of the retention test (3.7% of the sample); their scores were replaced by EM multiple imputation"
+  population:
+    description: >-
+      Second- to fourth-grade students (77 second, 56 third, 26 fourth
+      graders; 56% girls) at one suburban US public school serving a
+      middle-class population, about 18% ethnic minorities. Selected because
+      they scored below 80% on a mathematical equivalence pretest; 5 selected
+      children were excluded. Their textbooks showed operations on both sides
+      of the equal sign in only 1 to 6% of instances.
+    age_or_stage: "Grades 2 to 4; average age 8.5 years (range = 7.3–10.8)"
+    age:
+      unit: years
+      min: 7.3
+      max: 10.8
+      mean: 8.5
+  context:
+    setting: >-
+      Written pretest in classrooms (30 min); one-on-one tutoring and
+      immediate posttest in one session of about 45 minutes at least a day
+      later, problems presented on a laptop (E-Prime 2.0) with scripted
+      instruction; written retention test in group sessions about 2 weeks
+      later.
+    materials: >-
+      Mathematical equivalence problems (e.g. 3 + 5 = 4 + h) with accuracy
+      feedback; brief scripted conceptual instruction on the relational
+      meaning of the equal sign, with no solution procedures discussed.
+  arms:
+    - id: is-ep
+      description: "Instruct-solve, extra practice: conceptual instruction first, then two sets of six equivalence problems with accuracy feedback."
+      size: {value: 38, unit: participants}
+    - id: is-se
+      description: "Instruct-solve, self-explanation: conceptual instruction first, then one set of six problems, each followed by prompts to explain a correct and an incorrect answer."
+      size: {value: 42, unit: participants}
+    - id: si-ep
+      description: "Solve-instruct, extra practice: two sets of six problems with accuracy feedback before any instruction (exploration), then conceptual instruction."
+      size: {value: 40, unit: participants}
+    - id: si-se
+      description: "Solve-instruct, self-explanation: one set of six problems with self-explanation prompts before any instruction, then conceptual instruction."
+      size: {value: 39, unit: participants}
+
+comparisons:
+  - id: order
+    kind: between-groups
+    index_arm: [si-ep, si-se]
+    reference_arm: [is-ep, is-se]
+    description: >-
+      Main effect of order in the 2 x 2 design: solving problems before
+      instruction against instruction before solving, averaged over the
+      explanation condition.
+
+observations:
+
+  - id: conceptual-order-main-effect
+    sample: {value: 159, unit: participants}
+    comparison_ref: order
+    outcome: &conceptual
+      construct: "Conceptual knowledge of mathematical equivalence"
+      source_language: "conceptual knowledge"
+      measure: >-
+        10-point conceptual knowledge scale (meaning of the equal sign and
+        structure of equations, in formats not practised in the
+        intervention), Form 2 at posttest and retention test
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest and retention test combined (time as a within-subjects factor)"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.03
+      statistic: "F(1, 152) = 5.07"
+      p_value: "= .026"
+      descriptives: "solve-instruct M = 67%, SE = 2; instruct-solve M = 60%, SE = 2 (estimated marginal means, adjusted for the covariates)"
+      model: "2 (order) x 2 (explanation condition) x 2 (time) ANCOVA; covariates conceptual and procedural pretest scores and age at pretest"
+    moderators:
+      reported:
+        - variable: "Explanation condition (self-explanation vs extra practice)"
+          relationship: "No main effect and no interaction with order on conceptual knowledge"
+          source_quote: "indicating that self-explanation did not help children’s conceptual knowledge beyond additional problem-solving practice alone for either instructional order (see Table 2)."
+      candidate: []
+    observability: &obs_effect
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The quote's effect size was read from the PDF page image (p. 560); the
+      text layer renders it "g2p = .03". The adjusted means come from the
+      sentence that follows in the article: "children given the
+      solve–instruct order scored higher on the conceptual knowledge measure
+      (M = 67%, SE = 2) than children given the instruct–solve order (M = 60%,
+      SE = 2)."
+    source_quote: "A main effect of order was found for conceptual knowledge, F(1, 152) = 5.07, p = .026, ηp2 = .03."
+    source_location: "Results, Posttest and retention test, Conceptual knowledge (p. 560)"
+
+  - id: conceptual-order-posttest
+    sample: {value: 159, unit: participants}
+    comparison_ref: order
+    outcome: *conceptual
+    time:
+      label: "immediate posttest, same session as the intervention"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.03
+      statistic: "F(1, 152) = 4.39"
+      p_value: "= .038"
+      model: "Explanation condition x order ANCOVA at the posttest, same covariates"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: &pageimg561 >-
+      Quote taken from the PDF page image (p. 561), in the article's words;
+      the text layer renders partial eta squared as "g2p".
+    source_quote: &occasion "At both posttest and retention test, there was a main effect of order, F(1, 152) = 4.39, p = .038, ηp2 = .03, and F(1, 152) = 3.97, p = .048, ηp2 = .03, respectively."
+    source_location: "Results, Posttest and retention test, Conceptual knowledge (p. 561)"
+
+  - id: conceptual-order-retention
+    sample: {value: 159, unit: participants}
+    comparison_ref: order
+    outcome: *conceptual
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+      offset: {value: 2, unit: weeks, from: "tutoring intervention (approximate)"}
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.03
+      statistic: "F(1, 152) = 3.97"
+      p_value: "= .048"
+      model: "Explanation condition x order ANCOVA at the retention test, same covariates; 6 absent children's scores imputed"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *pageimg561
+    source_quote: *occasion
+    source_location: "Results, Posttest and retention test, Conceptual knowledge (p. 561)"
+
+  - id: procedural-order-null
+    sample: {value: 159, unit: participants}
+    comparison_ref: order
+    outcome: &procedural
+      construct: "Procedural knowledge of mathematical equivalence"
+      source_language: "procedural knowledge"
+      measure: >-
+        10-point procedural scale: eight equivalence problems with operations
+        on both sides of the equal sign and two easier nonstandard problems,
+        similar to the intervention problems; an answer within 1 of the
+        correct answer scored correct
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest and retention test combined (time as a within-subjects factor)"
+    result:
+      measure_type: other
+      bound: {operator: "<", value: 1}
+      statistic: "F for the main effect of order (and of explanation condition, and every interaction), printed only as Fs < 1"
+      model: "2 (order) x 2 (explanation condition) x 2 (time) ANCOVA; covariates conceptual and procedural pretest scores and age at pretest"
+      interpretation: "No effect of order on procedural knowledge; the bound is on the F statistic, not on an effect size."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No effect size is printed for the null; only the bound on F. The
+      per-cell means for each occasion are recorded separately from Table 2.
+    source_quote: "However, there were no effects of order or explanation condition or any interactions (Fs < 1)."
+    source_location: "Results, Posttest and retention test, Procedural knowledge (p. 560)"
+
+  - id: mean-conceptual-retention-is-ep
+    arm_ref: is-ep
+    outcome: *conceptual
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 62
+      sd: 26
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, extra practice, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &table2 >-
+      A single cell's observed mean and SD from Table 2, so effect_size is
+      `unreported`. Six children absent at the retention test had their
+      scores imputed (EM algorithm); the table does not say whether its
+      retention means include the imputed values. The text layer reads Table 2 column by column (each condition's
+      posttest then retention value); the quote is verbatim from that layer
+      and the cell positions were checked against the PDF page image (p. 560).
+    source_quote: &qconceptual "Conceptual knowledge Posttest Retention test 59 (28) 62 (26) 60 (23) 63 (21) 64 (22) 65 (22) 64 (24) 69 (21)"
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-conceptual-retention-is-se
+    arm_ref: is-se
+    outcome: *conceptual
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 63
+      sd: 21
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, self-explanation, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qconceptual
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-conceptual-retention-si-ep
+    arm_ref: si-ep
+    outcome: *conceptual
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 65
+      sd: 22
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, extra practice, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qconceptual
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-conceptual-retention-si-se
+    arm_ref: si-se
+    outcome: *conceptual
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 69
+      sd: 21
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, self-explanation, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qconceptual
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-posttest-is-ep
+    arm_ref: is-ep
+    outcome: *procedural
+    time:
+      label: "immediate posttest, same session as the intervention"
+    result:
+      measure_type: mean
+      estimate: 74
+      sd: 33
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, extra practice, posttest)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: &qprocedural "Procedural knowledge Posttest Retention test 74 (33) 76 (31) 73 (30) 76 (28) 70 (27) 75 (27) 69 (32) 78 (28)"
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-posttest-is-se
+    arm_ref: is-se
+    outcome: *procedural
+    time:
+      label: "immediate posttest, same session as the intervention"
+    result:
+      measure_type: mean
+      estimate: 73
+      sd: 30
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, self-explanation, posttest)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-posttest-si-ep
+    arm_ref: si-ep
+    outcome: *procedural
+    time:
+      label: "immediate posttest, same session as the intervention"
+    result:
+      measure_type: mean
+      estimate: 70
+      sd: 27
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, extra practice, posttest)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-posttest-si-se
+    arm_ref: si-se
+    outcome: *procedural
+    time:
+      label: "immediate posttest, same session as the intervention"
+    result:
+      measure_type: mean
+      estimate: 69
+      sd: 32
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, self-explanation, posttest)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-retention-is-ep
+    arm_ref: is-ep
+    outcome: *procedural
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 76
+      sd: 31
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, extra practice, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-retention-is-se
+    arm_ref: is-se
+    outcome: *procedural
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 76
+      sd: 28
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (instruct-solve, self-explanation, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-retention-si-ep
+    arm_ref: si-ep
+    outcome: *procedural
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 75
+      sd: 27
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, extra practice, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+  - id: mean-procedural-retention-si-se
+    arm_ref: si-se
+    outcome: *procedural
+    time:
+      label: "retention test, about 2 weeks after the intervention"
+    result:
+      measure_type: mean
+      estimate: 78
+      sd: 28
+      unit: "percent correct"
+      note: "Observed cell mean, not covariate-adjusted (solve-instruct, self-explanation, retention)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *table2
+    source_quote: *qprocedural
+    source_location: "Table 2 (p. 560)"
+
+
+not_yet_extracted:
+  - "Conceptual knowledge posttest cell means (Table 2): 59 (28), 60 (23), 64 (22), 64 (24) for instruct-solve extra practice, instruct-solve self-explain, solve-instruct extra practice, solve-instruct self-explain."
+  - "Scoring agreement on the conceptual items requiring an explanation, 'kappas = 89–96%', two raters blind to condition on 20% of those items; not recorded because the number of items the range spans is not printed. Strategy-report coding kappa = 80%; self-explanation coding kappa = 89%."
+  - "Time effects: procedural knowledge 72% to 76% (F(1, 152) = 3.07, p = .082, partial eta squared .02); conceptual knowledge 62% to 65% (F(1, 152) = 8.75, p = .004, partial eta squared .05)."
+  - "Pretest: procedural M = 47% (SD = 27), conceptual M = 36% (SD = 19)."
+  - "Intervention process measures: midtest relational definition 58% vs 20% (chi-square 23.18); midtest encoding 54% vs 44% (F = 4.16, partial eta squared .03); intervention accuracy 52% vs 65% (F = 6.36, partial eta squared .04); strategy use (Table 3), number of incorrect strategies 0.74 vs 0.47; subjective ratings (Table 4) and their correlations with conceptual knowledge."
+  - "Far transfer at retention (seven items): accuracy 'quite low', no differences across conditions; no figures printed."

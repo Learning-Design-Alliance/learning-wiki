@@ -1,0 +1,348 @@
+# Cepeda, Vul, Rohrer, Wixted & Pashler (2008): spacing effects in learning,
+# a temporal ridgeline of optimal retention.
+#
+# WHAT THIS FILE RECORDS, and why at this grain:
+#
+#   * The optimal-gap versus zero-day-gap contrast for final RECALL, overall
+#     (d = 1.1, a 64% increase) and at each of the four retention intervals
+#     (7, 35, 70, 350 days), with the printed t, d and percentage improvement.
+#     Each RI's optimal gap is a named arm, so "the optimal gap for recall was
+#     1, 11, 21 and 21 days" is carried by the arm ids themselves.
+#   * The authors' own fitted retention surface (R2 = .98) and its printed
+#     parameters, and the ridgeline optimum it gives for RI = 350 (23 days,
+#     7% of the RI). These are the paper's published fitted figures.
+#   * `population.age`: mean 34, SD 11, range 18-72, as printed.
+#   * No reliability coefficient: recall answers are single words scored
+#     right or wrong and the article prints no scoring agreement.
+#   * No single-group means: Figure 3 shows the cell means only as a plot,
+#     and none is read off the figure here.
+#
+# Arm sizes are Table 1's "Number of Subjects in Each Experimental
+# Condition". No per-observation `sample` is recorded: the paper prints the
+# cell sizes and the t degrees of freedom, and adding cells together would be
+# a figure the source does not print.
+#
+# Read from the eScholarship copy (UC San Diego), the authors' in-press
+# manuscript, which says it "may differ from the final published version".
+# The formulas and parameter values were checked against the PDF page image
+# (manuscript p. 5), because the text layer places the formulas out of order;
+# the quotes below are verbatim from the text layer.
+
+schema_version: 2
+
+study:
+  key: cepeda-2008
+  citation: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. Psychological Science, 19(11), 1095–1102."
+  doi: "10.1111/j.1467-9280.2008.02209.x"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Internet experiment with a between-subjects design: each subject was
+      randomly assigned to one of 26 gap-by-retention-interval combinations
+      (6 or 7 gaps from 0 to 105 days at each of four retention intervals,
+      7, 35, 70 and 350 days). Session 1: 32 obscure trivia facts learned to a
+      criterion of one correct recall each, with feedback. Session 2, after
+      the gap: the whole list run through twice with the correct answer shown
+      after each item (a fixed number of restudy trials). Final session,
+      after the retention interval: a recall test then a five-alternative
+      recognition test, no feedback. Optimal-gap versus zero-gap contrasts by
+      t test at each retention interval. Data reported only for subjects who
+      completed all three sessions.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: nonmonotonic-gap-effect-long-retention-intervals
+    bearing: supports
+    anchor: cepeda-et-al-2008
+  - claim: percentage-improvements-optimal-gap-by-ri
+    bearing: supports
+    anchor: cepeda-et-al-2008
+  - claim: optimal-gap-rises-with-retention-interval-ratio-declines
+    bearing: supports
+    anchor: cepeda-et-al-2008
+  - claim: spaced-practice-improves-retention
+    bearing: supports
+    anchor: cepeda-et-al-2008
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1354
+    unit: participants
+  additional_sizes:
+    - value: 26
+      unit: other
+      note: "gap-by-retention-interval conditions, one per subject"
+    - value: 32
+      unit: items
+      note: "trivia facts studied and tested; items a subject answered correctly on first presentation were excluded for that subject"
+  population:
+    description: >-
+      Members of the laboratory's online Internet Memory Research panel,
+      of various ages and living in a wide variety of countries; 72% female.
+      Entered into cash-prize drawings for participating. Non-completion rose
+      at the longer delays; completers did not differ detectably from
+      non-completers in initial test performance, age, gender or prior
+      knowledge of the facts.
+    age_or_stage: "Adults; mean age 34 years (SD = 11; range = 18 – 72)"
+    age:
+      unit: years
+      min: 18
+      max: 72
+      mean: 34
+      sd: 11
+  context:
+    setting: "Online, web-based experiment run from any standard browser; three sessions per subject, scheduled by email"
+    materials: "32 obscure but true trivia facts, each answer a single word of 5 or 6 letters"
+  variation:
+    - dimension: "Gap between session 1 and session 2"
+      distribution: "0 (about 3 min), 1, 2, 4, 7, 11, 14, 21, 35, 70 or 105 days, 6 or 7 gaps per retention interval"
+    - dimension: "Retention interval from session 2 to the final test"
+      distribution: "7, 35, 70 or 350 days"
+  arms:
+    - id: ri7-gap0
+      description: "Retention interval 7 days, zero-day gap (session 2 began about 3 min after session 1)."
+      size: {value: 60, unit: participants}
+    - id: ri7-gap1
+      description: "Retention interval 7 days, 1-day gap: the optimal recall gap of those tested at this RI."
+      size: {value: 66, unit: participants}
+    - id: ri35-gap0
+      description: "Retention interval 35 days, zero-day gap."
+      size: {value: 72, unit: participants}
+    - id: ri35-gap11
+      description: "Retention interval 35 days, 11-day gap: the optimal recall gap of those tested at this RI."
+      size: {value: 41, unit: participants}
+    - id: ri70-gap0
+      description: "Retention interval 70 days, zero-day gap."
+      size: {value: 55, unit: participants}
+    - id: ri70-gap21
+      description: "Retention interval 70 days, 21-day gap: the optimal recall gap of those tested at this RI."
+      size: {value: 49, unit: participants}
+    - id: ri350-gap0
+      description: "Retention interval 350 days, zero-day gap."
+      size: {value: 45, unit: participants}
+    - id: ri350-gap21
+      description: "Retention interval 350 days, 21-day gap: the optimal recall gap of those tested at this RI."
+      size: {value: 25, unit: participants}
+
+comparisons:
+  - id: optimal-vs-zero-gap-overall
+    kind: between-groups
+    index_arm: [ri7-gap1, ri35-gap11, ri70-gap21, ri350-gap21]
+    reference_arm: [ri7-gap0, ri35-gap0, ri70-gap0, ri350-gap0]
+    description: >-
+      The optimal gap against a zero-day gap, as the source reports it in one
+      figure across the four retention intervals. The source does not say how
+      the four RIs were combined.
+  - id: optimal-vs-zero-gap-ri7
+    kind: between-groups
+    index_arm: ri7-gap1
+    reference_arm: ri7-gap0
+    description: "Optimal (1-day) versus zero-day gap at a 7-day retention interval."
+  - id: optimal-vs-zero-gap-ri35
+    kind: between-groups
+    index_arm: ri35-gap11
+    reference_arm: ri35-gap0
+    description: "Optimal (11-day) versus zero-day gap at a 35-day retention interval."
+  - id: optimal-vs-zero-gap-ri70
+    kind: between-groups
+    index_arm: ri70-gap21
+    reference_arm: ri70-gap0
+    description: "Optimal (21-day) versus zero-day gap at a 70-day retention interval."
+  - id: optimal-vs-zero-gap-ri350
+    kind: between-groups
+    index_arm: ri350-gap21
+    reference_arm: ri350-gap0
+    description: "Optimal (21-day) versus zero-day gap at a 350-day retention interval."
+  - id: retention-surface
+    kind: none
+    description: "A function of gap and retention interval fitted by the authors to final recall across all 26 conditions; no contrast between arms."
+
+observations:
+
+  - id: recall-optimal-vs-zero-overall
+    comparison_ref: optimal-vs-zero-gap-overall
+    outcome: &recall
+      construct: "Cued recall of studied facts"
+      source_language: "final recall"
+      measure: "Final recall test on all 32 facts (e.g. 'Who invented snow golf?'), no feedback, items known before the study excluded per subject"
+      scale: "proportion of facts recalled"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention intervals of 7, 35, 70 and 350 days after session 2"
+    result:
+      measure_type: cohens_d
+      estimate: 1.1
+      descriptives: "a 64% increase in final recall at the optimal gap compared with a zero-day gap"
+      interpretation: >-
+        Study time was fixed across conditions. The comparison arm is the
+        best of the tested gaps at each RI, chosen after the data were in.
+      note: "The source does not say how d was computed or which SD forms its denominator."
+    moderators:
+      reported:
+        - variable: "Retention interval"
+          relationship: "The optimal gap rose with the retention interval: 1, 11, 21 and 21 days for recall at RIs of 7, 35, 70 and 350 days"
+          source_quote: "For the RIs of 7, 35, 70, and 350 days, the optimal gaps (of those included in the study) were 1, 11, 21, and 21 days, respectively, for recall data, and 1, 7, 7, and 21 days, respectively, for recognition data."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      How the four retention intervals were combined into one d is not
+      stated. The optimal gap is the best of the gaps tested, so the contrast
+      is chosen post hoc.
+    source_quote: "For a fixed amount of study time, the optimal gap provided a 64% increase, d = 1.1, in final recall, and a 26% increase, d = 1.5, in final recognition, as compared to a zero-day gap"
+    source_location: "Results (manuscript p. 4)"
+
+  - id: recall-optimal-vs-zero-ri7
+    comparison_ref: optimal-vs-zero-gap-ri7
+    outcome: *recall
+    time:
+      label: "7 days after session 2"
+      offset: {value: 7, unit: days, from: "second learning session"}
+    result:
+      measure_type: cohens_d
+      estimate: 1.3
+      statistic: "t(124) = 6.5, prep = .99"
+      descriptives: "percentage improvement in recall, optimal versus zero-day gap: 10%"
+    moderators: {reported: [], candidate: []}
+    observability: &obs
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: &perri "For 7, 35, 70, and 350 day RIs, percentage improvements in recall for optimal versus zeroday gaps were 10, 59, 111, and 77%—t(124) = 6.5, prep = .99, d = 1.3; t(111) = 8.9, prep = .99, d = 0.6; t(102) = 8.6, prep = .99, d = 1.7; t(68) = 3.9, prep = .99, d = 0.9, respectively."
+    source_location: "Results (manuscript p. 4)"
+
+  - id: recall-optimal-vs-zero-ri35
+    comparison_ref: optimal-vs-zero-gap-ri35
+    outcome: *recall
+    time:
+      label: "35 days after session 2"
+      offset: {value: 35, unit: days, from: "second learning session"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.6
+      statistic: "t(111) = 8.9, prep = .99"
+      descriptives: "percentage improvement in recall, optimal versus zero-day gap: 59%"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    observability_notes: >-
+      Recorded as printed. The printed d (0.6) looks small beside the printed
+      t(111) = 8.9 and the cell sizes in Table 1, where the other three RIs'
+      d and t agree with each other; this in-press copy may differ from the
+      published article, which was not read. Nothing here is recomputed.
+    source_quote: *perri
+    source_location: "Results (manuscript p. 4)"
+
+  - id: recall-optimal-vs-zero-ri70
+    comparison_ref: optimal-vs-zero-gap-ri70
+    outcome: *recall
+    time:
+      label: "70 days after session 2"
+      offset: {value: 70, unit: days, from: "second learning session"}
+    result:
+      measure_type: cohens_d
+      estimate: 1.7
+      statistic: "t(102) = 8.6, prep = .99"
+      descriptives: "percentage improvement in recall, optimal versus zero-day gap: 111%"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: *perri
+    source_location: "Results (manuscript p. 4)"
+
+  - id: recall-optimal-vs-zero-ri350
+    comparison_ref: optimal-vs-zero-gap-ri350
+    outcome: *recall
+    time:
+      label: "350 days after session 2"
+      offset: {value: 350, unit: days, from: "second learning session"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.9
+      statistic: "t(68) = 3.9, prep = .99"
+      descriptives: "percentage improvement in recall, optimal versus zero-day gap: 77%"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: *perri
+    source_location: "Results (manuscript p. 4)"
+
+  # The authors' own fitted surface, recorded because a published paper's
+  # fitted estimates are its figures. Not a measurement of any one arm.
+  - id: retention-surface-fit
+    comparison_ref: retention-surface
+    outcome: *recall
+    time:
+      label: "retention intervals of 7, 35, 70 and 350 days after session 2"
+    result:
+      measure_type: other
+      estimate: 0.98
+      statistic: "R2 of the fitted retention surface"
+      model: >-
+        Recall = A (bt + 1)^-R, with A = p + (1 - p) e^(-a g) and
+        R = 1 + c (ln(g + 1) - d)^2, where t is the retention interval and g
+        the gap in days. Printed parameter values: p = 0.760, a = 0.017,
+        b = 0.011, c = 0.092, d = 3.453. The authors say other functions fit
+        "quite decent" too and do not claim this one is uniquely accurate.
+      note: "Parameter sentence, verbatim: \"(The surface in Figure 4 has the following parameter values: p = 0.760, a = 0.017, b = 0.011, c = 0.092, and d = 3.453.)\""
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a goodness of fit is not an effect.
+      The formulas were read from the PDF page image (manuscript p. 5); in the
+      text layer they appear out of order.
+    source_quote: "One such function that provides a good fit to our data (R2 = .98) is shown in Figure 4, and this function satisfies four constraints conveyed by our data."
+    source_location: "Discussion (manuscript p. 5)"
+
+  - id: ridgeline-optimal-gap-ri350
+    comparison_ref: retention-surface
+    outcome:
+      construct: "Optimal gap between study sessions"
+      source_language: "the optimal gap for RI = 350"
+      measure: "Gap maximising recall on the fitted retention surface (Figure 4) at a 350-day retention interval"
+      scale: "days"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "350 days after session 2"
+      offset: {value: 350, unit: days, from: "second learning session"}
+    result:
+      measure_type: other
+      estimate: 23
+      unit: "days"
+      interpretation: "7% of the retention interval, by the source's own statement; the best tested gap at this RI was 21 days."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A location on the fitted surface, not a measured cell."
+    source_quote: "In Figure 4, for example, the optimal gap for RI = 350 equals 23 days, which is just 7% of the RI."
+    source_location: "Discussion (manuscript p. 5)"
+
+not_yet_extracted:
+  - "Recognition-test contrasts (optimal versus zero-day gap): overall 26%, d = 1.5; per RI 1, 10, 31 and 60% with t and d (d = 0.7, 1.5, 1.7, 2.1); optimal recognition gaps 1, 7, 7 and 21 days."
+  - "Abstract's summary that the optimal gap was about 20% of the test delay for delays of a few weeks, falling to about 5% at one year."
+  - "Cell means for all 26 conditions, shown only in Figure 3 (not read off the figure)."
+  - "Appendix: average final-test performance 41% here against 45% in the laboratory benchmark study at comparable gap and RI; 2.6% of subjects scoring 85% or better against 2.1% in the lab."
+  - "Session 1 took 61 to 96 questions per subject to reach criterion."
