@@ -1,0 +1,621 @@
+# Fuchs, Powell, Seethaler, Cirino, Fletcher, Fuchs, Hamlett & Zumeta (2009):
+# number-combination (Math Flash) and word-problem (Pirate Math) tutoring for
+# third graders with mathematics difficulty, a three-arm randomised trial.
+#
+# What is recorded: the Table 5 effect sizes for number-combination tutoring
+# against control on its own outcome (number combinations), on procedural
+# calculations (the near-transfer contrast), and on each of the five
+# word-problem measures (the far-transfer contrasts), plus word-problem
+# tutoring against control on procedural calculations. Each Table 5 cell is
+# one observation, because that is the grain the source reports; nothing is
+# averaged across the five word-problem measures.
+#
+# Effect sizes are what the authors call Cohen's d: unadjusted posttest means
+# over the pooled SD of the two groups compared (Table 5 note), with the
+# printed confidence intervals. They are NOT the pretest-adjusted ANCOVA
+# contrasts whose p values the text reports beside them.
+#
+# Reliability: the article prints scorer agreement and alpha computed on this
+# sample for the four number-combination subtests and the two procedural
+# calculation measures, which make up the two factor scores. Figures it takes
+# from test manuals or other samples (WRAT, WASI, KeyMath split-half, Iowa
+# KR-20, the word-problem screener's .83) are not recorded as this study's.
+#
+# Read from the PMC author manuscript (PMC2768320), text layer; the tables
+# came out cleanly as tab-separated rows.
+
+schema_version: 2
+
+study:
+  key: fuchs-2009
+  citation: "Fuchs, L. S., Powell, S. R., Seethaler, P. M., Cirino, P. T., Fletcher, J. M., Fuchs, D., Hamlett, C. L., & Zumeta, R. O. (2009). Remediating number combination and word problem deficits among students with mathematics difficulties: A randomized control trial. Journal of Educational Psychology, 101(3), 561–576."
+  doi: "10.1037/a0014701"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Individually randomised field trial at two sites (Houston, Nashville).
+      Students were blocked on site, type of screening difficulty (word
+      problems, calculations or both) and difficulty status (mathematics
+      difficulty alone, MD, or with reading difficulty, MDRD) and randomly
+      assigned to number-combination tutoring, word-problem tutoring or a
+      no-tutoring control. Primary analysis three-way ANCOVA (treatment x
+      difficulty status x site, pretest covariate) with interactions trimmed
+      top-down. Effect sizes from unadjusted posttest means and pooled SDs.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: nc-and-wp-tutoring-improve-nc-fluency
+    bearing: supports
+    anchor: fuchs-2009
+  - claim: tutoring-improves-procedural-calculation
+    bearing: supports
+    anchor: fuchs-2009
+  - claim: tutoring-improves-procedural-calculation
+    bearing: supports
+    anchor: fuchs-2009-2
+  - claim: pirate-math-improves-word-problems-and-foundational-skills
+    bearing: supports
+    anchor: fuchs-2009
+
+evidence_base:
+  unit: participants
+  size:
+    value: 133
+    unit: participants
+  additional_sizes:
+    - value: 924
+      unit: participants
+      note: "third graders screened, in 63 classrooms of 18 schools"
+    - value: 162
+      unit: participants
+      note: "randomly assigned; 29 moved or were withdrawn before or during tutoring, leaving 133 evaluated at posttest"
+    - value: 18
+      unit: schools
+      note: "schools in which students were screened (7 Houston, 11 Nashville); not a unit of assignment"
+  population:
+    description: >-
+      Third graders with mathematics difficulty (below the 26th percentile on
+      WRAT-3 Arithmetic, or 0-1 on a five-item word-problem screener) in two
+      large urban districts. 73 (55%) MD and 60 (45%) MDRD; 67 in Houston, 66
+      in Nashville. 55% boys, 78% eligible for subsidised lunch, 16% English
+      learners, 17% special education, 27% retained; 63% African American,
+      23% Hispanic, 9% Caucasian, 2% Asian.
+    age_or_stage: "Grade 3"
+    age:
+      unit: years
+      mean: 8.94
+      sd: 0.54
+      note: "the evaluated sample of 133"
+  context:
+    setting: >-
+      Tutoring during the school day outside the classroom, often in the
+      library, never during reading or mathematics instruction, so it was
+      layered on the classroom programme (Houghton Mifflin Math in Nashville;
+      school-chosen programmes under a district planning guide in Houston).
+      Tutors were employees of the research grant.
+  arms:
+    - id: nc-tutoring
+      description: >-
+        Math Flash number-combination tutoring: counting strategies (min
+        strategy, missing-addend subtraction), conceptual lessons and
+        computerised and flash-card practice on the 200 number combinations
+        with addends and subtrahends 0-9, with mastery criteria and a
+        reinforcement programme.
+      size:
+        value: 44
+        unit: participants
+      dose:
+        amount: 48
+        unit: sessions
+        detail: "16 weeks, 3 sessions a week, 20-30 min a session; total minutes averaged 1,032 (Nashville) and 1,155 (Houston)"
+      delivery:
+        role: add-on
+        basis: stated
+      implementation_notes:
+        - "Fidelity: 98.1% (Nashville) and 99.5% (Houston) of essential lesson points addressed, from 16.8% of audiotaped sessions"
+    - id: wp-tutoring
+      description: >-
+        Pirate Math word-problem tutoring: an introductory unit on foundational
+        skills (the counting-up strategy for number combinations, double-digit
+        addition and subtraction, solving for X, checking work), then
+        schema-broadening instruction on Total, Difference and Change problems
+        with explicit instruction on transfer features; each session opens
+        with the same flash-card warm-up as Math Flash and ends with 2 min of
+        paper-and-pencil review including calculation items.
+      size:
+        value: 42
+        unit: participants
+      dose:
+        amount: 48
+        unit: sessions
+        detail: "16 weeks, 3 sessions a week, 20-30 min a session; total minutes averaged 997 (Nashville) and 1,158 (Houston)"
+      delivery:
+        role: add-on
+        basis: stated
+      implementation_notes:
+        - "Fidelity: 98.4% (Nashville) and 99.2% (Houston) of essential lesson points addressed"
+        - "Number-combination counting strategy taught in a single lesson, then practised in the 2-min warm-up, the 2-min review and within word problems"
+    - id: control
+      description: "No tutoring; the classroom mathematics programme only."
+      size:
+        value: 47
+        unit: participants
+
+comparisons:
+  - id: nc-vs-control
+    kind: between-groups
+    index_arm: nc-tutoring
+    reference_arm: control
+    description: "Number-combination tutoring against no tutoring, at posttest."
+  - id: wp-vs-control
+    kind: between-groups
+    index_arm: wp-tutoring
+    reference_arm: control
+    description: "Word-problem tutoring against no tutoring, at posttest."
+  - id: whole-sample
+    kind: none
+    description: "Scale properties in the study sample; no contrast between arms."
+
+observations:
+
+  - id: nc-vs-control-number-combinations
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Number-combination fluency"
+      source_language: "Number combinations"
+      measure: "Factor score (M = 0, SD = 1) from four Grade 3 Math Battery subtests: Addition and Subtraction Fact Fluency 0-12 and 0-18, 25 items each, 1 min"
+      scale: "factor score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+      offset:
+        value: 16
+        unit: weeks
+        from: "start of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.55
+      ci_lower: 0.14
+      ci_upper: 0.97
+      interval_type: confidence
+      p_value: "< .0002 (ANCOVA follow-up comparison on adjusted means)"
+      descriptives: "Posttest M (SD): NC tutoring 0.19 (1.10), control -0.36 (0.86) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD of the two groups; significance from the three-way ANCOVA with pretest covariate"
+    moderators:
+      reported:
+        - variable: "Difficulty status (MD vs MDRD)"
+          relationship: "No treatment x difficulty status interaction"
+          source_quote: "For NCs, there were no interactions among the three factors or with pretest, including the interaction between difficulty status and treatment."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Sample is the sum of the two arms' sizes in Tables 4 and 5's headers;
+      the article does not print an analysed n per contrast.
+    source_quote: "Number combinations +0.62 (0.19 to 1.04) +0.01 (−0.41 to 0.43) +0.55 (0.14 to 0.97) +0.43 (0.08 to 0.77)"
+    source_location: "Table 5, Number combinations row, NCs vs. Control column"
+
+  - id: nc-vs-control-procedural-calculations
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Procedural calculation (near transfer from number-combination tutoring)"
+      source_language: "Procedural calculations"
+      measure: "Factor score from Double-Digit Mixed Addition and Subtraction (20 items, 5 min) and Curriculum-Based Measurement-Computation (25 items, 3 min); not taught in NC tutoring"
+      scale: "factor score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+      offset:
+        value: 16
+        unit: weeks
+        from: "start of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.27
+      ci_lower: -0.15
+      ci_upper: 0.68
+      interval_type: confidence
+      p_value: "< .007 (ANCOVA follow-up comparison on adjusted means)"
+      descriptives: "Posttest M (SD): NC tutoring 0.01 (0.89), control -0.26 (1.11) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD; significance from the three-way ANCOVA with pretest covariate"
+      interpretation: >-
+        The authors read this as transfer from NC remediation to procedural
+        calculation. The printed CI for d includes zero while the
+        pretest-adjusted comparison is significant; both are as printed.
+    moderators:
+      reported:
+        - variable: "Difficulty status (MD vs MDRD)"
+          relationship: "No treatment x difficulty status interaction"
+          source_quote: "For Procedural Calculations, there were no interactions among the three factors or with pretest, including the interaction of difficulty status and treatment."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Procedural calculations +0.53 (0.11 to 0.96) +0.31 (−0.12 to 0.73) +0.27 (−0.15 to 0.68) +0.31 (−0.03 to 0.65)"
+    source_location: "Table 5, Procedural calculations row, NCs vs. Control column"
+
+  - id: wp-vs-control-procedural-calculations
+    sample:
+      value: 89
+      unit: participants
+    comparison_ref: wp-vs-control
+    outcome:
+      construct: "Procedural calculation"
+      source_language: "Procedural calculations"
+      measure: "Factor score from Double-Digit Mixed Addition and Subtraction and Curriculum-Based Measurement-Computation; taught in one introductory WP-tutoring lesson and practised in each session's review"
+      scale: "factor score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+      offset:
+        value: 16
+        unit: weeks
+        from: "start of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.53
+      ci_lower: 0.11
+      ci_upper: 0.96
+      interval_type: confidence
+      p_value: "< .0001 (ANCOVA follow-up comparison on adjusted means)"
+      descriptives: "Posttest M (SD): WP tutoring 0.29 (0.92), control -0.26 (1.11) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD; significance from the three-way ANCOVA with pretest covariate"
+      interpretation: "WP vs NC tutoring on this outcome: d = +0.31 (-0.12 to 0.73), not significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Procedural calculations +0.53 (0.11 to 0.96) +0.31 (−0.12 to 0.73) +0.27 (−0.15 to 0.68) +0.31 (−0.03 to 0.65)"
+    source_location: "Table 5, Procedural calculations row, WPs vs. Control column"
+
+  - id: nc-vs-control-find-x
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Algebra skill for word problems (far transfer from number-combination tutoring)"
+      source_language: "Find X"
+      measure: "Solving algebraic equations (a + b = c or d - e = f) with X in any position, constructed response"
+      scale: "z score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.11
+      ci_lower: -0.30
+      ci_upper: 0.52
+      interval_type: confidence
+      descriptives: "Posttest M (SD): NC tutoring -0.03 (1.01), control -0.15 (1.10) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD"
+      interpretation: "NC tutoring did not differ from control or from WP tutoring in the ANCOVA follow-ups"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Find X +0.36 (−0.06 to 0.78) +0.26 (−0.17 to 0.68) +0.11 (−0.30 to 0.52) +0.69 (0.34 to 1.04)"
+    source_location: "Table 5, Find X row, NCs vs. Control column"
+
+  - id: nc-vs-control-number-sentences
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Writing equations for word problems (far transfer from number-combination tutoring)"
+      source_language: "Number Sentences"
+      measure: "Eight word problems read aloud; students write the algebraic equation for each without solving it"
+      scale: "z score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.01
+      ci_lower: -0.40
+      ci_upper: 0.41
+      interval_type: confidence
+      descriptives: "Posttest M (SD): NC tutoring -0.23 (0.83), control -0.24 (0.84) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Number Sentences +0.74 (0.31 to 1.18) +0.73 (0.30 to 1.17) +0.01 (−0.40 to 0.41) +0.46 (0.11 to 1.04)"
+    source_location: "Table 5, Number Sentences row, NCs vs. Control column"
+
+  - id: nc-vs-control-vanderbilt-story-problems
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Word-problem solving, taught problem types (far transfer from number-combination tutoring)"
+      source_language: "Vanderbilt Story Problems"
+      measure: "18 novel Total, Difference and Change problems read aloud, with and without irrelevant information and charts, constructed response"
+      scale: "z score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: -0.04
+      ci_lower: -0.45
+      ci_upper: 0.37
+      interval_type: confidence
+      descriptives: "Posttest M (SD): NC tutoring -0.28 (0.67), control -0.25 (0.76) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Vanderbilt Story Problems +0.79 (0.36 to 1.22) +0.83 (0.39 to 1.28) −0.04 (−0.45 to 0.37) +0.62 (0.27 to 0.97)"
+    source_location: "Table 5, Vanderbilt Story Problems row, NCs vs. Control column"
+
+  - id: nc-vs-control-keymath
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Word-problem solving, taught and untaught types (far transfer from number-combination tutoring)"
+      source_language: "KeyMath Problem Solving"
+      measure: "KeyMath-Revised Problem Solving: 18 word problems of increasing difficulty, all four operations, one-to-one, constructed response"
+      scale: "z score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, immediately after 16 weeks of tutoring"
+    result:
+      measure_type: cohens_d
+      estimate: 0.12
+      ci_lower: -0.29
+      ci_upper: 0.53
+      interval_type: confidence
+      descriptives: "Posttest M (SD): NC tutoring -0.02 (0.99), control -0.14 (0.94) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD"
+      interpretation: "NC tutoring did not differ from control or from WP tutoring in the ANCOVA follow-ups"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "KeyMath +0.28 (−0.14 to 0.70) +0.16 (−0.27 to 0.58) +0.12 (−0.29 to 0.53) +1.29 (0.91 to 1.66)"
+    source_location: "Table 5, KeyMath row, NCs vs. Control column"
+
+  - id: nc-vs-control-iowa
+    sample:
+      value: 91
+      unit: participants
+    comparison_ref: nc-vs-control
+    outcome:
+      construct: "Word-problem solving, standardised multiple-choice test (far transfer from number-combination tutoring)"
+      source_language: "Iowa Test of Basic Skills, Problem Solving and Data Interpretation"
+      measure: "22 word problems of taught and untaught types, with data in tables and graphs, multiple choice, small groups, read aloud"
+      scale: "z score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest only (not given at pretest, to avoid a floor effect); KeyMath served as the covariate"
+    result:
+      measure_type: cohens_d
+      estimate: -0.10
+      ci_lower: -0.51
+      ci_upper: 0.31
+      interval_type: confidence
+      descriptives: "Posttest M (SD): NC tutoring -0.12 (0.84), control -0.03 (0.97) (Table 4)"
+      model: "d from unadjusted posttest means and the pooled SD; no significant treatment effect in the ANCOVA"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Iowa +0.14 (−0.28 to 0.56) +0.24 (−0.19 to 0.66) −0.10 (−0.51 to 0.31) +0.85 (0.50 to 1.21)"
+    source_location: "Table 5, Iowa row, NCs vs. Control column"
+
+  - id: nc-subtests-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the number-combination subtests"
+      source_language: "alpha was computed on this sample"
+      measure: "Four Grade 3 Math Battery subtests (Addition and Subtraction Fact Fluency 0-12 and 0-18)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "study administrations"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.86
+        upper: 0.91
+        over:
+          value: 4
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Per subtest, in order: .88, .91, .86, .89"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The article does not say whether alpha was computed at pretest,
+      posttest or both.
+    source_quote: "For the four subtests, respectively, percentage of agreement was 98.9, 98.3, 99.9, and 99.3; alpha was .88, .91, .86, and .89."
+    source_location: "Method, Measures, Assessing tutoring effects"
+
+  - id: nc-subtests-scorer-agreement
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Scorer agreement on the number-combination subtests"
+      source_language: "percentage of agreement"
+      measure: "Two independent scorers on 100% of protocols, four Grade 3 Math Battery subtests"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "study administrations"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 98.3
+        upper: 99.9
+        over:
+          value: 4
+          unit: scales
+      reliability:
+        statistic: percent_agreement
+        over: raters
+      note: "Per subtest, in order: 98.9, 98.3, 99.9, 99.3"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "For the four subtests, respectively, percentage of agreement was 98.9, 98.3, 99.9, and 99.3; alpha was .88, .91, .86, and .89."
+    source_location: "Method, Measures, Assessing tutoring effects"
+
+  - id: double-digit-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of a procedural calculation measure"
+      source_language: "Alpha on this sample"
+      measure: "Double-Digit Mixed Addition and Subtraction (Grade 3 Math Battery), 20 items, 5 min"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "study administrations"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Scorer agreement on 100% of protocols was 99.3%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Agreement, calculated on 100% of protocols by two independent scorers, was 99.3%. Alpha on this sample was .93."
+    source_location: "Method, Measures, Assessing tutoring effects"
+
+  - id: cbm-computation-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of a procedural calculation measure"
+      source_language: "Alpha on this sample"
+      measure: "Curriculum-Based Measurement-Computation, 25 items, 3 min"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "study administrations"
+    result:
+      measure_type: reliability
+      estimate: 0.95
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Agreement between two scorers re-entering item responses was 99.7%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Agreement was 99.7%. Alpha on this sample was .95."
+    source_location: "Method, Measures, Assessing tutoring effects"
+
+not_yet_extracted:
+  - "Table 5's other cells: WP tutoring vs control and vs NC tutoring on number combinations and the five word-problem measures, and MD vs MDRD on every outcome"
+  - "Table 2 pretest and Table 4 posttest means and SDs by arm and difficulty status (only the cells beside each recorded contrast are quoted in descriptives)"
+  - "Site effects on each outcome (Houston above Nashville) and the tutoring-minutes ANOVA by site"
+  - "Reliability of the word-problem outcomes: Find X alpha .93 and agreement 99.3%, Number Sentences alpha .84 and agreement 99.5%, Vanderbilt Story Problems alpha .86 (the text does not say these were computed on this sample); KeyMath split-half .72 and Iowa KR-20 .83-.87 are test-manual figures, not this sample's"
