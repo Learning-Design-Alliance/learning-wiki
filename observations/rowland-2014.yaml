@@ -1,0 +1,503 @@
+# Rowland (2014): a meta-analysis of testing versus restudy on retention.
+#
+# Read from the publisher's online-first PDF (33 pp.). Its text layer prints
+# mathematical signs as substitute glyphs: "=" for "=", "<" for "<", ">" for
+# ">", "≤" for "<=", "≥" for ">=" and "−" for a minus sign. Every source_quote
+# below keeps those glyphs exactly as the text layer has them, so a substring
+# search of the text finds it; read them as the signs they stand for.
+#
+# Table 1 (p. 13) runs together into one column in reading-order text, so its
+# rows cannot be quoted. Every estimate and interval below is quoted from the
+# Results text instead, and each k was read from Table 1 in the PDF's own
+# layout (pdftotext -layout, then checked against the page image), where the
+# rows are clean. Two places where the text and Table 1 disagree are noted on
+# the observations concerned; the text's figures are recorded.
+#
+# All observations are from the FULL data set (159 effect sizes). The
+# high-exposure data set (feedback or > 75% initial success only; g = 0.66) is
+# a second analysis of a subset and is listed in not_yet_extracted.
+#
+# Initial-test success is a property of the studies pooled, not a manipulated
+# arm: a "no feedback, <= 50%" stratum is the set of no-feedback studies whose
+# observed initial test performance was at or below 50%. The testing arms below
+# are named for those strata, each contrasted with restudy.
+
+schema_version: 2
+
+study:
+  key: rowland-2014
+  citation: "Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. Psychological Bulletin, 140(6), 1432–1463."
+  doi: "10.1037/a0037559"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of experiments comparing final retention of information
+      given an initial test with information given restudy, after an initial
+      study phase of equal duration. One effect size per independent sample;
+      Hedges's g; categorical moderator analyses (QB between levels) and
+      method-of-moments meta-regressions for continuous moderators. Studies
+      of learning for a real or simulated class, and clinical samples, were
+      excluded, so the corpus is laboratory research.
+  synthesis:
+    model: "Random-effects model; tau2 by the method of moments; inverse-variance weights"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycINFO
+        - Google Scholar
+        - Dissertation Abstracts
+      date_range: "No date constraint; studies gathered by March 2013; included studies reported 1975 through 2013"
+    inclusion:
+      - "An initial learning phase of similar duration for all information, a test versus restudy manipulation in an intervening phase, and a final assessment of the learned material"
+      - "Memory assessed for the same information that was initially tested or restudied"
+    exclusion:
+      - "Learning of information for a real or simulated class in which participants were enrolled (13 studies)"
+      - "Clinical participant populations (1 study)"
+      - "Insufficient data to calculate an effect size (8 studies)"
+    data_handling:
+      - "Where one sample gave several memory measures, one was randomly selected"
+      - "All studies coded by the author; a random 20% coded by an independent trained coder, discrepancies resolved by discussion"
+      - "Sensitivity analyses with the imputed correlation r changed from .5 to .25 and .75 left every pattern and test outcome unchanged"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: retrieval-practice-improves-retention
+    bearing: supports
+    anchor: rowland-2014
+  - claim: testing-effect-robust-versus-restudy-control
+    bearing: supports
+    anchor: meta-1
+  - claim: retention-interval-moderates-testing-effect
+    bearing: supports
+    anchor: rowland-2014
+  - claim: retrieval-failure-reduces-benefit
+    bearing: supports
+    anchor: rowland-2014
+  - claim: retrieval-effort-support-testing-effect
+    bearing: supports
+    anchor: meta-2
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 159
+    unit: effect-sizes
+  additional_sizes:
+    - value: 61
+      unit: studies
+      note: "studies the 159 effect sizes were drawn from, reported 1975 through 2013"
+    - value: 136
+      unit: effect-sizes
+      note: "effect sizes from college-student samples (Table 1, sample source)"
+    - value: 23
+      unit: effect-sizes
+      note: "effect sizes from other, noncollege or unspecified samples (Table 1, sample source)"
+  population:
+    description: >-
+      Almost entirely undergraduate college students; a few studies used
+      Internet samples, older adults, high-school students and younger
+      children, collapsed into one "other" level because each group gave
+      very few effect sizes.
+    age_or_stage: "Mostly undergraduates; the article prints no age figures for the samples."
+    age: unreported
+  context:
+    setting: "Laboratory memory experiments; learning for an enrolled class was an exclusion criterion"
+  variation:
+    - dimension: "Sample source"
+      distribution: "136 effect sizes college, 23 other"
+    - dimension: "Stimulus type"
+      distribution: "71 paired associates, 58 single words, 23 prose, 7 other"
+    - dimension: "Retention interval"
+      distribution: "103 effect sizes under 1 day, 56 at 1 day or more"
+    - dimension: "Feedback after the initial test"
+      distribution: "107 without, 52 with"
+  arms:
+    - id: testing
+      description: "Information given an initial test (with or without corrective feedback) in the intervening phase."
+    - id: restudy
+      description: "Information re-presented for additional study in the intervening phase."
+    - id: testing-no-feedback-le50
+      description: "Testing in studies without feedback whose initial test performance was at or below 50%."
+    - id: testing-no-feedback-gt75
+      description: "Testing in studies without feedback whose initial test performance was above 75%."
+    - id: testing-feedback-low-success
+      description: "Testing in studies with feedback whose initial test performance was low (printed as under 50%)."
+    - id: testing-feedback-high-success
+      description: "Testing in studies with feedback whose initial test performance was high (above 75%)."
+
+comparisons:
+  - id: testing-vs-restudy
+    kind: other
+    index_arm: testing
+    reference_arm: restudy
+    description: "Final retention of tested versus restudied information. Pooled designs include both between-participants (53 effect sizes) and within-participant (106) manipulations."
+  - id: no-feedback-le50-vs-restudy
+    kind: other
+    index_arm: testing-no-feedback-le50
+    reference_arm: restudy
+    description: "Testing versus restudy, no-feedback studies with initial test performance at or below 50%."
+  - id: no-feedback-gt75-vs-restudy
+    kind: other
+    index_arm: testing-no-feedback-gt75
+    reference_arm: restudy
+    description: "Testing versus restudy, no-feedback studies with initial test performance above 75%."
+  - id: feedback-low-success-vs-restudy
+    kind: other
+    index_arm: testing-feedback-low-success
+    reference_arm: restudy
+    description: "Testing versus restudy, feedback studies with low initial test performance."
+  - id: feedback-high-success-vs-restudy
+    kind: other
+    index_arm: testing-feedback-high-success
+    reference_arm: restudy
+    description: "Testing versus restudy, feedback studies with high initial test performance."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the author and an independent coder on a random 20% of studies; no contrast between configurations."
+
+observations:
+
+  - id: testing-vs-restudy-overall
+    sample:
+      value: 159
+      unit: effect-sizes
+    comparison_ref: testing-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance, defined as the proportion of previously learned items correctly remembered on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "all retention intervals pooled"
+    result:
+      measure_type: hedges_g
+      estimate: 0.50
+      ci_lower: 0.42
+      ci_upper: 0.58
+      interval_type: confidence
+      p_value: "< .001"
+      statistic: "Z = 12.38"
+      k:
+        value: 159
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 1009.42
+        interpretation: "tau2 = 0.21, p < .001; I2 = 84.35"
+      model: "random-effects"
+      note: "Mean unweighted g = 0.54, median 0.55; 81% of effect sizes positive, 18% negative, 1% zero."
+    moderators:
+      reported:
+        - variable: "Retention interval"
+          relationship: "Larger at 1 day or more (g = 0.69) than under 1 day (g = 0.41)"
+          source_quote: "Studies with retention intervals of at least 1 day were associated with larger testing effects (g = 0.69, CI [0.56, 0.81]) than those with retention intervals less than 1 day (g = 0.41, CI [0.31, 0.51])."
+        - variable: "Feedback"
+          relationship: "Larger with feedback (g = 0.73) than without (g = 0.39)"
+          source_quote: "The moderator analysis of feedback yielded significant heterogeneity between levels, with studies providing feedback (i.e., a re-presentation of originally studied information at least once after a testing opportunity) yielding larger testing effects (g = 0.73, CI [0.61, 0.86]) than studies not providing feedback (g = 0.39, CI [0.29, 0.49])."
+        - variable: "Publication status"
+          relationship: "Larger in published (g = 0.58) than unpublished (g = 0.25) studies"
+          source_quote: "Studies classified as published had a larger mean weighted effect size (g = 0.58, CI [0.49, 0.67]) than those unpublished (g = 0.25, CI [0.10, 0.41]), although both were reliably greater than 0."
+        - variable: "Sample source (college versus other)"
+          relationship: "No heterogeneity between college and other samples"
+          source_quote: "In the sample source moderator analysis, effect sizes were homogeneous between levels representing studies utilizing college-enrolled participant samples and those utilizing samples drawn from other, noncollege or unspecified populations."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k is the full data set of 159 effect sizes, which the overall analysis
+      pools; the text does not print k beside the estimate.
+    source_quote: "With the full data set, the mean weighted effect size from the random-effects model, g = 0.50 (CI [0.42, 0.58]), was greater than 0, indicating a reliable testing effect (Z = 12.38, p < .001) when contrasted with a restudy control condition."
+    source_location: "Results, p. 12"
+
+  - id: testing-vs-restudy-ri-ge-1day
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: testing-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 day"
+    result:
+      measure_type: hedges_g
+      estimate: 0.69
+      ci_lower: 0.56
+      ci_upper: 0.81
+      interval_type: confidence
+      k:
+        value: 56
+        unit: effect-sizes
+      model: "random-effects; one level of the categorical retention-interval moderator (QB = 11.65, p < .01)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k = 56 and QB = 11.65 are read from Table 1 (p. 13) in the PDF layout;
+      the text gives the estimate and interval. The individual intervals
+      within the ">= 1 day" level are not printed.
+    source_quote: "Studies with retention intervals of at least 1 day were associated with larger testing effects (g = 0.69, CI [0.56, 0.81]) than those with retention intervals less than 1 day (g = 0.41, CI [0.31, 0.51])."
+    source_location: "Results, Categorical Moderator Analyses, p. 14; Table 1, p. 13"
+
+  - id: testing-vs-restudy-ri-lt-1day
+    sample:
+      value: 103
+      unit: effect-sizes
+    comparison_ref: testing-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval under 1 day"
+    result:
+      measure_type: hedges_g
+      estimate: 0.41
+      ci_lower: 0.31
+      ci_upper: 0.51
+      interval_type: confidence
+      k:
+        value: 103
+        unit: effect-sizes
+      model: "random-effects; one level of the categorical retention-interval moderator (QB = 11.65, p < .01)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "k = 103 read from Table 1 (p. 13) in the PDF layout."
+    source_quote: "Studies with retention intervals of at least 1 day were associated with larger testing effects (g = 0.69, CI [0.56, 0.81]) than those with retention intervals less than 1 day (g = 0.41, CI [0.31, 0.51])."
+    source_location: "Results, Categorical Moderator Analyses, p. 14; Table 1, p. 13"
+
+  - id: no-feedback-low-success
+    sample:
+      value: 17
+      unit: effect-sizes
+    comparison_ref: no-feedback-le50-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "all retention intervals pooled"
+    result:
+      measure_type: hedges_g
+      estimate: 0.03
+      ci_lower: -0.21
+      ci_upper: 0.27
+      interval_type: confidence
+      p_value: ".79"
+      k:
+        value: 17
+        unit: effect-sizes
+      model: "random-effects; one level of the retrievability-and-reexposure moderator (QB = 31.88, p < .01)"
+      interpretation: "No reliable testing effect"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k = 17 and QB = 31.88 read from Table 1 (p. 13). Text and table agree on
+      this row. They disagree on two others in the same moderator, not
+      recorded here: 51%-75% prints CI [0.08, 0.49] in the text and
+      [0.09, 0.49] in Table 1; "unknown and no feedback" prints g = 0.44,
+      CI [0.21, 0.67] in the text and 0.48 [0.24, 0.71] in Table 1.
+    source_quote: "Studies not providing feedback yielded a positive relationship between initial retrieval success and the magnitude of the testing effect, such that initial test performance less than or equal to 50% did not produce a reliable testing effect (g = 0.03, CI [−0.21, 0.27], p = .79)"
+    source_location: "Results, Categorical Moderator Analyses, p. 15; Table 1, p. 13"
+
+  - id: no-feedback-high-success
+    sample:
+      value: 40
+      unit: effect-sizes
+    comparison_ref: no-feedback-gt75-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "all retention intervals pooled"
+    result:
+      measure_type: hedges_g
+      estimate: 0.56
+      ci_lower: 0.42
+      ci_upper: 0.70
+      interval_type: confidence
+      k:
+        value: 40
+        unit: effect-sizes
+      model: "random-effects; one level of the retrievability-and-reexposure moderator (QB = 31.88, p < .01)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "k = 40 read from Table 1 (p. 13)."
+    source_quote: "whereas reliable testing advantages were found following 51%–75% initial retrieval success (g = 0.29, CI [0.08, 0.49]) and greater than 75% initial retrieval success (g = 0.56, CI [0.42, 0.70])."
+    source_location: "Results, Categorical Moderator Analyses, p. 15; Table 1, p. 13"
+
+  # The feedback-only reanalysis is in the Discussion, not in a table. It
+  # prints three point estimates and nothing else: no interval, no k per
+  # level. The author warns that the data set is constrained.
+  - id: feedback-low-success
+    comparison_ref: feedback-low-success-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "all retention intervals pooled"
+    result:
+      measure_type: hedges_g
+      estimate: 0.99
+      model: "Reanalysis restricted to studies with feedback, initial test performance (from the first initial test where available) as the moderator; heterogeneity between levels p < .01"
+      interpretation: "Numerically the largest of the three levels; the author advises caution given the constrained data set"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      No confidence interval and no k are printed for any level of this
+      reanalysis. The low level is printed as "<50%", while the
+      no-feedback levels elsewhere are "<= 50%"; recorded as printed.
+    source_quote: "Heterogeneity was detected (p < .01), such that studies utilizing feedback with low (<50%) initial test performance yielded numerically larger effects (g = 0.99) than those with moderate (51%– 75%; g = 0.68) and high (>75%; g = 0.40) initial test performance, thereby providing an additional result in support of retrieval effort theories."
+    source_location: "Discussion, p. 17"
+
+  - id: feedback-high-success
+    comparison_ref: feedback-high-success-vs-restudy
+    outcome:
+      construct: "Retention"
+      source_language: "memory performance on the final assessment"
+      measure: "Final recall or recognition test"
+      scale: "Hedges's g, testing minus restudy"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "all retention intervals pooled"
+    result:
+      measure_type: hedges_g
+      estimate: 0.40
+      model: "Reanalysis restricted to studies with feedback, initial test performance as the moderator; heterogeneity between levels p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: "No confidence interval and no k are printed for this level."
+    source_quote: "Heterogeneity was detected (p < .01), such that studies utilizing feedback with low (<50%) initial test performance yielded numerically larger effects (g = 0.99) than those with moderate (51%– 75%; g = 0.68) and high (>75%; g = 0.40) initial test performance, thereby providing an additional result in support of retrieval effort theories."
+    source_location: "Discussion, p. 17"
+
+  # The reliability of the CODING of moderators, not of any memory test.
+  - id: coder-agreement-categorical
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "Interrater reliability in coding study categorical variables"
+      measure: "Author and one independent trained coder, on a random 20% of studies"
+      scale: "printed as k"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before discrepancies were resolved"
+    result:
+      measure_type: reliability
+      bound:
+        operator: ">="
+        value: 0.92
+      reliability:
+        statistic: other
+        over: raters
+        form: "printed as an italic k, unnamed; the same letter the article uses for counts"
+      interpretation: "A lower bound over every categorical variable; no per-variable value is printed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The statistic is not named. The page image shows an italic k, which
+      reads as a kappa but is the letter the article also uses for numbers
+      of studies, so it is recorded as `other` rather than as Cohen's kappa.
+    source_quote: "Interrater reliability in coding study categorical variables was high (in each case k ≥ 0.92), and discrepancies were resolved through discussion."
+    source_location: "Method, Search Strategy and Coding Procedures, p. 8"
+
+not_yet_extracted:
+  - "High-exposure data set (studies with feedback or > 75% initial success): g = 0.66 [0.56, 0.75], tau2 = 0.15, Q = 429.57, I2 = 78.81; Table 2 moderators"
+  - "No-feedback 51%-75% initial success: g = 0.29 (text CI [0.08, 0.49], Table 1 CI [0.09, 0.49]), k = 31"
+  - "Feedback reanalysis, moderate (51%-75%) initial success: g = 0.68, no CI or k"
+  - "Feedback with delayed versus immediate presentation: g = 1.38 (k = 6) versus 0.66 (k = 46), p = .02"
+  - "Remaining Table 1 moderators (design, stimulus type, stimulus interrelation, list blocking, initial and final test type, cue-target relationship, test match) and the continuous meta-regressions in Tables 3 and 4"

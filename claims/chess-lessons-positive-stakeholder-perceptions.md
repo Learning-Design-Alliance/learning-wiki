@@ -52,3 +52,4 @@ Self-completion paper pupil survey administered in treatment schools in February
 - [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [Treatment students evaluated the lessons positively, reporting that the classes helped them master the second conditional](positive-student-evaluations-virtual-world-lessons.md) — related
+- [Pupils reported high enjoyment of the chess lessons and many continued playing months after the intervention ended](chess-lessons-high-pupil-enjoyment.md) — possibly the same claim (merge candidate)

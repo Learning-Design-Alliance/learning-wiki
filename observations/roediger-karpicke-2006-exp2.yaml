@@ -1,0 +1,375 @@
+# Roediger & Karpicke (2006), Experiment 2: repeated study (SSSS), one test
+# (SSST) or repeated testing (STTT), final free recall of a prose passage
+# 5 minutes or 1 week later.
+#
+# WHAT THIS FILE RECORDS, and why at this grain:
+#
+#   * The six cell means (three conditions x two delays), as printed in the
+#     text, each on its own group of 30 subjects. No SD is printed; Figure 2
+#     shows standard-error bars only. These are the proportions the
+#     learning-graph simulator uses (SSSS 83% at 5 minutes and 40% at 1 week;
+#     STTT 71% and 61%; SSST 56% at 1 week).
+#   * The five post hoc d values, as printed.
+#   * Proportional forgetting per condition, (initial recall - final
+#     recall) / initial recall, as the source defines and prints it (52%,
+#     28%, 14%). Recorded as printed; the simulator's own retained ratios
+#     (final at 1 week over final at 5 minutes) are a different computation
+#     and are not recorded here.
+#   * `population.age`: "ages 18 to 24".
+#   * No reliability: the Experiment 2 report gives no scoring-agreement
+#     figure of its own (the r = .95 is Experiment 1's, recorded there).
+#
+# Design, as the source states it: "A 3 x 2 between-subjects design", 30
+# subjects "assigned" to each of the six cells. The source does not say the
+# assignment was random, so `family: other`.
+#
+# Read from the maintainer's Drive copy, a JSTOR download of the published
+# article. Its text layer interleaves column lines in the Results, so the
+# source_quotes for the t tests were taken from the PDF page image (p. 253),
+# in the article's own words, not from the scrambled text layer.
+
+schema_version: 2
+
+study:
+  key: roediger-karpicke-2006-exp2
+  citation: "Roediger, H. L., III, & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. Experiment 2."
+  doi: "10.1111/j.1467-9280.2006.01693.x"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment, 3 x 2 between-subjects design: learning condition
+      (SSSS, SSST, STTT; S = 5-min study period, T = 10-min free-recall test
+      without feedback) by retention interval of the final test (5 min or
+      1 week); 30 subjects assigned to each of the six cells, method of
+      assignment not described. Analysed by a 2 x 3 ANOVA and post hoc t
+      tests at each delay.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: retrieval-practice-improves-retention
+    bearing: supports
+    anchor: roediger-and-karpicke-2006
+
+evidence_base:
+  unit: participants
+  size:
+    value: 180
+    unit: participants
+  additional_sizes:
+    - value: 30
+      unit: participants
+      note: "subjects in each of the six condition-by-delay cells"
+    - value: 90
+      unit: participants
+      note: "subjects given the final test after 5 minutes; another 90 took it after 1 week"
+  population:
+    description: "Washington University undergraduates, participating in partial fulfillment of course requirements."
+    age_or_stage: "Undergraduates, ages 18 to 24"
+    age:
+      unit: years
+      min: 18
+      max: 24
+  context:
+    setting: >-
+      Laboratory, two sessions, small groups (4 or fewer). Phase 1: four
+      consecutive periods on one passage, with 2 min of multiplication
+      problems between periods and 5 min after the last, then a questionnaire
+      (interest, readability, predicted recall in 1 week). Phase 2: a final
+      free-recall test identical to the initial ones, 5 min or 1 week later.
+    materials: "The two prose passages of Experiment 1, counterbalanced across conditions."
+  arms:
+    - id: ssss
+      description: "Four 5-min study periods, no test. Subjects read the whole passage 14.2 times on average (Table 1)."
+      elements:
+        - term: "repeated study (rereading)"
+      dose:
+        amount: 4
+        unit: "5-min study periods"
+    - id: ssst
+      description: "Three 5-min study periods, then one 10-min free-recall test without feedback. Passage read 10.3 times on average."
+      elements:
+        - term: "single free-recall test without feedback"
+          anchors:
+            - principles/retrieval-practice
+      dose:
+        amount: 1
+        unit: "recall test after three study periods"
+    - id: sttt
+      description: "One 5-min study period, then three consecutive 10-min free-recall tests without feedback. Passage read 3.4 times on average."
+      elements:
+        - term: "repeated free-recall testing without feedback"
+          anchors:
+            - principles/retrieval-practice
+      dose:
+        amount: 3
+        unit: "recall tests after one study period"
+
+comparisons:
+  - id: ssss-vs-sttt
+    kind: between-groups
+    index_arm: sttt
+    reference_arm: ssss
+    description: "Repeated testing against repeated study, at one delay."
+  - id: ssss-vs-ssst
+    kind: between-groups
+    index_arm: ssst
+    reference_arm: ssss
+    description: "One test against repeated study, at one delay."
+  - id: ssst-vs-sttt
+    kind: between-groups
+    index_arm: sttt
+    reference_arm: ssst
+    description: "Repeated testing against one test, at one delay."
+
+observations:
+
+  - id: d-sttt-vs-ssss-5min
+    sample: {value: 60, unit: participants}
+    comparison_ref: ssss-vs-sttt
+    outcome: &recall
+      construct: "Free recall of a prose passage"
+      source_language: "mean proportions of idea units recalled on the final tests"
+      measure: "Final free-recall test, 10 min, idea units of 30"
+      scale: "proportion of idea units recalled"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &t5
+      label: "5 minutes after Phase 1"
+      offset: {value: 5, unit: minutes, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: cohens_d
+      estimate: 1.22
+      statistic: "t(58) = 4.70"
+      descriptives: "SSSS 83% vs STTT 71%"
+      interpretation: "SSSS recalled more than STTT at 5 minutes: the d favours the reference arm (ssss)."
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: &obs_effect
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: &scrambled >-
+      The text layer of this copy interleaves column lines, so the quote is
+      verbatim from the text file but in scrambled order; the figures were
+      checked against the PDF page image (p. 253).
+    source_quote: "On the 5-min retention test, subjects in the SSSS condition recalled more than subjects in the STTT condition, t(58) = 4.70, d = 1.22"
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 253)"
+
+  - id: d-ssst-vs-ssss-5min
+    sample: {value: 60, unit: participants}
+    comparison_ref: ssss-vs-ssst
+    outcome: *recall
+    time: *t5
+    result:
+      measure_type: cohens_d
+      estimate: 0.59
+      statistic: "t(58) = 2.24"
+      descriptives: "SSSS 83% vs SSST 78%"
+      interpretation: "SSSS recalled more than SSST at 5 minutes: the d favours the reference arm (ssss)."
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "as did subjects in the SSST condition, t(58) = 2.24, d = 0.59."
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 253)"
+
+  - id: d-sttt-vs-ssst-1week
+    sample: {value: 60, unit: participants}
+    comparison_ref: ssst-vs-sttt
+    outcome: *recall
+    time: &t1w
+      label: "1 week after Phase 1"
+      offset: {value: 1, unit: weeks, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.31
+      statistic: "t(58) = 1.21"
+      descriptives: "STTT 61% vs SSST 56%"
+      interpretation: "Described by the authors as marginal."
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "Subjects in the STTT condition recalled more than subjects in the SSST condition, though this difference was marginal, t(58) = 1.21, d = 0.31."
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 253)"
+
+  - id: d-sttt-vs-ssss-1week
+    sample: {value: 60, unit: participants}
+    comparison_ref: ssss-vs-sttt
+    outcome: *recall
+    time: *t1w
+    result:
+      measure_type: cohens_d
+      estimate: 1.26
+      statistic: "t(58) = 4.78"
+      descriptives: "STTT 61% vs SSSS 40%"
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "Subjects in the STTT condition also recalled significantly more than subjects in the SSSS condition, t(58) = 4.78, d = 1.26"
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 253)"
+
+  - id: d-ssst-vs-ssss-1week
+    sample: {value: 60, unit: participants}
+    comparison_ref: ssss-vs-ssst
+    outcome: *recall
+    time: *t1w
+    result:
+      measure_type: cohens_d
+      estimate: 0.82
+      statistic: "t(58) = 3.21"
+      descriptives: "SSST 56% vs SSSS 40%"
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "as did subjects in the SSST condition, t(58) = 3.21, d = 0.82."
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 253)"
+
+  - id: mean-ssss-5min
+    sample: {value: 30, unit: participants}
+    arm_ref: ssss
+    outcome: *recall
+    time: *t5
+    result: {measure_type: mean, estimate: 83, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &nosd "No SD is printed; Figure 2 shows standard-error bars, which are not read off the figure here."
+    source_quote: &q5 "The SSSS group recalled more than the SSST group (83% vs. 78%), who in turn recalled more than the STTT group (71%)."
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: mean-ssst-5min
+    sample: {value: 30, unit: participants}
+    arm_ref: ssst
+    outcome: *recall
+    time: *t5
+    result: {measure_type: mean, estimate: 78, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: *q5
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: mean-sttt-5min
+    sample: {value: 30, unit: participants}
+    arm_ref: sttt
+    outcome: *recall
+    time: *t5
+    result: {measure_type: mean, estimate: 71, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: *q5
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: mean-ssss-1week
+    sample: {value: 30, unit: participants}
+    arm_ref: ssss
+    outcome: *recall
+    time: *t1w
+    result: {measure_type: mean, estimate: 40, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: &q1w "The STTT group recalled more than the SSST group (61% vs. 56%), who in turn recalled more than the SSSS group (40%)."
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: mean-ssst-1week
+    sample: {value: 30, unit: participants}
+    arm_ref: ssst
+    outcome: *recall
+    time: *t1w
+    result: {measure_type: mean, estimate: 56, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: *q1w
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: mean-sttt-1week
+    sample: {value: 30, unit: participants}
+    arm_ref: sttt
+    outcome: *recall
+    time: *t1w
+    result: {measure_type: mean, estimate: 61, unit: "percent of idea units recalled"}
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: *q1w
+    source_location: "Experiment 2, Results and Discussion, Final Tests (p. 252)"
+
+  - id: forgetting-ssss
+    arm_ref: ssss
+    outcome: &forgetting
+      construct: "Forgetting over one week"
+      source_language: "Proportional measures of forgetting"
+      measure: "(initial recall - final recall) / initial recall, 1-week groups"
+      scale: "proportion forgotten"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *t1w
+    result:
+      measure_type: other
+      estimate: 52
+      unit: "percent proportional forgetting over 1 week"
+      note: "Defined by the source as (initial recall - final recall)/initial recall (Figure 3). The source does not say whether it was computed per subject or from group means; no SD is printed."
+    moderators: {reported: [], candidate: []}
+    observability: &obs_forget
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "it is obvious that subjects in the SSSS condition forgot far more (52%) than subjects in the SSST condition (28%) and than"
+    source_location: "Experiment 2, Results and Discussion, Final Tests; Figure 3 (p. 253)"
+
+  - id: forgetting-ssst
+    arm_ref: ssst
+    outcome: *forgetting
+    time: *t1w
+    result:
+      measure_type: other
+      estimate: 28
+      unit: "percent proportional forgetting over 1 week"
+      note: "Defined by the source as (initial recall - final recall)/initial recall (Figure 3)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_forget
+    source_quote: "Subjects in the SSST condition forgot more than subjects in the STTT condition (28% vs. 14%)."
+    source_location: "Experiment 2, Results and Discussion, Final Tests; Figure 3 (p. 253)"
+
+  - id: forgetting-sttt
+    arm_ref: sttt
+    outcome: *forgetting
+    time: *t1w
+    result:
+      measure_type: other
+      estimate: 14
+      unit: "percent proportional forgetting over 1 week"
+      note: "Defined by the source as (initial recall - final recall)/initial recall (Figure 3)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_forget
+    source_quote: "Subjects in the SSST condition forgot more than subjects in the STTT condition (28% vs. 14%)."
+    source_location: "Experiment 2, Results and Discussion, Final Tests; Figure 3 (p. 253)"
+
+not_yet_extracted:
+  - "2 x 3 ANOVA (p. 253; text layer scrambled, read from the PDF page image): retention interval F(1, 174) = 122.53, partial eta squared .41; learning condition F(2, 174) = 2.32, partial eta squared .03 (marginal); Learning Condition x Retention Interval F(2, 174) = 18.48, partial eta squared .18."
+  - "Initial tests: SSST recalled 23.1 idea units (77%) on its one test; STTT recalled 20.9, 21.2 and 21.1 idea units on its three tests (about 70%); SSST's test vs STTT's third, t(118) = 3.17, d = 0.58."
+  - "Readings of the passage (Table 1): SSSS 3.4, 3.5, 3.6, 3.7 (sum 14.2); SSST 3.2, 3.5, 3.6 (10.3); STTT 3.4."
+  - "Questionnaire (Table 2): predicted recall in 1 week (1-7) SSSS 4.8, SSST 4.2, STTT 4.0, F(2, 177) = 6.09, eta squared .06; SSSS vs SSST t(118) = 2.95, d = 0.54; SSSS vs STTT t(118) = 3.35, d = 0.61. Interest 3.8, 4.1, 4.6, F(2, 177) = 3.88, eta squared .04."

@@ -1,0 +1,320 @@
+# Feng, Heffernan & Koedinger (2009): predicting end-of-year state test scores
+# from ASSISTments tutoring-interaction data.
+#
+# VERSION READ: the authors' typescript of the 2009 UMUAI journal article (22
+# numbered pages, headed with the journal citation, 19(3), 243-266), not the
+# publisher's typeset version and not the earlier conference papers by the same
+# authors (Feng, Heffernan & Koedinger 2006), which it cites as prior work. Its
+# section 4 (two school years, four models, Tables 1-8) is the journal
+# article's content. Page and table locations below are the typescript's.
+#
+# SCOPE: the 2004-2005 data set (391 Grade 8 students, 2005 MCAS). The
+# 2005-2006 replication is a different sample (616 students from Worcester
+# Public Schools) and is listed in not_yet_extracted rather than recorded here.
+#
+# THE SHAPE: no contrast between groups of students. Each result is a
+# correlation, over the same 391 students, between one regression model's
+# leave-one-out predicted MCAS score and the actual score, so each model is a
+# `kind: none` comparison and the four correlations are four observations. The
+# models differ in their predictors, not in what the students did.
+#
+# No reliability coefficient is printed for MCAS or for any online metric, and
+# no age figure (only "8th grade"), so `age: unreported` and no reliability
+# observation.
+
+schema_version: 2
+
+study:
+  key: feng-2009
+  citation: "Feng, M., Heffernan, N., & Koedinger, K. (2009). Addressing the assessment challenge with an online system that tutors as it assesses. User Modeling and User-Adapted Interaction, 19(3), 243–266."
+  doi: "10.1007/s11257-009-9063-7"
+  design:
+    family: observational
+    design_detail: >-
+      Predictive modelling of log data, read from the authors' manuscript of the
+      journal article. ASSISTments interaction logs from one school year
+      (2004-2005, two Massachusetts middle schools) were used to predict each
+      student's raw score on the Grade 8 MCAS mathematics test taken in May
+      2005. Four linear regression models: lean (a Rasch proficiency estimate
+      from correctness on original items), assistance (stepwise over online
+      assistance metrics, without original-item correctness), mixed (Rasch
+      proficiency plus stepwise assistance metrics) and help (Rasch proficiency
+      plus stepwise hint metrics). Models compared on MAD, BIC and the
+      correlation of leave-one-out predicted scores with actual scores; absolute
+      deviations compared pairwise with paired t-tests.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: interaction-data-improves-mcas-prediction-0405
+    bearing: supports
+    anchor: feng-2009
+
+evidence_base:
+  unit: participants
+  size:
+    value: 391
+    unit: participants
+  additional_sizes:
+    - value: 912
+      unit: participants
+      note: "Grade 8 students whose logs were kept in the system in 2004-2005"
+    - value: 417
+      unit: participants
+      note: "students with complete data, before the 25 who did fewer than 39 questions were excluded"
+    - value: 14274
+      unit: participants
+      note: "students whose responses (Sept 2004 to Jan 2008, 2,797 original items) were used to fit the Rasch item parameters for the lean model"
+  population:
+    description: >-
+      Grade 8 students in two Massachusetts middle schools using ASSISTments in
+      2004-2005, with complete data and at least 39 questions done.
+    age_or_stage: "8th grade"
+    age: unreported
+  context:
+    setting: >-
+      Web-based tutoring on released MCAS items with scaffolding questions and
+      hints, typically one class period in the school computer lab every few
+      weeks, September to May; outcome the state's end-of-year MCAS
+      mathematics test (raw score 0 to 54).
+  arms:
+    - id: cohort-2004-05
+      description: "The 391 Grade 8 students in the final 2004-2005 data set."
+      size:
+        value: 391
+        unit: participants
+
+comparisons:
+  - id: lean-model
+    kind: none
+    description: "Lean model: MCAS raw score regressed on the Rasch (1-PL IRT) proficiency estimate from correctness on original questions only; 1 variable."
+  - id: help-model
+    kind: none
+    description: "Help model: Rasch proficiency estimate plus hint-related metrics, stepwise; 3 variables entered (proficiency, Avg_Hint_Request, Hint_Request_Count)."
+  - id: assistance-model
+    kind: none
+    description: "Assistance model: online assistance metrics only, stepwise, original-question correctness excluded; 6 variables entered."
+  - id: mixed-model
+    kind: none
+    description: "Mixed model: Rasch proficiency estimate plus online assistance metrics, stepwise; 5 variables entered (proficiency, Scaffold_Percent_Correct, Avg_Question_Time, Avg_Attempt, Avg_Hint_Request)."
+
+observations:
+
+  - id: lean-model-r
+    sample:
+      value: 391
+      unit: participants
+    comparison_ref: lean-model
+    outcome:
+      construct: "Mathematics achievement on the state test"
+      source_language: "Correlation with 2005 8th grade MCAS"
+      measure: "MCAS Grade 8 mathematics raw score, May 2005"
+      scale: "Pearson correlation between leave-one-out predicted score and actual raw score"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "logs September 2004 to May 2005; MCAS taken May 2005"
+    result:
+      measure_type: correlation
+      estimate: 0.733
+      descriptives: "MAD 6.40; R Square .537; BIC -295; 1 variable"
+      model: "Linear regression of MCAS raw score on the Rasch proficiency estimate"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A model's predictive accuracy, not an effect of anything done to the
+      students. No interval is printed.
+    source_quote: 'The lean model 6.40 .537 \-295 1 .733'
+    source_location: "Section 4.4.1, Table 2 (manuscript p. 14)"
+
+  - id: help-model-r
+    sample:
+      value: 391
+      unit: participants
+    comparison_ref: help-model
+    outcome:
+      construct: "Mathematics achievement on the state test"
+      source_language: "Correlation with 2005 8th grade MCAS"
+      measure: "MCAS Grade 8 mathematics raw score, May 2005"
+      scale: "Pearson correlation between leave-one-out predicted score and actual raw score"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "logs September 2004 to May 2005; MCAS taken May 2005"
+    result:
+      measure_type: correlation
+      estimate: 0.765
+      descriptives: "MAD 6.13; R Square .585; BIC -326; 3 variables"
+      model: "Linear regression on the Rasch proficiency estimate plus hint metrics entered stepwise (Table 4: Avg_Hint_Request standardized coefficient -.416, Hint_Request_Count .160)"
+      interpretation: "The authors: the help model correlates reliably better with MCAS score than the lean model"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: 'The help model 6.13 .585 \-326 3 .765'
+    source_location: "Section 4.4.1, Table 2 (manuscript p. 14)"
+
+  - id: assistance-model-r
+    sample:
+      value: 391
+      unit: participants
+    comparison_ref: assistance-model
+    outcome:
+      construct: "Mathematics achievement on the state test"
+      source_language: "Correlation with 2005 8th grade MCAS"
+      measure: "MCAS Grade 8 mathematics raw score, May 2005"
+      scale: "Pearson correlation between leave-one-out predicted score and actual raw score"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "logs September 2004 to May 2005; MCAS taken May 2005"
+    result:
+      measure_type: correlation
+      estimate: 0.821
+      descriptives: "MAD 5.46; R Square .674; BIC -402; 6 variables"
+      model: "Stepwise linear regression on online assistance metrics, without correctness on original questions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: 'The assistance model 5.46 .674 \-402 6 .821'
+    source_location: "Section 4.4.1, Table 2 (manuscript p. 14)"
+
+  - id: mixed-model-r
+    sample:
+      value: 391
+      unit: participants
+    comparison_ref: mixed-model
+    outcome:
+      construct: "Mathematics achievement on the state test"
+      source_language: "Correlation with 2005 8th grade MCAS"
+      measure: "MCAS Grade 8 mathematics raw score, May 2005"
+      scale: "Pearson correlation between leave-one-out predicted score and actual raw score"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "logs September 2004 to May 2005; MCAS taken May 2005"
+    result:
+      measure_type: correlation
+      estimate: 0.841
+      descriptives: "MAD 5.04; R Square .707; BIC -450; 5 variables"
+      model: "Rasch proficiency estimate plus assistance metrics entered stepwise (Table 3)"
+      interpretation: >-
+        Best-fitting model. Against the assistance model, 0.033 more R2 and 48
+        points lower BIC. Table 2 prints p = .031, .004 and .001 for paired
+        t-tests of absolute deviations between successively better models; the
+        extracted table does not show the pairs beside them.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The correlations use the adjusted predicted score, computed by
+      leave-one-out cross-validation in SPSS (footnote 11). A 50% split
+      cross-validation of this model is in not_yet_extracted.
+    source_quote: 'The mixed model 5.04 .707 \-450 5 .841'
+    source_location: "Section 4.4.1, Table 2 and text (manuscript p. 14)"
+
+  - id: items-done-mean
+    sample:
+      value: 391
+      unit: participants
+    arm_ref: cohort-2004-05
+    outcome:
+      construct: "Practice volume"
+      source_language: "finishing on average 147 items"
+      measure: "Items finished in ASSISTments over the school year"
+      scale: "count of items"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "September 2004 to May 2005, about 9 sessions"
+    result:
+      measure_type: mean
+      estimate: 147
+      unit: "items"
+      sd: 60
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Students with fewer than 39 questions (the number on the real MCAS) were
+      excluded before this mean was taken.
+    source_quote: "The 391 students in our final 04-05 data set have practiced mathematics problems in the ASSISTment system for a mean length of 267 minutes (standard deviation = 79) across about 9 sessions, finishing on average 147 items (standard deviation = 60)."
+    source_location: "Section 4.1 (manuscript p. 7)"
+
+  - id: minutes-mean
+    sample:
+      value: 391
+      unit: participants
+    arm_ref: cohort-2004-05
+    outcome:
+      construct: "Time on the system"
+      source_language: "a mean length of 267 minutes"
+      measure: "Minutes practising mathematics in ASSISTments over the school year"
+      scale: "minutes"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "September 2004 to May 2005, about 9 sessions"
+    result:
+      measure_type: mean
+      estimate: 267
+      unit: "minutes"
+      sd: 79
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The 391 students in our final 04-05 data set have practiced mathematics problems in the ASSISTment system for a mean length of 267 minutes (standard deviation = 79) across about 9 sessions, finishing on average 147 items (standard deviation = 60)."
+    source_location: "Section 4.1 (manuscript p. 7)"
+
+not_yet_extracted:
+  - "2005-2006 replication on 616 Worcester Grade 8 students (Table 6): lean r .784, help .818, assistance .816, mixed .853; mean 196 minutes (SD 76), 88 items (SD 42). A different sample, so a separate record if needed"
+  - "Table 1: correlations of 15 online metrics with MCAS raw scores in both years (e.g. Original_Percent_Correct .786 / .689)"
+  - "Tables 3, 4, 5 and 7: coefficients of the mixed, help and assistance models"
+  - "Same-year 50% split cross-validation of the mixed model (training r .842 on 203 cases; testing r .837, MAD 5.25 on 188) and cross-year validation (Table 8)"

@@ -67,3 +67,4 @@ A quasi-experimental classroom study in which 109 seventh-grade mathematics stud
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — reports the opposite
 - [FCP produced significantly higher post-test scores than CTM for rational expressions, while CTM produced significantly higher scores for factorization](fcp-beats-ctm-rational-expressions-loses-factorization.md) — related
 - [PF students show better knowledge retention than DI students on a delayed post-test two weeks later](pf-better-retention-delayed-post-test-python.md) — related
+- [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related

@@ -46,3 +46,5 @@ Weighted least squares meta-regression of Cronbach's alpha of the self-handicapp
 ## Related Claims
 - [The self-handicapping questionnaire used moderates the correlation: the SHS yields weaker correlations than the ASHS and MES self-sabotage scale](questionnaire-moderates-self-handicapping-correlation.md) — related
 - [Academic self-handicapping is moderately negatively correlated with academic achievement in field settings (mean r = -.23)](self-handicapping-achievement-mean-correlation.md) — related
+- [Conscientiousness shows the strongest negative association with habitual academic self-handicapping (r = .40)](conscientiousness-strongest-negative-antecedent-self-handicapping.md) — related
+- [Neuroticism is positively associated with habitual academic self-handicapping (r = .38)](neuroticism-positive-antecedent-self-handicapping.md) — related

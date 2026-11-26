@@ -49,3 +49,6 @@ The classroom experiment found the increasingly interleaved condition was "most 
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [Blocked and increased sequencing of representations outperform interleaved sequencing for representational knowledge in a fractions ITS](blocked-interleaved-representations-fractions-its.md) — related
+- [Increased condition (gradually shrinking blocks) yields best learning results for low prior knowledge students](increased-condition-best-low-prior-knowledge.md) — related
+- [Prior knowledge moderates the benefit of blocked versus interleaved representation sequencing](prior-knowledge-moderates-sequencing-benefit.md) — related

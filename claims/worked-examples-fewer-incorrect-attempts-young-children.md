@@ -50,3 +50,5 @@ Experiment 1, a controlled comparison with 18 Year 3 children randomly assigned 
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](worked-example-effect-split-attention-replication-history.md) — related
+- [Worked example groups made fewer mathematical errors on similar test problems than conventional problem groups](worked-examples-fewer-errors-similar-problems.md) — related
+- [Studying worked examples takes far less time than solving the equivalent conventional algebra problems during acquisition](worked-examples-less-acquisition-time-algebra.md) — related

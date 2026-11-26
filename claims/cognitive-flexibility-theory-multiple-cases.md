@@ -110,3 +110,5 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Experimental-group pupils outperformed control-group pupils at the non-specific transfer level](hypertext-text-non-specific-transfer-advantage.md) — related
 - [General-mechanism theories of cognitive training (brain plasticity, primitive elements, learning to learn) are incorrect with respect to far transfer](general-mechanism-theories-refuted.md) — related
 - [ICC students transferred an understanding of ratio rather than a multiple-case strategy, maintaining their advantage on a single-case transfer problem](transferred-ratio-not-case-strategy.md) — related
+- [Better schema abstraction is associated with greater transfer of the principle to a novel problem](schema-quality-predicts-transfer.md) — related
+- [Comparing two cases yields a marked advantage over studying the same two cases separately for schema abstraction and transfer](comparison-beats-separate-case-study.md) — related

@@ -1,0 +1,355 @@
+# Kornell, Hays & Bjork (2009), Experiment 1: fictional trivia questions,
+# answer shown for equal time (5 s) in both conditions, so a test trial (8 s
+# attempt + 5 s answer) was longer in total than a read-only trial (5 s).
+#
+# Records the final cued-recall means with SDs for each condition (fictional
+# items, the result of interest, and nonfictional items reported for
+# completeness), the printed d for the fictional contrast, and the printed
+# final-test accuracy of nonfictional items answered correctly vs not at
+# study (100% vs 73%), the figure behind "correct at study does better
+# still". The nonfictional test-condition items mix successful and failed
+# retrievals, which the authors call an item-selection effect.
+#
+# `population.age: unreported`: the article prints no age figure for any
+# experiment. No scoring-reliability figure is printed (answers were typed
+# and scored as correct or not; how is not described).
+#
+# Read from the maintainer's Drive copy of the published article. Its text
+# layer writes "=", "<", ">" and the minus sign as symbol-font glyphs; the
+# source_quotes use the characters the article prints, so they differ from
+# the text file in those symbols only. The numbers are clean.
+
+schema_version: 2
+
+study:
+  key: kornell-2009-exp1
+  citation: "Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 35(4), 989–998. Experiment 1."
+  doi: "10.1037/a0015729"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment. Within-participants 2 x 2: question type
+      (fictional, nonfictional) by condition (read only, test). 40 questions,
+      20 fictional and 20 nonfictional, half of each type in each condition;
+      assignment of questions to conditions and their order determined
+      randomly for each participant. Study phase, 5-min distractor (typing
+      country names), then a cued-recall test of all 40 questions in random
+      order, without feedback. Read-only trial: question and answer together
+      for 5 s. Test trial: question alone for 8 s while the participant tried
+      to type the answer, then question and answer for 5 s.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: pretesting-enhances-learning
+    bearing: supports
+    anchor: kornell-hays-and-bjork-2009
+
+evidence_base:
+  unit: participants
+  size:
+    value: 25
+    unit: participants
+  population:
+    description: "University of California, Los Angeles (UCLA) undergraduates."
+    age_or_stage: "Undergraduates; no age figure is printed"
+    age: unreported
+  context:
+    setting: "Laboratory, computer-presented study phase and cued-recall test."
+    materials: "Fictional and nonfictional general-knowledge questions from Berger, Hall and Bahrick (1999), presented intermixed; no participant reported suspecting that some questions were fictional."
+  arms:
+    - id: read-only
+      description: "Read-only: question and answer shown together for 5 s."
+      elements:
+        - term: "study of the question and answer presented together"
+      dose:
+        amount: 5
+        unit: "s per trial (answer visible 5 s)"
+    - id: test
+      description: "Test: question alone for 8 s while the participant tried to type the answer, then question and answer together for 5 s. No fictional question was answered correctly at study."
+      elements:
+        - term: "unsuccessful retrieval attempt followed by the answer (feedback)"
+          anchors:
+            - principles/retrieval-practice
+      dose:
+        amount: 13
+        unit: "s per trial (8 s attempt, answer visible 5 s)"
+
+comparisons:
+  - id: test-vs-read-only
+    kind: other
+    index_arm: test
+    reference_arm: read-only
+    description: "Within-participant contrast: each participant's final recall of items studied in the test condition against items in the read-only condition."
+
+observations:
+
+  - id: test-vs-read-only-fictional
+    sample: {value: 25, unit: participants}
+    comparison_ref: test-vs-read-only
+    outcome:
+      construct: "Cued recall of answers to fictional trivia questions (none retrievable at study)"
+      source_language: "cued-recall accuracy on fictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.58
+      statistic: "t(24) = 2.97"
+      p_value: "< .01"
+      descriptives: "test M = 0.41 (SD 0.21) vs read-only M = 0.31 (SD 0.17)"
+      note: "Also printed: prep = .96 (probability of replication). The source does not say which SD forms the denominator of d."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Within-participant t test; the source does not say how d was computed
+      for the paired design.
+    source_quote: "cued-recall accuracy was significantly higher in the test condition (M = .41, SD = .21) than it was in the read-only condition (M = .31, SD = .17), t(24) = 2.97, p < .01, prep = .96, d = 0.58."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: mean-test-fictional
+    sample: {value: 25, unit: participants}
+    arm_ref: test
+    outcome:
+      construct: "Cued recall of answers to fictional trivia questions (none retrievable at study)"
+      source_language: "cued-recall accuracy on fictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.41
+      sd: 0.21
+      unit: "proportion correct on the final cued-recall test, fictional items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "cued-recall accuracy was significantly higher in the test condition (M = .41, SD = .21) than it was in the read-only condition (M = .31, SD = .17), t(24) = 2.97, p < .01, prep = .96, d = 0.58."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: mean-read-only-fictional
+    sample: {value: 25, unit: participants}
+    arm_ref: read-only
+    outcome:
+      construct: "Cued recall of answers to fictional trivia questions (none retrievable at study)"
+      source_language: "cued-recall accuracy on fictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.31
+      sd: 0.17
+      unit: "proportion correct on the final cued-recall test, fictional items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "cued-recall accuracy was significantly higher in the test condition (M = .41, SD = .21) than it was in the read-only condition (M = .31, SD = .17), t(24) = 2.97, p < .01, prep = .96, d = 0.58."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: test-vs-read-only-nonfictional
+    sample: {value: 25, unit: participants}
+    comparison_ref: test-vs-read-only
+    outcome:
+      construct: "Cued recall of answers to nonfictional trivia questions"
+      source_language: "cued-recall accuracy on nonfictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: other
+      statistic: "t(24) = 1.20"
+      p_value: ".24"
+      descriptives: "test M = 0.82 (SD 0.24) vs read-only M = 0.77 (SD 0.20)"
+      interpretation: "Not significant; no effect size is printed. Reported by the authors for completeness: test-condition items include ones answered correctly at study."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "cued-recall accuracy on nonfictional items was higher in the test condition (M = .82, SD = .24) than it was in the read-only condition (M = .77, SD = .20), but the difference was not significant, t(24) = 1.20, p = .24."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: mean-test-nonfictional
+    sample: {value: 25, unit: participants}
+    arm_ref: test
+    outcome:
+      construct: "Cued recall of answers to nonfictional trivia questions"
+      source_language: "cued-recall accuracy on nonfictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.82
+      sd: 0.24
+      unit: "proportion correct on the final cued-recall test, nonfictional items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "cued-recall accuracy on nonfictional items was higher in the test condition (M = .82, SD = .24) than it was in the read-only condition (M = .77, SD = .20), but the difference was not significant, t(24) = 1.20, p = .24."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: mean-read-only-nonfictional
+    sample: {value: 25, unit: participants}
+    arm_ref: read-only
+    outcome:
+      construct: "Cued recall of answers to nonfictional trivia questions"
+      source_language: "cued-recall accuracy on nonfictional items"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.77
+      sd: 0.20
+      unit: "proportion correct on the final cued-recall test, nonfictional items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "cued-recall accuracy on nonfictional items was higher in the test condition (M = .82, SD = .24) than it was in the read-only condition (M = .77, SD = .20), but the difference was not significant, t(24) = 1.20, p = .24."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: final-accuracy-nonfictional-correct-at-study
+    sample: {value: 25, unit: participants}
+    arm_ref: test
+    outcome:
+      construct: "Final recall of nonfictional test-condition items answered correctly at study"
+      source_language: "answered correctly on the final cued-recall test"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "percent of final test trials correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: other
+      estimate: 100
+      unit: "percent of final test trials correct, nonfictional test-condition items answered correctly at study"
+      note: "Participants answered 32% of the nonfictional items correctly at study in the test condition. The source does not say whether the figure is pooled over items or averaged over participants."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Item-selected by study-phase success, which the authors call an item-
+      selection effect; not a contrast between conditions.
+    source_quote: "Items that were answered correctly in the test condition during the learning phase were answered correctly on the final cued-recall test 100% of the time; items that were not answered correctly on the initial test were answered correctly, on average, in 73% of the final test trials."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+  - id: final-accuracy-nonfictional-not-correct-at-study
+    sample: {value: 25, unit: participants}
+    arm_ref: test
+    outcome:
+      construct: "Final recall of nonfictional test-condition items not answered correctly at study"
+      source_language: "answered correctly on the final cued-recall test"
+      measure: "Final cued-recall test of all 40 questions, typed answers, no feedback"
+      scale: "percent of final test trials correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 5-min distractor task"
+      offset: {value: 5, unit: minutes, from: "end of the study phase"}
+    result:
+      measure_type: other
+      estimate: 73
+      unit: "percent of final test trials correct, nonfictional test-condition items not answered correctly at study"
+      note: "Participants answered 32% of the nonfictional items correctly at study in the test condition. The source does not say whether the figure is pooled over items or averaged over participants (it says on average)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Item-selected by study-phase success, which the authors call an item-
+      selection effect; not a contrast between conditions.
+    source_quote: "Items that were answered correctly in the test condition during the learning phase were answered correctly on the final cued-recall test 100% of the time; items that were not answered correctly on the initial test were answered correctly, on average, in 73% of the final test trials."
+    source_location: "Experiment 1, Results and Discussion (p. 991)"
+
+not_yet_extracted:
+  - "Commission vs omission errors at study on fictional items: too few to analyse (48% of participants made at least one commission error; 3 of 25 made more than one)."

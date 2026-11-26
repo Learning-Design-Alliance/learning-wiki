@@ -65,3 +65,4 @@ Null check before hypothesis testing in the 100-student study. The ART ANOVA on 
 - [Chat usage per attempt peaks for medium-difficulty problems and is lowest for hard problems](chat-usage-peaks-medium-lowest-hard.md) — related
 - [Markov transition analysis of tutor logs showed Buggy examples produced error-loop struggle patterns while Guided examples redirected errors toward hint-seeking](markov-behavior-patterns-logic-tutor.md) — related
 - [Proactive tutoring added error identification and directive hints without a detected change in learners' requests or requested replies](proactivity-adds-error-identification-and-directive-hints.md) — related
+- [Learners with more prior algebra knowledge work faster through the contingent tutor, make fewer errors and request help less often](prior-knowledge-predicts-tutor-process-measures.md) — reports the opposite

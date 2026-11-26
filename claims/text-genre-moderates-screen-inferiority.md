@@ -49,3 +49,5 @@ The review's synthesis of prior meta-analyses (Delgado et al., 2018; Clinton, 20
 - [Time frame is a major activity moderator of the screen inferiority effect, with larger effects when reading time is limited](time-frame-moderates-screen-inferiority.md) — related
 - [The screen inferiority effect on handheld devices is larger for undergraduate students and for participants assessed individually](handheld-screen-inferiority-moderators-undergraduate-individual.md) — related
 - [Combined strategy instruction under inclusion is effective for narrative texts but not for expository texts](narrative-effective-expository-not.md) — related
+- [The screen disadvantage in reading performance is limited to expository texts; no reliable difference for narrative texts](genre-moderates-screen-paper-performance.md) — possibly the same claim (merge candidate)
+- [No reliable difference in reading time between screens and paper (g = .08, p = .45)](no-reading-time-difference-medium.md) — related

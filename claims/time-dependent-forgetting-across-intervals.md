@@ -55,3 +55,4 @@ The image-recall ANOVA showed a significant interval main effect, F(2, 155) = 10
 - [Only descriptive reactivation improves memory precision (correct details per recalled image)](descriptive-reactivation-improves-memory-precision.md) — related
 - [Descriptive reactivations significantly improve free recall of images compared with distractor and no-reactivation controls](descriptive-reactivation-mitigates-forgetting-images.md) — related
 - [Weekly brief reactivations during a 30-day retention interval reduce forgetting of numeric facts relative to controls](weekly-reactivations-reduce-long-term-forgetting.md) — related
+- [Retention declined from 1 to 7 days and was significantly better after wider spacing of practice on delayed tests](retention-interval-and-spacing-main-effects.md) — related

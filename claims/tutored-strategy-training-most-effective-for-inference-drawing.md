@@ -51,3 +51,4 @@ Planned comparison from the testing-phase ANOVA of the 36-dyad experiment: "the 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — reports the opposite
 - [Adding error-analysis strategy instruction to error-tolerant culture training yields no additional benefit over culture training alone](no-differential-benefit-strategy-instruction.md) — related
+- [Increasing the degree of comparison support increases the rate of transfer in a face-to-face dynamic negotiation exercise](comparison-support-dose-response-transfer.md) — related

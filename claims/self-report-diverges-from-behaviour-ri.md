@@ -52,3 +52,4 @@ The review reports, citing Sarauw et al. (2021), that "survey results of partici
 - [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) — a narrower finding that bears on this claim
 - [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — a broader claim this one bears on
 - [Self-reported hygiene attitudes and behaviors often diverge from actually observed hygiene behavior](self-reported-versus-observed-hygiene-divergence.md) — a narrower finding that bears on this claim
+- [Gender differences in self-handicapping are inconsistent and may depend on whether measures assess behavioral versus claimed self-handicapping](gender-differences-inconsistent-measure-dependent.md) — a narrower finding that bears on this claim

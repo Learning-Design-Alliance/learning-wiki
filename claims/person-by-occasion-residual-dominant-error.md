@@ -54,3 +54,5 @@ Variance-component decomposition from the person x occasion G studies showed the
 - [In the G-study, residual error (51%), stations (11.4%), and their interactions dominate OSCE variance, while sites and test versions contribute almost none](osce-variance-components-residual-stations.md) — related
 - [In a person x rater x task x occasion G study, the person x task x occasion interaction was the largest error source (59%) and one-task G coefficients were very low (.04)](occasion-study-pxto-interaction.md) — related
 - [Task-sampling variability is the major source of measurement error in performance assessments across subject matters and levels of analysis](task-sampling-major-source-of-error.md) — reports the opposite
+- [The person x occasion variance component is estimated at zero even though students changed their approach to tasks across occasions](person-occasion-component-zero.md) — reports the opposite
+- [Stratifying tasks into science-content strata only slightly reduces relative task-sampling variability and increases the number of tasks needed for .80 reliability (27 to 38)](stratification-does-not-solve-task-sampling.md) — related

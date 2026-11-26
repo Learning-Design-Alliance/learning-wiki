@@ -56,3 +56,4 @@ Dynamic panel models with contemporaneous unidirectional effects on five annual 
 - [Test anxiety precedes subsequent emotion regulation in unidirectional relations: positive to acceptance and self-blame, negative to refocus on planning and positive reappraisal](test-anxiety-predicts-subsequent-regulation-strategies.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
 - [Gender and parental education predict math emotions and achievement, with boys reporting more enjoyment and less anxiety](gender-ses-covariate-effects-math-emotions.md) — related
+- [Incremental theories significantly predict goal monitoring: negatively with negative emotions (r = -.233) and positively with expectations (r = .157)](incremental-theories-predict-goal-monitoring.md) — related

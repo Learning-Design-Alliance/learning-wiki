@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 517 claims (277 for, 212 mixed, 28 against) · 390 studies (122 associational, 101 design, 68 causal, 49 review, 31 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 390 report an effect size · 507 claims rest on one study
+> **Evidence** · 519 claims (279 for, 212 mixed, 28 against) · 391 studies (123 associational, 101 design, 68 causal, 49 review, 31 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 39 of 391 report an effect size · 509 claims rest on one study
 
 ## Conditional relationship
 
@@ -361,6 +361,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The FCI showed very low reliability (alpha = 0.15) and high standard error of measurement (SEM = 2.1) in the Ugandan sample](../claims/fci-uganda-low-reliability-alpha-0-15.md) [+W] — attached 2026-11-25 from Kirya et al. (2025), which proposed "Adapt concept inventory tools to the local educational and cultural context before relying on them for assessment".
 - [73.3% of FCI items showed poor discrimination and eight items had negative discrimination indices in the Ugandan sample](../claims/fci-uganda-poor-discrimination-73-percent.md) [+W] — attached 2026-11-25 from Kirya et al. (2025), which proposed "Adapt concept inventory tools to the local educational and cultural context before relying on them for assessment".
 - [Teacher-made tests tend to yield score reliabilities averaging about .50, while published standardized tests yield reliabilities of .85-.95](../claims/teacher-made-reliability-about-50-vs-standardized-85-95.md) [+W] — attached 2026-11-25 from Frisbie (1988), which proposed "Set minimum reliability standards according to how the scores will be used".
+- [In a retest G study of hands-on science tasks, the person x task x occasion variance component (1.16) exceeds the person x task component (.063), showing task- and occasion-sampling variability are confounded](../claims/task-occasion-confound-larger-than-task-sampling.md) [+W] — attached 2026-11-26 from Richard J. Shavelson et al. (1999), which proposed "Address task-sampling error in performance assessment by substantially increasing the number of tasks rather than stratifying them"; tests this page's relationship.
+- [Stratifying tasks into science-content strata only slightly reduces relative task-sampling variability and increases the number of tasks needed for .80 reliability (27 to 38)](../claims/stratification-does-not-solve-task-sampling.md) [+W] — attached 2026-11-26 from Richard J. Shavelson et al. (1999), which proposed "Address task-sampling error in performance assessment by substantially increasing the number of tasks rather than stratifying them"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

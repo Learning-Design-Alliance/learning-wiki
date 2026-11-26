@@ -49,3 +49,5 @@ Benchmark comparison on four public knowledge tracing datasets (ASSISTments2009,
 - [Augmenting DKT with auxiliary KCs improves AUC on all datasets except Algebra2005, where it performs slightly worse than original DKT](dkt-aux-mixed-gains.md) — related
 - [The quantization layer is important to SBRKT: removing it (dense variant) underperforms significantly, and auxiliary KCs from quantized variants transfer better](quantization-layer-ablation.md) — related
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — related
+- [DKVMN reaches higher prediction accuracy than DKT with substantially fewer parameters, especially at low state dimensions](dkvmn-better-accuracy-fewer-parameters.md) — related
+- [DKVMN consistently outperforms BKT, DKT and a MANN baseline in knowledge-tracing prediction AUC across four datasets](dkvmn-outperforms-dkt-mann-bkt-auc.md) — related

@@ -18,7 +18,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (10 for, 6 mixed, 2 against) · 18 studies (6 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 6 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (12 for, 6 mixed, 2 against) · 19 studies (7 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 7 of 19 report an effect size · 19 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -56,6 +56,8 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [The review reports that repeated testing produced better long-term retention than repeated spaced study in a randomized controlled trial of residents, up to 6 months after a conference](../claims/repeated-testing-beats-spaced-study-residents-rct-reported.md) [+W] — attached 2026-11-08 from Morin CE et al. (2019), which proposed "Desirable difficulties: effortful encoding strategies that slow initial learning but improve long-term retention"; tests this page's relationship.
 - [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](../claims/repeated-retrieval-beats-restudy-long-term.md) [+W] — attached 2026-11-09 from Brame CJ (2015), which proposed "Bjork and Bjork's new theory of disuse as an explanation for the testing effect".
 - [Retrieval practice (testing) often appears no better than restudying in the short term but produces better long-term retention, even without feedback](../claims/testing-effect-learning-performance-dissociation.md) [+W] — attached 2026-11-24 from Nicholas C. Soderstrom et al. (2015), which proposed "Bjork and Bjork's storage strength and retrieval strength theory indexes learning and performance, respectively"; tests this page's relationship.
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](../claims/pretesting-enhances-retention-over-extended-study.md) [+M] — attached 2026-11-26 from Richland et al. (2009), which proposed "Unsuccessful retrieval attempts enhance future learning through retrieval-route strengthening and deep processing mechanisms"; tests this page's relationship.
+- [Attempting to answer pretest questions produces better retention than memorizing the same questions without attempting answers](../claims/attempting-answers-beats-memorizing-questions.md) [+M] — attached 2026-11-26 from Richland et al. (2009), which proposed "Unsuccessful retrieval attempts enhance future learning through retrieval-route strengthening and deep processing mechanisms"; tests this page's relationship.
 
 ## The evidence by question
 

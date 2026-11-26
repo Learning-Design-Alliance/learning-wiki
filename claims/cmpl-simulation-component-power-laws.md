@@ -71,3 +71,5 @@ Second simulation mimicking Experiment 1 conditions (18 participants, 12 problem
 - [In one uncontrolled pre-post study, the shift to memory-based retrieval during skill practice was observed to be item-specific rather than task-general](item-specific-strategy-shift.md) — related
 - [Item-level response times showed step-function decreases from before to after practice in an alphabet arithmetic experiment, in one group with no comparison group](smooth-speedup-questioned-global-laws.md) — related
 - [Item-level response times exhibit pronounced step-function decreases with practice that are uniquely predicted by the CMPL strategy selection model](step-function-rt-decreases-cmpl-prediction.md) — related
+- [Simulated races between algorithm and memory preserve the power law, with memory dominating after about 16 presentations](simulation-race-memory-dominates.md) — related
+- [Strategy shifts during practice are rarely one-way stepwise transitions, averaging 2.39, 2.12, and 3.23 switches per problem across the three experiments](strategy-shifts-rarely-stepwise.md) — related

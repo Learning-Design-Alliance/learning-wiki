@@ -57,3 +57,4 @@ Narrative review of Sidi et al. (2015), university students solving CRT reasonin
 - [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — related
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Low to medium disfluency does not harm learning and sometimes descriptively improves it, though the effect is unstable](disfluency-low-levels-not-harm-learning.md) — related
+- [Readers have better calibrated (more accurate) judgement of their performance when reading from paper compared to screens (g = .20)](paper-better-calibration-metacognition.md) — related

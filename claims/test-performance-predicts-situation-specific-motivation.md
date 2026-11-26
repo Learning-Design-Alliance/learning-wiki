@@ -73,3 +73,4 @@ At the student level of the same cross-classified models, students' average perf
 - [Higher high-school math grades and advanced math course-taking predict higher test-specific motivation even after controlling for test performance](prior-math-achievement-predicts-test-specific-motivation-beyond-performance.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related
+- [Within school subjects, controlled motivation shows self-diminishing effects on competence beliefs and autonomous motivation](within-subject-controlled-motivation-diminishes.md) — related

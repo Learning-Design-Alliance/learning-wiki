@@ -48,3 +48,4 @@ Lag sequential analysis of gaze movement across AOIs for high- and low-EF learne
 - [High-EF learners rely significantly more on the top-down tracking window than the bottom-up tracking window, regardless of visual scaffolding](high-ef-learners-prefer-top-down-strategy.md) — related
 - [Real-time visual scaffolding does not significantly change high-EF learners' strategy use between scaffolding and non-scaffolding conditions](scaffolding-no-effect-high-ef-strategy.md) — related
 - [Low-EF learners without visual scaffolding prefer bottom-up strategies, while low-EF learners with visual scaffolding shift toward top-down strategies](visual-scaffolding-shifts-low-ef-to-top-down.md) — related
+- [Strategy shifts during practice are rarely one-way stepwise transitions, averaging 2.39, 2.12, and 3.23 switches per problem across the three experiments](strategy-shifts-rarely-stepwise.md) — related

@@ -53,3 +53,4 @@ Demographic comparison of the 1,237 CAMEO certificates against 96,367 non-CAMEO 
 - [Among earners of 20 or more certificates, 25% have used the CAMEO strategy](cameo-rate-25-percent-among-20-plus-certificate-earners.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [About 12.9% of certificate earners in an introductory physics MOOC used CAMEO to obtain more than 1% of their correct answers, and 3.7% obtained the majority](cameo-prevalence-certificate-earners.md) — related

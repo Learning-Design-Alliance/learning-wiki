@@ -177,3 +177,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Girls' self-confidence declines more sharply than boys' between elementary and high school, preceding a widening achievement gap](confidence-gap-adolescence-girls.md) — related
 - [The GIST study concluded that girls' underachievement in science stemmed from choosing not to study science rather than lacking opportunity](gist-choosing-not-opportunity.md) — related
 - [Gender and grade interact: fourth-grade males show higher disengagement and maladaptive motivation than females, but the gender gap narrows in higher grades](gender-grade-interaction-mes.md) — related
+- [Gender differences in response to improvement-based relative performance feedback: girls show stronger motivation and math gains, boys report higher self-efficacy and liking of competition](rpf-gender-differences-low-achievers.md) — related

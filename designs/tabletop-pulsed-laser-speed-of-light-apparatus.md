@@ -43,7 +43,8 @@ A small tabletop setup in which a pulsed laser (1.0 MHz quartz-generated modulat
 - 
 
 ## Related Designs
-- 
+
+- [Design introductory measurement experiments that are conceptually clear, visible, tabletop-sized, safe, and inexpensive](accessible-visible-safe-inexpensive-experiment-design.md)
 
 ## Examples
 -

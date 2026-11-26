@@ -1,0 +1,300 @@
+# Wang, Lamb, Saveliev et al. (2020): the dataset paper for the NeurIPS 2020
+# Education Challenge (Eedi diagnostic questions).
+#
+# A DATASET DESCRIPTION, not a study of learning. The paper reports no effect,
+# no comparison and no analysis of the answers; what it prints about its own
+# data is the size of the two released training sets, the answer format and
+# the preprocessing. So every observation here is a count, and each names the
+# released dataset it describes with `arm_ref`. The two datasets use disjoint
+# question sets and separately anonymised ids, and the paper says the ids must
+# not be linked, so the student counts of the two are NOT summed anywhere:
+# nothing in the source says whether the same learners appear in both.
+#
+# `population.age: unreported`: the paper describes the PLATFORM as serving
+# students "from primary to high school (roughly between 7 and 18 years old)".
+# That is an approximate range for the platform's audience, not a figure about
+# the released sample, so it is kept in prose and not recorded as min/max. The
+# released student metadata carries a DateOfBirth column, but the paper prints
+# no age distribution from it.
+#
+# No reliability is printed: answers are scored automatically against the key,
+# and the expert question-quality judgements used to score Task 3 are withheld
+# and not described numerically.
+#
+# Read from the arXiv copy (v3, 12 Apr 2021), text layer.
+
+schema_version: 2
+
+study:
+  key: wang-2020
+  citation: "Wang, Z., Lamb, A., Saveliev, E., Cameron, P., Zaykov, Y., Hernández-Lobato, J. M., Turner, R. E., Baraniuk, R. G., Barton, C., Peyton Jones, S., Woodhead, S., & Zhang, C. (2020). Instructions and guide for diagnostic questions: The NeurIPS 2020 Education Challenge. arXiv:2007.12061."
+  doi: "10.48550/arXiv.2007.12061"
+  design:
+    family: other
+    design_detail: >-
+      Description of a released dataset: students' answers to four-option
+      multiple-choice diagnostic mathematics questions on the Eedi platform,
+      September 2018 to May 2020, prepared for a machine-learning competition
+      with four tasks (predict correctness, predict the option chosen, rank
+      question quality against expert judgements, choose ten questions per
+      student adaptively). Preprocessing as stated: for Tasks 1 and 2,
+      questions with fewer than 50 answers and students with fewer than 50
+      answers removed; for Tasks 3 and 4, students with fewer than 50 answers
+      to the fixed question set removed; only the latest answer kept where a
+      student answered a question more than once. Tasks 1-2 answer records,
+      and Tasks 3-4 students, split at random 80%/10%/10% into training,
+      public test and private test sets. No intervention was assigned and no
+      analysis of learning is reported.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: other
+  size:
+    value: 2
+    unit: other
+  additional_sizes:
+    - value: 948
+      unit: items
+      note: "question images released for Tasks 3 and 4 (0.jpg to 947.jpg), the same 948 questions Task 3 asks to be ranked"
+  population:
+    description: >-
+      Students answering crowd-sourced diagnostic mathematics questions on
+      Eedi, an online platform the paper describes as used in tens of
+      thousands of schools. Student metadata released: gender, date of birth
+      (rounded to the first of the month) and eligibility for free school
+      meals or pupil premium.
+    age_or_stage: >-
+      The paper describes the platform's audience as "from primary to high
+      school (roughly between 7 and 18 years old)"; it prints no age figure
+      for the released sample.
+    age: unreported
+  context:
+    setting: >-
+      Online formative assessment: diagnostic questions assigned to students
+      by class (GroupId), quiz and scheme of work, answered September 2018 to
+      May 2020, with an optional confidence rating per answer.
+  arms:
+    - id: tasks-1-2-training-set
+      description: >-
+        The training set released for Tasks 1 and 2 (train_task_1_2.csv): one
+        record per student-question pair, with the option chosen, the correct
+        option and a correctness indicator.
+      implementation_notes:
+        - "Questions with fewer than 50 answers and students with fewer than 50 answers removed; answer records split 80/10/10 into training, public test and private test"
+    - id: tasks-3-4-training-set
+      description: >-
+        The training set released for Tasks 3 and 4 (train_task_3_4.csv), on a
+        fixed question set disjoint from that of Tasks 1 and 2, with the
+        question images.
+      implementation_notes:
+        - "Students with fewer than 50 answers to these questions removed; students split 80/10/10 into training, public test and private test"
+
+comparisons: []
+
+observations:
+
+  - id: tasks-1-2-questions
+    arm_ref: tasks-1-2-training-set
+    outcome:
+      construct: "Number of questions in the released data"
+      source_language: "questions"
+      measure: "Distinct questions in the Tasks 1-2 training set after preprocessing"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 27613
+      unit: "questions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 1 and 2: 27613 questions, 118971 students, 15867850 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  - id: tasks-1-2-students
+    arm_ref: tasks-1-2-training-set
+    outcome:
+      construct: "Number of students in the released data"
+      source_language: "students"
+      measure: "Distinct students in the Tasks 1-2 training set after preprocessing"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 118971
+      unit: "students"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 1 and 2: 27613 questions, 118971 students, 15867850 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  - id: tasks-1-2-answers
+    arm_ref: tasks-1-2-training-set
+    outcome:
+      construct: "Number of answer records in the released data"
+      source_language: "answers"
+      measure: "Answer records (one per student-question pair) in the Tasks 1-2 training set"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 15867850
+      unit: "answer records"
+      note: "The training split only; the public and private test records held back are not counted in this figure."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 1 and 2: 27613 questions, 118971 students, 15867850 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  - id: tasks-3-4-questions
+    arm_ref: tasks-3-4-training-set
+    outcome:
+      construct: "Number of questions in the released data"
+      source_language: "questions"
+      measure: "Distinct questions in the Tasks 3-4 training set"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 948
+      unit: "questions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 3 and 4: 948 questions, 4918 students, 1382727 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  - id: tasks-3-4-students
+    arm_ref: tasks-3-4-training-set
+    outcome:
+      construct: "Number of students in the released data"
+      source_language: "students"
+      measure: "Distinct students in the Tasks 3-4 training set (the 80% training share of students)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 4918
+      unit: "students"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 3 and 4: 948 questions, 4918 students, 1382727 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  - id: tasks-3-4-answers
+    arm_ref: tasks-3-4-training-set
+    outcome:
+      construct: "Number of answer records in the released data"
+      source_language: "answers"
+      measure: "Answer records in the Tasks 3-4 training set"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "answers given September 2018 to May 2020"
+    result:
+      measure_type: count
+      estimate: 1382727
+      unit: "answer records"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Tasks 3 and 4: 948 questions, 4918 students, 1382727 answers"
+    source_location: "Section 2.1, Primary Data"
+
+  # The answer format, a property of every question in both datasets. It is
+  # what fixes the chance level of a guess and the three distractors whose
+  # choice the paper says reveals a misconception.
+  - id: answer-options-per-question
+    arm_ref:
+      - tasks-1-2-training-set
+      - tasks-3-4-training-set
+    outcome:
+      construct: "Answer options per question"
+      source_language: "4 possible answer choices, exactly one of which is correct"
+      measure: "Options per multiple-choice diagnostic question (AnswerValue and CorrectAnswer take values 1 to 4)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as released"
+    result:
+      measure_type: count
+      estimate: 4
+      unit: "answer options per question, exactly one correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Each diagnostic question is a multiple-choice questions with 4 possible answer choices, exactly one of which is correct."
+    source_location: "Section 2, Data"
+
+not_yet_extracted:
+  - "The public and private test sets (10% each) are described but not counted in the paper; only the training-set sizes are printed."
+  - "The answer metadata include a 0-100 confidence rating per answer; the paper prints no distribution of it."
+  - "Expert pairwise question-quality judgements are used to score Task 3 but are withheld; the paper prints no number of experts or pairs (Figure 5's 5 pairs and 3 experts are an illustration)."

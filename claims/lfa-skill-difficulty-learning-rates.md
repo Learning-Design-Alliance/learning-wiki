@@ -48,3 +48,4 @@ Experiment 1 fits the multiple logistic regression model (equation 2) to the Are
 ## Related Claims
 - [LFA identifies over-taught and under-taught skills, and split skills can hide under-practiced subskills such as CMsegment](lfa-identifies-overtaught-undertught-skills.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [Retrieval and calculation strategies differ in intercept (retrieval faster) but not in power-law slope](strategy-intercepts-differ-slopes-do-not.md) — related

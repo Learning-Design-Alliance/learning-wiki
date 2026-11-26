@@ -40,7 +40,9 @@ A unit-level laboratory design in which the same experiments (inverse square law
 ### Claims
 
 ## Related Designs
+
 - [Real Time Lab Visualization Not Simulations](../strategies/real-time-lab-visualization-not-simulations.md)
+- [Design introductory measurement experiments that are conceptually clear, visible, tabletop-sized, safe, and inexpensive](accessible-visible-safe-inexpensive-experiment-design.md)
 
 ## Examples
 -

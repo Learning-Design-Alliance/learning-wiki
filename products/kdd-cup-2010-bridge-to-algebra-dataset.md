@@ -34,6 +34,7 @@ A Carnegie Learning–donated dataset distributed through the PSLC DataShop cont
 
 - [FoundationalASSIST dataset](foundationalassist-dataset.md)
 - [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
+- [Four tutor log datasets (Fractions, Algebra, Geometry, Physics) from Carnegie Learning and Andes via DataShop](four-tutor-log-datasets-fractions-algebra-geometry-physics-from-carnegie-learning-and-ande.md)
 
 ## Key Sources
 - Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup

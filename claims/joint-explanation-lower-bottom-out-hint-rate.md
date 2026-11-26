@@ -50,3 +50,4 @@ Controlled lab experiment with 39 undergraduates in second-semester physics rand
 - [Dyads show shorter correct-entry latencies than individuals during tutored physics problem solving](dyads-shorter-correct-entry-latencies.md) — related
 - [The hint-usage advantage of joint-explanation dyads held on all problems except Problem 2](hint-advantage-all-but-problem-2.md) — a narrower finding that bears on this claim
 - [Dyads requested nearly half as many total on-demand hints as individual self-explainers while solving Andes physics problems](joint-explanation-fewer-on-demand-hints.md) — related
+- [When students generated a correct entry after a bottom-out hint, they were successful in about 90% of instances](bottom-out-hint-eventual-success-90-percent.md) — related

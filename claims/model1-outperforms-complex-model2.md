@@ -56,3 +56,4 @@ Results section comparison of four architectures evaluated with 10-fold cross-va
 - [Wikipedia2Vec keyword embeddings yield higher episodic returns than one-hot keyword encodings, but the model appears to overfit each corpus rather than leverage entity relationships](wikipedia2vec-embeddings-beat-onehot-overfit.md) — related
 - [ANN prediction accuracy depends on hidden-node count, with 9 hidden nodes optimal and larger or smaller configurations showing overfitting or underfitting](hidden-node-count-ann-overfitting-underfitting.md) — related
 - [The optimal number of frozen layers depends on data complexity and target-domain data volume: more frozen layers suit complex, small datasets; fewer suit simpler, larger ones](frozen-layer-count-depends-on-data-complexity-and-volume.md) — related
+- [Despite BIC suggesting overfitting, PFA's 7-fold crossvalidated mean absolute deviation shows it generalizes well](pfa-crossvalidation-generalizes.md) — related

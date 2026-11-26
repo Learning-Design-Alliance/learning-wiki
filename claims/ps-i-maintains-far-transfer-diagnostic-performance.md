@@ -53,3 +53,4 @@ Between-groups experiment (PS-I n = 43, I-PS n = 37) in PharmaSim with pharmacy 
 - [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — related
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — reports the opposite
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related

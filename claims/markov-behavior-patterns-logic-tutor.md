@@ -88,3 +88,4 @@ Exploratory Mann-Whitney U comparison of per-student transition probabilities be
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5](behavioral-shift-goal-oriented-optimization.md) — related
 - [Within problems, students' strongest transitions reflect persistence in ongoing states and immediate replay after successful solutions](within-problem-persistence-and-immediate-replay-transitions.md) — related
+- [Higher-knowledge learners are more likely to seek help after an error, despite objectively needing it less](high-knowledge-learners-seek-help-after-error.md) — related

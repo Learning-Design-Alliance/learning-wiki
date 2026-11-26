@@ -75,3 +75,4 @@ Guessing trait estimates from the reduced 2P3TL model (χj ≡ 0) of first-attem
 - [Adding a copying trait to IRT improves the predictive power of first-attempt homework ability relative to exam-derived ability](copying-trait-improves-homework-ability-prediction.md) — related
 - [Copy events occurred for about 9% of students, roughly half were followed by sustained browser switches consistent with Googling, but copying students' scores were not significantly higher](copy-events-googling-pattern-no-score-benefit.md) — related
 - [Most students began the semester with productive strategies but a significant fraction shifted to less productive guessing or copying strategies as the course progressed](strategy-shift-to-copying-by-semester-end.md) — related
+- [Low gamers game by guessing more than high gamers, while high gamers skip more high-level hints, plan less, and copy more bottom-out hints](low-versus-high-gamer-gaming-profiles.md) — related

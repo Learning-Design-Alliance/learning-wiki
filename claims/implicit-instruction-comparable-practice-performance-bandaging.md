@@ -51,3 +51,4 @@ Study 1 was a randomized comparison of 19 explicit-instruction and 23 implicit-i
 - [Explicitly instructed students memorized more movement-related rules than implicitly instructed students after three training sessions](explicit-group-recalled-more-rules.md) — related
 - [Three bandaging training sessions were insufficient for most students to reach the desired pressure range, regardless of instruction type](three-sessions-insufficient-bandaging-proficiency.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
+- [Apprentices left to study redundant text-diagram material implicitly spent less time processing it and outperformed apprentices explicitly instructed to integrate text with diagram](explicit-integration-instruction-impedes-exp3.md) — related

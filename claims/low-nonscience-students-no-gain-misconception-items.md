@@ -49,3 +49,4 @@ Item-level hierarchical logistic regression results for the low nonscience subgr
 - [On items with strong misconceptions, teacher SMK alone does not raise gains; only SMK combined with knowledge of the student misconception does](smk-insufficient-kosm-needed-misconception-items.md) — related
 - [Teacher subject matter knowledge predicts larger student gains on non-misconception items in middle school physical science](teacher-smk-predicts-gains-non-misconception-items.md) — related
 - [Middle school physical science teachers show strong SMK but weak knowledge of student misconceptions](teachers-kosm-weak-relative-to-smk.md) — related
+- [Stronger item misconception strength makes items harder to maintain or gain for students of teachers lacking KOSM, but easier for students of teachers with both SMK and KOSM](misconception-strength-bifurcated-by-teacher-kosm.md) — related

@@ -46,3 +46,4 @@ Authors' interpretation of the contrast between high homework averages (88%) and
 
 ## Related Claims
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
+- [When students generated a correct entry after a bottom-out hint, they were successful in about 90% of instances](bottom-out-hint-eventual-success-90-percent.md) — related

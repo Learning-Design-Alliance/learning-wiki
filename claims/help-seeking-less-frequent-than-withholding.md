@@ -51,3 +51,4 @@ Experiment 2a strategy-use frequencies (Table 1: 17.27% help requests vs 48.09% 
 - [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) — related
 - [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — related
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related
+- [Higher-knowledge learners are more likely to seek help after an error, despite objectively needing it less](high-knowledge-learners-seek-help-after-error.md) — related

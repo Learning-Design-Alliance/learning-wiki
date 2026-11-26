@@ -49,3 +49,4 @@ Model-search experiment (Experiment 2) running LFA on Geometry Area Unit tutor l
 - [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md) — a broader claim this one bears on
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related
 - The LFA implementation evaluates a single model in seconds and searches hundreds of models in 4-5 hours — related
+- [Full LFA is marginally superior to PFA on LL and BIC in 3 of 4 datasets, but PFA ties or beats LFA on the Fractions dataset](pfa-approaches-lfa-accuracy.md) — related

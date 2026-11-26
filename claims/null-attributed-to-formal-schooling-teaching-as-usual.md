@@ -68,3 +68,4 @@ Authors' framing of the RCT outcome in the Discussion: despite a larger sample t
 - [In a pre-registered RCT, neither the forward nor bidirectional number board game (nor the alphabet control) produced a statistically significant condition effect on numerical or letter-sound outcomes in four- to five-year-olds](number-board-game-no-condition-effect-young-children.md) — related
 - [Small sample size and slight pretest imbalance may have masked potential positive effects of computer games](small-sample-limits-game-effect-detection.md) — related
 - [Neither age (within 7-13) nor prior knowledge played a significant role in achieving high post-test outcomes](age-and-prior-knowledge-not-significant.md) — related
+- [Nine randomized controlled trials support a causal effect of prior knowledge on posttest knowledge (rP+ = .394), not attributable to intelligence confounding](rct-causal-prior-knowledge-posttest-effect.md) — related

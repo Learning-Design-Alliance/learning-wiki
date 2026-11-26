@@ -60,3 +60,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — related
 - [The intervention lengthens students' interleaved sequences, and longer interleaved runs correlate with better classification accuracy](longer-interleaved-runs-after-intervention.md) — related
+- [The spacing advantage in perceptual induction learning persists when the memory load is low (only three similar artists to learn)](interleaving-benefit-persists-low-memory-load.md) — related

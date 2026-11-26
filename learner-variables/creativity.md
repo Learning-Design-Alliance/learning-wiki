@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (148 show a difference, 31 mixed, 14 no difference) · 103 studies (42 causal, 25 associational, 13 review, 9 quant-synthesis, 7 design, 4 theoretical, 3 qualitative), `q1`–`q3` · 21 of 103 report an effect size · 191 claims rest on one study
+> **Evidence** · 196 claims (150 show a difference, 32 mixed, 14 no difference) · 104 studies (42 causal, 26 associational, 13 review, 9 quant-synthesis, 7 design, 4 theoretical, 3 qualitative), `q1`–`q3` · 22 of 104 report an effect size · 194 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -228,6 +228,9 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](../claims/genai-misuse-may-undermine-critical-thinking-creativity.md) [~W] — measured as an outcome of the instruction studied
 - [In algebra-based introductory physics courses, instructors can use creative projects to foster creativity and critical thinking while students connect physics with humanities, social sciences, and everyday life](../claims/intro-physics-courses-opportunity-connect-humanities-everyday-life.md) [+W] — measured as an outcome of the instruction studied
 - [Intelligence and divergent thinking show a small-to-moderate positive correlation of r = .25 after attenuation correction](../claims/intelligence-dt-overall-r-25.md) [+M] — learners who differ on it differ in outcomes
+- [Field dependent-independent cognitive style fully mediates the association between fluid intelligence and divergent thinking creativity in school-age children](../claims/fdi-fully-mediates-gf-dt-children.md) [+W] — measured as an outcome of the instruction studied
+- [Gender moderates the FDI–divergent thinking link, with a stronger effect among boys than girls](../claims/gender-moderates-fdi-dt-stronger-boys.md) [~W] — measured as an outcome of the instruction studied
+- [Gf, FDI, and DT-creativity are positively intercorrelated in school-age children, and all correlate with age](../claims/gf-fdi-dt-correlations-children.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

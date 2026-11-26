@@ -72,3 +72,4 @@ In the same path model, the authors observed that "incremental ITEIs (T1) exhibi
 - [Incremental ITEI in 10th grade positively predicts trait EI (perceiving/understanding and managing/regulating emotion) in 11th grade](incremental-itei-predicts-trait-ei-next-year.md) — related
 - [Entity ITEI in 10th grade negatively predicts emotional expression (trait EI) and ability EI performance (VET) in 11th grade](entity-itei-negatively-predicts-expression-and-ability-ei.md) — related
 - [The ITEI–outcomes model does not differ between gender groups](no-gender-moderation-itei-outcomes.md) — related
+- [Incremental theories significantly predict goal monitoring: negatively with negative emotions (r = -.233) and positively with expectations (r = .157)](incremental-theories-predict-goal-monitoring.md) — related

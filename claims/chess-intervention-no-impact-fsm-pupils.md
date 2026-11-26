@@ -69,3 +69,4 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
 - [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related
+- [The null effect of chess instruction held across pre-specified sub-groups (gender, FSM eligibility) and across the attainment distribution](chess-effect-null-across-subgroups-and-distribution.md) — a broader claim this one bears on

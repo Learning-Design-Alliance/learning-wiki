@@ -67,3 +67,4 @@ Wilcoxon rank-sum comparison at the round-1 badge checkpoint (after 25 questions
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [Badges were the strongest predictor of learning outcomes among gamification elements (β = 0.54)](badges-strongest-predictor-hijaiyah-outcomes.md) — related
+- [Treatment effects are strongest for low-achievers who earn more points or improve their ranking over the intervention, supporting the ranking as the key driver](rpf-effects-strongest-points-earned-rank-improvers.md) — related

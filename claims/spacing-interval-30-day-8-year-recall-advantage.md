@@ -51,3 +51,5 @@ Longitudinal follow-up recall test administered to original participants after e
 - [A trade-off links intersession interval and word difficulty: words learned in one or two presentations with a zero interval are recalled about as often as words learned in seven or more presentations with a 30-day interval](tradeoff-interval-by-word-difficulty-8-year-recall.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — a broader claim this one bears on
 - [The spacing benefit extends to words not mastered at the end of training](spacing-benefit-for-unmastered-words.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related
+- [Percentage improvements from optimal versus zero-day gaps grow with retention interval, reaching 111% for recall at a 70-day RI](percentage-improvements-optimal-gap-by-ri.md) — related

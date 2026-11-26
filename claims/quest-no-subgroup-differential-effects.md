@@ -65,3 +65,4 @@ Pre-specified exploratory subgroup analyses added interaction terms (Pre-test ×
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
 - [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — a narrower finding that bears on this claim
 - [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](no-gender-ses-interaction-gst-learning-gains.md) — related
+- [The null effect of chess instruction held across pre-specified sub-groups (gender, FSM eligibility) and across the attainment distribution](chess-effect-null-across-subgroups-and-distribution.md) — related

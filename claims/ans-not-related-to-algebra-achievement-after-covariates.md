@@ -56,3 +56,4 @@ Regression predicting algebra achievement in the 171-student sample. Although bo
 - [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](retrieval-errors-predict-equation-memory-only.md) — related
 - [Each of the three algebraic cognition measures independently predicts algebra achievement, controlling demographic and domain-general covariates](algebraic-cognition-measures-predict-algebra-achievement.md) — related
 - [Prior knowledge measures were strong predictors of both algebra outcomes](prior-knowledge-strong-predictor-algebra-outcomes.md) — reports the opposite
+- [After partialling out prior knowledge, errors remain a negative correlate of outcomes while slower operation predicts better outcomes](partialled-process-measures-reverse-associations.md) — related

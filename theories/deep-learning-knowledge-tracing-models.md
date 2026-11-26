@@ -18,7 +18,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 12 studies (9 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 12 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (7 for, 8 mixed, 1 against) · 13 studies (10 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 13 report an effect size · 15 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -55,6 +55,8 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — a benchmark of ten deep models on seven datasets under one protocol
 - [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](../claims/akt-outperforms-kt-baselines-auc-benchmarks.md) [+W] — attached 2026-11-18 from Context-Aware Attentive Knowledge Tracing, which proposed "Attentive Knowledge Tracing (AKT): a context-aware, interpretable attention-based knowledge tracing model".
 - [Fine-tuned LLaMA NTKT models outperform deep learning KT baselines on the Eedi dataset, exceeding 10 percentage points in AUC over the best baseline](../claims/ntkt-outperforms-kt-baselines-edi.md) [+W] — attached 2026-11-21 from Max Norris et al. (2026), which proposed "NTKT framework: knowledge tracing reformulated as causal next-token prediction over text-serialised student histories".
+- [DKVMN consistently outperforms BKT, DKT and a MANN baseline in knowledge-tracing prediction AUC across four datasets](../claims/dkvmn-outperforms-dkt-mann-bkt-auc.md) [+W] — attached 2026-11-26 from Jiani Zhang et al. (2017), which proposed "DKVMN: a key-value memory architecture separating concept representations (static key matrix) from evolving mastery states (dynamic value matrix)".
+- [DKVMN's correlation weights automatically discover underlying concepts of exercises without expert annotation](../claims/dkvmn-automatic-concept-discovery.md) [+W] — attached 2026-11-26 from Jiani Zhang et al. (2017), which proposed "DKVMN: a key-value memory architecture separating concept representations (static key matrix) from evolving mastery states (dynamic value matrix)".
 
 ## The evidence by question
 
@@ -67,7 +69,8 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking](colearn-multi-task-hint-knowledge-model.md)
 
 ## Examples
--
+
+- [Deploy knowledge-tracing models that expose per-concept mastery levels so platforms can tailor practice and students can target their own gaps](../strategies/concept-level-mastery-visibility-for-practice-personalization.md)
 
 ## Key Sources
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106

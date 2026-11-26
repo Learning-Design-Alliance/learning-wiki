@@ -54,3 +54,5 @@ Definitional and synthetic review statement contrasting two motivational regulat
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](motivational-regulation-knowledge-longitudinal-procrastination.md) — related
 - [Classroom context, not only student characteristics, drives whether students engage out of fear or self-expression](context-drives-fear-or-self-expression.md) — related
 - [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related
+- [Fear of failure is strongly positively associated with habitual academic self-handicapping (r = .39)](fear-of-failure-strong-antecedent-self-handicapping.md) — related
+- [Neuroticism is positively associated with habitual academic self-handicapping (r = .38)](neuroticism-positive-antecedent-self-handicapping.md) — related

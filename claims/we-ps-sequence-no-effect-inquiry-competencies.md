@@ -86,3 +86,4 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [An integrated worked-example learning environment improves near transfer of applicable knowledge in empirical research methods training](worked-examples-improve-near-transfer-research-methods.md) — related
 - [Students using worked-example worksheets in weekly Supplemental Practice sessions significantly outperformed control students on test 3 and the final exam in a large College Algebra course](sp-worked-examples-outperform-test3-final.md) — related
 - [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related
+- [Experiment 1: no significant difference between sequences on transfer post-test questions](exp1-no-difference-transfer-questions.md) — related

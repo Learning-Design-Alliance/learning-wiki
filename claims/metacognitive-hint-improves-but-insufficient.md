@@ -48,3 +48,4 @@ In the same band-problem experiment, a hint naming the similarity increased solv
 - [Students tend to focus on a problem's surface structure, blocking transfer of a known solution to a new scenario](surface-structure-blocks-analogical-transfer.md) — related
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
 - [After learning from the solved isomorphic problem, students could invoke the relevant principles but were often unable to apply them correctly when application details changed](invoke-but-not-apply-principles-isomorphic-transfer.md) — related
+- [Spontaneous noticing of a disparate-domain analogy is rare even when the analog is available and applicable](spontaneous-analogy-noticing-gap.md) — related

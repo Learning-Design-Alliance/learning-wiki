@@ -1,0 +1,452 @@
+# Cooper, Nye, Charlton, Lindsay & Greathouse (1996): the effect of summer
+# vacation on achievement test scores, narrative and meta-analytic review.
+#
+# Recorded here is the META-ANALYSIS of the 13 post-1975 reports only. The
+# vote count over the 26 pre-1975 studies (Tables 1-2) is a different synthesis
+# with a different method and is listed in not_yet_extracted.
+#
+# THE SHAPE: every effect is a standardized mean CHANGE within one sample,
+# fall minus spring over the sample's own spring SD ("d-index"), so the arms are
+# the two test occasions and the comparison is within-subject-baseline. Negative
+# means a summer loss.
+#
+# TWO DATA SETS, ONE SOURCE OF THE GAP: the Sustaining Effects Study (SES)
+# contributes 38,384 of 47,994 students and reports gains, so the weighted
+# overall estimate is +.02 with it and -.13 without it. The abstract's "one
+# tenth of a standard deviation" is the unweighted figure (-.09 with the SES,
+# -.10 without). All four are recorded, because the source prints all four and
+# no one of them is "the" estimate.
+#
+# No confidence bounds are printed anywhere: an asterisk marks a weighted
+# average whose 95% CI excludes zero, and that is recorded as interpretation,
+# never as an interval. Intercoder reliability is described (two coders,
+# discrepancies resolved in conference) but no coefficient is printed. The
+# article prints grades, never ages, so `age: unreported`.
+#
+# Read from the JSTOR scan of the published article (pp. 227-268). The scan
+# carries no DOI; the DOI was checked against Crossref (title, authors, year,
+# journal, volume and pages agree).
+
+schema_version: 2
+
+study:
+  key: cooper-1996
+  citation: "Cooper, H., Nye, B., Charlton, K., Lindsay, J., & Greathouse, S. (1996). The effects of summer vacation on achievement test scores: A narrative and meta-analytic review. Review of Educational Research, 66(3), 227–268."
+  doi: "10.3102/00346543066003227"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Narrative review of 39 reports, with a vote count of the 26 pre-1975
+      studies and a meta-analysis of the 13 reports from 1975 on. Effect sizes
+      are spring-to-fall change scores within each sample: a d-index (fall mean
+      minus spring mean over the average of the two SDs) and a difference in
+      grade-level equivalents (DGLE). Unweighted and inverse-variance-weighted
+      averages; shifting unit of analysis; moderators tested by homogeneity
+      analysis. No comparison group of students who were not on vacation.
+  synthesis:
+    model: "Unweighted averages and averages weighted by the inverse of each effect size's variance, with variance estimated as (1 + d^2/4)/n; 95% confidence intervals computed for weighted d-indexes only"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - ERIC
+        - PsycLIT
+      date_range: "ERIC 1982-1994; PsycLIT 1987-1994; plus reference sections of recent reports and requests to active researchers"
+      records_included: "39 reports reviewed; 13 reports from 1975 on meta-analysed, 12 of which contributed effect sizes"
+    data_handling:
+      - "Shifting unit of analysis: a sample's several d-indexes are averaged before entering an overall analysis, but contribute one effect per category in a moderator analysis"
+      - "Each sample independently coded by two coders on 18 characteristics; discrepancies resolved in conference"
+      - "Results reported with and without the Sustaining Effects Study; moderator tests use an edited data set with the SES weights reduced and spelling and the four largest effect sizes excluded"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: summer-loss-one-month-grade-level-equivalent
+    bearing: supports
+    anchor: cooper-1996
+  - claim: summer-loss-grade-moderation-gender-race-null
+    bearing: qualifies
+    anchor: cooper-1996
+
+evidence_base:
+  unit: reports
+  size:
+    value: 13
+    unit: reports
+  additional_sizes:
+    - value: 66
+      unit: other
+      note: "independent samples, described in 12 of the 13 reports, contributing d-indexes and/or DGLEs"
+    - value: 62
+      unit: other
+      note: "independent samples contributing d-indexes, from 11 reports"
+    - value: 118
+      unit: effect-sizes
+      note: "separate d-index estimates from the 62 samples"
+    - value: 43
+      unit: other
+      note: "samples, in five reports, contributing DGLEs"
+    - value: 47994
+      unit: participants
+      note: "students across all samples; 38,384 of them in the five SES samples"
+    - value: 9610
+      unit: participants
+      note: "students in the 61 non-SES samples (sample sizes 24 to 683, mean 153)"
+  population:
+    description: >-
+      US school students in samples reported from 1975 to the 1990s: 28 samples
+      described as low-income, 20 middle-income, 11 mixed, 7 unspecified; 10
+      all-White and 6 all-Black samples; 9 all-male and 9 all-female; 31 urban,
+      4 suburban, 1 rural.
+    age_or_stage: "Kindergarten to Grade 8 by the samples described (Table 9 covers Grades 1-8); no ages are printed"
+    age: unreported
+  context:
+    setting: "Standardized achievement tests given in spring and again in fall; mean spring-to-fall interval 131 days (range 92 to 153) in the 34 samples reporting it, so most intervals include some instructional time"
+  variation:
+    - dimension: "Decade of report"
+      distribution: "31 samples from 1970s reports, 27 from the 1980s, 8 from the 1990s"
+    - dimension: "Metric of change"
+      distribution: "absolute measures in 12 samples, relative (normed) measures in 58, both in 4"
+  arms:
+    - id: spring-test
+      description: "Each sample's achievement test scores in spring, before the summer break."
+    - id: fall-test
+      description: "The same sample's achievement test scores in fall, after the summer break."
+
+comparisons:
+  - id: fall-vs-spring
+    kind: within-subject-baseline
+    index_arm: fall-test
+    reference_arm: spring-test
+    description: "Fall score minus spring score within each sample, pooled across samples."
+
+observations:
+
+  - id: overall-d-unweighted-with-ses
+    sample:
+      value: 46421
+      unit: participants
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Achievement test score"
+      source_language: "achievement test scores"
+      measure: "Standardized achievement tests, all subjects; a sample's several d-indexes averaged into one"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break (mean interval 131 days)"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.09
+      k:
+        value: 62
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 574.8
+        interpretation: "chi-square(61, n = 62) = 574.8, p < .0001: more variance than sampling error alone"
+      model: "Unweighted average, data set including the SES"
+      interpretation: "Read by the authors as the average fall score one tenth of a standard deviation below spring"
+    moderators:
+      reported:
+        - variable: "Student gender and race"
+          relationship: "No systematic relation of average d-indexes to all-male vs all-female or all-White vs all-Black samples"
+          source_quote: "Homogeneity analyses that compared all-male samples to all-female ones, and all-White samples to all-Black ones, found no systematic relation of average d-indexes to these student individual differences."
+        - variable: "Year of report"
+          relationship: "With the SES included, more recent samples showed less negative d-indexes; without it, no linear effect"
+          source_quote: "With the SES included in the data set, more recent samples revealed less negative d-indexes, X2(1, n = 62) = 11.27, p \\< .001; without the SES, however, no linear effect was shown, X2(1, n = 57) = 0.91, n.s."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The sample size is the Table 4 total for the 62 samples. No interval is
+      printed, and the authors computed confidence intervals for weighted
+      averages only.
+    source_quote: "This analysis estimated the unweighted overall effect of summer vacation to be d = -.09. Thus, the average student's fall score was one tenth of a standard deviation below where it had been in the spring."
+    source_location: "Overall Effect of Summer Vacation, p. 253; Table 4"
+
+  - id: overall-d-weighted-with-ses
+    sample:
+      value: 46421
+      unit: participants
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Achievement test score"
+      source_language: "achievement test scores"
+      measure: "Standardized achievement tests, all subjects"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.02
+      k:
+        value: 62
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 574.8
+        interpretation: "chi-square(61, n = 62) = 574.8, p < .0001"
+      model: "Inverse-variance weighted average, data set including the SES"
+      interpretation: "Table 4 marks it with an asterisk: its 95% confidence interval does not contain zero. The authors attribute the positive sign to the SES, four times larger than the rest of the evidence base combined"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "However, when d-indexes were weighted by sample size, the overall average d-index equaled +.02"
+    source_location: "Overall Effect of Summer Vacation, p. 253; Table 4"
+
+  - id: overall-d-unweighted-without-ses
+    sample:
+      value: 8037
+      unit: participants
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Achievement test score"
+      source_language: "achievement test scores"
+      measure: "Standardized achievement tests, all subjects"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.10
+      k:
+        value: 57
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 297.4
+        interpretation: "chi-square(56, n = 57) = 297.4, p < .0001"
+      model: "Unweighted average, data set excluding the SES"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "This data set produced an unweighted average overall d-index of -.10 and a weighted overall average d-index of -.13."
+    source_location: "Overall Effect of Summer Vacation, p. 253; Table 4"
+
+  - id: overall-d-weighted-without-ses
+    sample:
+      value: 8037
+      unit: participants
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Achievement test score"
+      source_language: "achievement test scores"
+      measure: "Standardized achievement tests, all subjects"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.13
+      k:
+        value: 57
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 297.4
+        interpretation: "chi-square(56, n = 57) = 297.4, p < .0001"
+      model: "Inverse-variance weighted average, data set excluding the SES"
+      interpretation: "Table 4 asterisk: 95% confidence interval does not contain zero"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "This data set produced an unweighted average overall d-index of -.10 and a weighted overall average d-index of -.13."
+    source_location: "Overall Effect of Summer Vacation, p. 253; Table 4"
+
+  - id: overall-dgle-unweighted
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Achievement relative to national norms"
+      source_language: "difference in grade-level equivalents"
+      measure: "Fall minus spring grade-level equivalent score on normed achievement tests, all subjects"
+      scale: "grade-level equivalents, where .10 is one month; norms assume one month of progress over the summer"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: mean_difference
+      estimate: -0.09
+      unit: "grade-level equivalent years"
+      k:
+        value: 43
+        unit: effect-sizes
+      model: "Unweighted average over the 43 samples reporting DGLEs (none from the SES); the weighted DGLE was about -.13"
+      interpretation: "Read by the authors as a loss of about one month; DGLEs were not tested for significance"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      A relative metric: a negative DGLE can mean an absolute loss or a gain
+      smaller than the norming sample's, as the authors explain. Table 5 gives
+      6,364 students for these 43 samples.
+    source_quote: "The corresponding unweighted DGLE (for all 43 contributing samples) was -.09, or a loss of about one month."
+    source_location: "Overall Effect of Summer Vacation, p. 253; Table 5"
+
+  - id: math-d-unweighted
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Mathematics achievement test score"
+      source_language: "math-related subject areas"
+      measure: "Standardized achievement tests in math-related subject areas (computation, concepts, applications, total math)"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.14
+      model: "Unweighted average of math-related d-indexes, data set including the SES. Reading- and language-related subject areas averaged d = -.05 in the same analysis"
+    moderators:
+      reported:
+        - variable: "Subject area (math vs reading and language)"
+          relationship: "With the SES, reading and language showed significantly greater gains (weighted d +.05) than math (weighted d .00)"
+          source_quote: "The homogeneity analysis that included the SES samples revealed significantly greater summer gains for subject areas related to reading and language (weighted"
+        - variable: "Grade level"
+          relationship: "No relation to the effect of summer on math scores"
+          source_quote: "The grade level of students revealed no relation to the effect of summer vacation on math achievement test scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The analysis pooled 74 d-indexes across math and reading-and-language
+      together; the number that are math is shown only in the Figure 2
+      stem-and-leaf display, which the extracted text does not render legibly,
+      so no k is recorded for math alone.
+    source_quote: "The average unweighted d-index for math- related subject areas was d = -.14. For reading- and language-related subject areas it was d = -.05."
+    source_location: "Effect of Summer Vacation on Separate Subject Areas, p. 253"
+
+  - id: math-d-weighted-without-ses
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Mathematics achievement test score"
+      source_language: "math-related subject areas"
+      measure: "Standardized achievement tests in math-related subject areas"
+      scale: "d-index: fall mean minus spring mean over the average of the two SDs"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.16
+      model: "Weighted average of math-related d-indexes, data set excluding the SES. Reading and language: weighted d = -.11. Difference between the two areas chi-square(1, n = 64) = 4.49, p < .04"
+      interpretation: "Described as a significant loss. Table 4's total-math row without the SES gives a weighted d of -.18 over 10 samples (1,907 students), a narrower category than all math-related areas"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The 64 in the homogeneity test counts math and reading-and-language
+      d-indexes together; the math count alone is not printed in legible text.
+    source_quote: "However, now students showed significant losses in both subject areas, with greater losses evidenced in math (weighted d = -.16) than in reading and language (weighted d = -.11)."
+    source_location: "Effect of Summer Vacation on Separate Subject Areas, p. 254; Table 4"
+
+  - id: reading-relative-grade-trend
+    comparison_ref: fall-vs-spring
+    outcome:
+      construct: "Reading achievement relative to norms, by grade"
+      source_language: "relative changes in reading achievement"
+      measure: "Relative-metric reading achievement d-indexes, Grades 1-8, tested for a linear relation with grade level"
+      scale: "homogeneity chi-square for the linear grade-level term"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring to fall, across the summer break"
+    result:
+      measure_type: other
+      estimate: 64.64
+      statistic: "chi-square(1, n = 62)"
+      p_value: "< .001"
+      k:
+        value: 62
+        unit: effect-sizes
+      model: "Homogeneity analysis on the edited data set (SES weights reduced)"
+      interpretation: "As grade rises the summer effect on relative reading moves from positive (Grades 1-2) to negative and grows more detrimental (Table 9). Math showed no relation to grade"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A test statistic for a moderator, not an effect. The per-grade d-indexes
+      are in Table 9, whose extracted row text runs the grades together; they
+      are not recorded as separate observations.
+    source_quote: "More trustworthy was the finding of a significant relation of grade level to relative changes in reading achievement, X2(1, n = 62) = 64.64, p \\< .001."
+    source_location: "Other Influences, Grade level, p. 258; Table 9"
+
+not_yet_extracted:
+  - "Vote count of the 26 pre-1975 studies (Table 2): 48 of 80 comparisons showed a loss; all 17 math-computation and all 11 spelling comparisons showed losses"
+  - "Table 4 per-subject d-indexes (computation -.32 weighted, spelling -.41, reading comprehension -.19, vocabulary +.12, and the rest) and Table 5 DGLEs"
+  - "Income moderation of reading (Tables 6-8): relative d -.21 for low-income vs +.06 for middle-income samples; reading recognition -.12 vs +.13"
+  - "Length of testing interval: longer intervals associated with lesser losses in relative-metric scores for math and reading"
+  - "Table 9 per-grade averages for relative reading achievement"

@@ -58,3 +58,4 @@ The review reports, citing Sweller and Chandler (1994), four experiments on lear
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — related
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related
 - [The expertise reversal effect extends beyond the redundancy principle to other cognitive-load design principles, with direction depending on the principle](expertise-reversal-generalizes-across-principles.md) — related
+- [Physical integration of text and diagrams yields no benefit when the sources of information are independently intelligible (redundant)](integration-no-benefit-redundant-sources-exp2.md) — a narrower finding that bears on this claim

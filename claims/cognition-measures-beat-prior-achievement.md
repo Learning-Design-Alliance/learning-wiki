@@ -49,3 +49,4 @@ Comparison of unadjusted FDA models fit to the longitudinal data: Model 2 (four 
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Simple on-line process measures (time per operation, errors, help seeking) model prior knowledge and predict probe-test outcomes](process-measures-model-ability-and-outcomes.md) — related

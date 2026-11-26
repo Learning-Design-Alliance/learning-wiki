@@ -72,3 +72,4 @@ Think-aloud interviews with a pure-math version of the expression (physical symb
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
 - [Students frequently lose or cancel exponential terms when applying boundary conditions away from z = 0](inappropriate-exponential-cancellation-bcs.md) — related
 - [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
+- [Increased expertise in algebra manipulation is associated with greater resistance to Einstellung effects](einstellung-resistance-indicates-expertise.md) — related

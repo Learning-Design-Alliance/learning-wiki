@@ -55,3 +55,4 @@ Mixed-effects moderator analyses across the 49 effect sizes. For gender the auth
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
 - [The PSU–achievement relationship is not significantly moderated by sex, region, age, year of publication, study quality, achievement indicator, PSU assessment format, or publication status](psu-achievement-link-robust-to-methodological-demographic-moderators.md) — related
 - [Academic self-handicapping is moderately negatively correlated with academic achievement in field settings (mean r = -.23)](self-handicapping-achievement-mean-correlation.md) — related
+- [Gender differences in self-handicapping are inconsistent and may depend on whether measures assess behavioral versus claimed self-handicapping](gender-differences-inconsistent-measure-dependent.md) — related

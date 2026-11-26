@@ -22,7 +22,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 317 claims (151 for, 151 mixed, 15 against) · 231 studies (71 associational, 69 causal, 28 review, 18 quant-synthesis, 17 qualitative, 15 theoretical, 13 design), `q1`–`q4` · 53 of 231 report an effect size · 301 claims rest on one study
+> **Evidence** · 318 claims (152 for, 151 mixed, 15 against) · 232 studies (71 associational, 69 causal, 28 review, 19 quant-synthesis, 17 qualitative, 15 theoretical, 13 design), `q1`–`q4` · 53 of 232 report an effect size · 302 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -365,6 +365,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Students are less likely to engage in Planning during gaming clips than during non-gaming clips](../claims/less-planning-during-gaming-clips.md) [~W] — attached 2026-11-21 from Jiayi Zhang et al. (2026), which proposed "Gaming the system as maladaptive self-regulated learning ('self-regulated non-learning')".
 - [SRL transitions during gaming are disordered and misaligned with the four-stage SRL sequence, unlike non-gaming clips](../claims/disordered-srl-transitions-during-gaming.md) [+M] — attached 2026-11-21 from Jiayi Zhang et al. (2026), which proposed "Gaming the system as maladaptive self-regulated learning ('self-regulated non-learning')".
 - [In the pre-guardrail baseline corpus, self-regulated-learning behaviors were nearly absent: hint utilization was not observed and self-evaluation appeared in only two messages](../claims/srl-behaviors-absent-baseline-corpus.md) [+W] — attached 2026-11-21 from Belle Li; Lily Tan; Wei Zakharov; Colby Ben Acton; Qiang Qiu (2026), which proposed "Self-regulated learning as a cyclical forethought–performance–self-reflection process operationalized in AI-mediated dialogue".
+- [Implicit theories predict distinct self-regulatory processes, which in turn predict goal achievement](../claims/implicit-theories-predict-processes-predict-achievement.md) [+W] — attached 2026-11-26 from Burnette et al. (2012), which proposed "SOMA Model: Setting/Operating/Monitoring/Achievement framework integrating implicit theories with self-control theory"; tests this page's relationship.
 
 ## The evidence by question
 

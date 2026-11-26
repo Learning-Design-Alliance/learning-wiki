@@ -56,3 +56,4 @@ Three-level meta-analysis of 849 coefficients from 112 studies (N = 34,610), cor
 - [DT fluency scores correlate with intelligence less strongly than originality/creative-quality scores](dt-scoring-fluency-vs-originality-moderator.md) — related
 - [The intelligence–DT correlation decreases as the percentage of females in samples increases](gender-ratio-negative-moderator-dt-intelligence.md) — related
 - [The correlation between creativity test scores and IQ scores is small and positive (weighted mean r = .174), indicating a negligible relationship](negligible-iq-creativity-correlation-meta-analysis.md) — related
+- [Gf, FDI, and DT-creativity are positively intercorrelated in school-age children, and all correlate with age](gf-fdi-dt-correlations-children.md) — a narrower finding that bears on this claim

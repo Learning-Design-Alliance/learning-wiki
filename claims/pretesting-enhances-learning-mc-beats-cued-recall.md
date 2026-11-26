@@ -78,3 +78,4 @@ The commentary describes Little and Bjork (2016), who used multiple-choice and c
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
 - [Pretesting and interim testing potentiate learning of subsequent, previously untested material (review-reported)](pretesting-potentiates-subsequent-learning.md) — a narrower finding that bears on this claim
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — possibly the same claim (merge candidate)

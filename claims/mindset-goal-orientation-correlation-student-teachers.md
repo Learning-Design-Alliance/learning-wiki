@@ -50,3 +50,5 @@ Pearson Product Moment Correlation analysis of the 1409-student survey (Table 10
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](turkish-student-teachers-entity-performance-higher.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
+- [Incremental (vs. entity) theories significantly predict goal setting: negatively with performance goals (r = -.151) and positively with learning goals (r = .187)](incremental-theories-predict-goal-setting.md) — related
+- [Incremental theories significantly predict goal operating: negatively with helpless-oriented strategies (r = -.238) and positively with mastery-oriented strategies (r = .227)](incremental-theories-predict-goal-operating.md) — related

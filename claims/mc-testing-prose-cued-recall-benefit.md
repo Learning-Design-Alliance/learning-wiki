@@ -81,3 +81,4 @@ A delayed-final-test experiment by Fazio, Marsh, and Roediger (2006), cited in t
 - [Hints in multiple-try feedback improve performance on a delayed test one week later](hints-improve-delayed-testing-one-week-later.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
 - [Viewing either learning material produced statistically significant knowledge gains from pretest to post-test, and knowledge was retained at one-week delay without significant loss](learning-material-significant-pretest-posttest-gain-retained-at-delay.md) — related
+- [The pretesting effect persists after a one-week delay between study and final test](pretesting-effect-persists-one-week-delay.md) — a narrower finding that bears on this claim

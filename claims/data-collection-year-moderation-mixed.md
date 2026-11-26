@@ -69,3 +69,4 @@ Sensitivity meta-regression including the outlier study (Gumus & Atalmis, 2011) 
 - [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](leisure-digital-reading-small-positive-comprehension-association.md) — related
 - Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020 — related
 - [Academic year was not retained in any of the seven regression models and showed no significant association with any achievement measure](academic-year-not-associated-achievement.md) — related
+- [The paper-based reading advantage has increased over publication years 2000-2017](paper-advantage-increases-over-years.md) — reports the opposite

@@ -60,3 +60,5 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — a narrower finding that bears on this claim
 - [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — a narrower finding that bears on this claim
 - [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](working-memory-3-5-slots-30-seconds.md) — related
+- [Guided analogical encoding training enables novices to transfer negotiation principles to a novel test case relative to no training](guided-analogy-training-novice-transfer.md) — related
+- [Better schema abstraction is associated with greater transfer of the principle to a novel problem](schema-quality-predicts-transfer.md) — related

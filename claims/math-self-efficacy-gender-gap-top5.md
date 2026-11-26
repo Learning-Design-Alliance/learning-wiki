@@ -59,3 +59,4 @@ Meta-analytic synthesis of the remaining math motivation measures. Male top perf
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — related
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
 - [STEM interest and belonging differ by decision stage: students aged 14-15 before the physics choice report a balanced profile, while students aged 16+ who chose physics show a positive STEM orientation](stem-identity-differs-before-after-physics-choice.md) — related
+- [Gender differences in response to improvement-based relative performance feedback: girls show stronger motivation and math gains, boys report higher self-efficacy and liking of competition](rpf-gender-differences-low-achievers.md) — related

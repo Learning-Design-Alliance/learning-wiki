@@ -49,3 +49,5 @@ ANCOVA in a randomized 2×2 experiment (N = 181, prior mathematics score as cova
 - [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](instruction-first-fewer-better-solution-attempts.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
+- [Experiment 1: explicit instruction first was superior to problem-solving first on similar post-test questions (d = 0.56)](exp1-explicit-first-superior-similar-questions.md) — related
+- [Experiment 2: with element interactivity increased, explicit instruction first was superior on both similar and transfer questions](exp2-explicit-first-superior-similar-and-transfer.md) — related

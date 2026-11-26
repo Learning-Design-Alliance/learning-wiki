@@ -69,3 +69,4 @@ PROCESS Model 92 moderated serial mediation (PP→state self-esteem→trials→p
 - [Under task-involving feedback, pre-task person praise reduces motivation and indirectly lowers task performance; under ego-involving feedback it indirectly raises performance](person-praise-indirect-performance-via-motivation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Content-specific feedback shows the strongest effect (g = .91); praise is moderate (g = .42); objective feedback is weak and non-significant (g = .13)](content-specific-feedback-strongest-effect-type.md) — related
+- [Effects of implicit theories on goal setting and goal operating are stronger in the presence (vs. absence) of ego threats such as failure feedback](ego-threat-moderates-mindset-selfregulation-links.md) — related

@@ -55,3 +55,5 @@ Randomized classroom experiment with 138 biochemistry students assigned to I-PS 
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
 - [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — reports the opposite
 - [The self-selected experimental group had significantly lower prior knowledge than the control group, while hard-working level and class attendance did not differ significantly](non-equivalent-groups-lower-prior-knowledge.md) — related
+- [Experiment 1: no significant difference between sequences on transfer post-test questions](exp1-no-difference-transfer-questions.md) — related
+- [Experiment 2: with element interactivity increased, explicit instruction first was superior on both similar and transfer questions](exp2-explicit-first-superior-similar-and-transfer.md) — related

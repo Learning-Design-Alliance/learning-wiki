@@ -50,3 +50,4 @@ Results of the longitudinal retention testing at 1, 2, 3, and 5 years for the si
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — related
 - [The spacing benefit extends to words not mastered at the end of training](spacing-benefit-for-unmastered-words.md) — related
 - [A trade-off links intersession interval and word difficulty: words learned in one or two presentations with a zero interval are recalled about as often as words learned in seven or more presentations with a 30-day interval](tradeoff-interval-by-word-difficulty-8-year-recall.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related

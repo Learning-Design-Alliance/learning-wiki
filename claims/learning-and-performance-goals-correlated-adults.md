@@ -54,3 +54,4 @@ Inter-correlation in the pooled sample, consistent with prior college-student fi
 - [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md) — related
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](implicit-theories-predict-achievement-goals-math.md) — related
 - [Children's self-reported goal orientations did not prospectively predict teacher-rated effort investments](goal-orientations-no-prospective-effort-effect.md) — related
+- [Incremental (vs. entity) theories significantly predict goal setting: negatively with performance goals (r = -.151) and positively with learning goals (r = .187)](incremental-theories-predict-goal-setting.md) — related

@@ -52,3 +52,5 @@ Item-level hierarchical logistic regression (181 teachers, 9,556 students) compa
 - [Prior research found large learning-gain differences between students taught by teachers who could versus could not identify alternate conceptions on strong-distractor items](teacher-mci-knowledge-linked-to-learning-gains.md) — related
 - [Teacher subject matter knowledge predicts larger student gains on non-misconception items in middle school physical science](teacher-smk-predicts-gains-non-misconception-items.md) — related
 - [Middle school physical science teachers show strong SMK but weak knowledge of student misconceptions](teachers-kosm-weak-relative-to-smk.md) — related
+- [Stronger item misconception strength makes items harder to maintain or gain for students of teachers lacking KOSM, but easier for students of teachers with both SMK and KOSM](misconception-strength-bifurcated-by-teacher-kosm.md) — related
+- [In the main-effects model, misconception strength appeared unrelated to posttest correctness, but stratifying by teacher KOSM revealed a bifurcated relationship](misconception-strength-effect-masked-without-interaction.md) — related

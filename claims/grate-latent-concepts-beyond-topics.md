@@ -43,3 +43,5 @@ Case study of the Q-matrix discovered by GRATE on the MasteryGrids dataset (Figu
 
 ## Related Claims
 - [Attempt aggregation and the rank-based constraint each reduce fluctuations in discovered student knowledge states](grate-aggregation-smooths-knowledge-fluctuations.md) — related
+- [DKVMN's correlation weights automatically discover underlying concepts of exercises without expert annotation](dkvmn-automatic-concept-discovery.md) — related
+- [A prerequisite score derived from HawkesKT's mutual excitation parameters automatically discovers skill prerequisite relationships consistent with expert annotations](prerequisite-score-skill-relation-discovery.md) — related

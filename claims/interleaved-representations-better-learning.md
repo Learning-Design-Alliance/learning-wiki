@@ -57,3 +57,6 @@ A classroom experiment with the Fractions Tutor randomly assigned 230 analysed 4
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Moving from blocked to interleaved challenge sequencing coincided with higher pass rates in previously weak clusters, with System Level rising from 33.6% to 64.5%](interleaved-sequencing-higher-cluster-pass-rates.md) — a narrower finding that bears on this claim
 - [The Cog+Con curriculum schedule (cognitive plus persona-based content ordering) achieves the best target-domain results, while the Interleaved schedule underperforms the other schedules](cogcon-best-interleaved-underperforms.md) — related
+- [Blocked and increased sequencing of representations outperform interleaved sequencing for representational knowledge in a fractions ITS](blocked-interleaved-representations-fractions-its.md) — reports the opposite
+- [Increased condition (gradually shrinking blocks) yields best learning results for low prior knowledge students](increased-condition-best-low-prior-knowledge.md) — related
+- [Prior knowledge moderates the benefit of blocked versus interleaved representation sequencing](prior-knowledge-moderates-sequencing-benefit.md) — related

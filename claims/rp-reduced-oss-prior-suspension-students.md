@@ -71,3 +71,4 @@ Illustration of the interaction (Figure 1) from the same CRCT: among previously 
 - [Logistic regression robustness checks showed a marginal reduction in OSS for intervention students and a similar prior-suspension interaction](rp-oss-logistic-robustness-checks.md) — related
 - [In the same sample, the RP intervention reduced discipline incident records (ODRs) even though suspensions did not decline overall](rp-reduced-odr-same-sample.md) — related
 - [The effect of the RP intervention on out-of-school suspensions did not vary by student gender, race/ethnicity, or disability status](rp-oss-effect-no-demographic-moderation.md) — related
+- [Nine randomized controlled trials support a causal effect of prior knowledge on posttest knowledge (rP+ = .394), not attributable to intelligence confounding](rct-causal-prior-knowledge-posttest-effect.md) — related

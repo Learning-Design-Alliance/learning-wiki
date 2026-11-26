@@ -172,3 +172,4 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [A mentoring perspective argues mentors should positively recognize and praise student progress, citing literature that lack of recognition harms underrepresented students' entry and retention in physics](micro-affirmations-recognize-student-progress.md) — related
 - [Peer praise and support centered on effort framed setbacks as aspects of learning overcome with persistence](peer-effort-praise-frames-setbacks-as-learning.md) — related
 - [Process-focused praise and practices foster mastery orientation, persistence, and better performance under failure compared with person-focused ones](process-focus-better-than-person-focus.md) — possibly the same claim (merge candidate)
+- [Effects of implicit theories on goal setting and goal operating are stronger in the presence (vs. absence) of ego threats such as failure feedback](ego-threat-moderates-mindset-selfregulation-links.md) — related

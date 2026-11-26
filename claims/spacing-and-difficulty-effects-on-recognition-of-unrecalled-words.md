@@ -49,3 +49,4 @@ Recognition tests limited to words failed on the recall test, so scores were mut
 - [A no-training control group identified 62% of the Spanish words on the recognition test, showing a substantial incidental-learning contribution to recognition](incidental-learning-recognition-control-baseline.md) — related
 - [The spacing benefit extends to words not mastered at the end of training](spacing-benefit-for-unmastered-words.md) — possibly the same claim (merge candidate)
 - [After an 8-year retention interval, recall probability for Spanish vocabulary trained with a 30-day intersession interval is 2.5 times that trained with a zero interval](spacing-interval-30-day-8-year-recall-advantage.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related

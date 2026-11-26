@@ -51,3 +51,4 @@ Cross-lagged structural equation modeling of the Quebec Longitudinal Study of Ch
 - [One significant cross-lagged path from competence beliefs to intrinsic motivation emerged in Dataset 1 RI-CLPM (t1–t2)](single-significant-cross-lagged-path-competence-beliefs-intrinsic-motivation.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - [Cross-sectional correlations between intrinsic motivation and mathematics achievement increased in strength from grade 1 (r = .13) to grade 4 (r = .22)](motivation-achievement-correlation-increases-with-grade.md) — related
+- [Within school subjects, controlled motivation shows self-diminishing effects on competence beliefs and autonomous motivation](within-subject-controlled-motivation-diminishes.md) — related

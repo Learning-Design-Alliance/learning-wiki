@@ -66,3 +66,8 @@ A second multilevel random-effects meta-analysis of within-participants comparis
 - [The screen inferiority effect on handheld devices is larger for undergraduate students and for participants assessed individually](handheld-screen-inferiority-moderators-undergraduate-individual.md) — related
 - [Prior meta-analyses found the screen inferiority effect did not differ as a function of digital device type](device-type-moderator-null-prior-meta-analyses.md) — related
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
+- [The screen disadvantage in reading performance holds for both literal (g = .33) and inferential (g = .26) measures](literal-inferential-both-screen-disadvantage.md) — related
+- [Reading comprehension is significantly better on paper than on digital devices in between-participants comparisons (Hedges' g = -0.21)](paper-advantage-between-participants-meta-analysis.md) — a broader claim this one bears on
+- [The paper advantage replicates in within-participants designs (dc = -0.21)](paper-advantage-within-participants-meta-analysis.md) — related
+- [Reading text from screens has a small, significant negative effect on reading performance compared to paper (g = .25)](screen-reading-performance-disadvantage.md) — related
+- [The paper advantage holds for informational or mixed-genre texts but not for narrative-only texts](text-genre-moderates-paper-advantage.md) — related

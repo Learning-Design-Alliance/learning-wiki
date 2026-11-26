@@ -44,7 +44,8 @@ A design pattern for undergraduate laboratory experiments: the setup is easy to 
 - [Pendulum Doppler G One Percent](../claims/pendulum-doppler-g-one-percent.md) [+M]
 
 ## Related Designs
-- 
+
+- [Design introductory measurement experiments that are conceptually clear, visible, tabletop-sized, safe, and inexpensive](accessible-visible-safe-inexpensive-experiment-design.md)
 
 ## Examples
 -

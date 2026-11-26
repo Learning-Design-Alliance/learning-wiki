@@ -69,3 +69,4 @@ Meta-analysis using robust variance estimation with a random-effects model poole
 - [Experimental stereotype threat effects in SLD samples are heterogeneous (Hedges's g 0.06–1.16), with effects more robust for motivation-related psychological outcomes than for cognitive or academic performance outcomes](sld-stereotype-threat-heterogeneous-effects.md) — related
 - [Associations between SLD stigma and academic performance are small, less robust, and based on very few studies](sld-stigma-academic-outcomes-small-few-studies.md) — related
 - [Greater SLD stigma is generally associated with less optimal psychological adjustment, though most outcomes could not be meta-analyzed](sld-stigma-psychological-adjustment-heterogeneous.md) — a broader claim this one bears on
+- [General self-esteem is negatively associated with habitual academic self-handicapping (r = .34)](self-esteem-negative-antecedent-self-handicapping.md) — related

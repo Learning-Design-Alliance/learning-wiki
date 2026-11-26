@@ -53,3 +53,5 @@ Moderator meta-regression coding intelligence facet (g, gf, gc) per coefficient.
 - [Fluid intelligence predicts paired-associate word learning, but crystallized intelligence does not once associative thinking is controlled](fluid-not-crystallized-intelligence-predicts-word-learning.md) — related
 - [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md) — related
 - [The intelligence–DT correlation decreases as the percentage of females in samples increases](gender-ratio-negative-moderator-dt-intelligence.md) — related
+- [Field dependent-independent cognitive style fully mediates the association between fluid intelligence and divergent thinking creativity in school-age children](fdi-fully-mediates-gf-dt-children.md) — related
+- [Gf, FDI, and DT-creativity are positively intercorrelated in school-age children, and all correlate with age](gf-fdi-dt-correlations-children.md) — a narrower finding that bears on this claim

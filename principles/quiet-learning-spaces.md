@@ -30,7 +30,7 @@ sources:
 # Quiet Learning Spaces
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 31 studies (10 causal, 8 review, 5 quant-synthesis, 5 associational, 3 theoretical), `q2`–`q4` · 6 of 31 report an effect size · 12 claims rest on one study
+> **Evidence** · 21 claims (13 for, 7 mixed, 1 against) · 32 studies (11 causal, 8 review, 5 quant-synthesis, 5 associational, 3 theoretical), `q2`–`q4` · 7 of 32 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten, and neighbouring claims found wh
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [+W] — same survey as the self-regulation claim above; associational.
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](../claims/technical-competency-associated-lower-distraction.md) [+W] — same survey; associational, weak association.
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](../claims/demographics-not-associated-lower-distraction.md) [~W] — same survey; a non-significant result that does not establish equivalence.
+- [Interruptions during reading disrupt reading comprehension when questions require connecting and synthesizing information across the passage](../claims/interruptions-disrupt-reading-comprehension.md) [+M] — attached 2026-11-26 from Foroughi et al. (2015), which proposed "Limit external sources of interruption when reading important documents"; tests this page's relationship.
 
 ## Claims
 

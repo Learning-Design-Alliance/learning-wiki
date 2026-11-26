@@ -71,3 +71,4 @@ Correlational analyses in the study of 209 children administered measures of cre
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](age-intelligence-divergent-thinking-predict-tool-innovation.md) — related
 - [Cingulum white matter integrity subgroups relate to differences in children's cognitive performance](cingulum-fa-cognitive-performance-subgroups.md) — related
 - [Creativity rating does not associate with effect sizes on fluid intelligence or on-task behaviour](pa-creativity-no-association-fluid-intelligence-on-task.md) — related
+- [Field dependent-independent cognitive style fully mediates the association between fluid intelligence and divergent thinking creativity in school-age children](fdi-fully-mediates-gf-dt-children.md) — related

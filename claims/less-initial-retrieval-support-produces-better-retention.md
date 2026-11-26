@@ -135,3 +135,4 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - [Methodological variables moderate measured skill decay: recognition tests, similar retrieval contexts, and behavioral evaluation criteria each yield less apparent skill loss](methodological-variables-moderate-measured-decay.md) — related
 - [Recognition tasks are retained at higher levels than recall tasks](recognition-retained-better-than-recall.md) — reports the opposite
 - [Naturalistic retention shows no statistically significant difference in decline between recall and recognition test formats](recall-recognition-equal-decline-naturalistic.md) — reports the opposite
+- [Bolding keywords directs attention and modestly benefits retention in extended study, but testing provides a larger benefit](bolding-directs-attention-modest-benefit.md) — a narrower finding that bears on this claim

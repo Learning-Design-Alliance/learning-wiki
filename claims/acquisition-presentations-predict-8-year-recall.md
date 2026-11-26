@@ -51,3 +51,4 @@ Same longitudinal dataset, summarizing the joint influence of the two variables 
 - [After an 8-year retention interval, recall probability for Spanish vocabulary trained with a 30-day intersession interval is 2.5 times that trained with a zero interval](spacing-interval-30-day-8-year-recall-advantage.md) — related
 - [The spacing benefit extends to words not mastered at the end of training](spacing-benefit-for-unmastered-words.md) — related
 - [Recall is highest for the 56-day interval across all word-difficulty terciles](spacing-benefit-across-difficulty-terciles.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related

@@ -66,3 +66,6 @@ Robustness check on ASSISTments2009 under an alternative setting that averages c
 - [AKT-MLd achieves the best overall performance across benchmarks, with gains most pronounced on high-KC datasets](akt-mld-best-overall-benchmarks.md) — related
 - [CSG-KT significantly outperforms classical, graph-based and SOTA knowledge tracing baselines across four real-world datasets](csg-kt-outperforms-kt-baselines.md) — related
 - [Fine-tuned LLaMA NTKT models outperform deep learning KT baselines on the Eedi dataset, exceeding 10 percentage points in AUC over the best baseline](ntkt-outperforms-kt-baselines-edi.md) — related
+- [DKVMN reaches higher prediction accuracy than DKT with substantially fewer parameters, especially at low state dimensions](dkvmn-better-accuracy-fewer-parameters.md) — related
+- [HawkesKT outperforms state-of-the-art knowledge tracing baselines on three benchmark datasets in AUC](hawkeskt-outperforms-kt-baselines.md) — related
+- [DKVMN consistently outperforms BKT, DKT and a MANN baseline in knowledge-tracing prediction AUC across four datasets](dkvmn-outperforms-dkt-mann-bkt-auc.md) — related

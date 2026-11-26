@@ -46,7 +46,8 @@ The authors recommend using the meta-analytic findings to guide curriculum devel
 - [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](../claims/seventh-grade-slump-moderators.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop creativity stimulation programs for young children that build on the field independence cognitive style](fdi-based-creativity-stimulation-programs.md)
 
 ## Examples
 -

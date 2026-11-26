@@ -85,3 +85,4 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [The exponential forgetting curve model outperforms the power-law model on MAE and half-life correlation, while the power-law model performs slightly better on AUC](exponential-model-outperforms-power-law-mae-corh.md) — related
 - [Retention of meaningful material follows a negatively accelerated forgetting curve with large early losses that level off](ebbinghaus-curve-meaningful-material.md) — related
 - [Rate of forgetting does not differ by ability level, so higher-ability students forget more material in absolute terms](no-ability-differences-in-forgetting-rate.md) — related
+- [Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval](spacing-crossover-interaction-less-forgetting.md) — related

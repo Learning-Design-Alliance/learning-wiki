@@ -56,3 +56,4 @@ Controlled experiment with 75 undergraduate teacher students in a 2×2 design (o
 - [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
 - [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — reports the opposite
 - [A Bayesian problem-selection strategy produced problems better tailored to students' knowledge than the default strategy](bayesian-problem-selection-better-tailored.md) — related
+- [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related

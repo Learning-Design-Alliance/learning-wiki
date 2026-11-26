@@ -69,3 +69,4 @@ Age moderator analysis across the 44 comparisons, coded as primary, middle, seco
 - [Effectiveness of refutation text varies significantly by publication type, with conference proceedings showing the largest effects and dissertations the smallest](refutation-text-publication-type-moderates.md) — reports the opposite
 - [Positive effects of refutation text persist over time, with no significant difference by outcome test timing](refutation-text-effects-persist-over-time.md) — related
 - [Refutation text produces a moderate positive effect on learning compared to non-refutation text conditions](refutation-text-moderate-overall-effect.md) — a narrower finding that bears on this claim
+- [Media effects did not vary significantly by educational level, text length, device type, scrolling, open testing, comprehension type, or methodological variables](non-significant-moderators-media-effect.md) — related

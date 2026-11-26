@@ -199,3 +199,10 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Pre-testing before reading produces a smaller but significant retention benefit over re-reading on trained questions (d = 0.35)](pre-testing-effect-trained-questions-latimier.md) — possibly the same claim (merge candidate)
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
 - [Pretesting and interim testing potentiate learning of subsequent, previously untested material (review-reported)](pretesting-potentiates-subsequent-learning.md) — a narrower finding that bears on this claim
+- [Attempting to answer pretest questions produces better retention than memorizing the same questions without attempting answers](attempting-answers-beats-memorizing-questions.md) — related
+- [The pretesting effect persists when attention is directed via bolded keywords in both conditions](pretesting-effect-persists-with-bolded-keywords.md) — a narrower finding that bears on this claim
+- [The pretesting effect persists when attention to key content is equated by italicizing tested sentences in both conditions](pretesting-effect-persists-with-italicized-attention-control.md) — a narrower finding that bears on this claim
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — possibly the same claim (merge candidate)
+- [Pretesting does not impair retention of untested items, though effects on untested items vary across experiments](pretesting-no-cost-to-untested-items.md) — related
+- [Bolding keywords directs attention and modestly benefits retention in extended study, but testing provides a larger benefit](bolding-directs-attention-modest-benefit.md) — a narrower finding that bears on this claim
+- [The pretesting effect persists after a one-week delay between study and final test](pretesting-effect-persists-one-week-delay.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ A p x t x m G study in which 186 students were tested on two tasks by each of fo
 - [Aggregating three hands-on investigations into a total science achievement score substantially increases cross-occasion generalizability, reaching 0.80 with two occasions](aggregated-investigations-increase-generalizability.md) — related
 - [Mean performance scores were higher on the second occasion but the differences were not statistically significant](occasion-2-mean-increase-not-significant.md) — related
 - [Students used different procedures to carry out the same investigations on two occasions, with low-to-moderate procedural agreement and generally higher agreement for notebooks](procedures-change-across-occasions.md) — related
+- [Direct observation, notebook, and computer simulation methods converge to about the same degree, while paper-and-pencil methods do not converge with them](do-nb-cs-methods-converge.md) — reports the opposite

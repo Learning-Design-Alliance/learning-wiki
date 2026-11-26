@@ -50,3 +50,7 @@ Observational analysis of clickstream data from 1,893,092 enrollments in 115 edX
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
 - [STEM courses employing CAMEO prevention mechanisms show substantially lower CAMEO rates (0.1%) than courses without them (1.2%)](cameo-prevention-mechanisms-reduce-rate-to-0-1-percent.md) — related
 - [Fake learners spent significantly less time on each type of instructional resource than true learners in the MITx 8.MReVx MOOC.](fake-learners-less-time-on-instructional-resources.md) — related
+- [CAMEO activity drops sharply after users pass the certification threshold, supporting certificate-seeking as the main motivation](cameo-drops-after-certification-point.md) — related
+- [About 12.9% of certificate earners in an introductory physics MOOC used CAMEO to obtain more than 1% of their correct answers, and 3.7% obtained the majority](cameo-prevalence-certificate-earners.md) — related
+- [Non-certificate earners detected as CAMEO users harvested a higher fraction of their correct submissions and were more premeditated than certificated CAMEO users](non-certificate-cameo-more-premeditated.md) — related
+- [Question randomization is associated with reduced CAMEO harvesting](randomization-reduces-cameo.md) — related

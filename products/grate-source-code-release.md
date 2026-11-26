@@ -24,7 +24,8 @@ An open-source implementation of the GRATE knowledge-tracing model for granular 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [HawkesKT public code release](hawkeskt-public-code-release.md)
 
 ## Key Sources
 - Chunpai Wang, Shaghayegh Sahebi, Siqian Zhao, Peter Brusilovsky, and Laura O. Moraes. 2021. Knowledge Tracing for Complex Problem Solving: Granular Rank-Based Tensor Factorization. In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). https://doi.org/10.1145/3450613.3456831

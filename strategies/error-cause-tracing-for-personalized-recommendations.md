@@ -43,6 +43,7 @@ The article proposes that diagnosing the causes of a student's systematic errors
 
 - [Anticipate multiple ways students can approach mathematical tasks](anticipate-student-approaches-fa.md)
 - [Diagnose context-specific causes of underperformance via student interviews or focus groups before deploying one-size-fits-all psychological interventions](diagnose-underperformance-context-before-interventions.md)
+- [Deploy knowledge-tracing models that expose per-concept mastery levels so platforms can tailor practice and students can target their own gaps](concept-level-mastery-visibility-for-practice-personalization.md)
 
 ## Examples
 -
