@@ -1,0 +1,452 @@
+# Rodriguez (2003): random-effects synthesis of correlations between
+# multiple-choice (MC) and constructed-response (CR) scores of the same persons.
+#
+# Read from the JSTOR copy (stable URL jstor.org/stable/1435344). Its front
+# matter prints no DOI; the given DOI 10.1111/j.1745-3984.2003.tb01102.x was
+# checked against Crossref, whose record has the same title, sole author,
+# volume 40(2) and pages 163-184.
+#
+# The JSTOR text layer is clipped at the right margin on several pages (pp. 170,
+# 173-176, 178-179), cutting off line ends. Every quote below is from a line
+# that reads whole in the text layer, and each was checked against the page
+# images of pp. 170-173 and 177-179.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The uncorrected fixed-effects mean correlation (0.670), the
+#     disattenuated random-effects mean (0.902), and the random-effects means
+#     for stem-equivalent (0.948) and non-stem-equivalent (0.860) items.
+#   * The stem-equivalent interval is printed two ways. Table 6 and the
+#     Discussion (p. 179) give (0.907, 0.971); the Results text (p. 177) gives
+#     (0.913, 0.969). The record carries Table 6's interval, and the
+#     observation's note gives the other. Nothing here decides which is right.
+#   * The age moderator from the weighted least squares regression (Table 7),
+#     in Fisher Z metric as the table note says.
+#   * `measure_type: reliability`, twice: the summary of the MC and of the CR
+#     reliabilities used for the correction for attenuation (Table 4, n = 56).
+#     These are the article's own coded data, not a figure cited from another
+#     study. They mix coefficient types (alpha, K-R 20, split-half, ANOVA), so
+#     the statistic is `other`, and for eight correlations they were imputed.
+#   * `population.age: unreported`. Age is coded only as an education level
+#     (primary, secondary, post-secondary, adult or professional); no age in
+#     years is printed.
+
+schema_version: 2
+
+study:
+  key: rodriguez-2003
+  citation: "Rodriguez, M. C. (2003). Construct equivalence of multiple-choice and constructed-response items: A random effects synthesis of correlations. Journal of Educational Measurement, 40(2), 163–184."
+  doi: "10.1111/j.1745-3984.2003.tb01102.x"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Synthesis of correlations between scores on MC and CR items taken by the
+      same persons, corrected for attenuation using the reported reliabilities
+      of each format, Fisher Z transformed and weighted by inverse variance.
+      Fixed-effects analyses, moderator analyses of item design (stem
+      equivalent, content equivalent, not content equivalent, essay-type), and
+      a random-effects model including a random variance component, with a
+      weighted least squares regression of corrected correlations on item
+      design and age level.
+  synthesis:
+    model: "Random-effects model (random variance component estimated as in Raudenbush, 1994) on Fisher Z transformed correlations corrected for attenuation; fixed-effects results also reported"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycINFO
+        - ERIC
+        - Dissertation Abstracts International
+      date_range: "studies available through 2000; the studies found date from 1925 to 1998"
+      records_included: "67 studies reviewed; 29 reported correlations and were synthesised (56 correlations)"
+    inclusion:
+      - "The correlation between items in MC and CR formats was reported"
+      - "MC items had more than one option (true-false and multiple true-false items not included)"
+      - "Whether or not the items were stem equivalent was reported"
+      - "The number of subjects and the subject matter of the test were reported"
+    exclusion:
+      - "One correlation (Hancock, 1992, introductory statistics course) excluded because the reliabilities of both forms were below 0.40"
+    data_handling:
+      - "Correlations corrected for attenuation by the reliabilities of the two formats"
+      - "Where no reliability was reported (six studies, eight correlations), an average value considering item format, test size and subject matter was imputed"
+      - "Corrected correlations above 1.0 (five, ranging from 1.01 to 1.21) truncated to 0.99"
+      - "No more than two correlations from the same study based on the same examinees were included"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: mean-corrected-mc-cr-correlation-0902
+    bearing: supports
+    anchor: rodriguez-2003
+  - claim: stem-equivalent-items-higher-mc-cr-correlations
+    bearing: supports
+    anchor: rodriguez-2003
+  - claim: age-and-year-nonsignificant-moderators
+    bearing: supports
+    anchor: rodriguez-2003
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 56
+    unit: effect-sizes
+  additional_sizes:
+    - value: 29
+      unit: studies
+      note: "empirical studies reporting correlations between the two formats, from the 67 studies reviewed"
+    - value: 16867
+      unit: participants
+      note: "total subjects across all studies, ranging from 19 to 3,217 within studies"
+  population:
+    description: >-
+      Examinees taking tests with items in both MC and CR formats, in studies
+      published 1925-1998: 23 journal articles, three conference papers, two
+      theses and one book. Tests covered language arts (32 correlations),
+      mathematics and computer science (7), science (7), social studies (4)
+      and other or mixed topics (6). All primary-level correlations were in
+      language arts and used stem-equivalent or essay-type items.
+    age_or_stage: >-
+      Coded as education level: primary 11 correlations, secondary 25,
+      post-secondary 18, adult or professional 2. No age in years is printed.
+    age: unreported
+  context:
+    setting: "Achievement tests with items in both formats; in some studies the two forms were given on separate occasions (for example a day apart)"
+  variation:
+    - dimension: "Age level of subjects"
+      distribution: "primary education 11, secondary education 25, post-secondary education 18, adult or professional 2 correlations"
+    - dimension: "Item design"
+      distribution: "stem equivalent 21, content equivalent 12, not content equivalent 8, essay-type items 15 correlations"
+    - dimension: "Type of reliability used for the correction"
+      distribution: "coefficient alpha 13, K-R 20 23, split-half 7, ANOVA 3, type not reported 2, reliabilities not reported 8 correlations"
+    - dimension: "Document type"
+      distribution: "journal 43, presentation 9, thesis or dissertation 3, book 1 correlations"
+  arms:
+    - id: stem-equivalent
+      description: "Correlations based on stem-equivalent items: the CR items use the same stem as the MC items without the options."
+    - id: not-stem-equivalent
+      description: "Correlations based on items that are not stem equivalent: content-equivalent items with independent stems, items not content equivalent, and essay-type CR items."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "All 56 MC-CR correlations, or a property of the corpus as a whole; no contrast between configurations."
+
+observations:
+
+  - id: mc-cr-uncorrected-fixed
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Agreement between MC and CR scores of the same persons"
+      source_language: "mean weighted uncorrected correlation"
+      measure: "Correlation between scores on MC items and scores on CR items, as reported by the primary studies"
+      scale: "Pearson correlation, uncorrected for measurement error"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; formats given in one sitting or on separate occasions"
+    result:
+      measure_type: correlation
+      estimate: 0.670
+      standard_error: 0.008
+      ci_lower: 0.661
+      ci_upper: 0.678
+      interval_type: confidence
+      k:
+        value: 56
+        unit: effect-sizes
+      model: "fixed-effects"
+      note: "Table 5 prints the SE as 0.0077. Unweighted summary of the 56 correlations (Table 4): median 0.69, M 0.66, SD 0.13, 5th percentile 0.41, 95th percentile 0.88."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The author presents this analysis only "to reference the reader" to
+      correlations as reported; all other analyses use disattenuated
+      correlations. No heterogeneity statistic is printed for the uncorrected
+      correlations.
+    source_quote: "Under the fixed effects model, the mean weighted uncorrected correlation is 0.670 with a standard error of 0.008. This results in a 95% confidence interval of (0.661, 0.678)."
+    source_location: "Results, Analysis Based on Uncorrected Correlations (p. 177); Table 5"
+
+  - id: mc-cr-corrected-random
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Construct equivalence of MC and CR formats"
+      source_language: "mean weighted corrected correlation"
+      measure: "Correlation between MC and CR scores, corrected for attenuation by the reliabilities of the two formats (true-score correlation)"
+      scale: "disattenuated correlation"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.902
+      standard_error: 0.0820
+      ci_lower: 0.868
+      ci_upper: 0.928
+      interval_type: confidence
+      k:
+        value: 56
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 2970
+        interpretation: "Fixed-effects homogeneity test on the 56 corrected correlations, p approximately 0 (df not printed); read by the author as substantial heterogeneity"
+      model: "random-effects"
+      interpretation: "The interval does not contain unity."
+      note: "Fixed-effects mean corrected correlation 0.868, SE 0.0077, 95% CI (0.865, 0.872)."
+    moderators:
+      reported:
+        - variable: "Item design"
+          relationship: "Design characteristics explain about 23% of the variance in correlations; stem-equivalent items correlate higher than non-stem-equivalent items"
+          source_quote: "The design characteristics of the items explain about 23% of the variance in correlations across studies (R2 = 0.23)."
+        - variable: "Year of publication"
+          relationship: "Nonsignificant correlation with the Z transformed corrected correlations (r = -0.20, p = 0.13)"
+          source_quote: "In addition, year of publication had a statistically nonsignificant correlation to Z transformed, corrected correlations (r = -0.20, p = 0.13)."
+      candidate:
+        - "Occasion of testing: the author notes that internal-consistency reliabilities overcorrect when the two forms are given on separate occasions; this was not tested as a moderator"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Five corrected correlations above 1.0 were truncated to 0.99 before
+      pooling, and reliabilities were imputed for eight correlations.
+    source_quote: "Corrected r random effects 0.868 0.902 0.928 0.0820"
+    source_location: "Table 5 (p. 178); Results (p. 177)"
+
+  - id: mc-cr-stem-equivalent-random
+    sample:
+      value: 21
+      unit: effect-sizes
+    arm_ref: stem-equivalent
+    outcome:
+      construct: "Construct equivalence of MC and CR formats"
+      source_language: "mean corrected correlation"
+      measure: "Disattenuated correlation between MC and CR scores, stem-equivalent items"
+      scale: "disattenuated correlation"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.948
+      ci_lower: 0.907
+      ci_upper: 0.971
+      interval_type: confidence
+      k:
+        value: 21
+        unit: effect-sizes
+      model: "random-effects"
+      interpretation: "Described as much closer to including unity but still falling short"
+      note: "Table 6 and the Discussion give the 95% CI (0.907, 0.971); the Results text on p. 177 gives (0.913, 0.969). The fixed-effects mean for stem-equivalent items is 0.92."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The source prints two different intervals for this estimate; the one in
+      Table 6 and the Discussion is recorded, and neither is preferred on
+      evidence. No within-group heterogeneity statistic is printed, though the
+      design subgroups are described as heterogeneous.
+    source_quote: "Stem equivalent 0.907 0.948 0.971 21"
+    source_location: "Table 6 (p. 178); Results (p. 177); Discussion (p. 179)"
+
+  - id: mc-cr-not-stem-equivalent-random
+    sample:
+      value: 35
+      unit: effect-sizes
+    arm_ref: not-stem-equivalent
+    outcome:
+      construct: "Construct equivalence of MC and CR formats"
+      source_language: "mean corrected correlation"
+      measure: "Disattenuated correlation between MC and CR scores, items not stem equivalent"
+      scale: "disattenuated correlation"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.860
+      ci_lower: 0.815
+      ci_upper: 0.894
+      interval_type: confidence
+      k:
+        value: 35
+        unit: effect-sizes
+      model: "random-effects"
+      note: "Within this group (Table 6): content equivalent 0.915 (0.837, 0.956), n 12; not content equivalent 0.839 (0.661, 0.927), n 8; essay-type items 0.810 (0.674, 0.893), n 15. The fixed-effects mean for non-stem-equivalent items is 0.85."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Not stem equivalent 0.815 0.860 0.894 35"
+    source_location: "Table 6 (p. 178)"
+
+  - id: age-moderator-wls
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Construct equivalence of MC and CR formats"
+      source_language: "Weighted least squares regression random effects moderator analysis"
+      measure: "Fisher Z transformed corrected correlations regressed on item-design dummy variables and age level of subjects"
+      scale: "unstandardised regression coefficient for age, Fisher Z metric"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.191
+      standard_error: 0.116
+      p_value: "0.105"
+      statistic: "t = 1.649; standardised coefficient 0.248"
+      model: "Weighted least squares regression with a random variance component, item design (stem equivalent, content equivalent, essay-type) entered alongside age"
+      interpretation: "The author reads it as no effect of age: the correlation is similar for primary, secondary and post-secondary/adult examinees."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The number of correlations entered in the regression is not printed
+      (pooled_k unreported). The coding of age for the regression (presumably the education-level
+      variable of Table 2) is not printed, and no mean correlation per age
+      level is printed. Primary-level correlations are all language arts and
+      stem-equivalent or essay-type, so age and design are partly confounded.
+    source_quote: "Age 0.191 0.116 0.248 1.649 0.105"
+    source_location: "Table 7 (p. 179); text p. 177-178"
+
+  # The reliabilities that the correction for attenuation divides by: the
+  # article's own coded values over its 56 correlations, as Table 4 prints
+  # them. Not the reliability of any single instrument.
+  - id: mc-reliability-summary
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Score reliability of the MC forms"
+      source_language: "MC reliability"
+      measure: "Reported reliabilities of the MC forms behind the 56 correlations (imputed where not reported)"
+      scale: "reliability coefficient, mean across correlations"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported by the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      reliability:
+        statistic: other
+        over: other
+        form: "Mixed: coefficient alpha (13 correlations), K-R 20 (23), split half (7), ANOVA estimates (3), type not reported (2), imputed (8)"
+      descriptives: "Unweighted over n = 56: median 0.82, M 0.79, SD 0.14, skew -0.89 (significant), 5th percentile 0.51, 95th percentile 0.97"
+      note: "No significant differences in score reliability by type of reliability for MC forms (F = 1.64, p = .17)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The estimate is the unweighted mean of a mixed set of coefficients,
+      as Table 4 prints it; it is not one instrument's reliability. Most are
+      internal-consistency estimates, which the author notes do not include
+      error due to occasions when the two forms are given separately.
+    source_quote: "MC reliability 0.82 0.79 0.14 -0.89* 0.51 0.97"
+    source_location: "Table 4 (p. 173)"
+
+  - id: cr-reliability-summary
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Score reliability of the CR forms"
+      source_language: "CR reliability"
+      measure: "Reported reliabilities of the CR forms behind the 56 correlations (imputed where not reported)"
+      scale: "reliability coefficient, mean across correlations"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported by the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.76
+      reliability:
+        statistic: other
+        over: other
+        form: "Mixed: coefficient alpha (13 correlations), K-R 20 (23), split half (7), ANOVA estimates (3), type not reported (2), imputed (8)"
+      descriptives: "Unweighted over n = 56: median 0.77, M 0.76, SD 0.11, skew -0.69 (significant), 5th percentile 0.55, 95th percentile 0.91"
+      note: "No significant differences in score reliability by type of reliability for CR items (F = 0.78, p = .57)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      As for the MC reliabilities: an unweighted mean of mixed coefficients,
+      not one instrument's reliability.
+    source_quote: "CR reliability 0.77 0.76 0.11 -0.69* 0.55 0.91"
+    source_location: "Table 4 (p. 173)"
+
+not_yet_extracted:
+  - "Fixed-effects subgroup means (stem equivalent 0.92, not stem equivalent 0.85, content equivalent 0.87, not content equivalent 0.82, essay and short-answer 0.82)."
+  - "Table 7 regression coefficients for the item-design dummies and the constant."
+  - "Review findings from the 38 studies outside the synthesis (factor-analytic studies, ANOVA designs, IRT analyses), including the factor correlations median 0.86."
