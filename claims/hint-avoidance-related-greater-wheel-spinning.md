@@ -13,7 +13,7 @@ source_checked: 2026-10-20
 sources:
   - id: kai-2018
     resource: "https://doi.org/10.5281/zenodo.3344810"
-    title: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, 10(1), 36–71."
+    title: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, 10(1), 36–71. [doi:10.5281/zenodo.3344810](https://doi.org/10.5281/zenodo.3344810)"
     author: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N."
     q: 2
     i: "?"
