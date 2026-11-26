@@ -5,8 +5,8 @@ description: In German secondary-school mathematics, effects of self-concept on 
 id: asc-achievement-temporal-asymmetry
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-21
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: moderate
 newest_evidence: 2024
 source_checked: 2026-11-05
@@ -38,7 +38,7 @@ Marsh, H. W., Guo, J., Pekrun, R., Lüdtke, O., & Núñez-Regueiro, F. (2024). C
 
 `q2 · i?` · `associational · r3`
 
-Reported result of the model taxonomy applied to the PALMA data (five annual waves, math self-concept from six items, achievement from school grades). The article states the asymmetry verbatim; no test statistics or effect sizes are printed in the available text, so impact is uncoded.
+Reported result of the model taxonomy applied to the PALMA data (five annual waves, math self-concept from six items, achievement from school grades). The article states the asymmetry verbatim and prints the estimates behind it: in the authors' preferred RI-CCLPM (model M5), the lag-1 path from self-concept to achievement is .167 (SE .021) and the contemporaneous (lag-0) path from achievement to self-concept is .473 (SE .014) (p. 27).
 
 > "effects of ASC on achievement evolved over time (lag1, not lag0 effects), whereas effects of achievement on ASC effects were more contemporaneous (lag0, not lag1 effects)."
 

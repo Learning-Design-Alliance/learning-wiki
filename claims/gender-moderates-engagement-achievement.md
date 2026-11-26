@@ -49,4 +49,4 @@ Meta-regression of average effect sizes. The article reports significant gender 
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement](cultural-value-moderates-engagement-achievement.md) — related
+- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently](cultural-value-moderates-engagement-achievement.md) — related

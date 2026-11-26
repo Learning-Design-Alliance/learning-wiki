@@ -5,16 +5,16 @@ description: Not requesting any hints in at least one problem is related to grea
 id: hint-avoidance-related-greater-wheel-spinning
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-09
+  by: claude/unspecified
+  at: 2026-11-26
 evidence_strength: moderate
 newest_evidence: 2018
 source_checked: 2026-10-20
 sources:
   - id: kai-2018
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/210"
-    title: "Kai, S., Heffernan, C., Almeda, M. V., Heffernan, N., & Baker, R. S. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, Volume 10, No 1. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/210"
-    author: "Kai, S., Heffernan, C., Almeda, M. V., Heffernan, N., & Baker, R. S."
+    resource: "https://doi.org/10.5281/zenodo.3344810"
+    title: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, 10(1), 36–71."
+    author: "Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N."
     q: 2
     i: "?"
     kind: associational
@@ -35,7 +35,7 @@ sources:
 
 ### Kai 2018
 
-Kai, S., Heffernan, C., Almeda, M. V., Heffernan, N., & Baker, R. S. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, Volume 10, No 1. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/210
+Kai, S., Almeda, M. V., Baker, R. S., Heffernan, C., & Heffernan, N. (2018). Decision Tree Modeling of Wheel-Spinning and Productive Persistence in Skill Builders. Journal of Educational Data Mining, 10(1), 36–71. [doi:10.5281/zenodo.3344810](https://doi.org/10.5281/zenodo.3344810)
 
 `q2 · i?` · `associational · r2`
 

@@ -54,4 +54,4 @@ Mixed-effects meta-regression within the K-12 meta-analysis testing study region
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related
 - [Total DREEM scores differ by nationality, with Asian students scoring significantly higher than Middle Eastern and North American students](nationality-differences-dreem-scores.md) — related
 - [Nationality and publication status moderate mastery-based goal–performance correlations; age and sex do not](nationality-publication-moderate-mastery-goals.md) — related
-- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; Western students higher for behavioral engagement](cultural-value-moderates-engagement-achievement.md) — related
+- [Cultural value moderates engagement–achievement correlations: Eastern students higher for overall, emotional, and cognitive engagement; the behavioral comparison is printed inconsistently](cultural-value-moderates-engagement-achievement.md) — related
