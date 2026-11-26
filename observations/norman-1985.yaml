@@ -1,0 +1,519 @@
+# Norman, Tugwell, Feightner, Muzzin & Jacoby (1985): knowledge and clinical
+# problem-solving. A generalizability study of four scores from simulated-patient
+# encounters, with problem content varied systematically.
+#
+# ALL QUOTES AND NUMBERS COME FROM THE PAGE IMAGES of the scanned PDF (13 pp.),
+# read with the Read tool. The OCR text layer beside it is unreliable (broken
+# words, misread digits), so no quote was taken from it. Quotes keep the
+# article's printed characters, including its raised decimal point ("0·60").
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The generalizability coefficients of Table 4 for the "same problem"
+#     column: how far a score on one presentation of a problem generalises to a
+#     second presentation of the identical problem, by a different simulated
+#     patient about two weeks later. `measure_type: reliability`, statistic
+#     `other` (a G coefficient; Appendix 2 says that in its simplest form it is
+#     identical to the classical reliability coefficient), over `occasions`.
+#     Each observation's note carries the rest of its Table 4 row.
+#   * The residual share of total variance from Table 3, per score: the part
+#     no content factor (complaint, diagnosis, specialty) and no subject effect
+#     explained. Recorded as printed percentages under `measure_type: other`.
+#   * Agreement on whether the correct diagnosis was reached on the first and
+#     second presentation of the same problem. The text prints "a Kappa
+#     coefficient of 0·12"; Table 5, which the text cites, prints
+#     "Kappa (weighted) = 0·06". Both are recorded, as two observations, and
+#     the discrepancy is not resolved: the source does not say whether the
+#     text's figure is unweighted.
+#   * The analysis of covariance finding that MCQ knowledge scores were
+#     unrelated to performance, which the article states without printing a
+#     statistic (qualitative).
+#
+# Arms are the three training levels. The G and variance analyses used the
+# residents and clerks only (Appendix 1: "The criterion clinicians were not
+# included in this analysis"), so those observations name both arms.
+#
+# The DOI is not printed in the article's front matter (1985); it appears in
+# the publisher's download stamp in the page margin and matches the given DOI.
+# The article prints "Received 21 December 1985; accepted for publication
+# 4 March 1985", a received date after the accepted date, as printed.
+
+schema_version: 2
+
+study:
+  key: norman-1985
+  citation: "Norman, G. R., Tugwell, P., Feightner, J. W., Muzzin, L. J., & Jacoby, L. L. (1985). Knowledge and clinical problem-solving. Medical Education, 19(5), 344–356."
+  doi: "10.1111/j.1365-2923.1985.tb01336.x"
+  design:
+    family: other
+    design_detail: >-
+      Generalizability study. Each subject saw eight simulated-patient problems
+      (four rheumatology, four cardiorespiratory) chosen so that each shared a
+      presenting complaint or a diagnosis with another problem in the same
+      specialty (Fig. 1); two problems per specialty were presented twice, by
+      different simulated patients. Residents and clerks saw five patients on
+      each of two half-days about two weeks apart; order randomised. A sixty-item
+      MCQ per specialty linked to the diagnoses. Mixed-model ANOVA (BMDP8V) with
+      educational level fixed and subjects nested within level; variance
+      components turned into generalizability coefficients by the methods of
+      Cronbach et al. (1963). Training levels were compared cross-sectionally;
+      no assignment of subjects to conditions.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 30
+    unit: participants
+  additional_sizes:
+    - value: 20
+      unit: participants
+      note: "residents and clerks, the subjects of the variance-component and generalizability analyses; the ten specialists formed the criterion group and were not included"
+    - value: 240
+      unit: other
+      note: "clinical encounters scored in the study"
+    - value: 8
+      unit: items
+      note: "simulated patient problems, four in rheumatology and four in cardiorespiratory medicine"
+  population:
+    description: >-
+      Five specialists in rheumatology and five in cardiology or respirology,
+      ten second-year residents in internal medicine and ten second-year
+      medical students (clinical clerks). All but one specialist were academic
+      physicians at McMaster University.
+    age_or_stage: "Second-year medical students, second-year internal medicine residents and practising specialists; no ages printed"
+    age: unreported
+  context:
+    setting: "McMaster University, Hamilton, Ontario; videotaped encounters with live simulated patients, plus a structured medical record and an MCQ subtest at each session"
+  arms:
+    - id: clerks
+      description: "Ten second-year medical students (clinical clerks)."
+      size:
+        value: 10
+        unit: participants
+    - id: residents
+      description: "Ten second-year residents in internal medicine."
+      size:
+        value: 10
+        unit: participants
+    - id: experts
+      description: "Ten subspecialists (five rheumatology, five cardiology or respirology), the criterion group; each saw the four problems in his own specialty in one afternoon."
+      size:
+        value: 10
+        unit: participants
+
+comparisons:
+  - id: training-level
+    kind: other
+    index_arm: experts
+    reference_arm: [residents, clerks]
+    description: >-
+      Divergent construct validity: analysis of variance with level of
+      experience as the grouping factor across the three groups (Table 1).
+      Not encoded here; see not_yet_extracted.
+  - id: replication-agreement
+    kind: none
+    description: "Correct diagnosis on the first against the second presentation of the same problem, residents and clerks together (Table 5); no contrast between groups."
+
+observations:
+
+  - id: g-same-problem-significant-findings
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Data gathering in a clinical encounter"
+      source_language: "Significant findings"
+      measure: "Significant history and physical findings elicited as a proportion of those available, significant meaning elicited by a majority of the criterion subspecialists"
+      scale: "generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.37
+      reliability:
+        statistic: other
+        over: occasions
+        form: "generalizability coefficient for generalizing to the second presentation of the same problem (Table 4, column Same/Same/Same/Same); the second presentation was by a different simulated patient"
+      note: "Rest of the Table 4 row: same complaint different diagnosis 0·30; different complaint same diagnosis 0·27; different complaint and diagnosis, same specialty 0·20; different specialty 0·08."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Significant findings 0·37 0·30 0·27 0·20 0·08"
+    source_location: "Table 4, Generalizability coefficients (p. 351)"
+
+  - id: g-same-problem-critical-findings
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Data gathering in a clinical encounter"
+      source_language: "Critical findings"
+      measure: "Critical significant findings (those weighted non-zero towards or away from the diagnosis by a majority of criterion physicians) elicited as a proportion of those available"
+      scale: "generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.13
+      reliability:
+        statistic: other
+        over: occasions
+        form: "generalizability coefficient for generalizing to the second presentation of the same problem (Table 4); the second presentation was by a different simulated patient"
+      note: "Rest of the Table 4 row: 0·13, 0·13, 0·13, and 0·12 for a different specialty."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Critical findings 0·13 0·13 0·13 0·13 0·12"
+    source_location: "Table 4, Generalizability coefficients (p. 351)"
+
+  - id: g-same-problem-diagnosis
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Diagnostic accuracy"
+      source_language: "Diagnosis score"
+      measure: "Aggregate score: weights of the diagnoses the subject mentioned (weighted by the proportion of criterion physicians mentioning each, and by rank on the differential) as a ratio of the criterion group's highest-ranked diagnoses"
+      scale: "generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.60
+      reliability:
+        statistic: other
+        over: occasions
+        form: "generalizability coefficient for generalizing to the second presentation of the same problem (Table 4); the second presentation was by a different simulated patient"
+      note: "Rest of the Table 4 row: same complaint different diagnosis 0·56; different complaint same diagnosis 0·37; different complaint and diagnosis, same specialty 0·33; different specialty 0. The authors read this row as the one score following the pattern expected of content specificity."
+      interpretation: "Described by the authors as a correlation of 0·60 across two presentations of the identical problem, accounting for 36% of the variance in scores"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "However, the correlation of 0·60 across two presentations of the identical problem, accounting for 36% of the variance in scores, clearly demonstrates that the variation in scores cannot be attributed simply to variable content."
+    source_location: "Results (2), p. 351; Table 4 row \"Diagnosis score 0·60 0·56 0·37 0·33 0\""
+
+  - id: g-same-problem-investigations
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Use of laboratory investigations"
+      source_language: "Investigations score"
+      measure: "Aggregate score for laboratory tests ordered, built like the diagnosis score from the criterion group, without rank weighting"
+      scale: "generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.07
+      reliability:
+        statistic: other
+        over: occasions
+        form: "generalizability coefficient for generalizing to the second presentation of the same problem (Table 4); the second presentation was by a different simulated patient"
+      note: "Rest of the Table 4 row: 0·05 in each of the other four columns."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The authors' summary of Table 4: "With the exception of the diagnosis
+      score, measures showed only low generalizability, even to two
+      presentations of the same problem, and little evidence of a relationship
+      to content knowledge."
+    source_quote: "Investigations score 0·07 0·05 0·05 0·05 0·05"
+    source_location: "Table 4, Generalizability coefficients (p. 351)"
+
+  - id: residual-variance-significant-findings
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Data gathering in a clinical encounter"
+      source_language: "Sig. findings"
+      measure: "Significant findings score, components of variance from the mixed-model ANOVA"
+      scale: "percent of total variance"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the eight problems and two replications"
+    result:
+      measure_type: other
+      estimate: 62.0
+      unit: "percent of total variance (residual component)"
+      model: "Mixed-model ANOVA (BMDP8V), educational level fixed, subjects nested within level; variance components by the methods of Smith (1981)"
+      note: "Rest of the Table 3 % row: same complaint different diagnosis 7·0; same diagnosis different complaint 9·6; different complaint different diagnosis 0·0; different specialty 12·5; subjects 8·2. The authors give the errors of the percentage estimates as of the order of 5 to 15%."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "% 62·0 7·0 9·6 0·0 12·5 8·2"
+    source_location: "Table 3, Components of variance attributable to various sources, Sig. findings % row (p. 350)"
+
+  - id: residual-variance-critical-findings
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Data gathering in a clinical encounter"
+      source_language: "Crit. findings"
+      measure: "Critical findings score, components of variance from the mixed-model ANOVA"
+      scale: "percent of total variance"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the eight problems and two replications"
+    result:
+      measure_type: other
+      estimate: 87.0
+      unit: "percent of total variance (residual component)"
+      model: "Mixed-model ANOVA (BMDP8V), educational level fixed, subjects nested within level"
+      note: "Rest of the Table 3 % row: 0·0 for each content component except different specialty 1·0; subjects 12·0."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "% 87·0 0·0 0·0 0·0 1·0 12·0"
+    source_location: "Table 3, Crit. findings % row (p. 350)"
+
+  - id: residual-variance-diagnosis
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Diagnostic accuracy"
+      source_language: "Diagnosis score"
+      measure: "Diagnosis score, components of variance from the mixed-model ANOVA"
+      scale: "percent of total variance"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the eight problems and two replications"
+    result:
+      measure_type: other
+      estimate: 40.0
+      unit: "percent of total variance (residual component)"
+      model: "Mixed-model ANOVA (BMDP8V), educational level fixed, subjects nested within level"
+      note: "Rest of the Table 3 % row: same complaint different diagnosis 4·2; same diagnosis different complaint 22·5; different complaint different diagnosis 33·7; different specialty 0·0; subjects 0·0. The diagnosis score is the one of the four whose residual did not exceed 60%."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "% 40·0 4·2 22·5 33·7 0·0 0·0"
+    source_location: "Table 3, Diagnosis score % row (p. 350)"
+
+  - id: residual-variance-investigations
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Use of laboratory investigations"
+      source_language: "Investigations"
+      measure: "Investigations score, components of variance from the mixed-model ANOVA"
+      scale: "percent of total variance"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the eight problems and two replications"
+    result:
+      measure_type: other
+      estimate: 93.0
+      unit: "percent of total variance (residual component)"
+      model: "Mixed-model ANOVA (BMDP8V), educational level fixed, subjects nested within level"
+      note: "Rest of the Table 3 % row: same complaint different diagnosis 2·2; other content components 0·0; subjects 4·8."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The authors' summary of Table 3: "For three of the four variables, the
+      residual variance, unexplained by any of the content factors, exceeded
+      60% of the total."
+    source_quote: "% 93·0 2·2 0·0 0·0 0·0 4·8"
+    source_location: "Table 3, Investigations % row (p. 350)"
+
+  - id: diagnosis-replication-kappa-weighted
+    sample:
+      value: 40
+      unit: pairs
+    comparison_ref: replication-agreement
+    outcome:
+      construct: "Diagnostic accuracy, agreement across two presentations"
+      source_language: "Correctness of diagnosis on first and second presentation of the same problem"
+      measure: "Whether the correct diagnosis was the principal diagnosis, on the differential, or absent, at the first and the second presentation of the same problem"
+      scale: "weighted kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.06
+      reliability:
+        statistic: weighted_kappa
+        over: occasions
+      statistic: "χ²₄ = 1·82, P = 0·77"
+      note: "Table 5 counts 40 first/second presentation pairs of residents and clerks: principal diagnosis on both presentations 10 times."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The text describing this table prints a different kappa (0·12); see
+      diagnosis-replication-kappa-text. Both are recorded as printed.
+    source_quote: "χ²₄ = 1·82 P = 0·77 Kappa (weighted) = 0·06"
+    source_location: "Table 5, Correctness of diagnosis on first and second presentation of the same problem (residents and clerks), p. 351"
+
+  - id: diagnosis-replication-kappa-text
+    sample:
+      value: 40
+      unit: pairs
+    comparison_ref: replication-agreement
+    outcome:
+      construct: "Diagnostic accuracy, agreement across two presentations"
+      source_language: "whether or not the correct diagnosis was listed as principal or differential diagnosis on the first and second presentations"
+      measure: "Whether the correct diagnosis was the principal diagnosis, on the differential, or absent, at the first and the second presentation of the same problem"
+      scale: "kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two presentations of the same problem, on half-days about two weeks apart"
+    result:
+      measure_type: reliability
+      estimate: 0.12
+      reliability:
+        statistic: other
+        over: occasions
+        form: "\"a Kappa coefficient\", as printed in the text; the text does not say whether it is weighted, and the table it cites prints a weighted kappa of 0·06"
+      interpretation: "A weak and non-significant association between the two presentations"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "As shown in Table 5, there was only a weak and non-significant association between the two presentations, yielding a Kappa coefficient of 0·12."
+    source_location: "Results (2), p. 351"
+
+  - id: knowledge-unrelated-to-performance
+    sample:
+      value: 20
+      unit: participants
+    arm_ref: [residents, clerks]
+    outcome:
+      construct: "Relationship between content knowledge and clinical problem-solving scores"
+      source_language: "content knowledge, as assessed by the MCQ tests, was unrelated to performance on any problem"
+      measure: "Analysis of covariance with the scores on the multiple choice subtests as covariates of the four performance scores"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "MCQ subtest taken at each session"
+    result:
+      measure_type: qualitative
+      finding: "No significant positive relationship between MCQ content-knowledge scores and the performance scores on any problem. A supplementary analysis (Table 6) found no instance in which residents or clerks above the median on the specialty MCQ had a significantly higher proportion of correct diagnoses than those below it."
+      collection_method: "Analysis of covariance; chi-square comparisons of above- and below-median MCQ groups"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The article prints no statistic for the analysis of covariance. Table 6
+      prints counts and chi-square values per specialty, level and diagnosis
+      position; they are not recorded here.
+    source_quote: "No significant positive relationship between this measure of content knowledge and the performance scores was present, thus content knowledge, as assessed by the MCQ tests, was unrelated to performance on any problem."
+    source_location: "Results (2), p. 351"
+
+not_yet_extracted:
+  - "Table 1: mean scores by educational level (clerk, resident, expert) on the four performance measures and the two MCQ subtests, with standard errors in brackets and P < 0·0001 for every row (divergent construct validity)."
+  - "Table 2: simple and partial (educational level removed) correlations among the four performance measures (convergent construct validity), e.g. significant and critical findings 0·668 simple, 0·628 partial."
+  - "Table 3: the variance and error rows (in score units) behind the percentage rows recorded above."
+  - "Table 6: numbers (%) of correct principal and differential diagnoses for residents and students above and below the MCQ median, with chi-square values."
