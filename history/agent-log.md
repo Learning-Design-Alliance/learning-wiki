@@ -5,6 +5,29 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation records batch 3: ten more simulator-cited sources
+
+The batch covers the next ten most-used sources with full text, as 12 files with 93 observations:
+- Simonsmeier et al. (2021), Pavlik & Anderson (2005), Wood & Wood (1999), Schwinger et al. (2014), Burnette et al.
+  (2013), Lepper et al. (2005), Cepeda et al. (2008) and DeCaro & Rittle-Johnson (2012).
+- Kalyuga et al. (2001), two experiments.
+- Bursztyn & Jensen (2015), two settings.
+
+Brunmair & Richter (2019), the most-used source of all, is not here: the wiki holds only its abstract.
+
+Every quote was checked against its text layer. Some quotes were taken from PDF page images because the text layer is
+scrambled or drops minus signs: Pavlik's Table 1, Simonsmeier pp. 10-12, Wood's Table 3, Burnette's Table 2 and three
+DeCaro statistics. Pavlik's and Simonsmeier's were checked against the pages by a second reader. Lepper's and Schwinger's
+quotes now use the article's characters where the text layer had symbol-font substitutes.
+
+Findings for the simulator to check:
+- Burnette et al. print the ego-threat moderator as B = .104 in the text and −.104 in Table 2.
+- Simonsmeier et al.'s abstract gives rP+ = .534 and its Results give .531.
+- Cepeda et al.'s 35-day d of 0.6 does not fit their t(111) = 8.9 and cell sizes; it is recorded as printed and
+  flagged.
+- Several figures the simulator uses are its own conversions or come from supplements, not from the articles: the
+  DeCaro d values, Cepeda's ratios and Simonsmeier's 0.091. They are not recorded.
+
 ## 2026-11-26 · j-sim-19: Breuer et al. (2023) with a stronger extraction model
 
 Breuer et al. (2023) had failed structural validation twice with the default extraction model (`z-ai/glm-5.3-flash`).

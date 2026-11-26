@@ -1,0 +1,529 @@
+# Burnette, O'Boyle, VanEpps, Pollack & Finkel (2013): a meta-analysis of
+# implicit theories (mindsets) and self-regulation.
+#
+# Read from the author's in-press manuscript (dated May 9, 2012; 129 pp.).
+# Page numbers below are the manuscript's own running heads, not the
+# Psychological Bulletin pagination. The manuscript prints no DOI; the DOI
+# below was checked against Crossref (title, first author, 2013, 139(3),
+# 655-701).
+#
+# TABLE 2 WAS READ FROM THE PAGE IMAGE. pdftotext splits Table 2 (p. 97) into
+# columns, so a row cannot be quoted from the text layer. k, n, the 95% CIs
+# and I-squared for each row were read from the PDF page image (PDF page 98)
+# and every one of them also appears, column by column, in the text file. Each
+# observation's source_quote is the article's own prose (abstract or Results),
+# which prints r and rc but not k, n, CI or I-squared.
+#
+# WHAT THIS FILE USES:
+#
+#   * `population.age` as min/max only: the article prints an age range across
+#     samples (5-42) and its banding (37% school-aged 5-17), no mean or SD.
+#   * `measure_type: reliability` three times: the mean Cronbach's alpha of the
+#     implicit-theory measures (.80) and of the self-regulation measures (.79)
+#     across the primary studies that reported one, and the coders' kappa for
+#     classifying outcomes into the six processes (.88). The two alphas are the
+#     article's own averages over primary-study alphas, not alphas of one
+#     instrument.
+#
+# `k` in Table 2 counts STUDIES (independent samples), per the table note.
+
+schema_version: 2
+
+study:
+  key: burnette-2013
+  citation: "Burnette, J. L., O'Boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets matter: A meta-analytic review of implicit theories and self-regulation. Psychological Bulletin, 139(3), 655-701."
+  doi: "10.1037/a0029531"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of correlations between implicit theories (incremental vs
+      entity) and six self-regulatory processes (performance goals, learning
+      goals, helpless-oriented strategies, mastery-oriented strategies,
+      negative emotions, expectations) and achievement, organised by the
+      authors' SOMA model. Most included studies (73%) assessed implicit
+      theories as an individual difference; the rest induced them
+      experimentally. Correlations corrected for unreliability (Hunter &
+      Schmidt) are reported beside the observed ones. Moderators (approach vs
+      avoidance, ego threat, domain, method of assessment, publication status)
+      tested by fixed-effects meta-regression.
+  synthesis:
+    model: "Random-effects model for mean effect sizes (Comprehensive Meta-Analysis 2.0); fixed-effects meta-regression for moderators"
+    heterogeneity_statistic: "I2"
+    heterogeneity_thresholds: "I-squared above 25 percent taken to justify a search for moderators (Higgins et al., 2003)"
+    data_handling:
+      - "Two authors independently categorised outcome variables into the six self-regulatory processes; discrepancies resolved by discussion"
+      - "Correlations corrected for unreliability per sample where possible, otherwise with the mean reliability of the primary samples"
+      - "Four outliers (of 273 effects) excluded from final analyses after a one-study-removed analysis"
+      - "Publication bias: trim and fill and Rosenthal's fail-safe N, on published studies only, with moderators and sample size in the regression"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: incremental-theories-predict-goal-setting
+    bearing: supports
+    anchor: burnette-2012
+  - claim: incremental-theories-predict-goal-operating
+    bearing: supports
+    anchor: burnette-2012
+  - claim: incremental-theories-predict-goal-monitoring
+    bearing: supports
+    anchor: burnette-2012
+  - claim: ego-threat-moderates-mindset-selfregulation-links
+    bearing: supports
+    anchor: burnette-2012
+
+evidence_base:
+  unit: studies
+  size:
+    value: 113
+    unit: studies
+  additional_sizes:
+    - value: 85
+      unit: reports
+      note: "citations included: published articles, dissertations, theses and unpublished data"
+    - value: 28217
+      unit: participants
+      note: "total unique N across the 113 independent samples"
+    - value: 273
+      unit: effect-sizes
+      note: "effect sizes yielded by the 113 samples, before the 4 outliers were excluded"
+  population:
+    description: >-
+      113 independent samples across achievement domains (68% academic) from
+      10 nations (58% United States); about 44% of participants female.
+      Reports were published studies (77%), dissertations (9%) and
+      unpublished studies (14%).
+    age_or_stage: >-
+      Ages 5-42 across samples: 37% school-aged (5-17), 49% university-aged
+      (18-23), 14% adult (24-42). No mean or SD is printed, and age was not
+      tested as a moderator.
+    age:
+      unit: years
+      min: 5
+      max: 42
+      note: "Range across the included samples, not within one sample"
+  context:
+    setting: "Academic (68%) and non-academic achievement domains such as athletics, weight management and leadership"
+  variation:
+    - dimension: "Achievement domain"
+      distribution: "68% academic"
+    - dimension: "Implicit-theory assessment"
+      distribution: "73% assessed as an individual difference; the rest experimentally induced"
+    - dimension: "Report type"
+      distribution: "77% published, 9% dissertations, 14% unpublished"
+  arms: []
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Correlation of incremental (vs entity) theories with a self-regulatory process across the pooled samples; no contrast between configurations."
+  - id: outcome-coding-agreement
+    kind: none
+    description: "Agreement between the two independent coders who categorised outcome variables into the six self-regulatory processes, across all included studies."
+  - id: primary-study-measures
+    kind: none
+    description: "Internal consistency of the primary studies' own measures, averaged over the studies that reported it."
+
+observations:
+
+  - id: incremental-performance-goals
+    sample:
+      value: 7635
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Performance goal orientation"
+      source_language: "performance goals"
+      measure: "Performance-goal measures in the primary studies (goal setting)"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: -0.151
+      ci_lower: -0.199
+      ci_upper: -0.102
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 30
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 76.3
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = -.196. Approach/avoidance moderated it (B = -.130, p < .001), stronger for performance-avoidance goals."
+    moderators:
+      reported:
+        - variable: "Ego threat"
+          relationship: "Negative association stronger in the presence of ego threat (Table 2 prints B = -.104, p < .05; the Results prose prints B = .104 with no sign, while its words say the negative association strengthens)"
+          source_quote: "significantly moderated the association of incremental theories with performance goals—this negative association was especially strong in the presence vs. absence of ego threat"
+        - variable: "Approach vs avoidance"
+          relationship: "Stronger negative association with performance-avoidance than performance-approach goals (B = -.130, p < .001)"
+          source_quote: "significantly moderated the association of incremental theories with performance goals (Path c; B = -.130, p < .001), with incremental theories exhibiting a stronger negative association with performance-avoidance goals than with performanceapproach goals."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "with performance-oriented goals (Path a; r = -.151; rc = -.196) and a positive association of incremental theories with learning-oriented goals (Path b; r = .187; rc = .241)."
+    source_location: "Results, Goal Setting, p. 41; Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: incremental-learning-goals
+    sample:
+      value: 9184
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Learning goal orientation"
+      source_language: "learning goals"
+      measure: "Learning-goal measures in the primary studies (goal setting)"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: 0.187
+      ci_lower: 0.143
+      ci_upper: 0.230
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 36
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 76.7
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = .241."
+    moderators:
+      reported:
+        - variable: "Ego threat"
+          relationship: "Positive association stronger in the presence of ego threat (B = .100, p < .001)"
+          source_quote: "Ego threat also significantly moderated the association of incremental theories with learning goals—this positive association was especially stronger in the presence than in the absence of an ego threat"
+        - variable: "Approach vs avoidance"
+          relationship: "Stronger positive association with learning-approach than learning-avoidance goals (B = -.144, p < .001)"
+          source_quote: "The approach/avoidance distinction also significantly moderated the association of incremental theories with learning goals (Path d; B = - .144, p < .001)"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "with performance-oriented goals (Path a; r = -.151; rc = -.196) and a positive association of incremental theories with learning-oriented goals (Path b; r = .187; rc = .241)."
+    source_location: "Results, Goal Setting, p. 41; Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: incremental-helpless-strategies
+    sample:
+      value: 10093
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Helpless-oriented strategies"
+      source_language: "helpless-oriented strategies"
+      measure: "Measures of helpless-oriented reactions in the primary studies (goal operating), e.g. diverting attention and resources away from the goal"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: -0.238
+      ci_lower: -0.293
+      ci_upper: -0.182
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 19
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 85.0
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = -.323."
+    moderators:
+      reported:
+        - variable: "Ego threat"
+          relationship: "Negative association stronger in the presence of ego threat (B = -.096, p < .01)"
+          source_quote: "ego threat also significantly moderated the association of incremental theories with both helpless-oriented strategies—this negative association was especially strong in the presence vs. absence of ego threat (B = -.096, p < .01;"
+        - variable: "Domain (academic vs non-academic)"
+          relationship: "Negative association stronger in the non-academic domain (B = -.086, p < .001)"
+          source_quote: "The negative associations of incremental theories with helpless-oriented strategies (B = -.086, p <"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The domain moderator's quote breaks at a page boundary in the manuscript
+      ("p < .001) ... were stronger in the non-academic compared to the
+      academic domain" continues on p. 46).
+    source_quote: "goal operating (helpless-oriented strategies, r = -.238; mastery-oriented strategies, r = .227), and goal monitoring (negative emotions, r = -.233; expectations, r = .157)."
+    source_location: "Abstract; Results, Goal Operating, pp. 41-42 (rc); Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: incremental-mastery-strategies
+    sample:
+      value: 6853
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Mastery-oriented strategies"
+      source_language: "mastery-oriented strategies"
+      measure: "Measures of mastery-oriented strategies in the primary studies (goal operating)"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: 0.227
+      ci_lower: 0.162
+      ci_upper: 0.290
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 35
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 86.1
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = .313."
+    moderators:
+      reported:
+        - variable: "Ego threat"
+          relationship: "Positive association stronger in the presence of ego threat (B = .138, p < .001)"
+          source_quote: "mastery-oriented strategies—this positive association was especially stronger in the presence than in the absence of an ego threat (B = .138, p < .001;"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "goal operating (helpless-oriented strategies, r = -.238; mastery-oriented strategies, r = .227), and goal monitoring (negative emotions, r = -.233; expectations, r = .157)."
+    source_location: "Abstract; Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: incremental-negative-emotions
+    sample:
+      value: 1515
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Negative emotions"
+      source_language: "negative emotions"
+      measure: "Measures of helpless-oriented negative affect (helplessness, vulnerability, anxiety) in the primary studies (goal monitoring)"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: -0.233
+      ci_lower: -0.314
+      ci_upper: -0.148
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 13
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 57.6
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = -.292. Ego threat did not significantly moderate it (B = .089, p > .05)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Consistent with our hypotheses, results suggest a negative association of incremental theories with negative emotions (r = -.233; rc = -.292) and a positive association of incremental theories with expectations (r = .157; rc = .196)."
+    source_location: "Results, Goal Monitoring, p. 42; Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: incremental-expectations
+    sample:
+      value: 13709
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Expectations of goal attainment"
+      source_language: "expectations"
+      measure: "Goal-related expectation measures in the primary studies (goal monitoring), predominantly likelihood estimates of achieving the goal"
+      scale: "correlation with incremental (vs entity) theory scores"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; no lag coded"
+    result:
+      measure_type: correlation
+      estimate: 0.157
+      ci_lower: 0.126
+      ci_upper: 0.188
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 43
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 65.4
+        unit: percent
+      model: "random-effects"
+      note: "Corrected for unreliability, rc = .196. Ego threat did not significantly moderate it (B = -.016, p > .05)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Consistent with our hypotheses, results suggest a negative association of incremental theories with negative emotions (r = -.233; rc = -.292) and a positive association of incremental theories with expectations (r = .157; rc = .196)."
+    source_location: "Results, Goal Monitoring, p. 42; Table 2 (p. 97, read from page image) for k, n, CI and I-squared"
+
+  - id: implicit-theory-measure-alpha
+    comparison_ref: primary-study-measures
+    outcome:
+      construct: "Internal consistency of implicit-theory measures"
+      source_language: "this predictor variable was generally reliable"
+      measure: "Implicit-theory assessments in the primary studies that assessed (not manipulated) implicit theories and reported reliability"
+      scale: "mean Cronbach's alpha across primary studies"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.80
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "mean Cronbach's alpha over the primary studies reporting one"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      An average of primary-study alphas, not the alpha of one instrument; the
+      number of studies averaged is not printed.
+    source_quote: "this predictor variable was generally reliable (mean Cronbach‘s α = .80)."
+    source_location: "Method, pp. 34-35"
+
+  - id: self-regulation-measure-alpha
+    comparison_ref: primary-study-measures
+    outcome:
+      construct: "Internal consistency of self-regulation measures"
+      source_language: "the outcome variable was generally reliable"
+      measure: "Self-regulatory process or outcome measures in the primary studies that reported reliability"
+      scale: "mean Cronbach's alpha across primary studies"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "mean Cronbach's alpha over the primary studies reporting one"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      An average over all six self-regulatory process measures and outcomes,
+      not per process; the number of studies averaged is not printed.
+    source_quote: "In studies assessing a self-regulatory process or outcome and reporting reliability, the outcome variable was generally reliable (mean Cronbach‘s α = .79)."
+    source_location: "Method, p. 35"
+
+  - id: outcome-coding-kappa
+    comparison_ref: outcome-coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "inter-rater agreement within the self-regulatory categorical assessments"
+      measure: "Two authors' independent categorisation of each outcome variable into one of the six self-regulatory processes"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before discrepancies were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.88
+      ci_lower: 0.86
+      ci_upper: 0.91
+      interval_type: confidence
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      note: "Agreement on ego-threat coding, a moderator, was kappa = .87 (95% CI .77 to .98)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Overall, there was high inter-rater agreement within the self-regulatory categorical assessments (κ = .88; 95% Confidence Interval = .86–.91) across all studies included in final analyses (total unique N = 28,217; k = 113)."
+    source_location: "Method, Coding Strategy, p. 35"
+
+not_yet_extracted:
+  - "Table 3: associations of implicit theories and of the six self-regulatory processes with goal achievement (Paths o-w), e.g. expectations with achievement r = .406"
+  - "Study-characteristic moderators by method of assessment (experimentally induced vs naturally assessed) for performance goals, negative emotions and mastery strategies"
+  - "Publication-status moderation (B = .047 to .109) and fail-safe N values (192 to 2,060)"
+  - "Table 2 power column (1-beta for detecting r = .20): 1.00 or .999 for every row"

@@ -1,0 +1,361 @@
+# Simonsmeier, Flaig, Deiglmayr, Schalk & Schneider (2021; issue 2022):
+# domain-specific prior knowledge and learning, a meta-analysis.
+#
+# Three pooled correlations of prior knowledge, each with its own k:
+#   rP+  with posttest knowledge (stability of differences),
+#   rNG+ with normalized knowledge gains,
+#   rAG+ with absolute knowledge gains,
+# plus the authors' own coding agreement and the sample's ages.
+#
+# QUOTES FROM PAGE IMAGES. The pdftotext layer drops every minus sign and
+# renders "+" and "=" as glyph codes ("rNGþ ¼ .059" for rNG+ = -.059), so the
+# source_quote of each statistic below was copied from the publisher PDF's page
+# images (pp. 1, 10, 12) in the article's own words, not from the text layer.
+# Table 2 (p. 12) was read from the page image as well; its text layer is
+# scrambled.
+#
+# Two inconsistencies inside the article, recorded as printed:
+#   * the abstract gives rP+ = .534, the Results and Table 2 give .531; the
+#     Results value is recorded and the abstract's is noted;
+#   * the Results give I2 = 96.93 for rNG+, Table 2 gives 96.94; the Results
+#     value is recorded and the table's is noted.
+#
+# The key keeps the online-first year (published online 23 July 2021); the
+# issue is 2022, which is how the wiki's claim pages cite it.
+
+schema_version: 2
+
+study:
+  key: simonsmeier-2021
+  citation: "Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2022). Domain-specific prior knowledge and learning: A meta-analysis. Educational Psychologist, 57(1), 31–54. Published online 23 July 2021."
+  doi: "10.1080/00461520.2021.1939700"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of Pearson correlations between an objective measure of
+      domain-specific prior knowledge and (a) posttest knowledge, (b) absolute
+      knowledge gains (post minus pre) and (c) normalized knowledge gains
+      ((post minus pre) / (scale maximum minus pre)). Group differences were
+      converted from Cohen's d to r. Correlations were corrected for
+      measurement error where the primary study reported reliabilities and for
+      dichotomization, Fisher-z transformed, and pooled in random-effects
+      models with robust variance estimation (robumeta). Not pre-registered.
+    preregistration:
+      status: not-preregistered
+      source_quote: "This meta-analysis was not pre-registered."
+  synthesis:
+    model: "Random-effects models, weighted least squares, robust variance estimation for dependent effect sizes (robumeta in R)"
+    heterogeneity_statistic: "I2 (with tau2)"
+    reporting_guideline: "PRISMA (Page et al., 2020), followed 'as far as possible'"
+    search:
+      databases:
+        - PsycINFO
+        - ERIC
+      date_range: "Searched May 2018; publications from 1965 on"
+      records_screened: 9875
+      records_included: 493
+    inclusion:
+      - "An assessment or an experimental manipulation of the amount of learners' domain-specific prior knowledge, measured objectively"
+      - "A measure of knowledge or achievement after learning, or of knowledge gains between measurement points"
+      - "Enough information to compute at least one standardized effect size"
+    exclusion:
+      - "Self-assessed prior knowledge, composite scores over several domains, crystallized intelligence, abilities, achievement or metacognitive knowledge as the prior-knowledge measure"
+      - "Studies manipulating activation rather than amount of prior knowledge, or comparing familiar with unfamiliar materials"
+    data_handling:
+      - "1,192 emails to authors; unpublished effect sizes or data for 71 studies (1,252 effect sizes)"
+      - "Outliers identified by Cook's distance and excluded: 2 for posttest knowledge, 6 for absolute gains, 4 for normalized gains"
+      - "Corrected effect sizes winsorized to the range -1 to 1"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: high-stability-prior-knowledge-posttest-meta-analysis
+    bearing: supports
+    anchor: simonsmeier-2022
+  - claim: prior-knowledge-predictive-power-gains-near-zero
+    bearing: supports
+    anchor: simonsmeier-2022
+  - claim: negative-correlation-absolute-gains
+    bearing: supports
+    anchor: simonsmeier-2022
+  - claim: prior-knowledge-determines-new-learning
+    bearing: qualifies
+    anchor: simonsmeier-et-al-2022
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 8776
+    unit: effect-sizes
+  additional_sizes:
+    - value: 493
+      unit: studies
+      note: "studies included"
+    - value: 685
+      unit: other
+      note: "independent samples within the 493 studies"
+    - value: 126050
+      unit: participants
+      note: "participants in total across the 685 samples"
+  population:
+    description: >-
+      Non-disordered learners from daycare to continued education in 47
+      countries: North America 45% of studies, Europe 33%, Asia 12%, Middle
+      East 4%, Australia/New Zealand 4%, Africa 1%, South America 1%.
+    age_or_stage: >-
+      Sample mean age coded per study at pretest. Across studies the sample
+      mean age ranged from 7.5 months to 42.39 years (as printed, in two
+      units), with an overall mean of 11.32 years (SD 6.90).
+    age:
+      unit: years
+      mean: 11.32
+      sd: 6.90
+      note: >-
+        A mean and SD over the studies' sample MEAN ages, not over
+        individuals. The printed range (7.5 months to 42.39 years) is kept in
+        age_or_stage because its two ends are in different units and neither
+        is converted here.
+  context:
+    setting: "Any learning phase between a prior-knowledge test and a later knowledge or achievement test: no intervention, school instruction, school instruction plus another intervention, or another intervention only"
+  variation:
+    - dimension: "Time between pretest and posttest"
+      distribution: "0 to 3,780 days, median 360 days"
+    - dimension: "Publication year"
+      distribution: "Oldest 1965, median 2012; 68% published in the last 10 years"
+    - dimension: "Design"
+      distribution: "Mostly correlational; 9 randomized controlled trials (45 effect sizes) for posttest knowledge; none for gains"
+  arms: []
+
+comparisons:
+  - id: prior-with-posttest
+    kind: none
+    description: "Correlation of prior knowledge with posttest knowledge pooled across the corpus; no contrast between configurations."
+  - id: prior-with-normalized-gain
+    kind: none
+    description: "Correlation of prior knowledge with normalized knowledge gains pooled across the corpus; no contrast between configurations."
+  - id: prior-with-absolute-gain
+    kind: none
+    description: "Correlation of prior knowledge with absolute knowledge gains pooled across the corpus; no contrast between configurations."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement of three trained research assistants with the main coder on the same 100 effect sizes and their moderator codes."
+
+observations:
+
+  - id: rp-pooled
+    sample:
+      value: 7772
+      unit: effect-sizes
+    comparison_ref: prior-with-posttest
+    outcome:
+      construct: "Posttest knowledge"
+      source_language: "stability of individual differences and group differences in knowledge from pretest to posttest"
+      measure: "Objective knowledge or achievement test after the learning phase"
+      scale: "Pearson correlation with prior knowledge, corrected for artifacts (rP+)"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest; 0 to 3,780 days after the pretest across studies, median 360"
+    result:
+      measure_type: correlation
+      estimate: 0.531
+      ci_lower: 0.509
+      ci_upper: 0.552
+      interval_type: confidence
+      k:
+        value: 7772
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 94.16
+        unit: percent
+        interpretation: "High; tau2 = .112 (Table 2)"
+      prediction_interval:
+        lower: -0.067
+        upper: 0.848
+        source: "Reported by the authors (Riley et al., 2011 method), Results p. 10"
+      publication_bias:
+        method: "Funnel plots and Egger regressions for random-effects models, effect-size and study level; published vs unpublished moderator test"
+        finding: "No evidence of publication bias; Egger regressions did not indicate an underrepresentation of small effect sizes"
+      model: "random-effects, robust variance estimation"
+      note: >-
+        476 studies. The abstract prints rP+ = .534; the Results and Table 2
+        print .531, recorded here. In the 9 RCTs rP+ = .394 [.132, .605]
+        (45 effect sizes), not significantly different from other designs.
+    moderators:
+      reported:
+        - variable: "Learner age"
+          relationship: "No moderation of rP+ by age"
+          source_quote: "The correlation between prior knowledge and posttest knowledge was independent of learner age."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The average correlation was rP+ = .531 (95% CI [.509, .552], see Table 2)."
+    source_location: "Results, Research question 1, p. 10; Table 2, p. 12 (quoted from the page image)"
+
+  - id: rng-pooled
+    sample:
+      value: 697
+      unit: effect-sizes
+    comparison_ref: prior-with-normalized-gain
+    outcome:
+      construct: "Normalized knowledge gain"
+      source_language: "the predictive power of prior knowledge for learning, i.e., the correlation between pretest knowledge and normalized knowledge gains"
+      measure: "(posttest score - pretest score) / (scale maximum - pretest score) (Hake, 1998)"
+      scale: "Pearson correlation with prior knowledge, corrected for artifacts (rNG+)"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gain from the pretest to a later measurement point"
+    result:
+      measure_type: correlation
+      estimate: -0.059
+      ci_lower: -0.150
+      ci_upper: 0.034
+      interval_type: confidence
+      k:
+        value: 697
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 96.93
+        unit: percent
+        interpretation: "High; Table 2 prints 96.94; tau2 = .120 (Table 2)"
+      prediction_interval:
+        lower: -0.688
+        upper: 0.621
+        source: "Reported by the authors (Riley et al., 2011 method), Results p. 10 and abstract"
+      publication_bias:
+        method: "Funnel plots and Egger regressions for random-effects models, effect-size and study level"
+        finding: "No evidence of publication bias"
+      model: "random-effects, robust variance estimation"
+      interpretation: "Not significantly different from zero"
+      note: >-
+        69 studies, none an RCT. The distribution of the 697 effect sizes was
+        unimodal with mean -.059 and median .010, skewness -.230, excess
+        kurtosis 0.612, observed range -.943 to .929. In the 28 studies
+        allowing all three effect-size types rNG+ = .001 [-.215, .217].
+    moderators:
+      reported:
+        - variable: "Learner age"
+          relationship: "No moderation of the gain correlation by age"
+          source_quote: "The correlation with gain scores was also age-independent."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "the meta-analytically derived mean effect size was very small (rNG+ = −.059, 95% CI [–.150, .034]), and the 95% confidence interval included zero."
+    source_location: "Results, Research question 3, p. 10; Table 2, p. 12 (quoted from the page image)"
+
+  - id: rag-pooled
+    sample:
+      value: 307
+      unit: effect-sizes
+    comparison_ref: prior-with-absolute-gain
+    outcome:
+      construct: "Absolute knowledge gain"
+      source_language: "absolute knowledge gains"
+      measure: "posttest score - pretest score"
+      scale: "Pearson correlation with prior knowledge, corrected for artifacts (rAG+)"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gain from the pretest to a later measurement point"
+    result:
+      measure_type: correlation
+      estimate: -0.263
+      ci_lower: -0.370
+      ci_upper: -0.149
+      interval_type: confidence
+      k:
+        value: 307
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 98.05
+        unit: percent
+        interpretation: "High; tau2 = .224 (Table 2)"
+      publication_bias:
+        method: "Funnel plots and Egger regressions for random-effects models, effect-size and study level"
+        finding: "No evidence of publication bias"
+      model: "random-effects, robust variance estimation"
+      interpretation: "Significantly below zero, and significantly below rNG+ (t(89) = 2.74, p = .016, d = .58); the authors attribute the difference to ceiling effects distorting absolute gains"
+      note: "50 studies. In the 28 studies allowing all three effect-size types rAG+ = -.277 [-.452, -.081]."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Aggregated across studies, the correlation was rAG+ = −.263 (95% CI [−.370, −.149])."
+    source_location: "Results, Research question 5, p. 12; Table 2, p. 12 (quoted from the page image)"
+
+  - id: coder-agreement
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "absolute agreements of the three research assistants with the main coder"
+      measure: "Codes for the same 100 effect sizes and their moderator information"
+      scale: "percent agreement with the main coder"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after coder training, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 89
+        upper: 92
+        over:
+          value: 3
+          unit: other
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "absolute agreement of each of three research assistants with the main coder"
+      note: "Printed per assistant as 92%, 89% and 90%; the range holds the lowest and highest of those three printed values."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because an agreement rate is not an effect.
+      The range is over three coder pairs (each assistant with the main
+      coder). The analysed codes are post-discussion, so this bounds trust in
+      the codes before discussion.
+    source_quote: "The absolute agreements of the three research assistants with the main coder were 92%, 89%, and 90%, respectively."
+    source_location: "Method, Data coding, p. 8"
+
+not_yet_extracted:
+  - "Screening agreements: 83% on 100 titles and abstracts (second coder), and 82%, 72% and 79% for the three assistants on full-text inclusion (Method, Inclusion of studies)."
+  - "rP+ in 9 RCTs, .394 [.132, .605], 45 effect sizes; rP+ before and after controlling for intelligence, .515 and .479 (45 studies); Table 2."
+  - "Correlations between rP and rNG (r = .216, 238 pairs) and rP and rAG (r = -.051) across studies, and the t-tests comparing rP+ with rNG+ and rAG+ (Research question 4)."
+  - "Exploratory moderators of rNG+ (cognitive demands of intervention, R2 = .138; written instruction, R2 = .207) and of rP+ (similarity dimensions, knowledge type, content domain, educational level, country), Results pp. 13-14."
+  - "Supplementary Table S1 (moderator levels, including educational level and intervention duration): in the supplement, not in the article read here."

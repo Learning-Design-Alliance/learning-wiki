@@ -1,0 +1,470 @@
+# Schwinger, Wirthwein, Lemmer & Steinmayr (2014): academic self-handicapping
+# and achievement, a meta-analysis of 36 field studies.
+#
+# Read from the Online First copy (10 February 2014, pages 1-19, the same DOI);
+# the issue version is 106(3), 744-761, so page numbers below are the Online
+# First pages. No PDF of it was available here, only its text layer.
+#
+# The text layer prints APA's symbol font with substitute glyphs; the
+# source_quote fields use the characters the article prints (=, −, ≤, <, κ). Table 3
+# extracted column by column, not row by row, so its rows cannot be quoted as
+# rows: each stratum's quote is the running text, and the k and SE taken from
+# Table 3 are read off its k and SE columns, whose order matches the ES column
+# that the text confirms.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled correlation (r = -.23) with its heterogeneity and the
+#     publication-bias tests.
+#   * School type as corpus strata (arms), one correlation each, as the source
+#     reports them; the moderator test sits on the pooled observation.
+#   * The meta-regression of the correlation on the reliability of the
+#     self-handicapping scale.
+#   * `measure_type: reliability` for the authors' own double coding: Cohen's
+#     kappa from .68 to 1.00 across the coded variables.
+#   * `population.age: unreported`: the article gives school types and the
+#     share of university students, but no age figure.
+
+schema_version: 2
+
+study:
+  key: schwinger-2014
+  citation: "Schwinger, M., Wirthwein, L., Lemmer, G., & Steinmayr, R. (2014). Academic self-handicapping and achievement: A meta-analysis. Journal of Educational Psychology, 106(3), 744-761."
+  doi: "10.1037/a0035832"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of Pearson correlations between self-reported academic
+      self-handicapping and academic achievement in field studies of school and
+      university students. Multiple effect sizes within a study were combined
+      through Fisher's Z; results reported for separate groups were treated as
+      independent samples. Categorical moderators by meta-analytic analogue to
+      ANOVA under a mixed-effects model, continuous ones by weighted least
+      squares meta-regression, and a multiple WLS meta-regression.
+  synthesis:
+    model: "Random-effects model with a restricted maximum likelihood (REML) estimator of the between-study variance; mixed-effects model for moderators"
+    heterogeneity_statistic: "Q and I2"
+    search:
+      databases:
+        - PsycINFO
+        - ERIC
+        - Google Scholar
+        - Web of Knowledge
+        - ProQuest Dissertations & Theses
+        - OpenGrey
+        - NTiS
+        - PSYNDEX
+      date_range: "up to August 2013"
+      records_screened: 366
+      records_included: 36
+    inclusion:
+      - "Correlations between self-handicapping and academic achievement specified (achievement in sports excluded)"
+      - "Self-report measures"
+      - "Sample of school or university students"
+      - "Written in English or German"
+    data_handling:
+      - "Known authors contacted for unpublished studies or data"
+      - "Two outlying correlations (more than 2 SDs from the mean) winsorized to 2 SDs"
+      - "A second coder categorized 10 of the included studies to estimate coding reliability"
+      - "Publication bias assessed by funnel plot, Begg and Mazumdar rank correlation test and Egger regression test"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: self-handicapping-achievement-mean-correlation
+    bearing: supports
+    anchor: schwinger-2014
+  - claim: self-handicapping-effect-heterogeneity
+    bearing: supports
+    anchor: schwinger-2014
+  - claim: school-type-moderates-self-handicapping-correlation
+    bearing: supports
+    anchor: schwinger-2014
+  - claim: scale-reliability-moderates-self-handicapping-correlation
+    bearing: supports
+    anchor: schwinger-2014
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 49
+    unit: effect-sizes
+  additional_sizes:
+    - value: 36
+      unit: studies
+      note: "field studies included"
+    - value: 25550
+      unit: participants
+      note: "total participants across the 49 independent samples (range 43 to 6,366 per sample)"
+  population:
+    description: >-
+      School and university students in field studies published 1992-2013:
+      51% of participants university students and 49% school students.
+      Publications from the United States (38.8%), Europe (30.6%) or
+      Australia (20.4%).
+    age_or_stage: "Elementary, middle and high school students and university students; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Field studies relating questionnaire-measured academic self-handicapping to grade point average, achievement tests, exam grades or report-card grades"
+  variation:
+    - dimension: "School type (number of effect sizes, Table 3)"
+      distribution: "elementary 6, middle school 4, high school 12, university 25"
+    - dimension: "Self-handicapping questionnaire (number of effect sizes, Table 3)"
+      distribution: "Academic SHS 23, SHS 11, Short SHS 2, mixed 4, MES self-sabotage 6, others 3"
+  arms:
+    - id: elementary-school
+      description: "The elementary-school stratum of the corpus. The source does not define the grade span."
+      size:
+        value: 6
+        unit: effect-sizes
+    - id: middle-school
+      description: "The middle-school stratum of the corpus."
+      size:
+        value: 4
+        unit: effect-sizes
+    - id: high-school
+      description: "The high-school stratum of the corpus."
+      size:
+        value: 12
+        unit: effect-sizes
+    - id: university
+      description: "The university-student stratum of the corpus."
+      size:
+        value: 25
+        unit: effect-sizes
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Self-handicapping and achievement across the whole corpus; no contrast between strata."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the first coder and a second coder who categorized 10 of the included studies."
+
+observations:
+
+  - id: sh-achievement-overall
+    sample:
+      value: 49
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Grade point average, achievement test scores, exam grades or report-card grades as reported by the primary studies"
+      scale: "correlation with self-reported academic self-handicapping"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies (concurrent or prospective)"
+    result:
+      measure_type: correlation
+      estimate: -0.23
+      ci_lower: -0.25
+      ci_upper: -0.20
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 49
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 70.32
+        unit: percent
+        interpretation: "95% CI [55.72%, 82.96%], classified as high; Cochran's Q = 156.50, df = 48, p < .001"
+      publication_bias:
+        method: "Funnel plot; Begg and Mazumdar rank correlation test; Egger regression test"
+        finding: "No asymmetry: Kendall's tau = 0.01, p = .90; regression test z = -0.36, p = .72"
+      model: "random-effects"
+      note: "Range of the individual correlations r = -.46 to r = .02. The authors call it a medium-sized correlation by Hattie (2009)."
+    moderators:
+      reported:
+        - variable: "School type"
+          relationship: "Stronger negative correlations in elementary (r = -.29) and middle school (r = -.34) than in high school (r = -.23) and university (r = -.18); QB = 18.83, p < .01"
+          source_quote: "The largest moderator effect was found for “school type” (QB = 18.83, p < .01)."
+        - variable: "Self-handicapping questionnaire"
+          relationship: "Weaker correlation for the SHS (r = -.11) than for the Academic SHS (r = -.25) and the MES (r = -.25); QB = 24.74, p < .01"
+          source_quote: "the variable “questionnaire” emerged as a significant moderator of the mean correlation between self-handicapping and achievement (QB = 24.74, p < .01)."
+        - variable: "Mastery-approach goals in the sample"
+          relationship: "Stronger correlation in samples with medium mastery-approach goals (r = -.38) than with high (r = -.25); QB = 8.93, p < .01"
+          source_quote: "Mastery-approach goals were an additional statistically significant moderator (QB = 8.93, p < .01)"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The random-effects model revealed a mean correlation between self-handicapping and achievement of r = −.23 (p < .001; range: r = −.46 to r = .02; 95% CI [−.25, −.20]; k = 49)."
+    source_location: "Results, Mean Effect Size, p. 9 (Online First)"
+
+  - id: sh-achievement-elementary
+    sample:
+      value: 6
+      unit: effect-sizes
+    arm_ref: elementary-school
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indicators as reported by the primary studies"
+      scale: "correlation with self-reported academic self-handicapping"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: -0.29
+      ci_lower: -0.35
+      ci_upper: -0.23
+      interval_type: confidence
+      standard_error: 0.03
+      statistic: "z = -9.20"
+      p_value: "< .01"
+      k:
+        value: 6
+        unit: effect-sizes
+      model: "mixed-effects (random-effects within category)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Estimate and interval from the text; k, SE and z from Table 3's columns
+      (see the file header). Total N for the stratum is not printed.
+    source_quote: "The confidence intervals of the categories “elementary school” (r = −.29; 95% CI: −.35 ≤ r ≤ −.23) and “middle school” (r = −.34; 95% CI: −.41 ≤ r ≤ −.25) compared to “high school” (r = −.23; 95% CI: −.26 ≤ r ≤ −.18) and “university students” (r = −.18; 95% CI: −.21 ≤ r ≤ −.14) did not overlap, indicating a statistically significant difference between these correlations."
+    source_location: "Results, Moderator Analyses, p. 9 (Online First); Table 3, School type"
+
+  - id: sh-achievement-middle-school
+    sample:
+      value: 4
+      unit: effect-sizes
+    arm_ref: middle-school
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indicators as reported by the primary studies"
+      scale: "correlation with self-reported academic self-handicapping"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: -0.34
+      ci_lower: -0.41
+      ci_upper: -0.25
+      interval_type: confidence
+      standard_error: 0.04
+      statistic: "z = -7.95"
+      p_value: "< .01"
+      k:
+        value: 4
+        unit: effect-sizes
+      model: "mixed-effects (random-effects within category)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Estimate and interval from the text; k, SE and z from Table 3's columns.
+    source_quote: "The confidence intervals of the categories “elementary school” (r = −.29; 95% CI: −.35 ≤ r ≤ −.23) and “middle school” (r = −.34; 95% CI: −.41 ≤ r ≤ −.25) compared to “high school” (r = −.23; 95% CI: −.26 ≤ r ≤ −.18) and “university students” (r = −.18; 95% CI: −.21 ≤ r ≤ −.14) did not overlap, indicating a statistically significant difference between these correlations."
+    source_location: "Results, Moderator Analyses, p. 9 (Online First); Table 3, School type"
+
+  - id: sh-achievement-high-school
+    sample:
+      value: 12
+      unit: effect-sizes
+    arm_ref: high-school
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indicators as reported by the primary studies"
+      scale: "correlation with self-reported academic self-handicapping"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: -0.23
+      ci_lower: -0.26
+      ci_upper: -0.18
+      interval_type: confidence
+      standard_error: 0.02
+      statistic: "z = -10.14"
+      p_value: "< .01"
+      k:
+        value: 12
+        unit: effect-sizes
+      model: "mixed-effects (random-effects within category)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Estimate and interval from the text; k, SE and z from Table 3's columns.
+    source_quote: "The confidence intervals of the categories “elementary school” (r = −.29; 95% CI: −.35 ≤ r ≤ −.23) and “middle school” (r = −.34; 95% CI: −.41 ≤ r ≤ −.25) compared to “high school” (r = −.23; 95% CI: −.26 ≤ r ≤ −.18) and “university students” (r = −.18; 95% CI: −.21 ≤ r ≤ −.14) did not overlap, indicating a statistically significant difference between these correlations."
+    source_location: "Results, Moderator Analyses, p. 9 (Online First); Table 3, School type"
+
+  - id: sh-achievement-university
+    sample:
+      value: 25
+      unit: effect-sizes
+    arm_ref: university
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Achievement indicators as reported by the primary studies"
+      scale: "correlation with self-reported academic self-handicapping"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: -0.18
+      ci_lower: -0.21
+      ci_upper: -0.14
+      interval_type: confidence
+      standard_error: 0.02
+      statistic: "z = -9.67"
+      p_value: "< .01"
+      k:
+        value: 25
+        unit: effect-sizes
+      model: "mixed-effects (random-effects within category)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Estimate and interval from the text; k, SE and z from Table 3's columns.
+    source_quote: "The confidence intervals of the categories “elementary school” (r = −.29; 95% CI: −.35 ≤ r ≤ −.23) and “middle school” (r = −.34; 95% CI: −.41 ≤ r ≤ −.25) compared to “high school” (r = −.23; 95% CI: −.26 ≤ r ≤ −.18) and “university students” (r = −.18; 95% CI: −.21 ≤ r ≤ −.14) did not overlap, indicating a statistically significant difference between these correlations."
+    source_location: "Results, Moderator Analyses, p. 9 (Online First); Table 3, School type"
+
+  - id: scale-reliability-meta-regression
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "The reliability of the self-handicapping was an additional significant moderator"
+      measure: "Study-level correlations between self-handicapping and achievement, regressed on the reliability (Cronbach's alpha) of the self-handicapping scale"
+      scale: "unstandardized weighted least squares meta-regression coefficient"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.67
+      statistic: "z = -3.0"
+      p_value: "< .01"
+      model: "Weighted least squares meta-regression, one moderator"
+      interpretation: "Higher scale reliability goes with a more negative correlation, as the authors predicted"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The number of effect sizes entering this regression is not printed.
+      The coefficient is a slope on a study-level moderator, not an effect of
+      any configuration.
+    source_quote: "The reliability of the self-handicapping was an additional significant moderator (unstandardized b = −0.67, z = −3.0, p < .01)."
+    source_location: "Results, Moderator Analyses, p. 10 (Online First)"
+
+  # The reliability of the authors' CODING, not of any self-handicapping
+  # scale in the corpus. Per-variable kappas are in Table 2, whose rows the
+  # text layer scrambled; only the range and the two values the text names
+  # are relied on.
+  - id: coder-agreement-kappa
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement on moderator coding"
+      source_language: "coding reliability of the variables"
+      measure: "Cohen's kappa between the first coder and a second coder who categorized 10 of the included studies, per coded variable"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.68
+        upper: 1.00
+        over:
+          value: 10
+          unit: items
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "Cohen's kappa per coded moderator variable"
+      interpretation: "All at least substantial; all excellent except school type (kappa = .68) and questionnaire (kappa = .74)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      `over` counts the coded variables that carry a kappa in Table 2 (ten
+      values in its kappa column). The source writes that the 10 double-coded
+      studies were "about 34%" of those included; that share is recorded as
+      printed and not recomputed. effect_size is `unreported` because a
+      reliability is not an effect.
+    source_quote: "As can be seen, the coding reliabilities of each item were at least substantial with kappas ranging from .68 to 1.00. With two exceptions regarding the categories school type (κ = .68) and questionnaire (κ = .74), all kappas could be classified as excellent."
+    source_location: "Method, Literature Search and Coding, p. 7 (Online First); Table 2"
+
+not_yet_extracted:
+  - "Questionnaire strata (Academic SHS r = -.25, SHS r = -.11, MES r = -.25, and the others in Table 3) as separate observations; the moderator test is recorded on the pooled observation."
+  - "Mastery-approach goal strata (medium r = -.38, k 3; high r = -.25, k 10) and the other Table 3 categories (gender, goals, self-efficacy, self-esteem, self-concept, achievement level, origin, achievement indicator, publication type, time, specificity, domain, domain matching)."
+  - "Multiple WLS meta-regression: Qmodel = 39.50, df = 3, k = 36, 67.39% of between-study variance; school type b = -0.09, questionnaire b = -0.17."
+  - "Ethnicity meta-regression (b = -0.00, z = -0.35, p = .73, eight studies)."
+  - "Table 1's per-study N and descriptives, and Figure 1's per-study effects (a forest plot, not read)."
+  - "No reliability of any self-handicapping scale or achievement measure is printed as this study's own figure: scale reliability enters only as a study-level moderator."

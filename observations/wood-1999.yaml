@@ -1,0 +1,303 @@
+# Wood & Wood (1999): help seeking, learning and contingent tutoring with
+# QUADRATIC, a computer-based algebra tutor.
+#
+# Read from the publisher PDF's text layer (Computers & Education 33, 153-169).
+# Every quote but one is from the running text. The text layer drops the "ff"
+# ligature to a control character, so quotes stop short of words containing it.
+# Tables 1 and 2 lost their minus signs in extraction, so no figure is taken
+# from them. Table 3 extracted column by column; its "First and second days"
+# row, and its significance stars, were therefore read from the page image
+# (PDF page 10, journal p. 162), and that one quote is taken from the image.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The section 3.6 result: after an error, the High prior-knowledge group
+#     sought help more often than the Low group (0.27 against 0.11, P < 0.02).
+#     Each group's rate is its own observation (`arm_ref`), and the contrast
+#     with its test is a third. The source does not say whether a rate is a
+#     mean of per-learner proportions or a pooled ratio, so these are recorded
+#     as `probability`, not `mean`.
+#   * The same paragraph's self-correction contrast and its control for help
+#     quality (success after help, 0.62 against 0.60, no significant difference).
+#   * `population.age` as printed: "14- and 15-year-olds". No mean or SD.
+#   * No reliability: the paper prints none, for the pre-test that forms the
+#     groups or for any log measure. The day-to-day correlation of help-seeking
+#     frequency (Table 3) is the authors' evidence of consistent individual
+#     differences; it is recorded as a correlation, not relabelled a reliability.
+#
+# The groups are a median split on a pre-test, not assigned conditions: the
+# design is observational, and a group difference here is an association with
+# prior knowledge.
+
+schema_version: 2
+
+study:
+  key: wood-1999
+  citation: "Wood, H., & Wood, D. (1999). Help seeking, learning and contingent tutoring. Computers & Education, 33(2-3), 153-169."
+  doi: "10.1016/S0360-1315(99)00030-5"
+  design:
+    family: observational
+    design_detail: >-
+      One group of 42 pupils, each with two 30-50 minute sessions with the
+      QUADRATIC tutor one day apart; the system logged every success, error and
+      help request. Pupils were split at the median of an algebra pre-test into
+      High (n = 22) and Low (n = 20) prior-knowledge groups, and process
+      measures and probe-test outcomes were compared by correlation, partial
+      correlation and group contrasts. A matched non-treatment control sample
+      took the delayed algebra test, but no result for it is reported here.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 42
+    unit: participants
+  additional_sizes:
+    - value: 2
+      unit: schools
+      note: "medium-sized secondary schools the pupils were drawn from"
+  population:
+    description: >-
+      42 secondary-school pupils with little prior experience of algebra, from
+      two medium-sized secondary schools, one in a mainly middle-class
+      residential area and one in an urban area on the edge of a large
+      industrial city. The authors are at the University of Nottingham, UK; the
+      schools' country is not stated.
+    age_or_stage: "14- and 15-year-olds"
+    age:
+      unit: years
+      min: 14
+      max: 15
+      note: "The article prints only '14- and 15-year-olds'; no mean, median or SD."
+  context:
+    setting: "Computer-based tutoring in algebra (expansion of the quadratic function), two sessions of 30-50 minutes one day apart; help given only on the learner's request, at one of five levels set by the learner's recent history"
+  arms:
+    - id: high-prior-knowledge
+      description: "Pupils who scored at or above the median on the algebra pre-test (based on the Chelsea diagnostic mathematics tests: Algebra)."
+      size:
+        value: 22
+        unit: participants
+    - id: low-prior-knowledge
+      description: "Pupils who scored below the median on the algebra pre-test."
+      size:
+        value: 20
+        unit: participants
+
+comparisons:
+  - id: high-vs-low-prior-knowledge
+    kind: between-groups
+    index_arm: high-prior-knowledge
+    reference_arm: low-prior-knowledge
+    description: "High against Low prior-knowledge group, formed by a median split on the pre-test; not an assigned contrast."
+  - id: whole-sample
+    kind: none
+    description: "Correlations across the whole sample of pupils; no contrast between groups."
+
+observations:
+
+  - id: help-after-error-high
+    arm_ref: high-prior-knowledge
+    outcome:
+      construct: "Help seeking after an error"
+      source_language: "more likely to seek help after error"
+      measure: "Share of errors followed by a help request, from the tutor's log of every success, error and help request"
+      scale: "proportion (0 to 1)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during tutoring, up to and including the expansion of (x+n)^2"
+    result:
+      measure_type: probability
+      estimate: 0.27
+      note: "Computed after excluding the High-group learners who made no errors or self-corrected all but the odd one (11 in total, per the source)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The analysed n is not printed: the source says 11 learners were excluded
+      from this comparison and describes them as High-group learners, so no
+      sample is recorded. Whether the rate is a mean of per-learner proportions
+      or a pooled ratio is not stated. No SD, SE or interval is printed.
+    source_quote: "However, the data indicate that the opposite was the case, with children in the high group being more likely to seek help after error (0.27 against 0.11, P < 0.02)."
+    source_location: "Section 3.6, Prior knowledge and contingent help seeking, p. 163"
+
+  - id: help-after-error-low
+    arm_ref: low-prior-knowledge
+    outcome:
+      construct: "Help seeking after an error"
+      source_language: "more likely to seek help after error"
+      measure: "Share of errors followed by a help request, from the tutor's log of every success, error and help request"
+      scale: "proportion (0 to 1)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during tutoring, up to and including the expansion of (x+n)^2"
+    result:
+      measure_type: probability
+      estimate: 0.11
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source states an exclusion only for the High group, but does not print
+      the analysed n for either group, so no sample is recorded. No SD, SE or
+      interval is printed.
+    source_quote: "However, the data indicate that the opposite was the case, with children in the high group being more likely to seek help after error (0.27 against 0.11, P < 0.02)."
+    source_location: "Section 3.6, Prior knowledge and contingent help seeking, p. 163"
+
+  - id: help-after-error-high-vs-low
+    comparison_ref: high-vs-low-prior-knowledge
+    outcome:
+      construct: "Help seeking after an error"
+      source_language: "more likely to seek help after error"
+      measure: "Share of errors followed by a help request, from the tutor's log"
+      scale: "proportion (0 to 1)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during tutoring, up to and including the expansion of (x+n)^2"
+    result:
+      measure_type: other
+      p_value: "< 0.02"
+      descriptives: "High 0.27, Low 0.11"
+      interpretation: "The authors read it as greater prior knowledge being associated with more effective help seeking after errors"
+      note: "The test used is not named. The comparison excludes 11 learners the source describes as in the High group (no errors, or all but the odd one self-corrected)."
+    moderators:
+      reported: []
+      candidate:
+        - "The Low group made more errors and self-corrected less, so it had more occasion to need help; the authors note the opposite pattern in help seeking"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, the data indicate that the opposite was the case, with children in the high group being more likely to seek help after error (0.27 against 0.11, P < 0.02). Although this comparison excludes those learners in the High group who made no errors or who selfcorrected all but the odd one (11 in total)"
+    source_location: "Section 3.6, Prior knowledge and contingent help seeking, p. 163"
+
+  - id: self-correction-high-vs-low
+    comparison_ref: high-vs-low-prior-knowledge
+    outcome:
+      construct: "Self-correction after an error"
+      source_language: "follow an error with a correct response, i.e. to self-correct"
+      measure: "Share of errors followed by a correct response, from the tutor's log"
+      scale: "proportion (0 to 1)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during tutoring, up to and including the expansion of (x+n)^2"
+    result:
+      measure_type: other
+      p_value: "< 0.01"
+      descriptives: "High 0.59, Low 0.33"
+      note: "The test used is not named, and the analysed n is not printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The High group was signi®cantly more likely to follow an error with a correct response, i.e. to self-correct (0.59 against 0.33; P < 0.01)."
+    source_location: "Section 3.6, Prior knowledge and contingent help seeking, p. 163"
+
+  - id: success-after-help-high-vs-low
+    comparison_ref: high-vs-low-prior-knowledge
+    outcome:
+      construct: "Success after help"
+      source_language: "the probability of success after help for each learner"
+      measure: "Per-learner probability of a successful action after a help request, from the tutor's log"
+      scale: "probability (0 to 1)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during tutoring, up to and including the expansion of (x+n)^2"
+    result:
+      measure_type: other
+      descriptives: "0.62 against 0.60 (the source does not say which group is which)"
+      interpretation: "No significant difference; the authors use it to rule out less effective help provision for the low scorers"
+      note: "The source prints no p value or test statistic, only 'no significant difference'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The order of the two figures is not tied to a group in the text; it is
+      recorded as printed and not assigned.
+    source_quote: "the likelihood of success after help for the two groups (0.62 against 0.60)."
+    source_location: "Section 3.6, Prior knowledge and contingent help seeking, p. 163"
+
+  - id: help-seeking-day-to-day-consistency
+    comparison_ref: whole-sample
+    sample:
+      value: 42
+      unit: participants
+    outcome:
+      construct: "Consistency of help-seeking frequency across days"
+      source_language: "Correlations between frequency of help seeking and errors for quadratic, cubic and negative quadratic cases"
+      measure: "Frequency of help requests on the first and on the second day of tutoring, from the tutor's log"
+      scale: "Pearson product-moment correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first against second tutoring session, one day apart"
+    result:
+      measure_type: correlation
+      estimate: 0.51
+      p_value: "< 0.001"
+      interpretation: "The authors read Table 3 as indicating systematic individual differences in the tendency to seek help"
+      note: "In the same row, errors on the first and second days correlated 0.14, with no significance marker. The p value is Table 3's star (*** = P < 0.001), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Recorded as a correlation, not as a reliability: the authors present it as
+      evidence about learners' consistency, and print no reliability for any
+      measure in the paper.
+    source_quote: "First and second days 42 0.51*** 0.14"
+    source_location: "Table 3, p. 162 (quote read from the page image); text in section 3.4"
+
+not_yet_extracted:
+  - "Table 1 correlations between process measures, the pre-test and the average probe test (e.g. pre-test with average probe test 0.71): the minus signs are lost in the text layer, so the table was not transcribed."
+  - "Table 2 partial correlations by group, with Fisher z tests: minus signs lost in the text layer."
+  - "Errors per group: 'the Low group made twice as many errors as the High one (16 against 8)'; no SD printed."
+  - "Regression models: process measures account for 63% of pre-test variance; 30%, 43%, 50% and 62% of probe-test variance for the models described in section 3.1; 57% and 35% within the High and Low groups."
+  - "Table 3's other rows (quadratics with cubics, n 38, help 0.58, errors 0.33; quadratics with negatives, n 19, help 0.48, errors 0.44) and Table 4's solution-efficiency percentages."
+  - "No reliability is printed for the algebra pre-test, the probe tests or any log measure."
