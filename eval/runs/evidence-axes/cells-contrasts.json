@@ -134614,5 +134614,169 @@
  "learner-difference\t4th-grade pupils in the special physics class\tGrammar school pupils": {
   "label": "special physics-class pupils vs grammar-school pupils",
   "treatment_is_a": true
+ },
+ "case-comparison\tcompare two negotiation cases\tstudy the two cases separately": {
+  "label": "case comparison vs separate case study",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcompare two negotiation cases\tstudy two cases separately": {
+  "label": "case comparison vs separate case study",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcompare two study examples\tstudy cases separately": {
+  "label": "case comparison vs separate case study",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparison instruction across two cases\tseparate-cases instruction": {
+  "label": "case comparison vs separate case instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tguided analogical comparison of two negotiation cases\tno case-study training": {
+  "label": "guided analogical comparison vs no case-study training",
+  "treatment_is_a": true
+ },
+ "case-comparison\tguided-analogy training\tseparate-cases instruction": {
+  "label": "guided analogical training vs separate-case instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\thigh-alignment building pair\tlow-alignment building pair": {
+  "label": "high-alignment pair vs low-alignment pair",
+  "treatment_is_a": true
+ },
+ "case-comparison\thigh-alignment training exemplars\tlow-alignment training exemplars": {
+  "label": "high-alignment exemplars vs low-alignment exemplars",
+  "treatment_is_a": true
+ },
+ "case-comparison\thigh-alignment training pair\tlow-alignment training pair": {
+  "label": "high-alignment training pair vs low-alignment training pair",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\texample–problem sequence\tproblem–example sequence": {
+  "label": "example-first vs problem-first",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t30-hour chess instruction programme\tbusiness as usual": {
+  "label": "instruction vs business as usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t30-hour whole-class chess instruction\tbusiness as usual": {
+  "label": "instruction vs business as usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit instruction\texplicit instruction": {
+  "label": "explicit instruction vs implicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tstudy material and explicitly assimilate text with diagram\tstudy material only": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tFinal exam with show-answer enabled\tMidterm with show-answer disabled": {
+  "label": "Feedback present vs absent",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tQuizzes with show-answer enabled\tOther chapter quizzes": {
+  "label": "Feedback present vs absent",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPublic class ranking with points for individual performance improvement\tPrivate individual points for individual performance improvement": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpublic dynamic class ranking with individual improvement points\tprivate individual performance feedback with individual improvement points": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpublic ranking with relative performance feedback\tprivate individual performance feedback": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trelative performance feedback with a class ranking\tprivate individual performance feedback": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trelative performance ranking\tprivate individual performance feedback": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trelative performance ranking based on individual performance improvements\tprivate individual performance feedback based on individual performance improvements": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trelative performance ranking feedback\tindividual performance feedback": {
+  "label": "Public relative-performance ranking feedback vs private individual feedback",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked representation practice\tinterleaved representation practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tblocked representation practice\tmoderate representation practice": {
+  "label": "moderate interleaving vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tincreased blocking-to-interleaving sequence\tfully interleaved sequence": {
+  "label": "fully interleaved vs increasing interleaving",
+  "treatment_is_a": false
+ },
+ "interleaving\tincreased-to-interleaved representation practice\tblocked representation practice": {
+  "label": "increasing interleaving vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tincreased-to-interleaved representation practice\tinterleaved representation practice": {
+  "label": "fully interleaved vs increasing interleaving",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved paintings by different artists\tmassed paintings blocked by artist": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tpaintings by different artists interleaved\tpaintings blocked by artist (Massed)": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-only instructions\tconventional and modified instructions": {
+  "label": "diagram-only vs conventional/modified instructions",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated installation-testing instructions\tconventional split-source instructions": {
+  "label": "integrated vs split-source instructions",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated instructional materials\tconventional split-source materials": {
+  "label": "integrated vs split-source materials",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated modified instructions\tconventional split-source instructions": {
+  "label": "integrated vs split-source instructions",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated modified instructions\tdiagram-only instructions": {
+  "label": "integrated modified vs diagram-only instructions",
+  "treatment_is_a": true
+ },
+ "case-comparison\tquality of the induced schema\tlower-quality induced schema": {
+  "label": "higher-quality induced schema vs lower-quality induced schema",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttwo prior analogs with similarities described\tone prior analog": {
+  "label": "two prior analogs with similarities described vs one prior analog",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit hint to use the prior story\tno hint to use the prior story": {
+  "label": "explicit hint vs no hint",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprinciple-only instruction\t10% no-analogy base rate": {
+  "label": "principle instruction vs base-rate information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo prior analogs plus a verbal statement of the underlying principle\tone prior analog plus a verbal statement of the underlying principle": {
+  "label": "two prior analogs plus principle statement vs one prior analog plus principle statement",
+  "treatment_is_a": true
+ },
+ "media-design\ttwo prior analogs plus a diagrammatic representation of the underlying principle\tone prior analog plus a diagrammatic representation of the underlying principle": {
+  "label": "multiple analogies vs single analogy",
+  "treatment_is_a": true
  }
 }

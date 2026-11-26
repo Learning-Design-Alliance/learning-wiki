@@ -49,3 +49,4 @@ Randomized experiment: 74 introductory psychology students read a microeconomics
 - [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related
 - [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — a broader claim this one bears on
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related
+- [Reading comprehension is significantly better on paper than on digital devices in between-participants comparisons (Hedges' g = -0.21)](paper-advantage-between-participants-meta-analysis.md) — related

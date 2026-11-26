@@ -48,3 +48,6 @@ Comparison across 37 STEM courses, 18 of which employed prevention mechanisms su
 - [CAMEO cheating accounts for an estimated 1,237 certificates, or 1.3% of certificates in the 69 MOOCs with CAMEO users](cameo-accounts-for-1237-certificates-1-3-percent-in-affected-courses.md) — related
 - [Among earners of 20 or more certificates, 25% have used the CAMEO strategy](cameo-rate-25-percent-among-20-plus-certificate-earners.md) — related
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
+- [CAMEO activity drops sharply after users pass the certification threshold, supporting certificate-seeking as the main motivation](cameo-drops-after-certification-point.md) — related
+- [About 12.9% of certificate earners in an introductory physics MOOC used CAMEO to obtain more than 1% of their correct answers, and 3.7% obtained the majority](cameo-prevalence-certificate-earners.md) — related
+- [Delaying or removing 'show answer' feedback is associated with substantially reduced CAMEO](delayed-show-answer-reduces-cameo.md) — a narrower finding that bears on this claim

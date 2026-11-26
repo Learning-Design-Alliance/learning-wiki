@@ -9,6 +9,7 @@ generated:
   at: 2026-11-23
 evidence_strength: moderate
 newest_evidence: 1993
+source_checked: 2026-11-26
 recheck_by: 1996
 sources:
   - id: maria-araceli-ruiz-primo-1993
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1996**: tool and model accuracy changes quickly
+> **Currency** · newest study 1993 · checked against its sources 2026-11-26 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1996**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Person x occasion G studies showed moderate generalizability for relative decisions for both observed investigations and notebook surrogates. [→ Maria Araceli Ruiz-Primo 1993](#maria-araceli-ruiz-primo-1993)
@@ -52,3 +53,4 @@ Person x occasion generalizability study of 29 seventh-grade students completing
 - [Students used different procedures to carry out the same investigations on two occasions, with low-to-moderate procedural agreement and generally higher agreement for notebooks](procedures-change-across-occasions.md) — related
 - [Measurement methods do not converge: the average convergent validity coefficient between randomly sampled method pairs was .42, with only notebooks a reasonable surrogate for observation](methods-do-not-converge.md) — related
 - [In a person x rater x task x occasion G study, the person x task x occasion interaction was the largest error source (59%) and one-task G coefficients were very low (.04)](occasion-study-pxto-interaction.md) — related
+- [The person x occasion variance component is estimated at zero even though students changed their approach to tasks across occasions](person-occasion-component-zero.md) — reports the opposite

@@ -25,7 +25,8 @@ A large-scale dataset of more than 35 million observations from over 7,000 pre-a
 - [Across a geometry curriculum, overall percent correct stays fairly constant over time while percent correct on actions involving a single skill increases, as ACT-R's knowledge-component claim predicts](../claims/constant-error-rate-rising-skill-correct.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Four tutor log datasets (Fractions, Algebra, Geometry, Physics) from Carnegie Learning and Andes via DataShop](four-tutor-log-datasets-fractions-algebra-geometry-physics-from-carnegie-learning-and-ande.md)
 
 ## Key Sources
 - Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 14(2), 249-255. https://www.carnegielearning.com. [doi:10.3758/bf03194060](https://doi.org/10.3758/bf03194060)

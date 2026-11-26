@@ -68,3 +68,4 @@ The playbook asserts, citing background research, that family engagement is "con
 - [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](parent-academy-parent-confidence-engagement.md) — a narrower finding that bears on this claim
 - [The family-involved SDLMI significantly improves academic engagement of middle school students with disabilities who exhibit problem behavior](family-involved-sdlmi-improves-academic-engagement.md) — related
 - [Teachers and families were both described as sources of students' prejudice toward mathematics, which participants linked to reduced interest, participation, and failure](teacher-and-family-sources-math-prejudice.md) — related
+- [Teachers were more involved with students who felt less competent, performed lower, and were less task-focused](teacher-involvement-lower-competence-students.md) — related

@@ -49,3 +49,4 @@ G-Theory analysis of monthly aggregated session-level measures from year-long Co
 - [Early stop is markedly less reliable than other session-level measures, limiting its standalone utility](early-stop-low-reliability.md) — related
 - [Relative delayed start is the strongest individual session-level predictor of final math scores, outperforming time on task, attendance, and gaming tendency](relative-delayed-start-strongest-predictor.md) — related
 - [In stepwise combined models, relative delayed start, early stop, and idle time each negatively correlate with final math scores beyond prior performance](stepwise-combined-predictive-models.md) — related
+- [In Cognitive Tutor data from high school students, student is a better gaming predictor for the majority of analyses, but the gaming-distribution analysis did not support this](cognitive-tutor-student-predictor-validation.md) — related

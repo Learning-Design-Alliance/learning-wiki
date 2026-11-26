@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 502 claims (326 show a difference, 123 mixed, 53 no difference) · 359 studies (140 associational, 113 causal, 42 review, 17 quant-synthesis, 17 qualitative, 16 theoretical, 14 design), `q1`–`q4` · 96 of 359 report an effect size · 490 claims rest on one study
+> **Evidence** · 503 claims (326 show a difference, 124 mixed, 53 no difference) · 360 studies (141 associational, 113 causal, 42 review, 17 quant-synthesis, 17 qualitative, 16 theoretical, 14 design), `q1`–`q4` · 97 of 360 report an effect size · 491 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -552,6 +552,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Expectancy and attainment value interact negatively to predict engagement, with the expectancy-engagement relation stronger at low attainment value](../claims/expectancy-value-interaction-engagement-compensatory.md) [~M] — learners who differ on it differ in outcomes
 - [Expectancy directly predicts subsequent achievement, whereas attainment value and the interaction do not](../claims/expectancy-direct-achievement-value-not.md) [~M] — learners who differ on it differ in outcomes
 - [Expectancy of success positively predicts subsequent behavioural engagement controlling for prior engagement and achievement](../claims/expectancy-predicts-subsequent-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Higher academic performance was unrelated to weekly effort and autonomous motivation but positively related to competence beliefs and controlled motivation](../claims/performance-unrelated-effort-autonomous.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -69,3 +69,7 @@ Further simulations varying the shift-point exponent and first-trial RT distribu
 - [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related
 - [Aggregating Lisp learning data by production rule yields systematic learning curves, while aggregation by more superficial units does not](production-rule-learning-curves-lisp-tutor.md) — related
 - [Acquisition of a novel paper-and-pencil matrix task follows a power function of practice at group and individual levels](power-law-learning-in-paper-pencil-matrix-task.md) — related
+- [Aggregated over participants, strategy-specific and regular power functions both capture at least 95% of variance in mean solution time, giving no clear preference](aggregated-power-law-fits-mixed.md) — related
+- [Reaction time means and standard deviations decreased from pre-test to post-test as power functions of practice with the same exponent in one uncontrolled pre-post study](power-function-speedup-and-sd-reduction.md) — related
+- [Autocorrelated residuals show the regular power function deviated systematically from observed aggregated data in two of five cases, while individual-strategy functions showed systematic deviation in only one](residual-autocorrelation-regular-power-function.md) — related
+- [Simulated races between algorithm and memory preserve the power law, with memory dominating after about 16 presentations](simulation-race-memory-dominates.md) — related

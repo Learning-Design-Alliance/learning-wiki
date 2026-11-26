@@ -63,3 +63,6 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
 - [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — related
 - [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — related
+- [Blocked and increased sequencing of representations outperform interleaved sequencing for representational knowledge in a fractions ITS](blocked-interleaved-representations-fractions-its.md) — related
+- [The spacing advantage in perceptual induction learning persists when the memory load is low (only three similar artists to learn)](interleaving-benefit-persists-low-memory-load.md) — related
+- [Increasing temporal spacing between paintings while keeping a blocked-by-artist sequence produces test performance no better than massed presentation (Experiment 1)](temporal-spacing-alone-insufficient-for-induction.md) — related

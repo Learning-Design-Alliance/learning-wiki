@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (20 for, 16 mixed, 3 against) · 33 studies (23 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 8 of 33 report an effect size · 34 claims rest on one study
+> **Evidence** · 41 claims (22 for, 16 mixed, 3 against) · 33 studies (23 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 8 of 33 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +102,8 @@ Each question below links a general claim that gathers the studies behind it int
 Every claim previously listed here has been read against the model above and moved into it. Claims linked later appear below until they are read.
 - [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](../claims/worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Provide outcome-focused audiovisual demonstrations before self-directed technology-enhanced learning for novice learners"; tests this page's relationship.
 - [Worked examples show positive average effects on learning, but their effects on transfer are inconclusive and depend on specific instructional practices](../claims/worked-example-transfer-effects-inconclusive.md) [~M] — attached 2026-11-20 from Loretan et al. (2022), which proposed "Design worked examples for strategy learning with explicit student self-explanation and salient subgoals of the solution procedure"; tests this page's relationship.
+- [Worked examples speed subsequent solution of structurally similar test problems but not dissimilar ones](../claims/worked-example-test-speed-similar-only.md) [+W] — attached 2026-11-26 from John Sweller et al. (1985), which proposed "For novice algebra learners, use far more worked examples and far less conventional problem solving"; tests this page's relationship.
+- [Worked example groups made fewer mathematical errors on similar test problems than conventional problem groups](../claims/worked-examples-fewer-errors-similar-problems.md) [+W] — attached 2026-11-26 from John Sweller et al. (1985), which proposed "For novice algebra learners, use far more worked examples and far less conventional problem solving"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

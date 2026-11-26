@@ -85,3 +85,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — possibly the same claim (merge candidate)
 - [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — reports the opposite
 - [Average normalized gain is nearly uncorrelated with average pretest score across diverse courses, unlike posttest and raw gain](normalized-gain-uncorrelated-with-pretest.md) — reports the opposite
+- [Prior knowledge on average does not significantly predict normalized knowledge gains (rNG+ = −.059), with a very large spread across studies](prior-knowledge-predictive-power-gains-near-zero.md) — reports the opposite

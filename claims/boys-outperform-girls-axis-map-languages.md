@@ -54,3 +54,4 @@ Repeated measures MANCOVA of GLIM scores pooled over Grades 4-6 (possible totals
 - [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](gender-gap-stable-across-three-years.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
 - [Girls outperform boys on GCSE in every subject except Physics, and the gap is not explained by verbal ability](girls-outperform-boys-gcse-except-physics.md) — related
+- [Boys outperformed girls on brace tasks in Experiment 1, with no interaction with alignment or language](gender-differences-brace-tasks-exp1.md) — related

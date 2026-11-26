@@ -46,3 +46,4 @@ D-study projections from the five person x rater x task G studies, with relative
 
 ## Related Claims
 - [Task-sampling variability is the major source of measurement error in performance assessments across subject matters and levels of analysis](task-sampling-major-source-of-error.md) — related
+- [Stratifying tasks into science-content strata only slightly reduces relative task-sampling variability and increases the number of tasks needed for .80 reliability (27 to 38)](stratification-does-not-solve-task-sampling.md) — a narrower finding that bears on this claim

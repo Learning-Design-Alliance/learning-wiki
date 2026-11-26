@@ -1,0 +1,459 @@
+# Tetzlaff, Simonsmeier, Peters & Brod (2025): a meta-analysis of the
+# expertise reversal effect.
+#
+# Read from the publisher's PDF (10 pp.). The main estimates are quoted from
+# the Results text. Table 1 (p. 6, moderation by educational status) runs into
+# separate fragments in reading-order text: its row labels, j(k) counts,
+# estimates and p-values are split apart. It was read from the PDF's own
+# layout (pdftotext -layout), where every row is clean; the two Primary
+# Education observations quote the estimate-and-interval fragment as it
+# appears in the text layer, and their row is named in source_location.
+#
+# Only the Primary Education rows of Table 1 are recorded. They are the
+# reference category of the dummy coding, so their estimate is that
+# stratum's own effect. The table does not say whether the other rows'
+# estimates are each stratum's effect or its difference from Primary
+# Education, so they are left in not_yet_extracted rather than read either way.
+#
+# j counts studies and k effect sizes throughout, as Table 1's note says.
+# Each pooled estimate carries k = 88 effect sizes from j = 60 studies.
+
+schema_version: 2
+
+study:
+  key: tetzlaff-2025
+  citation: "Tetzlaff, L., Simonsmeier, B., Peters, T., & Brod, G. (2025). A cornerstone of adaptivity – A meta-analysis of the expertise reversal effect. Learning and Instruction, 98, 102142."
+  doi: "10.1016/j.learninstruc.2025.102142"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of experiments in which learners were randomly assigned to
+      instructional designs differing in the amount of assistance, with a
+      measure of domain-specific prior knowledge or expertise. Two
+      standardised mean differences per comparison (high versus low
+      assistance, for low and for high prior knowledge learners), and their
+      within-study difference as the overall expertise reversal effect.
+      Moderators analysed separately: educational status, content domain,
+      and type of prior knowledge assessment.
+  synthesis:
+    model: "metafor package in R, accounting for dependency among effect sizes; clubSandwich cluster-robust standard errors for small samples"
+    heterogeneity_statistic: "Q"
+    heterogeneity_thresholds: "I2 25% low, 50% moderate, 75% high"
+    reporting_guideline: "PRISMA"
+    search:
+      databases:
+        - PsycINFO
+        - ERIC
+      date_range: "Searched December 2022, updated November 2024; included studies published 1992 to 2024"
+      records_screened: 1440
+      records_included: 60
+    inclusion:
+      - "At least two instructional designs differing in the amount of assistance, with learners randomly assigned"
+      - "A measure of domain-specific prior knowledge or expertise before instruction (general cognitive ability alone excluded)"
+      - "A quantitative learning outcome measured after instruction"
+      - "Means, sample sizes and standard deviations per design and expertise level, or obtainable from the authors"
+    data_handling:
+      - "Inclusion decisions and coding by pairs of independent raters (three raters in total); disagreements discussed and resolved"
+      - "Corresponding authors contacted for missing data; three of 23 who responded supplied it"
+      - "Publication bias by funnel plots with trim and fill, and Egger's regression at the level of effect sizes"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: high-prior-knowledge-learners-benefit-from-low-assistance
+    bearing: supports
+    anchor: tetzlaff-and-peters-2025
+  - claim: expertise-reversal-strong-interaction-effect
+    bearing: supports
+    anchor: tetzlaff-and-peters-2025
+  - claim: expertise-reversal-asymmetric-provide-assistance
+    bearing: supports
+    anchor: tetzlaff-and-peters-2025
+  - claim: ere-moderated-by-educational-status
+    bearing: supports
+    anchor: tetzlaff-and-peters-2025
+  - claim: no-publication-bias-expertise-reversal
+    bearing: supports
+    anchor: tetzlaff-and-peters-2025
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 176
+    unit: effect-sizes
+  additional_sizes:
+    - value: 60
+      unit: studies
+      note: "experimental studies included"
+    - value: 5924
+      unit: participants
+      note: "total participants across the included studies (abstract)"
+    - value: 88
+      unit: effect-sizes
+      note: "effect sizes for each prior knowledge level (88 low, 88 high)"
+  population:
+    description: >-
+      Learners in primary, secondary and higher education and vocational
+      training, plus studies comparing groups of different educational
+      status. Study sample sizes ranged from 17 to 357 (median 73); the
+      percentage of female participants ranged from 0 to 100 (median 55.77%).
+    age_or_stage: >-
+      Coded as educational status (primary, secondary, vocational training,
+      higher education, other, several). The article prints no age figures
+      and notes that educational status is partially confounded with age.
+    age: unreported
+  context:
+    setting: "Experimental studies of instructional designs differing in assistance, published in 35 journals"
+  variation:
+    - dimension: "Educational status (Table 1, studies (effect sizes) per prior knowledge level)"
+      distribution: "Primary 2 (4), secondary 18 (27), vocational training 3 (4), higher education 22 (28), other 4 (13), several 11 (16)"
+    - dimension: "Prior knowledge assessment"
+      distribution: "Experimentally induced, measured, or assumed from demographic differences such as grade level or field of study"
+  arms:
+    - id: high-assistance-low-pk
+      description: "High-assistance instruction, learners with low prior knowledge."
+    - id: low-assistance-low-pk
+      description: "Low-assistance instruction, learners with low prior knowledge."
+    - id: high-assistance-high-pk
+      description: "High-assistance instruction, learners with high prior knowledge."
+    - id: low-assistance-high-pk
+      description: "Low-assistance instruction, learners with high prior knowledge."
+
+comparisons:
+  - id: assistance-low-pk
+    kind: between-groups
+    index_arm: high-assistance-low-pk
+    reference_arm: low-assistance-low-pk
+    description: "High versus low assistance among low prior knowledge learners; learners randomly assigned to design in every included study."
+  - id: assistance-high-pk
+    kind: between-groups
+    index_arm: high-assistance-high-pk
+    reference_arm: low-assistance-high-pk
+    description: "High versus low assistance among high prior knowledge learners."
+  - id: expertise-reversal-interaction
+    kind: other
+    index_arm:
+      - high-assistance-low-pk
+      - low-assistance-high-pk
+    reference_arm:
+      - low-assistance-low-pk
+      - high-assistance-high-pk
+    contrast:
+      method: "difference of standardized mean differences"
+      note: "The high prior knowledge SMD subtracted from the low prior knowledge SMD within each effect size, then meta-analysed; no weights are printed"
+    description: "The assistance effect for low prior knowledge learners minus the assistance effect for high prior knowledge learners."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between independent raters on inclusion decisions and on coding; no contrast between configurations."
+
+observations:
+
+  - id: assistance-effect-low-pk
+    sample:
+      value: 88
+      unit: effect-sizes
+    comparison_ref: assistance-low-pk
+    outcome:
+      construct: "Learning outcome"
+      source_language: "learning outcomes"
+      measure: "Quantitative learning outcome measured after instruction, as reported by each study"
+      scale: "standardized mean difference (printed as d), high minus low assistance"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after instruction, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.505
+      ci_lower: 0.260
+      ci_upper: 0.750
+      interval_type: confidence
+      k:
+        value: 88
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 475.233
+        interpretation: "Q(df = 87), p < .001; I2 = 90.87%, strong heterogeneity"
+      publication_bias:
+        method: "Funnel plot with trim and fill; Egger's regression"
+        finding: "Egger's tests for the two effects were z = 0.568, p = .57 and z = 0.299, p = .77 (the article does not say which is which); funnel plot symmetry, no evidence of publication bias"
+      model: "metafor, dependency among effect sizes accounted for, clubSandwich robust SEs; j = 60 studies"
+    moderators:
+      reported:
+        - variable: "Educational status"
+          relationship: "Significant moderator (R2 = 25.92%); pronounced in 'several' and higher education, weak in primary education"
+          source_quote: "The effect for low prior knowledge learners was also especially pronounced in higher education and seems to be especially weak in primary schools, although the number of studies in this context is too low to derive meaningful conclusions."
+        - variable: "Content domain"
+          relationship: "Significant moderator (R2 = 20.59%); pronounced in law, business and crafts, weak in language and humanities"
+          source_quote: "The content area also moderated the size of the effect for low prior knowledge learners (R2 = 20.59 %), with it being especially pronounced in law, business, and crafts (coded as “other”) and especially weak in language and humanities."
+        - variable: "Type of prior knowledge assessment"
+          relationship: "Not a significant moderator for low prior knowledge learners"
+          source_quote: "The type of assessment of prior knowledge did not significantly moderate the effect for low prior knowledge learners"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "support instruction (d = 0.505, 95 % CI [0.260, 0.750], k = 88, j = 60). The size of the effect shows a strong heterogeneity across studies (Q(df = 87) = 475.233, p < .001; I2 = 90.87 %)."
+    source_location: "Section 7.2, Main results, pp. 5-6. The sentence opens on p. 5 ('Individuals with a low level of prior knowledge showed better learning outcomes under high support instruction than under low') and the page break falls inside it, so the quote starts at p. 6"
+
+  - id: assistance-effect-high-pk
+    sample:
+      value: 88
+      unit: effect-sizes
+    comparison_ref: assistance-high-pk
+    outcome:
+      construct: "Learning outcome"
+      source_language: "learning outcomes"
+      measure: "Quantitative learning outcome measured after instruction, as reported by each study"
+      scale: "standardized mean difference (printed as d), high minus low assistance"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after instruction, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.428
+      ci_lower: -0.647
+      ci_upper: -0.209
+      interval_type: confidence
+      k:
+        value: 88
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 284.457
+        interpretation: "Q(df = 88), p < .001; I2 = 87.55%, strong heterogeneity. The df is printed as 88 here and 87 for the low prior knowledge effect, both with k = 88."
+      publication_bias:
+        method: "Funnel plot with trim and fill; Egger's regression"
+        finding: "Egger's tests for the two effects were z = 0.568, p = .57 and z = 0.299, p = .77 (the article does not say which is which); funnel plot symmetry, no evidence of publication bias"
+      model: "metafor, dependency among effect sizes accounted for, clubSandwich robust SEs; j = 60 studies"
+    moderators:
+      reported:
+        - variable: "Content domain"
+          relationship: "Not a significant moderator for high prior knowledge learners"
+          source_quote: "the content area did not significantly moderate the effect for learners with high prior knowledge."
+        - variable: "Type of prior knowledge assessment"
+          relationship: "Significant moderator (R2 = 50.00%); most pronounced when prior knowledge was defined by grade level, weakest when defined by measurement or intervention"
+          source_quote: "For high prior knowledge learners, the moderation was significant (R2 = 50.00 %), with especially pronounced effect sizes when prior knowledge was defined by differences in grade level and weakest when defined by measurement or intervention."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Individuals with a high level of prior knowledge showed worse learning outcomes when learning with high assistance instructions as opposed to low assistance instruction (d = - 0.428, 95 % CI [-0.647, − 0.209], k = 88, j = 60)."
+    source_location: "Section 7.2, Main results, p. 6"
+
+  - id: expertise-reversal-difference
+    sample:
+      value: 88
+      unit: effect-sizes
+    comparison_ref: expertise-reversal-interaction
+    outcome:
+      construct: "Learning outcome"
+      source_language: "the Expertise Reversal Effect in general"
+      measure: "Within-study difference between the two assistance effects"
+      scale: "difference of standardized mean differences (printed as d)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after instruction, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.971
+      ci_lower: 0.631
+      ci_upper: 1.312
+      interval_type: confidence
+      k:
+        value: 88
+        unit: effect-sizes
+      model: "Meta-analysis of the per-effect-size difference of differences; j = 60 studies; no moderator analysis was run on it"
+      interpretation: "Described by the authors as a strong effect"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "By subtracting the effect size for high prior knowledge learners from the one for low prior knowledge learners at the study level we can appraise the Expertise Reversal Effect in general as a strong effect (d = 0.971, 95 % CI [0.631, 1.312], k = 88, j = 60)."
+    source_location: "Section 7.2, Main results, p. 6"
+
+  - id: assistance-effect-low-pk-primary
+    sample:
+      value: 4
+      unit: effect-sizes
+    comparison_ref: assistance-low-pk
+    outcome:
+      construct: "Learning outcome"
+      source_language: "learning outcomes"
+      measure: "Quantitative learning outcome measured after instruction, as reported by each study"
+      scale: "standardized mean difference, high minus low assistance"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after instruction, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.29
+      ci_lower: -0.84
+      ci_upper: 0.27
+      interval_type: confidence
+      k:
+        value: 4
+        unit: effect-sizes
+      model: "Meta-regression on educational status, dummy coded; Primary Education is the reference category (j = 2 studies)"
+      interpretation: "The interval includes zero; the authors say the number of studies in primary schools is too low to derive meaningful conclusions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 1 row "Primary Education 2(4) -0.29 [-0.84; 0.27] REF" for low
+      prior knowledge learners, read from the PDF layout. The text layer
+      splits the row; the quote is the estimate-and-interval fragment
+      followed by the next row's cell, exactly as it appears there.
+    source_quote: "− 0.29 [-0.84; 0.27] 0.70 [0.07; 1.31]"
+    source_location: "Table 1, Moderation by educational status, Primary Education row, low prior knowledge learners, p. 6"
+
+  - id: assistance-effect-high-pk-primary
+    sample:
+      value: 4
+      unit: effect-sizes
+    comparison_ref: assistance-high-pk
+    outcome:
+      construct: "Learning outcome"
+      source_language: "learning outcomes"
+      measure: "Quantitative learning outcome measured after instruction, as reported by each study"
+      scale: "standardized mean difference, high minus low assistance"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after instruction, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.26
+      ci_lower: -0.71
+      ci_upper: 0.20
+      interval_type: confidence
+      k:
+        value: 4
+        unit: effect-sizes
+      model: "Meta-regression on educational status, dummy coded; Primary Education is the reference category (j = 2 studies)"
+      interpretation: "The interval includes zero"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 1 row "Primary Education 2(4) -0.26 [-0.71; 0.20] REF" for high
+      prior knowledge learners, read from the PDF layout. The quote is the
+      estimate-and-interval fragment followed by the next row's cell, as the
+      text layer has it.
+    source_quote: "− 0.26 [-0.71; 0.20] − 0.10 [-0.63; 0.46]"
+    source_location: "Table 1, Moderation by educational status, Primary Education row, high prior knowledge learners, p. 6"
+
+  - id: inclusion-agreement-kappa
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-rater agreement on inclusion"
+      source_language: "Cohen’s Kappa for the inclusion decision"
+      measure: "Independent raters' decisions to include or exclude each study"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during study selection, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.85
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      interpretation: "Described by the authors as very strong agreement beyond chance"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Cohen’s Kappa for the inclusion decision was 0.85, indicating a very strong agreement beyond chance."
+    source_location: "Section 6.3, Study selection, p. 5"
+
+  - id: coding-agreement-percent
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-rater agreement on coding"
+      source_language: "inter-rater reliability"
+      measure: "Pairs of independent raters (three in total) coding every included paper"
+      scale: "percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 94.63
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "printed as 'inter-rater reliability was 94.63 %'; the statistic is not otherwise named"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A percentage labelled inter-rater reliability, recorded as percent
+      agreement because it is printed as a percent. For 16 studies the
+      first author later added outcome measures the initial coding missed;
+      the article does not say whether those were double-coded.
+    source_quote: "Included papers were all coded by pairs of independent raters (out of three raters in total) and the inter-rater reliability was 94.63 %."
+    source_location: "Section 6.3, Study selection, p. 5"
+
+not_yet_extracted:
+  - "Table 1 rows other than Primary Education (secondary, vocational training, higher education, other, several) for both prior knowledge levels, with p-values; the table does not say whether these estimates are stratum effects or differences from the Primary Education reference"
+  - "Tables 2 and 3: moderation by content domain and by type of prior knowledge assessment"
+  - "R2 for educational status for high prior knowledge learners (8.47%)"
+  - "Trim-and-fill results shown only as funnel plots (Figs. 2 and 3)"

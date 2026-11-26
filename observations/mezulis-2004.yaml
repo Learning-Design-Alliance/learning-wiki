@@ -1,0 +1,411 @@
+# Mezulis, Abramson, Hyde & Hankin (2004): meta-analysis of the self-serving
+# attributional bias across age, culture and psychopathology.
+#
+# Read from a copy of the published article (Psychological Bulletin pages
+# 711-747) whose text layer is OCR: several "=" signs and statistic symbols are
+# missing in it ("U.S. (d 1.05)"), and the quotes below keep the text exactly as
+# it reads, symbols missing included.
+#
+# The effect size is a within-sample difference: d is the mean internal,
+# stable, global attribution for positive events minus that for negative
+# events, divided by the mean SD. So each pooled estimate rests on no contrast
+# between groups of people; age bands and cultural groups are corpus strata,
+# recorded as arms and named by arm_ref, as van-yperen-2014 does.
+#
+# k counts EFFECT SIZES (independent samples), not studies: 266 articles gave
+# 523 effect sizes, 20 outliers were removed, and 503 remain in every analysis
+# below.
+#
+# Table 3's text layer interleaves the last two rows ("25-55 Over 55 129 10
+# 0.70 0.58, 0.83 1.38 0.90, 1.86"). The order is read as row order, and the
+# Discussion confirms the over-55 figures independently (10 samples, d = 1.38).
+
+schema_version: 2
+
+study:
+  key: mezulis-2004
+  citation: "Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias in attributions? A meta-analytic review of individual, developmental, and cultural differences in the self-serving attributional bias. Psychological Bulletin, 130(5), 711-747."
+  doi: "10.1037/0033-2909.130.5.711"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of the difference between attributions (internality,
+      stability, globality) for positive or success events and for negative or
+      failure events, d per independent sample. Fixed- and random-effects
+      estimates; moderator analyses by homogeneity partitioning (age group,
+      gender, culture, psychopathology, measure, event type, measure
+      reliability) and a random-effects weighted multiple regression.
+  synthesis:
+    model: "Random-effects estimation (Hedges & Vevea, 1998); fixed-effects estimate also reported"
+    heterogeneity_statistic: "Within- and between-groups homogeneity statistic H (Hedges & Becker, 1986)"
+    search:
+      records_included: "266 articles, 523 independent effect sizes, 41,538 participants; 20 outlier effect sizes removed, leaving 503"
+    data_handling:
+      - "Outliers identified by the Huffcutt and Arthur (1995) procedure: 20 effect sizes (3.8%) removed from all further analyses"
+      - "Where an article gave no age, undergraduates were coded 20, a grade level plus 6 years, and the midpoint of an age range"
+      - "Effect sizes from F or t statistics, significance levels or percentages where means and SDs were unavailable; within-subjects estimates corrected for the positive-negative correlation (Morris & DeShon, 2002); all corrected for small-sample bias (Hedges, 1981)"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: self-serving-attributional-bias-large-pervasive
+    bearing: supports
+    anchor: mezulis-and-hyde-2004
+  - claim: self-serving-bias-age-differences-children-older-adults
+    bearing: supports
+    anchor: mezulis-and-hyde-2004
+  - claim: asian-samples-smaller-self-serving-bias
+    bearing: supports
+    anchor: mezulis-and-hyde-2004
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 503
+    unit: effect-sizes
+  additional_sizes:
+    - value: 266
+      unit: reports
+      note: "usable articles included"
+    - value: 523
+      unit: effect-sizes
+      note: "independent effect sizes computed before 20 outliers were removed"
+    - value: 41538
+      unit: participants
+      note: "participants across the studies, as printed beside the 523 effect sizes"
+  population:
+    description: >-
+      Samples of children, adolescents and adults from U.S., other Western,
+      Asian, Eastern European and Russian, and African cultures, with and
+      without psychopathology (community samples, samples selected for absence
+      of psychopathology, and clinical samples).
+    age_or_stage: >-
+      Age coded per sample as the average age of participants and grouped into
+      six bands: 8-11, 12-14, 15-18, 19-24, 25-55 and over 55. The article
+      prints no age range, mean or SD for the corpus as a whole.
+    age: unreported
+  context:
+    setting: "Attributions for positive and negative events: hypothetical, experimental or naturalistic outcomes, measured by attributional style questionnaires and other attribution measures"
+  variation:
+    - dimension: "Age group (effect sizes)"
+      distribution: "8-11: 111; 12-14: 64; 15-18: 68; 19-24: 121; 25-55: 129; over 55: 10 (Table 3)"
+  arms:
+    - id: age-8-11
+      description: "Effect sizes from samples whose average age was 8 to 11 (middle childhood or elementary school)."
+      size:
+        value: 111
+        unit: effect-sizes
+    - id: age-12-14
+      description: "Effect sizes from samples whose average age was 12 to 14 (early adolescence or middle school)."
+      size:
+        value: 64
+        unit: effect-sizes
+    - id: age-over-55
+      description: "Effect sizes from samples whose average age was over 55 (older adults)."
+      size:
+        value: 10
+        unit: effect-sizes
+    - id: culture-us
+      description: "U.S. samples, one of five broad cultural groups."
+    - id: culture-other-western
+      description: "Other Western samples: United Kingdom, Canada, Australia, New Zealand and Western Europe."
+    - id: culture-asian
+      description: "Asian samples: India, Japan, China, Korea and Pacific Islanders."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "The positive-minus-negative attribution difference pooled over all 503 effect sizes; no contrast between strata."
+
+observations:
+
+  - id: bias-overall-random-effects
+    sample:
+      value: 503
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Mean internal, stable, global attribution for positive or success events minus the mean for negative or failure events, divided by the mean SD"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.96
+      ci_lower: 0.89
+      ci_upper: 1.02
+      interval_type: confidence
+      k:
+        value: 503
+        unit: effect-sizes
+      model: "random-effects"
+      publication_bias:
+        method: "Funnel plot and trim and fill (Duval & Tweedie, 2000)"
+        finding: "Trim and fill indicated that no studies needed to be trimmed to correct for publication bias"
+      interpretation: "Described by the authors as a very large effect by Cohen's criteria"
+      note: >-
+        Before outlier removal, 523 effect sizes gave a weighted mean of 0.88
+        (95% CI 0.86 to 0.89); after removal the fixed-effects estimate was 0.90
+        (95% CI 0.88 to 0.92). Both sets were significantly heterogeneous.
+    moderators:
+      reported:
+        - variable: "Age group"
+          relationship: "Bias largest in children (8-11) and older adults (over 55), least pronounced in adolescence and adulthood, large in every age group"
+          source_quote: "Overall, the self-serving attributional bias was most pronounced in children and in older adults. The self-serving attributional bias was least pronounced in adolescence and adulthood."
+        - variable: "Culture"
+          relationship: "Large in U.S. and other Western samples, significantly smaller in Asian samples, positive in every cultural group"
+          source_quote: "It is important to note that across all cultural groups the direction of the self-serving attributional bias was positive."
+        - variable: "Psychopathology"
+          relationship: "Samples selected for any psychopathology showed a significantly smaller bias than samples without psychopathology and community samples"
+          source_quote: "Samples with any psycho- pathology displayed a significantly smaller self-serving attribu- tional bias than samples with no psychopathology and community samples"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      outcome_timing is unreported because the article codes the event type
+      (hypothetical, experimental, naturalistic) but not when attributions were
+      made relative to the events.
+    source_quote: "Averaged over the 503 independent effect sizes, the random- effects estimate of the weighted mean effect size for the self- serving attributional bias was 0.96, representing a very large effect by Cohen's (1969) criteria. The 95% confidence interval for d was 0.89 to 1.02."
+    source_location: "Results, Magnitude of the Self-Serving Attributional Bias, p. 717"
+
+  - id: bias-age-8-11
+    sample:
+      value: 111
+      unit: effect-sizes
+    arm_ref: age-8-11
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 1.27
+      ci_lower: 1.13
+      ci_upper: 1.41
+      interval_type: confidence
+      k:
+        value: 111
+        unit: effect-sizes
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Children and older adults together had significantly larger biases than
+      all adolescent and adult groups (p < .01). The number of participants in
+      the stratum is not printed.
+    source_quote: "8-11 111 1.27 1.13, 1.41"
+    source_location: "Table 3, p. 731"
+
+  - id: bias-age-12-14
+    sample:
+      value: 64
+      unit: effect-sizes
+    arm_ref: age-12-14
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.78
+      ci_lower: 0.60
+      ci_upper: 0.96
+      interval_type: confidence
+      k:
+        value: 64
+        unit: effect-sizes
+      model: "random-effects"
+      note: "Not significantly different from the 15-18 band (d = 1.02), p > .05, per the authors."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "12-14 64 0.78 0.60, 0.96"
+    source_location: "Table 3, p. 731"
+
+  - id: bias-age-over-55
+    sample:
+      value: 10
+      unit: effect-sizes
+    arm_ref: age-over-55
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 1.38
+      ci_lower: 0.90
+      ci_upper: 1.86
+      interval_type: confidence
+      k:
+        value: 10
+        unit: effect-sizes
+      model: "random-effects"
+      note: "All ten effect sizes were positive, ranging from 0.53 to 2.68, six of them above 1.00 (Discussion)."
+    moderators:
+      reported: []
+      candidate:
+        - "The authors suggest most of these samples were community-dwelling adults, who may compare themselves favourably with ill or institutionalised contemporaries; offered as an explanation, not tested."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 3's text layer interleaves the 25-55 and over-55 rows; the values
+      are read in row order and match the Discussion's 10 samples and d = 1.38.
+    source_quote: "we found instead an exaggerated bias in this age group (d = 1.38). It is unlikely that this large effect size is a spurious observation, as there were 10 samples with participants over age 55."
+    source_location: "Table 3, p. 731; Discussion"
+
+  - id: bias-culture-us
+    arm_ref: culture-us
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 1.05
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The five-group cultural analysis is reported in the text only; the
+      article prints no k or confidence interval for these broad groups
+      (Table 5 gives the 16 finer groups).
+    source_quote: "As predicted, the magnitude of the self-serving attributional bias was large in U.S. and other Western samples (ds 1.05 and 0.70, respectively) and significantly smaller in Asian samples"
+    source_location: "Results, Cultural differences"
+
+  - id: bias-culture-other-western
+    arm_ref: culture-other-western
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.70
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      "Western" in the abstract is this group: Western samples other than the
+      U.S. No k or interval is printed for it.
+    source_quote: "As predicted, the magnitude of the self-serving attributional bias was large in U.S. and other Western samples (ds 1.05 and 0.70, respectively) and significantly smaller in Asian samples"
+    source_location: "Results, Cultural differences"
+
+  - id: bias-culture-asian
+    arm_ref: culture-asian
+    outcome:
+      construct: "Self-serving attributional bias"
+      source_language: "self-serving attributional bias"
+      measure: "Positive-minus-negative attribution difference, as above"
+      scale: "d"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.30
+      model: "random-effects"
+      note: "Significantly smaller than the U.S. and other Western groups, p < .01. Within the Asian group, Japan (k = 7) printed d = -0.30, India 0.53, China and Korea 1.04 (Table 5)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "and significantly smaller in Asian samples (d= 0.30; = 13.43) compared with a critical value"
+    source_location: "Results, Cultural differences"
+
+not_yet_extracted:
+  - "Age bands 15-18 (d 1.02, k 68), 19-24 (0.97, k 121) and 25-55 (0.70, k 129), Table 3"
+  - "Age by gender cells (Table 4) and the 16 specific cultural groups (Table 5)"
+  - "Psychopathology subgroups: any psychopathology 0.48, none 1.28, community 1.08, mixed 0.54; depression 0.21, anxiety 0.46, ADHD 0.55"
+  - "Event type: hypothetical 1.01, experimental 0.78, naturalistic 0.71; measure and measure-reliability subgroups (reliability printed for 92 of 503 samples)"
+  - "Random-effects meta-regression (age linear and quadratic, gender, psychopathology, culture, measurement)"
+  - "Random-effects homogeneity value after outlier removal: the OCR text layer lost its symbol, so it is not recorded"

@@ -89,3 +89,4 @@ Despite seeking peer feedback, lower-performing students "indicated a preference
 - [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — related
 - [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related
 - [Students showed no single majority preference for how placement feedback should be sought; anonymous online surveys were the most popular option](no-majority-student-feedback-method-preference.md) — related
+- [Higher-knowledge learners are more likely to seek help after an error, despite objectively needing it less](high-knowledge-learners-seek-help-after-error.md) — related

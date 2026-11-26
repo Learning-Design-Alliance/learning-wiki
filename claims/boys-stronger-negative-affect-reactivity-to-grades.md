@@ -50,3 +50,4 @@ Latent Grades × Gender interaction analysis; the printed interaction coefficien
 ## Related Claims
 - [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](negative-affect-mediation-emotional-only.md) — related
 - [Students perceiving high classroom performance norms are more affectively reactive to grades, strengthening the indirect effect of grades on emotional engagement via negative affect](performance-norms-moderate-affective-reactivity.md) — related
+- [Gender moderates the FDI–divergent thinking link, with a stronger effect among boys than girls](gender-moderates-fdi-dt-stronger-boys.md) — related

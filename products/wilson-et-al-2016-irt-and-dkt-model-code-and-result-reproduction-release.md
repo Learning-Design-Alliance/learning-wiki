@@ -25,7 +25,8 @@ An open-source Theano-based implementation of IRT variants and recurrent Deep Kn
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [HawkesKT public code release](hawkeskt-public-code-release.md)
 
 ## Key Sources
 - Kevin H. Wilson, Yan Karklin, Bojian Han, Chaitanya Ekanadham. (2016). Back to the basics: Bayesian extensions of IRT outperform neural networks for proficiency estimation. arXiv:1604.02336v2 [cs.AI]. https://arxiv.org/abs/1604.02336

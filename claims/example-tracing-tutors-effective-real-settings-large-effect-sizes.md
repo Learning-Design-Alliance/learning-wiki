@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-26
 sources:
   - id: aleven-2016
     resource: "https://doi.org/10.1007/s40593-015-0088-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-26 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 18 reviewed example-tracing tutors have been shown to be effective in helping students learn in real educational settings, often with large pre/post effect sizes. [→ Aleven 2016](#aleven-2016)

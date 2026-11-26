@@ -87,3 +87,7 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related
 - [Problem-solving teaching shows a moderately high effect size of ES = 0.61, specifically linked to math skill performance](problem-solving-teaching-moderate-high-effect.md) — related
 - [Year 3 children studying worked examples made significantly fewer incorrect attempts than children solving equivalent conventional problems](worked-examples-fewer-incorrect-attempts-young-children.md) — related
+- [Worked examples speed subsequent solution of structurally similar test problems but not dissimilar ones](worked-example-test-speed-similar-only.md) — possibly the same claim (merge candidate)
+- [Worked example groups made fewer mathematical errors on similar test problems than conventional problem groups](worked-examples-fewer-errors-similar-problems.md) — related
+- [Studying worked examples takes far less time than solving the equivalent conventional algebra problems during acquisition](worked-examples-less-acquisition-time-algebra.md) — related
+- [Worked example groups used fewer unnecessary expansion moves, indicating less inappropriate application of previously acquired schemas](worked-examples-reduce-unnecessary-expansion.md) — related

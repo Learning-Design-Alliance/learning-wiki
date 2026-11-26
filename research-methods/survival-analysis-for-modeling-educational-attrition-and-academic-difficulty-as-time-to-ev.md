@@ -26,7 +26,8 @@ The article advances a methodological framework that treats attrition and academ
 - [A greater number of undergraduate course withdrawals is associated with higher hazards of both first probation and attrition in PA students.](../claims/course-withdrawals-higher-hazard-probation-attrition-pa.md) [+M]
 
 ## Related Research Methods
--
+
+- [Multi-state survival analysis for modeling online-learning persistence and attrition](multi-state-survival-analysis-for-modeling-online-learning-persistence-and-attrition.md)
 
 ## Key Sources
 - Waynick, J., Hussaini, S. S., Stonerook, E., Hiatt, T., Sisson, C., Peacock, B., O'Neal, S., McKinnond, A., Steele, L., & Gillette, C. (2026). Using academic admissions data to predict PA training attrition and academic difficulties: a survival analysis approach. Medical Education Online, 31(1). https://doi.org/10.1080/10872981.2026.2745370

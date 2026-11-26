@@ -68,3 +68,6 @@ The claim is strongest for novices. Once learners already possess the underlying
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — related
 - [The thesis reports that learners, especially novices, find desired course information faster without sacrificing accuracy and retain concepts more readily with the manually linked interface than with conventional presentation](content-linking-interface-faster-search-retention.md) — related
+- [Worked examples speed subsequent solution of structurally similar test problems but not dissimilar ones](worked-example-test-speed-similar-only.md) — a narrower finding that bears on this claim
+- [Studying worked examples takes far less time than solving the equivalent conventional algebra problems during acquisition](worked-examples-less-acquisition-time-algebra.md) — related
+- [Worked example groups used fewer unnecessary expansion moves, indicating less inappropriate application of previously acquired schemas](worked-examples-reduce-unnecessary-expansion.md) — possibly the same claim (merge candidate)

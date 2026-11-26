@@ -1,0 +1,185 @@
+# Kornell, Hays & Bjork (2009), Experiment 5: Experiment 4 (weak associates,
+# equal 13-s trials) with the final test taken online about a day and a half
+# later (average 38 hr) instead of after 5 minutes.
+#
+# Records the final cued-recall means with SDs and the printed d. The delay
+# varied by participant: it depended on when each logged in, and only the
+# average (38 hr) is printed.
+#
+# `population.age: unreported`: the article prints no age figure for any
+# experiment. No scoring-reliability figure is printed (answers were typed
+# and scored as correct or not; how is not described).
+#
+# Read from the maintainer's Drive copy of the published article. Its text
+# layer writes "=", "<", ">" and the minus sign as symbol-font glyphs; the
+# source_quotes use the characters the article prints, so they differ from
+# the text file in those symbols only. The numbers are clean.
+
+schema_version: 2
+
+study:
+  key: kornell-2009-exp5
+  citation: "Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 35(4), 989–998. Experiment 5."
+  doi: "10.1037/a0015729"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment. Within-participants: condition (read only, test),
+      identical to Experiment 4 except that participants were dismissed after
+      the study phase and asked by e-mail, about 24 hr later, to log in to a
+      Web page and complete the final cued-recall test online.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: pretesting-enhances-learning
+    bearing: supports
+    anchor: kornell-hays-and-bjork-2009
+
+evidence_base:
+  unit: participants
+  size:
+    value: 30
+    unit: participants
+  population:
+    description: "University of California, Los Angeles (UCLA) undergraduates."
+    age_or_stage: "Undergraduates; no age figure is printed"
+    age: unreported
+  context:
+    setting: "Laboratory, computer-presented study phase and cued-recall test (final test online, from the participant's own location)."
+    materials: "The 60 weak-associate pairs of Experiments 3 and 4."
+  arms:
+    - id: read-only
+      description: "Read-only: cue and target shown together for 13 s."
+      elements:
+        - term: "study of the question and answer presented together"
+      dose:
+        amount: 13
+        unit: "s per trial (target visible 13 s)"
+    - id: test
+      description: "Test: cue alone for 8 s while the participant tried to produce the target, then cue and target together for 5 s. Correct guesses (4.9% of trials) removed."
+      elements:
+        - term: "unsuccessful retrieval attempt followed by the answer (feedback)"
+          anchors:
+            - principles/retrieval-practice
+      dose:
+        amount: 13
+        unit: "s per trial (8 s attempt, target visible 5 s)"
+
+comparisons:
+  - id: test-vs-read-only
+    kind: other
+    index_arm: test
+    reference_arm: read-only
+    description: "Within-participant contrast: each participant's final recall of items studied in the test condition against items in the read-only condition."
+
+observations:
+
+  - id: test-vs-read-only-final-recall
+    sample: {value: 30, unit: participants}
+    comparison_ref: test-vs-read-only
+    outcome:
+      construct: "Cued recall of weak-associate targets not retrieved at study"
+      source_language: "cued-recall accuracy on the final test"
+      measure: "Final cued-recall test: cue shown, participant types the target; items guessed correctly at study excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 38 hours after the study phase (average; set by when each participant logged in)"
+      offset: {value: 38, unit: hours, from: "end of the study phase"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.94
+      statistic: "t(29) = 5.16"
+      p_value: "< .0001"
+      descriptives: "test M = 0.47 (SD 0.22) vs read-only M = 0.35 (SD 0.17)"
+      note: "Also printed: prep > .99 (probability of replication). The source does not say which SD forms the denominator of d."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Within-participant t test; the source does not say how d was computed
+      for the paired design.
+    source_quote: "cued recall accuracy on the final test was significantly higher in the test condition (M = .47, SD = .22) than the read-only condition (M = .35, SD = .17), t(29) = 5.16, p < .0001, prep > .99, d = 0.94."
+    source_location: "Experiment 5, Results and Discussion (p. 995)"
+
+  - id: mean-test-final-recall
+    sample: {value: 30, unit: participants}
+    arm_ref: test
+    outcome:
+      construct: "Cued recall of weak-associate targets not retrieved at study"
+      source_language: "cued-recall accuracy on the final test"
+      measure: "Final cued-recall test: cue shown, participant types the target; items guessed correctly at study excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 38 hours after the study phase (average; set by when each participant logged in)"
+      offset: {value: 38, unit: hours, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.47
+      sd: 0.22
+      unit: "proportion correct on the final cued-recall test, items not guessed at study"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "cued recall accuracy on the final test was significantly higher in the test condition (M = .47, SD = .22) than the read-only condition (M = .35, SD = .17), t(29) = 5.16, p < .0001, prep > .99, d = 0.94."
+    source_location: "Experiment 5, Results and Discussion (p. 995)"
+
+  - id: mean-read-only-final-recall
+    sample: {value: 30, unit: participants}
+    arm_ref: read-only
+    outcome:
+      construct: "Cued recall of weak-associate targets not retrieved at study"
+      source_language: "cued-recall accuracy on the final test"
+      measure: "Final cued-recall test: cue shown, participant types the target; items guessed correctly at study excluded"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 38 hours after the study phase (average; set by when each participant logged in)"
+      offset: {value: 38, unit: hours, from: "end of the study phase"}
+    result:
+      measure_type: mean
+      estimate: 0.35
+      sd: 0.17
+      unit: "proportion correct on the final cued-recall test, items not guessed at study"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "cued recall accuracy on the final test was significantly higher in the test condition (M = .47, SD = .22) than the read-only condition (M = .35, SD = .17), t(29) = 5.16, p < .0001, prep > .99, d = 0.94."
+    source_location: "Experiment 5, Results and Discussion (p. 995)"
+
+not_yet_extracted:
+  - "89% of study-phase responses were commission errors. Final accuracy after an omission (M = .51, SD = .38) vs a commission error (M = .44, SD = .26), t(22) = 0.84, p = .41."
+  - "The authors note the testing advantage, about 12 percentage points, was about the same here as in Experiment 4 (5-min delay)."

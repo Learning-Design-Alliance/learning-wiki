@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (64 show a difference, 38 mixed, 10 no difference) · 55 studies (29 associational, 13 causal, 7 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 16 of 55 report an effect size · 110 claims rest on one study
+> **Evidence** · 117 claims (68 show a difference, 39 mixed, 10 no difference) · 56 studies (29 associational, 13 causal, 7 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 17 of 56 report an effect size · 115 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -143,6 +143,11 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The growth mindset code appearing on the network map (outreach-to-discipline directionality) suggests students facilitating outreach are more likely to develop a growth mindset](../claims/outreach-growth-mindset-directionality.md) [+M] — measured as an outcome of the instruction studied
 - [Receiving a B or C grade in Physics 1 predicts a large shift toward fixed mindsets: students with B or C grades are much less likely to end Confident and much more likely to end Hesitant than A-grade students, controlling for initial mindset](../claims/lower-grades-predict-shift-toward-fixed-mindset.md) [+M] — measured as an outcome of the instruction studied
 - [Students' physics fixed-mindset scores show small but statistically significant declines toward fixed beliefs from the beginning of Physics 1 to the beginning of Physics 2, for both women and men](../claims/physics-mindset-declines-over-introductory-sequence.md) [+W] — measured as an outcome of the instruction studied
+- [Effects of implicit theories on goal setting and goal operating are stronger in the presence (vs. absence) of ego threats such as failure feedback](../claims/ego-threat-moderates-mindset-selfregulation-links.md) [~M] — learners who differ on it differ in outcomes
+- [Implicit theories predict distinct self-regulatory processes, which in turn predict goal achievement](../claims/implicit-theories-predict-processes-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Incremental (vs. entity) theories significantly predict goal setting: negatively with performance goals (r = -.151) and positively with learning goals (r = .187)](../claims/incremental-theories-predict-goal-setting.md) [+W] — learners who differ on it differ in outcomes
+- [Incremental theories significantly predict goal monitoring: negatively with negative emotions (r = -.233) and positively with expectations (r = .157)](../claims/incremental-theories-predict-goal-monitoring.md) [+M] — learners who differ on it differ in outcomes
+- [Incremental theories significantly predict goal operating: negatively with helpless-oriented strategies (r = -.238) and positively with mastery-oriented strategies (r = .227)](../claims/incremental-theories-predict-goal-operating.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

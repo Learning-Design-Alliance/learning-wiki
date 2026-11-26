@@ -73,3 +73,6 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 - [Corbett and Anderson's original individualization attempts produced mixed results](corbett-anderson-individualization-mixed-results.md) — related
 - [Pre-post knowledge survey scores varied across years, with scores for only questions 4 and 7 consistently rising from pre-test to post-test in one group with no comparison group](knowledge-survey-gains-inconsistent.md) — related
 - [No single assistance type is best: actions that help reattempting the current question are not always best for future-question performance](no-single-best-assistance-type-tradeoff.md) — a narrower finding that bears on this claim
+- [Cross-skill effects exist in knowledge tracing: mastery of a target skill depends on previous interactions with other, related skills, not only the same skill](cross-skill-effects-in-knowledge-tracing.md) — related
+- [KT predicts much worse performance after a failure than PFA, with observed data falling between the two but much closer to PFA](kt-overestimates-failure-impact.md) — a narrower finding that bears on this claim
+- [Across four tutor datasets, the PFA model achieves better LL, BIC, r and A' than two knowledge tracing variants, though the differences are not large](pfa-outperforms-kt-fit-four-datasets.md) — a narrower finding that bears on this claim

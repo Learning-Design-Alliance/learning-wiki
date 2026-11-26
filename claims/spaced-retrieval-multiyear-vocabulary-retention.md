@@ -62,3 +62,4 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](recall-no-superiority-vocabulary-learning-thorndike.md) — reports the opposite
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — a narrower finding that bears on this claim
 - [Naturalistic studies show a triphasic retention curve including a flat permastore phase from about 6 to 25–30 years after learning](permastore-triphasic-retention-curve.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related

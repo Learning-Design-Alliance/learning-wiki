@@ -48,3 +48,5 @@ Descriptive pretest-posttest analysis of 9,556 students (N printed in Table 2). 
 - [Teacher subject matter knowledge predicts larger student gains on non-misconception items in middle school physical science](teacher-smk-predicts-gains-non-misconception-items.md) — related
 - [On items with strong misconceptions, teacher SMK alone does not raise gains; only SMK combined with knowledge of the student misconception does](smk-insufficient-kosm-needed-misconception-items.md) — related
 - [Teachers' ability to identify popular student misconceptions is associated with larger classroom gains in physical science](teacher-misconception-knowledge-associated-with-gains.md) — related
+- [Stronger item misconception strength makes items harder to maintain or gain for students of teachers lacking KOSM, but easier for students of teachers with both SMK and KOSM](misconception-strength-bifurcated-by-teacher-kosm.md) — related
+- [In the main-effects model, misconception strength appeared unrelated to posttest correctness, but stratifying by teacher KOSM revealed a bifurcated relationship](misconception-strength-effect-masked-without-interaction.md) — related

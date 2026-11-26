@@ -25,7 +25,8 @@ Two non-identical feature sets distilled from prior detectors of off-task behavi
 - [Machine-learned P(J) models predict moment-of-learning training labels with cross-validated correlations around 0.40-0.45 in two intelligent tutoring systems.](../claims/pj-model-predicts-moment-of-learning-labels.md) [+M]
 
 ## Related Research Methods
--
+
+- [Rule-based computational gaming detection in intelligent tutoring system log data](rule-based-computational-gaming-detection-in-intelligent-tutoring-system-log-data.md)
 
 ## Key Sources
 - Baker, Ryan S.J.d., Goldstein, Adam B., Heffernan, Neil T. (2011). Detecting Learning Moment-by-Moment. International Journal of Artificial Intelligence in Education. In Press. [doi:10.3233/jai-2011-015](https://doi.org/10.3233/jai-2011-015)

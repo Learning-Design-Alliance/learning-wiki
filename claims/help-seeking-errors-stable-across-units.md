@@ -50,3 +50,5 @@ Correlational analysis of student-tutor log data across Cognitive Tutor units, i
 - [Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge](help-tutor-no-domain-learning-gains.md)
 - [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related
 - [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](help-seeking-models-not-transferable-across-cultures.md) — related
+- [Individual differences in error-induced quitting are stable across the addition and subtraction domains](error-induced-quitting-stable-across-domains.md) — related
+- [Error-induced quitting effects in the addition game can be used to tailor error interventions in the subtraction game](cross-domain-tailoring-of-error-interventions.md) — related

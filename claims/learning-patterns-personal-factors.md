@@ -77,3 +77,4 @@ The review reports that personality associations (openness with self-regulated a
 - [Review of 23 ILS studies since 2004 finds more dimensionality in learning patterns than previously considered](ils-learning-patterns-greater-dimensionality.md) — related
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — a narrower finding that bears on this claim
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
+- [Malleable motivational factors (achievement goals) show smaller associations with self-handicapping (rs = .19 to .27) than stable trait-like factors](achievement-goals-smaller-associations-self-handicapping.md) — related

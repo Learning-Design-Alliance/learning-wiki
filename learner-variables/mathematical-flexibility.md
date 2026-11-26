@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 29 claims (18 show a difference, 8 mixed, 3 no difference) · 26 studies (13 causal, 8 associational, 3 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 26 report an effect size · 27 claims rest on one study
+> **Evidence** · 30 claims (19 show a difference, 8 mixed, 3 no difference) · 27 studies (14 causal, 8 associational, 3 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 27 report an effect size · 28 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -65,6 +65,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Replay-dominant and optimal-ending latent states predict higher conceptual knowledge, flexibility, and state test performance relative to the Incomplete-dominant state](../claims/replay-dominant-optimal-ending-states-predict-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Embedding-derived strategy uniqueness, diversity, and conformity are positive, statistically significant predictors of short-term algebra outcomes, with conformity the largest](../claims/strategy-measures-predict-short-term-outcomes.md) [+W] — learners who differ on it differ in outcomes
 - [The mean number of strategies used per child first increased and then decreased over the year of learning multiplication](../claims/strategy-repertoire-rise-then-fall-second-grade.md) [~M] — measured as an outcome of the instruction studied
+- [For an expert mental calculator taught a new strategy at Session 501, the multiple-strategy estimate accounted for significant incremental variance in the problem conditions to which the new strategy applied](../claims/expert-calculator-strategy-split-fits.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

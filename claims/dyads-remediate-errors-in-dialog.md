@@ -50,3 +50,4 @@ Qualitative analysis of collaborative dialogs (Tables 2 and 3) from the same exp
 - [Dyads requested fewer overall hints and fewer bottom-out hints per correct entry than individuals](dyads-fewer-hint-requests.md) — related
 - [Dyads requested nearly half as many total on-demand hints as individual self-explainers while solving Andes physics problems](joint-explanation-fewer-on-demand-hints.md) — related
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
+- [When students generated a correct entry after a bottom-out hint, they were successful in about 90% of instances](bottom-out-hint-eventual-success-90-percent.md) — related

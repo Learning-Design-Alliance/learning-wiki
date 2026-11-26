@@ -49,3 +49,4 @@ Model-fitting analysis of naturalistic recall data from an adaptive fact-learnin
 - [Extrapolating from parameters fitted to a restricted range of between-session intervals produces worse predictions than time-variant fits](restricted-range-fits-extrapolate-poorly.md) — a broader claim this one bears on
 - [Allowing ACT-R memory parameters to vary with the between-session interval produces a strong fit between model and recall data across timescales](time-variant-parameters-capture-retention-across-timescales.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
+- [Deficient-processing and all-or-none theories of spacing are challenged by the long-interval data, and simulations of ACT-R and SAM models could not fit the ridgeline of optimal retention](spacing-theories-constrained-by-long-interval-data.md) — related

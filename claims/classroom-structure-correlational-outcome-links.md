@@ -55,3 +55,4 @@ A quantitative meta-analysis of correlational studies of classroom structure and
 - [Teacher autonomy support and provision of structure are positively correlated across studies, with a pooled correlation of r = 0.53](autonomy-support-structure-positive-correlation.md) — related
 - [Change in participants' context belief was predicted by the change in teachers' instructional practice with a low to medium Cohen (1988) effect size, with a negative β pointing out an inverse relationship.](context-belief-predicted-by-instructional-practice.md) — related
 - [Perceived autonomy support and provision of good materials are not directly linked to higher achievement once fixed effects are included](autonomy-support-materials-not-linked-achievement.md) — related
+- [Teachers were more involved with students who felt less competent, performed lower, and were less task-focused](teacher-involvement-lower-competence-students.md) — related

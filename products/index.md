@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5850 entries** · 0 stable · 5850 in review · 0 drafts
+**5854 entries** · 0 stable · 5854 in review · 0 drafts
 
 ---
 
@@ -1857,6 +1857,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four Pillars of AI Literacy framework for socio-technical AI education](four-pillars-of-ai-literacy-framework-for-socio-technical-ai-education.md) - A literature- and workshop-informed framework by Sri Yash Tadimalla for organizing technical, interactional, ethical, and future-oriented AI-literacy learning outcomes across educational and workforce audiences.
 * [Four Pillars of Opportunity framework](four-pillars-of-opportunity-framework.md) - Cook-Harvey et al.'s framework organizes equitable ESSA implementation around access to higher-order learning, multiple equity measures, resource equity, and evidence-based interventions.
 * [Four researcher-developed assessment instruments for teacher knowledge, self-efficacy, self-report of use, and application to hypothetical cases](four-researcher-developed-assessment-instruments-for-teacher-knowledge-self-efficacy-self.md) - A four-part assessment battery developed by Dille to measure teachers' autism-related knowledge, self-efficacy, reported instructional-method use, and application of methods to hypothetical autism cases.
+* [Four tutor log datasets (Fractions, Algebra, Geometry, Physics) from Carnegie Learning and Andes via DataShop](four-tutor-log-datasets-fractions-algebra-geometry-physics-from-carnegie-learning-and-ande.md) - A collection of four knowledge-component-labeled student response-log datasets from Carnegie Learning Cognitive Tutor and Andes Physics tutoring systems, distributed through the Pittsburgh Science of Learning Center DataShop.
 * [Four-dimensional framework of physician health literacy competence](four-dimensional-framework-of-physician-health-literacy-competence.md) - A Taiwanese medical-education framework for assessing physicians’ health-literacy competence through trust building, supportive environments, shared decision-making, and medication-adherence verification in physician–patient interactions.
 * [Four-dimensional pedagogical classroom observation model](four-dimensional-pedagogical-classroom-observation-model.md) - A Lara-Alecio et al.
 * [Four-domain competency structure for tertiary-hospital GPs](four-domain-competency-structure-for-tertiary-hospital-gps.md) - A Chinese expert-developed framework for evaluating general practitioners in tertiary hospitals across medical services, teaching, research, and prevention.
@@ -2131,6 +2132,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Harvard Science Research Mentoring Program (SRMP)](harvard-science-research-mentoring-program-srmp.md) - A Harvard Center for Astrophysics programme that pairs high-school students with graduate-student and postdoctoral scientist mentors for independent astrophysics research and concludes with a public symposium.
 * [harvard-astro17-labs](harvard-astro17-labs.md) - A GitHub repository maintained by the Astro 17 course team containing Colab astronomy lab notebooks, associated data files, and an instructor guide for reuse in introductory astrophysics instruction.
 * [Hathor web app](hathor-web-app.md) - A JavaScript/HTML browser application by M N S Silva et al.
+* [HawkesKT public code release](hawkeskt-public-code-release.md) - A PyTorch implementation of HawkesKT and baseline knowledge-tracing models, released by Wang et al.
 * [Hazel Prover](hazel-prover.md) - Hazel Prover is a web-based classroom proof assistant developed as an extension to the Hazel live typed functional programming environment for teaching equational and inductive reasoning about typed functional programs.
 * [HDR VC brachytherapy immersive VR training platform](hdr-vc-brachytherapy-immersive-vr-training-platform.md) - A Meta Quest 3 and edge-cloud-based virtual-reality platform developed by Ronghua Xu et al.
 * [Head Start](head-start.md) - Head Start is a federally funded U.S.
@@ -2675,6 +2677,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learning College](learning-college.md) - A community-college reform framework promoted by the League for Innovation and based on Terry O'Banion's Learning College concept, which organizes institutional change around learner-centeredness and improved student success.
 * [Learning during practice and rest behavioral dataset and analysis code repository](learning-during-practice-and-rest-behavioral-dataset-and-analysis-code-repository.md) - A publicly released repository containing 506 behavioral sessions from 268 participants and the analysis code for reanalyzing and replicating the practice-versus-rest learning study, maintained by Romain Quentin and collaborators.
 * [Learning Efficiency Test (LET)](learning-efficiency-test-let.md) - The LET is an online Lithuanian-English paired-associate vocabulary-learning assessment developed by Luchini et al.
+* [Learning Experience Questionnaire (LEQ) with event-triggered PDA response protocol](learning-experience-questionnaire-leq-with-event-triggered-pda-response-protocol.md) - A questionnaire and handheld-PDA response protocol developed by Lars-Erik Malmberg for repeated real-time measurement of primary pupils’ effort, competence beliefs, and autonomous and controlled motivation during learning tasks.
 * [Learning Genie](learning-genie.md) - Learning Genie is an AI-supported platform made by Learning Genie for preschool through grade 12 instructional planning, documentation, assessment, portfolios, differentiation, and family communication.
 * [Learning How to Ask](learning-how-to-ask.md) - A one-day trauma-inquiry and response training programme developed by Read and colleagues for health care professionals, adaptable across health care settings and supplemented by a refresher session.
 * [Learning Knowledge Tracing](learning-knowledge-tracing.md) - LKT is a logistic-regression learner-modeling framework released by Philip I.
@@ -3146,6 +3149,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [MORE@Home](morehome.md) - MORE@Home is a researcher-developed mobile literacy app by James S.
 * [Morphology+](morphology.md) - IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction.
 * [Mosaic Approach Based Education Programme](mosaic-approach-based-education-programme.md) - Akyol et al.'s 10-week preschool programme for five-year-old children integrates Turkish, art, play, movement, drama, music, and science and mathematics activities through themed mosaic stages to increase children's involvement.
+* [MOSART HS-LS 29-item misconception-driven pre/post assessment](mosart-hs-ls-29-item-misconception-driven-prepost-assessment.md) - A 29-item MOSART High School Life Science multiple-choice assessment developed by the MOSART project to diagnose common misconceptions and measure pre/post learning gains among grades 9–12 life-science students.
 * [Mothers and Babies (MB)](mothers-and-babies-mb.md) - A six-week CBT-based perinatal depression prevention intervention delivered individually or in groups by paraprofessionals or mental-health professionals, with instructor and participant manuals.
 * [MotiBo](motibo.md) - MotiBo is an interactive digital storytelling system designed by Fung et al.
 * [Motion and Vector Analysis](motion-and-vector-analysis.md) - A Delphi-built interactive physics learning package for Indonesian XI-grade students that provides visualizations and learning activities on motion and vectors.

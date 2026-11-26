@@ -50,3 +50,4 @@ Alphabet arithmetic experiment with 24 undergraduates practicing 10 items over u
 - [For 41% of practiced items the algorithm-to-retrieval transition was a step function, with retrieval used exclusively thereafter](step-function-transition-41-percent-items.md) — related
 - [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related
 - [Instance-theory prediction of equal RT and SD rate parameters is disconfirmed: 16 of 18 participants showed steeper RT than SD rates](rt-sd-rate-parameters-differ.md) — related
+- [Reaction time means and standard deviations decreased from pre-test to post-test as power functions of practice with the same exponent in one uncontrolled pre-post study](power-function-speedup-and-sd-reduction.md) — related

@@ -55,3 +55,4 @@ The review attributes this three-part account of small-screen usability limitati
 - [Children are capable of more complex graphical interaction than most current software permits](children-capable-complex-graphical-interaction.md) — related
 - [Point-of-care apps on handheld devices are reported to support workplace learning and could improve clinicians' clinical decision-making](point-of-care-apps-support-clinical-decision-making.md) — related
 - [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related
+- [Reading text from screens has a small, significant negative effect on reading performance compared to paper (g = .25)](screen-reading-performance-disadvantage.md) — related

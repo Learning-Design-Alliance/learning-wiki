@@ -56,3 +56,4 @@ Analysis of the Geometry96-97 dataset via LFA model discovery found a forward-vs
 - [The Embed difficulty factor increases the difficulty of Circle-area, with CAembed introduced after students have practiced CAalone](embed-factor-increases-circle-area-difficulty.md) — related
 - [LFA finds alternative cognitive models with better statistical fit than the original Geometry Area Unit model](lfa-improves-cognitive-model-fit.md) — related
 - [Searching from a merged model, LFA recovers most original skill distinctions but suggests Circle-circumference and Circle-diameter need not be separate skills](lfa-merged-model-skill-recovery.md) — related
+- [Full LFA is marginally superior to PFA on LL and BIC in 3 of 4 datasets, but PFA ties or beats LFA on the Fractions dataset](pfa-approaches-lfa-accuracy.md) — related

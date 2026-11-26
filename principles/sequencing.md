@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (36 for, 25 mixed, 1 against) · 53 studies (24 causal, 11 theoretical, 10 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 7 of 53 report an effect size · 58 claims rest on one study
+> **Evidence** · 66 claims (40 for, 25 mixed, 1 against) · 55 studies (26 causal, 11 theoretical, 10 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 8 of 55 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,10 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [Lowest-tertile students in the ideas-first section had 4.2 times higher odds of a large FCI gain than lecture-section students](../claims/larger-fci-gain-odds-treatment-vs-lecture.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
 - [Final-exam benefit of ideas-first sequencing was concentrated above the lowest FCI pretest tertile](../claims/treatment-effect-absent-lowest-fci-tertile.md) [~W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
 - [Introducing physics ideas largely qualitatively for the first six weeks before four weeks of computationally complicated practice raised final-exam scores over a control section organized topic-by-topic](../claims/qualitative-first-organization-higher-final-exam-scores.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Have students spend time on qualitative understanding of problems well before undertaking computationally complicated quantitative problems"; tests this page's relationship.
+- [Experiment 2: with element interactivity increased, explicit instruction first was superior on both similar and transfer questions](../claims/exp2-explicit-first-superior-similar-and-transfer.md) [+M] — attached 2026-11-26 from Greg Ashman et al. (2020), which proposed "For high element interactivity material, sequence explicit instruction before problem-solving"; tests this page's relationship.
+- [Experiment 1: explicit instruction first was superior to problem-solving first on similar post-test questions (d = 0.56)](../claims/exp1-explicit-first-superior-similar-questions.md) [+M] — attached 2026-11-26 from Greg Ashman et al. (2020), which proposed "For high element interactivity material, sequence explicit instruction before problem-solving"; tests this page's relationship.
+- [Blocked and increased sequencing of representations outperform interleaved sequencing for representational knowledge in a fractions ITS](../claims/blocked-interleaved-representations-fractions-its.md) [+W] — attached 2026-11-26 from Rau et al. (2010), which proposed "Prioritize representational fluency before connection-making in early multi-representation instruction"; tests this page's relationship.
+- [Increased condition (gradually shrinking blocks) yields best learning results for low prior knowledge students](../claims/increased-condition-best-low-prior-knowledge.md) [+W] — attached 2026-11-26 from Rau et al. (2010), which proposed "Prioritize representational fluency before connection-making in early multi-representation instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

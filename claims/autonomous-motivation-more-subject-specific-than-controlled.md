@@ -48,3 +48,4 @@ Cross-sectional questionnaire study of 579 junior high students; CTCM-1 structur
 - [Item-level shared variance, not contextual variance, explains why controlled motivation appears less situational](item-level-variance-explains-controlled-motivation-contextuality.md) — reports the opposite
 - [Most variance in students' situational motivation lies at the individual ESM-survey level, with only 3.2%–4.3% at the shared learning-situation level](motivation-variance-decomposition-esm-level.md) — related
 - [The more specific the motivation measure, the more correlations with students' grades are found](specificity-predicts-grade-correlations.md) — related
+- [Within school subjects, controlled motivation shows self-diminishing effects on competence beliefs and autonomous motivation](within-subject-controlled-motivation-diminishes.md) — related

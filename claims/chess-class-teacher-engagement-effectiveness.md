@@ -49,3 +49,4 @@ Process evaluation finding from observations, teacher survey and stakeholder int
 - [Pupils and school staff held generally positive views of the chess intervention despite the null impact result](chess-lessons-positive-stakeholder-perceptions.md) — related
 - [The Chess in Primary Schools programme showed no evidence of a positive impact on Key Stage 2 mathematics attainment one year after the intervention ended](chess-primary-schools-no-impact-ks2-maths.md) — related
 - [School engagement with the interventions was low, and the passive or active nature of support was not the key determinant of engagement](literacy-octopus-engagement-low-passive-active-not-key.md) — related
+- [Pupils reported high enjoyment of the chess lessons and many continued playing months after the intervention ended](chess-lessons-high-pupil-enjoyment.md) — related

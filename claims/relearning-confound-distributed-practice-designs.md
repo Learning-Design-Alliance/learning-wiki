@@ -62,3 +62,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Prior trials reported short-term benefits of BLS practical examinations, but this trial's null result may reflect methodological differences](testing-effect-in-bls-unclear-beyond-six-months.md) — related
 - [The amount of instructor feedback requested does not differ between short- and long-interval training schedules during training or retention](instructor-feedback-requested-no-group-difference.md) — related
 - [Students found debugging difficult and spent too much time relearning programming skills when computational exposure was spaced too far apart](debugging-and-spacing-challenges-computational-integration.md) — related
+- [Performance during initial learning was significantly worse with wider spacing, and no serial-position or baseline practice-condition differences were found](wider-spacing-lowers-in-session-performance-no-serial-position.md) — related

@@ -50,3 +50,4 @@ Secondary analysis of words failed on the last training session's first test tri
 - [Intersession interval and acquisition presentations also have large effects on recognition of unrecalled words, against a base performance of approximately 62%](spacing-and-difficulty-effects-on-recognition-of-unrecalled-words.md) — possibly the same claim (merge candidate)
 - [Recall is highest for the 56-day interval across all word-difficulty terciles](spacing-benefit-across-difficulty-terciles.md) — related
 - [After an 8-year retention interval, recall probability for Spanish vocabulary trained with a 30-day intersession interval is 2.5 times that trained with a zero interval](spacing-interval-30-day-8-year-recall-advantage.md) — related
+- [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related

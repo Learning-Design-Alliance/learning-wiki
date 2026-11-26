@@ -50,3 +50,8 @@ The review attributes this to two prior meta-analyses that grouped studies by co
 - [The screen inferiority effect on handheld devices is larger for undergraduate students and for participants assessed individually](handheld-screen-inferiority-moderators-undergraduate-individual.md) — related
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](handheld-print-gap-between-participants-meta-analysis.md) — related
 - [PND outcomes were not significantly affected by participant characteristics, device types/functions, intervention strategies, or target skill types](pnd-not-moderated-by-characteristics-device-strategy-skill.md) — related
+- [Media effects did not vary significantly by educational level, text length, device type, scrolling, open testing, comprehension type, or methodological variables](non-significant-moderators-media-effect.md) — related
+- [Reading comprehension is significantly better on paper than on digital devices in between-participants comparisons (Hedges' g = -0.21)](paper-advantage-between-participants-meta-analysis.md) — related
+- [The paper advantage replicates in within-participants designs (dc = -0.21)](paper-advantage-within-participants-meta-analysis.md) — related
+- [The paper advantage holds for informational or mixed-genre texts but not for narrative-only texts](text-genre-moderates-paper-advantage.md) — related
+- [The paper-based reading advantage is significantly larger under time-constrained reading than self-paced reading](time-frame-moderates-paper-advantage.md) — related

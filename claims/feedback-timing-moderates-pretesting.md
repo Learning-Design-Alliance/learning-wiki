@@ -106,3 +106,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Direct observation and video-based feedback formats differ structurally in timing: immediate short feedback versus delayed feedback after student self-review of a videotaped encounter](osce-feedback-format-structural-timing-difference.md) — related
 - [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — related
 - [Students reported low confidence and knowledge when answering prequestions, and rated prequestioning less comfortable than retrieval practice (p = .00042)](prequestioning-metacognitive-ratings.md) — related
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — related

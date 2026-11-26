@@ -1,0 +1,330 @@
+# Roediger & Karpicke (2006), Experiment 1: one recall test against one more
+# study period, final free recall of a prose passage 5 minutes, 2 days or
+# 1 week later.
+#
+# WHAT THIS FILE RECORDS, and why at this grain:
+#
+#   * The six arm means (restudy and test at each delay), as printed in the
+#     text. No SD is printed: Figure 1 shows standard-error bars only, and
+#     none is read off a figure here. The proportions recalled are the
+#     figures the learning-graph simulator uses (75% at 5 minutes and 56% at
+#     1 week after a test; 42% at 1 week after restudy).
+#   * The three post hoc d values, as printed. Neither the means nor the d
+#     values are computed from one another.
+#   * The authors' own interrater reliability: a Pearson r of .95 between two
+#     raters on 40 recall tests (measure_type reliability, statistic `other`).
+#   * `population.age`: the source prints "ages 18 to 24".
+#
+# Design, as the source states it: a 2 x 3 mixed factorial, learning
+# condition (restudy vs test) WITHIN subjects and counterbalanced, delay
+# BETWEEN subjects. The article does not say how subjects were allocated to
+# delay groups and does not use the word random, so `family: other`, not a
+# randomised trial. Per-delay group sizes are not printed (only t(39) per
+# delay), so no per-observation `sample` is recorded rather than one deduced
+# from the degrees of freedom.
+#
+# Read from the maintainer's Drive copy, a JSTOR download of the published
+# article. Its text layer interleaves lines of the two columns in the Results,
+# so the source_quotes below were taken from the PDF page image (p. 251), in
+# the article's own words, not from the scrambled text layer.
+
+schema_version: 2
+
+study:
+  key: roediger-karpicke-2006-exp1
+  citation: "Roediger, H. L., III, & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. Experiment 1."
+  doi: "10.1111/j.1467-9280.2006.01693.x"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment, 2 x 3 mixed factorial. Learning condition (one
+      additional 7-min study period vs one 7-min free-recall test, no
+      feedback) manipulated within subjects, one prose passage in each
+      condition, with the order of conditions and of passages counterbalanced;
+      delay of the final free-recall test (5 min, 2 days, 1 week) manipulated
+      between subjects. Allocation to delay groups not described. Analysed by
+      a 2 x 3 ANOVA and post hoc t tests at each delay.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-25
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: retrieval-practice-improves-retention
+    bearing: supports
+    anchor: roediger-and-karpicke-2006
+
+evidence_base:
+  unit: participants
+  size:
+    value: 120
+    unit: participants
+  population:
+    description: "Washington University undergraduates, participating in partial fulfillment of course requirements."
+    age_or_stage: "Undergraduates, ages 18 to 24"
+    age:
+      unit: years
+      min: 18
+      max: 24
+  context:
+    setting: >-
+      Laboratory, two sessions, small groups (4 or fewer). Phase 1: four 7-min
+      periods (study one passage, then study or test it, and the same for the
+      other passage), with 2 min of multiplication problems between periods
+      and 5 min after the last. Phase 2: 10-min free-recall test of both
+      passages after the retention interval.
+    materials: >-
+      Two prose passages from the reading-comprehension section of a TOEFL
+      test-preparation book ("The Sun", 256 words; "Sea Otters", 275 words),
+      each divided into 30 idea units for scoring.
+  arms:
+    - id: study-study
+      description: "Passage studied for 7 min, then studied again for 7 min (the restudy condition, labelled 'Study, Study' in Figure 1)."
+      elements:
+        - term: "additional study period (rereading)"
+      dose:
+        amount: 2
+        unit: "7-min study periods"
+    - id: study-test
+      description: "Passage studied for 7 min, then a 7-min free-recall test with no feedback (labelled 'Study, Test' in Figure 1)."
+      elements:
+        - term: "free-recall test without feedback"
+          anchors:
+            - principles/retrieval-practice
+      dose:
+        amount: 1
+        unit: "7-min study period followed by one 7-min recall test"
+        detail: "On the initial test subjects recalled on average 20.9 idea units, about 70% of the passage."
+
+comparisons:
+  - id: test-vs-restudy
+    kind: other
+    index_arm: study-test
+    reference_arm: study-study
+    description: >-
+      Within-subject contrast: each subject's final recall of the passage
+      tested once against their recall of the passage studied twice, at one
+      delay (delay groups are different subjects).
+  - id: recall-scoring
+    kind: none
+    description: "Agreement between two raters scoring the same recall tests; no contrast between conditions."
+
+observations:
+
+  - id: d-test-vs-restudy-5min
+    comparison_ref: test-vs-restudy
+    outcome: &recall
+      construct: "Free recall of a prose passage"
+      source_language: "mean proportion of idea units recalled on the final tests"
+      measure: "Final free-recall test, 10 min, scored 1 point per correctly recalled idea unit out of 30"
+      scale: "proportion of idea units recalled"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "5 minutes after Phase 1"
+      offset: {value: 5, unit: minutes, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.52
+      statistic: "t(39) = 3.22"
+      descriptives: "restudy 81% vs test 75%"
+      interpretation: "Restudying produced better recall than testing at 5 minutes: the d favours the reference arm (study-study)."
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: &obs_effect
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: &scrambled >-
+      The text layer of this copy interleaves column lines, so the quote is
+      verbatim from the text file but in scrambled order; the figures were
+      checked against the PDF page image (p. 251). Group size per delay is
+      not printed.
+    source_quote: "restudying produced better recall than testing (81% vs. 75%), t(39) = 3.22, d = 0.52."
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: d-test-vs-restudy-2day
+    comparison_ref: test-vs-restudy
+    outcome: *recall
+    time:
+      label: "2 days after Phase 1"
+      offset: {value: 2, unit: days, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.95
+      statistic: "t(39) = 6.97"
+      descriptives: "test 68% vs restudy 54%"
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "After 2 days, the initially tested group recalled more than the additional-study group (68% vs. 54%), t(39) = 6.97, d = 0.95."
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: d-test-vs-restudy-1week
+    comparison_ref: test-vs-restudy
+    outcome: *recall
+    time:
+      label: "1 week after Phase 1"
+      offset: {value: 1, unit: weeks, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.83
+      statistic: "t(39) = 6.41"
+      descriptives: "test 56% vs restudy 42%"
+      note: "The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability: *obs_effect
+    observability_notes: *scrambled
+    source_quote: "The tested group recalled 56% of the material, whereas the restudy group recalled only 42%, t(39) = 6.41, d = 0.83."
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-test-5min
+    arm_ref: study-test
+    outcome: *recall
+    time:
+      label: "5 minutes after Phase 1"
+      offset: {value: 5, unit: minutes, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 75
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: &obs_mean
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &nosd >-
+      No SD is printed; Figure 1 shows standard-error bars, which are not read
+      off the figure here. Group size per delay is not printed.
+    source_quote: "restudying produced better recall than testing (81% vs. 75%),"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-restudy-5min
+    arm_ref: study-study
+    outcome: *recall
+    time:
+      label: "5 minutes after Phase 1"
+      offset: {value: 5, unit: minutes, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 81
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: "restudying produced better recall than testing (81% vs. 75%),"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-test-2day
+    arm_ref: study-test
+    outcome: *recall
+    time:
+      label: "2 days after Phase 1"
+      offset: {value: 2, unit: days, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 68
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: "the initially tested group recalled more than the additional-study group (68% vs. 54%)"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-restudy-2day
+    arm_ref: study-study
+    outcome: *recall
+    time:
+      label: "2 days after Phase 1"
+      offset: {value: 2, unit: days, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 54
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: "the initially tested group recalled more than the additional-study group (68% vs. 54%)"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-test-1week
+    arm_ref: study-test
+    outcome: *recall
+    time:
+      label: "1 week after Phase 1"
+      offset: {value: 1, unit: weeks, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 56
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: "The tested group recalled 56% of the material, whereas the restudy group recalled"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: mean-restudy-1week
+    arm_ref: study-study
+    outcome: *recall
+    time:
+      label: "1 week after Phase 1"
+      offset: {value: 1, unit: weeks, from: "end of the learning session (Phase 1)"}
+    result:
+      measure_type: mean
+      estimate: 42
+      unit: "percent of idea units recalled"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_mean
+    observability_notes: *nosd
+    source_quote: "whereas the restudy group recalled only 42%"
+    source_location: "Experiment 1, Results and Discussion, Final Test (p. 251)"
+
+  - id: interrater-r
+    sample:
+      value: 40
+      unit: other
+    comparison_ref: recall-scoring
+    outcome:
+      construct: "Interrater reliability of recall scoring"
+      source_language: "interrater reliability"
+      measure: "Two raters' idea-unit scores on the same 40 recall tests"
+      scale: "Pearson product-moment correlation"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during scoring, before the remaining tests were scored by one rater"
+    result:
+      measure_type: reliability
+      estimate: 0.95
+      reliability:
+        statistic: other
+        over: raters
+        form: "Pearson product-moment correlation (r) between two raters' scores"
+      interpretation: "Described by the authors as high; the remaining recall tests were scored by one rater."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      `sample` counts recall tests (unit other), not participants. The source
+      does not say which delay groups or tests the 40 came from.
+    source_quote: "Initially, 40 recall tests were scored by two raters, and the Pearson product-moment correlation (r) between their scores was .95."
+    source_location: "Experiment 1, Results and Discussion, Scoring (p. 250)"
+
+not_yet_extracted:
+  - "2 x 3 ANOVA (p. 251; the text layer scrambles these lines, read from the PDF page image): main effect of testing vs restudying F(1, 117) = 36.39, partial eta squared .24; main effect of retention interval F(2, 117) = 50.34, partial eta squared .46; Learning Condition x Retention Interval interaction F(2, 117) = 32.10, partial eta squared .35."
+  - "Initial 7-min test: subjects recalled on average 20.9 idea units, approximately 70% of the passage; no differences for passages or counterbalancing orders."

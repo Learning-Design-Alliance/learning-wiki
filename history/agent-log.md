@@ -5,6 +5,43 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · j-sim-16 and j-sim-17: the simulator's missing sources, and observation records batch 2
+
+**Ingest.** The maintainer supplied copies of the simulator-cited sources the wiki had no text for. Four more were
+open access on PubMed Central: Breuer et al. (2023), Chen et al. (2020), Giancola et al. (2024) and Zheng et al. (2025).
+
+- j-sim-16 queued 34 sources and ingested 31. Breuer et al. (2023) and DeCaro & Rittle-Johnson (2012) failed structural
+  validation and are to be retried. Seol & Jung (2013) is in Korean, and the fetch's title check compared it with the
+  English title, so it is to be retried with the Korean one.
+- Shavelson et al. (1999) and Gick & Holyoak (1983) were image scans. The maintainer had Google Drive OCR them, and
+  j-sim-17 ingested both. The OCR misreads some table figures (Shavelson's text says ".063" where Table 1 prints 0.63),
+  so any record built on those figures is checked against the page images.
+- j-sim-17 stopped at the citation-edit guard. All 456 flagged edits were of expected kinds: added claim links and
+  updated evidence header counts, three judged claim merges (the two Jerrim chess claims, and Schwinger 2014 with 2022
+  on self-handicapping), trailing whitespace and one `source_checked` date. The run was finished with
+  `--post-only --verified`.
+
+Together the two runs wrote 167 claims, 4 designs, 4 products, 5 research methods and 7 strategies. Neither scope model
+voted any of these pages out of scope; 11 split votes keep their pages.
+
+**Observation records, batch 2.** 14 files, built from the article text by agents with the pilot's corrections in their
+brief, and then checked by script:
+- Cooper et al. (1996), Feng et al. (2009), Mezulis et al. (2004), Rowland (2014), Tetzlaff et al. (2025) and Wang et al.
+  (2020).
+- Roediger & Karpicke (2006), two experiments.
+- Kornell et al. (2009), six experiments.
+
+Changes made after the agents finished:
+- Two sources have no record. van der Maas & Molenaar (1992) and Kalyuga et al. (2003) print no data of their own; their
+  figures belong to the studies they review.
+- Quotes keep the article's characters ("=" and "−") where the PDF text layer had symbol-font substitutes (⫽, ⫺).
+- Nine Roediger & Karpicke quotes were rewritten from the page images (pp. 251, 253), because the JSTOR text layer had
+  scrambled its two columns.
+
+One finding for the simulator: Tetzlaff et al.'s Table 1 uses dummy coding with Primary as the reference row, so its
+other rows may be differences from Primary rather than each stratum's own effect. The record includes only the pooled
+effects and the Primary rows.
+
 ## 2026-11-25 · Fitted estimates: published ones are recorded
 
 The maintainer settled the question the pilot left open. A fitted estimate printed in a published paper is recorded

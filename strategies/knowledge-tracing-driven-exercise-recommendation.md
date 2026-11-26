@@ -42,6 +42,7 @@ The survey's first application area uses traced knowledge states to choose learn
 - [Adaptive Difficulty](../elements/adaptive-difficulty.md)
 - [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)
 - [Match language exercise difficulty to the child's assessed receptive and expressive phenotype level](phenotype-matched-language-exercises.md)
+- [Deploy knowledge-tracing models that expose per-concept mastery levels so platforms can tailor practice and students can target their own gaps](concept-level-mastery-visibility-for-practice-personalization.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ The same log-data study found raw frequency of on-demand help use correlated neg
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](its-on-demand-features-significant-effects.md) — reports the opposite
 - [AI-tutor pedagogical interventions (hints) correlate negatively with learning gains, more strongly for participants with higher pre-quiz scores](hints-negatively-correlate-gains-moderated-by-prior-knowledge.md) — related
 - [Conversation features correlate with learning performance: words and learning time positively, help and revision requests negatively](conversation-features-correlate-with-learning-performance.md) — related
+- [High gamers spent significantly less time viewing hints than low gamers, and both groups spent more time on bottom-out than high-level hints](high-gamers-less-hint-viewing-time.md) — related

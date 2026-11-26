@@ -48,3 +48,4 @@ Qualitative exploration of time-stamped game events for individual G1 players (F
 - [Individual differences produced highly variable vocabulary gains among PàN players, with some participants benefiting far more than others](pan-individual-differences-vocabulary-gains.md) — related
 - [A game-based assessment of persistence predicts physics post-test gains for low-performing players after controlling for background and enjoyment](gap-predicts-learning-gains-struggling-players.md) — related
 - [A well-designed prerequisite test statistically significantly predicts game score and levels completed in cybersecurity game G1, and adding confidence assessment roughly doubles the model's R²](prerequisite-test-predicts-cybersecurity-game-performance.md) — related
+- [Students differ substantially in their tendency to quit following sequential errors](individual-differences-error-induced-quitting.md) — related

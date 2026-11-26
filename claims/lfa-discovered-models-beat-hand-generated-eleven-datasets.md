@@ -54,3 +54,4 @@ Automated LFA search over Q matrices was run on eleven DataShop datasets across 
 - [LFA finds alternative cognitive models with better statistical fit than the original Geometry Area Unit model](lfa-improves-cognitive-model-fit.md) — a narrower finding that bears on this claim
 - The LFA implementation evaluates a single model in seconds and searches hundreds of models in 4-5 hours — related
 - [Searching from a merged model, LFA recovers most original skill distinctions but suggests Circle-circumference and Circle-diameter need not be separate skills](lfa-merged-model-skill-recovery.md) — a narrower finding that bears on this claim
+- [Full LFA is marginally superior to PFA on LL and BIC in 3 of 4 datasets, but PFA ties or beats LFA on the Fractions dataset](pfa-approaches-lfa-accuracy.md) — related

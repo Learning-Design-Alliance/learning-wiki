@@ -52,3 +52,4 @@ Observation from the ADM 2017 experiment results (Section 4.3, Table 2). The aut
 - [Cross-validation-selected hyperparameters generalized to the test set only for Situation and Clarity, with the other four dimensions showing CV–test misalignment](cv-test-misalignment-small-imbalanced-data.md) — related
 - [Machine learning techniques showed high training-set variance explained but near-zero validation performance, indicating overfitting for continuous outcomes](ml-overfitting-continuous-health-outcomes.md) — possibly the same claim (merge candidate)
 - [The data-mined moment-by-moment learning model predicts P(J) with a correlation of .676 under six-fold student-level cross-validation](moment-by-moment-model-crossvalidated-correlation.md) — related
+- [Despite BIC suggesting overfitting, PFA's 7-fold crossvalidated mean absolute deviation shows it generalizes well](pfa-crossvalidation-generalizes.md) — related

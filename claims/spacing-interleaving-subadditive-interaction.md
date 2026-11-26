@@ -9,7 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-10-20
+source_checked: 2026-11-26
 sources:
   - id: monica-s-birnbaum-2013
     resource: "https://doi.org/10.3758/s13421-012-0272-7"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-26 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant interaction between presentation order (interleaved vs. blocked) and presentation mode (contiguous vs. spaced) was obtained. [→ Monica S. Birnbaum 2013](#monica-s-birnbaum-2013)
@@ -96,3 +96,5 @@ Planned comparison within the blocked condition of the same experiment showed sp
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [In an experimenter-controlled task, interleaved practice yields better classification performance than blocked practice (d = 1.05)](experimenter-controlled-interleaving-beats-blocked.md) — related
 - [Differing presentations varying verbalization from low to high may be somewhat superior to repeating the same presentation](differing-presentations-low-to-high-verbalization.md) — related
+- [The spacing advantage in perceptual induction learning persists when the memory load is low (only three similar artists to learn)](interleaving-benefit-persists-low-memory-load.md) — related
+- [Increasing temporal spacing between paintings while keeping a blocked-by-artist sequence produces test performance no better than massed presentation (Experiment 1)](temporal-spacing-alone-insufficient-for-induction.md) — related

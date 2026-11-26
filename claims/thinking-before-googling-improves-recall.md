@@ -53,3 +53,4 @@ Randomized two-condition experiment with 104 undergraduates (52 per group) searc
 - [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related
 - [Students who first answered without ESR eGUIDE improved significantly when subsequently using it](eguide-improvement-after-unaided-first-set.md) — related
 - [Pretesting and interim testing potentiate learning of subsequent, previously untested material (review-reported)](pretesting-potentiates-subsequent-learning.md) — related
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — related

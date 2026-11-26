@@ -50,3 +50,4 @@ Three-parameter power functions with an asymptote were fit separately to each pa
 - [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related
 - [Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency](overlaying-averaged-fits-model-sufficiency.md) — related
 - [Item-level response times exhibit pronounced step-function decreases with practice that are uniquely predicted by the CMPL strategy selection model](step-function-rt-decreases-cmpl-prediction.md) — related
+- [Reaction time means and standard deviations decreased from pre-test to post-test as power functions of practice with the same exponent in one uncontrolled pre-post study](power-function-speedup-and-sd-reduction.md) — reports the opposite

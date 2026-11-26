@@ -110,3 +110,5 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - Unsuccessful retrieval attempts accompanied by feedback enhance subsequent learning as much as studying the answer directly with more than double the time — related
 - [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related
 - [Adaptive assessment services adjust task difficulty based on the learner's response to the previous task](adaptive-assessment-adjusts-difficulty-to-previous-response.md) — related
+- [Attempting to answer pretest questions produces better retention than memorizing the same questions without attempting answers](attempting-answers-beats-memorizing-questions.md) — a narrower finding that bears on this claim
+- [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — related

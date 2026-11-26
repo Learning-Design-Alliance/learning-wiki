@@ -53,3 +53,4 @@ Multiple experiments by Chandler and Sweller (1991) with a variety of materials 
 - [The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior](expertise-reversal-worked-examples-review.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — reports the opposite
 - [The expertise reversal effect extends beyond the redundancy principle to other cognitive-load design principles, with direction depending on the principle](expertise-reversal-generalizes-across-principles.md) — related
+- [Physical integration of text and diagrams yields no benefit when the sources of information are independently intelligible (redundant)](integration-no-benefit-redundant-sources-exp2.md) — possibly the same claim (merge candidate)

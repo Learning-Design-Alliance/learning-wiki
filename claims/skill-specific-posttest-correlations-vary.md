@@ -49,3 +49,4 @@ Per-skill correlational comparison in the results section, with t-score tables s
 ## Related Claims
 - [Mean-based knowledge estimates from DKT and DKVMN correlate better with an external posttest than BKT estimates](mean-dkt-dkvmn-posttest-better-than-bkt.md) — related
 - [Applying the mean-averaging extension to BKT and PFA improves their posttest prediction](mean-extension-improves-bkt-pfa-posttest.md) — related
+- [DKVMN can depict a student's changing mastery state of individual concepts over a practice sequence](dkvmn-knowledge-state-depiction.md) — related

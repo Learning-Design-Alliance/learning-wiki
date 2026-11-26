@@ -51,3 +51,4 @@ The item-level step-function findings from the alphabet arithmetic experiment "c
 - [For 41% of practiced items the algorithm-to-retrieval transition was a step function, with retrieval used exclusively thereafter](step-function-transition-41-percent-items.md) — a narrower finding that bears on this claim
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — a narrower finding that bears on this claim
 - [The power law of practice does not hold in overall (strategy-collapsed) RT and SD data, though instance-theory power fits reached r2 = .94 with systematic deviations](power-law-fails-in-overall-data.md) — related
+- [Reaction time means and standard deviations decreased from pre-test to post-test as power functions of practice with the same exponent in one uncontrolled pre-post study](power-function-speedup-and-sd-reduction.md) — reports the opposite

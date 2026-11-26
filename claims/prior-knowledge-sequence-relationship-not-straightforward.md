@@ -57,3 +57,5 @@ Interpretation of the two randomized experiments (combined n = 505): Experiment 
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [PS-I outperforms I-PS on the interpersonal-relationship strategy in the near-transfer scenario (Client B)](ps-i-better-interpersonal-strategy-near-transfer.md) — a narrower finding that bears on this claim
 - [In Experiment 2 there was no advantage for either procedure at Stage 1, with both groups performing at a high level](no-advantage-either-procedure-stage1-experiment2.md) — related
+- [Experiment 1: no significant difference between sequences on transfer post-test questions](exp1-no-difference-transfer-questions.md) — related
+- [The article attributes problem-solving first advantages in the literature to relatively low element interactivity of conceptual tasks](literature-explained-by-low-element-interactivity.md) — related

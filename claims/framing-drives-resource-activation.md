@@ -54,3 +54,4 @@ The review's synthesis of microscopic research grounded in resource theory and e
 - [When students' frames precede the instructor's, follow-the-leader is common but not dominant (41%), and when the instructor shifts she most likely shifts into conceptual physics](students-lead-instructor-shifts-to-conceptual-physics.md) — related
 - [Of 180 within-group frame shifts in upper-division E&M group problem solving, 55% are gamma shifts (to/from non-framing activities), 40% alpha shifts and 5% beta shifts](group-shift-type-distribution-alpha-beta-gamma.md) — related
 - [An instructor cue responsive to a group's current framing briefly shifted that group into the Discovery frame](responsive-cue-shifted-group-b-to-discovery.md) — a narrower finding that bears on this claim
+- [Strategy shifts during practice are rarely one-way stepwise transitions, averaging 2.39, 2.12, and 3.23 switches per problem across the three experiments](strategy-shifts-rarely-stepwise.md) — related

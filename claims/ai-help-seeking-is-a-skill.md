@@ -93,3 +93,4 @@ The review reports Sheese et al.'s 12-week deployment with 52 students and more 
 - [In 38% of help episodes students never asked for help, and these episodes usually ended poorly](help-episode-outcomes-andes-protocols.md) — related
 - [A small set of computational skills — algorithmic problem decomposition, flow control, proactive communication, help-seeking, Googling, and data visualization — are judged necessary by every surveyed computational physicist](unanimously-necessary-cpr-skills-survey.md) — related
 - [Students in open-ended physics experiments seek external information sources, favoring videos and websites over scientific literature](students-seek-external-sources-videos-websites.md) — related
+- [Higher-knowledge learners are more likely to seek help after an error, despite objectively needing it less](high-knowledge-learners-seek-help-after-error.md) — related

@@ -91,3 +91,4 @@ Qualitative analysis of verbatim transcriptions of the novices' blood cell discu
 - [Pre-service teachers generate a more diverse set of AI-produced representations when acting as teachers than as students](teacher-role-more-diverse-ai-representations.md) — related
 - [During problem reading, experts hypothesize physics principles early and confirm or reject them via derived features, while novices' representation is guided by surface-oriented schemata tied to equations](representation-process-hypothesis-vs-surface-schemata.md) — related
 - [Students tend to focus on a problem's surface structure, blocking transfer of a known solution to a new scenario](surface-structure-blocks-analogical-transfer.md) — related
+- [Guided analogical encoding training enables novices to transfer negotiation principles to a novel test case relative to no training](guided-analogy-training-novice-transfer.md) — related

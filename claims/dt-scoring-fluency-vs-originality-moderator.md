@@ -52,3 +52,4 @@ Meta-regression of DT scoring category on the intelligence–DT correlation, wit
 - [Be-creative instruction combined with originality scoring yields the strongest intelligence–DT correlation](instruction-scoring-fit-be-creative-originality.md) — related
 - [The intelligence–DT correlation does not differ across intelligence facets g, gf, and gc](intelligence-facet-does-not-moderate-dt-link.md) — related
 - [Intelligence and divergent thinking show a small-to-moderate positive correlation of r = .25 after attenuation correction](intelligence-dt-overall-r-25.md) — related
+- [Gf, FDI, and DT-creativity are positively intercorrelated in school-age children, and all correlate with age](gf-fdi-dt-correlations-children.md) — related

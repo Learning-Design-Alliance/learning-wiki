@@ -71,3 +71,5 @@ Narrative review attributing this to Gentner et al. (2003): college students lea
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — possibly the same claim (merge candidate)
 - [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — related
 - [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
+- [Comparing two cases yields a marked advantage over studying the same two cases separately for schema abstraction and transfer](comparison-beats-separate-case-study.md) — related
+- [Better schema abstraction is associated with greater transfer of the principle to a novel problem](schema-quality-predicts-transfer.md) — related

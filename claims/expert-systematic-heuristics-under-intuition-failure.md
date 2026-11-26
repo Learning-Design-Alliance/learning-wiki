@@ -54,3 +54,4 @@ Qualitative comparison of professor interviews and student recitation-quiz respo
 - [Experts consider difficult or uncertain problem areas, needed information, priorities, and information-gathering plans significantly more than novices, while novices more often focus on a potential solution](novice-expert-problem-solving-decision-differences.md) — related
 - [Introductory physics students seldom employ spontaneous analogies when explaining the Morse potential curve in a language suitable for second graders](students-seldom-spontaneous-analogies-second-grader-morse.md) — related
 - [When experts face atypical problems, general Polya-like heuristics play a prominent role alongside domain knowledge](experts-deploy-general-heuristics-on-atypical-problems.md) — related
+- [Novices rarely spontaneously compare cases that lack surface similarity, even when the cases are presented in immediate succession](novices-rarely-spontaneously-compare.md) — related

@@ -49,3 +49,5 @@ An experiment in which subjects first read four problems with solutions, includi
 - [A metacognitive hint that two problems are similar raises solution rates but leaves most solvers unable to proceed](metacognitive-hint-improves-but-insufficient.md) — related
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
+- [Guided analogical encoding training enables novices to transfer negotiation principles to a novel test case relative to no training](guided-analogy-training-novice-transfer.md) — related
+- [Spontaneous noticing of a disparate-domain analogy is rare even when the analog is available and applicable](spontaneous-analogy-noticing-gap.md) — related

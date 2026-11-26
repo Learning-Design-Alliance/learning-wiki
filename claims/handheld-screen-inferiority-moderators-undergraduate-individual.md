@@ -49,3 +49,6 @@ Multilevel meta-regression moderator analyses across the two handheld-versus-pri
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](handheld-print-gap-between-participants-meta-analysis.md) — related
 - [Time frame is a major activity moderator of the screen inferiority effect, with larger effects when reading time is limited](time-frame-moderates-screen-inferiority.md) — related
 - [Text genre moderates the screen inferiority effect, with stronger negative effects for expository than narrative texts](text-genre-moderates-screen-inferiority.md) — related
+- [Reading comprehension is significantly better on paper than on digital devices in between-participants comparisons (Hedges' g = -0.21)](paper-advantage-between-participants-meta-analysis.md) — related
+- [The paper advantage replicates in within-participants designs (dc = -0.21)](paper-advantage-within-participants-meta-analysis.md) — related
+- [The paper advantage holds for informational or mixed-genre texts but not for narrative-only texts](text-genre-moderates-paper-advantage.md) — related

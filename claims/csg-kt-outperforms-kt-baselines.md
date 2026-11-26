@@ -55,3 +55,4 @@ Five-fold cross-validated comparison on four public datasets (Math1, Math2, FrcS
 - [CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948](cogevolution-mistake-precision-beats-kt-baseline.md) — related
 - [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](akt-outperforms-kt-baselines-auc-benchmarks.md) — related
 - [Rule-based simulated cognitive structures alone nearly match or slightly surpass classical KT and CD baselines](rule-based-simulation-matches-classical-baselines.md) — related
+- [Cross-skill effects exist in knowledge tracing: mastery of a target skill depends on previous interactions with other, related skills, not only the same skill](cross-skill-effects-in-knowledge-tracing.md) — related

@@ -54,3 +54,4 @@ Authors' comparison of the two case studies: both students showed sound algebra 
 - [Mixing signed and unsigned blends for coordinates caused Charlie persistent inconsistencies, partially resolved by an instructor-introduced checking tool](signed-unsigned-mixing-inconsistencies.md) — related
 - [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related
 - [Interviews indicate students can recite relevant formulas but struggle with mathematical application and need visualization tools for potential difference](interviews-formula-recital-math-application-gap.md) — reports the opposite
+- [Increased expertise in algebra manipulation is associated with greater resistance to Einstellung effects](einstellung-resistance-indicates-expertise.md) — related

@@ -52,3 +52,6 @@ The review reports Cury et al.'s (2006) first study with middle school students 
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — a broader claim this one bears on
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related
+- [Implicit theories predict distinct self-regulatory processes, which in turn predict goal achievement](implicit-theories-predict-processes-predict-achievement.md) — related
+- [Incremental theories significantly predict goal operating: negatively with helpless-oriented strategies (r = -.238) and positively with mastery-oriented strategies (r = .227)](incremental-theories-predict-goal-operating.md) — related
+- [Incremental (vs. entity) theories significantly predict goal setting: negatively with performance goals (r = -.151) and positively with learning goals (r = .187)](incremental-theories-predict-goal-setting.md) — related

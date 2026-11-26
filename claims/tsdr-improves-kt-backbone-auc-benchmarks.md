@@ -56,3 +56,4 @@ Empirical benchmark study (RQ1, Table 1) applying TSDR to DKT, AKT, simpleKT, Fo
 - [CSG-KT significantly outperforms classical, graph-based and SOTA knowledge tracing baselines across four real-world datasets](csg-kt-outperforms-kt-baselines.md) — related
 - [The accuracy benefit of autoencoder preprocessing is consistent across Xception and InceptionV3, with a coefficient of variation of 2.7%, suggesting architecture-independent gains](autoencoder-benefit-architecture-independent-consistency.md) — a narrower finding that bears on this claim
 - [SAINT achieved state-of-the-art knowledge tracing performance with a dramatic AUROC improvement when trained on EdNet-KT1](saint-sota-on-ednet-kt1.md) — related
+- [HawkesKT outperforms state-of-the-art knowledge tracing baselines on three benchmark datasets in AUC](hawkeskt-outperforms-kt-baselines.md) — related

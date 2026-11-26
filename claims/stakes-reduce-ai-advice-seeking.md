@@ -71,3 +71,4 @@ Study 3 replication of the advice-seeking reduction with incentives reminded bef
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
 - [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md) — related
 - [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — related
+- [Higher-knowledge learners are more likely to seek help after an error, despite objectively needing it less](high-knowledge-learners-seek-help-after-error.md) — related

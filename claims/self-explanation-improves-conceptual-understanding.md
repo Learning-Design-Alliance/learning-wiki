@@ -254,3 +254,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Prompting LLMs to explain before answering improves their accuracy on mechanics conceptual questions](explanation-first-prompting-improves-llm-mechanics-accuracy.md) — related
 - [Adding self-explanation prompts to tutored practice produced greater explanation ability and conceptual transfer without extra instructional time](self-explanation-prompts-improve-transfer.md) — a narrower finding that bears on this claim
 - [Most self-explanation characteristics can be regarded as relatively stable person characteristics generalizable across examples](self-explanation-characteristics-stable.md) — a narrower finding that bears on this claim
+- [Better schema abstraction is associated with greater transfer of the principle to a novel problem](schema-quality-predicts-transfer.md) — related

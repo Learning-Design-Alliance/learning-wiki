@@ -34,7 +34,8 @@ DataShop is an online repository and analysis platform created by the Pittsburgh
 - [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](../claims/lfa-discovered-models-beat-hand-generated-eleven-datasets.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Four tutor log datasets (Fractions, Algebra, Geometry, Physics) from Carnegie Learning and Andes via DataShop](four-tutor-log-datasets-fractions-algebra-geometry-physics-from-carnegie-learning-and-ande.md)
 
 ## Key Sources
 - Schellinger, A., & Roschelle, J. (2024, January). Looking Back to Move Forward. Digital Promise. https://doi.org/10.51388/20.500.12265/203

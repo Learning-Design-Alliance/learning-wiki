@@ -144,3 +144,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — a narrower finding that bears on this claim
 - [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — a narrower finding that bears on this claim
 - [All three types of self-regulated learning are positively associated with learning achievement in emergency language courses.](srl-types-predict-achievement.md) — a narrower finding that bears on this claim
+- [Implicit theories predict distinct self-regulatory processes, which in turn predict goal achievement](implicit-theories-predict-processes-predict-achievement.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Authors' interpretation in the discussion, generalizing from the study's correla
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
 - [Applying the mean-averaging extension to BKT and PFA improves their posttest prediction](mean-extension-improves-bkt-pfa-posttest.md) — related
 - [After nominal mastery, variability in knowledge-tracing test predictions reflects persistent differences in the slip parameter rather than knowledge state](kt-slip-parameter-dominates-test-predictions.md) — related
+- [KT predicts much worse performance after a failure than PFA, with observed data falling between the two but much closer to PFA](kt-overestimates-failure-impact.md) — related

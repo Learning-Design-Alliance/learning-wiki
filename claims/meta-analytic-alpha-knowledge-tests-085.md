@@ -84,3 +84,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [GRAS-DK showed acceptable internal consistency and no overall floor or ceiling effects](gras-dk-internal-consistency-acceptable.md) — a narrower finding that bears on this claim
 - [Classroom multiple-choice tests average 62 items with a mean test score of 65% and a length-adjusted reliability of 0.77, establishing a baseline for as-deployed classroom MCT psychometrics.](classroom-mct-baseline-psychometrics.md) — related
 - [Teacher-made tests tend to yield score reliabilities averaging about .50, while published standardized tests yield reliabilities of .85-.95](teacher-made-reliability-about-50-vs-standardized-85-95.md) — related
+- [Individual differences in domain-specific knowledge are highly stable from pretest to posttest (rP+ = .531), with extreme heterogeneity across studies](high-stability-prior-knowledge-posttest-meta-analysis.md) — related

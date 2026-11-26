@@ -24,7 +24,8 @@ A PSLC DataShop dataset of step-by-step Algebra I equation-solving tutor logs, i
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Four tutor log datasets (Fractions, Algebra, Geometry, Physics) from Carnegie Learning and Andes via DataShop](four-tutor-log-datasets-fractions-algebra-geometry-physics-from-carnegie-learning-and-ande.md)
 
 ## Key Sources
 - Mengxue Zhang, Zichao Wang, Richard Baraniuk, Andrew Lan. (2021). Math Operation Embeddings for Open-ended Solution Analysis and Feedback. https://arxiv.org/abs/2104.12047

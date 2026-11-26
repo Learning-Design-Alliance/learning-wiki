@@ -51,3 +51,4 @@ Stepwise regression of Day 3 performance on goal, math achievement, PRO frequenc
 - [Adaptive help seeking contributes to problem-solving performance over and above math achievement, but only among third graders given learning goals](adaptive-help-seeking-performance-third-graders-learning-goals.md) — possibly the same claim (merge candidate)
 - [Performance goals reduce the number of problems low achievers solve, but do not affect medium or high achievers](performance-goals-detriment-low-achievers-problem-solving.md) — related
 - [Prior knowledge predicts problem-solving ability](prior-knowledge-predicts-problem-solving.md) — related
+- [Aptitude-process interactions: help seeking predicts better outcomes for low-knowledge learners, errors for high-knowledge learners predict worse](aptitude-process-interactions-help-seeking.md) — related

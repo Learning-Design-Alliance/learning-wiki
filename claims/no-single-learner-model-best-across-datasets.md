@@ -57,3 +57,5 @@ Cross-dataset model comparison fitting 12 models to six datasets with 100 split-
 - Dataset size moderates the LR-versus-DKT comparison: Best-LR dominates in low and medium data regimes and DKT takes over in the high data regime — related
 - [The combined model with both PEV and student-level proportional decay typically fit better than either feature alone](combined-pev-student-proportion-best-fit.md) — related
 - [Learner models with individual-difference features (PEV, student-level proportional correctness) improve cross-validated fit on six educational datasets](individual-difference-features-improve-fit-six-datasets.md) — related
+- [On the real EAPS algebra dataset, CFM-P was not clearly better than AFM-P, and AFM-P essentially performed as a conjunctive model through negative skill estimates](afm-acts-conjunctive-eaps-real-data.md) — a narrower finding that bears on this claim
+- [On simulated conjunctive data, CFM-PMLE was as good as or better than AFM-PMLE in mean cross-validation error, with the largest gap when all skill probabilities were high (.9, .9, .9)](cfm-beats-afm-simulated-conjunctive-data.md) — a narrower finding that bears on this claim

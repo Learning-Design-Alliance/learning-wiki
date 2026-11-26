@@ -68,3 +68,4 @@ In the bird experiment's learning session, larger blocks yielded higher categori
 - [Attentional factors alone did not significantly boost overall model fit but improved learning-session and posttest predictions](attentional-factors-predictions-not-overall-fit.md) — related
 - [Of the spacing features tested, recency and ppe improved model fit for the bird data while base4 did not contribute significantly](recency-ppe-improve-fit-base4-does-not.md) — related
 - [Spacing-feature improvements in fit were pronounced for the bird data but weaker for the blob data, likely due to design differences in spacing variability](spacing-fit-gain-varies-by-dataset-design.md) — related
+- [Despite BIC suggesting overfitting, PFA's 7-fold crossvalidated mean absolute deviation shows it generalizes well](pfa-crossvalidation-generalizes.md) — reports the opposite

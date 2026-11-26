@@ -84,3 +84,4 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 - [Adding a math teacher during EdTech use raises engagement more for higher-pretest students, an effect the authors flag as potentially inequitable](math-teacher-effect-favors-higher-pretest.md) — related
 - [Educators proactively raise that LLM-based edtech increases their workload and decreases their autonomy](educator-workload-and-autonomy-harms.md) — related
 - [Participants with disabilities reported that SonoUno allowed them to explore data and choose options at will, an autonomy they said few research tools offer](sonouno-choice-needs-autonomy.md) — related
+- [Teachers were more involved with students who felt less competent, performed lower, and were less task-focused](teacher-involvement-lower-competence-students.md) — related

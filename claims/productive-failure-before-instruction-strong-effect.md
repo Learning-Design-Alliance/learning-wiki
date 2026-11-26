@@ -59,3 +59,4 @@ The review reports, citing Sinha and Kapur (2021), a meta-analysis of instructio
 - [Overall problem-solving performance did not differ significantly between DI-PS and PS-DI (p = .08)](overall-problem-solving-performance-no-significant-difference.md) — related
 - [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](pf-no-advantage-young-students-conceptual-knowledge.md) — reports the opposite
 - [PF and DI produce similar initial programming performance on Python list tasks immediately after instruction](pf-di-similar-initial-python-list-performance.md) — related
+- [Only a subset of prior productive failure studies varied instruction order while varying nothing else](prior-pf-studies-confounded-order.md) — related

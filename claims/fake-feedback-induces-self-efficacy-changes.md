@@ -51,3 +51,4 @@ Manipulation check within the same 118-participant experiment: independent-sampl
 - [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related
 - [Mixed-design ANOVAs reveal significant group-by-time interactions on visual discrimination sensitivity in both tasks](se-group-time-interaction-vds.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Low-achieving children receiving improvement-based relative performance feedback report higher perceived stress and higher liking of competition, with suggestive evidence for higher self-efficacy](rpf-low-achievers-stress-competition-self-efficacy.md) — related
