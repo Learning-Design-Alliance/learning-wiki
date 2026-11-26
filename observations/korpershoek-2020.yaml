@@ -1,0 +1,511 @@
+# Korpershoek, Canrinus, Fokkens-Bruinsma & de Boer (2020): meta-analysis of
+# school belonging and secondary students' outcomes.
+#
+# Read from the publisher's open-access version of record (CC BY-NC-ND 4.0).
+# Its front matter gives DOI 10.1080/02671522.2019.1615116, Research Papers in
+# Education 35(6), 641-680 (2020), "Published online: 27 May 2019". The
+# citation uses the issue year; the online year is 2019.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The academic-achievement summary correlation, its trim-and-fill adjusted
+#     value, the two achievement measures within it (school grades,
+#     standardised tests), mastery-approach goals, and the middle-school and
+#     high-school academic-achievement correlations.
+#   * `measure_type: reliability` for the authors' own inclusion screening:
+#     two researchers judged 121 of 698 full papers, agreement 0.94 (114 of
+#     121) and Cohen's kappa 0.84. It is the reliability of the study-selection
+#     decisions, not of any outcome instrument. The proportion is printed as
+#     0.94, not as a percent, so it is recorded as `other` with its form rather
+#     than converted to 94 for `percent_agreement`.
+#   * No reliability for the belonging or outcome measures: the article prints
+#     none, saying only that "results from highly unreliable instruments were
+#     excluded", with no threshold.
+#   * `population.age: unreported`. Age was coded, but the article prints only
+#     grade levels (6/7 to 12).
+#   * Model: the summary effects are inverse-variance weighted means of Fisher's
+#     Z, back-transformed to r. The article does not say whether a fixed- or
+#     random-effects model was used for them; random effects are named only for
+#     the trim-and-fill analysis. Recorded as printed, not inferred.
+#
+# QUOTES FROM PAGE IMAGES: Tables 2 and 3 (p. 659) come out of the text layer
+# with their columns separated, so the table-row quotes for academic
+# achievement, school grades, standardised tests and mastery-approach goals were
+# read from the page image of p. 659. The other quotes are copied from the text
+# layer, with its ligature characters written as plain letters ("ff").
+
+schema_version: 2
+
+study:
+  key: korpershoek-2020
+  citation: "Korpershoek, H., Canrinus, E. T., Fokkens-Bruinsma, M., & de Boer, H. (2020). The relationships between school belonging and students' motivational, social-emotional, behavioural, and academic outcomes in secondary education: A meta-analytic review. Research Papers in Education, 35(6), 641–680. (Published online 27 May 2019.)"
+  doi: "10.1080/02671522.2019.1615116"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of correlational studies relating students' sense of school
+      belonging to motivational, social-emotional, behavioural and academic
+      outcomes in regular secondary education. The authors focus on all
+      correlational studies irrespective of the direction of effects, because
+      causal evidence is scarce. Moderators (measurement instrument, region,
+      grade level, SES) tested by meta-ANOVA.
+  synthesis:
+    model: "Inverse-variance weighted mean of Fisher's Z per outcome, back-transformed to r (Comprehensive Meta-Analysis); fixed versus random effects not stated for the summary effects"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - ERIC
+        - PsycINFO
+      date_range: "peer-reviewed journal articles in English, January 2000 to December 2018"
+      records_screened: 7090
+      records_included: 82
+    inclusion:
+      - "Relates students' sense of school belonging to academic, motivational, social-emotional and/or behavioural outcomes"
+      - "Regular secondary education classrooms, grades 6/7 to 12 (grade 6 excluded where still in primary school); regular students"
+      - "Quantitative methods, at least 30 students"
+      - "Dependent and independent variables not part of the same measurement instrument"
+    exclusion:
+      - "Special needs education, more than 25% single-sex schools, physical education, out-of-school activities"
+      - "Students with emotional and/or behavioural disorders, learning disabilities, and gifted students"
+    data_handling:
+      - "Several correlations with similar outcomes in one study averaged into one study effect, with variance adjusted assuming a correlation of 0.7 between outcome measures (Borenstein et al., 2009, formula 24.6)"
+      - "Study is the unit for summary effects; individual measures are the unit for analyses by instrument and by specific outcome, with variances multiplied by the number of same-type measures in a study"
+      - "Studies reporting separate subsamples (grade level, SES, region) split for the group-difference analyses"
+      - "Two researchers screened about 17% of 698 full papers; the first author screened the remaining 577"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: school-belonging-motivational-social-behavioural-correlations
+    bearing: supports
+    anchor: korpershoek-and-fokkens-bruinsma-2020
+  - claim: belonging-outcomes-similar-across-grade-level-and-ses
+    bearing: supports
+    anchor: korpershoek-and-fokkens-bruinsma-2020
+
+evidence_base:
+  unit: studies
+  size:
+    value: 82
+    unit: studies
+  additional_sizes:
+    - value: 208796
+      unit: participants
+      note: "students across the 82 included studies"
+    - value: 698
+      unit: reports
+      note: "full papers assessed against the inclusion criteria"
+  population:
+    description: >-
+      Students in regular secondary education classrooms. Studies by region:
+      USA/Canada 57, Europe 9, Asia 8, Australia 4, South America 2, multiple
+      countries 2. Of the 51 studies (62%) reporting SES, 16 were low-SES
+      samples (>40% free or reduced lunch) and 33 middle/high SES.
+    age_or_stage: >-
+      Grades 6/7 to 12, middle school and high school. 24 studies in middle
+      school, 38 in high school, 20 with both (8 of which reported the two
+      separately). Age was coded but no age figure is printed.
+    age: unreported
+  context:
+    setting: "Regular secondary schools; correlational studies published 2000-2018"
+  variation:
+    - dimension: "Grade level"
+      distribution: "middle school 24 studies, high school 38, both 20"
+    - dimension: "Region"
+      distribution: "USA/Canada 57, Europe 9, Asia 8, Australia 4, South America 2, multiple countries 2"
+    - dimension: "Belonging instrument"
+      distribution: "many different scales (Table 1); the Psychological Sense of School Membership (PSSM) questionnaire most frequently used"
+  arms:
+    - id: middle-school
+      description: "The middle-school stratum: studies or subsamples of middle-school students."
+    - id: high-school
+      description: "The high-school stratum: studies or subsamples of high-school students."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Correlation of school belonging with an outcome across the pooled studies; no contrast between configurations."
+  - id: screening-agreement
+    kind: none
+    description: "Agreement between the two researchers who judged the first subset of full papers against the inclusion criteria."
+
+observations:
+
+  - id: belonging-academic-achievement
+    sample:
+      value: 54
+      unit: studies
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "Academic achievement"
+      measure: "School grades and standardised test scores, as reported by the primary studies"
+      scale: "correlation with school belonging (Fisher's Z mean back-transformed to r)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies (mostly cross-sectional)"
+    result:
+      measure_type: correlation
+      estimate: 0.18
+      ci_lower: 0.15
+      ci_upper: 0.21
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 54
+        unit: studies
+      heterogeneity:
+        statistic: "Q"
+        value: 1628.0
+        interpretation: "df = 53, p < .001"
+      publication_bias:
+        method: "Funnel plot and Duval and Tweedie's trim and fill, random effects, searching both sides of the mean"
+        finding: "Some publication bias for academic outcomes; adjusted r = 0.215 (LL 0.182, UL 0.247), recorded as its own observation"
+      model: "Inverse-variance weighted mean of Fisher's Z; fixed or random effects not stated"
+    moderators:
+      reported:
+        - variable: "Grade level and SES"
+          relationship: "No significant between-group differences"
+          source_quote: "For grade level and for socioeconomic background (SES), no significant between-group differences were found."
+        - variable: "Measurement instrument"
+          relationship: "Correlations differed by belonging instrument for academic achievement"
+          source_quote: "In summary, Table 4 shows that the reported correlations differed per measurement instrument for several student outcomes, namely for academic achievement,"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The belonging measures are self-reports on many instruments; no
+      reliability is printed for them or for the achievement measures.
+    source_quote: "Academic achievement 54 .18*** .15 .21 1628.0*** (53)"
+    source_location: "Table 2, p. 659 (page image)"
+
+  - id: belonging-academic-trim-and-fill
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic outcomes"
+      measure: "School grades and standardised test scores, as reported by the primary studies"
+      scale: "correlation with school belonging, adjusted for publication bias"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies (mostly cross-sectional)"
+    result:
+      measure_type: correlation
+      estimate: 0.215
+      ci_lower: 0.182
+      ci_upper: 0.247
+      interval_type: confidence
+      model: "Duval and Tweedie's trim and fill, random-effects model, observed plus imputed studies"
+      interpretation: "Somewhat higher than the observed summary effect of .18; the Limitations section rounds it to r = .22"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The number of imputed studies is shown only in the funnel plots (Figure
+      3), not in the text, so the k behind the adjusted estimate is unreported.
+      The bounds are printed as LL and UL; the article does not name their
+      level, read here as a confidence interval.
+    source_quote: "The estimated adjusted effect sizes for these outcomes are: academic outcomes r = 0.215 (LL = 0.182; UL = 0.247),"
+    source_location: "Results for research question 1, publication bias, p. 660"
+
+  - id: belonging-school-grades
+    sample:
+      value: 67
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "School grades"
+      source_language: "School grades"
+      measure: "School grades as reported by the primary studies"
+      scale: "correlation with school belonging"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.18
+      ci_lower: 0.16
+      ci_upper: 0.20
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 67
+        unit: effect-sizes
+      model: "Inverse-variance weighted mean of Fisher's Z, measure as unit of analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 3 counts tests (individual measures), not studies, because the
+      measure is the unit of analysis for specific outcomes.
+    source_quote: "School grades 67 .18*** .16 .20"
+    source_location: "Table 3, p. 659 (page image)"
+
+  - id: belonging-standardised-tests
+    sample:
+      value: 19
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Standardised test scores"
+      source_language: "Standardised test scores"
+      measure: "Standardised achievement test scores as reported by the primary studies"
+      scale: "correlation with school belonging"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.12
+      ci_lower: 0.06
+      ci_upper: 0.19
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 19
+        unit: effect-sizes
+      model: "Inverse-variance weighted mean of Fisher's Z, measure as unit of analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Standardised test scores 19 .12*** .06 .19"
+    source_location: "Table 3, p. 659 (page image)"
+
+  - id: belonging-mastery-approach-goals
+    sample:
+      value: 8
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Mastery-approach goal orientation"
+      source_language: "Mastery approach goals"
+      measure: "Self-reported mastery-approach goals as reported by the primary studies"
+      scale: "correlation with school belonging"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.34
+      ci_lower: 0.23
+      ci_upper: 0.44
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 8
+        unit: effect-sizes
+      model: "Inverse-variance weighted mean of Fisher's Z, measure as unit of analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Within the motivational outcomes domain (domain r = .30, 11 studies).
+      Performance-approach goals, by contrast, correlated .06 [-.06, .17] over
+      6 tests.
+    source_quote: "Mastery approach goals 8 .34*** .23 .44"
+    source_location: "Table 3, p. 659 (page image)"
+
+  - id: belonging-academic-middle-school
+    sample:
+      value: 21
+      unit: effect-sizes
+    arm_ref: middle-school
+    outcome:
+      construct: "Academic achievement"
+      source_language: "Academic achievement"
+      measure: "School grades and standardised test scores, as reported by the primary studies"
+      scale: "correlation with school belonging"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.19
+      p_value: "< .001"
+      k:
+        value: 21
+        unit: effect-sizes
+      model: "Inverse-variance weighted mean of Fisher's Z, subsamples split by grade level"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 6 prints no confidence interval. Its n counts tests; for grade
+      level, Table 4's note says n counts subgroups, a study reporting both
+      levels counting as two. The grade-level difference for academic
+      achievement was not significant (Table 4, Q-between 0.42, df 2).
+    source_quote: "Middle school .19*** (n = 21)"
+    source_location: "Table 6, p. 664"
+
+  - id: belonging-academic-high-school
+    sample:
+      value: 32
+      unit: effect-sizes
+    arm_ref: high-school
+    outcome:
+      construct: "Academic achievement"
+      source_language: "Academic achievement"
+      measure: "School grades and standardised test scores, as reported by the primary studies"
+      scale: "correlation with school belonging"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.17
+      p_value: "< .001"
+      k:
+        value: 32
+        unit: effect-sizes
+      model: "Inverse-variance weighted mean of Fisher's Z, subsamples split by grade level"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 6 prints no confidence interval. Studies covering both levels
+      without splitting them form a third column (.18, n = 7).
+    source_quote: "High school .17*** (n = 32)"
+    source_location: "Table 6, p. 664"
+
+  - id: screening-agreement-kappa
+    sample:
+      value: 121
+      unit: reports
+    comparison_ref: screening-agreement
+    outcome:
+      construct: "Inter-rater agreement on study inclusion"
+      source_language: "inter-rater agreement"
+      measure: "Two researchers' include/exclude judgements on 121 full papers against the three inclusion criteria"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during study selection, before disagreements were discussed"
+    result:
+      measure_type: reliability
+      estimate: 0.84
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The agreement of the selection decisions, not of any outcome measure.
+      The 7 disagreements were resolved by discussion, and the remaining 577
+      papers were judged by the first author alone.
+    source_quote: "The inter-rater agreement was 0.94 (114 out of 121 cases), Cohen’s Kappa being 0.84."
+    source_location: "Method, Literature search and inclusion criteria, p. 649"
+
+  - id: screening-agreement-proportion
+    sample:
+      value: 121
+      unit: reports
+    comparison_ref: screening-agreement
+    outcome:
+      construct: "Inter-rater agreement on study inclusion"
+      source_language: "inter-rater agreement"
+      measure: "Two researchers' include/exclude judgements on 121 full papers against the three inclusion criteria"
+      scale: "proportion of papers judged alike"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during study selection, before disagreements were discussed"
+    result:
+      measure_type: reliability
+      estimate: 0.94
+      reliability:
+        statistic: other
+        over: raters
+        form: "proportion agreement, 114 out of 121 cases"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The inter-rater agreement was 0.94 (114 out of 121 cases), Cohen’s Kappa being 0.84."
+    source_location: "Method, Literature search and inclusion criteria, p. 649"
+
+not_yet_extracted:
+  - "Table 2 summary correlations for the other six domains (motivational .30, perceived learning environment .39, behavioural engagement .36, educational aspirations/attitudes .29, absence/dropout -.16, self-perceptions .37) with intervals and Q"
+  - "Table 3 specific outcomes other than grades, standardised tests and mastery-approach goals; Q-between across specific outcomes 1353.88, df 20"
+  - "Trim-and-fill adjusted engagement (r = 0.421) and absence/dropout (r = -0.158)"
+  - "Table 4 Q-between tests by instrument, region, grade level and SES, and Tables 5-6 correlations by instrument, region and SES"

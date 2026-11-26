@@ -1,0 +1,626 @@
+# Kim (2005): meta-analysis of correlations between IQ scores and creativity
+# test scores, with moderators (IQ test, IQ level, threshold, creativity test,
+# test type, subscale, gender, age).
+#
+# WHAT IS RECORDED:
+#
+#   * The pooled correlation weighted by sample size (r = .174), with the
+#     unweighted mean (.137) in its note, and the omnibus heterogeneity.
+#   * The four age strata of Table 8 (elementary, middle school, high school,
+#     adult), each a correlation about one stratum (`arm_ref`), not a contrast.
+#     "Elementary" includes 87 kindergarteners; "adult" includes naval recruits
+#     and college students (Method).
+#   * Age's coefficient in the weighted multiple regression of Table 9, with
+#     the model's R-squared, and the four a priori chi-square contrasts between
+#     age strata.
+#   * Threshold theory: the strata below and above IQ 120, their a priori
+#     contrast, and the threshold coefficient and R-squared change when it was
+#     added to the regression (Table 10).
+#
+# `k` counts CORRELATION COEFFICIENTS, not studies: 447 from 21 studies.
+#
+# `population.age: unreported`: the article groups samples by school level and
+# prints no age range, mean or SD. No reliability coefficient is printed for any
+# instrument, and no coding agreement.
+#
+# SOURCE TEXT. The first pass read a text layer with no PDF beside it. This
+# pass reads the published PDF (ERIC copy EJ698316, 10 pages), whose pages were
+# viewed as images; every figure below was checked against them. Quotations
+# taken from the page images (and matched to that PDF's own text layer):
+# iq-creativity-middle-school, iq-creativity-high-school, iq-creativity-adult,
+# age-regression-coefficient (replacing table-row quotes), and every
+# observation added in this pass (the age contrasts and the threshold
+# observations). The overall and elementary quotes are unchanged and were
+# confirmed on the page.
+#
+# Things the printed article itself does, all checked on the page images:
+#   * "p > .0001" (and "p > .001" for the high-school stratum) really is what
+#     the PDF prints for heterogeneous Q values, though the homogeneity rule
+#     (heterogeneous when p < .001) implies "<". No p value is recorded for
+#     those. The overall Q(446) is printed "p < .0001" and is recorded.
+#   * Table 1 as printed puts 65 coefficients and r = .201 on the row labelled
+#     "Above IQ 120" and 14 and .235 on "Below IQ 120", and its "Unreported"
+#     row runs together ("368.163heterogeneous"). The Results text (65 below,
+#     14 above) and the Discussion (368 of 447 unreported) agree with each
+#     other, so the threshold observations take the Results sentences; the
+#     table is not quoted.
+#   * The titles of Tables 9 and 10 are swapped: the table titled "With
+#     Threshold" (Table 9) has four moderators and no threshold row, and the
+#     one titled "on Moderator Variables" (Table 10) has the threshold row. The
+#     text's numbering (Table 9 = four moderators, Table 10 = with threshold)
+#     matches the rows and is followed here.
+#   * The R-squared symbol renders as "R?" in this PDF (a missing glyph); it is
+#     quoted as printed. "adjusted R?" and "R? Change" leave no doubt which
+#     statistic it is.
+#   * The regression paragraph first says "age and creativity subscales
+#     independently accounted for variation", then that creativity tests and
+#     age had significant effects and creativity subscales did not; the IQ
+#     tests p is printed ".59.64" in the text and .59064 in Table 9; creativity
+#     tests' z = -2.33020 is printed with p < .001. Recorded as printed for age
+#     and threshold only; not resolved.
+#   * The Results and Table 8 show weaker correlations in the elementary group
+#     than in the older groups, and the first age paragraph of the Discussion
+#     says the same; the concluding paragraph says the opposite ("more closely
+#     associated with creativity scores for younger groups than for older
+#     groups"). The figures are recorded; the contradiction is noted, not
+#     resolved.
+#   * How age was coded for the regression is not stated anywhere in the
+#     article (Method, Results, Tables 8-10 and their notes were read).
+#
+# The article prints no DOI; 10.4219/jsge-2005-473 was checked against Crossref
+# (title, sole author Kyung Hee Kim, 2005, 16(2-3), 57-66), which agrees with the
+# front matter ("The JSGE Vol. XVI, No. 2/3, Winter/Spring 2005, pp. 57-66").
+
+schema_version: 2
+
+study:
+  key: kim-2005
+  citation: "Kim, K. H. (2005). Can only intelligent people be creative? A meta-analysis. Journal of Secondary Gifted Education, 16(2-3), 57–66."
+  doi: "10.4219/jsge-2005-473"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of correlation coefficients between IQ test scores and
+      creativity test scores. Fisher's z transformation, each z weighted by
+      N - 3, random-effects model, r values back-transformed from z (Schwarzer's
+      Meta 5.3). Moderator analyses by subgroup (QB tests, simple contrasts as z
+      at p < .001), Hedges' g per coefficient for the moderator analysis
+      (DSTAT 1.10), then a weighted multiple linear regression of zr on the
+      significant moderators, with and without the IQ-120 threshold.
+  synthesis:
+    model: "Random-effects model; Fisher z weighted by N - 3, back-transformed to r"
+    heterogeneity_statistic: "Q"
+    heterogeneity_thresholds: "Heterogeneous when the residual SD exceeded three fourths of the effect size and sampling error was less than 75% of observed variance (Schwarzer); in the tables, heterogeneous when p < .001"
+    search:
+      databases:
+        - Academic Search Premier
+        - ERIC
+        - PsycARTICLES
+        - PsycINFO
+      date_range: "1961 through summer 2004"
+      records_included: 21
+    inclusion:
+      - "English-language creativity and intelligence literature"
+      - "Reports correlations among measures of intelligence and creativity, or t, chi-square or single-df F tests, or exact p values"
+    data_handling:
+      - "Several coefficients per study where a study used several creativity subscales or reported results separately by gender"
+      - "Conservative criterion (p < .001) for moderator contrasts to protect against Type I error"
+      - "Creativity subscales classified as fluency, flexibility or originality; unreported subscales categorised from the nature of the tasks"
+      - "Residual SD used as the standard error for 95% confidence intervals"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: negligible-iq-creativity-correlation-meta-analysis
+    bearing: supports
+    anchor: kim-2005
+  - claim: age-moderates-iq-creativity-correlation
+    bearing: supports
+    anchor: kim-2005
+  - claim: threshold-theory-not-supported-iq-120
+    bearing: supports
+    anchor: kim-2005
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 447
+    unit: effect-sizes
+  additional_sizes:
+    - value: 21
+      unit: studies
+      note: "studies synthesised, from more than 100 located"
+    - value: 45880
+      unit: participants
+      note: "total sample size across the 21 studies"
+  population:
+    description: >-
+      Samples from kindergarten to adulthood in the studies synthesised,
+      including 87 kindergarteners (Ward, 1968), naval recruits (Richards,
+      1976) and college students. Most studies did not report ethnicity.
+    age_or_stage: "Grouped as elementary (kindergarten through fifth grade), middle school, high school and adult; no age figures are printed"
+    age: unreported
+  context:
+    setting: "Studies published 1961 to 2004 reporting IQ and creativity test scores"
+  variation:
+    - dimension: "Age group"
+      distribution: "Elementary 251 coefficients, middle school 27, high school 105, adult 53, unreported 11 (Table 8)"
+    - dimension: "Creativity test"
+      distribution: "Wallach-Kogan 319 coefficients, Guilford 64, TTCT 18, others 46 (Table 4)"
+    - dimension: "IQ test"
+      distribution: "CTMM 114, STEP 100, WISC 60, SCAT 40, TCMT 21, PPVT 18, others 94 (Table 3)"
+  arms:
+    - id: elementary
+      description: "The elementary-school stratum: kindergarten through fifth grade, including 87 kindergarteners."
+    - id: middle-school
+      description: "The middle-school stratum."
+    - id: high-school
+      description: "The high-school stratum."
+    - id: adult
+      description: "The adult stratum, including naval recruits and college students."
+    - id: below-iq-120
+      description: "Correlation coefficients from samples below IQ 120 (65 coefficients)."
+    - id: above-iq-120
+      description: "Correlation coefficients from samples above IQ 120 (14 coefficients)."
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "All 447 coefficients pooled; no contrast between strata."
+  - id: moderator-regression
+    kind: none
+    description: "Weighted multiple linear regression of zr on the significant moderators across the corpus."
+  - id: elementary-vs-middle
+    kind: between-groups
+    index_arm: middle-school
+    reference_arm: elementary
+    description: "A priori contrast of mean r between the middle-school and elementary strata."
+  - id: elementary-vs-high
+    kind: between-groups
+    index_arm: high-school
+    reference_arm: elementary
+    description: "A priori contrast of mean r between the high-school and elementary strata."
+  - id: elementary-vs-adult
+    kind: between-groups
+    index_arm: adult
+    reference_arm: elementary
+    description: "A priori contrast of mean r between the adult and elementary strata."
+  - id: high-vs-adult
+    kind: between-groups
+    index_arm: adult
+    reference_arm: high-school
+    description: "A priori contrast of mean r between the adult and high-school strata."
+  - id: above-vs-below-iq-120
+    kind: between-groups
+    index_arm: above-iq-120
+    reference_arm: below-iq-120
+    description: "A priori contrast of mean r above against below the IQ-120 threshold."
+
+observations:
+
+  - id: iq-creativity-overall
+    sample: {value: 447, unit: effect-sizes}
+    comparison_ref: whole-corpus
+    outcome: &creativity
+      construct: "Relation between intelligence and creativity test scores"
+      source_language: "the relationship between creativity test scores and IQ scores"
+      measure: "IQ test scores (TCMT, CTMM, WISC, SCAT, STEP, PPVT and others) against creativity test scores (Guilford tasks, TTCT, Wallach-Kogan divergent thinking tasks and others)"
+      scale: "correlation coefficient r"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.174
+      ci_lower: 0.165
+      ci_upper: 0.183
+      interval_type: confidence
+      k: {value: 447, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 937.058
+        interpretation: "Q(446), p < .0001; residual SD .044; sampling error accounted for 47.64% of observed variance, under the 75% criterion, so heterogeneous"
+      model: "random-effects, weighted by sample size"
+      note: "Unweighted mean r .137 (95% CI .128 to .146). The CI uses the residual SD as the standard error."
+      interpretation: "Judged small and statistically significant; the abstract calls the relationship negligible"
+    moderators:
+      reported:
+        - variable: "Age group"
+          relationship: "Lower correlation in the elementary group (.086) than in middle school (.210), high school (.261) and adults (.205)"
+          source_quote: "Model for Age, QB(4) = 223.282"
+        - variable: "Creativity test"
+          relationship: "Lower correlation with the game-like Wallach-Kogan tasks (.116) than with the Guilford tests (.250)"
+          source_quote: "Model for Creativity tests, QB(3) = 203.079"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The mean value of r was .137 (95% CI = .128 – .146), or .174 (95% CI = .165 – .183) after weighting by sample size."
+    source_location: "Results (p. 59); abstract"
+
+  - id: iq-creativity-elementary
+    sample: {value: 251, unit: effect-sizes}
+    arm_ref: elementary
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.086
+      k: {value: 251, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 260.451
+        interpretation: "Q(250), p = .660, homogeneous"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "No confidence interval is printed for any age stratum."
+    source_quote: "As Table 8 shows, the mean of the 251 correlation coefficients for the elementary school group was .086. The correlation coefficients were homogeneous, Q(250) = 260.451, p = .660."
+    source_location: "Results, Age (p. 62); Table 8 (p. 64)"
+
+  - id: iq-creativity-middle-school
+    sample: {value: 27, unit: effect-sizes}
+    arm_ref: middle-school
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.210
+      k: {value: 27, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 70.097
+        interpretation: "Q(26), heterogeneous; the p value is printed 'p > .0001' (see header), so none is recorded"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The mean of the 27 correlation coefficients for the middle school group was .210. The correlation coefficients were heterogeneous, Q(26) = 70.097, p > .0001."
+    source_location: "Table 8 (p. 64); Results, Age (p. 62)"
+
+  - id: iq-creativity-high-school
+    sample: {value: 105, unit: effect-sizes}
+    arm_ref: high-school
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.261
+      k: {value: 105, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 163.761
+        interpretation: "Q(104), heterogeneous; the p value is printed 'p > .001' (see header), so none is recorded"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The mean of the 105 correlation coefficients for the high school group was .261. The correlation coefficients were heterogeneous, Q(104) = 163.761, p > .001."
+    source_location: "Table 8 (p. 64); Results, Age (p. 62)"
+
+  - id: iq-creativity-adult
+    sample: {value: 53, unit: effect-sizes}
+    arm_ref: adult
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.205
+      k: {value: 53, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 183.404
+        interpretation: "Q(52), heterogeneous; the p value is printed 'p > .0001' (see header), so none is recorded"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "No confidence interval is printed for any age stratum."
+    source_quote: "The mean of the 53 correlation coefficients for adults was .205. The correlation coefficients were heterogeneous, Q(52) = 183.404, p > .0001."
+    source_location: "Table 8 (p. 64); Results, Age (p. 62)"
+
+  - id: age-regression-coefficient
+    comparison_ref: moderator-regression
+    outcome:
+      construct: "Moderation of the IQ-creativity correlation by age group"
+      source_language: "effect size zr"
+      measure: "Fisher-z correlation between IQ and creativity scores, regressed on IQ test, creativity test, creativity subscale and age, weighted by sample size"
+      scale: "standardized regression coefficient on zr"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.03917
+      statistic: "z = 6.19332"
+      p_value: "< .0001"
+      model: >-
+        Weighted multiple linear regression of zr on four moderators (IQ tests,
+        creativity tests, creativity subscales, age; Table 9, overall regression
+        effect 48.96, df = 4, p < .0001), with significance tests corrected
+        with DSTAT. The model yielded R-squared .260, adjusted R-squared .235,
+        F(221) = 10.716, p < .0001. With the threshold variable added (Table 10)
+        age's coefficient was .03976 (z = 6.29666, p < .0001).
+      interpretation: "Age had a significant independent effect on the size of the correlation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      Checked against the PDF: the article does not say how age was coded for
+      the regression (the strata are ordered school levels) nor how many
+      coefficients entered it, so no sample is recorded and the coefficient
+      cannot be read per year. F(221) is printed but no count of coefficients
+      is. The concluding paragraph states the direction opposite to the
+      strata; see the header.
+    source_quote: "The various creativity tests (β = -.01179, z = -2.33020, p < .001) and age (β = .03917, z = 6.19332, p < .0001) had significant effects on the magnitude of the correlation coefficients between creativity test scores and IQ test scores."
+    source_location: "Results, Multiple Regression Analysis (p. 63); Table 9 (p. 64); R-squared in Results (p. 62): \"The regression model yielded R? = .260, adjusted R? = .235, F (221) = 10.716, p < .0001.\""
+
+  - id: age-contrast-elementary-middle
+    comparison_ref: elementary-vs-middle
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: other
+      statistic: "chi-square = 59.051"
+      p_value: "< .0001"
+      note: "A priori contrast of the two strata's mean r (.210 against .086); the article prints the chi-square and p only, no difference statistic or interval."
+      interpretation: "Statistically different"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+      pooled_k: observed
+    source_quote: "On an a priori basis, the elementary school group (r = .086) and the middle school group (r = .210) were statistically different, χ2 = 59.051, p < .0001."
+    source_location: "Results, Age (p. 62); Table 8 (p. 64)"
+
+  - id: age-contrast-elementary-high
+    comparison_ref: elementary-vs-high
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: other
+      statistic: "chi-square = 110.148"
+      p_value: "< .0001"
+      note: "A priori contrast of the two strata's mean r (.261 against .086); the article prints the chi-square and p only, no difference statistic or interval."
+      interpretation: "Statistically different"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+      pooled_k: observed
+    source_quote: "The elementary school group (r = .086) and the high school group (r = .261) were statistically different, χ2 = 110.148, p < .0001."
+    source_location: "Results, Age (p. 62); Table 8 (p. 64)"
+
+  - id: age-contrast-elementary-adult
+    comparison_ref: elementary-vs-adult
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: other
+      statistic: "chi-square = 126.945"
+      p_value: "< .0001"
+      note: "A priori contrast of the two strata's mean r (.205 against .086); the article prints the chi-square and p only, no difference statistic or interval."
+      interpretation: "Statistically different"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+      pooled_k: observed
+    source_quote: "The elementary school group (r = .086) and adults (r = .205) were statistically different, χ2 = 126.945, p < .0001."
+    source_location: "Results, Age (p. 62); Table 8 (p. 64)"
+
+  - id: age-contrast-high-adult
+    comparison_ref: high-vs-adult
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: other
+      statistic: "chi-square = 12.036"
+      p_value: "< .001"
+      note: "A priori contrast of the two strata's mean r (.205 against .261); the article prints the chi-square and p only, no difference statistic or interval."
+      interpretation: "Statistically different"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+      pooled_k: observed
+    source_quote: "The high school group (r = .261) and adults (r = .205) were statistically different, χ2 = 12.036, p < .001."
+    source_location: "Results, Age (p. 62); Table 8 (p. 64)"
+
+  - id: iq-creativity-below-iq-120
+    sample: {value: 65, unit: effect-sizes}
+    arm_ref: below-iq-120
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.201
+      k: {value: 65, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 159.170
+        interpretation: "Q(64), heterogeneous; the p value is printed 'p > .0001' (see header), so none is recorded"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "Taken from the Results text; Table 1 as printed attaches these figures to the row labelled 'Above IQ 120' (see header). No confidence interval is printed."
+    source_quote: "As Table 1 shows, the mean of the 65 correlation coefficients for below IQ 120 was .201. The correlation coefficients were heterogeneous, Q(64) = 159.170, p > .0001."
+    source_location: "Results, Threshold (p. 60)"
+
+  - id: iq-creativity-above-iq-120
+    sample: {value: 14, unit: effect-sizes}
+    arm_ref: above-iq-120
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.235
+      k: {value: 14, unit: effect-sizes}
+      heterogeneity:
+        statistic: "Q"
+        value: 45.654
+        interpretation: "Q(13), heterogeneous; the p value is printed 'p > .0001' (see header), so none is recorded"
+      model: "random-effects, weighted by sample size"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "Taken from the Results text; Table 1 as printed attaches these figures to the row labelled 'Below IQ 120' (see header). No confidence interval is printed."
+    source_quote: "The mean of the 14 correlation coefficients for above IQ 120 was .235. The correlation coefficients were heterogeneous, Q(13) = 45.654, p > .0001."
+    source_location: "Results, Threshold (p. 60)"
+
+  - id: threshold-contrast
+    comparison_ref: above-vs-below-iq-120
+    outcome: *creativity
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: other
+      statistic: "chi-square = 2.004"
+      p_value: "= .157"
+      note: "A priori contrast of mean r above IQ 120 (.235) against below (.201); post hoc contrasts among below, above and unreported were also non-significant (Table 1 note: p > .001; model for threshold QB(2) = 17.625, p < .001)."
+      interpretation: "Not statistically different; the author attributes the post hoc result partly to the few coefficients above IQ 120"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+      pooled_k: observed
+    observability_notes: "368 of the 447 coefficients came from samples whose IQ was unreported or unusable (Discussion), so the threshold test rests on 79 coefficients."
+    source_quote: "On an a priori basis, IQ below (r = .201) and above 120 (r = .235) were not statistically different either, χ2 = 2.004, p = .157."
+    source_location: "Results, Threshold (p. 60); Table 1 (p. 60)"
+
+  - id: threshold-regression-coefficient
+    comparison_ref: moderator-regression
+    outcome:
+      construct: "Moderation of the IQ-creativity correlation by the IQ-120 threshold"
+      source_language: "effect size zr"
+      measure: "Fisher-z correlation between IQ and creativity scores, regressed on IQ test, creativity test, creativity subscale, age and threshold, weighted by sample size"
+      scale: "standardized regression coefficient on zr"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "concurrent measurement in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.00726
+      statistic: "z = -.76628"
+      p_value: "= .44351"
+      model: >-
+        Threshold added to the four-moderator weighted regression (Table 10,
+        overall regression effect 49.565, df = 5, p < .0001). Adding it gave an
+        R-squared change of .004, F Change (1) = 1.269, p = .261.
+      interpretation: "The threshold variable was not related to the size of the correlation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The quoted sentence breaks the coefficient across a line after its minus
+      sign (page image); Table 10 prints -.00726. The R-squared change is
+      printed as "Adding the threshold variable did not change the R?
+      significantly. The regression model yielded R? Change = .004, F Change
+      (1) = 1.269, p = .261." The table
+      is printed under the title belonging to Table 9 (see header). How the
+      threshold was coded, and how coefficients with unreported IQ entered, is
+      not stated.
+    source_quote: "The threshold variable (β = -.00726, z = -.76628, p = .44351) was not related to the magnitude of the correlation coefficients."
+    source_location: "Results, Multiple Regression Analysis (p. 63); Table 10 (p. 64)"
+
+not_yet_extracted:
+  - "IQ levels (Table 2), IQ tests (Table 3), creativity tests (Table 4), creativity test types (Table 5), creativity subscales (Table 6) and gender (Table 7) as moderators, with their a priori chi-square contrasts; all now read cleanly from the PDF."
+  - "Coefficients for IQ tests, creativity tests and creativity subscales in the regressions of Tables 9 and 10."
+  - "The unreported age stratum (11 coefficients, r = .267) and the unreported-IQ threshold row, which is run together in the printed Table 1."

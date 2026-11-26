@@ -1,0 +1,280 @@
+# Kang & Pashler (2012; published online 2011), Experiment 2: massed,
+# interleaved and simultaneous-different study of three artists' painting
+# styles, tested on new paintings.
+#
+# The issue is Applied Cognitive Psychology 26(1), January 2012 (Crossref); the
+# front matter says "Published online 2 May 2011". The key keeps the online year.
+#
+# WHAT IS RECORDED, and what is not:
+#
+#   * The omnibus ANOVA with its printed partial eta squared.
+#   * Simultaneous Different against Massed (d = 0.78) and Interleaved against
+#     Massed (d = 0.56), each with its printed t on 58 df, so 60 analysed.
+#   * Simultaneous Different against Interleaved, printed only as "t < 1",
+#     recorded as a bound on t; no effect size is printed for it.
+#   * Interleaved against Massed shares one printed sentence with Simultaneous
+#     Different against Massed; the sentence crosses the column break on p. 101,
+#     and its source_quote is now the whole sentence as printed.
+#   * The three condition means, printed inside the bars of Figure 4 (p. 101) as
+#     two-decimal proportions, recorded as `measure_type: mean` named by arm_ref.
+#     They were read from page images of the published PDF; the text layer does
+#     not contain them. No SD or SE is printed: the error bars are 95% CIs whose
+#     limits are not printed, so no spread is recorded and none is estimated.
+#   * The printed F and MSE are recorded as printed; nothing is computed from
+#     them or checked against the means.
+#
+# Every source_quote was checked against page images of the published PDF
+# (Applied Cognitive Psychology 26(1), 97-103).
+#
+# `population.age: unreported`: the article prints no age figure. No reliability
+# figure is printed for the transfer test.
+#
+# No claim page in the wiki is written from Experiment 2 yet, so appears_in is
+# omitted. Experiment 1 is kang-2011-exp1.
+
+schema_version: 2
+
+study:
+  key: kang-2011-exp2
+  citation: "Kang, S. H. K., & Pashler, H. (2012). Learning painting styles: Spacing is advantageous when it promotes discriminative contrast. Applied Cognitive Psychology, 26(1), 97–103. (Published online 2 May 2011.) Experiment 2."
+  doi: "10.1002/acp.1801"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Laboratory experiment. Study condition (Massed, Interleaved, Simultaneous
+      Different) manipulated between subjects, 30 subjects randomly assigned to
+      each condition. Study phase of 10 paintings per artist, each presented
+      twice; a ~20-minute video as filler; then a self-paced test of 90
+      previously unseen paintings, three-alternative forced choice, no
+      feedback.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 90
+    unit: participants
+  population:
+    description: "Undergraduates from the University of California, San Diego Psychology Subject Pool, participating for course credit."
+    age_or_stage: "Undergraduates; no age figure is printed"
+    age: unreported
+  context:
+    setting: "Laboratory, single session"
+    materials: >-
+      The landscape paintings of Experiment 1 (Jan Blencowe, Richard Lindenberg,
+      Rae O'Shea); 10 per artist randomly selected for study and the remaining
+      30 per artist assigned to the test.
+  arms:
+    - id: massed
+      description: "Massed: paintings one at a time (inter-stimulus interval 1 s), the 10 by one artist in sequence and then again in a new random order before the next artist."
+      size: {value: 30, unit: participants}
+      elements:
+        - term: "blocked presentation of exemplars by category"
+          anchors:
+            - principles/interleaving
+    - id: interleaved
+      description: "Interleaved: all 30 paintings in an interleaved sequence, then re-presented in a new random order preserving the interleaving of artists."
+      size: {value: 30, unit: participants}
+      elements:
+        - term: "interleaving exemplars of different categories"
+          anchors:
+            - principles/interleaving
+    - id: simultaneous-different
+      description: "Simultaneous Different: sets of three paintings, one by each artist, shown together for 15 s with a 3-s blank, each artist in a fixed screen position for the subject; 10 sets, then all again in a new random order."
+      size: {value: 30, unit: participants}
+      elements:
+        - term: "simultaneous juxtaposition of exemplars from different categories"
+
+comparisons:
+  - id: omnibus-three-conditions
+    kind: none
+    description: "One-way ANOVA across the three study conditions; an omnibus test, not a contrast between two named arms."
+  - id: simultaneous-different-vs-massed
+    kind: between-groups
+    index_arm: simultaneous-different
+    reference_arm: massed
+    description: "Simultaneous viewing of one painting by each artist against massed presentation."
+  - id: interleaved-vs-massed
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: massed
+    description: "Interleaved against massed (blocked) presentation."
+  - id: simultaneous-different-vs-interleaved
+    kind: between-groups
+    index_arm: simultaneous-different
+    reference_arm: interleaved
+    description: "Simultaneous juxtaposition against interleaving."
+
+observations:
+
+  - id: omnibus-anova
+    sample: {value: 90, unit: participants}
+    comparison_ref: omnibus-three-conditions
+    outcome: &transfer
+      construct: "Classification of new paintings by artist (perceptual category induction)"
+      source_language: "mean test performance"
+      measure: "90 previously unseen paintings, self-paced, three-alternative forced choice of the artist, no feedback"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &after-filler
+      label: "after a ~20-minute video filler following the study phase"
+      offset: {value: 20, unit: minutes, from: "end of the study phase (approximate; the article writes ~20)"}
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.106
+      statistic: "F(2, 87) = 5.174, MSE = 0.076"
+      model: "One-way between-subjects ANOVA on study condition"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "[F (2, 87) = 5.174, MSE = 0.076, partial η2 = 0.106]"
+    source_location: "Experiment 2, Results (p. 101)"
+
+  - id: simultaneous-different-vs-massed
+    sample: {value: 60, unit: participants}
+    comparison_ref: simultaneous-different-vs-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: cohens_d
+      estimate: 0.78
+      statistic: "t(58) = 2.94"
+    moderators:
+      reported: []
+      candidate:
+        - "Discriminative contrast between categories, which the authors propose juxtaposition promotes; their interpretation, not a tested moderator"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The analysed n of 60 is read from the printed df (58) and the 30 a condition. The article does not say how d was computed."
+    source_quote: "Paired comparisons indicated that the Simultaneous Different condition yielded significantly better learning than the Massed condition [t(58) = 2.94, d = 0.78]"
+    source_location: "Experiment 2, Results (p. 101)"
+
+  - id: interleaved-vs-massed
+    sample: {value: 60, unit: participants}
+    comparison_ref: interleaved-vs-massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: cohens_d
+      estimate: 0.56
+      statistic: "t(58) = 2.15"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The analysed n of 60 is read from the printed df (58) and the 30 a condition. The article does not say how d was computed."
+    source_quote: "Paired comparisons indicated that the Simultaneous Different condition yielded significantly better learning than the Massed condition [t(58) = 2.94, d = 0.78] as did the Interleaved condition [t(58) = 2.15, d = 0.56]."
+    source_location: "Experiment 2, Results (p. 101; the sentence crosses the column break)"
+
+  - id: simultaneous-different-vs-interleaved-null
+    sample: {value: 60, unit: participants}
+    comparison_ref: simultaneous-different-vs-interleaved
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: other
+      bound: {operator: "<", value: 1}
+      statistic: "t, printed only as t < 1"
+      interpretation: "No reliable difference between simultaneous juxtaposition and interleaving; the bound is on the t statistic, not on an effect size."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, the difference between the Simultaneous Different and Interleaved conditions was not reliable (t < 1)."
+    source_location: "Experiment 2, Results (p. 101)"
+
+  - id: mean-massed
+    sample: {value: 30, unit: participants}
+    arm_ref: massed
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.58
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.58" is printed inside the Massed bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Massed bar"
+
+  - id: mean-interleaved
+    sample: {value: 30, unit: participants}
+    arm_ref: interleaved
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.65
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.65" is printed inside the Interleaved bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Interleaved bar"
+
+  - id: mean-simultaneous-different
+    sample: {value: 30, unit: participants}
+    arm_ref: simultaneous-different
+    outcome: *transfer
+    time: *after-filler
+    result:
+      measure_type: mean
+      estimate: 0.68
+      unit: "proportion correct on the transfer test"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image: "0.68" is printed inside the Simultaneous Different bar of
+      Figure 4. No SD or SE is printed; the error bars are 95% confidence
+      intervals whose limits are drawn but not printed, so none is recorded.
+    source_quote: "Means for each condition are listed within the respective bars"
+    source_location: "Figure 4 caption (Experiment 2); value printed inside the Simultaneous Different bar"
+
+not_yet_extracted:
+  - "The 95% confidence-interval limits drawn as error bars in Figure 4; they are not printed as numbers."

@@ -14,9 +14,25 @@
 #     items, for high-nonscience students) are printed in Figure 2 only. The
 #     text states their significance and direction, never a value, so those
 #     observations carry no estimate and `effect_size: unreported`.
-#   * Table 3's logistic coefficients are not recorded: in the text layer the
-#     minus signs come out as a leading "2" ("20.069 (0.051) 21.37"), so the
-#     sign of several coefficients cannot be read cleanly.
+#   * Table 3 (p. 1037) is recorded from the PAGE IMAGE of the publisher PDF,
+#     because its text layer renders minus signs as a leading "2" ("20.069
+#     (0.051) 21.37"). Every observation whose id starts `t3-` has a
+#     source_quote taken from that page image: the table row's printed
+#     characters, with real minus signs, columns joined by single spaces. The
+#     digits were cross-checked against the text layer. Recorded: the four
+#     teacher-knowledge coefficients, both teacher-knowledge interactions
+#     (with reading and math score, with pretest item score), the reading and
+#     math main effect and the pretest x reading-and-math interaction. The
+#     other student controls and item-difficulty terms are listed in
+#     not_yet_extracted.
+#   * Table 3 does not name its reference category. Its 'No dist, no SMK' row
+#     is printed blank under each 4-DoF term with five categories, so the
+#     `t3-*-vs-blank-row` comparisons read each coefficient against that row.
+#     'No dist' is taken to mean a non-misconception item (no strong
+#     distractor), from the label and the five categories the text describes;
+#     the article does not spell the label out.
+#   * Figure 2's per-category gains are drawn only, never printed as numbers,
+#     so they are not recorded.
 #   * The authors call the study correlational ("it is not an experimental
 #     study"); teacher knowledge was observed, not assigned.
 
@@ -119,9 +135,9 @@ evidence_base:
     - id: no-smk-misconception
       description: "Misconception item on which the teacher answered incorrectly (the authors combine 'No SMK, KOSM' 2.0% and 'No SMK, no KOSM' 15.5%)."
     - id: smk-non-misconception
-      description: "Non-misconception item on which the teacher answered correctly (84.6% of teacher responses on those items)."
+      description: "Non-misconception item on which the teacher answered correctly (84.6% of teacher responses on those items); Table 3's 'No dist, SMK' row."
     - id: no-smk-non-misconception
-      description: "Non-misconception item on which the teacher answered incorrectly (15.4% of teacher responses)."
+      description: "Non-misconception item on which the teacher answered incorrectly (15.4% of teacher responses); Table 3's 'No dist, no SMK' row, printed with no coefficient."
 
 comparisons:
   - id: pre-post-whole-sample
@@ -146,6 +162,49 @@ comparisons:
   - id: test-reliability
     kind: none
     description: "Internal consistency of the 20 common items at each administration."
+  - id: t3-smk-kosm-vs-blank-row
+    kind: between-groups
+    index_arm: smk-and-kosm
+    reference_arm: no-smk-non-misconception
+    description: >-
+      Table 3 teacher-knowledge category 'SMK, KOSM' within the 'SMK & KOSM by
+      item' term (4 DoF over five categories). The article does not name a
+      reference category; the 'No dist, no SMK' row is printed with no
+      coefficient, so each coefficient is read against that row. Item-level
+      categories inside one logistic model, not randomised groups.
+  - id: t3-smk-only-vs-blank-row
+    kind: between-groups
+    index_arm: smk-only
+    reference_arm: no-smk-non-misconception
+    description: >-
+      Table 3 teacher-knowledge category 'SMK, no KOSM' within the 'SMK & KOSM by
+      item' term (4 DoF over five categories). The article does not name a
+      reference category; the 'No dist, no SMK' row is printed with no
+      coefficient, so each coefficient is read against that row. Item-level
+      categories inside one logistic model, not randomised groups.
+  - id: t3-no-smk-misc-vs-blank-row
+    kind: between-groups
+    index_arm: no-smk-misconception
+    reference_arm: no-smk-non-misconception
+    description: >-
+      Table 3 teacher-knowledge category 'No SMK, no KOSM' within the 'SMK & KOSM by
+      item' term (4 DoF over five categories). The article does not name a
+      reference category; the 'No dist, no SMK' row is printed with no
+      coefficient, so each coefficient is read against that row. Item-level
+      categories inside one logistic model, not randomised groups.
+  - id: t3-smk-non-misc-vs-blank-row
+    kind: between-groups
+    index_arm: smk-non-misconception
+    reference_arm: no-smk-non-misconception
+    description: >-
+      Table 3 teacher-knowledge category 'No dist, SMK' within the 'SMK & KOSM by
+      item' term (4 DoF over five categories). The article does not name a
+      reference category; the 'No dist, no SMK' row is printed with no
+      coefficient, so each coefficient is read against that row. Item-level
+      categories inside one logistic model, not randomised groups.
+  - id: t3-model-covariates
+    kind: none
+    description: "Student-level terms of the Table 3 item-level logistic model, over the whole analysed sample (no contrast between named groups)."
 
 observations:
 
@@ -441,8 +500,10 @@ observations:
       effect_size: unreported
     observability_notes: >-
       effect_size is unreported because the contrast's magnitude appears only
-      in Figure 2; Table 3's coefficients are relative to an unnamed reference
-      category and their signs are unreadable in the text layer.
+      in Figure 2, as drawn points. Table 3's coefficients (the t3-
+      observations) are log odds against the blank 'No dist, no SMK' row, not
+      this SMK-and-KOSM versus SMK-only contrast, and the article prints no
+      test of that contrast in numbers.
     source_quote: "Only when teachers had both SMK and KOSM were student gains significantly larger."
     source_location: "Results, Inferential Analysis, p. 1038; Figure 2"
 
@@ -505,9 +566,527 @@ observations:
     source_quote: "For non- misconception items, student gains are nearly double if the teacher knows the correct answer."
     source_location: "Discussion, p. 1041"
 
+  - id: t3-main-smk-kosm
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-kosm-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.047
+      standard_error: 0.051
+      statistic: "t = 0.92"
+      p_value: "0.3577"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Teacher-knowledge main effect, category 'SMK, KOSM'.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A main effect in a model that also carries this term's interactions with the reading and math score and with the pretest item score, so it is the category contrast where those interacting variables sit at their reference coding, which the table prints only as 'Low or high' and 'Incorrect, correct'. Reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "SMK & KOSM by item 4 12.38 < .0001 SMK, KOSM 0.047 (0.051) 0.92 0.3577"
+    source_location: "Table 3, p. 1037, Teacher: SMK & KOSM by item"
+
+  - id: t3-main-smk-only
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-only-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.069
+      standard_error: 0.051
+      statistic: "t = −1.37"
+      p_value: "0.1720"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Teacher-knowledge main effect, category 'SMK, no KOSM'.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A main effect in a model that also carries this term's interactions with the reading and math score and with the pretest item score, so it is the category contrast where those interacting variables sit at their reference coding, which the table prints only as 'Low or high' and 'Incorrect, correct'. Reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "SMK, no KOSM −0.069 (0.051) −1.37 0.1720"
+    source_location: "Table 3, p. 1037, Teacher: SMK & KOSM by item"
+
+  - id: t3-main-no-smk-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-no-smk-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.034
+      standard_error: 0.057
+      statistic: "t = −0.59"
+      p_value: "0.5521"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Teacher-knowledge main effect, category 'No SMK, no KOSM'.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A main effect in a model that also carries this term's interactions with the reading and math score and with the pretest item score, so it is the category contrast where those interacting variables sit at their reference coding, which the table prints only as 'Low or high' and 'Incorrect, correct'. Reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "No SMK, no KOSM −0.034 (0.057) −0.59 0.5521"
+    source_location: "Table 3, p. 1037, Teacher: SMK & KOSM by item"
+
+  - id: t3-main-smk-non-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-non-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.122
+      standard_error: 0.049
+      statistic: "t = 2.46"
+      p_value: "0.0141"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Teacher-knowledge main effect, category 'No dist, SMK'.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A main effect in a model that also carries this term's interactions with the reading and math score and with the pretest item score, so it is the category contrast where those interacting variables sit at their reference coding, which the table prints only as 'Low or high' and 'Incorrect, correct'. Reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "No dist, SMK 0.122 (0.049) 2.46 0.0141"
+    source_location: "Table 3, p. 1037, Teacher: SMK & KOSM by item"
+
+  - id: t3-readmath-x-smk-kosm
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-kosm-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.14
+      standard_error: 0.055
+      statistic: "t = 2.54"
+      p_value: "0.0112"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Reading and math score X SMK & KOSM by item', category 'SMK, KOSM': how much the category contrast differs for students with a high reading and math score (term F = 11.58, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "Reading and math score X SMK & KOSM by item 4 11.58 < .0001 SMK, KOSM 0.140 (0.055) 2.54 0.0112"
+    source_location: "Table 3, p. 1037, Interactions: Reading and math score X SMK & KOSM by item"
+
+  - id: t3-readmath-x-smk-only
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-only-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.058
+      standard_error: 0.055
+      statistic: "t = 1.06"
+      p_value: "0.2898"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Reading and math score X SMK & KOSM by item', category 'SMK, no KOSM': how much the category contrast differs for students with a high reading and math score (term F = 11.58, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "SMK, no KOSM 0.058 (0.055) 1.06 0.2898"
+    source_location: "Table 3, p. 1037, Interactions: Reading and math score X SMK & KOSM by item"
+
+  - id: t3-readmath-x-no-smk-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-no-smk-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.061
+      standard_error: 0.062
+      statistic: "t = −0.98"
+      p_value: "0.3276"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Reading and math score X SMK & KOSM by item', category 'No SMK, no KOSM': how much the category contrast differs for students with a high reading and math score (term F = 11.58, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "No SMK, no KOSM −0.061 (0.062) −0.98 0.3276"
+    source_location: "Table 3, p. 1037, Interactions: Reading and math score X SMK & KOSM by item"
+
+  - id: t3-readmath-x-smk-non-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-non-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.185
+      standard_error: 0.054
+      statistic: "t = 3.42"
+      p_value: "0.0006"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Reading and math score X SMK & KOSM by item', category 'No dist, SMK': how much the category contrast differs for students with a high reading and math score (term F = 11.58, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. Read from the page image of Table 3.
+    source_quote: "No dist, SMK 0.185 (0.054) 3.42 0.0006"
+    source_location: "Table 3, p. 1037, Interactions: Reading and math score X SMK & KOSM by item"
+
+  - id: t3-pretest-x-smk-kosm
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-kosm-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.008
+      standard_error: 0.051
+      statistic: "t = 0.16"
+      p_value: "0.8729"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Pretest score by item X SMK&KOSM by item', category 'SMK, KOSM': how much the category contrast differs for students who answered the item correctly on the pretest (term F = 17.52, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. The authors read the pretest interaction as a ceiling effect of the binary item score. Read from the page image of Table 3.
+    source_quote: "Pretest score by item X SMK&KOSM by item 4 17.52 < .0001 SMK, KOSM 0.008 (0.051) 0.16 0.8729"
+    source_location: "Table 3, p. 1037, Interactions: Pretest score by item X SMK&KOSM by item"
+
+  - id: t3-pretest-x-smk-only
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-only-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.185
+      standard_error: 0.051
+      statistic: "t = 3.65"
+      p_value: "0.0003"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Pretest score by item X SMK&KOSM by item', category 'SMK, no KOSM': how much the category contrast differs for students who answered the item correctly on the pretest (term F = 17.52, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. The authors read the pretest interaction as a ceiling effect of the binary item score. Read from the page image of Table 3.
+    source_quote: "SMK, no KOSM 0.185 (0.051) 3.65 0.0003"
+    source_location: "Table 3, p. 1037, Interactions: Pretest score by item X SMK&KOSM by item"
+
+  - id: t3-pretest-x-no-smk-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-no-smk-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.268
+      standard_error: 0.056
+      statistic: "t = 4.75"
+      p_value: "< .0001"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Pretest score by item X SMK&KOSM by item', category 'No SMK, no KOSM': how much the category contrast differs for students who answered the item correctly on the pretest (term F = 17.52, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. The authors read the pretest interaction as a ceiling effect of the binary item score. Read from the page image of Table 3.
+    source_quote: "No SMK, no KOSM 0.268 (0.056) 4.75 < .0001"
+    source_location: "Table 3, p. 1037, Interactions: Pretest score by item X SMK&KOSM by item"
+
+  - id: t3-pretest-x-smk-non-misc
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-smk-non-misc-vs-blank-row
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.09
+      standard_error: 0.05
+      statistic: "t = 1.81"
+      p_value: "0.0700"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Pretest score by item X SMK&KOSM by item', category 'No dist, SMK': how much the category contrast differs for students who answered the item correctly on the pretest (term F = 17.52, 4 DoF, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Interaction coefficient on the log-odds scale; reference category not named in the article. The authors read the pretest interaction as a ceiling effect of the binary item score. Read from the page image of Table 3.
+    source_quote: "No dist, SMK 0.090 (0.050) 1.81 0.0700"
+    source_location: "Table 3, p. 1037, Interactions: Pretest score by item X SMK&KOSM by item"
+
+  - id: t3-readmath-main
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-model-covariates
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.029
+      standard_error: 0.01
+      statistic: "t = 2.76"
+      p_value: "< .0001"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Student main effect 'Reading and math score' (Low or high; F = 90.19, 1 DoF).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A main effect in a model with interactions involving this variable. Read from the page image of Table 3.
+    source_quote: "Reading and math score 1 90.19 < .0001 Low or high 0.029 (0.010) 2.76 < .0001"
+    source_location: "Table 3, p. 1037, Student: Reading and math score"
+
+  - id: t3-pretest-x-readmath
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: t3-model-covariates
+    outcome:
+      construct: "Student posttest item correctness"
+      source_language: "the log odds of a particular student answering an item correctly"
+      measure: "Posttest score (0/1) on each of the 20 common items"
+      scale: "log odds (logistic coefficient)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.374
+      standard_error: 0.024
+      statistic: "t = 15.37"
+      p_value: "< .0001"
+      model: >-
+        Item-level hierarchical logistic regression (Table 3; 210,240 cases, pseudo-R2 0.244) with student controls, item difficulty and the interactions listed in Table 3. Interaction 'Pretest score X reading and math score' (F = 236.34, 1 DoF).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The authors read it as an extra boost for students with a high nonscience level who answered the pretest item correctly. Read from the page image of Table 3.
+    source_quote: "Pretest score X reading and math score 1 236.34 < .0001 0.374 (0.024) 15.37 < .0001"
+    source_location: "Table 3, p. 1037, Interactions; also quoted in the Discussion"
+
 not_yet_extracted:
-  - "Table 3 item-level logistic coefficients and interaction terms: minus signs are rendered as a leading '2' in the text layer (e.g. '20.069 (0.051) 21.37'), so their signs cannot be read cleanly; the interaction pretest score x reading and math score 0.374 (0.024) is quoted cleanly in the Discussion but is not recorded here."
-  - "Figure 2 gain estimates per teacher-knowledge category and nonscience level: printed only in the figure."
-  - "Test-level analysis: 'Our test-level analysis resulted in a similar relationship to teacher knowledge (0.05 to 0.10 SD between teachers low or high in overall measures of knowledge).' Analysis not shown; what the range spans is not stated."
+  - "Table 3 (p. 1037) terms not recorded: intercept, grade level, gender, highest parental education, race, fraction of year, pretest score by item, item difficulty, and item difficulty x pretest score by item (each with F, logistic coefficient, SE, t and p). Readable on the page image; no claim page or simulator figure needs their values."
+  - "Figure 2 gain estimates per teacher-knowledge category and nonscience level: drawn only (points with +-1 SE bars), never printed as numbers; not to be read off the chart."
+  - "Test-level analysis: 'Our test-level analysis resulted in a similar relationship to teacher knowledge (0.05 to 0.10 SD between teachers low or high in overall measures of knowledge).' Checked against the publisher PDF (Discussion, p. 1041): the analysis is 'not shown', and the article does not say what 'low or high' means, which knowledge measure, or what the two ends of the range are, so it is not recorded."
   - "Item-level SD of dichotomous teacher responses: 37.2% (KOSM) and 48.2% (SMK)."
   - "Teacher background variables (years teaching, degrees) not significant when entered with SMK and KOSM (p .05); no estimates printed."

@@ -1,0 +1,174 @@
+# Smith & Karpicke (2014), across Experiments 1-4: the article's own
+# random-effects pooling of its four experiments (Tables 9 and 10, bottom
+# rows), and the scoring reliability it reports "across all four
+# experiments".
+#
+# WHY A SEPARATE FILE: the pooled estimates and the reliability check are
+# reported at the grain of the whole article, not of one experiment's sample,
+# so they live here rather than being copied into smith-2014-exp1 to -exp4,
+# which hold each experiment's own figures. The learning-graph simulator uses
+# the pooled short-answer minus multiple-choice d (0.07).
+#
+# `family: meta-analysis` because the source pools its own experiments with
+# "a random effects meta-analysis model"; it is not a literature synthesis,
+# and there was no search. `k` counts the article's experiments, recorded as
+# `studies`.
+#
+# Reliability: one scorer scored every short-answer response; 20% of the data
+# were scored a second time and "the correlation between the two scores was
+# .94". It is a correlation between two scorings, so `statistic: other` with
+# the source's wording in `form`; the article does not say whether the second
+# scoring was by another person.
+#
+# `population.age: unreported`: no experiment prints an age figure.
+#
+# Quotes are in the article's own characters; the text layer writes the minus
+# sign as U+0005 and "=" as U+0002 (see smith-2014-exp1). Published online
+# 2013, issue 2014.
+#
+# CHECKED AGAINST PAGE IMAGES (2026-11-26): the publisher PDF (Taylor & Francis
+# download with its cover page, the same file the text layer was made from) was
+# viewed page by page. Every source_quote in this file and every recorded number
+# was compared with the printed page and matches it; the glyph-code rewriting
+# (U+0002 "=", U+0005 "−", "g2p ¼ :" "η²p = .", "F B1" "F < 1") gives the
+# page's own characters. The exceptions to "every quote is a substring of the
+# text file" are the table-row quotes (Tables 1, 3, 6 and 7), whose
+# source_location or observability_notes say "page image": they are rows
+# quoted from the printed page, because the text layer emits those tables
+# column by column.
+
+schema_version: 2
+
+study:
+  key: smith-2014-overall
+  citation: "Smith, M. A., & Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. Memory, 22(7), 784–802. (Published online 2013.) Analysis across Experiments 1-4."
+  doi: "10.1080/09658211.2013.831454"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      The authors' pooling of their own four laboratory experiments (N = 372
+      Purdue undergraduates in all): d for each independent comparison,
+      collapsed over the within-subject variables (question type in
+      Experiments 1-3, final-test format in Experiment 4), combined with
+      weighted effect sizes in a random-effects model. Experiment 3 used
+      restudy instead of correct-answer feedback; the other three gave a
+      feedback sentence after each question.
+  synthesis:
+    model: "Random-effects meta-analysis model with weighted effect sizes (citing Cumming, 2012)"
+    inclusion:
+      - "The four experiments reported in the article; Table 9 (against the no-retrieval control) has no Experiment 3, which had no control arm"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: studies
+  size:
+    value: 4
+    unit: studies
+  additional_sizes:
+    - value: 372
+      unit: participants
+      note: "subjects across the four experiments (80, 100, 48 and 144)"
+  population:
+    description: "Purdue University undergraduates; Experiments 1-3 state that all were native speakers of English."
+    age_or_stage: "Undergraduates; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Laboratory; practice session and final test 1 week apart in every experiment."
+  arms:
+    - id: multiple-choice
+      description: "Multiple-choice retrieval practice, across Experiments 1-4."
+    - id: short-answer
+      description: "Short-answer retrieval practice, across Experiments 1-4."
+
+comparisons:
+  - id: sa-vs-mc
+    kind: between-groups
+    index_arm: short-answer
+    reference_arm: multiple-choice
+    description: "Short-answer against multiple-choice retrieval practice, pooled over the four experiments."
+  - id: scoring-check
+    kind: none
+    description: "Agreement between two scorings of the same short-answer responses; no contrast between conditions."
+
+observations:
+
+  - id: d-sa-vs-mc-pooled
+    comparison_ref: sa-vs-mc
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "Effect size d for the retrieval practice conditions compared to one another"
+      measure: "Final test 1 week after practice (short-answer in Experiments 1-3; short-answer and multiple-choice in Experiment 4), collapsed over within-subject variables"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.07
+      ci_lower: -0.24
+      ci_upper: 0.38
+      interval_type: confidence
+      k: {value: 4, unit: studies}
+      model: "random-effects"
+      interpretation: "Close to zero; the authors: 'the overall effect sizes between retrieval formats were all very close to zero'."
+      note: "Per-experiment estimates in smith-2014-exp1 to -exp4: −0.37, 0.08, −0.07, 0.40. No heterogeneity statistic is printed."
+    moderators:
+      reported: []
+      candidate:
+        - "Initial retrieval success: the authors argue that format differences emerge only when initial short-answer success approaches multiple-choice success with direct feedback (Experiment 4); this is their interpretation across experiments, not a tested moderator."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "0.07 [−0.24, 0.38]"
+    source_location: "Table 10 (p. 798), column SA − MC, row Overall"
+
+  - id: scoring-reliability
+    comparison_ref: scoring-check
+    outcome:
+      construct: "Scoring reliability of short-answer responses"
+      source_language: "As a reliability check, 20% of the data were scored a second time"
+      measure: "Hand scoring (1 / 0.5 / 0) of short-answer responses, scorer blind to subject and condition; 20% of the data rescored"
+      scale: "correlation between the two scorings"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during scoring"
+    result:
+      measure_type: reliability
+      estimate: 0.94
+      reliability:
+        statistic: other
+        over: raters
+        form: "correlation between the two scores of the same responses (20% of the data, across all four experiments)"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      `over: raters` is the nearest facet: the same responses scored twice.
+      The source says "a single rater completed all scoring" and does not say
+      who did the second scoring, nor which correlation coefficient. No
+      reliability of the tests themselves is reported.
+    source_quote: "A single rater completed all scoring. As a reliability check, 20% of the data were scored a second time (across all four experiments). The correlation between the two scores was .94."
+    source_location: "Experiment 1, Method, Scoring (p. 789)"
+
+not_yet_extracted:
+  - "Table 9 overall row (d against no-retrieval control, Experiments 1, 2 and 4): multiple-choice 1.24 [0.68, 1.79], short-answer 1.31 [0.95, 1.66], hybrid-massed 1.22 [0.87, 1.58], hybrid-spaced 1.27 [0.77, 1.76]; confirmed on the page image."
+  - "Table 10 (p. 798) overall row for the hybrid contrasts, from the page image: Hybrid-M − SA −0.02 [−0.59, 0.56], Hybrid-S − SA 0.02 [−0.56, 0.59], Hybrid-M − MC 0.03 [−0.63, 0.68], Hybrid-S − MC −0.09 [−0.45, 0.36]."

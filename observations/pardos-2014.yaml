@@ -1,0 +1,367 @@
+# Pardos, Baker, San Pedro, Gowda & Gowda (2014): detector-estimated affect and
+# behaviour across a school year in ASSISTments, and end-of-year state test
+# scores.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * Gaming the system against raw MCAS mathematics score: four Pearson
+#     correlations (original and scaffold items, 2004-2005 and 2005-2006). The
+#     two school-year cohorts are arms named by `arm_ref`; each correlation is a
+#     result about one cohort, not a contrast between two. Estimates are Table
+#     4's printed values (five decimals); the text rounds them to two.
+#   * `measure_type: reliability` three times: the two field observers'
+#     agreement on affect (kappa 0.72) and on behaviour (kappa 0.86), and the
+#     gaming detector's cross-validated kappa against those observers' labels
+#     (0.370). The detector kappa is agreement between a model and human
+#     coders, recorded as `over: other`.
+#   * `population.age: unreported`. The article says the students came from
+#     middle schools and prints no age or grade distribution. The tutor's
+#     problem set sampled "8th grade math test prep questions"; that describes
+#     the items, not the students, so no grade is inferred.
+#
+# Two inconsistencies in the source, recorded as printed and not resolved:
+#   * The text gives the gaming detector an F-measure of 0.687; Table 2 prints
+#     0.750. F-measure is not recorded as an observation.
+#   * The text gives the 2004-2005 scaffold gaming correlation t(624) = -11.92
+#     and the 2005-2006 one t(760) = -8.71, the same t values it gives for the
+#     original-item correlations of -0.43 and -0.30. Those t values are kept
+#     only in notes, flagged.
+#
+# The analysed n per correlation is not printed. The cohorts are 629 and 764
+# students; the t statistics carry df 624 and 760. No n is deduced from the df.
+#
+# Read from the ERIC copy (pdftotext text layer). The text layer prints minus
+# signs as U+2010 hyphens ("‐0.43083"); the quotes give them as minus signs and
+# hyphens, as the article prints them. DOI
+# checked against Crossref (title, five authors, 2014, JLA 1(1), 107-128); the
+# ERIC copy itself prints no DOI.
+
+schema_version: 2
+
+study:
+  key: pardos-2014
+  citation: "Pardos, Z. A., Baker, R. S. J. d., San Pedro, M. O. C. Z., Gowda, S. M., & Gowda, S. M. (2014). Affective states and state tests: Investigating how affect and engagement during the school year predict end-of-year learning outcomes. Journal of Learning Analytics, 1(1), 107–128."
+  doi: "10.18608/jla.2014.11.6"
+  design:
+    family: observational
+    design_detail: >-
+      Correlational analysis of log data. Affect (boredom, engaged
+      concentration, confusion, frustration) and behaviour (off-task, gaming)
+      detectors were built from synchronised field observations of 229
+      students in 2010 (student-level 5-fold cross-validation), then applied to
+      every action in two full school years of ASSISTments logs (2004-2005 and
+      2005-2006, 1,393 students, about 810,000 actions). Each student's
+      estimates were averaged per skill and then across skills, separately for
+      original and scaffolding questions, and correlated (Pearson) with the raw
+      end-of-year MCAS mathematics score. A separate prediction analysis used
+      linear regression.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: longitudinal-fine-grained-affect-outcome-correspondence
+    bearing: supports
+    anchor: pardos-2014
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1393
+    unit: participants
+  additional_sizes:
+    - value: 629
+      unit: participants
+      note: "students using the software in 2004-2005"
+    - value: 764
+      unit: participants
+      note: "students using the software in 2005-2006"
+    - value: 229
+      unit: participants
+      note: "students in the separate 2010 field-observation data set used to build the detectors, one urban middle school"
+    - value: 3075
+      unit: other
+      note: "field observation codes in the detector-development data set"
+  population:
+    description: >-
+      Students in middle schools in one city in central Massachusetts
+      (Worcester), described as diverse racially and socio-economically. The
+      detector-development school was 40% Hispanic, 14% African-American, 4%
+      Asian-American and 39% Caucasian, with per capita income significantly
+      below the state average.
+    age_or_stage: "Middle-school students; the article prints no age or grade figures."
+    age: unreported
+  context:
+    setting: "ASSISTments web-based mathematics tutor, used in classroom computer lab sessions for state-test preparation, two hours twice a week for the school year; the most popular problem set randomly sampled 8th grade test-prep questions"
+  arms:
+    - id: cohort-2004-2005
+      description: "Students who used ASSISTments in the 2004-2005 school year."
+      size:
+        value: 629
+        unit: participants
+    - id: cohort-2005-2006
+      description: "Students who used ASSISTments in the 2005-2006 school year."
+      size:
+        value: 764
+        unit: participants
+
+comparisons:
+  - id: observer-agreement
+    kind: none
+    description: "Agreement between the two expert field observers coding the same student at the same time, 51 coding instances, before separate coding began."
+  - id: detector-validation
+    kind: none
+    description: "The gaming detector's predictions against field observers' labels, student-level 5-fold cross-validation on the 2010 observation data."
+
+observations:
+
+  - id: gaming-mcas-original-2004-2005
+    arm_ref: cohort-2004-2005
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "raw state-test score"
+      measure: "MCAS mathematics, raw score (0-54), end of school year"
+      scale: "Pearson correlation with detector-estimated gaming on original questions"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming estimated across the school year; MCAS taken near the end of the year"
+    result:
+      measure_type: correlation
+      estimate: -0.43083
+      statistic: "t(624) = -11.92 (text)"
+      p_value: "< 0.01, two-tailed"
+      note: "Text rounds the estimate to r = -0.43."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The analysed n is not printed; the df (624) and the cohort size (629)
+      differ, and no n is deduced. Gaming is a detector estimate, not an
+      observed behaviour count.
+    source_quote: "Gaming −0.43083 −0.30125 −0.32933 −0.24688"
+    source_location: "Table 4 (columns: original '04-'05, original '05-'06, scaffold '04-'05, scaffold '05-'06); Section 2.2.2"
+
+  - id: gaming-mcas-original-2005-2006
+    arm_ref: cohort-2005-2006
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "raw state-test score"
+      measure: "MCAS mathematics, raw score (0-54), end of school year"
+      scale: "Pearson correlation with detector-estimated gaming on original questions"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming estimated across the school year; MCAS taken near the end of the year"
+    result:
+      measure_type: correlation
+      estimate: -0.30125
+      statistic: "t(760) = -8.71 (text)"
+      p_value: "< 0.01, two-tailed"
+      note: "Text rounds the estimate to r = -0.30."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The analysed n is not printed; the df is 760 and the cohort 764 students."
+    source_quote: "Gaming −0.43083 −0.30125 −0.32933 −0.24688"
+    source_location: "Table 4; Section 2.2.2"
+
+  - id: gaming-mcas-scaffold-2004-2005
+    arm_ref: cohort-2004-2005
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "raw state-test score"
+      measure: "MCAS mathematics, raw score (0-54), end of school year"
+      scale: "Pearson correlation with detector-estimated gaming on scaffolding questions"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming estimated across the school year; MCAS taken near the end of the year"
+    result:
+      measure_type: correlation
+      estimate: -0.32933
+      p_value: "< 0.01, two-tailed"
+      note: >-
+        Text rounds the estimate to r = -0.33 and prints t(624) = -11.92, the
+        same t it gives for the original-item correlation of -0.43; that t is
+        not recorded as a statistic for this result.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The analysed n is not printed."
+    source_quote: "Gaming −0.43083 −0.30125 −0.32933 −0.24688"
+    source_location: "Table 4; Section 2.2.2"
+
+  - id: gaming-mcas-scaffold-2005-2006
+    arm_ref: cohort-2005-2006
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "raw state-test score"
+      measure: "MCAS mathematics, raw score (0-54), end of school year"
+      scale: "Pearson correlation with detector-estimated gaming on scaffolding questions"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming estimated across the school year; MCAS taken near the end of the year"
+    result:
+      measure_type: correlation
+      estimate: -0.24688
+      p_value: "< 0.01, two-tailed"
+      note: >-
+        Text rounds the estimate to r = -0.25 and prints t(760) = -8.71, the
+        same t it gives for the original-item correlation of -0.30; that t is
+        not recorded as a statistic for this result.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The analysed n is not printed."
+    source_quote: "Gaming −0.43083 −0.30125 −0.32933 −0.24688"
+    source_location: "Table 4; Section 2.2.2"
+
+  - id: observer-agreement-affect
+    sample:
+      value: 51
+      unit: other
+    comparison_ref: observer-agreement
+    outcome:
+      construct: "Inter-rater agreement, affect"
+      source_language: "inter-rater reliability"
+      measure: "Two expert field observers coding boredom, frustration, engaged concentration and confusion with the Baker et al. (2010) protocol, on the same student at the same time"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "inter-rater session at the beginning of the 2010 data collection"
+    result:
+      measure_type: reliability
+      estimate: 0.72
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "two field observers, 51 coding instances across multiple students"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A reliability coefficient, not an effect; the source reports none for this outcome."
+    source_quote: "With reference to the categories of affect studied in this paper, inter-rater reliability achieved Cohen’s Kappa of 0.72, indicating agreement 72% better than chance."
+    source_location: "Section 2.1.2, Affect and Behaviour Observations"
+
+  - id: observer-agreement-behaviour
+    sample:
+      value: 51
+      unit: other
+    comparison_ref: observer-agreement
+    outcome:
+      construct: "Inter-rater agreement, behaviour"
+      source_language: "inter-rater reliability"
+      measure: "Two expert field observers coding off-task behaviour and gaming with the Baker (2007) and Baker et al. (2010) definitions, on the same student at the same time"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "inter-rater session at the beginning of the 2010 data collection"
+    result:
+      measure_type: reliability
+      estimate: 0.86
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "two field observers, 51 coding instances across multiple students"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The text layer breaks "inter-rater" across a line before this quote, so
+      the quote starts mid-sentence at "rater"; the sentence opens "For
+      categories of behaviour, inter-rater reliability achieved".
+    source_quote: "rater reliability achieved Cohen’s Kappa of 0.86, agreement 86% better than chance."
+    source_location: "Section 2.1.2, Affect and Behaviour Observations"
+
+  - id: gaming-detector-kappa
+    comparison_ref: detector-validation
+    outcome:
+      construct: "Gaming detector agreement with human coders"
+      source_language: "detector goodness"
+      measure: "K* gaming detector's clip-level predictions against field-observation labels (gaming vs not gaming), 20-second clips"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "detector development, 2010 observation data"
+    result:
+      measure_type: reliability
+      estimate: 0.370
+      reliability:
+        statistic: cohens_kappa
+        over: other
+        form: "detector against human field-observer labels, student-level 5-fold cross-validation, validated on data that was not re-sampled"
+      note: >-
+        The same detector's A' (area under the ROC curve) is 0.802. F-measure
+        is printed as 0.750 in Table 2 and 0.687 in the text. Gaming was
+        observed in 1.5% of field observations.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Agreement between a model and human labels, not between two people; recorded under reliability with over: other."
+    source_quote: "Gaming K* 0.802 0.370 0.750"
+    source_location: "Table 2, Performances of affect and behaviour models; Section 2.1.4"
+
+not_yet_extracted:
+  - "Correlations of boredom, engaged concentration, confusion, frustration and off-task behaviour with raw MCAS score (Table 4)."
+  - "Detector goodness for the other five detectors (Table 2)."
+  - "Prediction results (Table 8): mean absolute error and Pearson correlation for affect/behaviour, performance, combined and baseline feature sets."
+  - "Table 9 stepwise regression: gaming on originals (coefficient -8.27) was the first feature added and was removed in the last step, so it is not in the final model."
+  - "Affect and behaviour frequencies in the field observations (boredom 21.7%, frustration 5.4%, engaged concentration 65.0%, confusion 7.9%, off-task 21.9%, gaming 1.5%)."

@@ -1,0 +1,434 @@
+# Sisk, Burgoyne, Sun, Butler & Macnamara (2018), Meta-Analysis 2: the effect
+# of growth-mind-set interventions on academic achievement.
+#
+# The article reports two meta-analyses with different corpora; this is the
+# second (29 studies, 38 independent samples, 43 effect sizes, N = 57,155).
+# `sisk-2018-ma1` is the correlational meta-analysis.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled standardised mean difference over all 43 effect sizes, against
+#     a HETEROGENEOUS comparator: active (placebo) controls in 26 effect sizes,
+#     passive controls in 11 and fixed-mind-set conditions in 6 (Table 2). The
+#     paper reports one estimate, so it is one observation with three reference
+#     arms.
+#   * Three subgroup estimates, each as its own pair of arms (the shape
+#     `ginns-2006` uses): the high-risk group in the model where full-sample
+#     effects were replaced by at-risk subsamples (k = 8), low-SES samples
+#     (k = 7), and studies that included a manipulation check (k = 28).
+#   * `k` counts EFFECT SIZES. The article prints the pooled mean as d with an
+#     overbar (a mean d); the text layer drops the bar.
+#   * `population.age: unreported`. Developmental stage is coded (children 2,
+#     adolescents 27, adults 13 effect sizes); no age figure is printed.
+#   * No reliability observation. The article prints no reliability for its own
+#     coding or for any outcome measure. The intraclass correlation of .10 used
+#     to adjust cluster-assigned studies is a "typical" value cited from Hox
+#     (1998), not this study's figure.
+#
+# Read from the publisher PDF's text layer (pdftotext), checked against the page
+# image of p. 565. One quote (high-risk subgroup) gives the article's
+# "growth-mind-set", which the page breaks across a line and the text layer
+# joins as "growth-mindset".
+
+schema_version: 2
+
+study:
+  key: sisk-2018-ma2
+  citation: "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science, 29(4), 549–571."
+  doi: "10.1177/0956797617739704"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-Analysis 2 of two in one article: random-effects meta-analysis of
+      standardised mean differences (Cohen's d) in academic achievement between
+      students who received a growth-mind-set intervention and a control group
+      (active, passive or fixed-mind-set condition), mostly on post-treatment
+      scores. Mixed-effects moderator analyses (student, control and
+      intervention, and achievement-measure factors) and publication-bias
+      analyses. Moderator subgroups with fewer than five effect sizes were not
+      analysed.
+  synthesis:
+    model: "Random-effects meta-analysis, effect sizes weighted by inverse variance; mixed-effects models for moderators (Comprehensive Meta-Analysis Version 2)"
+    heterogeneity_statistic: "I2"
+    reporting_guideline: "PRISMA"
+    search:
+      databases:
+        - ERIC
+        - PsycINFO
+        - PubMed
+        - ProQuest Dissertations & Theses
+        - Google Scholar
+      date_range: "through October 28, 2016; new data accepted through January 11, 2017"
+      records_screened: 15858
+      records_included: 27
+    inclusion:
+      - "A growth-mind-set intervention, whose primary goal was to increase students' belief that an attribute can improve with effort, administered directly to students"
+      - "A control group (active, passive or fixed-mind-set condition)"
+      - "A measure of academic achievement (course exam, course grade, GPA or standardised test)"
+      - "An effect size for the post-intervention difference between intervention and control, or enough information to compute it"
+      - "Methods and results in English"
+    exclusion:
+      - "Combined interventions in which another intervention followed the mind-set intervention before achievement was measured"
+      - "Two effect sizes (d = -0.87 and -0.65) from Mendoza-Denton, Kahn and Chan (2008), designed to reverse a growth-mind-set effect under stereotype lift"
+    data_handling:
+      - "Standardised mean difference of post-treatment scores, except where a study reported a significant pretest difference; only a third of studies allowed gain-score differences"
+      - "Dependent effect sizes adjusted after Cheung and Chan (2004, 2008)"
+      - "For 8 studies assigned at classroom or school level, variance increased by Kish's design effect using a typical school-level intraclass correlation of .10 cited from Hox (1998)"
+      - "Two outliers (d = -0.9554 and 1.5053) Winsorized to z = 2.99 (d = -0.9050 and 1.0960)"
+      - "Where a study had several post-intervention achievement measures, the longest interval within the same academic term was used"
+      - "Where several control groups were used, the active control was preferred, then the passive control over a fixed-mind-set condition"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: mindset-intervention-effects-weak-subgroup-benefit
+    bearing: supports
+    anchor: victoria-f-sisk-2018
+  - claim: growth-mindset-improves-achievement
+    bearing: supports
+    anchor: sisk-et-al-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 43
+    unit: effect-sizes
+  additional_sizes:
+    - value: 27
+      unit: reports
+      note: "records included (Fig. 1)"
+    - value: 29
+      unit: studies
+      note: "studies meeting all inclusion criteria"
+    - value: 38
+      unit: other
+      note: "independent samples within the 29 studies"
+    - value: 57155
+      unit: participants
+      note: "total sample size of students across the 43 effect sizes"
+  population:
+    description: >-
+      Students receiving growth-mind-set interventions in primary, secondary
+      and postsecondary education. Academic risk status by effect size: low 17,
+      moderate 18, high 5. Student-level SES reported for 15 effect sizes: low
+      7, not low 8.
+    age_or_stage: >-
+      Coded as developmental stage: children (primary school) 2 effect sizes,
+      adolescents (middle, junior high and high school) 27, adults (e.g.,
+      postsecondary) 13; sample age information unavailable for one. The
+      article prints no age range or mean.
+    age: unreported
+  context:
+    setting: "Interventions delivered outside regular classroom activities (38 effect sizes) or integrated into them (5); achievement measured as course exam, course grade, GPA or standardised test, 12 of them standardised tests given by researchers in a laboratory setting"
+  variation:
+    - dimension: "Control group (Table 2)"
+      distribution: "active 26 effect sizes (N = 11,365), passive 11 (N = 45,267), fixed-mind-set condition 6 (N = 523)"
+    - dimension: "Intervention type (Table 2)"
+      distribution: "passive 13, feedback 1, interactive 29"
+    - dimension: "Mode of intervention (Table 2)"
+      distribution: "computerized training 16, reading material 8, in-person training 14, other 2, both computerized and in-person 5"
+    - dimension: "Intervention-achievement measure interval (Table 2)"
+      distribution: "immediate (same session) 5, short (within 4 months) 32, long (over 4 months) 4; two excluded as ambiguous"
+    - dimension: "Manipulation check (Table 2)"
+      distribution: "not included 15, included 28 (significant increase in mind-set after intervention: no 13, yes 15)"
+    - dimension: "Number of intervention sessions"
+      distribution: "ranged from 1 to 10"
+  arms:
+    - id: growth-mindset-intervention
+      description: "Students who received a growth-mind-set intervention (reading materials, computerized training, in-person training or a combination), across all 43 effect sizes."
+      size:
+        value: 43
+        unit: effect-sizes
+    - id: active-control
+      description: "Active (placebo) control: similar activities and contact without the content of a hypothesized effective treatment."
+      size:
+        value: 26
+        unit: effect-sizes
+    - id: passive-control
+      description: "Passive control, e.g. no-contact control."
+      size:
+        value: 11
+        unit: effect-sizes
+    - id: fixed-mindset-condition
+      description: "Comparison group given a fixed-mind-set intervention."
+      size:
+        value: 6
+        unit: effect-sizes
+    - id: intervention-high-risk
+      description: "Growth-mind-set intervention in samples coded high academic risk (at risk of failing), in the model where the full-sample effects of two studies were replaced by their high-risk subsamples."
+      size:
+        value: 8
+        unit: effect-sizes
+    - id: control-high-risk
+      description: "Control conditions (active, passive or fixed-mind-set) in the same high-risk effect sizes."
+    - id: intervention-low-ses
+      description: "Growth-mind-set intervention in samples whose majority were low-SES (e.g., qualified for reduced-price lunch)."
+      size:
+        value: 7
+        unit: effect-sizes
+    - id: control-low-ses
+      description: "Control conditions (active, passive or fixed-mind-set) in the same low-SES effect sizes."
+    - id: intervention-manipulation-checked
+      description: "Growth-mind-set intervention in studies that measured mind-set before and after the intervention (a manipulation check)."
+      size:
+        value: 28
+        unit: effect-sizes
+    - id: control-manipulation-checked
+      description: "Control conditions (active, passive or fixed-mind-set) in the same studies with a manipulation check."
+
+comparisons:
+  - id: intervention-vs-heterogeneous-control
+    kind: between-groups
+    index_arm: growth-mindset-intervention
+    reference_arm:
+      - active-control
+      - passive-control
+      - fixed-mindset-condition
+    description: "Growth-mind-set intervention against each study's control group, pooled over all 43 effect sizes."
+  - id: intervention-vs-control-high-risk
+    kind: between-groups
+    index_arm: intervention-high-risk
+    reference_arm: control-high-risk
+    description: "Growth-mind-set intervention against control in the high-risk stratum, at-risk subsamples substituted."
+  - id: intervention-vs-control-low-ses
+    kind: between-groups
+    index_arm: intervention-low-ses
+    reference_arm: control-low-ses
+    description: "Growth-mind-set intervention against control in low-SES samples."
+  - id: intervention-vs-control-manipulation-checked
+    kind: between-groups
+    index_arm: intervention-manipulation-checked
+    reference_arm: control-manipulation-checked
+    description: "Growth-mind-set intervention against control in studies that included a manipulation check."
+
+observations:
+
+  - id: intervention-achievement-overall
+    sample:
+      value: 43
+      unit: effect-sizes
+    comparison_ref: intervention-vs-heterogeneous-control
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "standardised mean difference (Cohen's d), intervention minus control"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the intervention; the longest interval available within the same academic term"
+    result:
+      measure_type: cohens_d
+      estimate: 0.08
+      ci_lower: 0.02
+      ci_upper: 0.14
+      interval_type: confidence
+      p_value: ".010"
+      k:
+        value: 43
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 43.15
+        unit: percent
+        interpretation: "tau2 = .010; described as a medium amount of heterogeneity"
+      publication_bias:
+        method: "Published vs unpublished moderator analysis, p-curve, Egger's regression"
+        finding: "Unpublished (d = 0.05) and published (d = 0.11) did not differ, Q(1) = 1.02, p = .313; p-curve inconclusive (four significant results, simulated power 18.2%); funnel plot approximately symmetrical, Egger B0 = 0.38, 95% CI [-0.20, 0.97], t(41) = 1.33, p = .192"
+      model: "random-effects"
+      interpretation: "Described by the authors as a very small overall effect"
+      note: >-
+        37 of 43 effect sizes (86%) did not differ from zero, one was
+        significantly negative and 5 (12%) significantly positive. With the
+        original outlying effects in place of the Winsorized ones, d = 0.08,
+        95% CI [0.02, 0.15], p = .010. Excluding 12 laboratory-administered
+        standardised tests, d = 0.06, 95% CI [0.01, 0.11], p = .012.
+    moderators:
+      reported:
+        - variable: "Academic risk status"
+          relationship: "Not significant: low risk d = 0.06, moderate d = 0.08, high d = 0.17 (none significant); with at-risk subsamples substituted still not significant, Q(2) = 2.18"
+          source_quote: "Academic at-risk status was not a significant moderator, Q(2) = 0.67, p = .715."
+        - variable: "Socioeconomic status"
+          relationship: "Significant: low SES d = 0.34, middle and upper class d = 0.03 (not significant)"
+          source_quote: "SES was a significant moderator, Q(1) = 4.76, p = .029."
+        - variable: "Developmental stage"
+          relationship: "Not significant: adolescents d = 0.08, adults d = 0.08, neither significant; children (2 effect sizes) not analysed"
+          source_quote: "The developmental stage of the students was not a significant moderator, Q(1) < 0.01, p = .999."
+        - variable: "Mode of intervention"
+          relationship: "Significant: reading materials d = 0.20, computer programs d = 0.03, in person d = 0.06, combination d = 0.27; reading materials exceeded computer programs"
+          source_quote: "Mode of intervention was a significant moderator, Q(3) = 9.33, p = .025."
+        - variable: "Manipulation check"
+          relationship: "Borderline: no manipulation check d = 0.18, manipulation check d = 0.04"
+          source_quote: "The difference between these two groups of studies was borderline significant, Q(1) = 3.95, p = .047."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Timing is coded into three bands (immediate, within 4 months, over 4
+      months) rather than given per study. Intervention dose ranged from 1 to
+      10 sessions; intervention length was not a significant moderator,
+      b = -0.005, Q(1) = 0.12, p = .734.
+    source_quote: "The meta-analytic average standardized mean difference (i.e., the average of various population effects) in academic achievement between students receiving a growth-mind-set intervention and students in control groups is d = 0.08, 95% CI = [0.02, 0.14], p = .010."
+    source_location: "Meta-Analysis 2, Results (p. 565)"
+
+  - id: intervention-achievement-high-risk
+    sample:
+      value: 8
+      unit: effect-sizes
+    comparison_ref: intervention-vs-control-high-risk
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "standardised mean difference (Cohen's d), intervention minus control"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the intervention; the longest interval available within the same academic term"
+    result:
+      measure_type: cohens_d
+      estimate: 0.19
+      ci_lower: 0.02
+      ci_upper: 0.36
+      interval_type: confidence
+      p_value: ".031"
+      k:
+        value: 8
+        unit: effect-sizes
+      model: "mixed-effects moderator model, full-sample effects of two studies (3 effect sizes) replaced by high-risk subsamples"
+      interpretation: "Described by the authors as borderline significant"
+      note: >-
+        In the model without the substitution, high-risk students gave
+        d = 0.17, 95% CI [-0.11, 0.45], p = .231. With the substitution,
+        low-risk d = 0.05, 95% CI [-0.02, 0.12], and moderate-risk d = 0.09,
+        95% CI [-0.04, 0.23], neither significant.
+    moderators:
+      reported:
+        - variable: "Academic risk status"
+          relationship: "Still not a significant moderator after the substitution; high-risk students did not differ significantly from the others"
+          source_quote: "When replacing these three effect sizes and variances of the full samples (where the majority were not high risk) with these subsamples, the moderator remains nonsignificant, Q(2) = 2.18, p = .335."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "However, the high-risk group (8 effect sizes) then demonstrated a borderline significant effect of growth-mind-set intervention, d = 0.19, 95% CI = [0.02, 0.36], p = .031."
+    source_location: "Meta-Analysis 2, Results, Student factors (p. 565); the page prints 'growth-mind-set', broken across a line"
+
+  - id: intervention-achievement-low-ses
+    sample:
+      value: 7
+      unit: effect-sizes
+    comparison_ref: intervention-vs-control-low-ses
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "standardised mean difference (Cohen's d), intervention minus control"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the intervention; the longest interval available within the same academic term"
+    result:
+      measure_type: cohens_d
+      estimate: 0.34
+      ci_lower: 0.07
+      ci_upper: 0.62
+      interval_type: confidence
+      p_value: ".013"
+      k:
+        value: 7
+        unit: effect-sizes
+      model: "mixed-effects moderator model"
+      note: >-
+        Middle- and upper-class students: d = 0.03, 95% CI [-0.06, 0.11],
+        p = .538. Student-level SES was not reported for 28 effect sizes. Table
+        2 gives N = 577 for the low-SES effect sizes. The authors caution that
+        few effect sizes and relatively small samples contributed.
+    moderators:
+      reported:
+        - variable: "Socioeconomic status"
+          relationship: "Low-SES samples benefited where middle- and upper-class samples did not"
+          source_quote: "SES was a significant moderator, Q(1) = 4.76, p = .029."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "However, for those from low-SES households (7 effect sizes), academic achievement was significantly higher for students who received growth-mind-set interventions relative to controls, d = 0.34, 95% CI = [0.07, 0.62], p = .013."
+    source_location: "Meta-Analysis 2, Results, Student factors (p. 565); Table 2"
+
+  - id: intervention-achievement-manipulation-checked
+    sample:
+      value: 28
+      unit: effect-sizes
+    comparison_ref: intervention-vs-control-manipulation-checked
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "standardised mean difference (Cohen's d), intervention minus control"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the intervention; the longest interval available within the same academic term"
+    result:
+      measure_type: cohens_d
+      estimate: 0.04
+      ci_lower: -0.03
+      ci_upper: 0.10
+      interval_type: confidence
+      p_value: ".249"
+      k:
+        value: 28
+        unit: effect-sizes
+      model: "mixed-effects moderator model"
+      note: >-
+        Studies without a manipulation check (15 effect sizes): d = 0.18, 95% CI
+        [0.05, 0.31], p = .005. Of the 28 with a check, almost half (46%) found
+        no significant change in mind-set; where the check failed d = 0.05,
+        95% CI [0.001, 0.09], p = .044, and where it succeeded d = 0.02, 95% CI
+        [-0.11, 0.15], p = .771.
+    moderators:
+      reported:
+        - variable: "Inclusion of a manipulation check"
+          relationship: "Effect smaller in studies with a manipulation check than in studies without one"
+          source_quote: "The difference between these two groups of studies was borderline significant, Q(1) = 3.95, p = .047."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Interestingly, the effect of a growth-mind-set intervention was significant when no manipulation check was administered, d = 0.18, 95% CI = [0.05, 0.31], p = .005, but not significant for studies that employed a manipulation check, d = 0.04, 95% CI = [−0.03, 0.10], p = .249."
+    source_location: "Meta-Analysis 2, Results, Control and intervention-related factors (pp. 566–567)"
+
+not_yet_extracted:
+  - "Typical school-level intraclass correlation of .10 used in the design-effect adjustment, cited from Hox (1998), not measured in this study."
+  - "Control-group type (Q(2) = 2.96, p = .228): fixed-mind-set d = 0.27, passive d = 0.02, active d = 0.08, 95% CI [0.01, 0.16]."
+  - "Intervention type (Q(1) = 0.58): passive d = 0.02, interactive d = 0.09, 95% CI [0.02, 0.16]."
+  - "Intervention context (Q(1) = 2.52): integrated into classroom d = -0.14, outside d = 0.09."
+  - "Interval: same session d = 0.35, within 4 months d = 0.05; with long-interval substitutions, long-term d = 0.19, 95% CI [-0.02, 0.39], Q(2) = 3.92."
+  - "Achievement measure: GPA d = 0.07, standardised test d = 0.09, Q(1) = 0.03."

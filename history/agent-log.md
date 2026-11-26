@@ -5,6 +5,41 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation records batch 5, and the tables batch 4 left out
+
+The batch adds 20 files and 216 observations, covering 13 sources:
+- Adesope et al. (2017), Pan & Rickard (2018), Sisk et al. (2018, both meta-analyses), Ginns (2006), Korpershoek et
+  al. (2020), Fang et al. (2018), Gerwig et al. (2021), Kim (2005) and Pardos et al. (2014).
+- Rohrer & Taylor (2007), two experiments, and Kang & Pashler (2012), two experiments.
+- Smith & Karpicke (2014), four experiments and the pooled estimate.
+- Conway et al. (1991).
+
+Batch 4 had left three tables out because their text layers were unreadable. All three were read from page images and
+added: Sadler et al.'s Table 3, Goetz et al.'s Tables 2, 5 and 6, and Steinberg & Sabella's Table I. Copies came from the
+maintainer's Drive folder, the University of Konstanz repository (Goetz) and ERIC (Kim). An open copy is now searched for
+before a source is reported as blocked.
+
+Every quote was checked against its text layer, or against the page image where the text layer was unreadable; each
+file's header says which. Figures that are only drawn in a chart, with no printed number, were not recorded:
+Conway's per-interval values and Steinberg & Sabella's Figures 4 and 6.
+
+Brunmair & Richter (2019) still has no record. OpenAlex, Unpaywall, Semantic Scholar and Europe PMC list it as closed,
+and its OSF project holds only the coded data. Estimates computed from that data would be ours, not the paper's.
+
+Findings for the simulator to check:
+- Pan & Rickard: the author manuscript prints N = 10,396 and an application/inference d of .33. The simulator has
+  10,382 and .32, probably from the version of record. The record follows the manuscript.
+- Steinberg & Sabella: the +11, +14, −7 and −2 contrasts the simulator uses are not printed in the article.
+- Kim: Table 1 swaps the "above" and "below IQ 120" rows against its own Results text; the record follows the text.
+  The titles of Tables 9 and 10 are swapped.
+- Fang et al.: Table 3 prints the primary-school interval as [−0.29, −0.29], which cannot contain its estimate of
+  −0.21.
+- Smith & Karpicke, Experiment 3: the text gives a 13% second-period gap and Table 6 gives .97 against .80.
+- Pardos et al.: the text gives the scaffold-item correlations the same t values as the original-item ones. The
+  detector's F-measure is .687 in the text and .750 in Table 2.
+- Ginns: the senior-primary estimate (k = 2) does not name its two studies, and the pair the simulator assumes is not
+  the pair Table 1 codes "senior primary".
+
 ## 2026-11-26 · Observation records batch 4: ten more simulator-cited sources
 
 Nine of the ten sources get records, as 15 files with 93 observations:

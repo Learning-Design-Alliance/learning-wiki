@@ -1,0 +1,475 @@
+# Smith & Karpicke (2014), Experiment 2: Experiment 1 repeated with two texts
+# and 10 min of study per text, 20 subjects per condition, final short-answer
+# test 1 week later. Feedback (one correct-answer sentence per question) after
+# practice in every condition.
+#
+# WHAT THIS FILE RECORDS: the printed d for short-answer against
+# multiple-choice practice (Table 10), and the initial-success gap the
+# article prints in words (32% verbatim, 46% inference) and as an ANOVA. Only
+# the short-answer and multiple-choice arms are recorded; the hybrid arms and
+# the no-retrieval control are in design_detail and not_yet_extracted.
+# `population.age: unreported`: no age figure is printed. The scoring
+# reliability (r = .94, "across all four experiments") is in
+# smith-2014-overall.
+#
+# The initial-success ANOVA is printed with F(1, 30), although 20 subjects
+# were assigned to each of the two conditions; it is recorded as printed and
+# no sample is attached to it.
+#
+# Conditions were "assigned" (method not stated): `family: other`.
+#
+# Read from the publisher PDF's text layer, as for smith-2014-exp1.
+# Quotes are in the article's own characters. The publisher PDF's text layer
+# writes its symbol-font glyphs as control characters and MathType runs:
+# U+0002 is "=", U+0003 "–", U+0004 "×", U+0005 the minus sign "−",
+# "g2p ¼ :66" is "η²p = .66" and "F B1" is "F < 1". With those mapped (and
+# spacing around "=" ignored) every quote is a substring of the text file.
+#
+# CHECKED AGAINST PAGE IMAGES (2026-11-26): the publisher PDF (Taylor & Francis
+# download with its cover page, the same file the text layer was made from) was
+# viewed page by page. Every source_quote in this file and every recorded number
+# was compared with the printed page and matches it; the glyph-code rewriting
+# (U+0002 "=", U+0005 "−", "g2p ¼ :" "η²p = .", "F B1" "F < 1") gives the
+# page's own characters. The exceptions to "every quote is a substring of the
+# text file" are the table-row quotes (Tables 1, 3, 6 and 7), whose
+# source_location or observability_notes say "page image": they are rows
+# quoted from the printed page, because the text layer emits those tables
+# column by column.
+# Table 3 cells for the short-answer and multiple-choice arms are now recorded
+# from the page image. They agree with the printed gaps: .90 − .58 = 32 points
+# (verbatim), .83 − .37 = 46 (inference). The F(1, 30) for the initial-success
+# ANOVA is confirmed as printed on p. 792.
+# Published online 2013, issue 2014.
+
+schema_version: 2
+
+study:
+  key: smith-2014-exp2
+  citation: "Smith, M. A., & Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. Memory, 22(7), 784–802. (Published online 2013.) Experiment 2."
+  doi: "10.1080/09658211.2013.831454"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment, 5 (retrieval format) x 2 (question type) mixed
+      factorial, as Experiment 1. 20 subjects assigned to each of
+      short-answer, multiple-choice, hybrid-massed, hybrid-spaced and
+      no-retrieval-practice control (method of assignment not stated). Two
+      texts (Venice, First Crusade), 10 min study each, eight practice
+      questions per text with a feedback sentence per question; final
+      short-answer test 1 week later, 45 s per question.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: no-format-effect-experiments-1-2
+    bearing: supports
+    anchor: smith-2014-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 100
+    unit: participants
+  population:
+    description: "Purdue University undergraduates, all native speakers of English, none of whom had taken part in Experiment 1."
+    age_or_stage: "Undergraduates; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Laboratory, two sessions 1 week apart."
+    materials: "Two of the four Experiment 1 texts (Venice, The First Crusade), with the same questions and feedback statements."
+  arms:
+    - id: multiple-choice
+      description: "Initial retrieval practice by selecting the answer among five alternatives, then the feedback statements."
+      size: {value: 20, unit: participants}
+      elements:
+        - term: "multiple-choice retrieval practice with correct-answer feedback"
+          anchors:
+            - principles/retrieval-practice
+    - id: short-answer
+      description: "Initial retrieval practice by typing an answer to each question, then the feedback statements."
+      size: {value: 20, unit: participants}
+      elements:
+        - term: "short-answer retrieval practice with correct-answer feedback"
+          anchors:
+            - principles/retrieval-practice
+
+comparisons:
+  - id: sa-vs-mc
+    kind: between-groups
+    index_arm: short-answer
+    reference_arm: multiple-choice
+    description: "Short-answer against multiple-choice retrieval practice, between subjects."
+
+observations:
+
+  - id: d-sa-vs-mc-final
+    sample: {value: 40, unit: participants}
+    comparison_ref: sa-vs-mc
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "mean proportion correct on the final short-answer assessment"
+      measure: "Final short-answer test of the 16 practice questions (verbatim and inference), hand-scored 1 / 0.5 / 0 by a scorer blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: cohens_d
+      estimate: 0.08
+      ci_lower: -0.56
+      ci_upper: 0.72
+      interval_type: confidence
+      interpretation: "Positive (short-answer higher) but the interval includes zero. The 4 x 2 ANOVA on the four practice groups found no main effect of retrieval format, F(3, 76) = 1.59, p = .20."
+      note: "Collapsed across question type. The source does not say which SD forms the denominator of d."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "0.08 [ −0.56, 0.72]"
+    source_location: "Table 10 (p. 798), column SA − MC, row Experiment 2"
+
+  - id: initial-gap-verbatim
+    comparison_ref: sa-vs-mc
+    outcome: &initial
+      construct: "Initial retrieval success"
+      source_language: "performance differences ... between short-answer and multiplechoice formats"
+      measure: "Proportion correct on the initial practice questions"
+      scale: "percentage-point difference, multiple-choice minus short-answer"
+      direction: contextual
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &initialtime
+      label: "during the practice session"
+    result:
+      measure_type: mean_difference
+      estimate: 32
+      unit: "percentage points, multiple-choice above short-answer, verbatim questions"
+    moderators: {reported: [], candidate: []}
+    observability: &obs_gap
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: &gapnote >-
+      The gap is printed in words in the Experiment 3 discussion, as a raw
+      difference; no standardised effect is printed for it.
+    source_quote: "Whereas performance differences were 42% and 32% between short-answer and multiplechoice formats in Experiments 1 and 2 respectively"
+    source_location: "Experiment 3, Discussion (p. 795)"
+
+  - id: initial-gap-inference
+    comparison_ref: sa-vs-mc
+    outcome: *initial
+    time: *initialtime
+    result:
+      measure_type: mean_difference
+      estimate: 46
+      unit: "percentage points, multiple-choice above short-answer, inference questions"
+    moderators: {reported: [], candidate: []}
+    observability: *obs_gap
+    observability_notes: *gapnote
+    source_quote: "(37% in Experiment 3, compared to 44% and 46% in Experiments 1 and 2, respectively)"
+    source_location: "Experiment 3, Discussion (p. 795)"
+
+  - id: initial-success-anova
+    comparison_ref: sa-vs-mc
+    outcome:
+      construct: "Initial retrieval success"
+      source_language: "initial performance between the short-answer and multiple-choice groups"
+      measure: "Proportion correct on the initial practice questions"
+      scale: "partial eta squared for format"
+      direction: contextual
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time: *initialtime
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.68
+      statistic: "F(1, 30) = 81.15"
+      interpretation: "The multiple-choice group performed better than the short-answer group on the initial tests."
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The degrees of freedom are printed as (1, 30), which does not match two
+      groups of 20; recorded as printed, with no analysed n attached.
+    source_quote: "found that the multiple-choice group performed better than the short-answer group on the initial tests, F(1, 30) = 81.15, η²p = .68."
+    source_location: "Experiment 2, Results, Initial performance (p. 792)"
+
+  - id: initial-mean-verbatim-mc
+    sample: {value: 20, unit: participants}
+    arm_ref: multiple-choice
+    outcome:
+      construct: "Initial retrieval success"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Proportion correct on the initial multiple-choice practice questions, verbatim questions"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session"
+    result:
+      measure_type: mean
+      estimate: 0.90
+      unit: "proportion correct on the initial multiple-choice questions, verbatim questions"
+      standard_error: 0.02
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Multiple-choice – .90 (.02) .49 (.05)"
+    source_location: "Table 3 (p. 791), Verbatim questions, row Multiple-choice, column Initial retrieval practice: Multiple-choice"
+
+  - id: final-mean-verbatim-mc
+    sample: {value: 20, unit: participants}
+    arm_ref: multiple-choice
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Final short-answer test, verbatim questions, hand-scored 1 / 0.5 / 0 blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: mean
+      estimate: 0.49
+      unit: "proportion correct on the final short-answer test, verbatim questions"
+      standard_error: 0.05
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Multiple-choice – .90 (.02) .49 (.05)"
+    source_location: "Table 3 (p. 791), Verbatim questions, row Multiple-choice, column Final assessment: Short-answer"
+
+  - id: initial-mean-verbatim-sa
+    sample: {value: 20, unit: participants}
+    arm_ref: short-answer
+    outcome:
+      construct: "Initial retrieval success"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Proportion correct on the initial short-answer practice questions, verbatim questions"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session"
+    result:
+      measure_type: mean
+      estimate: 0.58
+      unit: "proportion correct on the initial short-answer questions, verbatim questions"
+      standard_error: 0.05
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Short-answer .58 (.05) – .54 (.04)"
+    source_location: "Table 3 (p. 791), Verbatim questions, row Short-answer, column Initial retrieval practice: Short-answer"
+
+  - id: final-mean-verbatim-sa
+    sample: {value: 20, unit: participants}
+    arm_ref: short-answer
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Final short-answer test, verbatim questions, hand-scored 1 / 0.5 / 0 blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: mean
+      estimate: 0.54
+      unit: "proportion correct on the final short-answer test, verbatim questions"
+      standard_error: 0.04
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Short-answer .58 (.05) – .54 (.04)"
+    source_location: "Table 3 (p. 791), Verbatim questions, row Short-answer, column Final assessment: Short-answer"
+
+  - id: initial-mean-inference-mc
+    sample: {value: 20, unit: participants}
+    arm_ref: multiple-choice
+    outcome:
+      construct: "Initial retrieval success"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Proportion correct on the initial multiple-choice practice questions, inference questions"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session"
+    result:
+      measure_type: mean
+      estimate: 0.83
+      unit: "proportion correct on the initial multiple-choice questions, inference questions"
+      standard_error: 0.02
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Multiple-choice – .83 (.02) .49 (.03)"
+    source_location: "Table 3 (p. 791), Inference questions, row Multiple-choice, column Initial retrieval practice: Multiple-choice"
+
+  - id: final-mean-inference-mc
+    sample: {value: 20, unit: participants}
+    arm_ref: multiple-choice
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Final short-answer test, inference questions, hand-scored 1 / 0.5 / 0 blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: mean
+      estimate: 0.49
+      unit: "proportion correct on the final short-answer test, inference questions"
+      standard_error: 0.03
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Multiple-choice – .83 (.02) .49 (.03)"
+    source_location: "Table 3 (p. 791), Inference questions, row Multiple-choice, column Final assessment: Short-answer"
+
+  - id: initial-mean-inference-sa
+    sample: {value: 20, unit: participants}
+    arm_ref: short-answer
+    outcome:
+      construct: "Initial retrieval success"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Proportion correct on the initial short-answer practice questions, inference questions"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice session"
+    result:
+      measure_type: mean
+      estimate: 0.37
+      unit: "proportion correct on the initial short-answer questions, inference questions"
+      standard_error: 0.04
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Short-answer .37 (.04) – .47 (.05)"
+    source_location: "Table 3 (p. 791), Inference questions, row Short-answer, column Initial retrieval practice: Short-answer"
+
+  - id: final-mean-inference-sa
+    sample: {value: 20, unit: participants}
+    arm_ref: short-answer
+    outcome:
+      construct: "Delayed retention of text content"
+      source_language: "Mean proportion correct on initial retrieval activities and the final assessment"
+      measure: "Final short-answer test, inference questions, hand-scored 1 / 0.5 / 0 blind to condition"
+      scale: "proportion correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "1 week after the practice session"
+      offset: {value: 1, unit: weeks, from: "end of the initial session"}
+    result:
+      measure_type: mean
+      estimate: 0.47
+      unit: "proportion correct on the final short-answer test, inference questions"
+      standard_error: 0.05
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Cell read from the page image of the table; the table prints standard
+      errors in parentheses, not SDs, and no SD is derived.
+    source_quote: "Short-answer .37 (.04) – .47 (.05)"
+    source_location: "Table 3 (p. 791), Inference questions, row Short-answer, column Final assessment: Short-answer"
+
+not_yet_extracted:
+  - "Table 3 (p. 791), hybrid and no-retrieval rows: no retrieval final .23 (.04) verbatim, .22 (.04) inference; hybrid-massed initial short-answer .43 (.05) / .26 (.03), initial multiple-choice .80 (.04) / .73 (.04), final .42 (.05) / .36 (.05); hybrid-spaced initial short-answer .43 (.04) / .28 (.04), initial multiple-choice .82 (.04) / .78 (.03), final .45 (.05) / .46 (.05) (verbatim / inference; standard errors in parentheses). Read from the page image."
+  - "Table 9 (p. 798): d against the no-retrieval control, Experiment 2: multiple-choice 1.73 [1.09, 2.37], short-answer 1.72 [1.08, 2.36], hybrid-massed 1.00 [0.36, 1.64], hybrid-spaced 1.36 [0.72, 2.00]; confirmed on the page image."
+  - "Table 10 (p. 798) hybrid contrasts for Experiment 2, from the page image: Hybrid-M − SA −0.63 [−1.27, 0.01], Hybrid-S − SA −0.26 [−0.90, 0.38], Hybrid-M − MC −0.58 [−1.22, 0.06], Hybrid-S − MC −0.19 [−0.83, 0.45]."
+  - "Response times (Table 4): multiple-choice M = 12.3 s, short-answer M = 14.9 s, F(1, 37) = 7.90, partial eta squared .18."
+  - "Initial short-answer success by condition: short-answer M = .48, hybrid-massed M = .34, hybrid-spaced M = .36; format F(2, 57) = 3.57, partial eta squared .11."
+  - "Lure intrusions: 11% (multiple-choice), 15% (both hybrids), 13% (no retrieval), 11% (short-answer); no differences (F < 1)."
+  - "Combined analysis of Experiments 1 and 2 (144 subjects, 36 per practice condition, Table 5): no differences among the four practice conditions (F < 1); question type F(1, 140) = 7.94, partial eta squared .05."

@@ -1,0 +1,1243 @@
+# Adesope, Trevisan & Sundararajan (2017): a meta-analysis of practice
+# testing against nontesting learning conditions.
+#
+# Read from the publisher PDF (Review of Educational Research 87(3),
+# pp. 659-701). Its reading-order text splits Tables 1-4 into separate
+# columns, so a table row cannot be quoted from it. Where the Results prose
+# states a figure, the source_quote is that prose. Where a figure is printed
+# only in a table (confidence bounds, SEs, N, Q, I2, and the rows the prose
+# never mentions), it was read from the PDF's own table layout (pdftotext
+# -layout, checked against the page image), and an observation whose
+# source_quote is a table row says so in source_location: those quotes come
+# from the page, not from the reading-order text.
+#
+# WHAT THIS FILE HOLDS:
+#
+#   * Every pooled estimate here is FIXED-EFFECTS except the one labelled
+#     random-effects. The authors chose a fixed-effects model "for all
+#     analyses" after reporting the random-effects overall g of 0.70.
+#   * The moderator rows (Tables 2-4) compare testing with EVERY comparison
+#     condition (restudy, filler or no activity, a mixture, not reported),
+#     not with restudy alone. Only Table 1 splits by comparison condition.
+#     So the moderator strata are arms contrasted with a heterogeneous
+#     reference.
+#   * `k` counts independent EFFECT SIZES (272 from 118 articles, 217
+#     experiments by Figure 1), not studies, although the prose sometimes
+#     says "studies" for k.
+#   * `population.age: unreported`: the article codes educational level
+#     (primary grades 1-6, secondary 7-12, postsecondary) but prints no age
+#     figure.
+#   * One reliability observation: the authors' own coding check, printed as
+#     "Interrater agreement was high (k = .96)". The statistic is printed as k
+#     and not named, so it is recorded as `other` rather than as a kappa.
+#   * Discrepancies left as printed: the prose says the search returned
+#     1,717 studies, Figure 1 says 1,716; the prose gives the practice-test
+#     format QB as QB(7) = 27.02, Table 2 gives 6 degrees of freedom (not
+#     recorded here).
+
+schema_version: 2
+study:
+  key: adesope-2017
+  citation: 'Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests:
+    A meta-analysis of practice testing. Review of Educational Research, 87(3), 659–701.'
+  doi: 10.3102/0034654316689306
+  design:
+    family: meta-analysis
+    design_detail: Meta-analysis of studies contrasting a practice test with restudying or another nontesting
+      learning condition on a later final test. Cohen's d per outcome, corrected to Hedges's g; 272 independent
+      effect sizes from 118 articles. Categorical moderator analyses (QB between levels) for practice-test
+      features, feedback, setting, design, educational level, outcome construct, retention interval, initial
+      learning task, time matching and methodological features.
+  synthesis:
+    model: Fixed-effects model for all analyses; a random-effects estimate reported for the overall effect
+      only
+    heterogeneity_statistic: Q and I2
+    search:
+      databases:
+      - ERIC
+      - PsycARTICLES
+      - PsycINFO
+      - Web of Science
+      date_range: 'Searched in 2014; query: testing effect* OR test effect* OR retrieval practice*; reference
+        lists of key articles also searched'
+      records_screened: 1717
+      records_included: 118
+    inclusion:
+    - Contrast the effects of taking a practice test with restudying or other learning strategies
+    - Report measurable cognitive outcomes such as recall or transfer
+    - Report sufficient data for effect size extraction
+    - Publicly available through databases, journals or library archives
+    - Random assignment, within-subjects designs, or other control for preexisting group differences (pretests,
+      matching)
+    data_handling:
+    - Hedges's g from Cohen's d; F or t used to derive or verify d
+    - Five outlying effect sizes (|Z| >= 3.3) adjusted toward the nearest other effect size and kept
+    - One author recoded about 30% of the included studies as a reliability check
+    - Comprehensive Meta-Analysis 2.2.048 and SPSS 23
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: practice-testing-overall-meta-analytic-benefit
+  bearing: supports
+  anchor: adesope-2017
+- claim: retrieval-practice-improves-retention
+  bearing: supports
+  anchor: adesope-et-al-2017
+- claim: feedback-no-significant-moderation
+  bearing: supports
+  anchor: adesope-2017
+- claim: single-practice-test-larger-effect
+  bearing: supports
+  anchor: adesope-2017
+- claim: retention-interval-one-to-six-days-largest
+  bearing: supports
+  anchor: adesope-2017
+- claim: setting-and-education-level-moderators
+  bearing: supports
+  anchor: adesope-2017
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 272
+    unit: effect-sizes
+  additional_sizes:
+  - value: 118
+    unit: reports
+    note: articles included
+  - value: 217
+    unit: other
+    note: experiments within the 118 articles (Figure 1)
+  - value: 15427
+    unit: participants
+    note: participants across the 272 effect sizes
+  population:
+    description: 'Participants of the primary studies, coded by educational level: postsecondary (228
+      effect sizes, N = 12,648), secondary grades 7-12 (19, N = 1,335), primary grades 1-6 (10, N = 480),
+      one mixed sample and 14 not reported.'
+    age_or_stage: Educational level coded (primary grades 1-6, secondary grades 7-12, postsecondary);
+      the article prints no age figures.
+    age: unreported
+  context:
+    setting: Laboratory (223 effect sizes) and classroom (30) studies; 19 not reported
+  variation:
+  - dimension: Comparison condition
+    distribution: 195 restudying or rereading, 58 filler or no activity, 18 a mixture, 1 not reported
+  - dimension: Educational level
+    distribution: 228 postsecondary, 19 secondary, 10 primary, 1 mixed, 14 not reported
+  - dimension: Retention interval
+    distribution: 117 under 1 day, 58 at 1-6 days, 52 at 7-42 days, 35 mixed, 10 not reported
+  - dimension: Feedback on the practice test
+    distribution: 119 with, 153 without
+  - dimension: Number of practice tests
+    distribution: 165 one, 100 two or more, 4 self-paced, 2 mixed, 1 not reported
+  arms:
+  - id: practice-testing
+    description: Taking a practice test on studied material before the final test (all practice-test conditions).
+  - id: restudy
+    description: Restudying or rereading the material.
+  - id: filler-or-none
+    description: A filler activity or, in some cases, no reading activity.
+  - id: restudy-filler-mixture
+    description: A mixture of restudying and filler activities.
+  - id: comparison-not-reported
+    description: Comparison condition not reported (one effect size).
+  - id: testing-one-test
+    description: Practice testing with one practice test.
+  - id: testing-two-or-more
+    description: Practice testing with two or more practice tests.
+  - id: testing-self-paced
+    description: Practice testing where the number of tests was self-paced.
+  - id: testing-no-feedback
+    description: Practice tests given without feedback.
+  - id: testing-feedback
+    description: Practice tests followed by feedback or, as the authors put it in the Discussion, other
+      forms of reexposure to the original study material.
+  - id: testing-primary
+    description: Practice testing in samples of primary students, grades 1-6.
+  - id: testing-secondary
+    description: Practice testing in samples of secondary students, grades 7-12.
+  - id: testing-postsecondary
+    description: Practice testing in postsecondary samples.
+  - id: testing-interval-under-1-day
+    description: Practice testing with under one day between the practice test and the final test.
+  - id: testing-interval-1-6-days
+    description: Practice testing with 1 to 6 days between the practice test and the final test.
+  - id: testing-interval-7-42-days
+    description: Practice testing with 7 to 42 days between the practice test and the final test.
+  - id: testing-time-matched
+    description: Practice testing where the time between tests was matched for the comparison group.
+  - id: testing-time-not-matched
+    description: Practice testing where the time between tests was not matched for the comparison group.
+comparisons:
+- id: testing-vs-all-comparisons
+  kind: other
+  index_arm: practice-testing
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: Practice testing against every nontesting comparison condition pooled. Pooled designs include
+    random assignment, nonrandom assignment, within-subjects and mixed designs.
+- id: testing-vs-restudy
+  kind: other
+  index_arm: practice-testing
+  reference_arm: restudy
+  description: Practice testing against restudying or rereading.
+- id: testing-vs-filler-or-none
+  kind: other
+  index_arm: practice-testing
+  reference_arm: filler-or-none
+  description: Practice testing against a filler activity or no activity.
+- id: coding-reliability
+  kind: none
+  description: Agreement between the authors' original coding and one author's recoding of about 30% of
+    the included studies.
+- id: testing-one-test-vs-all-comparisons
+  kind: other
+  index_arm: testing-one-test
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-two-or-more-vs-all-comparisons
+  kind: other
+  index_arm: testing-two-or-more
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-self-paced-vs-all-comparisons
+  kind: other
+  index_arm: testing-self-paced
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-no-feedback-vs-all-comparisons
+  kind: other
+  index_arm: testing-no-feedback
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-feedback-vs-all-comparisons
+  kind: other
+  index_arm: testing-feedback
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-primary-vs-all-comparisons
+  kind: other
+  index_arm: testing-primary
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-secondary-vs-all-comparisons
+  kind: other
+  index_arm: testing-secondary
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-postsecondary-vs-all-comparisons
+  kind: other
+  index_arm: testing-postsecondary
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-interval-under-1-day-vs-all-comparisons
+  kind: other
+  index_arm: testing-interval-under-1-day
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-interval-1-6-days-vs-all-comparisons
+  kind: other
+  index_arm: testing-interval-1-6-days
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-interval-7-42-days-vs-all-comparisons
+  kind: other
+  index_arm: testing-interval-7-42-days
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-time-matched-vs-all-comparisons
+  kind: other
+  index_arm: testing-time-matched
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+- id: testing-time-not-matched-vs-all-comparisons
+  kind: other
+  index_arm: testing-time-not-matched
+  reference_arm:
+  - restudy
+  - filler-or-none
+  - restudy-filler-mixture
+  - comparison-not-reported
+  description: A moderator stratum of practice testing against every comparison condition pooled (restudy,
+    filler or none, mixture), as in Tables 2-4.
+observations:
+- id: overall-fixed
+  sample:
+    value: 272
+    unit: effect-sizes
+  comparison_ref: testing-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.61
+    standard_error: 0.02
+    ci_lower: 0.58
+    ci_upper: 0.65
+    interval_type: confidence
+    k:
+      value: 272
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 1405.0
+      interpretation: Q(271); I2 = 80.71%
+    model: fixed-effects
+    note: N = 15,427 participants across the k effect sizes (as printed)
+    p_value: < .001
+    publication_bias:
+      method: Classic fail-safe N and Orwin's fail-safe N (criterion .05)
+      finding: 3,608 additional null studies needed to invalidate the overall effect (classic); 2,604
+        to bring it to .05 (Orwin); both above 5k + 10, read by the authors as no significant threat
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Under a fixed-effects model, Table 1 shows that the overall weighted mean effect size
+    was moderately large and statistically significant, indicating the effectiveness of learning with
+    practice tests (g = 0.61, p < .001). However, the overall sample was heterogeneous, Q(271) = 1405.00,
+    p < .001, I2 = .81.
+  source_location: Results, p. 670; Table 1, p. 672 (SE and interval from the table)
+- id: overall-random
+  sample:
+    value: 272
+    unit: effect-sizes
+  comparison_ref: testing-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.7
+    standard_error: 0.04
+    ci_lower: 0.63
+    ci_upper: 0.78
+    interval_type: confidence
+    k:
+      value: 272
+      unit: effect-sizes
+    model: random-effects
+    note: N = 15,427 participants across the k effect sizes (as printed)
+    p_value: < .001
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: The overall result with a random-effects model showed a larger effect size that was statistically
+    significant (g = 0.70, p < .001).
+  source_location: Results, p. 671; Table 1, p. 672 (SE and interval from the table)
+- id: vs-restudy
+  sample:
+    value: 195
+    unit: effect-sizes
+  comparison_ref: testing-vs-restudy
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.51
+    standard_error: 0.02
+    ci_lower: 0.47
+    ci_upper: 0.55
+    interval_type: confidence
+    k:
+      value: 195
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 896.88
+      interpretation: Q(194); I2 = 78.37%
+    model: fixed-effects
+    note: N = 10,491 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Comparison condition
+      relationship: Larger against filler or no activity (g = 0.93) than against restudying (g = 0.51);
+        QB(3) = 103.75 in Table 1
+      source_quote: mean effect size compared to restudying (g = 0.51), and a much larger weighted mean
+        effect size (g = 0.93) when compared with filler or no activities.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: mean effect size compared to restudying (g = 0.51), and a much larger weighted mean effect
+    size (g = 0.93) when compared with filler or no activities.
+  source_location: Results, pp. 671-673; Table 1, p. 672 (k, N, SE, interval and heterogeneity from the
+    table)
+- id: vs-filler-or-none
+  sample:
+    value: 58
+    unit: effect-sizes
+  comparison_ref: testing-vs-filler-or-none
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.93
+    standard_error: 0.04
+    ci_lower: 0.86
+    ci_upper: 1.01
+    interval_type: confidence
+    k:
+      value: 58
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 371.55
+      interpretation: Q(57); I2 = 84.66%
+    model: fixed-effects
+    note: N = 3,452 participants across the k effect sizes (as printed)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: mean effect size compared to restudying (g = 0.51), and a much larger weighted mean effect
+    size (g = 0.93) when compared with filler or no activities.
+  source_location: Results, pp. 671-673; Table 1, p. 672 (k, N, SE, interval and heterogeneity from the
+    table)
+- id: one-practice-test
+  sample:
+    value: 165
+    unit: effect-sizes
+  comparison_ref: testing-one-test-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.7
+    standard_error: 0.02
+    ci_lower: 0.66
+    ci_upper: 0.74
+    interval_type: confidence
+    k:
+      value: 165
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 950.08
+      interpretation: Q(164); I2 = 82.74%
+    model: fixed-effects
+    note: N = 9,006 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Number of practice tests
+      relationship: One practice test g = 0.70 against two or more g = 0.51; QB(4) = 42.25 in Table 2.
+        Not adjusted for comparison condition or retention interval
+      source_quote: Results demonstrate that the effects of practice tests were larger when they were
+        used only once (g = 0.70) than when they were used twice or more (g = 0.51).
+    candidate:
+    - Comparison condition and retention interval, not crossed with the number of tests
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Results demonstrate that the effects of practice tests were larger when they were used
+    only once (g = 0.70) than when they were used twice or more (g = 0.51).
+  source_location: Results, p. 673; Table 2, p. 675 (SE, interval, N and heterogeneity from the table)
+- id: two-or-more-practice-tests
+  sample:
+    value: 100
+    unit: effect-sizes
+  comparison_ref: testing-two-or-more-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.51
+    standard_error: 0.03
+    ci_lower: 0.46
+    ci_upper: 0.56
+    interval_type: confidence
+    k:
+      value: 100
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 411.75
+      interpretation: Q(99); I2 = 75.96%
+    model: fixed-effects
+    note: N = 5,794 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Number of practice tests
+      relationship: One practice test g = 0.70 against two or more g = 0.51; QB(4) = 42.25 in Table 2.
+        Not adjusted for comparison condition or retention interval
+      source_quote: Results demonstrate that the effects of practice tests were larger when they were
+        used only once (g = 0.70) than when they were used twice or more (g = 0.51).
+    candidate:
+    - Comparison condition and retention interval, not crossed with the number of tests
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Results demonstrate that the effects of practice tests were larger when they were used
+    only once (g = 0.70) than when they were used twice or more (g = 0.51).
+  source_location: Results, p. 673; Table 2, p. 675 (SE, interval, N and heterogeneity from the table)
+- id: self-paced-practice-tests
+  sample:
+    value: 4
+    unit: effect-sizes
+  comparison_ref: testing-self-paced-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.31
+    standard_error: 0.1
+    ci_lower: 0.12
+    ci_upper: 0.51
+    interval_type: confidence
+    k:
+      value: 4
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 0.66
+      interpretation: Q(3); I2 = 0.0%
+    model: fixed-effects
+    note: N = 407 participants across the k effect sizes (as printed)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Self-paced 407 4 0.31* 0.10 0.12 0.51 0.66 3 0.00
+  source_location: Table 2 (continued), p. 675 (row quoted from the PDF's table layout; the reading-order
+    text splits the table)
+- id: no-feedback
+  sample:
+    value: 153
+    unit: effect-sizes
+  comparison_ref: testing-no-feedback-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.6
+    standard_error: 0.02
+    ci_lower: 0.56
+    ci_upper: 0.65
+    interval_type: confidence
+    k:
+      value: 153
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 942.48
+      interpretation: Q(152); I2 = 83.87%
+    model: fixed-effects
+    note: N = 8,717 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Feedback on the practice test
+      relationship: 'No significant difference: with feedback g = 0.63, without g = 0.60; QB = 0.46 in
+        Table 2'
+      source_quote: The weighted mean effect sizes do not differ significantly when feedback was given
+        (g = 0.63; k = 119) or not (g = 0.60; k = 153).
+    candidate:
+    - Feedback type and timing (not coded)
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: The weighted mean effect sizes do not differ significantly when feedback was given (g
+    = 0.63; k = 119) or not (g = 0.60; k = 153).
+  source_location: Results, p. 673; Table 2, p. 675 (SE, interval, N and heterogeneity from the table)
+- id: with-feedback
+  sample:
+    value: 119
+    unit: effect-sizes
+  comparison_ref: testing-feedback-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.63
+    standard_error: 0.03
+    ci_lower: 0.58
+    ci_upper: 0.68
+    interval_type: confidence
+    k:
+      value: 119
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 462.06
+      interpretation: Q(118); I2 = 74.46%
+    model: fixed-effects
+    note: N = 6,710 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Feedback on the practice test
+      relationship: 'No significant difference: with feedback g = 0.63, without g = 0.60; QB = 0.46 in
+        Table 2'
+      source_quote: The weighted mean effect sizes do not differ significantly when feedback was given
+        (g = 0.63; k = 119) or not (g = 0.60; k = 153).
+    candidate:
+    - Feedback type and timing (not coded)
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: The weighted mean effect sizes do not differ significantly when feedback was given (g
+    = 0.63; k = 119) or not (g = 0.60; k = 153).
+  source_location: Results, p. 673; Table 2, p. 675 (SE, interval, N and heterogeneity from the table)
+- id: primary-grades-1-6
+  sample:
+    value: 10
+    unit: effect-sizes
+  comparison_ref: testing-primary-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.64
+    standard_error: 0.1
+    ci_lower: 0.45
+    ci_upper: 0.83
+    interval_type: confidence
+    k:
+      value: 10
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 51.5
+      interpretation: Q(9); I2 = 82.52%
+    model: fixed-effects
+    note: N = 480 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Educational level
+      relationship: Primary g = 0.64, secondary g = 0.83, postsecondary g = 0.60; QB(4) = 50.50; only
+        secondary against postsecondary differed in post hoc tests
+      source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+        students, studies conducted with primary, secondary, and postsecondary school students all produced
+        moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively).
+        The between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  observability_notes: Ages within the primary stratum are not printed. The comparison pools every nontesting
+    condition, not restudy alone.
+  source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+    students, studies conducted with primary, secondary, and postsecondary school students all produced
+    moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively). The
+    between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+  source_location: Results, p. 676; Table 3, pp. 677-678 (k, N, SE, interval and heterogeneity from the
+    table)
+- id: secondary-grades-7-12
+  sample:
+    value: 19
+    unit: effect-sizes
+  comparison_ref: testing-secondary-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.83
+    standard_error: 0.06
+    ci_lower: 0.71
+    ci_upper: 0.94
+    interval_type: confidence
+    k:
+      value: 19
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 89.72
+      interpretation: Q(18); I2 = 79.94%
+    model: fixed-effects
+    note: N = 1,335 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Educational level
+      relationship: Primary g = 0.64, secondary g = 0.83, postsecondary g = 0.60; QB(4) = 50.50; only
+        secondary against postsecondary differed in post hoc tests
+      source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+        students, studies conducted with primary, secondary, and postsecondary school students all produced
+        moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively).
+        The between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+    students, studies conducted with primary, secondary, and postsecondary school students all produced
+    moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively). The
+    between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+  source_location: Results, p. 676; Table 3, pp. 677-678 (k, N, SE, interval and heterogeneity from the
+    table)
+- id: postsecondary
+  sample:
+    value: 228
+    unit: effect-sizes
+  comparison_ref: testing-postsecondary-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.6
+    standard_error: 0.02
+    ci_lower: 0.57
+    ci_upper: 0.64
+    interval_type: confidence
+    k:
+      value: 228
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 1182.93
+      interpretation: Q(227); I2 = 80.81%
+    model: fixed-effects
+    note: N = 12,648 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Educational level
+      relationship: Primary g = 0.64, secondary g = 0.83, postsecondary g = 0.60; QB(4) = 50.50; only
+        secondary against postsecondary differed in post hoc tests
+      source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+        students, studies conducted with primary, secondary, and postsecondary school students all produced
+        moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively).
+        The between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Table 3 shows that even though the majority of studies were conducted with postsecondary
+    students, studies conducted with primary, secondary, and postsecondary school students all produced
+    moderate to large weighted mean effect sizes (g = 0.64, g = 0.83, and g = 0.60, respectively). The
+    between-levels difference was statistically significant, QΒ(4) = 50.50, p < .001.
+  source_location: Results, p. 676; Table 3, pp. 677-678 (k, N, SE, interval and heterogeneity from the
+    table)
+- id: interval-under-1-day
+  sample:
+    value: 117
+    unit: effect-sizes
+  comparison_ref: testing-interval-under-1-day-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: less than one day between the practice test and the final test
+  result:
+    measure_type: hedges_g
+    estimate: 0.56
+    standard_error: 0.03
+    ci_lower: 0.51
+    ci_upper: 0.62
+    interval_type: confidence
+    k:
+      value: 117
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 644.32
+      interpretation: Q(116); I2 = 82.0%
+    model: fixed-effects
+    note: N = 5,766 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Retention interval
+      relationship: Largest at 1-6 days (g = 0.82); QB(4) = 69.07; 1-6 days differed from under 1 day
+        in post hoc tests
+      source_quote: Results also show that the highest weighted effect size was obtained with a time lag
+        of 1 to 6 days (g = 0.82; k = 58). The between-levels difference was statistically significant,
+        QΒ(4) = 69.07, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: <1 day 5,766 117 0.56* 0.03 0.51 0.62 644.32* 116 82.00
+  source_location: Table 4, p. 679 (row quoted from the PDF's table layout; the reading-order text splits
+    the table)
+- id: interval-1-6-days
+  sample:
+    value: 58
+    unit: effect-sizes
+  comparison_ref: testing-interval-1-6-days-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: 1 to 6 days between the practice test and the final test
+  result:
+    measure_type: hedges_g
+    estimate: 0.82
+    standard_error: 0.04
+    ci_lower: 0.75
+    ci_upper: 0.9
+    interval_type: confidence
+    k:
+      value: 58
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 333.8
+      interpretation: Q(57); I2 = 82.92%
+    model: fixed-effects
+    note: N = 2,978 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Retention interval
+      relationship: Largest at 1-6 days (g = 0.82); QB(4) = 69.07; 1-6 days differed from under 1 day
+        in post hoc tests
+      source_quote: Results also show that the highest weighted effect size was obtained with a time lag
+        of 1 to 6 days (g = 0.82; k = 58). The between-levels difference was statistically significant,
+        QΒ(4) = 69.07, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Results also show that the highest weighted effect size was obtained with a time lag of
+    1 to 6 days (g = 0.82; k = 58). The between-levels difference was statistically significant, QΒ(4)
+    = 69.07, p < .001.
+  source_location: Results, p. 676; Table 4, p. 679 (SE, interval, N and heterogeneity from the table)
+- id: interval-7-42-days
+  sample:
+    value: 52
+    unit: effect-sizes
+  comparison_ref: testing-interval-7-42-days-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: 7 to 42 days between the practice test and the final test
+  result:
+    measure_type: hedges_g
+    estimate: 0.69
+    standard_error: 0.03
+    ci_lower: 0.62
+    ci_upper: 0.76
+    interval_type: confidence
+    k:
+      value: 52
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 152.03
+      interpretation: Q(51); I2 = 66.45%
+    model: fixed-effects
+    note: N = 3,667 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Retention interval
+      relationship: Largest at 1-6 days (g = 0.82); QB(4) = 69.07; 1-6 days differed from under 1 day
+        in post hoc tests
+      source_quote: Results also show that the highest weighted effect size was obtained with a time lag
+        of 1 to 6 days (g = 0.82; k = 58). The between-levels difference was statistically significant,
+        QΒ(4) = 69.07, p < .001.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: 7–42 days 3,667 52 0.69* 0.03 0.62 0.76 152.03* 51 66.45
+  source_location: Table 4, p. 679 (row quoted from the PDF's table layout; the reading-order text splits
+    the table)
+- id: time-matched
+  sample:
+    value: 163
+    unit: effect-sizes
+  comparison_ref: testing-time-matched-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 0.5
+    standard_error: 0.02
+    ci_lower: 0.45
+    ci_upper: 0.54
+    interval_type: confidence
+    k:
+      value: 163
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 748.44
+      interpretation: Q(162); I2 = 78.36%
+    model: fixed-effects
+    note: N = 8,867 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Time matched between testing and comparison groups
+      relationship: Largest where time was not matched (g = 1.00) against matched (g = 0.50); QB(5) =
+        149.04 in Table 4
+      source_quote: We also found that although most studies (k = 163) matched the time between treatment
+        and comparison groups, the largest effect size occurred when the time between treatment and comparison
+        groups was not matched (g = 1.00), even though all categories produced statistically significant
+        effect sizes.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: Yes 8,867 163 0.50* 0.02 0.45 0.54 748.44* 162 78.36
+  source_location: Table 4, p. 679, row 'Time matched between tests/comparison group?' Yes (row quoted
+    from the PDF's table layout; the reading-order text splits the table)
+- id: time-not-matched
+  sample:
+    value: 43
+    unit: effect-sizes
+  comparison_ref: testing-time-not-matched-vs-all-comparisons
+  outcome:
+    construct: Learning on a final test
+    source_language: learning benefits on a final test
+    measure: 'Final-test scores in the primary studies: free recall, cued recall, multiple choice, short
+      answer and other formats'
+    scale: Hedges's g, testing minus comparison condition
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: as measured in the primary studies (retention intervals pooled unless stated)
+  result:
+    measure_type: hedges_g
+    estimate: 1.0
+    standard_error: 0.04
+    ci_lower: 0.91
+    ci_upper: 1.08
+    interval_type: confidence
+    k:
+      value: 43
+      unit: effect-sizes
+    heterogeneity:
+      statistic: Q
+      value: 188.94
+      interpretation: Q(42); I2 = 77.77%
+    model: fixed-effects
+    note: N = 2,357 participants across the k effect sizes (as printed)
+  moderators:
+    reported:
+    - variable: Time matched between testing and comparison groups
+      relationship: Largest where time was not matched (g = 1.00) against matched (g = 0.50); QB(5) =
+        149.04 in Table 4
+      source_quote: We also found that although most studies (k = 163) matched the time between treatment
+        and comparison groups, the largest effect size occurred when the time between treatment and comparison
+        groups was not matched (g = 1.00), even though all categories produced statistically significant
+        effect sizes.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: observed
+    pooled_k: observed
+  source_quote: We also found that although most studies (k = 163) matched the time between treatment
+    and comparison groups, the largest effect size occurred when the time between treatment and comparison
+    groups was not matched (g = 1.00), even though all categories produced statistically significant effect
+    sizes.
+  source_location: Results, p. 679; Table 4, p. 679 (k, N, SE, interval and heterogeneity from the table)
+- id: coding-interrater-agreement
+  comparison_ref: coding-reliability
+  outcome:
+    construct: Inter-coder agreement
+    source_language: Interrater agreement
+    measure: One author's recoding of a random selection of about 30% of the included studies against
+      the extracted data
+    scale: printed as k
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: during data extraction
+  result:
+    measure_type: reliability
+    estimate: 0.96
+    reliability:
+      statistic: other
+      over: raters
+      form: printed as "k = .96" and described as interrater agreement; the coefficient is not named
+    interpretation: Described by the authors as high
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: partial
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: effect_size is `unreported` because a reliability coefficient is not an effect.
+    Which codes were compared, and whether k is a kappa, is not stated.
+  source_quote: A reliability check on the extracted data was conducted by the one of the authors, who
+    randomly selected and coded about 30% of all studies included in this metaanalysis. Interrater agreement
+    was high (k = .96).
+  source_location: Method, Document Retrieval, p. 669
+not_yet_extracted:
+- 'Table 1: mixture of restudying and filler activities, g = 0.71 (k = 18).'
+- 'Table 2: practice-test format, final-test format and transfer-appropriate processing strata.'
+- 'Table 3: study setting (classroom g = 0.67, laboratory 0.62), experimental design and outcome construct
+  (retention 0.63, transfer 0.53) strata.'
+- 'Table 4: retention interval mixed and not reported; initial learning criterion; the other time-matching
+  rows.'
+- 'Table 5: reliability reported, control for preexisting knowledge, treatment fidelity and methodological
+  quality strata.'
+- 'Figure 2: unweighted distribution of the 272 effect sizes (M = 0.74, SD = 0.74).'

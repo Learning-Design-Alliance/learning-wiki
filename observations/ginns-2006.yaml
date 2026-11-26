@@ -1,0 +1,345 @@
+# Ginns (2006): meta-analysis of the spatial contiguity (split-attention) and
+# temporal contiguity effects.
+#
+# Read from the accepted author manuscript (35 pp.), whose front matter gives
+# the DOI 10.1016/j.learninstruc.2006.10.001 and the reference "Learning and
+# Instruction, 16(6), 511-525"; both agree with the key given for this record.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled effect over all 50 effects, and the three subgroup estimates a
+#     reader of the split-attention evidence needs: high and low element
+#     interactivity, and the senior-primary-school stratum (k = 2).
+#   * The moderator table is labelled "Table 2" on the table page (manuscript
+#     p. 32) while the Results text calls it "Table 3". The figures agree; the
+#     table's own label is used in source_location.
+#   * The senior-primary row is quoted from the PAGE IMAGE of manuscript p. 32:
+#     the text layer separates the table's columns, so no row survives in it.
+#     Every other quote is from the text layer.
+#   * `population.age: unreported`. The article codes educational level, not
+#     age; its one age figure ("between the ages of 16 and 18") describes the
+#     technical-college apprentices only, so it stays in the prose.
+#   * No reliability figure: the article prints no coder agreement and no
+#     reliability for any outcome measure.
+#   * Effects are d, the standardised mean difference corrected for small-sample
+#     bias (Hedges & Olkin), as the article names it. Not relabelled.
+
+schema_version: 2
+
+study:
+  key: ginns-2006
+  citation: "Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. Learning and Instruction, 16(6), 511–525."
+  doi: "10.1016/j.learninstruc.2006.10.001"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of between-group experiments with random assignment that
+      compared integrated (spatially or temporally contiguous) with
+      non-integrated presentations of related information, on performance
+      variates. One effect per study, chosen by stated decision rules; moderator
+      tests by z contrasts with Holm-modified Bonferroni control for moderators
+      with three or more categories.
+  synthesis:
+    model: "Random-effects model (Shadish & Haddock, 1994) with inverse-variance weights, run in the Zumastat meta-analysis module"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycINFO
+        - ERIC
+      date_range: "up to October 2004"
+    inclusion:
+      - "Instructional condition means and SDs, or a statistic from which d could be computed (e.g. t or F)"
+      - "Between-group studies with random assignment to groups"
+    data_handling:
+      - "One effect per study: low element interactivity results chosen where both were available; otherwise transfer, then similar-test, then time-to-solution results, by stated decision rules"
+      - "Repeated measures of one variate averaged unless a measure showed floor or ceiling effects"
+      - "Outlier d = 3.24 (Sweller & Chandler, 1994, Exp. 4) recoded to the next highest value, d = 1.68"
+      - "Practical tests coded as transfer tests; senior high school and technical college collapsed into one educational level"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: integration-of-related-elements-large-mean-effect
+    bearing: supports
+    anchor: ginns-2006
+  - claim: element-interactivity-moderates-contiguity-effect
+    bearing: supports
+    anchor: ginns-2006
+  - claim: cognitive-load-reduction-improves-learning
+    bearing: supports
+    anchor: ginns-2006
+
+evidence_base:
+  unit: studies
+  size:
+    value: 50
+    unit: studies
+  additional_sizes:
+    - value: 50
+      unit: effect-sizes
+      note: "one effect per study, the 'fifty effects' of the Sample section"
+    - value: 2375
+      unit: participants
+      note: "students whose performance the 50 effects represent"
+    - value: 31
+      unit: reports
+      note: "29 journal articles, 1 conference paper and 1 PhD thesis"
+  population:
+    description: >-
+      Novice learners in experiments on integrated versus split-source
+      instructional materials in mathematics, science and
+      engineering/technical domains. The author notes the results "without
+      exception came from learners who may be classified as novices".
+    age_or_stage: >-
+      Coded as educational level: senior primary school (2 effects), junior
+      high school (7), senior high school/technical college (11), adult (30).
+      Technical college students are described as "generally apprentices
+      between the ages of 16 and 18". No age distribution is printed for the
+      corpus.
+    age: unreported
+  context:
+    setting: "Laboratory and classroom experiments; one-on-one testing (28 effects) or group testing (22 effects)"
+  variation:
+    - dimension: "Type of contiguity"
+      distribution: "spatial 37, temporal 13"
+    - dimension: "Element interactivity"
+      distribution: "high 43, low 7"
+    - dimension: "Performance variate"
+      distribution: "transfer test 29, time to solution 3, similar test 17 (one study using both similar and transfer tests excluded from this test)"
+    - dimension: "Broad field of study"
+      distribution: "mathematics 11, science 11, engineering/technical 28"
+    - dimension: "Type of information presentation"
+      distribution: "static 33, dynamic 16 (one study using both excluded from this test)"
+  arms:
+    - id: integrated
+      description: "Integrated presentation: mutually referring elements of information placed together in space or presented together in time."
+    - id: split
+      description: "Non-integrated (split-attention) presentation of the same elements, separated in space or in time."
+    - id: integrated-high-ei
+      description: "Integrated presentation in studies coded as using high element interactivity materials."
+    - id: split-high-ei
+      description: "Non-integrated presentation in studies coded as using high element interactivity materials."
+    - id: integrated-low-ei
+      description: "Integrated presentation in studies coded as using low element interactivity materials (coded from the researchers' own descriptions; typically 1 to 3 interacting elements)."
+    - id: split-low-ei
+      description: "Non-integrated presentation in studies coded as using low element interactivity materials."
+    - id: integrated-senior-primary
+      description: "Integrated presentation in studies of senior primary school students."
+    - id: split-senior-primary
+      description: "Non-integrated presentation in studies of senior primary school students."
+
+comparisons:
+  - id: integrated-vs-split
+    kind: between-groups
+    index_arm: integrated
+    reference_arm: split
+    description: "Integrated versus non-integrated presentation across all 50 effects, spatial and temporal pooled."
+  - id: integrated-vs-split-high-ei
+    kind: between-groups
+    index_arm: integrated-high-ei
+    reference_arm: split-high-ei
+    description: "Integrated versus non-integrated presentation, high element interactivity studies."
+  - id: integrated-vs-split-low-ei
+    kind: between-groups
+    index_arm: integrated-low-ei
+    reference_arm: split-low-ei
+    description: "Integrated versus non-integrated presentation, low element interactivity studies."
+  - id: integrated-vs-split-senior-primary
+    kind: between-groups
+    index_arm: integrated-senior-primary
+    reference_arm: split-senior-primary
+    description: "Integrated versus non-integrated presentation, senior primary school studies."
+
+observations:
+
+  - id: integration-overall
+    sample:
+      value: 2375
+      unit: participants
+    comparison_ref: integrated-vs-split
+    outcome:
+      construct: "Learning performance"
+      source_language: "performance data"
+      measure: "One performance variate per study: transfer test score, similar-question test score, a combined score, or time to solution, chosen by the article's decision rules"
+      scale: "standardised mean difference, integrated minus non-integrated"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; delay not coded"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.85
+      ci_lower: 0.68
+      ci_upper: 1.02
+      interval_type: confidence
+      statistic: "d, corrected for small-sample bias (Hedges & Olkin, 1985)"
+      k:
+        value: 50
+        unit: studies
+      heterogeneity:
+        statistic: "Q"
+        value: 117.77
+        interpretation: "df = 49, p < 0.001; read by the author as one or more moderators conditioning the mean effect"
+      model: "random-effects"
+    moderators:
+      reported:
+        - variable: "Element interactivity"
+          relationship: "Larger for high (d = 0.78) than low (d = 0.28) element interactivity materials, z contrast 3.09"
+          source_quote: "The mean weighted effect size was significantly larger for effects coded as using high element interactivity materials (d = 0.78, 95% confidence interval 0.69 – 0.87) than for low element interactivity materials (d = 0.28, 95% confidence interval –0.03 – 0.58), zcontrast = 3.09, p = 0.002."
+        - variable: "Type of testing"
+          relationship: "Larger under one-on-one testing (d = 0.89) than group testing (d = 0.65)"
+          source_quote: "The mean weighted effect size was higher for effects coded as using one on one testing (d = 0.89, 95% confidence interval 0.75 – 1.03) than in studies using group testing (d = 0.65, 95% confidence interval 0.54 – 0.76), zcontrast = 2.61, p = 0.009."
+      candidate:
+        - "Learner expertise: every included study used novices, so the effect is unestimated for experienced learners (the author's main stated limitation, with expertise reversal cited)"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Publication bias was not assessed and nothing in the article says it was
+      attempted, so no publication_bias and no attempted_but_precluded entry is
+      written. The timing of the tests (immediate or delayed) is not coded.
+    source_quote: "the weighted mean effect size of the 50 effects was large, d = 0.85 (95% confidence interval 0.68 – 1.02), and the homogeneity statistic was highly significant, Q = 117.77, df = 49, p < 0.001, indicating one or more moderators condition this mean effect."
+    source_location: "Section 3.0, Results (manuscript p. 15)"
+
+  - id: integration-high-element-interactivity
+    comparison_ref: integrated-vs-split-high-ei
+    outcome:
+      construct: "Learning performance"
+      source_language: "performance data"
+      measure: "One performance variate per study, as for the overall analysis"
+      scale: "standardised mean difference, integrated minus non-integrated"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; delay not coded"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.78
+      ci_lower: 0.69
+      ci_upper: 0.87
+      interval_type: confidence
+      statistic: "d, corrected for small-sample bias (Hedges & Olkin, 1985)"
+      k:
+        value: 43
+        unit: studies
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      No within-subgroup heterogeneity statistic is printed. High element
+      interactivity was the default code: effects were coded high unless the
+      researchers described the materials as low.
+    source_quote: "The mean weighted effect size was significantly larger for effects coded as using high element interactivity materials (d = 0.78, 95% confidence interval 0.69 – 0.87) than for low element interactivity materials (d = 0.28, 95% confidence interval –0.03 – 0.58), zcontrast = 3.09, p = 0.002."
+    source_location: "Section 3.0, Results; Table 2, Element Interactivity rows (manuscript pp. 16, 32)"
+
+  - id: integration-low-element-interactivity
+    comparison_ref: integrated-vs-split-low-ei
+    outcome:
+      construct: "Learning performance"
+      source_language: "performance data"
+      measure: "Practical tests, coded as transfer tests"
+      scale: "standardised mean difference, integrated minus non-integrated"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; delay not coded"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.28
+      ci_lower: -0.03
+      ci_upper: 0.58
+      interval_type: confidence
+      statistic: "d, corrected for small-sample bias (Hedges & Olkin, 1985)"
+      k:
+        value: 7
+        unit: studies
+      model: "random-effects"
+      interpretation: "The author reads the interval as including a nil, slightly negative or moderate-to-large effect, with low power from small samples"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The source says the low element interactivity studies used small samples,
+      "generally n = 10 per condition"; no total n for the subgroup is printed.
+    source_quote: "The mean weighted effect size was significantly larger for effects coded as using high element interactivity materials (d = 0.78, 95% confidence interval 0.69 – 0.87) than for low element interactivity materials (d = 0.28, 95% confidence interval –0.03 – 0.58), zcontrast = 3.09, p = 0.002."
+    source_location: "Section 3.0, Results; Table 2, Element Interactivity rows (manuscript pp. 16, 32)"
+
+  - id: integration-senior-primary-school
+    comparison_ref: integrated-vs-split-senior-primary
+    outcome:
+      construct: "Learning performance"
+      source_language: "performance data"
+      measure: "One performance variate per study, as for the overall analysis"
+      scale: "standardised mean difference, integrated minus non-integrated"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; delay not coded"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 1.02
+      ci_lower: 0.41
+      ci_upper: 1.63
+      interval_type: confidence
+      statistic: "d, corrected for small-sample bias (Hedges & Olkin, 1985)"
+      k:
+        value: 2
+        unit: studies
+      model: "random-effects"
+    moderators:
+      reported:
+        - variable: "Educational level"
+          relationship: "No significant pairwise differences among the four educational levels"
+          source_quote: "There were no statistically significant pairwise comparisons between the 4 categories of educational level."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Two effects only, and the article does not say which. Table 1 (manuscript
+      p. 29) codes one study "senior primary" (Bobis, Sweller & Cooper, 1993,
+      Exp. 4, d 0.67) and one "junior primary" (Mwangi & Sweller, 1998, Exp. 2,
+      d 1.32), a level that is not one of Table 2's four categories; the record
+      does not assume these are the two. Quote taken from the page image of
+      the table (manuscript p. 32), because the text layer does not keep the
+      row together.
+    source_quote: "Senior primary school 2 1.02 0.41 1.63"
+    source_location: "Table 2, Educational Level rows (manuscript p. 32; page image)"
+
+not_yet_extracted:
+  - "Spatial (d = 0.72 [0.61, 0.82], k 37) versus temporal (d = 0.78 [0.63, 0.92], k 13) contiguity, z contrast 0.63, p = 0.526"
+  - "Type of testing: individual d = 0.89 [0.75, 1.03], k 28; group d = 0.65 [0.54, 0.76], k 22 (z 2.61)"
+  - "Performance variate, broad field, the other three educational levels and static versus dynamic presentation rows of Table 2"
+  - "Per-study effect sizes in Table 1"

@@ -1,0 +1,448 @@
+# Gerwig, Miroshnik, Forthmann, Benedek, Karwowski & Holling (2021): a
+# three-level meta-analysis of the correlation between intelligence and
+# divergent thinking (DT).
+#
+# Read from the PubMed Central copy of the open-access article (CC BY 4.0),
+# text layer; tables came through as clean tab-separated rows.
+#
+# WHAT A READER NEEDS TO KNOW:
+#
+#   * Every pooled correlation here is CORRECTED FOR ATTENUATION: each r was
+#     divided by the square root of the product of the DT and intelligence
+#     reliabilities before pooling, with missing reliabilities imputed at the
+#     corpus means (.78 for DT, .79 for intelligence). The uncorrected
+#     estimate for Kim's period is printed separately (r = .19). A reader
+#     comparing r = .25 with an uncorrected correlation is comparing two
+#     different quantities.
+#   * `k` counts CORRELATION COEFFICIENTS (849), `m` studies (112). The
+#     three-level model treats coefficients as nested in studies.
+#   * The two reliability observations are the corpus-mean reliabilities the
+#     authors computed and used for imputation, not the reliability of any one
+#     instrument. They are recorded because they set the size of the
+#     correction for every study that reported none.
+#   * The age figures (4.00 to 72.93, M 20.40, SD 12.20) are printed as "the
+#     age of the participants across samples"; the article does not say
+#     whether they summarise sample mean ages or individual ages.
+
+schema_version: 2
+
+study:
+  key: gerwig-2021
+  citation: "Gerwig, A., Miroshnik, K., Forthmann, B., Benedek, M., Karwowski, M., & Holling, H. (2021). The relationship between intelligence and divergent thinking: A meta-analytic update. Journal of Intelligence, 9(2), 23."
+  doi: "10.3390/jintelligence9020023"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Three-level meta-analysis (metafor, REML) of correlations between
+      intelligence and divergent-thinking measures, coefficients nested in
+      studies. Correlations corrected for attenuation, Fisher-z transformed,
+      pooled and back-transformed. Categorical moderators by meta-regression
+      with cell-mean coding and Bonferroni-Holm-corrected contrasts; mean
+      sample age and gender ratio as continuous moderators; significant
+      moderators re-tested in robustness checks adding correlated moderators.
+  synthesis:
+    model: "Three-level random-effects model (metafor, REML), coefficients nested in studies"
+    heterogeneity_statistic: "I2 (total, within- and between-study) and QE"
+    reporting_guideline: "PRISMA"
+    search:
+      databases:
+        - Academic Search Premier
+        - PsycARTICLES
+        - Psych Critiques
+        - PsycINFO
+        - PSYNDEX
+      date_range: "1962 to June 2019"
+      records_screened: 1494
+      records_included: 112
+    inclusion:
+      - "Empirical studies in English or German: journal articles, PhD theses, books or DT test manuals"
+      - "Correlations (or statistics convertible to them) between intelligence and DT measures, with DT procedure, DT scoring and the intelligence test described"
+      - "Established DT tests (not verbal fluency) and established intelligence tests (not proxies such as school achievement)"
+      - "Intelligence measured by full batteries, reasoning tasks, or vocabulary and knowledge tasks (g, gf, gc)"
+      - "Healthy participants"
+    exclusion:
+      - "Single-product creative production tasks such as metaphor and humour production"
+      - "Coefficients affected by fluency contamination: 444 of 1293 (34.34%) excluded, leaving 849"
+    data_handling:
+      - "Correlations corrected for attenuation by the DT and intelligence reliabilities; missing reliabilities imputed by the mean reliability (.78 DT, .79 intelligence)"
+      - "Studies from 1962-2016 screened and coded by the first author, disputes resolved with the third author; 2016-2019 screened by three student assistants and coded by the second author, who checked all coded studies for inconsistencies"
+      - "Scoring category 'other' (one study, 18 effect sizes) omitted"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: intelligence-dt-overall-r-25
+    bearing: supports
+    anchor: gerwig-anne-2021
+  - claim: publication-bias-dt-intelligence-underestimate
+    bearing: supports
+    anchor: gerwig-anne-2021
+  - claim: dt-scoring-fluency-vs-originality-moderator
+    bearing: supports
+    anchor: gerwig-anne-2021
+  - claim: sample-age-positive-moderator-dt-intelligence
+    bearing: supports
+    anchor: gerwig-anne-2021
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 849
+    unit: effect-sizes
+  additional_sizes:
+    - value: 112
+      unit: studies
+      note: "studies (m) contributing the 849 coefficients"
+    - value: 34610
+      unit: participants
+      note: "total N across the 112 studies"
+    - value: 1293
+      unit: effect-sizes
+      note: "coefficients obtained before excluding those affected by fluency contamination"
+  population:
+    description: >-
+      School students (40.50% of samples), university students (34.71%),
+      adults (15.70%), preschoolers (4.13%) and mixed samples. Mean gender
+      ratio 0.55 (SD 0.26). Most studies from the USA (51), then the UK (12),
+      Germany (9) and Austria (8). Sample sizes from 10 to 5337 (mean 274.68).
+    age_or_stage: "Preschool to adulthood; ages printed as ranging across samples from 4.00 to 72.93 years"
+    age:
+      unit: years
+      min: 4.00
+      max: 72.93
+      mean: 20.40
+      sd: 12.20
+      note: "Printed as 'the age of the participants across samples'; whether these summarise sample mean ages or individual ages is not stated."
+  context:
+    setting: "Laboratory, school and test-manual validation studies of psychometric intelligence and divergent-thinking tasks"
+  variation:
+    - dimension: "DT task"
+      distribution: "Alternate Uses Task 33.80% of effect sizes, DT test batteries 30.62%, ad hoc composites of several tasks 13.66%, others 2-5% each"
+    - dimension: "DT task modality"
+      distribution: "verbal 70.20% of effect sizes, figural 19.55%, several 10.25%"
+    - dimension: "Intelligence test modality"
+      distribution: "verbal 36.98%, figural 28.86%, several 27.33%, numerical 6.83%"
+  arms:
+    - id: fluency-scoring
+      description: "Coefficients in which DT was scored for fluency (number of ideas)."
+      size: {value: 564, unit: effect-sizes}
+    - id: originality-scoring
+      description: "Coefficients in which DT was scored for originality or creative quality."
+      size: {value: 190, unit: effect-sizes}
+    - id: composite-scoring
+      description: "Coefficients in which DT outcomes were combined by averaging or summing into a composite score."
+      size: {value: 73, unit: effect-sizes}
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "The pooled intelligence-DT correlation across all 849 coefficients; no contrast between configurations."
+  - id: age-meta-regression
+    kind: none
+    description: "Meta-regression of the Fisher-z correlation on average sample age across the corpus; a slope, not a contrast of two configurations."
+  - id: imputed-reliability
+    kind: none
+    description: "The corpus-mean reliabilities of DT and intelligence measures used to impute missing reliabilities for the attenuation correction."
+
+observations:
+
+  - id: intelligence-dt-overall
+    sample:
+      value: 849
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Divergent thinking"
+      source_language: "correlation between DT and intelligence"
+      measure: "Established DT tests (Alternate Uses, TTCT and other batteries) correlated with established intelligence tests (g, gf or gc measures)"
+      scale: "Pearson r corrected for attenuation, back-transformed from Fisher z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.25
+      ci_lower: 0.21
+      ci_upper: 0.30
+      interval_type: confidence
+      k:
+        value: 849
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 92.07
+        unit: "percent"
+        interpretation: "Within-study I2 46.58%, between-study I2 45.49%; QE(848) = 9206.17, p < .001"
+      publication_bias:
+        method: "Funnel plot, trim and fill, Egger-type test with standard errors as a moderator in the three-level model"
+        p_value: "0.018"
+        finding: "Funnel plot asymmetric; trim and fill imputed 169 coefficients on the right side, all in the region of significant effects, giving r = .27, 95% CI [.25, .29] (random-effects model without the within-study level); Egger-type test z = -2.37, p = .018. The authors read this as a slight underestimate, not a classical significance-driven bias."
+      model: "three-level random-effects (REML), attenuation-corrected"
+    moderators:
+      reported:
+        - variable: "DT scoring (fluency, originality/creative quality, composite)"
+          relationship: "Fluency r = .20, originality/creative quality .31, composite .37; fluency significantly lower than originality, robust across checks"
+          source_quote: "DT scoring was found to be a significant moderator of the relationship between DT and intelligence, QM(2) = 22.47, p < .001, with correlations ranging between r = .20 (fluency) to r = .37 (composite score; see Table 5)."
+        - variable: "Other aspects of DT instructions (game-like, test-like, strategy)"
+          relationship: "Game-like instructions gave a non-significant correlation (.07); test-like (.27) and strategy (.33) instructions were higher"
+          source_quote: "Game-like DT instructions yielded a non-significant correlation between DT and intelligence, whereas effect sizes were small to moderate for test-like or strategy DT instructions. The moderator test was significant, QM(2) = 25.94, p < .001."
+        - variable: "Intelligence facet (g, gc, gf)"
+          relationship: "No difference between facets"
+          source_quote: "The moderator test was non-significant (QM(2) = 5.77, p = .056)."
+        - variable: "Average sample age"
+          relationship: "Positive: older samples show higher correlations (recorded as its own observation)"
+          source_quote: "The average sample age had a positive relationship with the intelligence–DT correlation, β = 0.01, z = 6.93, p < .001."
+        - variable: "Gender ratio (proportion female)"
+          relationship: "Negative: implied r = .34 for all-male and .17 for all-female samples"
+          source_quote: "In addition, gender ratio had a negative effect on the transformed intelligence–DT correlation (see Figure 4), β = −0.17, z = −5.09, p < .001."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The estimated overall correlation between DT and intelligence was r = .25, 95%-CI [.21, .30] (m = 112, k = 849)."
+    source_location: "Section 4.1, Overall Effect"
+
+  - id: intelligence-dt-fluency
+    sample:
+      value: 564
+      unit: effect-sizes
+    arm_ref: fluency-scoring
+    outcome:
+      construct: "Divergent thinking fluency"
+      source_language: "Fluency"
+      measure: "DT tasks scored for the number of ideas, correlated with intelligence tests"
+      scale: "Pearson r corrected for attenuation, back-transformed from Fisher z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.20
+      ci_lower: 0.15
+      ci_upper: 0.25
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 564
+        unit: effect-sizes
+      model: "three-level meta-regression, cell-mean coding, attenuation-corrected"
+      note: "m = 76 studies, N = 24,927"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Fluency	.20	.15	.25	<.001	564	76	24,927"
+    source_location: "Table 5, Effect sizes as a function of DT scoring"
+
+  - id: intelligence-dt-originality
+    sample:
+      value: 190
+      unit: effect-sizes
+    arm_ref: originality-scoring
+    outcome:
+      construct: "Divergent thinking originality"
+      source_language: "Originality/creative quality"
+      measure: "DT tasks scored for originality or any creative quality with a conceptual relation to creativity, correlated with intelligence tests"
+      scale: "Pearson r corrected for attenuation, back-transformed from Fisher z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.31
+      ci_lower: 0.24
+      ci_upper: 0.37
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 190
+        unit: effect-sizes
+      model: "three-level meta-regression, cell-mean coding, attenuation-corrected"
+      note: "m = 26 studies, N = 4977"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Originality/creative quality	.31	.24	.37	<.001	190	26	4977"
+    source_location: "Table 5, Effect sizes as a function of DT scoring"
+
+  - id: intelligence-dt-composite
+    sample:
+      value: 73
+      unit: effect-sizes
+    arm_ref: composite-scoring
+    outcome:
+      construct: "Divergent thinking composite"
+      source_language: "Composite score"
+      measure: "DT outcomes combined by averaging or summing (sometimes called the creativity index), correlated with intelligence tests"
+      scale: "Pearson r corrected for attenuation, back-transformed from Fisher z"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.37
+      ci_lower: 0.29
+      ci_upper: 0.45
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 73
+        unit: effect-sizes
+      model: "three-level meta-regression, cell-mean coding, attenuation-corrected"
+      note: "m = 27 studies, N = 5226"
+    moderators:
+      reported: []
+      candidate:
+        - "Confounding with other moderators: the authors say the fluency-composite contrast was not robust across checks and the composite correlation 'can be partially explained by confounding with other moderators'"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Composite score	.37	.29	.45	<.001	73	27	5226"
+    source_location: "Table 5, Effect sizes as a function of DT scoring"
+
+  - id: age-slope
+    comparison_ref: age-meta-regression
+    outcome:
+      construct: "Divergent thinking"
+      source_language: "the transformed intelligence–DT correlation"
+      measure: "Fisher-z-transformed, attenuation-corrected intelligence-DT correlations regressed on average sample age"
+      scale: "meta-regression slope on Fisher z per year of average sample age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; cross-sectional across samples of different ages"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.01
+      statistic: "z = 6.93"
+      p_value: "< .001"
+      model: "three-level meta-regression on average sample age (linear; a quadratic term did not improve fit, delta chi2(1) = 0.09, p = .762)"
+      interpretation: "The authors: a 10-year difference in average sample age yields a difference of .10 in the Fisher-z-transformed correlation; robust across both checks"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The number of coefficients with a coded mean age, and so the k of this
+      meta-regression, is not printed. The slope is between samples, not a
+      within-person change with age.
+    source_quote: "The average sample age had a positive relationship with the intelligence–DT correlation, β = 0.01, z = 6.93, p < .001. This effect implies that a 10-year difference in average sample age yields a difference of .10 in the Fisher-z-transformed intelligence–DT correlation."
+    source_location: "Section 4.3.11, Sample Characteristics; Figure 3"
+
+  - id: dt-reliability-imputed
+    comparison_ref: imputed-reliability
+    outcome:
+      construct: "Reliability of divergent-thinking measures"
+      source_language: "Reliabilities of DT and intelligence tests"
+      measure: "Reliabilities of the DT tests as coded from the primary studies that reported them"
+      scale: "mean reliability coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.78
+      reliability:
+        statistic: other
+        over: other
+        form: "mean of the reliability estimates the primary studies reported, used to impute missing reliabilities (Schmidt and Hunter 2015)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      Which reliability coefficients (alpha, retest, interrater) were averaged,
+      and how many studies reported one, is not printed.
+    source_quote: "The imputed values for reliability were .78 and .79 for DT and intelligence, respectively."
+    source_location: "Section 3.3, Coding Procedure"
+
+  - id: intelligence-reliability-imputed
+    comparison_ref: imputed-reliability
+    outcome:
+      construct: "Reliability of intelligence measures"
+      source_language: "Reliabilities of DT and intelligence tests"
+      measure: "Reliabilities of the intelligence tests as coded from the primary studies that reported them"
+      scale: "mean reliability coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the primary studies"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      reliability:
+        statistic: other
+        over: other
+        form: "mean of the reliability estimates the primary studies reported, used to impute missing reliabilities (Schmidt and Hunter 2015)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      Which reliability coefficients were averaged, and how many studies
+      reported one, is not printed.
+    source_quote: "The imputed values for reliability were .78 and .79 for DT and intelligence, respectively."
+    source_location: "Section 3.3, Coding Procedure"
+
+not_yet_extracted:
+  - "Intelligence facets (Table 2): g .28 [.23, .33], gc .28 [.22, .33], gf .23 [.18, .28]."
+  - "DT instructions (Table 3) and other instruction aspects (Table 4): game-like .07 [-.02, .16], test-like .27 [.22, .31], strategy .33 [.22, .43]."
+  - "Instruction-scoring fit (Table 6): be-original/creative with originality scoring .34 [.27, .43], k 132."
+  - "Gender-ratio implied correlations: all-male .34 [.28, .39], all-female .17 [.12, .23], balanced .26 [.21, .30]."
+  - "Pre-Kim vs post-Kim: uncorrected r for 2004 or earlier .19 [.14, .23]; corrected .26 [.20, .32]."
+  - "Task modality, task type and time-on-task results (Tables 7-8, Section 4.3.7) and robustness checks (Table 9)."
+  - "Kim (2005), r = .174 [.165, .183], is cited from the earlier meta-analysis and is not this study's figure."

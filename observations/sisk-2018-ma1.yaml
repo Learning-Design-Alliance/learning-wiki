@@ -1,0 +1,349 @@
+# Sisk, Burgoyne, Sun, Butler & Macnamara (2018), Meta-Analysis 1: the
+# correlation between students' mind-sets and academic achievement.
+#
+# The article reports two meta-analyses with different corpora (Meta-Analysis 1:
+# 129 studies, 273 effect sizes, N = 365,915; Meta-Analysis 2: 29 studies, 43
+# effect sizes, N = 57,155), so each has its own record. This one is Meta-Analysis
+# 1; `sisk-2018-ma2` is the intervention meta-analysis.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled correlation over all 273 effect sizes, and the three
+#     developmental-stage strata (children, adolescents, adults) as arms named by
+#     `arm_ref`: a stratum's correlation is a result about one stratum, not a
+#     contrast between two.
+#   * `k` counts EFFECT SIZES. The corpus is 123 records, 129 studies, 162
+#     independent samples and 273 effect sizes.
+#   * `population.age: unreported`. The article codes developmental stage
+#     (children = primary school, adolescents = middle/junior high/high school,
+#     adults = e.g. postsecondary) and prints no age figure.
+#   * No reliability observation. The article says very few primary studies
+#     reported a reliability for mind-set, and its corrected estimate (r = .12)
+#     assumes a reliability of .80 taken from another study (Dweck et al., 1995).
+#     That .80 is not this study's figure; the corrected r is kept in a note on
+#     the overall observation, labelled as resting on the assumption.
+#
+# Read from the publisher PDF's text layer (pdftotext). The I² values print as
+# "I2" in the text layer; the quotes keep the text layer's characters.
+
+schema_version: 2
+
+study:
+  key: sisk-2018-ma1
+  citation: "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science, 29(4), 549–571."
+  doi: "10.1177/0956797617739704"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-Analysis 1 of two in one article: random-effects meta-analysis of
+      bivariate correlations between a measure of students' mind-set (belief
+      that a human attribute such as intelligence is fixed or malleable),
+      collected before or without any mind-set intervention, and academic
+      achievement (course exam, course grade, GPA or standardised test).
+      Mixed-effects moderator analyses (developmental stage, academic risk
+      status, SES, achievement measure) and publication-bias analyses.
+  synthesis:
+    model: "Random-effects meta-analysis, effect sizes weighted by inverse variance; mixed-effects models for moderators (Comprehensive Meta Analysis Version 2)"
+    heterogeneity_statistic: "I2"
+    reporting_guideline: "PRISMA"
+    search:
+      databases:
+        - ERIC
+        - PsycINFO
+        - PubMed
+        - ProQuest Dissertations & Theses
+        - Google Scholar
+      date_range: "through October 28, 2016; new data accepted through January 11, 2017"
+      records_screened: 15858
+      records_included: 123
+    inclusion:
+      - "A measure of a belief about one or more human attributes as fixed or malleable, collected prior to or without a mind-set intervention"
+      - "A measure of academic achievement (course exam, course grade, GPA or standardised test) collected prior to or without a mind-set intervention"
+      - "A bivariate correlation between mind-set and achievement reported, or enough information to compute it"
+      - "Methods and results in English"
+    exclusion:
+      - "Measures of beliefs about the importance of effort without beliefs about the malleability of an attribute"
+      - "Mind-set of willpower"
+    data_handling:
+      - "Dependent effect sizes (several mind-set or achievement measures per sample) adjusted by lowering the associated sample size, after Cheung and Chan (2004, 2008)"
+      - "Standardised mean differences from group comparisons converted to biserial correlations"
+      - "Signs coded so that a positive correlation means growth mind-set goes with higher achievement"
+      - "Outliers defined as residual z of 3 or more; none found"
+      - "Individual effect sizes not corrected for measurement unreliability, because very few studies reported a reliability for mind-set"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: growth-mindset-achievement-correlation-weak
+    bearing: supports
+    anchor: victoria-f-sisk-2018
+  - claim: developmental-stage-moderates-mindset-correlation
+    bearing: supports
+    anchor: victoria-f-sisk-2018
+  - claim: mindset-achievement-heterogeneity-high
+    bearing: supports
+    anchor: victoria-f-sisk-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 273
+    unit: effect-sizes
+  additional_sizes:
+    - value: 123
+      unit: reports
+      note: "records included (Fig. 1)"
+    - value: 129
+      unit: studies
+      note: "studies meeting all inclusion criteria"
+    - value: 162
+      unit: other
+      note: "independent samples within the 129 studies"
+    - value: 365915
+      unit: participants
+      note: "total sample size of students across the 273 effect sizes"
+  population:
+    description: >-
+      Students in primary, secondary and postsecondary education, in studies
+      from over 20 countries. Academic risk status by effect size: low 208,
+      moderate 55, high 6. Of 95 effect sizes with student-level SES reported,
+      33 were low-SES samples and 62 not low.
+    age_or_stage: >-
+      Coded as developmental stage: children (primary school students),
+      adolescents (middle school, junior high school and high school students)
+      and adults (e.g., postsecondary students). Eight effect sizes from samples
+      spanning more than one stage were left out of the stage analysis. The
+      article prints no age range or mean.
+    age: unreported
+  context:
+    setting: "Educational settings; achievement measured by course exams, course grades, GPA, standardised tests, and in 24 effect sizes by laboratory-based measures"
+  variation:
+    - dimension: "Developmental stage (Table 1)"
+      distribution: "children 50 effect sizes (N = 8,118), adolescents 126 (N = 332,240), adults 89 (N = 21,673)"
+    - dimension: "Academic achievement measure (Table 1)"
+      distribution: "course exam 15, course grade 51, GPA 82, standardised test 125; 24 of the 273 were laboratory-based measures (coded as course exams or standardised tests)"
+    - dimension: "Mind-set type (Table 1)"
+      distribution: "intelligence 167, other attribute (e.g., math ability) 106"
+    - dimension: "Publication status (Table 1)"
+      distribution: "published 116, unpublished 157"
+  arms:
+    - id: children
+      description: "Effect sizes from samples of children (primary school students)."
+      size:
+        value: 50
+        unit: effect-sizes
+    - id: adolescents
+      description: "Effect sizes from samples of adolescents (middle school, junior high school and high school students)."
+      size:
+        value: 126
+        unit: effect-sizes
+    - id: adults
+      description: "Effect sizes from samples of adults (e.g., postsecondary students)."
+      size:
+        value: 89
+        unit: effect-sizes
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Mind-set and academic achievement across all 273 effect sizes; no contrast between strata."
+
+observations:
+
+  - id: mindset-achievement-overall
+    sample:
+      value: 273
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "correlation with growth mind-set scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies; mind-set and achievement collected before or without any intervention"
+    result:
+      measure_type: correlation
+      estimate: 0.10
+      ci_lower: 0.08
+      ci_upper: 0.13
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 273
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 96.29
+        unit: percent
+        interpretation: "tau2 = .025; described as a very large proportion of heterogeneity"
+      publication_bias:
+        method: "Published vs unpublished moderator analysis, p-curve, Egger's regression"
+        finding: "Published (r = .11) and unpublished (r = .09) did not differ, Q(1) = 0.65, p = .420; p-curve right-skewed (evidential value); Egger's regression significant, B0 = -2.98, 95% CI [-3.58, -2.39], t(271) = 9.92, p < .001, which the authors read with caution given the heterogeneity"
+      model: "random-effects"
+      interpretation: "Described by the authors as very weak"
+      note: >-
+        157 of 273 effect sizes (58%) did not differ from zero, 16 (6%) were
+        significantly negative and 100 (37%) significantly positive. Assuming
+        a mind-set reliability of .80 (a figure the authors take from Dweck et
+        al., 1995, not one measured here), the authors report r = .12, 95% CI
+        [.09, .14]. Excluding the 24 laboratory-based effect sizes gave r = .11,
+        95% CI [.08, .13].
+    moderators:
+      reported:
+        - variable: "Developmental stage"
+          relationship: "Children r = .19, adolescents r = .15, adults r = .02 (not significant); adults differed from both other groups"
+          source_quote: "The developmental stage of the students was a statistically significant moderator, Q(2) = 72.84, p < .001."
+        - variable: "Academic risk status"
+          relationship: "Not a significant moderator: low risk r = .11, moderate r = .11, high r = .08"
+          source_quote: "Academic risk status was not a significant moderator, Q(2) = 0.22, p = .895."
+        - variable: "Socioeconomic status"
+          relationship: "Not a significant moderator: low SES r = .17, middle class and higher r = .12"
+          source_quote: "Socioeconomic status was not a significant moderator, Q(1) = 1.48, p = .223."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Whether each correlation was concurrent or prospective is not reported;
+      the inclusion rule says only that both measures were collected before or
+      without an intervention.
+    source_quote: "The meta-analytic average correlation (i.e., the average of various population effects) between growth mind-set and academic achievement is r = .10, 95% confidence interval (CI) = [.08, .13], p < .001."
+    source_location: "Meta-Analysis 1, Results (p. 554)"
+
+  - id: mindset-achievement-children
+    sample:
+      value: 50
+      unit: effect-sizes
+    arm_ref: children
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "correlation with growth mind-set scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.19
+      ci_lower: 0.16
+      ci_upper: 0.23
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 50
+        unit: effect-sizes
+      model: "mixed-effects moderator model"
+      note: "k from Table 1 (developmental stage, children: 50 effect sizes, N = 8,118)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The average correlation between mind-set and academic achievement was r = .19, 95% CI = [.16, .23], p < .001, for children; r = .15, 95% CI = [.12, .18], p < .001, for adolescents; and r = .02, 95% CI = [−.005, .05], p = .110, for adults."
+    source_location: "Meta-Analysis 1, Results, Moderator analyses, Student factors (p. 554); Table 1"
+
+  - id: mindset-achievement-adolescents
+    sample:
+      value: 126
+      unit: effect-sizes
+    arm_ref: adolescents
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "correlation with growth mind-set scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.15
+      ci_lower: 0.12
+      ci_upper: 0.18
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 126
+        unit: effect-sizes
+      model: "mixed-effects moderator model"
+      note: "k from Table 1 (adolescents: 126 effect sizes, N = 332,240). Adolescents and children did not differ, Q(1) = 3.47, p = .063."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The average correlation between mind-set and academic achievement was r = .19, 95% CI = [.16, .23], p < .001, for children; r = .15, 95% CI = [.12, .18], p < .001, for adolescents; and r = .02, 95% CI = [−.005, .05], p = .110, for adults."
+    source_location: "Meta-Analysis 1, Results, Moderator analyses, Student factors (p. 554); Table 1"
+
+  - id: mindset-achievement-adults
+    sample:
+      value: 89
+      unit: effect-sizes
+    arm_ref: adults
+    outcome:
+      construct: "Academic achievement"
+      source_language: "academic achievement"
+      measure: "Course exams, course grades, GPA and standardised tests, as reported by the primary studies"
+      scale: "correlation with growth mind-set scores"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.02
+      ci_lower: -0.005
+      ci_upper: 0.05
+      interval_type: confidence
+      p_value: ".110"
+      k:
+        value: 89
+        unit: effect-sizes
+      model: "mixed-effects moderator model"
+      note: "k from Table 1 (adults: 89 effect sizes, N = 21,673). Adults differed from adolescents, Q(1) = 39.89, and from children, Q(1) = 58.37, both p < .001."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The average correlation between mind-set and academic achievement was r = .19, 95% CI = [.16, .23], p < .001, for children; r = .15, 95% CI = [.12, .18], p < .001, for adolescents; and r = .02, 95% CI = [−.005, .05], p = .110, for adults."
+    source_location: "Meta-Analysis 1, Results, Moderator analyses, Student factors (p. 554); Table 1"
+
+not_yet_extracted:
+  - "Assumed mind-set reliability of .80 (cited from Dweck et al., 1995), not measured in this study."
+  - "Achievement-measure moderator: course exam r = .08, course grade r = .13, GPA r = .08, standardised test r = .12, Q(3) = 6.18, p = .103; without laboratory measures Q(3) = 13.12, p = .004 and course exam r = .04."
+  - "Developmental stage on GPA only: adolescents r = .12, adults r = .002, Q(1) = 17.01, p < .001."
