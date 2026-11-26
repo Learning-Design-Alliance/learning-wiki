@@ -1,0 +1,328 @@
+# Guo et al. (2016): self-concept, four task-value components and a global
+# value factor predicting mathematics achievement, self-reported effort and
+# teacher-rated engagement in German Grade 9 (AERA Open).
+#
+# Read from a University of Konstanz (KOPS) repository copy of the CC-BY
+# article (20 pp., text layer). Tables 1 and 4 come out of the text layer one
+# cell per line; the figures below were checked against the page images
+# (Table 1 on p. 6, Table 4 on p. 10). The Table 4 source_quotes are the
+# Model C4 column as the text layer runs it, which is the printed column read
+# top to bottom.
+#
+# The paths recorded are Model C4's: self-concept, the four second-order value
+# components and the orthogonal global value factor entered together, each
+# outcome regressed on all of them. Every coefficient is a standardised path
+# in a latent SEM (Mplus, MLR, standard errors corrected for students nested
+# in classes and schools); none is a raw correlation, and the interaction
+# models (Table 5, D1-D5) are not recorded here.
+#
+# TWO SAMPLE COUNTS, not reconciled by the source: the abstract says 1,868
+# students and the Method says 1,978 took part. The analysed n per model is
+# not printed, so no observation carries a `sample`.
+
+schema_version: 2
+
+study:
+  key: guo-2016
+  citation: "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambria, J., Flunger, B., Dicke, A.-L., Häfner, I., Brisson, B., & Trautwein, U. (2016). Probing the unique contributions of self-concept, task values, and their interactions using multiple value facets and multiple academic outcomes. AERA Open, 2(1), 1–20."
+  doi: "10.1177/2332858415626884"
+  design:
+    family: observational
+    design_detail: >-
+      Questionnaire survey of Grade 9 students at one time point, with
+      official state mathematics test results and teacher ratings as outcomes.
+      Latent structural equation models with a second-order bi-factor model
+      of task value (global value factor plus four orthogonal value
+      components), and latent moderated structural equations for
+      self-concept-by-value interactions. The authors call for longitudinal
+      panel studies or experiments to establish temporal ordering.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: self-concept-predicts-achievement-value-predicts-effort
+    bearing: supports
+    anchor: guo-2016
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1978
+    unit: participants
+  additional_sizes:
+    - value: 1868
+      unit: participants
+      note: "the abstract's participant count; the article does not say how it relates to the 1,978 who took part"
+    - value: 82
+      unit: classes
+      note: "classes the sample was drawn from; not a unit of assignment, but standard errors were adjusted for the nesting"
+    - value: 25
+      unit: schools
+      note: "academic-track schools (Gymnasium) in Baden-Württemberg"
+  population:
+    description: >-
+      Ninth-grade students with active parental consent, from 82 classes in
+      25 academic-track (Gymnasium) schools in Baden-Württemberg, Germany,
+      2012; 53.5% female. Part of the Motivation in Mathematics (MoMa)
+      project.
+    age_or_stage: "Grade 9 (Year 9), academic track"
+    age:
+      unit: years
+      mean: 14.62
+  context:
+    setting: "Questionnaires administered in class by trained research assistants; mathematics achievement from the state school-quality test results reported by the schools"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Structural paths and scale properties in the whole sample; no contrast between groups."
+
+observations:
+
+  - id: global-value-on-effort-c4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Self-reported effort in mathematics"
+      source_language: "self-reported effort"
+      measure: "Six items on effort in math class, math tasks and homework (e.g. 'I work hard in math'), 4-point scale"
+      scale: "standardised path coefficient from the global value factor"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same occasion as the predictors"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.35
+      standard_error: 0.10
+      p_value: "< .001"
+      model: >-
+        Model C4, second-order bi-factor SEM: effort regressed on self-concept
+        (-.02), intrinsic value (.25), attainment value (.58), utility value
+        (.02), low cost (.09) and global value (.35) together.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Global value is the bi-factor G-factor, orthogonal to the four value
+      components, so this path is not the effect of "value" as a single scale
+      would measure it.
+    source_quote: "However, the predictive effect of self-concept on effort became nonsignificant. Instead, global value substantially predicted effort (β = .35) but not achievement and engagement."
+    source_location: "Results, Four value components: unique contributions (p. 10); Table 4, Model C4"
+
+  - id: self-concept-on-effort-c4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Self-reported effort in mathematics"
+      source_language: "self-reported effort"
+      measure: "Six items on effort in math class, math tasks and homework, 4-point scale"
+      scale: "standardised path coefficient from mathematics self-concept"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same occasion as the predictors"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.02
+      standard_error: 0.11
+      model: >-
+        Model C4, as above. Without value beliefs (Model C1) self-concept
+        predicted effort at .32 (.03), and with the value components but not
+        global value (Model C3) at .30 (.05).
+      interpretation: "Not significant; the authors say the effect of self-concept on effort became nonsignificant once global value was entered"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "–.02 (.11) .25 (.06)*** .58 (.04)*** .02 (.03) .09 (.05)† .35 (.10)***"
+    source_location: "Table 4 (p. 10), Model C4 column, self-reported effort rows (self-concept, intrinsic, attainment, utility, low cost, global value); read against the page image"
+
+  - id: global-value-on-achievement-c4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "math achievement"
+      measure: "State school-quality mathematics test (Landesinstitut für Schulentwicklung), official results reported by the schools"
+      scale: "standardised path coefficient from the global value factor"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test results for the same school year as the questionnaire"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.01
+      standard_error: 0.06
+      model: >-
+        Model C4: achievement regressed on self-concept (.47), intrinsic value
+        (.07), attainment value (.01), utility value (.05), low cost (.09) and
+        global value (.01) together. In Model C2, without self-concept, global
+        value predicted achievement at .38 (.03).
+      interpretation: "Not significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The article does not say when in the year the test was taken relative
+      to the questionnaire.
+    source_quote: ".47 (.06)*** .07 (.05) .01 (.03) .05 (.03) .09 (.04)* .01 (.06)"
+    source_location: "Table 4 (p. 10), Model C4 column, achievement rows (self-concept, intrinsic, attainment, utility, low cost, global value); read against the page image"
+
+  - id: self-concept-on-achievement-c4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "math achievement"
+      measure: "State school-quality mathematics test, official results reported by the schools"
+      scale: "standardised path coefficient from mathematics self-concept"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test results for the same school year as the questionnaire"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.47
+      standard_error: 0.06
+      p_value: "< .001"
+      model: "Model C4, as above. Without value beliefs (Model C1) self-concept predicted achievement at .53 (.02)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: ".47 (.06)*** .07 (.05) .01 (.03) .05 (.03) .09 (.04)* .01 (.06)"
+    source_location: "Table 4 (p. 10), Model C4 column, achievement rows; read against the page image"
+
+  - id: effort-scale-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Self-reported effort in mathematics"
+      source_language: "Reliability of this scale"
+      measure: "Six-item self-reported effort scale, 4-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire occasion"
+    result:
+      measure_type: reliability
+      estimate: 0.81
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Reliability of this scale was good (α = .81)."
+    source_location: "Method, Measures, Student self-reported effort (p. 5); also Table 1"
+
+  - id: self-concept-scale-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics self-concept"
+      source_language: "The reliability of this scale"
+      measure: "Five items from the German adaptation of the Self-Description Questionnaire III (e.g. 'I am good at math'), 4-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire occasion"
+    result:
+      measure_type: reliability
+      estimate: 0.92
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as acceptable"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The reliability of this scale was acceptable (Cronbach’s α = .92)."
+    source_location: "Method, Measures, Self-concept (p. 5); also Table 1"
+
+  - id: teacher-engagement-scale-reliability
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Teacher-rated behavioural engagement in mathematics"
+      source_language: "Teacher-rated engagement"
+      measure: "Two teacher-rated items: participation in math lessons and thoroughness on tasks and homework, 4-point scale"
+      scale: "Table 1 'Scale reliability' column"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "teacher rating, same school year"
+    result:
+      measure_type: reliability
+      estimate: 0.50
+      reliability:
+        statistic: other
+        over: items
+        form: "Table 1 'Scale reliability'; the table does not name the coefficient"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The coefficient is not named in Table 1. The Limitations give two other
+      values from the same column (.52 and .68 for the two-item utility
+      facets) as alpha, but that is not said of this row, so the statistic is
+      left as `other`. The authors list the two-item engagement measure as a
+      limitation.
+    source_quote: "5 6 2 .03 .15 .02 .92 .81 .50"
+    source_location: "Table 1 (p. 6), self-concept, self-reported effort and teacher-rated engagement rows (number of items, ICC, scale reliability); read against the page image"
+
+not_yet_extracted:
+  - "Table 3 latent correlations among self-concept, the four value components and the three outcomes (e.g. self-concept with achievement r = .53, attainment value with effort r = .60)."
+  - "Table 4 Models C1-C3 and the teacher-rated engagement paths in Model C4."
+  - "Table 5 latent self-concept-by-value interaction models (D1-D5)."
+  - "Table 1 ICCs and scale reliabilities for the ten value facets."

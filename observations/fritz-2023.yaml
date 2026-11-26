@@ -1,0 +1,419 @@
+# Fritz, González Cruz, Janke & Daumiller (2023): achievement goals and
+# academic dishonesty, a three-level meta-analysis.
+#
+# Read from a University of Freiburg repository copy of the open-access
+# article (36 pp., text layer). Tables 4 and 5 are printed sideways or in
+# columns that the text layer scrambles, so every TABLE figure below was read
+# from the page images (Table 4 on p. 18, Table 5 on p. 24) and every
+# source_quote is either article prose or a Table 5 row whose text, once
+# whitespace is normalised, reads exactly as printed. Table 4's figures are
+# quoted through the prose that restates them; its PI, Q and I² columns are
+# not restated in prose and were read from the p. 18 image.
+#
+# ONE DISCREPANCY IN THE SOURCE, recorded rather than resolved. The Results
+# prose calls the secondary-school figure "r = –0.197" and the tertiary one
+# "r = –0.110". In Table 5 those numbers are the meta-regression's
+# unstandardised beta (dummy-coded, primary as the reference group), and the
+# back-transformed r is –.213 (secondary) and –.128 (tertiary), with the same
+# confidence bounds the prose prints. The observations below take r from the
+# table column the table labels r, and keep beta in `model`; nothing is
+# converted.
+#
+# `k` counts what the source counts: in Table 4, n is the number of effect
+# sizes and k the number of studies. Table 5 prints only n (effect sizes) per
+# educational level, so the stratum observations carry k in effect sizes.
+
+schema_version: 2
+
+study:
+  key: fritz-2023
+  citation: "Fritz, T., González Cruz, H., Janke, S., & Daumiller, M. (2023). Elucidating the associations between achievement goals and academic dishonesty: A meta-analysis. Educational Psychology Review, 35, 33."
+  doi: "10.1007/s10648-023-09753-1"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Three-level random-effects meta-analyses of zero-order correlations
+      between achievement goals (mastery, mastery-approach, mastery-avoidance,
+      performance, performance-approach, performance-avoidance,
+      work-avoidance) and academic dishonesty (self-report, intention,
+      behavioural measures), each goal type analysed separately, with
+      three-level meta-regressions for moderators. All primary studies but one
+      were cross-sectional; the one longitudinal study's three time points
+      were treated as dependent cross-sectional effect sizes.
+  synthesis:
+    model: "Three-level random-effects models, REML estimator, Hartung-Knapp adjustment; Fisher r-to-z with back-transformation to r"
+    heterogeneity_statistic: "Cochran's Q and multilevel I2 (within-study level 2, between-study level 3)"
+    search:
+      databases:
+        - Google Scholar
+        - Web of Science
+        - ERIC
+        - Education Source
+        - PsycArticles
+        - ProQuest Dissertations & Theses
+      records_included: 33
+    inclusion:
+      - "Students in primary, secondary or tertiary education, or educators in academic institutions"
+      - "At least one self-directed achievement goal (personal or contextual) and at least one academic dishonesty measure (self-report, behavioural, or intention)"
+      - "Zero-order correlations, or data to compute them"
+    exclusion:
+      - "Qualitative studies, case studies, reviews, meta-analyses, theoretical papers"
+      - "Published before 1970; non-full-text material; non-English"
+      - "Goal measures best described as extrinsic goals, and the LOGO(II) grade and learning orientation scales"
+    data_handling:
+      - "First author coded every study; a graduate student double-coded a subset of 20 studies; two research assistants double-checked the whole coding"
+      - "Leave-one-out sensitivity analyses"
+      - "Publication bias assessed per goal type with Egger's regression, Begg's rank correlation and tests of excess significance on study-aggregated effect sizes"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: mastery-goals-negative-academic-dishonesty
+    bearing: supports
+    anchor: tanja-fritz-2023
+  - claim: educational-level-moderates-mastery-approach-dishonesty
+    bearing: supports
+    anchor: tanja-fritz-2023
+  - claim: work-avoidance-goals-positive-dishonesty
+    bearing: supports
+    anchor: tanja-fritz-2023
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 163
+    unit: effect-sizes
+  additional_sizes:
+    - value: 33
+      unit: studies
+      note: "primary studies included, published 1998 to 2020"
+    - value: 19787
+      unit: participants
+      note: "total participants across the 33 studies; study sample sizes ranged from 70 to 4787 (median 337)"
+  population:
+    description: >-
+      Students in the included studies: university students in 51.52% of
+      studies and secondary students in 45.45%, with one study of elementary
+      school students. Genders evenly distributed (median 51.08% across the
+      overall sample). 45.45% of studies from the US, then Croatia (9.09%),
+      Germany, Greece and Turkey (6.06% each).
+    age_or_stage: >-
+      Coded and tested as educational level (primary, secondary, tertiary);
+      the article prints no age range, mean or median for its samples.
+    age: unreported
+  context:
+    setting: "Schools and higher education; goals mostly measured as students' personal goals (84.66% of effect sizes) and dishonesty mostly by self-report (90.18%)"
+  variation:
+    - dimension: "Educational level of the sample"
+      distribution: "Tertiary 17 studies, secondary 15, primary 1"
+    - dimension: "Academic dishonesty measure type"
+      distribution: "Self-report 147 effect sizes, intention 9, behavioural 7"
+    - dimension: "Achievement goal level"
+      distribution: "Personal 138 effect sizes, classroom 12, teacher 10, school 1, parent 1"
+  arms:
+    - id: primary
+      description: "Mastery-approach effect sizes from elementary (primary) school samples: two effect sizes from one study."
+      size:
+        value: 2
+        unit: effect-sizes
+    - id: secondary
+      description: "Mastery-approach effect sizes from secondary school samples."
+      size:
+        value: 21
+        unit: effect-sizes
+    - id: tertiary
+      description: "Mastery-approach effect sizes from tertiary (university) samples."
+      size:
+        value: 27
+        unit: effect-sizes
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "One goal type's correlation with academic dishonesty pooled across the corpus; no contrast between strata."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the first author and a second coder on the double-coded subset of studies."
+
+observations:
+
+  - id: map-dishonesty-overall
+    sample:
+      value: 50
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic dishonesty"
+      source_language: "academic dishonesty"
+      measure: "Self-report, intention and behavioural measures of academic dishonesty, as in the primary studies"
+      scale: "correlation with mastery-approach goal scores (z-to-r back-transformed)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.169
+      ci_lower: -0.204
+      ci_upper: -0.133
+      interval_type: confidence
+      prediction_interval:
+        lower: -0.354
+        upper: 0.030
+        source: "Table 4 (p. 18), 95% PI column, as printed by the authors"
+      k:
+        value: 24
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 86.59
+        unit: percent
+        interpretation: "High total inconsistency, mostly within-study (I2 level 2 = 64.61%, level 3 = 21.98%); Q(df = k-1) = 289.66, p < .001 (Table 4, read from the page image)"
+      publication_bias:
+        method: "Egger's regression, Begg's rank correlation and tests of excess significance per goal type, on study-aggregated effect sizes, with contour-enhanced funnel plots"
+        finding: "No indication of publication bias (details in Online Resource 4, not read)"
+      model: "three-level random-effects"
+      note: "47 of the 50 effect sizes negative, 3 positive."
+    moderators:
+      reported:
+        - variable: "Educational level of the sample"
+          relationship: "Primary-school effect sizes (r = -.019) differ from secondary (r = -.213); tertiary r = -.128; F(2, 47) = 6.83, p = .003"
+          source_quote: "Test of moderator: F(df1 = 2, df2 = 47) = 6.83, p = .003"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "mastery-approach goals based on 50 effect sizes (3 positive and 47 negative) from 24 studies (r = –0.169, 95% CI [–0.204, –0.133])."
+    source_location: "Results, Summary Effects; Table 4 (p. 18)"
+
+  - id: work-avoidance-dishonesty-overall
+    sample:
+      value: 6
+      unit: effect-sizes
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Academic dishonesty"
+      source_language: "academic dishonesty"
+      measure: "Academic dishonesty measures as in the three primary studies"
+      scale: "correlation with work-avoidance goal scores (z-to-r back-transformed)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.190
+      ci_lower: 0.015
+      ci_upper: 0.354
+      interval_type: confidence
+      prediction_interval:
+        lower: -0.246
+        upper: 0.562
+        source: "Table 4 (p. 18), 95% PI column, as printed by the authors"
+      k:
+        value: 3
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 87.71
+        unit: percent
+        interpretation: "All within-study (I2 level 2 = 87.71%, level 3 = 0); Q(df = k-1) = 42.79, p < .001. The authors caution that only three studies contributed."
+      model: "three-level random-effects"
+      note: "5 of the 6 effect sizes positive, 1 negative. Leaving out Seremet et al. (2018) moved the estimate to r = 0.36 (n = 3, k = 2), the largest leave-one-out deviation in the analysis."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The educational level of the three work-avoidance studies is not given
+      in the main text (it may be in the online resources, not read).
+    source_quote: "Lastly, we found statistically significant small positive associations for work-avoidance goals (r = 0.190, 95% CI [0.015, 0.354]), based on 6 effect sizes (5 positive and 1 negative) from 3 studies."
+    source_location: "Results, Summary Effects; Table 4 (p. 18)"
+
+  - id: map-dishonesty-primary
+    sample:
+      value: 2
+      unit: effect-sizes
+    arm_ref: primary
+    outcome:
+      construct: "Academic dishonesty"
+      source_language: "academic dishonesty"
+      measure: "Academic dishonesty measures in the one elementary-school study"
+      scale: "correlation with mastery-approach goal scores (z-to-r back-transformed)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary study, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.019
+      ci_lower: -0.158
+      ci_upper: 0.121
+      interval_type: confidence
+      k:
+        value: 2
+        unit: effect-sizes
+      model: "Three-level meta-regression on educational level, primary as the reference group (beta = -.019, SE = 0.07)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Two effect sizes from a single study; the authors call these findings
+      preliminary.
+    source_quote: "Primary 2 –.019 0.07 –.019 –.158 .121"
+    source_location: "Table 5 (p. 24), mastery-approach goals by educational level; row read against the page image"
+
+  - id: map-dishonesty-secondary
+    sample:
+      value: 21
+      unit: effect-sizes
+    arm_ref: secondary
+    outcome:
+      construct: "Academic dishonesty"
+      source_language: "academic dishonesty"
+      measure: "Academic dishonesty measures in secondary-school samples"
+      scale: "correlation with mastery-approach goal scores (z-to-r back-transformed)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.213
+      ci_lower: -0.253
+      ci_upper: -0.172
+      interval_type: confidence
+      k:
+        value: 21
+        unit: effect-sizes
+      model: "Three-level meta-regression on educational level; unstandardised beta for the secondary dummy = -.197 (SE = 0.07, p < .010), primary as reference"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The Results prose reports this stratum as "r = –0.197" with the same
+      interval; Table 5 labels -.197 as beta and prints r = -.213. The table's
+      r is recorded.
+    source_quote: "Secondary 21 –.197** 0.07 –.213 –.253 –.172"
+    source_location: "Table 5 (p. 24), mastery-approach goals by educational level; row read against the page image"
+
+  - id: map-dishonesty-tertiary
+    sample:
+      value: 27
+      unit: effect-sizes
+    arm_ref: tertiary
+    outcome:
+      construct: "Academic dishonesty"
+      source_language: "academic dishonesty"
+      measure: "Academic dishonesty measures in university samples"
+      scale: "correlation with mastery-approach goal scores (z-to-r back-transformed)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.128
+      ci_lower: -0.166
+      ci_upper: -0.090
+      interval_type: confidence
+      k:
+        value: 27
+        unit: effect-sizes
+      model: "Three-level meta-regression on educational level; unstandardised beta for the tertiary dummy = -.110 (SE = 0.07, not significant), primary as reference"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      As for the secondary stratum, the prose's "r = –0.110" is Table 5's
+      beta; the table prints r = -.128.
+    source_quote: "Tertiary 27 –.110 0.07 –.128 –.166 –.090"
+    source_location: "Table 5 (p. 24), mastery-approach goals by educational level; row read against the page image"
+
+  # The reliability of the CODING, which is what this meta-analysis printed
+  # about its own procedure. The companion "ICC = 99.8%" is not recorded:
+  # see not_yet_extracted.
+  - id: coder-agreement-kappa
+    sample:
+      value: 20
+      unit: studies
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "interrater reliability"
+      measure: "The coding scheme (study characteristics, goal and dishonesty measures, effect sizes) applied by the first author and a graduate student to a subset of 20 studies"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 0.90
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      interpretation: "Described by the authors as a high interrater reliability"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. The source calls the 20 studies "34.5% of the total sample",
+      which does not match the 33 included studies; the denominator is not
+      explained.
+    source_quote: "The double coding yielded a high interrater reliability (ICC = 99.8%, Cohen’s Kappa = 0.90)."
+    source_location: "Method, Data Extraction and Coding (p. 13)"
+
+not_yet_extracted:
+  - "ICC = 99.8% for the double coding: printed as a percentage, which the schema's ICC range (-1 to 1) cannot hold without rewriting the figure; left unrecorded rather than converted."
+  - "Table 4 pooled estimates for mastery (r = -.234, k = 7), mastery-avoidance (r = -.006, k = 3), performance (r = -.035, k = 10), performance-approach (r = .034, k = 20) and performance-avoidance (r = .060, k = 14) goals."
+  - "Table 5 moderation of performance-approach (F(2, 40) = 4.60, p = .016) and performance-avoidance (F(2, 24) = 3.43, p = .049) goals by dishonesty measure type."
