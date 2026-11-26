@@ -1,0 +1,694 @@
+# Schroeder & Kucera (2022): meta-analysis of refutation text against
+# non-refutation text conditions, between-subjects experiments.
+#
+# Read from the publisher PDF (Educational Psychology Review 34:957-987) and its
+# text layer. The front matter prints the DOI 10.1007/s10648-021-09656-z, which
+# agrees with the key given for this record.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled effect over all 44 comparisons, the trim-and-fill adjusted
+#     estimate, the random-assignment stratum, the four school and university
+#     age strata, and the multiple-choice and open-ended test-format strata
+#     (Table 3). The Table 3 rows quoted are those whose text-layer row reads
+#     cleanly; the "Mixed adult", "Mixed ages", "Likert" and "Mixed item types"
+#     rows interleave their columns in the text layer and are not recorded.
+#   * `measure_type: reliability`, twice: the coders' Cohen's kappa (0.89) and
+#     their percent agreement (90.4%), on eight of the 33 studies double-coded.
+#     It is the reliability of the CODING, not of any outcome test; the article
+#     prints no reliability for the primary studies' tests.
+#   * `population.age: unreported`. Learner age was coded by grade band
+#     (primary K-5, middle 6-8, secondary 9-12, post-secondary) and the article
+#     prints no age in years.
+#   * The corpus is counted in effect sizes: one per independent comparison,
+#     44 in all, from 33 studies. Stratum k values count the same unit.
+#   * Effects are Hedges' g as the article names it. Table 3 gives n for each
+#     side of a stratum; those counts go in descriptives and are not summed.
+
+schema_version: 2
+
+study:
+  key: schroeder-2022
+  citation: "Schroeder, N. L., & Kucera, A. C. (2022). Refutation text facilitates learning: A meta-analysis of between-subjects experiments. Educational Psychology Review, 34(2), 957–987."
+  doi: "10.1007/s10648-021-09656-z"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Random-effects meta-analysis of between-subjects comparisons of a
+      refutation text condition with a non-refutation text condition carrying
+      the same general instructional information, on quantitatively measured
+      learning of factual information. One outcome test per independent
+      comparison, chosen by stated preference rules (conceptual change, then
+      transfer, then comprehension or retention, then unspecified; the most
+      delayed test where several were given). Categorical moderator analyses
+      (Q between) on text features and on methodological features.
+  synthesis:
+    model: "Random-effects model, run in Comprehensive Meta-Analysis version 2.2.064"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - Academic Search Complete
+        - APA PsycINFO
+        - CINAHL Plus with Full Text
+        - Education Research Complete
+        - ERIC
+        - MEDLINE
+        - Web of Science Core Collection
+      date_range: "no start limit; searched March 28, 2020"
+      records_screened: "855 research items, 473 after removal of duplicates; 129 retrieved in full text"
+      records_included: "33 research items, 44 independent comparisons"
+    inclusion:
+      - "A between-subjects comparison of a refutation text condition with a separate non-refutation text condition containing the same general instructional information"
+      - "Quantitative measure of learning of factual information rather than beliefs or opinions"
+      - "Enough data to calculate an effect size, and the number of participants in each group"
+      - "A design with few or minimal confounding variables"
+      - "Published in English and publicly available"
+    exclusion:
+      - "Comparison conditions with no instructional materials or with filler texts"
+    data_handling:
+      - "One outcome test per independent comparison, by stated preference order; the most delayed test where several were given"
+      - "Where a conference proceeding and a journal article reported the same data, the journal article was coded unless it lacked the information needed"
+      - "One author coded all studies; the second coded eight randomly selected studies; disagreements reconciled through discussion"
+      - "Moderator variables not reported in a primary study were coded 'not reported'"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: refutation-text-moderate-overall-effect
+    bearing: supports
+    anchor: schroeder-2022
+  - claim: refutation-text-publication-bias-minimal
+    bearing: supports
+    anchor: schroeder-2022
+  - claim: refutation-text-methodological-features-no-moderation
+    bearing: supports
+    anchor: schroeder-2022-2
+  - claim: refutation-text-publication-type-moderates
+    bearing: supports
+    anchor: schroeder-2022
+  - claim: refutation-text-effects-persist-over-time
+    bearing: supports
+    anchor: schroeder-2022
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 44
+    unit: effect-sizes
+  additional_sizes:
+    - value: 33
+      unit: studies
+      note: "studies that met the inclusion criteria and contributed the 44 independent comparisons"
+    - value: 3869
+      unit: participants
+      note: "participants across the 44 comparisons (the overall n)"
+  population:
+    description: >-
+      Learners reading refutation or non-refutation texts in experiments drawn
+      from the medical science, social science, psychological science and
+      science education literature; most comparisons used post-secondary
+      samples. Studies took place in Europe (21 comparisons) or North America
+      (18); location not reported for 5.
+    age_or_stage: >-
+      Coded by grade band: primary (K-5) 2 comparisons, middle (6-8) 4,
+      secondary (9-12) 4, post-secondary 30, mixed adult 2, mixed ages 2. The
+      article prints no age in years.
+    age: unreported
+  context:
+    setting: "Mostly one-time interventions with relatively short text passages, read in print, electronically or both"
+  variation:
+    - dimension: "Learner age"
+      distribution: "primary 2, middle 4, secondary 4, post-secondary 30, mixed adult 2, mixed ages 2 comparisons"
+    - dimension: "Participant assignment"
+      distribution: "random 39, convenience (classroom random assignment) 1, not reported 4 comparisons"
+    - dimension: "Format of outcome test"
+      distribution: "Likert 5, mixed item types 13, multiple choice 9, open-ended 10, true-false 4, not reported 3 comparisons"
+    - dimension: "Timing of outcome test"
+      distribution: "same day 17, 2 days to 1 week 11, 8 days to 1 month 13, more than 1 month 2, not reported 1 comparison"
+    - dimension: "Comparison condition"
+      distribution: "expository/scientific text 30, mixed control condition 1, non-specified text 10, problem solving 3 comparisons"
+  arms:
+    - id: refutation-text
+      description: "Refutation text: a text that states a common misconception about a subject, refutes it, and provides an explanation of the correct conception."
+    - id: non-refutation-text
+      description: "A non-refutation text condition with the same general instructional information, most often expository or scientific text."
+    - id: refutation-random
+      description: "Refutation text in the comparisons that assigned participants to conditions randomly."
+    - id: non-refutation-random
+      description: "Non-refutation text in the comparisons that assigned participants to conditions randomly."
+    - id: refutation-primary
+      description: "Refutation text in comparisons with primary-grade learners (K-5)."
+    - id: non-refutation-primary
+      description: "Non-refutation text in comparisons with primary-grade learners (K-5)."
+    - id: refutation-middle
+      description: "Refutation text in comparisons with middle-grade learners (grades 6-8)."
+    - id: non-refutation-middle
+      description: "Non-refutation text in comparisons with middle-grade learners (grades 6-8)."
+    - id: refutation-secondary
+      description: "Refutation text in comparisons with secondary-grade learners (grades 9-12)."
+    - id: non-refutation-secondary
+      description: "Non-refutation text in comparisons with secondary-grade learners (grades 9-12)."
+    - id: refutation-post-secondary
+      description: "Refutation text in comparisons with post-secondary learners (university or similar settings)."
+    - id: non-refutation-post-secondary
+      description: "Non-refutation text in comparisons with post-secondary learners (university or similar settings)."
+    - id: refutation-multiple-choice
+      description: "Refutation text in comparisons whose coded outcome test was a multiple-choice test."
+    - id: non-refutation-multiple-choice
+      description: "Non-refutation text in comparisons whose coded outcome test was a multiple-choice test."
+    - id: refutation-open-ended
+      description: "Refutation text in comparisons whose coded outcome test was open-ended questions."
+    - id: non-refutation-open-ended
+      description: "Non-refutation text in comparisons whose coded outcome test was open-ended questions."
+
+comparisons:
+  - id: refutation-vs-non-refutation
+    kind: between-groups
+    index_arm: refutation-text
+    reference_arm: non-refutation-text
+    description: "Refutation text against non-refutation text across all 44 independent comparisons."
+  - id: refutation-vs-non-refutation-random
+    kind: between-groups
+    index_arm: refutation-random
+    reference_arm: non-refutation-random
+    description: "Refutation against non-refutation text, the 39 comparisons with random assignment."
+  - id: refutation-vs-non-refutation-primary
+    kind: between-groups
+    index_arm: refutation-primary
+    reference_arm: non-refutation-primary
+    description: "Refutation against non-refutation text, primary-grade (K-5) comparisons."
+  - id: refutation-vs-non-refutation-middle
+    kind: between-groups
+    index_arm: refutation-middle
+    reference_arm: non-refutation-middle
+    description: "Refutation against non-refutation text, middle-grade (6-8) comparisons."
+  - id: refutation-vs-non-refutation-secondary
+    kind: between-groups
+    index_arm: refutation-secondary
+    reference_arm: non-refutation-secondary
+    description: "Refutation against non-refutation text, secondary-grade (9-12) comparisons."
+  - id: refutation-vs-non-refutation-post-secondary
+    kind: between-groups
+    index_arm: refutation-post-secondary
+    reference_arm: non-refutation-post-secondary
+    description: "Refutation against non-refutation text, post-secondary comparisons."
+  - id: refutation-vs-non-refutation-multiple-choice
+    kind: between-groups
+    index_arm: refutation-multiple-choice
+    reference_arm: non-refutation-multiple-choice
+    description: "Refutation against non-refutation text, comparisons tested by multiple choice."
+  - id: refutation-vs-non-refutation-open-ended
+    kind: between-groups
+    index_arm: refutation-open-ended
+    reference_arm: non-refutation-open-ended
+    description: "Refutation against non-refutation text, comparisons tested by open-ended questions."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the two authors on the coded variables of the eight double-coded studies; no contrast between configurations."
+
+observations:
+
+  - id: refutation-overall
+    sample:
+      value: 3869
+      unit: participants
+    comparison_ref: refutation-vs-non-refutation
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "One outcome test per comparison: a conceptual change test, else a transfer test, else a comprehension or retention test, else an unspecified learning test"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison; same day (17 comparisons) to more than 1 month (2)"
+    result:
+      measure_type: hedges_g
+      estimate: 0.41
+      ci_lower: 0.30
+      ci_upper: 0.51
+      interval_type: confidence
+      p_value: "< 0.001"
+      k:
+        value: 44
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 60.76
+        interpretation: "Q(43) = 109.59, p < 0.001; described as significant heterogeneity"
+      publication_bias:
+        method: "Funnel plot, Egger's regression intercept, Duval and Tweedie's trim and fill, classic fail-safe N"
+        p_value: "one-tailed p = 0.29 (Egger, t(42) = 0.55)"
+        finding: "Funnel plot relatively symmetrical; Egger showed no significant asymmetry; trim and fill adjusted 10 studies to the left of the mean (adjusted g = 0.28, recorded as its own observation); fail-safe N 1,625. Judged by the authors not a substantial concern."
+      model: "random-effects"
+      note: "Leave-one-out sensitivity analysis: overall effect ranged from g = 0.39 to g = 0.43."
+    moderators:
+      reported:
+        - variable: "Publication type"
+          relationship: "Significant moderation: proceedings g = 0.73, journal articles g = 0.45, dissertations or theses g = 0.11 (Qb(2) = 9.01, p = 0.01)"
+          source_quote: "We did find that the effectiveness of refutation text significantly varied by the type of publication the comparison appeared in (Qb(2) = 9.01, p = 0.01)."
+        - variable: "Learner age"
+          relationship: "No significant moderation (Qb(5) = 6.60, p = 0.25)"
+          source_quote: "We found that the effects of refutation text were robust and consistent regardless of the age of the learners (Qb(5) = 6.60, p = 0.25)."
+        - variable: "Type of outcome test"
+          relationship: "No significant moderation (Qb(5) = 3.76, p = 0.58)"
+          source_quote: "We found that the type of outcome test did not significantly influence the effectiveness of refutation text (Qb(5) = 3.76, p = 0.58)."
+        - variable: "Timing of outcome test"
+          relationship: "No significant moderation (Qb(4) = 0.48, p = 0.98)"
+          source_quote: "We found that the effectiveness of refutation text did not significantly differ depending on when the outcome test occurred (Qb(4) = 0.48, p = 0.98)."
+        - variable: "Participant assignment"
+          relationship: "No significant moderation (Qb(2) = 4.33, p = 0.11); non-random comparisons had larger effects"
+          source_quote: "The results showed that the type of participant assignment did not significantly influence the effectiveness of refutation text (Qb(2) = 4.33, p = 0.11)."
+        - variable: "Comparison condition"
+          relationship: "No significant moderation (Qb(3) = 2.56, p = 0.47)"
+          source_quote: "Importantly, this moderator analysis showed that refutation text was significantly more effective than all comparison conditions, and these positive effects did not vary significantly depending on the comparison condition (Qb(3) = 2.56, p = 0.47)."
+        - variable: "Prior knowledge"
+          relationship: "No significant moderation (Q(2) = 2.18, p = 0.34); 37 comparisons did not report it"
+          source_quote: "However, we found that most studies did not categorize the prior knowledge of participants (k = 37), and the moderator analysis revealed that prior knowledge did not have a significant moderating effect (Q(2) = 2.18, p = 0.34)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "A random-effects meta-analysis of the 44 independent comparisons found a moderate overall effect size (g = 0.41, p < 0.001, 95% CI [0.30, 0.51], n = 3,869) with significant heterogeneity (Q(43) = 109.59, p < 0.001, I2 = 60.76)."
+    source_location: "Results, RQ1; Fig. 2"
+
+  - id: refutation-overall-trim-and-fill
+    sample:
+      value: 3869
+      unit: participants
+    comparison_ref: refutation-vs-non-refutation
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation, adjusted for funnel asymmetry"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.28
+      ci_lower: 0.16
+      ci_upper: 0.39
+      interval_type: confidence
+      k:
+        value: 44
+        unit: effect-sizes
+      model: "random-effects, Duval and Tweedie trim and fill"
+      interpretation: "The authors read it as a modest change that does not change the overall interpretation of the key conclusion."
+      note: "No missing studies to the right of the mean; 10 studies adjusted to the left. k is the 44 observed comparisons; the article does not print a k including the adjusted studies."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      A bias-adjusted estimate, not a measured one: it rests on the trim-and-fill
+      model's assumption that funnel asymmetry reflects missing studies.
+    source_quote: "However, 10 studies were adjusted to the left of the mean (Fig. 4), which would make the overall effect of refutation text compared to other conditions g = 0.28, 95% CI [0.16, 0.39]."
+    source_location: "Results, Publication Bias; Fig. 4"
+
+  - id: refutation-random-assignment
+    sample:
+      value: 39
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-random
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.37
+      standard_error: 0.06
+      ci_lower: 0.26
+      ci_upper: 0.48
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 39
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 1,690; n control 1,677"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Random 1,690 1,677 39 0.37* 0.06 0.26 0.48"
+    source_location: "Table 3, Participant assignment rows"
+
+  - id: refutation-primary-grades
+    sample:
+      value: 2
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-primary
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.57
+      standard_error: 0.24
+      ci_lower: 0.10
+      ci_upper: 1.03
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 2
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 94; n control 85"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Primary (e.g., K-5) 94 85 2 0.57* 0.24 0.10 1.03"
+    source_location: "Table 3, Learner Age rows"
+
+  - id: refutation-middle-grades
+    sample:
+      value: 4
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-middle
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.71
+      standard_error: 0.17
+      ci_lower: 0.39
+      ci_upper: 1.04
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 4
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 199; n control 204"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Middle (e.g., 6–8) 199 204 4 0.71* 0.17 0.39 1.04"
+    source_location: "Table 3, Learner Age rows"
+
+  - id: refutation-secondary-grades
+    sample:
+      value: 4
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-secondary
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.49
+      standard_error: 0.20
+      ci_lower: 0.10
+      ci_upper: 0.88
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 4
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 85; n control 91"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Secondary (e.g., 9–12) 85 91 4 0.49* 0.20 0.10 0.88"
+    source_location: "Table 3, Learner Age rows"
+
+  - id: refutation-post-secondary
+    sample:
+      value: 30
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-post-secondary
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "As for the overall analysis"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.33
+      standard_error: 0.06
+      ci_lower: 0.20
+      ci_upper: 0.45
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 30
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 1,169; n control 1,193"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Post-secondary 1,169 1,193 30 0.33* 0.06 0.20 0.45"
+    source_location: "Table 3, Learner Age rows"
+
+  - id: refutation-multiple-choice-tests
+    sample:
+      value: 9
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-multiple-choice
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "Multiple-choice outcome tests"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.34
+      standard_error: 0.12
+      ci_lower: 0.10
+      ci_upper: 0.57
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 9
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 416; n control 419"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The number of options per multiple-choice item is not coded.
+    source_quote: "Multiple choice 416 419 9 0.34* 0.12 0.10 0.57"
+    source_location: "Table 3, Format of test rows"
+
+  - id: refutation-open-ended-tests
+    sample:
+      value: 10
+      unit: effect-sizes
+    comparison_ref: refutation-vs-non-refutation-open-ended
+    outcome:
+      construct: "Learning of the refuted content"
+      source_language: "learning outcomes"
+      measure: "Open-ended outcome tests"
+      scale: "Hedges' g, refutation minus non-refutation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the most delayed test reported per comparison"
+    result:
+      measure_type: hedges_g
+      estimate: 0.40
+      standard_error: 0.12
+      ci_lower: 0.17
+      ci_upper: 0.63
+      interval_type: confidence
+      p_value: "< .05 (marked * in Table 3)"
+      k:
+        value: 10
+        unit: effect-sizes
+      model: "random-effects"
+      descriptives: "n refutation 386; n control 384"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Open-ended 386 384 10 0.40* 0.12 0.17 0.63"
+    source_location: "Table 3, Format of test rows"
+
+  # The reliability of the CODING of the primary studies, on the eight studies
+  # the second author double-coded (24.24% of the sample).
+  - id: coder-agreement-kappa
+    sample:
+      value: 8
+      unit: studies
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "inter-rater reliability"
+      measure: "Two authors' codes for the coded variables of eight randomly selected included studies"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were reconciled"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      p_value: "< 0.001"
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      interpretation: "Described by the authors as strong inter-rater reliability"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. The analysed codes are the reconciled ones.
+    source_quote: "The Kappa statistic showed strong inter-rater reliability (k = 0.89, p < 0.001), and interrater agreement was strong, with raters agreeing on 90.4% of the coded variables."
+    source_location: "Analysis, Inter-rater Reliability"
+
+  - id: coder-agreement-percent
+    sample:
+      value: 8
+      unit: studies
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "interrater agreement"
+      measure: "Two authors' codes for the coded variables of eight randomly selected included studies"
+      scale: "percent of coded variables agreed"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were reconciled"
+    result:
+      measure_type: reliability
+      estimate: 90.4
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The Kappa statistic showed strong inter-rater reliability (k = 0.89, p < 0.001), and interrater agreement was strong, with raters agreeing on 90.4% of the coded variables."
+    source_location: "Analysis, Inter-rater Reliability"
+
+not_yet_extracted:
+  - "Table 3 rows for mixed adult, mixed ages, Likert and mixed item types: the text layer interleaves their columns."
+  - "Table 2 strata for text features (domain, additional materials, media format, text length, reading level)."
+  - "Table 3 strata for comparison condition, prior knowledge, timing of test, publication type and study location (only their Q between tests are recorded, as moderators of the overall observation)."
+  - "Per-comparison effects in the forest plot (Fig. 2) and the leave-one-out table (Fig. 5)."

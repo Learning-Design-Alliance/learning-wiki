@@ -1,0 +1,413 @@
+# Marsh, Guo, Pekrun, Lüdtke & Núñez-Regueiro (2024): lagged and contemporaneous
+# reciprocal effects of maths self-concept (MSC) and maths achievement (MACH),
+# PALMA, five annual waves, Years 5-9, Bavaria.
+#
+# Read from the HAL deposit (hal-04665537, CC BY 4.0) of the published
+# Educational Psychology Review version, text layer only. Labelled "Reflection on
+# the Field", but it reanalyses PALMA data and prints its own estimates, so it
+# gets a record.
+#
+# Recorded: the lag1 cross-lagged paths of the traditional CLPM (CLPM-M1) and of
+# the random-intercept CLPM (RI-CLPM-M1); the lag1 and lag0 paths of the model
+# the authors chose as "best" (RI-CCLPM-M5); the Year 5 -> Year 6 latent
+# correlation of MSC and the average lag1 MSC stability; and the MSC alphas.
+#
+# Two discrepancies inside the article, recorded as printed and not resolved:
+#   * N: the abstract says 3527 students, the Method says N = 3370. `size` uses
+#     the Method's figure; the abstract's is kept in additional_sizes.
+#   * MSC lag1 stability: the text gives "r = 0.71 (0.68–0.78)", but Table 2's
+#     four adjacent-wave MSC correlations are .66, .66, .75 and .78. Both are
+#     recorded where they are printed; neither is corrected to the other.
+#
+# All paths are standardised estimates from latent SEMs (Mplus, MLR, FIML), with
+# the lag1 and lag0 paths constrained equal over waves unless said otherwise.
+
+schema_version: 2
+
+study:
+  key: marsh-2024
+  citation: "Marsh, H. W., Guo, J., Pekrun, R., Lüdtke, O., & Núñez-Regueiro, F. (2024). Cracking chicken-egg conundrums: Juxtaposing contemporaneous and lagged reciprocal effects models of academic self-concept and achievement's directional ordering. Educational Psychology Review, 36(2), 53."
+  doi: "10.1007/s10648-024-09887-w"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Secondary analysis of a five-wave annual panel (PALMA, Years 5-9) with a
+      taxonomy of latent structural equation models: cross-lagged panel
+      models (CLPM), random-intercept CLPMs, pure contemporaneous (lag0)
+      models and combined lag0 + lag1 models (RI-CCLPM), with and without
+      lag2 paths and covariates (gender, Year 4 maths and German grades).
+      Correlational; no assignment.
+    preregistration:
+      status: not-preregistered
+      source_quote: "This study’s design and its analysis were not pre-registered."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: rem-reciprocal-effects-ri-clpm-clpm-palma
+    bearing: supports
+    anchor: marsh-2024
+  - claim: asc-achievement-temporal-asymmetry
+    bearing: supports
+    anchor: marsh-2024
+
+evidence_base:
+  unit: participants
+  size:
+    value: 3370
+    unit: participants
+  additional_sizes:
+    - value: 3527
+      unit: participants
+      note: "the figure the abstract gives ('3527 secondary school students'); the Method section says N = 3370"
+    - value: 5
+      unit: other
+      note: "annual measurement waves, Years 5 to 9, plus Year 4 primary-school grades as covariates"
+  population:
+    description: >-
+      Secondary students in Bavaria, Germany (50% girls), sampled by the IEA
+      Data Processing and Research Center to be representative on gender,
+      urban/rural location and SES; Gymnasium 37%, Realschule 30%,
+      Hauptschule 33%. 38% took part in all five waves; 9%, 19%, 15% and 19%
+      in four, three, two or one.
+    age_or_stage: "Years 5-9 of secondary school; mean age 11.7 (SD 0.7) at Year 5"
+    age:
+      unit: years
+      mean: 11.7
+      sd: 0.7
+      note: "at Year 5, the first wave"
+  context:
+    setting: >-
+      Questionnaires in classrooms by trained external test administrators in
+      the first two weeks of July, near the end of each school year;
+      achievement is the end-of-year maths grade from school records.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Paths, correlations and reliabilities in the whole PALMA panel; no contrast between groups."
+
+observations:
+
+  - id: clpm-m1-msc-to-mach-lag1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement (school grade), next year"
+      source_language: "MSC→MACH"
+      measure: "Latent maths achievement (single end-of-year grade) regressed on the previous year's latent maths self-concept, controlling for previous achievement"
+      scale: "standardised lag1 cross-lagged path"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one school year (adjacent annual waves)"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.128
+      standard_error: 0.011
+      model: "CLPM-M1: lag1 stability and reciprocal paths, no lag2 paths, no random intercepts, no covariates; paths invariant over waves. RMSEA .024, CFI .975, TLI .972."
+      interpretation: "Described as 'highly significant'; the authors read > .12 as large (following Orth et al., 2022)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "MSC→MACH = 0.128 (SE = 0.011) and MACH→MSC = 0.102 (SE = 0.011)."
+    source_location: "Results, Traditional CLPMs, CLPMs Without Random Intercepts, p. 23; Table 5 CLPM-M1 Alt1"
+
+  - id: clpm-m1-mach-to-msc-lag1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics self-concept, next year"
+      source_language: "MACH→MSC"
+      measure: "Latent maths self-concept (six items) regressed on the previous year's latent maths achievement, controlling for previous self-concept"
+      scale: "standardised lag1 cross-lagged path"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one school year (adjacent annual waves)"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.102
+      standard_error: 0.011
+      model: "CLPM-M1: lag1 stability and reciprocal paths, no lag2 paths, no random intercepts, no covariates; paths invariant over waves."
+      interpretation: "Described as 'highly significant'; medium by the authors' reading (> .07)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "MSC→MACH = 0.128 (SE = 0.011) and MACH→MSC = 0.102 (SE = 0.011)."
+    source_location: "Results, Traditional CLPMs, CLPMs Without Random Intercepts, p. 23; Table 5 CLPM-M1 Alt1"
+
+  - id: ri-clpm-m1-msc-to-mach-lag1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement (school grade), next year, within-person"
+      source_language: "MSC→MACH"
+      measure: "Lag1 path from maths self-concept to maths achievement in a model with random intercepts (global trait factors)"
+      scale: "standardised lag1 cross-lagged path"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one school year (adjacent annual waves)"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.145
+      standard_error: 0.026
+      model: "RI-CLPM-M1, no covariates (Table 5, Alt1). With covariates: .145 (null), .151 (invariant), .166 (free), .151 (on RI). RMSEA .019, CFI .984, TLI .981."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Alt1 None 183,800 152 .019 .984 .981 .145 .026 .125 .022 –- –- –-"
+    source_location: "Table 5, RI-CLPM-M1, Alt1 row"
+
+  - id: ri-clpm-m1-mach-to-msc-lag1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics self-concept, next year, within-person"
+      source_language: "MACH→MSC"
+      measure: "Lag1 path from maths achievement to maths self-concept in a model with random intercepts (global trait factors)"
+      scale: "standardised lag1 cross-lagged path"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one school year (adjacent annual waves)"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.125
+      standard_error: 0.022
+      model: "RI-CLPM-M1, no covariates (Table 5, Alt1). With covariates: .125 (null), .134 (invariant), .144 (free), .134 (on RI). Across the extended CLPMs and RI-CLPMs the text gives MACH→MSC .109-.125."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Alt1 None 183,800 152 .019 .984 .981 .145 .026 .125 .022 –- –- –-"
+    source_location: "Table 5, RI-CLPM-M1, Alt1 row"
+
+  - id: ri-cclpm-m5-msc-to-mach-lag1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement (school grade), next year, within-person"
+      source_language: "lag1 reciprocal path (MSC→MACH)"
+      measure: "Lag1 path from maths self-concept to maths achievement in the random-intercept model with lag0 and lag1 paths; the lag0 MSC→MACH path is fixed at zero"
+      scale: "standardised lag1 cross-lagged path"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one school year (adjacent annual waves)"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.167
+      standard_error: 0.021
+      model: >-
+        RI-CCLPM-M5, the authors' "best" model on parsimony, fit and theory:
+        only the lag1 MSC→MACH and the lag0 MACH→MSC reciprocal paths. Without
+        random intercepts (CCLPM-M5) the path was .117.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "resulted in one significant lag1 reciprocal path (MSC→MACH = 0.167, SE = 0.021) and one significant lag0 reciprocal path (MACH→MSC = 0.473, SE = 0.014)."
+    source_location: "Results, CLPMs with Contemporaneous and Lagged Effects (RI-CCLPMs), p. 27"
+
+  - id: ri-cclpm-m5-mach-to-msc-lag0
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics self-concept, same wave, within-person"
+      source_language: "lag0 reciprocal path (MACH→MSC)"
+      measure: "Contemporaneous path from end-of-year maths grade to maths self-concept measured in the same wave; the lag1 MACH→MSC path is fixed at zero"
+      scale: "standardised lag0 contemporaneous path"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same wave (contemporaneous, lag0); grades and questionnaire both at the end of the school year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.473
+      standard_error: 0.014
+      model: >-
+        RI-CCLPM-M5, the authors' "best" model. Without random intercepts
+        (CCLPM-M5) the path was .332.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The authors argue a lag0 effect reflects events after the previous wave
+      and leave open whether it is truly instantaneous; the record keeps it as
+      a same-wave path.
+    source_quote: "resulted in one significant lag1 reciprocal path (MSC→MACH = 0.167, SE = 0.021) and one significant lag0 reciprocal path (MACH→MSC = 0.473, SE = 0.014)."
+    source_location: "Results, CLPMs with Contemporaneous and Lagged Effects (RI-CCLPMs), p. 27"
+
+  - id: msc-year5-year6-latent-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Stability of mathematics self-concept, Year 5 to Year 6"
+      source_language: "MSC1 with MSC2"
+      measure: "Latent correlation of maths self-concept factors at waves 1 and 2 (measurement model MM2 with covariates)"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Year 5 to Year 6"
+      offset:
+        value: 1
+        unit: years
+        from: "Year 5 wave"
+    result:
+      measure_type: correlation
+      estimate: 0.66
+      note: "Other adjacent-wave MSC correlations in Table 2: MSC2-MSC3 .66, MSC3-MSC4 .75, MSC4-MSC5 .78; MSC1-MSC5 .43."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "MSC2 .66 1.00"
+    source_location: "Table 2, Correlations (MM2 + covariates), p. 21"
+
+  - id: msc-lag1-stability-average
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Stability of mathematics self-concept over one year"
+      source_language: "average lag1 correlations (i.e., test–retest correlations in adjacent waves separated by one year)"
+      measure: "Average of the latent test-retest correlations of maths self-concept in adjacent annual waves"
+      scale: "average latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "adjacent annual waves, Years 5-9"
+      offset:
+        value: 1
+        unit: years
+        from: "previous wave"
+    result:
+      measure_type: correlation
+      estimate: 0.71
+      note: >-
+        The text prints the range as 0.68–0.78; Table 2's four adjacent-wave
+        MSC correlations are .66, .66, .75, .78. Recorded as the text prints
+        it. For maths achievement the text gives 0.64 (0.59–0.69).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "An average over four correlations as the source reports it; the lower bound of the printed range disagrees with Table 2."
+    source_quote: "the average lag1 correlations (i.e., test–retest correlations in adjacent waves separated by one year) for matching traits is r = 0.71 (0.68–0.78) for MSC and 0.64 (0.59–0.69) for math achievement."
+    source_location: "Preliminary Analyses, p. 20"
+
+  - id: msc-alpha-by-year
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the maths self-concept scale"
+      source_language: "Coefficient alpha estimates of reliability"
+      measure: "Six maths self-concept items, 5-point scale from 'not true' to 'absolutely true', each of Years 5-9"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each annual wave, Years 5-9"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.88
+        upper: 0.92
+        over:
+          value: 5
+          unit: other
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Year 5 .88, Year 6 .89, Year 7 .89, Year 8 .91, Year 9 .92 (the range is over the five annual waves). No reliability is printed for the school grades."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Coefficient alpha estimates of reliability were all substantial in each year (Year 5 α = 0.88; Year 6 α = 0.89; Year 7 α = 0.89; Year 8 α = 0.91; Year 9 α = 0.92)."
+    source_location: "Measures, p. 18"
+
+not_yet_extracted:
+  - "Table 3 fit and paths for the full model taxonomy (CLPM-M2/M3, RI-CLPM-M2/M3, RI-PCPM-M1/M2, RI-CCLPM-M1 to M8); e.g. RI-PCPM-M1 lag0 MSC→MACH .324 (SE .053) and MACH→MSC .426 (SE .070)."
+  - "Table 4 total (direct and indirect) effects over lags 2-4."
+  - "Table 5 covariate alternatives for CLPM-M2, CLPM-M3 and RI-CCLPM-M5, beyond the values quoted in the model notes above."
+  - "Table 2 other latent correlations (e.g. MSC1 with MACH1 .49; MACH lag1 stabilities .69, .59, .64, .68; covariate correlations)."
+  - "RI-CCLPM-M6 wave-specific lag1 (.137, .085, .167, .218) and lag0 (.438, .446, .482, .493) paths (Table 3 note)."
+  - "Table 1 measurement-model fit (MM0-MM3)."

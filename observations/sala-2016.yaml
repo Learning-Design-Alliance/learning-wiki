@@ -1,0 +1,416 @@
+# Sala & Gobet (2016): does chess instruction transfer to academic and
+# cognitive skills? A meta-analysis of 24 school studies.
+#
+# Read from the published PDF (Educational Research Review 18, CC BY) and its
+# text layer. The text layer renders every "=" as "¼" (e.g. "g ¼ 0.338"); the
+# pages were viewed as images (pp. 51-53) and the quotes below give the
+# article's own "=" in its place. Nothing else in the quotes was altered.
+#
+# Two properties of the pooled estimates a reader must carry with them:
+#
+#   * 31 of the 40 effect sizes were corrected for measurement error
+#     (g' = g / sqrt(reliability)), so the pooled g is partly disattenuated.
+#     The reliability coefficients used are not printed, so no reliability
+#     observation is recorded here.
+#   * Where a control group's score fell from pre- to post-test, its gain was
+#     set to 0, which can only raise a gain-score effect size.
+#
+# Almost no included study had an active control group; the authors say the
+# effects "could have been systematically overestimated". The comparator is
+# therefore recorded as control groups of unstated kind, not as an active one.
+#
+# Age: the inclusion criterion is kindergarten to Grade 12 and Table 1 codes
+# each study's grade band (primary / secondary / both), but the article prints
+# no age figure, so `age: unreported`.
+
+schema_version: 2
+
+study:
+  key: sala-2016
+  citation: "Sala, G., & Gobet, F. (2016). Do the benefits of chess instruction transfer to academic and cognitive skills? A meta-analysis. Educational Research Review, 18, 46–57."
+  doi: "10.1016/j.edurev.2016.02.002"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of experimental and quasi-experimental studies comparing a
+      chess-instruction group with at least one control group of the same
+      grade, on mathematics, reading or cognitive outcomes, in pupils from
+      kindergarten to Grade 12. Random-effects models; moderators were outcome,
+      duration of training (hours), grade, special educational needs,
+      publication status and a 0-3 design-quality index.
+  synthesis:
+    model: "Random-effects model (Comprehensive Meta Analysis, Version 3.0)"
+    heterogeneity_statistic: "I2"
+    search:
+      databases:
+        - Google Scholar
+        - ProQuest Dissertations & Theses
+        - ERIC
+        - PsycINFO
+      date_range: "Studies conducted from July 1976 to July 2015"
+      records_included: 24
+    inclusion:
+      - "Experimental or quasi-experimental design; correlational and ex post facto studies excluded"
+      - "Chess instruction isolated as the independent variable"
+      - "A chess intervention group compared with at least one control group, not differing in grade"
+      - "A measure of mathematical, reading or cognitive skill"
+      - "Pupils from kindergarten to Grade 12"
+      - "Data sufficient to compute an effect size, or supplied by the authors"
+    data_handling:
+      - "Cohen's d from post-test, gain-score or ANCOVA designs, converted to Hedges's g"
+      - "Effect sizes corrected for measurement error where reliability coefficients were available (31 effect sizes)"
+      - "Three outliers with residual z > 4 Winsorized to z = 3.99"
+      - "When a control group's performance decreased at post-test, its gain was set to 0"
+      - "Previous narrative reviews examined and researchers e-mailed for unpublished studies and data"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: chess-instruction-moderate-overall-effect
+    bearing: supports
+    anchor: sala-2016
+  - claim: chess-duration-positive-moderator
+    bearing: supports
+    anchor: sala-2016
+  - claim: chess-transfer-stronger-math-than-reading
+    bearing: supports
+    anchor: sala-2016
+
+evidence_base:
+  unit: studies
+  size:
+    value: 24
+    unit: studies
+  additional_sizes:
+    - value: 25
+      unit: other
+      note: "independent samples within the 24 studies"
+    - value: 40
+      unit: effect-sizes
+      note: "effect sizes pooled in the overall model"
+    - value: 5221
+      unit: participants
+      note: "total participants across the 24 studies"
+  population:
+    description: >-
+      School pupils (kindergarten to Grade 12) in chess-instruction programmes;
+      some studies sampled children with special educational needs.
+    age_or_stage: "Kindergarten to Grade 12 by inclusion; Table 1 codes each study as primary, secondary or both. No age figure is printed."
+    age: unreported
+  context:
+    setting: "Chess instruction in schools; outcomes measured with standardised and researcher-made mathematics, reading and cognitive tests"
+  variation:
+    - dimension: "Outcome"
+      distribution: "17 mathematics-related, 16 cognitive-related and 7 reading-related effect sizes"
+    - dimension: "Duration of training"
+      distribution: "10 to 96 hours where given (Table 1); 'Not Given' for three studies"
+  arms:
+    - id: chess-instruction
+      description: "Pupils given chess instruction in school, pooled across the included studies."
+      size:
+        value: 2788
+        unit: participants
+    - id: chess-25-hours-or-more
+      description: "The studies whose chess instruction lasted 25 hours or more."
+    - id: chess-under-25-hours
+      description: "The studies whose chess instruction lasted less than 25 hours."
+    - id: control
+      description: >-
+        Control groups of the included studies. The article says almost none
+        was an active control; it does not count do-nothing against other
+        controls.
+      size:
+        value: 2433
+        unit: participants
+
+comparisons:
+  - id: chess-vs-control
+    kind: between-groups
+    index_arm: chess-instruction
+    reference_arm: control
+    description: "Chess instruction against the studies' control groups, pooled across the corpus."
+  - id: chess-25-hours-or-more-vs-control
+    kind: between-groups
+    index_arm: chess-25-hours-or-more
+    reference_arm: control
+    description: "Chess instruction of 25 hours or more against control, in the studies with that duration."
+  - id: chess-under-25-hours-vs-control
+    kind: between-groups
+    index_arm: chess-under-25-hours
+    reference_arm: control
+    description: "Chess instruction of under 25 hours against control, in the studies with that duration."
+
+observations:
+
+  - id: overall-transfer
+    sample:
+      value: 40
+      unit: effect-sizes
+    comparison_ref: chess-vs-control
+    outcome:
+      construct: "Academic and cognitive skill (far transfer from chess)"
+      source_language: "mathematics, reading and general cognitive skills"
+      measure: "Mathematics, reading and cognitive tests as reported by the primary studies (e.g. WISC-R, TIMSS, OCDE-Pisa mathematical literacy, RPM)"
+      scale: "Hedges's g, partly corrected for measurement error"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.338
+      ci_lower: 0.242
+      ci_upper: 0.435
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 40
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 57.227
+        interpretation: "Described as between moderate and high"
+      publication_bias:
+        method: "Trim and fill; funnel plot"
+        finding: "Trim and fill showed no publication bias; funnel plot approximately symmetrical"
+      model: "random-effects"
+    moderators:
+      reported:
+        - variable: "Duration of training (hours)"
+          relationship: "Positive: longer training, larger effect (b = 0.0038 per hour, K = 35)"
+          source_quote: "Duration of Training, which positively affected the effect sizes (Q(1) = 3.89, b = 0.0038, p < .05, two tailed, K = 35)"
+        - variable: "Publication status"
+          relationship: "Published studies g = 0.540 (K = 17) against unpublished g = 0.230 (K = 23)"
+          source_quote: "Regarding the moderator Publication, the overall effect size of the published studies was g = 0.540, 95% CI [0.346; 0.735], p < .001, K = 17, while the overall effect size of the unpublished studies was g = 0.230, 95% CI [0.149; 0.311], p < .001, K = 23."
+      candidate:
+        - "Placebo or instructor-enthusiasm effects: almost no study had an active control group, which the authors say could have systematically overestimated the effect"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      31 of the 40 effect sizes were disattenuated for measurement error, and a
+      declining control group's gain was set to 0, so this g is not an observed,
+      uncorrected group difference. Whether post-tests were immediate or
+      delayed is not reported.
+    source_quote: "The overall effect size was g = 0.338, 95% CI [0.242; 0.435], p < .001 (Fig. 2). The degree of heterogeneity between effect sizes was between moderate and high (I2 = 57.227)"
+    source_location: "Section 4, Results, p. 51"
+
+  - id: duration-meta-regression
+    sample:
+      value: 35
+      unit: effect-sizes
+    comparison_ref: chess-vs-control
+    outcome:
+      construct: "Academic and cognitive skill (far transfer from chess)"
+      source_language: "Duration of Training, which positively affected the effect sizes"
+      measure: "Effect sizes regressed on hours of chess instruction"
+      scale: "meta-regression slope, change in Hedges's g per hour of training"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.0038
+      p_value: "< .05, two tailed"
+      statistic: "Q(1) = 3.89"
+      k:
+        value: 35
+        unit: effect-sizes
+      model: "Meta-regression of g on duration of training (hours)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      K = 35 rather than 40 because duration was not given for some studies.
+      The slope is the article's own; no standard error or interval is printed.
+    source_quote: "Duration of Training, which positively affected the effect sizes (Q(1) = 3.89, b = 0.0038, p < .05, two tailed, K = 35)"
+    source_location: "Section 4.1, Moderator analyses, p. 52"
+
+  - id: transfer-25-hours-or-more
+    sample:
+      value: 23
+      unit: effect-sizes
+    comparison_ref: chess-25-hours-or-more-vs-control
+    outcome:
+      construct: "Academic and cognitive skill (far transfer from chess)"
+      source_language: "overall effect size in studies with 25 or more hours of treatment"
+      measure: "Mathematics, reading and cognitive tests as reported by the primary studies"
+      scale: "Hedges's g, partly corrected for measurement error"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.427
+      ci_lower: 0.271
+      ci_upper: 0.583
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 23
+        unit: effect-sizes
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "The 25-hour threshold was taken from Trinchero (2012), not chosen from these data, per the article."
+    source_quote: "The overall effect size in studies with 25 or more hours of treatment was g = 0.427, 95% CI [0.271; 0.583], p < .001, K = 23"
+    source_location: "Section 4.1, Moderator analyses, p. 53"
+
+  - id: transfer-under-25-hours
+    sample:
+      value: 12
+      unit: effect-sizes
+    comparison_ref: chess-under-25-hours-vs-control
+    outcome:
+      construct: "Academic and cognitive skill (far transfer from chess)"
+      source_language: "overall effect size in studies with less than 25 h of training"
+      measure: "Mathematics, reading and cognitive tests as reported by the primary studies"
+      scale: "Hedges's g, partly corrected for measurement error"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.303
+      ci_lower: 0.189
+      ci_upper: 0.417
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 12
+        unit: effect-sizes
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "while the overall effect size in studies with less than 25 h of training was g = 0.303, 95% CI [0.189; 0.417], p < .001, K = 12."
+    source_location: "Section 4.1, Moderator analyses, p. 53"
+
+  - id: transfer-mathematics
+    sample:
+      value: 17
+      unit: effect-sizes
+    comparison_ref: chess-vs-control
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "mathematics-related effect sizes"
+      measure: "Mathematics tests as reported by the primary studies (e.g. TIMSS and OCDE-Pisa mathematical literacy, TAKS, INVALSI)"
+      scale: "Hedges's g, partly corrected for measurement error"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.382
+      ci_lower: 0.229
+      ci_upper: 0.535
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 17
+        unit: effect-sizes
+      publication_bias:
+        method: "Trim and fill"
+        finding: "No publication bias"
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "Outcome was not a significant moderator; the per-outcome models were run anyway, as the article says, to test Hypothesis 2."
+    source_quote: "the 17 mathematics-related effect sizes. The overall effect size was g = 0.382, 95% CI [0.229; 0.535], p < .001."
+    source_location: "Section 4.2, Additional meta-analytic models, p. 53"
+
+  - id: transfer-reading
+    sample:
+      value: 7
+      unit: effect-sizes
+    comparison_ref: chess-vs-control
+    outcome:
+      construct: "Reading achievement"
+      source_language: "reading-related effect sizes"
+      measure: "Reading tests as reported by the primary studies (e.g. DRP, Neale test)"
+      scale: "Hedges's g, partly corrected for measurement error"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test after the chess programme, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.248
+      ci_lower: 0.128
+      ci_upper: 0.368
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 7
+        unit: effect-sizes
+      publication_bias:
+        method: "Trim and fill"
+        finding: "Possible publication bias: one study trimmed, left of the mean; adjusted point estimate g = 0.241, 95% CI [0.122; 0.359]"
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Finally, the third model included the seven reading-related effect sizes. The overall effect size was g = 0.248, 95% CI [0.128; 0.368], p < .001."
+    source_location: "Section 4.2, Additional meta-analytic models, p. 53"
+
+not_yet_extracted:
+  - "Cognitive-related outcomes: g = 0.330, 95% CI [0.130; 0.529], p = .001, 16 effect sizes (Section 4.2)"
+  - "Per-effect-size Hedges's g and 95% CIs for all 40 effect sizes (Fig. 2)"
+  - "Design quality, grade and special educational needs were tested as moderators and were not significant; no statistics printed for them"
+  - "The reliability coefficients used to correct 31 effect sizes for measurement error are not printed"

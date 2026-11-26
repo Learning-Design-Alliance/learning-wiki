@@ -5,6 +5,48 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation records batch 6: twelve more simulator-cited sources
+
+The batch adds 12 files and 109 observations, one file per source:
+- Tatel & Ackerman (2025), Sala & Gobet (2016), Schroeder & Kucera (2022), Rodriguez (2003), Lei et al. (2018).
+- Siegler & Stern (1998), Crouch & Mazur (2001), Marsh (1984), Marsh et al. (2024), van Rijsewijk et al. (2016).
+- Snell et al. (2007), Olds et al. (2010).
+
+Ten copies came from the maintainer's Drive folder, and Olds and Marsh (2024) from the wiki's cache. Where a text layer
+scrambled a table or printed symbol-font characters, the quote was taken from the page image, and the file header says
+so. The Snell, Siegler, Crouch and Marsh (1984) page-image quotes were checked against the pages.
+
+Clock times (Snell, Olds) are recorded as minutes after midnight, so that a mean and its SD share one unit. Each
+observation keeps the printed time in its unit and interpretation. This is a change of notation, not a converted metric.
+
+Four claims that Tatel & Ackerman's record had first been linked to were dropped from its appears_in: on those pages the
+Tatel entry describes Arthur et al. (1998) or Wang et al. (2013), not Tatel's own results.
+
+Claim pages for an editor to look at:
+- marsh-2024's two claims (rem-reciprocal-effects-ri-clpm-clpm-palma, asc-achievement-temporal-asymmetry) say the
+  article prints no numeric effects. It does, and the record now carries them.
+- cultural-value-moderates-engagement-achievement repeats Lei et al.'s "higher for Western students (r = .354) than for
+  Eastern students (r = .377)" without noting that the numbers say the opposite.
+- stem-equivalent-items-higher-mc-cr-correlations quotes Rodriguez's p. 177 interval (0.913, 0.969); Table 6 and the
+  Discussion print (0.907, 0.971).
+
+Findings for the simulator to check:
+- Crouch & Mazur: the 6% right-to-wrong is a share of all answer pairs, not of answers that were right before
+  discussion, and the wrong-to-right share is printed (32%, inside Figure 4). The article prints no ratio.
+- Marsh (1984) prints no reading × maths correlation for any attribution scale. The only cross-domain figure is a factor
+  correlation of .10 between reading and maths ability attributions.
+- Sala & Gobet (2016) holds the chess figures; the 0.34 [0.24, 0.44] and the active-control 0.10 are from the 2017
+  review.
+- Tatel & Ackerman: 6.5 months is when a linear model's mean loss reaches half the gain, not a fitted half-life. The
+  acquisition effect sizes are given as 793, but the three categories sum to 863.
+- Marsh et al. (2024): the abstract gives N = 3527 and the Method N = 3370. The text gives lag-1 self-concept stability
+  as r = .71 (.68–.78), while Table 2's adjacent waves are .66, .66, .75 and .78.
+- Olds et al.: the simulator's 45-minute bedtime SD and 30-minute wake SD are its own choices within the printed
+  ranges (0:43–1:04 and 0:25–0:40 for ages 9–14).
+- Snell et al.: bedtimes at ages 9, 10, 12 and 13 are drawn only in Figure 2.
+- Siegler & Stern: the next-session figures the simulator reads off Figure 6 are drawn only; the text prints only that
+  fewer than 25% used the shortcut on any of the first six trials.
+
 ## 2026-11-26 · Observation records batch 5, and the tables batch 4 left out
 
 The batch adds 20 files and 216 observations, covering 13 sources:
