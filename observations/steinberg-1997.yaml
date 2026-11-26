@@ -2,9 +2,22 @@
 # items against matched open-ended final-exam problems.
 #
 # SOURCE TEXT: an OCR transcription of a scan of the published article (pages
-# 2-7), not a PDF text layer. Every quote below was matched against that OCR
-# text; OCR can misread characters, so the quotes are only as exact as the
-# transcription. Figures 3, 4 and 6 (histograms) are images and were not read.
+# 2-7), not a PDF text layer. The quotes of the first eight observations were
+# matched against that OCR text; OCR can misread characters, so those quotes are
+# only as exact as the transcription.
+#
+# EXTENDED 2026-11-26 FROM PAGE IMAGES: the scanned PDF was viewed page by page
+# and three observations were added whose quotes and figures were read from
+# the page images, not the OCR text: n3-fci-count-by-exam-success,
+# q13-exam2-response-matrix (Table I, p. 154; its row and column labels are
+# legible on the image) and impetus-items-answered-inconsistently. Their
+# source_quote fields copy the printed words of pp. 152-154.
+#
+# Figures 3, 4 and 6 (histograms) print no numbers: Fig. 3 and Fig. 4 carry
+# only axis ticks (0-14, 0-12) and Fig. 6 (0-24), so the exam percent correct
+# for the impetus items (Fig. 4) and the N3 group sizes (Fig. 6) are not
+# recorded. Reading bar heights off a 3-D histogram would be estimating, not
+# transcribing.
 # DOI 10.1119/1.2344625 checked against the article's front matter and
 # Crossref (volume 35, issue 3, pp. 150-155).
 #
@@ -13,16 +26,22 @@
 #   * The one lecture class (spring 1996) in which 28 students took both the
 #     FCI (last week of the semester, ungraded) and exam problem 1 on the
 #     final exam (graded) the following week. The two instruments are the
-#     arms, and every figure is a single-group percentage, so each is a
-#     `mean` naming its arm. The paper prints no difference, no test and no
+#     arms; its single-group percentages are `mean`s naming their arm, and
+#     its consistency figures (a count, a printed bound) rest on the
+#     comparison. The paper prints no difference, no test and no
 #     interval; the 54% vs 90% gap is two observations, not one.
 #   * The instruments differ in format (multiple choice vs open ended),
 #     framing (colloquial vs formal), stakes (ungraded vs graded) and timing
 #     (one week apart) together, as the authors themselves list. Nothing here
 #     isolates any one of them.
-#   * The Newton's Third Law results come from a different sample (128
-#     students in three fall 1995 classes, exam problem 2) and are listed in
-#     not_yet_extracted rather than recorded against this sample.
+#   * The Newton's Third Law results come from a different sample: 128
+#     students in three fall 1995 lecture classes, FCI in the last week of the
+#     semester and exam problem 2 on the final. They are recorded on their own
+#     arms (fci-n3-items, final-exam-problem-2) with sample 128, never against
+#     the 28. Table I prints PERCENTAGES of students, not counts, and does not
+#     restate its N; its cells are recorded as printed, in `descriptives`, on
+#     one observation, with the authors' own reading (about half on the
+#     diagonal). No diagonal total, marginal or count is computed from it.
 #   * No reliability coefficient is printed for either instrument, and no age.
 
 schema_version: 2
@@ -58,6 +77,15 @@ appears_in:
   - claim: fci-exam-correlation-but-substantial-mismatch
     bearing: supports
     anchor: steinberg-and-sabella-1997
+  - claim: newton-third-law-fci-exam-matrix
+    bearing: supports
+    anchor: steinberg-and-sabella-1997
+  - claim: newton-third-law-fci-exam-matrix
+    bearing: supports
+    anchor: steinberg-and-sabella-1997-2
+  - claim: impetus-fci-exam-inconsistency
+    bearing: supports
+    anchor: steinberg-and-sabella-1997
 
 evidence_base:
   unit: participants
@@ -67,12 +95,13 @@ evidence_base:
   additional_sizes:
     - value: 128
       unit: participants
-      note: "students in three fall 1995 lecture classes who took the FCI and exam problem 2 (Newton's Third Law); a separate sample, not recorded here"
+      note: "students in three fall 1995 lecture classes who completed the FCI and exam problem 2 (Newton's Third Law); a separate sample, recorded on its own arms"
   population:
     description: >-
-      Students in a first-semester introductory calculus-based physics lecture
-      class at the University of Maryland, spring 1996, who completed both the
-      FCI and the final exam.
+      Students in first-semester introductory calculus-based physics lecture
+      classes at the University of Maryland who completed both the FCI and the
+      final exam: one class in spring 1996 (28 students, exam problem 1) and
+      three classes in fall 1995 (128 students, exam problem 2).
     age_or_stage: "University, first-semester introductory calculus-based physics; no age figure printed"
     age: unreported
   context:
@@ -88,6 +117,16 @@ evidence_base:
       size:
         value: 28
         unit: participants
+    - id: fci-n3-items
+      description: "Fall 1995 sample: the four FCI Newton's Third Law questions (2, 11, 13, 14; five-option multiple choice), ungraded, in the last week of the semester."
+      size:
+        value: 128
+        unit: participants
+    - id: final-exam-problem-2
+      description: "Fall 1995 sample: exam problem 2 (open-ended: free-body diagrams of two carts and a ranking of all horizontal forces by magnitude), on the graded final exam the following week."
+      size:
+        value: 128
+        unit: participants
 
 comparisons:
   - id: fci-vs-exam
@@ -95,6 +134,11 @@ comparisons:
     index_arm: final-exam-problem
     reference_arm: fci-diagnostic
     description: "The same students on an FCI item and on the corresponding part of the exam problem; within-subject, with format, framing, stakes and timing all differing."
+  - id: n3-fci-vs-exam2
+    kind: other
+    index_arm: final-exam-problem-2
+    reference_arm: fci-n3-items
+    description: "Fall 1995 sample: the same students on the FCI Newton's Third Law questions and on exam problem 2; within-subject, with format, framing, stakes and timing all differing."
 
 observations:
 
@@ -354,10 +398,125 @@ observations:
     source_quote: "Only 12 of the 28 students had answers where the FCI response matched the exam problem response."
     source_location: "Motion Diagrams, p. 153"
 
+  - id: impetus-items-answered-inconsistently
+    sample:
+      value: 28
+      unit: participants
+    comparison_ref: fci-vs-exam
+    outcome:
+      construct: "Consistency of response across matched FCI and exam items (impetus force)"
+      source_language: "did not answer the three virtually identical items in the same way"
+      measure: "FCI questions 9 and 22 against exam problem 1 part Bi (forces on the ball after the hit)"
+      scale: "proportion of the class"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "FCI in the last week of the semester; final exam the following week"
+    result:
+      measure_type: probability
+      bound:
+        operator: ">"
+        value: 0.3333
+      unit: "proportion of the class"
+      note: "Printed only in words, 'over one-third of the class'; no count or percentage is printed, so the limit is recorded and no value. 0.3333 is one-third written to four places; over one-third implies above it."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Fig. 4 breaks the class down by FCI impetus items correct (0, 1 or 2)
+      against correct or incorrect on the exam part, but prints only bars and
+      axis ticks, so no cell is recorded. The text also says all students
+      with both FCI items correct "did very well" on the exam part and almost
+      all with neither correct could not answer it; neither is a number.
+    source_quote: "However, over one-third of the class did not answer the three virtually identical items in the same way."
+    source_location: "Impetus Force, p. 152 (page image)"
+
+  - id: n3-fci-count-by-exam-success
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: n3-fci-vs-exam2
+    outcome:
+      construct: "Newton's Third Law: identifying and comparing interaction forces"
+      source_language: "the fraction of students who were able to identify and compare the N3 forces on the exam"
+      measure: "Exam problem 2 success, by number of the four FCI N3 questions answered correctly"
+      scale: "percent of students in each FCI-score group succeeding on the exam problem"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "FCI in the last week of the semester; final exam the following week"
+    result:
+      measure_type: other
+      descriptives: "exam success 67% (4 FCI N3 questions correct), 65% (3), 53% (2), 29% (1), 14% (0)"
+      unit: "percent of students in each group"
+      note: "Five group percentages as printed. The group sizes appear only as bars in Fig. 6 and are not printed, so no count, trend statistic or difference is recorded."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Notice that the fraction of students who were able to identify and compare the N3 forces on the exam was 67% for students who answered all four FCI questions correctly, 65% for three FCI questions answered correctly, 53% for two FCI questions answered correctly, 29% for one FCI question answered correctly, and 14% for none of the FCI questions answered correctly."
+    source_location: "Newton's Third Law, p. 153 (page image); Fig. 6"
+
+  - id: q13-exam2-response-matrix
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: n3-fci-vs-exam2
+    outcome:
+      construct: "Consistency of response across matched FCI and exam items (Newton's Third Law)"
+      source_language: "the percentage of students who gave each combination of FCI/exam responses"
+      measure: "FCI question 13 response (columns) by exam problem 2 response (rows), each coded correct / forces not equal / no contact forces present / other"
+      scale: "percent of students in each response combination"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "FCI in the last week of the semester; final exam the following week"
+    result:
+      measure_type: other
+      descriptives: >-
+        Table I, rows = exam problem 2 response, columns = FCI question 13
+        response (correct / forces not equal / no contact forces present /
+        other). Exam correct: 33%, 16%, 0%, 1%. Exam forces not equal: 12%,
+        20%, 0%, 0%. Exam no contact forces present: 2%, 2%, 0%, 0%. Exam
+        other: 5%, 9%, 0%, 1%.
+      unit: "percent of students"
+      interpretation: "The authors: only about half the students fell on the diagonal, so many answered the FCI question and the similar exam problem inconsistently."
+      note: >-
+        Cells as printed (percentages, not counts). The table does not restate
+        its N; the 128 is the fall 1995 sample that completed both FCI and
+        exam problem 2, to which the paper says its correlations refer. No
+        diagonal total, marginal or count is computed here.
+    moderators:
+      reported: []
+      candidate:
+        - "Format, framing, stakes and timing differ together between the two items; the authors list each as a possible explanation, none tested"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, only about half the students fell on the diagonal, indicating that many answered the FCI question and the similar exam problem inconsistently."
+    source_location: "Newton's Third Law, p. 153; Table I, p. 154 (page images)"
+
 not_yet_extracted:
-  - "Newton's Third Law (separate sample of 128 students, exam problem 2): exam success of 67%, 65%, 53%, 29% and 14% for students answering 4, 3, 2, 1 and 0 of the four N3 FCI questions correctly; group sizes are only in Figure 6."
-  - "Table I, FCI question 13 by exam problem 2 response matrix (percentages). The OCR splits the table across a page break and does not show which instrument labels the rows and which the columns, so the off-diagonal cells cannot be assigned; not recorded. The text says only about half the students fell on the diagonal."
+  - "Newton's Third Law group sizes (number of students answering 0-4 FCI N3 questions correctly): only bars in Fig. 6, no printed numbers."
+  - "Impetus: exam problem 1 part Bi percent correct and the 0/1/2-FCI-correct breakdown appear only as bars in Fig. 4; the text prints no figure for them."
+  - "Newton's First Law: Fig. 3 histogram of FCI question 18 against exam problem 1 part A prints no numbers beyond the 54% and 90% in the text."
   - "Of 21 students who stated their reasoning for incorrect N3 exam answers, 6 answered FCI question 13 consistently with that reasoning (128-student sample)."
-  - "Impetus: 'over one-third of the class did not answer the three virtually identical items in the same way' (a bound against a fraction, not recorded as a number); exam percent correct only in Figure 4."
   - "Exam problem 1 part Bii second velocity vector: 12 of 28 correct; no matching FCI figure."
   - "Background figures for other classes: about 50% correct and about 40% choosing A on FCI question 18 'for the lecture classes we tested'; almost 1000 students across more than a dozen classes."
