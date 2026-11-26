@@ -1,0 +1,246 @@
+# Richland, Kornell & Kao (2009), Experiment 2: as Experiment 1, but the 10
+# testable sentences were italicized in both conditions, to equalize attention
+# to key content. Immediate final test.
+#
+# Records the tested-and-italicized contrast (d = 0.61), the two condition means
+# with SEs, and the untested-items contrast (no difference, no d printed).
+#
+# `population.age`: mean age 21 years, printed for the 61 recruited; 2 were
+# excluded from analysis (59 analysed).
+#
+# No scoring reliability is printed for the final test in any experiment (how
+# answers were scored is not described), so no reliability is recorded.
+#
+# Read from the publisher PDF of the article supplied for this batch (beside its
+# pdftotext text layer). The text layer writes "=" as U+2AFD and "<" as U+2B0D,
+# and drops the hyphen in "bolded-only" and "italicized-only" at line breaks;
+# every source_quote containing those characters was taken from the page images
+# (PDF pp. 246-251) and uses the characters the article prints. The numbers in
+# the text layer and the page images agree.
+
+schema_version: 2
+study:
+  key: richland-2009-exp2
+  citation: 'Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful
+    retrieval attempts enhance learning? Journal of Experimental Psychology: Applied, 15(3), 243–257.
+    Experiment 2.'
+  doi: 10.1037/a0016496
+  design:
+    family: randomized-controlled-trial
+    design_detail: Group-setting laboratory experiment, random assignment to two between-participants
+      conditions. Same procedure as Experiment 1 (2-min pretest then 8 min study, against 10 min study)
+      with all 10 testable sentences italicized in both conditions; no instruction about the italics.
+      Untimed final test immediately after.
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: pretesting-effect-persists-with-italicized-attention-control
+  bearing: supports
+  anchor: richland-2009
+- claim: pretesting-enhances-learning
+  bearing: supports
+  anchor: richland-kornell-and-kao-2009
+evidence_base:
+  unit: participants
+  size:
+    value: 61
+    unit: participants
+  population:
+    description: Undergraduates given course credit for participating. 44 women and 17 men, from an upper
+      division psychology course on human stress; 2 excluded for failing to respond to final test questions.
+    age_or_stage: Undergraduates
+    age:
+      unit: years
+      mean: 21
+      note: printed for the 61 recruited, before 2 exclusions
+  context:
+    setting: Group setting
+    materials: A two-page essay on vision and cerebral achromatopsia from Sacks (1995) with 10 testable
+      sentences; two counterbalanced 5-question pretests; a 10-question final test. All 10 testable sentences
+      italicized.
+  arms:
+  - id: test-and-study
+    description: 'Test and study: 2-min pretest (22% answered correctly), then 8 min studying the passage
+      with the 10 testable sentences italicized.'
+    size:
+      value: 33
+      unit: participants
+    elements:
+    - term: unsuccessful retrieval attempt (pretest) before studying the text
+      anchors:
+      - principles/retrieval-practice
+    dose:
+      amount: 10
+      unit: min in total (2 min pretest, 8 min study)
+  - id: extended-study
+    description: 'Extended study: 10 min studying the same italicized passage.'
+    size:
+      value: 26
+      unit: participants
+    elements:
+    - term: additional study time on the same text
+    dose:
+      amount: 10
+      unit: min of study
+comparisons:
+- id: test-vs-extended-study
+  kind: between-groups
+  index_arm: test-and-study
+  reference_arm: extended-study
+  description: Pretest then study against extended study for the same total time, between participants.
+observations:
+- id: tested-italicized-vs-extended-study
+  sample:
+    value: 59
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of pretested, italicized concepts
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Test and
+      study: tested and italicized items; extended study: italicized-only items.'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: immediately after the study period
+  result:
+    measure_type: cohens_d
+    estimate: 0.61
+    statistic: t(57) = 2.3
+    p_value: < .022
+    descriptives: test and study M = 71% (SE 5.6) vs extended study M = 54% (SE 3.7)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: recall of tested and italicized items in the test and study condition (M = 71%, SE = 5.6)
+    was significantly greater than recall of italicized-only items in the extended study condition (M
+    = 54%, SE = 3.7), t(57) = 2.3, p < .022, d = 0.61.
+  source_location: Experiment 2, Results (p. 247)
+- id: mean-test-and-study-tested-items
+  sample:
+    value: 33
+    unit: participants
+  arm_ref: test-and-study
+  outcome:
+    construct: Final-test recall of pretested, italicized concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Tested and
+      italicized items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 71
+    standard_error: 5.6
+    unit: percent correct on the final test, tested and italicized items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: recall of tested and italicized items in the test and study condition (M = 71%, SE = 5.6)
+    was significantly greater than recall of italicized-only items in the extended study condition (M
+    = 54%, SE = 3.7)
+  source_location: Experiment 2, Results (p. 247)
+- id: mean-extended-study
+  sample:
+    value: 26
+    unit: participants
+  arm_ref: extended-study
+  outcome:
+    construct: Final-test recall of italicized concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Italicized-only
+      items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 54
+    standard_error: 3.7
+    unit: percent correct on the final test, italicized items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: recall of tested and italicized items in the test and study condition (M = 71%, SE = 5.6)
+    was significantly greater than recall of italicized-only items in the extended study condition (M
+    = 54%, SE = 3.7)
+  source_location: Experiment 2, Results (p. 247)
+- id: untested-items-vs-extended-study
+  sample:
+    value: 59
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of italicized concepts not pretested
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Italicized-only
+      items in each condition.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: other
+    statistic: t(57) = 0.15
+    p_value: '.88'
+    descriptives: untested italicized-only items in test and study M = 53% (SE 4.3); extended study M
+      = 54% (SE 3.7)
+    interpretation: No significant difference; no effect size printed. The means are from the neighbouring
+      sentences of the same paragraph.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: there was not a significant difference between accuracy on the italicized-only items in
+    the test and study condition and the italicized-only items in the extended study condition, t(57)
+    = 0.15, p = .88.
+  source_location: Experiment 2, Results (p. 247)
+not_yet_extracted:
+- Within the test and study condition, tested items (M = 71%, SE = 5.6) against untested, italicized-only
+  items (M = 53%, SE = 4.3), t(32) = 3.27, p < .003, d = 0.63.
+- 'Pretest accuracy: 22% of questions answered correctly.'

@@ -1,0 +1,513 @@
+# Sadler, Sonnert, Coyle, Cook-Smith & Miller (2013): teachers' subject matter
+# knowledge (SMK) and knowledge of student misconceptions (KOSM) and student
+# gains in middle school physical science.
+#
+# Read from a repository copy of the published article (text layer). DOI
+# 10.3102/0002831213477680 checked against the article's own front matter.
+#
+# WHAT THIS RECORD HOLDS, and what it deliberately leaves out:
+#
+#   * The teacher-knowledge categories are ITEM-LEVEL categories, not groups of
+#     teachers or students: a teacher is "SMK and KOSM" on one item and "no
+#     SMK" on another. The arms below are those categories.
+#   * The headline contrasts (SMK and KOSM against SMK only on misconception
+#     items, for high-nonscience students) are printed in Figure 2 only. The
+#     text states their significance and direction, never a value, so those
+#     observations carry no estimate and `effect_size: unreported`.
+#   * Table 3's logistic coefficients are not recorded: in the text layer the
+#     minus signs come out as a leading "2" ("20.069 (0.051) 21.37"), so the
+#     sign of several coefficients cannot be read cleanly.
+#   * The authors call the study correlational ("it is not an experimental
+#     study"); teacher knowledge was observed, not assigned.
+
+schema_version: 2
+
+study:
+  key: sadler-2013
+  citation: "Sadler, P. M., Sonnert, G., Coyle, H. P., Cook-Smith, N., & Miller, J. L. (2013). The influence of teachers' knowledge on student learning in middle school physical science classrooms. American Educational Research Journal, 50(5), 1020–1049."
+  doi: "10.3102/0002831213477680"
+  design:
+    family: observational
+    design_detail: >-
+      Correlational pre-post study. The same 20 five-option multiple-choice
+      items were given to students (pretest, midyear and/or year-end test) and
+      to their teachers, who answered each item and also identified the most
+      common wrong student answer. Item-level hierarchical logistic regression
+      (scores within students within classrooms, SAS PROC GLIMMIX) of the
+      student posttest item score on teacher SMK and KOSM for that item, with
+      student controls (grade, gender, parental education, race, fraction of
+      year, reading and math score, pretest item score) and item difficulty.
+      Coefficients converted by the authors to gains in SD units of the 20-item
+      pretest. Volunteer teachers; not randomly selected.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: smk-insufficient-kosm-needed-misconception-items
+    bearing: supports
+    anchor: sadler-2013
+  - claim: teacher-smk-predicts-gains-non-misconception-items
+    bearing: supports
+    anchor: sadler-2013
+  - claim: teachers-kosm-weak-relative-to-smk
+    bearing: supports
+    anchor: sadler-2013
+  - claim: gains-larger-non-misconception-items
+    bearing: supports
+    anchor: sadler-2013
+  - claim: low-nonscience-students-no-gain-misconception-items
+    bearing: supports
+    anchor: sadler-2013
+  - claim: high-nonscience-students-larger-gains-matthew-effect
+    bearing: supports
+    anchor: sadler-2013-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 9556
+    unit: participants
+  additional_sizes:
+    - value: 181
+      unit: other
+      note: "teachers (classrooms) whose students' data were analysed"
+    - value: 12642
+      unit: participants
+      note: "students matched across at least two tests, before the demographic-completeness restriction"
+    - value: 24654
+      unit: other
+      note: "physical science pretests returned by 219 teachers"
+    - value: 210240
+      unit: other
+      note: "cases (student-by-item scores) in the item-level logistic model, Table 3"
+    - value: 20
+      unit: items
+      note: "items common to the pretest, midyear and year-end tests; 12 misconception items and 8 non-misconception items"
+  population:
+    description: >-
+      US students of 181 volunteer seventh- and eighth-grade physical science
+      teachers recruited by a nationwide mailing; 91% of represented schools
+      public. Compared with national K-8 statistics the sample under-represents
+      Black and Hispanic students and over-represents students whose parents
+      hold college degrees. Teachers had a mean 15.6 years teaching (SD 7.0).
+    age_or_stage: "Grades 7 and 8: eighth graders 78% of the sample, seventh graders 22%. Birth dates were collected for matching, but no age figure is printed."
+    age: unreported
+  context:
+    setting: "Middle school physical science classrooms over one or two semesters; low-stakes tests, not counted for credit"
+  arms:
+    - id: all-students
+      description: "The whole analysed student sample, pretest to posttest, on one item category."
+      size:
+        value: 9556
+        unit: participants
+    - id: teachers
+      description: "The participating teachers answering the same items on the pretest form, and naming the most common wrong student answer on misconception items."
+      size:
+        value: 181
+        unit: participants
+    - id: smk-and-kosm
+      description: "Misconception item on which the student's teacher answered correctly and identified the most common wrong student answer (40.7% of teacher responses on misconception items)."
+    - id: smk-only
+      description: "Misconception item on which the teacher answered correctly but did not identify the most common wrong student answer (41.8% of teacher responses)."
+    - id: no-smk-misconception
+      description: "Misconception item on which the teacher answered incorrectly (the authors combine 'No SMK, KOSM' 2.0% and 'No SMK, no KOSM' 15.5%)."
+    - id: smk-non-misconception
+      description: "Non-misconception item on which the teacher answered correctly (84.6% of teacher responses on those items)."
+    - id: no-smk-non-misconception
+      description: "Non-misconception item on which the teacher answered incorrectly (15.4% of teacher responses)."
+
+comparisons:
+  - id: pre-post-whole-sample
+    kind: within-subject-baseline
+    index_arm: all-students
+    description: "Gain from pretest to posttest for the whole student sample, in SD units of the pretest."
+  - id: kosm-vs-smk-only
+    kind: between-groups
+    index_arm: smk-and-kosm
+    reference_arm: smk-only
+    description: "Student gains on misconception items whose teacher had SMK and KOSM, against items whose teacher had SMK only; item-level categories within the logistic model, not randomised groups."
+  - id: smk-only-vs-no-smk
+    kind: between-groups
+    index_arm: smk-only
+    reference_arm: no-smk-misconception
+    description: "Student gains on misconception items whose teacher had SMK only, against items whose teacher lacked SMK."
+  - id: smk-vs-no-smk-non-misconception
+    kind: between-groups
+    index_arm: smk-non-misconception
+    reference_arm: no-smk-non-misconception
+    description: "Student gains on non-misconception items whose teacher had SMK, against items whose teacher lacked it."
+  - id: test-reliability
+    kind: none
+    description: "Internal consistency of the 20 common items at each administration."
+
+observations:
+
+  - id: kr20-pretest
+    comparison_ref: test-reliability
+    outcome:
+      construct: "Internal consistency of the 20-item physical science test"
+      source_language: "Kuder–Richardson 20 (KR-20) scores for the common 20-item component"
+      measure: "20 five-option multiple-choice items common to all three test forms"
+      scale: "KR-20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, start of the school year"
+    result:
+      measure_type: reliability
+      estimate: 0.53
+      reliability:
+        statistic: kr20
+        over: items
+      interpretation: "Described as within the range of acceptable internal consistency for a test spanning three standards"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The sample over which KR-20 was computed is not stated."
+    source_quote: "The Kuder–Richardson 20 (KR-20) scores for the common 20-item com- ponent of the pretests, midyear tests, and posttests are, respectively, 0.53, 0.64, and 0.71."
+    source_location: "Instrument, p. 1031"
+
+  - id: kr20-midyear
+    comparison_ref: test-reliability
+    outcome:
+      construct: "Internal consistency of the 20-item physical science test"
+      source_language: "Kuder–Richardson 20 (KR-20) scores for the common 20-item component"
+      measure: "20 five-option multiple-choice items common to all three test forms"
+      scale: "KR-20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "midyear test"
+    result:
+      measure_type: reliability
+      estimate: 0.64
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The Kuder–Richardson 20 (KR-20) scores for the common 20-item com- ponent of the pretests, midyear tests, and posttests are, respectively, 0.53, 0.64, and 0.71."
+    source_location: "Instrument, p. 1031"
+
+  - id: kr20-posttest
+    comparison_ref: test-reliability
+    outcome:
+      construct: "Internal consistency of the 20-item physical science test"
+      source_language: "Kuder–Richardson 20 (KR-20) scores for the common 20-item component"
+      measure: "20 five-option multiple-choice items common to all three test forms"
+      scale: "KR-20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "year-end posttest"
+    result:
+      measure_type: reliability
+      estimate: 0.71
+      reliability:
+        statistic: kr20
+        over: items
+      interpretation: "The authors attribute the rise across administrations to increasing student knowledge"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The Kuder–Richardson 20 (KR-20) scores for the common 20-item com- ponent of the pretests, midyear tests, and posttests are, respectively, 0.53, 0.64, and 0.71."
+    source_location: "Instrument, p. 1031"
+
+  - id: gain-es-non-misconception-items
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: pre-post-whole-sample
+    outcome:
+      construct: "Physical science concept knowledge, non-misconception items"
+      source_language: "effect size, or gain calculated in units of standard deviation of the pretest score"
+      measure: "Proportion correct on the 8 non-misconception items (pre 0.378, post 0.448)"
+      scale: "gain in pretest SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest (year-end, or midyear for one-semester classes)"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.380
+      standard_error: 0.010
+      model: "Raw pre-post gain divided by the pretest SD (Table 2); not adjusted for any covariate"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The posttest is the year-end test where available and the midyear test otherwise, so the interval varies by classroom."
+    source_quote: "For non-misconception items, the effect size was 0.380 SD, while the effect size for misconception items was smaller: 0.278 SD."
+    source_location: "Results, Descriptive Statistics; Table 2"
+
+  - id: gain-es-misconception-items
+    sample:
+      value: 9556
+      unit: participants
+    comparison_ref: pre-post-whole-sample
+    outcome:
+      construct: "Physical science concept knowledge, misconception items"
+      source_language: "effect size, or gain calculated in units of standard deviation of the pretest score"
+      measure: "Proportion correct on the 12 misconception items (pre 0.376, post 0.417)"
+      scale: "gain in pretest SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest (year-end, or midyear for one-semester classes)"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.278
+      standard_error: 0.010
+      model: "Raw pre-post gain divided by the pretest SD (Table 2); not adjusted for any covariate"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "For non-misconception items, the effect size was 0.380 SD, while the effect size for misconception items was smaller: 0.278 SD."
+    source_location: "Results, Descriptive Statistics; Table 2"
+
+  - id: teacher-kosm-mean
+    sample:
+      value: 181
+      unit: participants
+    arm_ref: teachers
+    outcome:
+      construct: "Teacher knowledge of student misconceptions"
+      source_language: "Teachers’ KOSM, the ability to identify the most common wrong answer on misconception items"
+      measure: "Share of the 12 misconception items on which the teacher identified the most common wrong student answer"
+      scale: "percent of items"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, start of the school year"
+    result:
+      measure_type: mean
+      estimate: 42.7
+      sd: 16.6
+      unit: "percent of misconception items identified"
+      interpretation: "Described as weak; the authors note that guessing would give about 3 of 12 items for teachers who knew the correct answer"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Teachers’ KOSM, the ability to identify the most common wrong answer on misconception items, was weak, with an average score of 42.7% (SD = 16.6%) identified, averaging only 5 out of the 12 items with strong miscon- ceptions."
+    source_location: "Results, Descriptive Statistics, p. 1035"
+
+  - id: teacher-smk-mean-misconception-items
+    sample:
+      value: 181
+      unit: participants
+    arm_ref: teachers
+    outcome:
+      construct: "Teacher subject matter knowledge, misconception items"
+      source_language: "Teacher SMK performance on the pretest"
+      measure: "Percent correct on the 12 misconception items"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, start of the school year"
+    result:
+      measure_type: mean
+      estimate: 82.5
+      sd: 13.8
+      unit: "percent correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Teacher SMK performance on the pretest was strong, with 84.5% (SD = 13.7%) correct on non-misconception items and 82.5% (SD = 13.8%) on mis- conception items."
+    source_location: "Results, Descriptive Statistics, p. 1035"
+
+  - id: teacher-smk-mean-non-misconception-items
+    sample:
+      value: 181
+      unit: participants
+    arm_ref: teachers
+    outcome:
+      construct: "Teacher subject matter knowledge, non-misconception items"
+      source_language: "Teacher SMK performance on the pretest"
+      measure: "Percent correct on the 8 non-misconception items"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, start of the school year"
+    result:
+      measure_type: mean
+      estimate: 84.5
+      sd: 13.7
+      unit: "percent correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Teacher SMK performance on the pretest was strong, with 84.5% (SD = 13.7%) correct on non-misconception items and 82.5% (SD = 13.8%) on mis- conception items."
+    source_location: "Results, Descriptive Statistics, p. 1035"
+
+  - id: kosm-advantage-misconception-items-high-nonscience
+    comparison_ref: kosm-vs-smk-only
+    outcome:
+      construct: "Student gain on misconception items"
+      source_language: "student gains"
+      measure: "Posttest item correctness on the 12 misconception items, from the item-level hierarchical logistic model, expressed as gain in pretest SD units"
+      scale: "gain in pretest SD units (Figure 2)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: other
+      model: "Item-level hierarchical logistic regression with student controls and item difficulty; estimates for high-nonscience students"
+      interpretation: >-
+        For high-nonscience students, gains on misconception items were
+        significantly larger only when the teacher had both SMK and KOSM. The
+        size of the difference is shown in Figure 2 only; no value is printed
+        in the text.
+    moderators:
+      reported:
+        - variable: "Student nonscience level (reading and math items)"
+          relationship: "Low-nonscience students showed no significant gain on misconception items under any teacher-knowledge category"
+          source_quote: "Furthermore, for low nonscience students, there was no significant gain on misconception items for any of the categories of teacher knowledge: no SMK, SMK only, or SMK plus KOSM."
+        - variable: "Student nonscience level (reading and math items)"
+          relationship: "The benefit of a teacher with SMK and KOSM accrued disproportionately to high-nonscience students (significant interaction)"
+          source_quote: "the benefits of having a more knowledgeable teacher, with SMK and KOSM, overproportionately accrued to the high nonscience stu- dents."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is unreported because the contrast's magnitude appears only
+      in Figure 2; Table 3's coefficients are relative to an unnamed reference
+      category and their signs are unreadable in the text layer.
+    source_quote: "Only when teachers had both SMK and KOSM were student gains significantly larger."
+    source_location: "Results, Inferential Analysis, p. 1038; Figure 2"
+
+  - id: smk-only-vs-no-smk-misconception-items-high-nonscience
+    comparison_ref: smk-only-vs-no-smk
+    outcome:
+      construct: "Student gain on misconception items"
+      source_language: "gains"
+      measure: "Posttest item correctness on the 12 misconception items, from the item-level hierarchical logistic model, expressed as gain in pretest SD units"
+      scale: "gain in pretest SD units (Figure 2)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: other
+      model: "Item-level hierarchical logistic regression; high-nonscience students"
+      interpretation: "Not significantly different: teacher SMK alone did not predict higher gains on misconception items for high-nonscience students."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Students of teachers who had only SMK on an item had gains that were not significantly different from those of students who had teachers without SMK."
+    source_location: "Results, Inferential Analysis, p. 1038; Figure 2"
+
+  - id: smk-advantage-non-misconception-items
+    comparison_ref: smk-vs-no-smk-non-misconception
+    outcome:
+      construct: "Student gain on non-misconception items"
+      source_language: "student gains"
+      measure: "Posttest item correctness on the 8 non-misconception items, from the item-level hierarchical logistic model, expressed as gain in pretest SD units"
+      scale: "gain in pretest SD units (Figure 2)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to posttest, one or two semesters"
+    result:
+      measure_type: other
+      model: "Item-level hierarchical logistic regression; students with high reading and math scores"
+      interpretation: "Gains nearly double when the teacher answered the item correctly; no value printed in the text."
+    moderators:
+      reported:
+        - variable: "Student nonscience level (reading and math items)"
+          relationship: "Low-nonscience students gained significantly on a non-misconception item only if their teacher had the SMK for it"
+          source_quote: "For students at the low nonscience level, there was no significant gain on a particular non-misconception item if their teacher did not have the SMK for that item, but there was a significant effect if a teacher did have the SMK."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "For non- misconception items, student gains are nearly double if the teacher knows the correct answer."
+    source_location: "Discussion, p. 1041"
+
+not_yet_extracted:
+  - "Table 3 item-level logistic coefficients and interaction terms: minus signs are rendered as a leading '2' in the text layer (e.g. '20.069 (0.051) 21.37'), so their signs cannot be read cleanly; the interaction pretest score x reading and math score 0.374 (0.024) is quoted cleanly in the Discussion but is not recorded here."
+  - "Figure 2 gain estimates per teacher-knowledge category and nonscience level: printed only in the figure."
+  - "Test-level analysis: 'Our test-level analysis resulted in a similar relationship to teacher knowledge (0.05 to 0.10 SD between teachers low or high in overall measures of knowledge).' Analysis not shown; what the range spans is not stated."
+  - "Item-level SD of dichotomous teacher responses: 37.2% (KOSM) and 48.2% (SMK)."
+  - "Teacher background variables (years teaching, degrees) not significant when entered with SMK and KOSM (p .05); no estimates printed."

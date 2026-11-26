@@ -1,0 +1,336 @@
+# Richland, Kornell & Kao (2009), Experiment 5: test and study, extended
+# study, and a third condition that memorized the pretest questions without
+# answering them. Key phrases italicized for half the concepts. Immediate final
+# test; one-tailed planned comparisons.
+#
+# Records the three pairwise contrasts on italicized key items (d = 1.1, 0.59,
+# 0.57) and the three condition means with SEs.
+#
+# `population.age`: average age 20 years.
+#
+# No scoring reliability is printed for the final test in any experiment (how
+# answers were scored is not described), so no reliability is recorded.
+#
+# Read from the publisher PDF of the article supplied for this batch (beside its
+# pdftotext text layer). The text layer writes "=" as U+2AFD and "<" as U+2B0D,
+# and drops the hyphen in "bolded-only" and "italicized-only" at line breaks;
+# every source_quote containing those characters was taken from the page images
+# (PDF pp. 246-251) and uses the characters the article prints. The numbers in
+# the text layer and the page images agree.
+
+schema_version: 2
+study:
+  key: richland-2009-exp5
+  citation: 'Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful
+    retrieval attempts enhance learning? Journal of Experimental Psychology: Applied, 15(3), 243–257.
+    Experiment 5.'
+  doi: 10.1037/a0016496
+  design:
+    family: randomized-controlled-trial
+    design_detail: Laboratory experiment, participants tested individually, random assignment to three
+      between-participants conditions. Pre- and posttest questions rewritten to fill-in-the-blank format;
+      key phrases italicized for half the key concepts. Final test immediately after study, as in Experiments
+      1-3. One-tailed planned comparisons.
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: attempting-answers-beats-memorizing-questions
+  bearing: supports
+  anchor: richland-2009
+- claim: pretesting-enhances-learning
+  bearing: supports
+  anchor: richland-kornell-and-kao-2009
+evidence_base:
+  unit: participants
+  size:
+    value: 76
+    unit: participants
+  population:
+    description: Undergraduates given course credit for participating. 64 women and 12 men; a further
+      3 excluded for not completing the posttest and 2 for prior knowledge of the passage.
+    age_or_stage: Undergraduates
+    age:
+      unit: years
+      mean: 20
+  context:
+    setting: Individual sessions
+    materials: The Sacks (1995) passage with key phrases italicized for half the key concepts; questions
+      rewritten to fill-in-the-blank format.
+  arms:
+  - id: test-and-study
+    description: 'Test and study: 2-min pretest (6% answered correctly), then 8 min studying the passage
+      with key phrases italicized for half the concepts.'
+    size:
+      value: 24
+      unit: participants
+    elements:
+    - term: unsuccessful retrieval attempt (pretest) before studying the text
+      anchors:
+      - principles/retrieval-practice
+    dose:
+      amount: 10
+      unit: min in total (2 min pretest, 8 min study)
+  - id: question-learning
+    description: 'Question learning and study: 2 min memorizing the same pretest questions without answering
+      them (told they would test another person), writing the questions down, then studying the passage.'
+    size:
+      value: 26
+      unit: participants
+    elements:
+    - term: memorizing prequestions without attempting an answer
+  - id: extended-study
+    description: 'Extended study: 10 min studying the passage with key phrases italicized for half the
+      concepts.'
+    size:
+      value: 26
+      unit: participants
+    elements:
+    - term: additional study time on the same text
+    dose:
+      amount: 10
+      unit: min of study
+comparisons:
+- id: test-vs-extended-study
+  kind: between-groups
+  index_arm: test-and-study
+  reference_arm: extended-study
+  description: Pretest then study against extended study for the same total time, between participants.
+- id: test-vs-question-learning
+  kind: between-groups
+  index_arm: test-and-study
+  reference_arm: question-learning
+  description: Attempting to answer the prequestions against memorizing them, between participants.
+- id: question-learning-vs-extended-study
+  kind: between-groups
+  index_arm: question-learning
+  reference_arm: extended-study
+  description: Memorizing the prequestions against extended study, between participants.
+observations:
+- id: tested-italicized-vs-extended-study
+  sample:
+    value: 50
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of pretested, italicized concepts
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Italicized
+      key items: tested (test and study) or studied and italicized (extended study).'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: immediately after the study period
+  result:
+    measure_type: cohens_d
+    estimate: 1.1
+    statistic: t(48) = 3.7
+    p_value: < .001
+    descriptives: test and study M = 90% (SE 3.8) vs extended study M = 63% (SE 5.9)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: As expected, the largest difference was between the test and study condition and the extended
+    study condition, t(48) = 3.7, p < .001, d = 1.1.
+  source_location: Experiment 5, Results (p. 251)
+- id: test-vs-question-learning
+  sample:
+    value: 50
+    unit: participants
+  comparison_ref: test-vs-question-learning
+  outcome:
+    construct: Final-test recall of pretested, italicized concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Italicized
+      key items whose questions were answered (test) or memorized (question learning).
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: cohens_d
+    estimate: 0.59
+    statistic: t(48) = 2.04
+    p_value: < .02 (one-tailed)
+    descriptives: test and study M = 90% (SE 3.8) vs question learning M = 78% (SE 4.2)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: 'The test and study condition outperformed the question learning and study condition,
+    t(48) = 2.04, p < .02, d = 0.59, which in turn outperformed the extended study condition, t(50) =
+    2.02, p < .02, d = 0.57 (test and study: M = 90%, SE = 3.8; question learning: M = 78%, SE = 4.2;
+    extended study: M = 63%, SE = 5.9).'
+  source_location: Experiment 5, Results (p. 251)
+- id: question-learning-vs-extended-study
+  sample:
+    value: 52
+    unit: participants
+  comparison_ref: question-learning-vs-extended-study
+  outcome:
+    construct: Final-test recall of italicized key concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Italicized
+      key items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: cohens_d
+    estimate: 0.57
+    statistic: t(50) = 2.02
+    p_value: < .02 (one-tailed)
+    descriptives: question learning M = 78% (SE 4.2) vs extended study M = 63% (SE 5.9)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: 'The test and study condition outperformed the question learning and study condition,
+    t(48) = 2.04, p < .02, d = 0.59, which in turn outperformed the extended study condition, t(50) =
+    2.02, p < .02, d = 0.57 (test and study: M = 90%, SE = 3.8; question learning: M = 78%, SE = 4.2;
+    extended study: M = 63%, SE = 5.9).'
+  source_location: Experiment 5, Results (p. 251)
+- id: mean-test-and-study-tested-items
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: test-and-study
+  outcome:
+    construct: Final-test recall of pretested, italicized concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Tested and
+      italicized items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 90
+    standard_error: 3.8
+    unit: percent correct on the final test, tested and italicized items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: 'The test and study condition outperformed the question learning and study condition,
+    t(48) = 2.04, p < .02, d = 0.59, which in turn outperformed the extended study condition, t(50) =
+    2.02, p < .02, d = 0.57 (test and study: M = 90%, SE = 3.8; question learning: M = 78%, SE = 4.2;
+    extended study: M = 63%, SE = 5.9).'
+  source_location: Experiment 5, Results (p. 251)
+- id: mean-question-learning
+  sample:
+    value: 26
+    unit: participants
+  arm_ref: question-learning
+  outcome:
+    construct: Final-test recall of italicized concepts whose questions were memorized
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Studied and
+      italicized items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 78
+    standard_error: 4.2
+    unit: percent correct on the final test, italicized items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: 'The test and study condition outperformed the question learning and study condition,
+    t(48) = 2.04, p < .02, d = 0.59, which in turn outperformed the extended study condition, t(50) =
+    2.02, p < .02, d = 0.57 (test and study: M = 90%, SE = 3.8; question learning: M = 78%, SE = 4.2;
+    extended study: M = 63%, SE = 5.9).'
+  source_location: Experiment 5, Results (p. 251)
+- id: mean-extended-study
+  sample:
+    value: 26
+    unit: participants
+  arm_ref: extended-study
+  outcome:
+    construct: Final-test recall of italicized concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Italicized
+      items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 63
+    standard_error: 5.9
+    unit: percent correct on the final test, italicized items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: 'The test and study condition outperformed the question learning and study condition,
+    t(48) = 2.04, p < .02, d = 0.59, which in turn outperformed the extended study condition, t(50) =
+    2.02, p < .02, d = 0.57 (test and study: M = 90%, SE = 3.8; question learning: M = 78%, SE = 4.2;
+    extended study: M = 63%, SE = 5.9).'
+  source_location: Experiment 5, Results (p. 251)
+not_yet_extracted:
+- 'Untested, unitalicized items did not differ across conditions: F(1, 73) = 0.31, MSE = 0.096, p = .74
+  (the df are printed as F(1, 73) for a three-group one-way ANOVA).'
+- 'Pretest accuracy in the test and study condition: 6%.'

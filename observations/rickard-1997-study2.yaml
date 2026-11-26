@@ -1,0 +1,282 @@
+# Rickard (1997), Experiment 2: alphabet arithmetic with addends 3, 5 and 7,
+# the shift from counting to direct retrieval, and whether retrieval depends on
+# how long the algorithm takes.
+#
+# Read from a scanned copy of the publisher's PDF through its OCR text layer
+# (no page images were available beside it). Quotes are copied from that text
+# layer, hyphenation included. Spans the OCR rendered with stray escapes
+# ("p \< .0001") were cut before the escape; the p values are in `p_value` as
+# the article prints them.
+#
+# The OCR interleaves the two columns of page 304, so the sentence giving the
+# CMPL fit's overall r squared for this experiment cannot be quoted as one
+# clean span. It is NOT recorded as a figure; see not_yet_extracted. The
+# General Discussion's statement that the CMPL model "still provided higher
+# r 2 values" here is carried in the instance-theory observation's notes.
+#
+# Experiment 1 (pound arithmetic) is `rickard-1997-study1`. No claim page in
+# the wiki cites this article yet, so `appears_in` is omitted.
+
+schema_version: 2
+
+study:
+  key: rickard-1997-study2
+  citation: "Rickard, T. C. (1997). Bending the power law: A CMPL theory of strategy shifts and the automatization of cognitive skills. Journal of Experimental Psychology: General, 126(3), 288–311."
+  doi: "10.1037/0096-3445.126.3.288"
+  design:
+    family: other
+    design_detail: >-
+      Single-group laboratory practice experiment with repeated measures.
+      Every participant practised the same 24 alphabet-arithmetic verification
+      problems (for example E + 3 = H, true or false?), 8 each with addends 3,
+      5 and 7, for 87 blocks over four sessions, with a strategy probe after
+      one third of trials. Addend size is a within-participant factor of the
+      problems; key assignment was counterbalanced. Instance-theory (15 free
+      parameters) and CMPL (10 free parameters) models were fitted.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 21
+    unit: participants
+  additional_sizes:
+    - value: 24
+      unit: items
+      note: "problems practised by every participant: 8 per addend size, 4 true and 4 false within each"
+  population:
+    description: >-
+      Students from an introductory psychology course, participating for
+      credit, tested in groups of up to four at personal computers.
+    age_or_stage: "Introductory psychology students; the article prints no age figure."
+    age: unreported
+  context:
+    setting: "Laboratory, four sessions of 30 to 45 minutes, three in one week and one the next"
+  arms:
+    - id: practice
+      description: >-
+        Speeded true/false verification practice on 24 alphabet-arithmetic
+        problems presented in random order once per block, 87 blocks over four
+        sessions (15, 21, 24 and 27 blocks).
+      dose:
+        amount: 87
+        unit: practice blocks
+        detail: "one exposure to each of the 24 problems per block"
+    - id: addend-3-problems
+      description: "The eight practised problems with addend 3."
+    - id: addend-5-problems
+      description: "The eight practised problems with addend 5."
+    - id: addend-7-problems
+      description: "The eight practised problems with addend 7."
+
+comparisons:
+  - id: across-practice
+    kind: within-subject-baseline
+    index_arm: practice
+    description: "Performance across the 87 practice blocks, against the participants' own earlier blocks."
+  - id: addend-size
+    kind: other
+    index_arm:
+      - addend-5-problems
+      - addend-7-problems
+    reference_arm: addend-3-problems
+    description: >-
+      Omnibus within-participant test across the three addend sizes. The
+      source reports one F over all three levels, not a pairwise contrast; the
+      sides are listed only so every level is named.
+
+observations:
+
+  - id: retrieval-transition-block
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Shift from algorithm to direct memory retrieval"
+      source_language: "retrieval was the reported strategy on nearly all trials"
+      measure: "Strategy-probe reports (algorithm, retrieval, other), collapsed over participants, problems and addend size (Figure 14)"
+      scale: "practice block (one exposure to each problem per block)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during practice, 87 blocks over four sessions"
+    result:
+      measure_type: other
+      estimate: 60
+      unit: "practice blocks"
+      interpretation: >-
+        Approximate: "by about block 60". The abstract, for both experiments,
+        says the complete transition occurred "by about the 60th exposure to
+        each problem". Not a fitted parameter.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "By about block 60, retrieval was the reported strategy on nearly all trials."
+    source_location: "Experiment 2, Results and Discussion; Figure 14"
+
+  - id: retrieval-proportion-by-addend
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: addend-size
+    outcome:
+      construct: "Speed of the transition to retrieval, by algorithm length"
+      source_language: "the number of trials needed to make the transition to retrieval"
+      measure: "Overall proportion of retrieval responses to strategy probes during practice, by addend size"
+      scale: "proportion of probed trials"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 87 blocks"
+    result:
+      measure_type: other
+      statistic: "F(2, 20), within-subjects ANOVA with a single factor of addend size"
+      bound:
+        operator: "<"
+        value: 1
+      descriptives: "Mean proportion of retrieval responses .794 (addend 3), .791 (addend 5), .799 (addend 7)."
+      interpretation: "The transition to retrieval was not influenced by addend size, as the CMPL model predicts."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The bound is on the F statistic, which the article prints only as
+      "F(2, 20) < 1". In the text layer it follows a figure break after the
+      quoted span, so the quote stops at the means.
+    source_quote: "A within-subjects ANOVA performed on the overall proportion of retrieval responses with a single factor of addend size (M = .794, .791, and .799 for addend sizes of 3, 5, and 7, respectively)"
+    source_location: "Experiment 2, Results and Discussion"
+
+  - id: instance-theory-fit-r2
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Fit of a single power function to overall practice data"
+      source_language: "Instance theory fits"
+      measure: "Overall log RT and log SD of correct trials for each addend size, by log block, fitted with the instance-theory power functions (15 free parameters, 5 per addend size)"
+      scale: "r squared"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 87 blocks"
+    result:
+      measure_type: other
+      estimate: 0.95
+      statistic: "r squared"
+      model: "Instance theory (Logan, 1988), fitted to the overall data for all three addend sizes"
+      interpretation: >-
+        Systematic deviations from the fit grow with addend size. The General
+        Discussion states that the CMPL model, here with fewer free parameters
+        (10), "still provided higher r 2 values".
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The overall r 2 of the instance theory fit over all addend sizes was .95."
+    source_location: "Experiment 2, Instance theory fits; Figures 15-17"
+
+  - id: retrieval-rt-log-block
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Speed-up of retrieval with practice"
+      source_language: "a reliable effect of log block"
+      measure: "Log RT of trials classified as retrieval, ANCOVA with log block as a continuous factor and addend as a categorical factor"
+      scale: "log response time"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, retrieval trials"
+    result:
+      measure_type: other
+      estimate: 489
+      statistic: "F(1, 20)"
+      p_value: "< .0001"
+      model: "ANCOVA on retrieval log RTs: log block (continuous) by addend (3, 5, 7)"
+      interpretation: "Retrieval latency fell with log practice within the retrieval strategy."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The estimate is the F statistic, not an effect size. The same ANCOVA on
+      retrieval log SDs gave F(1, 20) = 69.5 for log block.
+    source_quote: "As expected, there was a reliable effect of log block, F(1, 20) = 489"
+    source_location: "Experiment 2, CMPL fits"
+
+  - id: retrieval-rt-by-addend
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: addend-size
+    outcome:
+      construct: "Dependence of retrieval speed on algorithm length"
+      source_language: "no reliable effect of either addend ... or of the interaction log block by addend"
+      measure: "Log RT of trials classified as retrieval, ANCOVA with log block as a continuous factor and addend as a categorical factor"
+      scale: "log response time"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, retrieval trials"
+    result:
+      measure_type: other
+      estimate: 0.43
+      statistic: "F(2, 40), main effect of addend"
+      p_value: ".66"
+      descriptives: "Log block by addend interaction F(2, 40) = .63, p = .54. On retrieval log SDs: addend F(2, 40) = .08, p = .92; interaction F(2, 40) = .06, p = .94."
+      interpretation: "Retrieval-based performance did not depend on addend size, although algorithm RTs and SDs increase with it."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, there was no reliable effect of either addend, F(2, 40) = .43, p = .66, or of the interaction log block by addend, F(2, 40) = .63, p = .54."
+    source_location: "Experiment 2, CMPL fits"
+
+not_yet_extracted:
+  - "Overall r squared of the CMPL fit to the entire Experiment 2 data set: the OCR text interleaves the two columns of page 304 through this sentence, so the figure is not recorded from it."
+  - "SD slopes steeper than RT slopes within strategy: algorithm F(1, 20) = 4.47, retrieval F(1, 20) = 5.28, both p < .05."
+  - "Per-participant overall rate estimates: SD steeper than RT for 15 of 21 participants at addend 3; RT steeper for 15 and 14 of 21 at addends 5 and 7 (sign tests, ps < .05 for addends 3 and 5)."
+  - "Error rates by session and addend size (.058 to .099); addend F(2, 20) = 7.22, session F(3, 20) = .48, interaction F(6, 20) = 1.77."
+  - "Fitted CMPL parameter values (b1, x, e, b2, b3, p, k1 to k4) are not printed; the fits appear only as curves in Figures 18-20."

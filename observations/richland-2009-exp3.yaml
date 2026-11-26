@@ -1,0 +1,248 @@
+# Richland, Kornell & Kao (2009), Experiment 3: as Experiment 2, but one
+# keyword of each testable sentence was bolded in both conditions instead of
+# italics. Immediate final test.
+#
+# Records the tested-and-bolded contrast (d = 0.84), the two condition means
+# with SEs, and the untested-items contrast (d = 0.48, approaching significance).
+# Two pretest items answered at unexpectedly high rates were dropped from all
+# posttest analyses in both conditions.
+#
+# `population.age`: the article prints only an average age, 22 years.
+#
+# No scoring reliability is printed for the final test in any experiment (how
+# answers were scored is not described), so no reliability is recorded.
+#
+# Read from the publisher PDF of the article supplied for this batch (beside its
+# pdftotext text layer). The text layer writes "=" as U+2AFD and "<" as U+2B0D,
+# and drops the hyphen in "bolded-only" and "italicized-only" at line breaks;
+# every source_quote containing those characters was taken from the page images
+# (PDF pp. 246-251) and uses the characters the article prints. The numbers in
+# the text layer and the page images agree.
+
+schema_version: 2
+study:
+  key: richland-2009-exp3
+  citation: 'Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful
+    retrieval attempts enhance learning? Journal of Experimental Psychology: Applied, 15(3), 243–257.
+    Experiment 3.'
+  doi: 10.1037/a0016496
+  design:
+    family: randomized-controlled-trial
+    design_detail: Group-setting laboratory experiment, random assignment to two between-participants
+      conditions. Same procedure as Experiments 1 and 2 with one keyword (the answer) bolded in each of
+      the 10 testable sentences in both conditions; no instruction about the bolding. Untimed final test
+      immediately after.
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: pretesting-effect-persists-with-bolded-keywords
+  bearing: supports
+  anchor: richland-2009
+- claim: pretesting-no-cost-to-untested-items
+  bearing: supports
+  anchor: richland-2009-2
+- claim: pretesting-enhances-learning
+  bearing: supports
+  anchor: richland-kornell-and-kao-2009
+evidence_base:
+  unit: participants
+  size:
+    value: 64
+    unit: participants
+  population:
+    description: Undergraduates given course credit for participating. 44 women, 17 men, 3 unstated.
+    age_or_stage: Undergraduates
+    age:
+      unit: years
+      mean: 22
+  context:
+    setting: Group setting
+    materials: A two-page essay on vision and cerebral achromatopsia from Sacks (1995) with 10 testable
+      sentences; two counterbalanced 5-question pretests; a 10-question final test. One keyword bolded
+      in each testable sentence.
+  arms:
+  - id: test-and-study
+    description: 'Test and study: 2-min pretest (21% answered correctly; 11% after two items were dropped),
+      then 8 min studying the passage with keywords bolded.'
+    size:
+      value: 31
+      unit: participants
+    elements:
+    - term: unsuccessful retrieval attempt (pretest) before studying the text
+      anchors:
+      - principles/retrieval-practice
+    dose:
+      amount: 10
+      unit: min in total (2 min pretest, 8 min study)
+  - id: extended-study
+    description: 'Extended study: 10 min studying the same passage with keywords bolded.'
+    size:
+      value: 33
+      unit: participants
+    elements:
+    - term: additional study time on the same text
+    dose:
+      amount: 10
+      unit: min of study
+comparisons:
+- id: test-vs-extended-study
+  kind: between-groups
+  index_arm: test-and-study
+  reference_arm: extended-study
+  description: Pretest then study against extended study for the same total time, between participants.
+observations:
+- id: tested-bolded-vs-extended-study
+  sample:
+    value: 64
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of pretested, bolded concepts
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Test and
+      study: tested and bolded items; extended study: bolded-only items. Two high-pretest-accuracy items
+      dropped in both conditions.'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: immediately after the study period
+  result:
+    measure_type: cohens_d
+    estimate: 0.84
+    statistic: t(62) = 3.3
+    p_value: < .002
+    descriptives: test and study M = 82% (SE 3.8) vs extended study M = 64% (SE 4.0)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: tested and bolded items in the test and study condition were recalled significantly more
+    often on the final test (M = 82%, SE = 3.8) than were bolded-only items in the extended study condition
+    (M = 64%, SE = 4.0), t(62) = 3.3, p < .002, d = 0.84,
+  source_location: Experiment 3, Results (p. 248)
+- id: mean-test-and-study-tested-items
+  sample:
+    value: 31
+    unit: participants
+  arm_ref: test-and-study
+  outcome:
+    construct: Final-test recall of pretested, bolded concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Tested and
+      bolded items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 82
+    standard_error: 3.8
+    unit: percent correct on the final test, tested and bolded items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: tested and bolded items in the test and study condition were recalled significantly more
+    often on the final test (M = 82%, SE = 3.8) than were bolded-only items in the extended study condition
+    (M = 64%, SE = 4.0)
+  source_location: Experiment 3, Results (p. 248)
+- id: mean-extended-study
+  sample:
+    value: 33
+    unit: participants
+  arm_ref: extended-study
+  outcome:
+    construct: Final-test recall of bolded concepts
+    source_language: posttest accuracy
+    measure: Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items a
+      participant answered correctly on the pretest removed from that participant's scores. Bolded-only
+      items.
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 64
+    standard_error: 4.0
+    unit: percent correct on the final test, bolded items
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The source prints the standard error of the mean, not an SD; no SD is derived here.
+    effect_size is unreported because a single group's mean is not an effect.
+  source_quote: tested and bolded items in the test and study condition were recalled significantly more
+    often on the final test (M = 82%, SE = 3.8) than were bolded-only items in the extended study condition
+    (M = 64%, SE = 4.0)
+  source_location: Experiment 3, Results (p. 248)
+- id: untested-items-vs-extended-study
+  sample:
+    value: 64
+    unit: participants
+  comparison_ref: test-vs-extended-study
+  outcome:
+    construct: Final-test recall of bolded concepts not pretested
+    source_language: posttest accuracy
+    measure: 'Final test of the 10 testable items (fill-in-the-blank or short answer), untimed; items
+      a participant answered correctly on the pretest removed from that participant''s scores. Test and
+      study: bolded, untested items; extended study: bolded-only items.'
+    scale: percent correct
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: cohens_d
+    estimate: 0.48
+    statistic: t(62) = 1.9
+    p_value: '.062'
+    descriptives: untested bolded items in test and study M = 77% (SE 3.0); extended study M = 64% (SE
+      4.0)
+    interpretation: Approached significance; the authors note this was not reliable across the experiments.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  source_quote: untested items in the test and study condition were recalled at a higher rate than items
+    in the extended study condition, a difference that approached significance, t(62) = 1.9, p = .062,
+    d = 0.48.
+  source_location: Experiment 3, Results (p. 248)
+not_yet_extracted:
+- Within the test and study condition, tested and bolded items (M = 82%, SE = 3.8) against bolded but
+  untested items (M = 77%, SE = 3.0), t(30) = 1.4, p = .17, not significant.

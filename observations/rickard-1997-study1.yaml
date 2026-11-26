@@ -1,0 +1,349 @@
+# Rickard (1997), Experiment 1: pound arithmetic, the shift from a taught
+# algorithm to direct retrieval, and component power laws (CMPL).
+#
+# Read from a scanned copy of the publisher's PDF through its OCR text layer
+# (no page images were available beside it). Every quote below is copied from
+# that text layer, so it keeps the scan's line-break hyphenation ("prob- lems").
+# Spans the OCR rendered with stray escapes ("p \< .01") were cut before the
+# escape rather than reproduced; the p values are in `p_value` as the article
+# prints them.
+#
+# Experiment 2 (alphabet arithmetic, 21 participants) is a different sample
+# and is its own record, `rickard-1997-study2`.
+#
+# The simulation section's parameter settings (c2 = 0.5, beta(16, 4) response
+# threshold, 25 trials of previous learning, the "first transition on Block 3,
+# last on Block 69" of the simulated data) are values the author SET or
+# simulated, not measurements of people, and are not recorded as observations.
+#
+# No claim page in the wiki cites this article yet, so `appears_in` is omitted.
+
+schema_version: 2
+
+study:
+  key: rickard-1997-study1
+  citation: "Rickard, T. C. (1997). Bending the power law: A CMPL theory of strategy shifts and the automatization of cognitive skills. Journal of Experimental Psychology: General, 126(3), 288–311."
+  doi: "10.1037/0096-3445.126.3.288"
+  design:
+    family: other
+    design_detail: >-
+      Single-group laboratory practice experiment with repeated measures. Each
+      participant practised one set of 12 pound-arithmetic problems (6 Type 1,
+      6 Type 2) for 90 blocks across five sessions, one exposure to each
+      problem per block, with a strategy probe (algorithm, retrieval, other)
+      after one third of trials. Problem sets were counterbalanced across
+      participants; no assignment of participants to conditions. An immediate
+      transfer test compared practised (no-change), type-change and new
+      problems within participants; a delayed test six weeks later is reported
+      elsewhere. Power-function (instance theory) and component-power-law
+      (CMPL) models were fitted to the response times and SDs.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 18
+    unit: participants
+  additional_sizes:
+    - value: 21
+      unit: participants
+      note: "recruited; 2 dropped for missing practice sessions, 1 analysed separately because no transition to retrieval occurred"
+    - value: 216
+      unit: items
+      note: "participant-by-problem items (12 problems for each of the 18 participants)"
+  population:
+    description: >-
+      Students from an introductory psychology course, participating for
+      credit, tested in groups of up to four at personal computers.
+    age_or_stage: "Introductory psychology students; the article prints no age figure."
+    age: unreported
+  context:
+    setting: "Laboratory, six sessions of 40 to 60 minutes: three in one week, two the next, and a delayed test six weeks after the fifth"
+  arms:
+    - id: practice
+      description: >-
+        Speeded practice on 12 pound-arithmetic problems (for example
+        4 # 17 = __), taught first as a three-step (Type 1) or four-step
+        (Type 2) algorithm, presented in random order once per block for 90
+        blocks over five sessions (9, 15, 21, 24 and 21 blocks).
+      dose:
+        amount: 90
+        unit: practice blocks
+        detail: "one exposure to each of the 12 problems per block"
+    - id: no-change-test
+      description: "Immediate test on the exact problems seen during practice."
+    - id: type-change-test
+      description: "Immediate test on practised number combinations presented as the other problem type (Type 1 shown as Type 2, and the reverse)."
+    - id: new-problems-test
+      description: "Immediate test on number combinations not seen during practice."
+
+comparisons:
+  - id: across-practice
+    kind: within-subject-baseline
+    index_arm: practice
+    description: "Performance on the practised problems across the 90 practice blocks, against the participants' own earlier blocks."
+  - id: practised-vs-unpractised-at-test
+    kind: other
+    index_arm: no-change-test
+    reference_arm:
+      - type-change-test
+      - new-problems-test
+    description: "Within-participant planned contrast at the immediate test: practised problems against type-change and new problems together."
+
+observations:
+
+  - id: retrieval-transition-block
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Shift from algorithm to direct memory retrieval"
+      source_language: "retrieval was the reported strategy on nearly all trials"
+      measure: "Strategy-probe reports (algorithm, retrieval, other), collapsed over participants, problems and three-block sequences (Figure 7)"
+      scale: "practice block (one exposure to each problem per block)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during practice, 90 blocks over five sessions"
+    result:
+      measure_type: other
+      estimate: 60
+      unit: "practice blocks"
+      interpretation: >-
+        Approximate. The article says "by about Block 60"; the abstract, for
+        both experiments, says the complete transition occurred "by about the
+        60th exposure to each problem". Not a fitted parameter.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A block count read from the aggregate strategy-probe curve, stated as an
+      approximation; no per-item or per-participant transition point is
+      printed in the text.
+    source_quote: "Practice was successful in creating a transition to retrieval. By about Block 60, retrieval was the reported strategy on nearly all trials."
+    source_location: "Experiment 1, Results and Discussion; Figure 7"
+
+  - id: step-function-transitions
+    sample:
+      value: 216
+      unit: items
+    comparison_ref: across-practice
+    outcome:
+      construct: "Abruptness of the strategy transition per item"
+      source_language: "the transition was a step function"
+      measure: "Items whose strategy probes showed the algorithm for an initial run of trials and retrieval exclusively thereafter"
+      scale: "count of participant-by-problem items"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "during practice, 90 blocks over five sessions"
+    result:
+      measure_type: count
+      estimate: 90
+      unit: "items of 216"
+      interpretation: "41% of items, as the article prints it. For most of the rest, very few blocks separated the first retrieval response from the last algorithm response."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "For 90 of the 216 items across the 18 participants (41%), the transition was a step function."
+    source_location: "Experiment 1, Results and Discussion"
+
+  - id: instance-theory-fit-r2
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Fit of a single power function to overall practice data"
+      source_language: "Instance theory fits to the response time (RT) and standard deviation (SD) data"
+      measure: "Log RT and log SD of correct trials averaged over participants and problems, by log block, fitted with the instance-theory power functions (five free parameters)"
+      scale: "r squared"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 90 blocks"
+    result:
+      measure_type: other
+      estimate: 0.94
+      statistic: "r squared"
+      model: "Instance theory (Logan, 1988): one power function each for RT and SD with a shared rate parameter, fitted to the overall data"
+      interpretation: "The author reports systematic deviations from the fit, with the predictions overestimating the observed values early in practice by a full second or more."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Overall, r 2 for the combined RT and SD fits was .94."
+    source_location: "Experiment 1, Practice: Instance theory fits; Figure 8"
+
+  - id: cmpl-fit-r2
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: across-practice
+    outcome:
+      construct: "Fit of separate power functions within each strategy"
+      source_language: "Best fitting CMPL functions"
+      measure: "Log RT and log SD of correct trials, split into algorithm and retrieval trials by strategy probes and per-item logistic fits; algorithm fit before, retrieval fit after, the halfway point of the transition (nine free parameters)"
+      scale: "r squared"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 90 blocks"
+    result:
+      measure_type: other
+      estimate: 0.94
+      statistic: "r squared"
+      model: "Component power laws (CMPL): a power function for the algorithm (with previous learning) and another for retrieval, for RT and for SD"
+      interpretation: "Equal to the instance-theory fit in r squared; the author reports that the systematic visual deviations seen in the overall fit are absent when the data are fitted separately by strategy."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The fitted CMPL parameter values are shown only as curves in Figures 9
+      and 10; no table of estimates is printed.
+    source_quote: "The overall r 2 for the combined fit to the RT and SD data was .94, equivalent to that of the instance theory."
+    source_location: "Experiment 1, Practice: CMPL fits; Figures 9 and 10"
+
+  - id: rt-rate-estimate-mean
+    sample:
+      value: 18
+      unit: participants
+    arm_ref: practice
+    outcome:
+      construct: "Rate of speed-up in response time with practice"
+      source_language: "rate estimates for the RT"
+      measure: "Rate parameter of a three-parameter power function (with asymptote) fitted separately to each participant's overall RT data"
+      scale: "power-function rate estimate, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 90 blocks"
+    result:
+      measure_type: mean
+      estimate: -0.505
+      unit: "power-function rate estimate (exponent), overall RT data"
+      interpretation: "Steeper than the mean SD rate estimate (-0.435) for 16 of the 18 participants, binomial sign test p < .01, against the instance theory's prediction of equal rates."
+      p_value: "< .01 (binomial sign test, RT versus SD rate)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A mean of per-participant fitted exponents, fitted to the overall data
+      (both strategies together), not within one strategy. No SD of the
+      estimates is printed.
+    source_quote: "Sixteen of the 18 participants showed steeper rate estimates for the RT (M = -.505) than for the SD (M = -0.435), a difference that is strongly reliable by a binomial sign test"
+    source_location: "Experiment 1, Practice: Instance theory fits"
+
+  - id: sd-rate-estimate-mean
+    sample:
+      value: 18
+      unit: participants
+    arm_ref: practice
+    outcome:
+      construct: "Rate of reduction in response-time SD with practice"
+      source_language: "rate estimates ... for the SD"
+      measure: "Rate parameter of a three-parameter power function (with asymptote) fitted separately to each participant's overall SD data"
+      scale: "power-function rate estimate, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "practice phase, 90 blocks"
+    result:
+      measure_type: mean
+      estimate: -0.435
+      unit: "power-function rate estimate (exponent), overall SD data"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Sixteen of the 18 participants showed steeper rate estimates for the RT (M = -.505) than for the SD (M = -0.435), a difference that is strongly reliable by a binomial sign test"
+    source_location: "Experiment 1, Practice: Instance theory fits"
+
+  - id: test-errors-practised-vs-unpractised
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: practised-vs-unpractised-at-test
+    outcome:
+      construct: "Specificity of learning to the practised problems"
+      source_language: "overall error proportions"
+      measure: "Proportion of errors at the immediate transfer test, collapsed across the three test blocks and strategies"
+      scale: "proportion of trials in error"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediate transfer test, after the practice segment of the fifth session"
+    result:
+      measure_type: other
+      statistic: "F(1, 17) = 53.8, planned contrast, no-change against type-change and new problems"
+      p_value: "< .001"
+      descriptives: "Error proportions: no-change .024, type-change .250, new problems .284. Type-change against new problems F(1, 17) < 1."
+      interpretation: "Practice transferred little if at all beyond the exact practised problems, even to the same numbers presented as the other problem type."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The overall error proportions (collapsed across blocks and strategies) for the no-change, type-change, and new prob- lems conditions were .024, .250, and .284, respectively."
+    source_location: "Experiment 1, Results and Discussion, Test"
+
+not_yet_extracted:
+  - "Error rates by practice session (.109, .065, .055, .029, .019; F(4, 17) = 11.1)."
+  - "Proportion of retrieval reports at test: planned contrasts F(1, 17) = 323 (no-change against the others) and F(1, 17) = 3.08, p = .088 (type-change against new)."
+  - "Test RTs (Figure 13): condition F(2, 17) = 42.6, block F(2, 17) = 6.68, interaction F(4, 17) = 5.82; no-change against the others F(1, 17) = 84.05; type-change against new F(1, 17) = 1.21, p = .28."
+  - "Approximate RTs: algorithm about 13,000 ms at the start of practice and about 3,600 ms on the last block with at least 10% algorithm reports; new problems about 8,000 ms on the first test block; retrieval about 2,000 ms at test against about 1,200 ms at the end of practice."
+  - "Item-level log-RT slope and intercept correlate 'around .9 on average' within each strategy (Experiment 1), stated as an approximation."
+  - "The single no-transition participant's RTs followed a power function with no deviation (Figure 11 only)."
+  - "Delayed-test results are 'described in Rickard and Bourne (1995)', not in this article."

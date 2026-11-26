@@ -1,0 +1,428 @@
+# Goetz, Frenzel, Pekrun, Hall & Lüdtke (2007): between- and within-domain
+# relations of students' academic emotions (enjoyment, pride, anxiety, anger,
+# boredom) in mathematics, physics, German and English, Grades 8 and 11.
+#
+# What is recorded: the between-domains results, per grade sample.
+#   * The text prints the general between-domains coefficients ONLY as limits
+#     ("below .35" in Grade 8, "below .20" in Grade 11), so they are recorded
+#     as `result.bound`, never as estimates. Both limits exclude the
+#     mathematics-physics relations and pride between English and German.
+#   * The mathematics-physics relations are recorded as the ranges the text
+#     prints (estimate_range over the five emotions); Table 2's individual
+#     coefficients agree with those ranges where they can be read.
+#   * The homogeneity index h(d), the authors' test of the grade difference,
+#     as the range over the five emotions per grade.
+#   * Reliability: standardized alphas of the 20 emotion scales, as the range
+#     the text prints per grade.
+# The two grades are separate samples analysed in separate models, so they
+# are arms, and each result names its grade with `arm_ref`. Nothing here
+# contrasts them as an effect: the article tests the h(d) difference but
+# prints no estimate of it.
+#
+# The text layer is from the typeset article with PDF glyph codes left in
+# (/H11005 for "=", /H11002 for minus, /H11021 for "<"). No page image was
+# available beside the text file, so every quote below was chosen to contain
+# no glyph code, and Table 2 coefficients with a coded minus sign were not
+# read. The medians printed beside the ranges ("Mdn" followed by a coded
+# equals sign) are given in notes only.
+
+schema_version: 2
+
+study:
+  key: goetz-2007
+  citation: "Goetz, T., Frenzel, A. C., Pekrun, R., Hall, N. C., & Lüdtke, O. (2007). Between- and within-domain relations of students' academic emotions. Journal of Educational Psychology, 99(4), 715–733."
+  doi: "10.1037/0022-0663.99.4.715"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional questionnaire survey of two grade samples. Between-domains
+      relations: one structural equation model per emotion and grade (LISREL
+      8.72; four latent domain-specific emotion factors with correlated
+      uniquenesses between parallel items, plus midterm grades as manifest
+      variables), giving disattenuated correlations; and three-level
+      unconditional models (Mplus 4.0) giving a homogeneity index h(d) per
+      emotion and grade. Within-domain relations analysed in the same two
+      ways per domain.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: academic-emotions-weak-between-domain-relations
+    bearing: supports
+    anchor: goetz-et-al-2007
+  - claim: academic-emotions-domain-specific-organization
+    bearing: supports
+    anchor: goetz-et-al-2007-2
+  - claim: between-domain-emotions-weaker-with-grade-level
+    bearing: supports
+    anchor: goetz-et-al-2007
+
+evidence_base:
+  unit: participants
+  size:
+    value: 542
+    unit: participants
+  population:
+    description: >-
+      German high school students (56% female): 307 in Grade 8 (53% female)
+      and 235 in Grade 11 (60% female). Voluntary participation; 0.2% of item
+      responses missing.
+    age_or_stage: "Grades 8 and 11"
+    age:
+      unit: years
+      mean: 15.77
+      sd: 1.66
+      note: "whole sample; per-grade figures are on the arms"
+  context:
+    setting: >-
+      Standardized student questionnaires given in class by trained testing
+      personnel, April and May 2005; items for different domains placed in
+      different parts of the booklet.
+  arms:
+    - id: grade-8
+      description: "The Grade 8 sample: mean age 14.42 years (SD 0.61), range 13.25-16.50."
+      size:
+        value: 307
+        unit: participants
+    - id: grade-11
+      description: "The Grade 11 sample: mean age 17.53 years (SD 0.60), range 16.33-19.67."
+      size:
+        value: 235
+        unit: participants
+
+comparisons: []
+
+observations:
+
+  - id: between-domain-emotion-r-bound-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Between-domains relation of an academic emotion"
+      source_language: "interrelations among the domain- and emotion-specific factors"
+      measure: "Disattenuated correlations between latent factors for the same emotion (enjoyment, pride, anxiety, anger, boredom) in different domains, from adapted Achievement Emotions Questionnaire class-related scales, 4 items each, 5-point Likert"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      bound:
+        operator: "<"
+        value: 0.35
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: >-
+        Excludes the mathematics-physics relations (recorded separately) and
+        pride between English and German, which the text calls relatively
+        strong. The bound covers coefficients of either sign.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      effect_size is partial: the text gives only an upper limit; the
+      individual coefficients are in Table 2, whose negative values are
+      glyph-coded in the text read here and were not transcribed.
+    source_quote: "With the exception of substantial relations between emotions in mathematics and physics and the relatively strong relations between pride in English and German, all coefficients were below .35 in the Grade 8 sample and below .20 in the Grade 11 sample."
+    source_location: "Results, Between-Domains Analyses, Strength of between-domains relations (Hypothesis 1a); Table 2"
+
+  - id: between-domain-emotion-r-bound-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Between-domains relation of an academic emotion"
+      source_language: "interrelations among the domain- and emotion-specific factors"
+      measure: "Disattenuated correlations between latent factors for the same emotion in different domains"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      bound:
+        operator: "<"
+        value: 0.20
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: "Same exclusions as the Grade 8 bound: mathematics-physics, and pride between English and German."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "With the exception of substantial relations between emotions in mathematics and physics and the relatively strong relations between pride in English and German, all coefficients were below .35 in the Grade 8 sample and below .20 in the Grade 11 sample."
+    source_location: "Results, Between-Domains Analyses, Strength of between-domains relations (Hypothesis 1a); Table 2"
+
+  - id: math-physics-emotion-r-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Between-domains relation of an academic emotion, mathematics and physics"
+      source_language: "The relations between emotions in mathematics and physics"
+      measure: "Disattenuated correlation between the mathematics and physics latent factors for each of the five emotions"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.38
+        upper: 0.61
+        over:
+          value: 5
+          unit: pairs
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: "Table 2, Grade 8, physics-with-mathematics cells: enjoyment .38, pride .47, anxiety .61, anger .55, boredom .43"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The relations between emotions in mathematics and physics ranged from .38 to .61 in the Grade 8 sample and from .48 to .64 in the Grade 11 sample."
+    source_location: "Results, Between-Domains Analyses; Table 2"
+
+  - id: math-physics-emotion-r-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Between-domains relation of an academic emotion, mathematics and physics"
+      source_language: "The relations between emotions in mathematics and physics"
+      measure: "Disattenuated correlation between the mathematics and physics latent factors for each of the five emotions"
+      scale: "latent correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.48
+        upper: 0.64
+        over:
+          value: 5
+          unit: pairs
+      model: "One SEM per emotion; correlations corrected for unreliability"
+      note: "Table 2, Grade 11, physics-with-mathematics cells: enjoyment .54, pride .64, anxiety .60, anger .48, boredom .49"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The relations between emotions in mathematics and physics ranged from .38 to .61 in the Grade 8 sample and from .48 to .64 in the Grade 11 sample."
+    source_location: "Results, Between-Domains Analyses; Table 2"
+
+  - id: between-domain-homogeneity-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Homogeneity of an emotion across domains"
+      source_language: "homogeneity index h(d)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model (items within domain-specific scales within persons), one model per emotion"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 0.22
+        upper: 0.38
+        over:
+          value: 5
+          unit: scales
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 3, Grade 8: enjoyment .22, pride .38, anxiety .24, anger .37,
+        boredom .30 (median .30 per the text). Each emotion's h(d) differed
+        significantly from Grade 11's (p < .01 for four emotions, p < .05 for
+        boredom, as stated in the text). Achievement grades, from a two-level
+        model not comparable with the emotion indices: .37.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      `over` counts the five emotions, each summarised over its four domain
+      scales.
+    source_quote: "h(d) ranged from .22 to .38 in the Grade 8 sample"
+    source_location: "Results, Between-domains relations as a function of emotion type and grade level (Hypotheses 1b, 1c); Table 3"
+
+  - id: between-domain-homogeneity-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Homogeneity of an emotion across domains"
+      source_language: "homogeneity index h(d)"
+      measure: "Level-3 variance over the summed Level-3 and Level-2 variance in a three-level model, one model per emotion"
+      scale: "proportion of variance, 0 to 1"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year, cross-sectional"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 0.06
+        upper: 0.20
+        over:
+          value: 5
+          unit: scales
+      model: "Fully unconditional three-level model, Mplus 4.0"
+      note: >-
+        Table 3, Grade 11: enjoyment .08, pride .20, anxiety .06, anger .11,
+        boredom .17 (median .11 per the text). Achievement grades: .26.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "and from .06 to .20 in the Grade 11 sample"
+    source_location: "Results, Between-domains relations as a function of emotion type and grade level (Hypotheses 1b, 1c); Table 3"
+
+  - id: emotion-scale-alpha-grade8
+    sample:
+      value: 307
+      unit: participants
+    arm_ref: grade-8
+    outcome:
+      construct: "Internal consistency of the domain-specific emotion scales"
+      source_language: "Standardized alphas for the emotion scales"
+      measure: "20 scales (5 emotions x 4 domains), 4 items each"
+      scale: "standardized Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.72
+        upper: 0.92
+        over:
+          value: 20
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "standardized alpha"
+      note: >-
+        Median .88 per the text. Lowest: German anxiety .72 (Appendix A).
+        Appendix A prints .93 for Grade 8 pride in mathematics, above the
+        text's upper limit of .92; Appendix A is headed Cronbach's alpha and
+        the text says standardized alphas, so the text's range is recorded
+        as printed and the discrepancy left unresolved.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Standardized alphas for the emo- tion scales ranged from .72 to .92"
+    source_location: "Method, Measurement of Discrete Emotions in Different Domains; Appendix A"
+
+  - id: emotion-scale-alpha-grade11
+    sample:
+      value: 235
+      unit: participants
+    arm_ref: grade-11
+    outcome:
+      construct: "Internal consistency of the domain-specific emotion scales"
+      source_language: "Standardized alphas for the emotion scales"
+      measure: "20 scales (5 emotions x 4 domains), 4 items each"
+      scale: "standardized Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second half of the school year"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.66
+        upper: 0.93
+        over:
+          value: 20
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "standardized alpha"
+      note: "Median .88 per the text. The two below .70 are German anger (.66) and German anxiety (.67), Appendix A."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range's quote is short because the sentence carries glyph-coded
+      equals signs on either side of it; the text's sentence continues "in
+      the Grade 11 sample".
+    source_quote: "sample and from .66 to .93"
+    source_location: "Method, Measurement of Discrete Emotions in Different Domains; Appendix A"
+
+not_yet_extracted:
+  - "Table 2's individual between-domains coefficients and emotion-achievement correlations (negative values are glyph-coded in the text read here)"
+  - "Within-domain results: Table 5 latent correlations among the five emotions per domain (boredom-anger .81 to .90, enjoyment-boredom -.76 to -.91 as printed with coded minus signs) and Table 6 h(e) per domain and grade"
+  - "Appendix A scale means and SDs per grade, and the midterm-grade means and SDs"
+  - "SEM fit indexes (Tables 1 and 4)"

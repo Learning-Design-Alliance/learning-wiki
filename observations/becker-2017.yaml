@@ -1,0 +1,438 @@
+# Becker, Brackbill & Centola (2017): network dynamics of social influence
+# in the wisdom of crowds. Web experiment, participants randomised to a
+# decentralized network, a centralized network or an independent control.
+#
+# WHAT IS RECORDED: the change in error from round 1 (independent estimate)
+# to round 3 (after two rounds of revision) for the group mean, the group
+# median and individuals in decentralized networks; the change in group-mean
+# and group-median error in centralized networks, split by whether the
+# central node's estimate pulled toward or away from the truth; and the
+# control condition's individual and group results.
+#
+# Every percent change is the source's own figure: the magnitude of the change
+# divided by the magnitude of the round-1 error, with estimates normalised by
+# the SD of independent responses per question. None is computed here. The
+# unit of analysis is the experimental TRIAL (one 40-person network per
+# condition per trial), not the participant, so `sample` counts trials.
+#
+# The centralized "toward truth" and "away from truth" subsets are NOT
+# assigned conditions: the authors sort estimation tasks after the fact by
+# where the central node's initial estimate fell. They are recorded as
+# within-arm round-1-to-round-3 contrasts with that said in the description.
+#
+# `population.age: unreported`: participants were recruited "from the World
+# Wide Web"; the article text prints no age or demographic figure. No
+# reliability applies (the outcome is distance from a known true value), and
+# no single-group mean is used beyond the round-by-round errors kept in
+# `descriptives`.
+#
+# Read from a text layer of the PNAS article (pdftotext, reading order). The
+# two-column layout interleaves some paragraphs; every quote below is taken
+# from a run that reads cleanly, and is copied verbatim INCLUDING the text
+# layer's line-end hyphenation ("reduc- tion"; the article prints
+# "reduction"). The text layer escaped the comparison signs ("P \<0.01");
+# the quotes give them as the article prints them ("P <0.01").
+
+schema_version: 2
+
+study:
+  key: becker-2017
+  citation: "Becker, J., Brackbill, D., & Centola, D. (2017). Network dynamics of social influence in the wisdom of crowds. Proceedings of the National Academy of Sciences of the United States of America, 114(26), E5070–E5076."
+  doi: "10.1073/pnas.1615978114"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Web-based experiment. Participants randomly assigned to a decentralized
+      network (everyone equally connected), a centralized network (one highly
+      connected central member) or an independent control. 40 per network or
+      control group; three estimation rounds per question (independent, then
+      two revisions after seeing neighbours' average, or with no social
+      information in control). 13 experimental trials, 8 control groups.
+      Group-level analyses clustered at the trial; Wilcoxon signed rank tests
+      of round 1 against round 3.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: decentralized-networks-group-mean-improves
+    bearing: supports
+    anchor: becker-et-al-2017
+  - claim: control-condition-no-group-improvement
+    bearing: supports
+    anchor: becker-et-al-2017
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1360
+    unit: participants
+  additional_sizes:
+    - value: 13
+      unit: other
+      note: "experimental trials, each one decentralized and one centralized network of 40 given the same question set; the unit of the group-level analyses"
+    - value: 8
+      unit: other
+      note: "control groups of 40, one per unique question set"
+    - value: 59
+      unit: other
+      note: "group estimation tasks completed by decentralized networks (and 59 by centralized networks, 34 by control groups)"
+  population:
+    description: "Adults recruited online to a web-based estimation experiment, paid according to the accuracy of their final estimate."
+    age_or_stage: "Not stated in the article text; recruited from the World Wide Web."
+    age: unreported
+  context:
+    setting: >-
+      Real-time online sessions of about 15 minutes. Image prompts asking for a
+      numerical quantity: count-based questions (6 trials, 4 questions each)
+      and percentage-based questions (7 trials, 5 questions each).
+  arms:
+    - id: decentralized
+      description: "Decentralized random network of 40, every member with the same number of ties; after each round a participant sees the average estimate of the peers directly connected to them."
+      size:
+        value: 520
+        unit: participants
+      elements:
+        - term: "social influence (observing neighbours' average estimate)"
+      dose:
+        amount: 2
+        unit: rounds of revision
+      delivery:
+        grouping: individual
+        role: other
+        basis: inferred
+    - id: centralized
+      description: "Centralized network of 40 in which one central member has a disproportionate number of connections; otherwise as the decentralized condition."
+      size:
+        value: 520
+        unit: participants
+      elements:
+        - term: "social influence (observing neighbours' average estimate)"
+      dose:
+        amount: 2
+        unit: rounds of revision
+      delivery:
+        grouping: individual
+        role: other
+        basis: inferred
+    - id: control
+      description: "Independent control: same questions in the same order and two chances to revise, with no social information."
+      size:
+        value: 320
+        unit: participants
+      dose:
+        amount: 2
+        unit: rounds of revision
+      delivery:
+        grouping: individual
+        role: other
+        basis: inferred
+
+comparisons:
+  - id: decentralized-round3-vs-round1
+    kind: within-subject-baseline
+    index_arm: decentralized
+    description: "Decentralized networks, round 3 (after two revisions) against round 1 (independent estimates), per trial."
+  - id: centralized-toward-truth-round3-vs-round1
+    kind: within-subject-baseline
+    index_arm: centralized
+    description: "Centralized networks, round 3 against round 1, on the estimation tasks where the central node's initial estimate lay toward the truth relative to the group estimate. A post hoc sort of tasks, not an assigned condition; 12 of 13 trials had such a task."
+  - id: centralized-away-from-truth-round3-vs-round1
+    kind: within-subject-baseline
+    index_arm: centralized
+    description: "Centralized networks, round 3 against round 1, on the estimation tasks where the central node's initial estimate pulled the group away from the truth. A post hoc sort of tasks, not an assigned condition; all 13 trials."
+  - id: control-round3-vs-round1
+    kind: within-subject-baseline
+    index_arm: control
+    description: "Control groups, round 3 against round 1, revising with no social information."
+
+observations:
+
+  - id: decentralized-group-mean-error
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: decentralized-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group mean estimate"
+      source_language: "average error of the group mean"
+      measure: "Distance of the group's mean estimate from the true answer, in SDs of the independent responses to that question"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: -10
+      unit: "percent change in error"
+      p_value: "< 0.01"
+      statistic: "Wilcoxon signed rank test"
+      descriptives: "average error 0.69 SD at round 1, 0.62 SD at round 3"
+    moderators:
+      reported:
+        - variable: "Group revision coefficient (partial correlation between individual accuracy and revision magnitude)"
+          relationship: "Groups with higher revision coefficients showed larger improvements in the group mean in decentralized networks (rho = -0.71, n = 59 tasks); no significant correlation in centralized networks (rho = -0.16, n = 57)"
+          source_quote: "Consistent with our theoretical expectations, the correla- tion shown in Fig. 3A indicates that, in decentralized net- works, groups with higher revision coefficients also exhibited larger improvements in group accuracy (n= 59 estimation tasks, ρ= −0.71, 95% CI \\[−0.82, −0.56\\]."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      `sample` counts experimental trials (unit `other`). No interval is printed
+      for the percent change; Fig. 1C shows bootstrapped 95% error bars that are
+      not readable from the text. The rho = -0.71 interval is printed as
+      [-0.82, -0.56] in the text and [-0.84, -0.51] in the Fig. 3 legend.
+    source_quote: "After two rounds of exposure to social influ- ence, the average error of the group mean at round 3 (0.62 SD) was significantly lower than at round 1 (0.69 SD) (n = 13 trials, P <0.01, Wilcoxon signed rank test), resulting in a 10% reduc- tion in the average error of the group mean."
+    source_location: "Results, Decentralized Networks; Fig. 1 A and C"
+
+  - id: decentralized-group-median-error
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: decentralized-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group median estimate"
+      source_language: "average error of each group's median estimate"
+      measure: "Distance of the group's median estimate from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: -12
+      unit: "percent change in error"
+      p_value: "< 0.001"
+      statistic: "Wilcoxon signed rank test"
+      descriptives: "average error 0.76 SD at round 1, 0.67 SD at round 3"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "we also found that the average error of each group’s median estimate was significantly lower in round 3 (0.67 SD) than in round 1 (0.76 SD) (n=13 trials, P <0.001, Wilcoxon signed rank test), resulting in a 12% decrease in average error, as shown in Fig. 1 A and C."
+    source_location: "Results, Decentralized Networks"
+
+  - id: decentralized-individual-error
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: decentralized-round3-vs-round1
+    outcome:
+      construct: "Individual estimation accuracy"
+      source_language: "average individ- ual error"
+      measure: "Average distance of individuals' estimates from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: -23
+      unit: "percent change in error"
+      p_value: "< 0.001"
+      statistic: "Wilcoxon signed rank test"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Across all 13 trials with decentralized networks, average individ- ual error was significantly lower in round 3 than it was in round 1, decreasing by 23% on average (n = 13 trials, P <0.001, Wilcoxon signed rank test)."
+    source_location: "Results, Decentralized Networks"
+
+  - id: centralized-toward-truth-group-mean-error
+    sample:
+      value: 12
+      unit: other
+    comparison_ref: centralized-toward-truth-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group mean estimate"
+      source_language: "average error of the group mean"
+      measure: "Distance of the group's mean estimate from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: -43
+      unit: "percent change in error"
+      p_value: "< 0.01"
+      statistic: "Wilcoxon signed rank test"
+      descriptives: "average error 0.56 SD before social influence, 0.32 SD after; the group median fell 48%, 0.70 SD to 0.36 SD"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The subset is defined after the fact by the central node's initial estimate, so this is not a randomised contrast."
+    source_quote: "As shown in Fig. 1 B and C, when the central individual’s estimate was toward truth, the average error of the group mean after social influence (0.32 SD) was 43% lower than the aver- age error of the group mean before social influence (0.56 SD), producing a significant increase in group accuracy (n= 12 trials, P <0.01, Wilcoxon signed rank test)."
+    source_location: "Results, Centralized Networks"
+
+  - id: centralized-away-from-truth-group-mean-error
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: centralized-away-from-truth-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group mean estimate"
+      source_language: "the error of the group mean"
+      measure: "Distance of the group's mean estimate from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: 19
+      unit: "percent change in error"
+      p_value: "< 0.01"
+      statistic: "Wilcoxon signed rank test"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Post hoc subset, as above. The round-by-round errors for this subset are in Fig. 1B and are not printed in the text."
+    source_quote: "Similarly, when the central individual provided an estimate that was away from truth, social influence increased the error of the group mean by 19% and the error of the median by 32% (Fig. 1 B and C), significantly reducing the accuracy of both the mean and the median of estimates (n= 13 trials, P <0.01 for both comparisons, Wilcoxon signed rank test)."
+    source_location: "Results, Centralized Networks"
+
+  - id: centralized-away-from-truth-group-median-error
+    sample:
+      value: 13
+      unit: other
+    comparison_ref: centralized-away-from-truth-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group median estimate"
+      source_language: "the error of the median"
+      measure: "Distance of the group's median estimate from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two rounds of revision"
+    result:
+      measure_type: other
+      estimate: 32
+      unit: "percent change in error"
+      p_value: "< 0.01"
+      statistic: "Wilcoxon signed rank test"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Similarly, when the central individual provided an estimate that was away from truth, social influence increased the error of the group mean by 19% and the error of the median by 32% (Fig. 1 B and C), significantly reducing the accuracy of both the mean and the median of estimates (n= 13 trials, P <0.01 for both comparisons, Wilcoxon signed rank test)."
+    source_location: "Results, Centralized Networks"
+
+  - id: control-individual-error
+    sample:
+      value: 8
+      unit: other
+    comparison_ref: control-round3-vs-round1
+    outcome:
+      construct: "Individual estimation accuracy"
+      source_language: "average individual error"
+      measure: "Average distance of individuals' estimates from the true answer, in SDs of the independent responses"
+      scale: "percent change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two revisions without social information"
+    result:
+      measure_type: other
+      estimate: -3
+      unit: "percent change in error"
+      p_value: "< 0.001"
+      statistic: "Wilcoxon signed rank test"
+      note: "Significantly smaller than the 23% improvement in decentralized networks (n = 21 trials, Wilcoxon rank sum test, P < 0.001). No significant change in the accuracy of the group mean (P > 0.94) or median (P > 0.64); no estimate is printed for either."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The opportunity for revision pro- duced a small (3%) decrease in average individual error even in the absence of social information (n = 8 control trials, P <0.001, Wilcoxon signed rank test)."
+    source_location: "Results, Control Condition"
+
+  - id: control-group-mean-error
+    sample:
+      value: 8
+      unit: other
+    comparison_ref: control-round3-vs-round1
+    outcome:
+      construct: "Accuracy of the group mean estimate"
+      source_language: "the accuracy of either the group mean"
+      measure: "Distance of the group's mean estimate from the true answer, in SDs of the independent responses"
+      scale: "change in error, round 1 to round 3"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "round 3, after two revisions without social information"
+    result:
+      measure_type: other
+      p_value: "> 0.94"
+      interpretation: "No significant change in the accuracy of the group mean; the group median likewise did not change (P > 0.64)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The article prints only the p value; the size of the change is left to the SI Appendix, which was not read. The sample is taken as the 8 control trials named in the same paragraph."
+    source_quote: "Moreover, in the control condition, these individual improvements produced no significant changes in the accuracy of either the group mean (P >0.94) or the group median (P >0.64) (complementary analyses provided in SI Appendix)."
+    source_location: "Results, Control Condition"
+
+not_yet_extracted:
+  - "SD of estimates fell 43% (decentralized) and 42% (centralized) from round 1 to round 3, against 3% in control (n = 21 trials, P < 0.001)."
+  - "Individual revision magnitude correlated with initial error: rho = 0.41, 95% CI [0.39, 0.43]; partial correlation controlling for distance to the neighbourhood estimate (the revision coefficient) rho = 0.25, 95% CI [0.22, 0.28]; n = 4,340 estimates by 1,040 subjects."
+  - "Centralized networks: change in group mean correlated with the difference between group mean and central node at round 1, rho = 0.92, 95% CI [0.88, 0.95], n = 57 tasks."
+  - "Group revision coefficient against change in group mean, as single observations: decentralized rho = -0.71 (n = 59), centralized rho = -0.16, 95% CI [-0.33, 0.10] (n = 57); recorded here only as a moderator."
