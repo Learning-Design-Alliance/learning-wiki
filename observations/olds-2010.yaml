@@ -1,0 +1,1105 @@
+# Olds, Maher, Blunden & Matricciani (2010): normative sleep durations,
+# bedtimes and wake times of 4,032 Australians aged 9-18 (three surveys,
+# 2001-2007, one instrument).
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * School-day bedtime (Table 4) and wake-up time (Table 5) means with their
+#     within-age SDs, for boys and girls separately, at ages 9 to 14 and for
+#     all ages together, as `measure_type: mean` named by `arm_ref`. Each
+#     sex-by-age cell is its own arm and its own observation, as the source
+#     prints it; nothing is pooled across sexes or ages. Non-school-day
+#     columns and ages 15, 16 and 17+ are listed in not_yet_extracted.
+#     The "all" rows' SDs include the spread between ages, so they are not
+#     within-age SDs.
+#   * The school-day rate at which bedtime gets later with age, the article's
+#     own regression estimate, which the two bedtime and wake-time claims cite.
+#   * `population.age` from Table 1 (All: mean 14.0, SD 2.2) and the stated
+#     range, 9 to 18.
+#   * No reliability is recorded. The article's one coefficient, the MARCA's
+#     same-day test-retest ICC of 0.87 for sleep duration, is cited to the
+#     instrument's development paper (ref. 22), not measured in this sample.
+#
+# CLOCK TIMES are recorded as minutes after midnight so that a mean and its
+# SD share one unit (20:34 = 1234; SD 0:44 = 44). This is a change of notation
+# for the clock reading, not a conversion of metric; each observation keeps
+# the printed value in `interpretation` and in `unit`.
+#
+# Read from the PubMed Central copy (text only; no PDF). Each table row
+# extracts one cell per line, so a quote is the whole row, whitespace
+# normalised: age, then n and mean (SD) for boys' school days, boys'
+# non-school days, girls' school days and girls' non-school days. The bedtime
+# "all" row prints the girls' non-school-day mean as "10:16 (1:20)", which
+# cannot be an evening bedtime as printed; that cell is not recorded.
+
+schema_version: 2
+
+study:
+  key: olds-2010
+  citation: "Olds, T., Maher, C., Blunden, S., & Matricciani, L. (2010). Normative data on the sleep habits of Australian children and adolescents. Sleep, 33(10), 1381–1388."
+  doi: "10.1093/sleep/33.10.1381"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional normative study pooling three surveys (2007 Australian
+      National Children's Nutrition and Physical Activity Survey, n = 2,367;
+      2005 Health of Young Victorians Survey, n = 896; South Australian
+      school studies 2001-2004, n = 769), all using the Multimedia Activity
+      Recall for Children and Adults (MARCA), a computerised 24-h use-of-time
+      recall over at least two sequential days. One night per participant
+      randomly selected. Means and SDs by sex, one-year age group and day type
+      (school or non-school day); three-factor ANOVAs; regressions on age.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: bedtimes-later-with-age-no-sex-difference
+    bearing: supports
+    anchor: olds-t-maher-c-blunden-s-matricciani-l-2010
+  - claim: wake-times-stable-school-days-later-non-school
+    bearing: supports
+    anchor: olds-t-maher-c-blunden-s-matricciani-l-2010
+
+evidence_base:
+  unit: participants
+  size:
+    value: 4032
+    unit: participants
+  additional_sizes:
+    - value: 1973
+      unit: participants
+      note: "boys (Table 1)"
+    - value: 2059
+      unit: participants
+      note: "girls (Table 1)"
+  population:
+    description: >-
+      Australians aged 9-18 from three surveys conducted 2001-2007; South
+      Australia and Victoria over-represented, New South Wales
+      under-represented; 5.8% obese, 17.6% overweight (Table 1).
+    age_or_stage: "9 to 18 years; one-year age groups by age at last birthday, 17 and 18 grouped as 17+"
+    age:
+      unit: years
+      min: 9
+      max: 18
+      mean: 14.0
+      sd: 2.2
+      note: "Table 1, All column (boys 14.1, SD 2.2; girls 14.0, SD 2.2)"
+  context:
+    setting: "Self- or interviewer-administered computerised 24-h use-of-time recall; school days are days the participant spent the bulk of the day at school"
+    geography: "Australia"
+  arms:
+    - id: boys-age-9
+      description: "Boys aged 9 (age at last birthday)."
+    - id: boys-age-10
+      description: "Boys aged 10 (age at last birthday)."
+    - id: boys-age-11
+      description: "Boys aged 11 (age at last birthday)."
+    - id: boys-age-12
+      description: "Boys aged 12 (age at last birthday)."
+    - id: boys-age-13
+      description: "Boys aged 13 (age at last birthday)."
+    - id: boys-age-14
+      description: "Boys aged 14 (age at last birthday)."
+    - id: boys-all-ages
+      description: "All boys in the pooled sample, ages 9-18 (17 and 18 grouped as 17+)."
+    - id: girls-age-9
+      description: "Girls aged 9 (age at last birthday)."
+    - id: girls-age-10
+      description: "Girls aged 10 (age at last birthday)."
+    - id: girls-age-11
+      description: "Girls aged 11 (age at last birthday)."
+    - id: girls-age-12
+      description: "Girls aged 12 (age at last birthday)."
+    - id: girls-age-13
+      description: "Girls aged 13 (age at last birthday)."
+    - id: girls-age-14
+      description: "Girls aged 14 (age at last birthday)."
+    - id: girls-all-ages
+      description: "All girls in the pooled sample, ages 9-18 (17 and 18 grouped as 17+)."
+
+comparisons:
+  - id: whole-sample-school-days
+    kind: none
+    description: "Bedtime regressed on age across the whole sample, school days; no contrast between groups."
+
+observations:
+
+  - id: school-day-bedtime-slope-per-year
+    comparison_ref: whole-sample-school-days
+    outcome:
+      construct: "Bedtime"
+      source_language: "Bedtimes got later with age"
+      measure: "Reported bedtime on school days, regressed against age"
+      scale: "minutes later per year of age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day nights, cross-sectional across ages 9-18"
+    result:
+      measure_type: regression_coefficient
+      estimate: 17
+      ci_lower: 16
+      ci_upper: 18
+      interval_type: confidence
+      unit: "minutes per year of age"
+      p_value: "< 0.0001"
+      model: "Bedtime regressed against age separately for school and non-school days; 16 (14-18) min per year on non-school days"
+    moderators:
+      reported:
+        - variable: "Sex"
+          relationship: "No difference in bedtimes between boys and girls"
+          source_quote: "There were no differences in bedtimes between boys and girls."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The bracketed interval is not labelled at this point; the article labels
+      the same format a 95% confidence interval at its first use, for sleep
+      duration ("12 (95% confidence interval 10-13) min/ night"). The n behind
+      the regression is not printed.
+    source_quote: "Bedtimes got later with age (P < 0.0001), at the rate of 17 (16-18) min per year of age on school days, and 16 (14-18) min on non-school days."
+    source_location: "Results, Bedtimes"
+
+  - id: school-day-bedtime-boys-age-9
+    sample:
+      value: 64
+      unit: participants
+    arm_ref: boys-age-9
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1234
+      sd: 44
+      unit: "minutes after midnight (clock time; printed as 20:34, SD 0:44)"
+      interpretation: "20:34 (SD 0:44), boys, age 9, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "9 64 20:34 (0:44) 39 20:54 (1:35) 61 20:30 (0:47) 55 21:19 (1:19)"
+    source_location: "Table 4, age 9 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-9
+    sample:
+      value: 61
+      unit: participants
+    arm_ref: girls-age-9
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1230
+      sd: 47
+      unit: "minutes after midnight (clock time; printed as 20:30, SD 0:47)"
+      interpretation: "20:30 (SD 0:47), girls, age 9, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "9 64 20:34 (0:44) 39 20:54 (1:35) 61 20:30 (0:47) 55 21:19 (1:19)"
+    source_location: "Table 4, age 9 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-age-10
+    sample:
+      value: 76
+      unit: participants
+    arm_ref: boys-age-10
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1246
+      sd: 43
+      unit: "minutes after midnight (clock time; printed as 20:46, SD 0:43)"
+      interpretation: "20:46 (SD 0:43), boys, age 10, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "10 76 20:46 (0:43) 46 21:02 (1:10) 79 20:53 (0:55) 40 21:11 (1:04)"
+    source_location: "Table 4, age 10 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-10
+    sample:
+      value: 79
+      unit: participants
+    arm_ref: girls-age-10
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1253
+      sd: 55
+      unit: "minutes after midnight (clock time; printed as 20:53, SD 0:55)"
+      interpretation: "20:53 (SD 0:55), girls, age 10, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "10 76 20:46 (0:43) 46 21:02 (1:10) 79 20:53 (0:55) 40 21:11 (1:04)"
+    source_location: "Table 4, age 10 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-age-11
+    sample:
+      value: 80
+      unit: participants
+    arm_ref: boys-age-11
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1260
+      sd: 45
+      unit: "minutes after midnight (clock time; printed as 21:00, SD 0:45)"
+      interpretation: "21:00 (SD 0:45), boys, age 11, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "11 80 21:00 (0:45) 76 21:41 (1:07) 103 21:11 (1:04) 98 21:44 (1:13)"
+    source_location: "Table 4, age 11 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-11
+    sample:
+      value: 103
+      unit: participants
+    arm_ref: girls-age-11
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1271
+      sd: 64
+      unit: "minutes after midnight (clock time; printed as 21:11, SD 1:04)"
+      interpretation: "21:11 (SD 1:04), girls, age 11, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "11 80 21:00 (0:45) 76 21:41 (1:07) 103 21:11 (1:04) 98 21:44 (1:13)"
+    source_location: "Table 4, age 11 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-age-12
+    sample:
+      value: 72
+      unit: participants
+    arm_ref: boys-age-12
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1277
+      sd: 44
+      unit: "minutes after midnight (clock time; printed as 21:17, SD 0:44)"
+      interpretation: "21:17 (SD 0:44), boys, age 12, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "12 72 21:17 (0:44) 84 22:02 (1:06) 85 21:10 (0:47) 100 21:52 (1:10)"
+    source_location: "Table 4, age 12 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-12
+    sample:
+      value: 85
+      unit: participants
+    arm_ref: girls-age-12
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1270
+      sd: 47
+      unit: "minutes after midnight (clock time; printed as 21:10, SD 0:47)"
+      interpretation: "21:10 (SD 0:47), girls, age 12, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "12 72 21:17 (0:44) 84 22:02 (1:06) 85 21:10 (0:47) 100 21:52 (1:10)"
+    source_location: "Table 4, age 12 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-age-13
+    sample:
+      value: 117
+      unit: participants
+    arm_ref: boys-age-13
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1287
+      sd: 49
+      unit: "minutes after midnight (clock time; printed as 21:27, SD 0:49)"
+      interpretation: "21:27 (SD 0:49), boys, age 13, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "13 117 21:27 (0:49) 95 22:13 (1:15) 122 21:32 (0:47) 98 22:07 (1:33)"
+    source_location: "Table 4, age 13 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-13
+    sample:
+      value: 122
+      unit: participants
+    arm_ref: girls-age-13
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1292
+      sd: 47
+      unit: "minutes after midnight (clock time; printed as 21:32, SD 0:47)"
+      interpretation: "21:32 (SD 0:47), girls, age 13, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "13 117 21:27 (0:49) 95 22:13 (1:15) 122 21:32 (0:47) 98 22:07 (1:33)"
+    source_location: "Table 4, age 13 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-age-14
+    sample:
+      value: 311
+      unit: participants
+    arm_ref: boys-age-14
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1311
+      sd: 55
+      unit: "minutes after midnight (clock time; printed as 21:51, SD 0:55)"
+      interpretation: "21:51 (SD 0:55), boys, age 14, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "14 311 21:51 (0:55) 206 22:23 (1:10) 305 21:52 (1:00) 215 22:24 (1:10)"
+    source_location: "Table 4, age 14 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-age-14
+    sample:
+      value: 305
+      unit: participants
+    arm_ref: girls-age-14
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1312
+      sd: 60
+      unit: "minutes after midnight (clock time; printed as 21:52, SD 1:00)"
+      interpretation: "21:52 (SD 1:00), girls, age 14, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "14 311 21:51 (0:55) 206 22:23 (1:10) 305 21:52 (1:00) 215 22:24 (1:10)"
+    source_location: "Table 4, age 14 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-boys-all-ages
+    sample:
+      value: 1116
+      unit: participants
+    arm_ref: boys-all-ages
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1305
+      sd: 64
+      unit: "minutes after midnight (clock time; printed as 21:45, SD 1:04)"
+      interpretation: "21:45 (SD 1:04), boys, all ages (9-18), school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "all 1116 21:45 (1:04) 853 22:21 (1:25) 1124 21:45 (1:08) 939 10:16 (1:20)"
+    source_location: "Table 4, all row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-bedtime-girls-all-ages
+    sample:
+      value: 1124
+      unit: participants
+    arm_ref: girls-all-ages
+    outcome:
+      construct: "Bedtime"
+      source_language: "bedtime"
+      measure: "Time the participant turned out the light and went to sleep, reported on the Day 1 recall of the MARCA 24-h use-of-time recall"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day night (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 1305
+      sd: 68
+      unit: "minutes after midnight (clock time; printed as 21:45, SD 1:08)"
+      interpretation: "21:45 (SD 1:08), girls, all ages (9-18), school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "all 1116 21:45 (1:04) 853 22:21 (1:25) 1124 21:45 (1:08) 939 10:16 (1:20)"
+    source_location: "Table 4, all row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-9
+    sample:
+      value: 64
+      unit: participants
+    arm_ref: boys-age-9
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 417
+      sd: 40
+      unit: "minutes after midnight (clock time; printed as 6:57, SD 0:40)"
+      interpretation: "6:57 (SD 0:40), boys, age 9, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "9 64 6:57 (0:40) 39 7:24 (1:04) 61 7:01 (0:30) 55 7:50 (1:11)"
+    source_location: "Table 5, age 9 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-9
+    sample:
+      value: 61
+      unit: participants
+    arm_ref: girls-age-9
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 421
+      sd: 30
+      unit: "minutes after midnight (clock time; printed as 7:01, SD 0:30)"
+      interpretation: "7:01 (SD 0:30), girls, age 9, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "9 64 6:57 (0:40) 39 7:24 (1:04) 61 7:01 (0:30) 55 7:50 (1:11)"
+    source_location: "Table 5, age 9 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-10
+    sample:
+      value: 76
+      unit: participants
+    arm_ref: boys-age-10
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 424
+      sd: 37
+      unit: "minutes after midnight (clock time; printed as 7:04, SD 0:37)"
+      interpretation: "7:04 (SD 0:37), boys, age 10, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "10 76 7:04 (0:37) 46 7:27 (1:13) 79 7:02 (0:35) 40 7:44 (1:09)"
+    source_location: "Table 5, age 10 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-10
+    sample:
+      value: 79
+      unit: participants
+    arm_ref: girls-age-10
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 422
+      sd: 35
+      unit: "minutes after midnight (clock time; printed as 7:02, SD 0:35)"
+      interpretation: "7:02 (SD 0:35), girls, age 10, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "10 76 7:04 (0:37) 46 7:27 (1:13) 79 7:02 (0:35) 40 7:44 (1:09)"
+    source_location: "Table 5, age 10 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-11
+    sample:
+      value: 80
+      unit: participants
+    arm_ref: boys-age-11
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 421
+      sd: 37
+      unit: "minutes after midnight (clock time; printed as 7:01, SD 0:37)"
+      interpretation: "7:01 (SD 0:37), boys, age 11, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "11 80 7:01 (0:37) 76 7:43 (1:18) 103 6:59 (0:31) 98 8:01 (1:02)"
+    source_location: "Table 5, age 11 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-11
+    sample:
+      value: 103
+      unit: participants
+    arm_ref: girls-age-11
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 419
+      sd: 31
+      unit: "minutes after midnight (clock time; printed as 6:59, SD 0:31)"
+      interpretation: "6:59 (SD 0:31), girls, age 11, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "11 80 7:01 (0:37) 76 7:43 (1:18) 103 6:59 (0:31) 98 8:01 (1:02)"
+    source_location: "Table 5, age 11 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-12
+    sample:
+      value: 72
+      unit: participants
+    arm_ref: boys-age-12
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 424
+      sd: 25
+      unit: "minutes after midnight (clock time; printed as 7:04, SD 0:25)"
+      interpretation: "7:04 (SD 0:25), boys, age 12, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "12 72 7:04 (0:25) 84 7:57 (1:31) 85 6:57 (0:33) 100 8:34 (1:24)"
+    source_location: "Table 5, age 12 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-12
+    sample:
+      value: 85
+      unit: participants
+    arm_ref: girls-age-12
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 417
+      sd: 33
+      unit: "minutes after midnight (clock time; printed as 6:57, SD 0:33)"
+      interpretation: "6:57 (SD 0:33), girls, age 12, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "12 72 7:04 (0:25) 84 7:57 (1:31) 85 6:57 (0:33) 100 8:34 (1:24)"
+    source_location: "Table 5, age 12 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-13
+    sample:
+      value: 117
+      unit: participants
+    arm_ref: boys-age-13
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 423
+      sd: 32
+      unit: "minutes after midnight (clock time; printed as 7:03, SD 0:32)"
+      interpretation: "7:03 (SD 0:32), boys, age 13, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "13 117 7:03 (0:32) 95 8:14 (1:32) 122 6:51 (0:39) 98 8:06 (1:35)"
+    source_location: "Table 5, age 13 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-13
+    sample:
+      value: 122
+      unit: participants
+    arm_ref: girls-age-13
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 411
+      sd: 39
+      unit: "minutes after midnight (clock time; printed as 6:51, SD 0:39)"
+      interpretation: "6:51 (SD 0:39), girls, age 13, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "13 117 7:03 (0:32) 95 8:14 (1:32) 122 6:51 (0:39) 98 8:06 (1:35)"
+    source_location: "Table 5, age 13 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-age-14
+    sample:
+      value: 311
+      unit: participants
+    arm_ref: boys-age-14
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 419
+      sd: 34
+      unit: "minutes after midnight (clock time; printed as 6:59, SD 0:34)"
+      interpretation: "6:59 (SD 0:34), boys, age 14, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "14 311 6:59 (0:34) 206 8:19 (1:38) 305 6:57 (0:38) 215 8:21 (1:40)"
+    source_location: "Table 5, age 14 row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-age-14
+    sample:
+      value: 305
+      unit: participants
+    arm_ref: girls-age-14
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 417
+      sd: 38
+      unit: "minutes after midnight (clock time; printed as 6:57, SD 0:38)"
+      interpretation: "6:57 (SD 0:38), girls, age 14, school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "14 311 6:59 (0:34) 206 8:19 (1:38) 305 6:57 (0:38) 215 8:21 (1:40)"
+    source_location: "Table 5, age 14 row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-boys-all-ages
+    sample:
+      value: 1116
+      unit: participants
+    arm_ref: boys-all-ages
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 422
+      sd: 36
+      unit: "minutes after midnight (clock time; printed as 7:02, SD 0:36)"
+      interpretation: "7:02 (SD 0:36), boys, all ages (9-18), school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "all 1116 7:02 (0:36) 853 8:20 (1:52) 1124 6:59 (0:36) 939 8:35 (1:37)"
+    source_location: "Table 5, all row, Boys, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+  - id: school-day-waketime-girls-all-ages
+    sample:
+      value: 1124
+      unit: participants
+    arm_ref: girls-all-ages
+    outcome:
+      construct: "Wake time"
+      source_language: "wake up time"
+      measure: "Time the participant woke up (not necessarily got out of bed), reported on the Day 2 recall of the MARCA"
+      scale: "clock time (hours: minutes)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "school-day morning (one night per participant)"
+    result:
+      measure_type: mean
+      estimate: 419
+      sd: 36
+      unit: "minutes after midnight (clock time; printed as 6:59, SD 0:36)"
+      interpretation: "6:59 (SD 0:36), girls, all ages (9-18), school days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "all 1116 7:02 (0:36) 853 8:20 (1:52) 1124 6:59 (0:36) 939 8:35 (1:37)"
+    source_location: "Table 5, all row, Girls, School days column (columns: age, then n and mean (SD) for boys' school days, boys' non-school days, girls' school days, girls' non-school days)"
+
+not_yet_extracted:
+  - "Tables 4 and 5, ages 15, 16 and 17+ (school days), and every non-school-day column"
+  - "Table 2 sleep durations by age, sex and day type; the 12 (10-13) and 4 (2-6) min per year declines in sleep duration"
+  - "Wake times 82 (76-88) min later on non-school days; non-school wake time rising 10 (8-12) min per year of age; bedtimes 34 (31-37) min later on non-school days"
+  - "Percent failing the CDC sleep-duration guideline by age and day type; Table 3 sleep duration by state and SES"
+  - "MARCA test-retest ICC 0.87 for sleep duration: cited to the instrument's development paper (ref. 22), not this sample's figure"

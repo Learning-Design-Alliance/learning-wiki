@@ -1,0 +1,315 @@
+# Snell, Adam & Duncan (2007): sleep and BMI of US children, with nationally
+# representative descriptive data on bedtimes and wake times (PSID Child
+# Development Supplement time diaries, 1997 and 2002-2003).
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The descriptive half of the article, not its BMI regressions: weekday
+#     bedtimes the text prints for children aged 8 and under, 11 and 14, and
+#     the weekday wake-time band it prints for ages 6 to 15. These come from
+#     the pooled Time 1 + Time 2 diaries (ages 3-18). They are printed without
+#     an SD or a per-age n, so `sd` is absent and `sample` is left out.
+#   * Table 1's whole-sample Time 1 bedtime and wake-up time, each with its SD
+#     (n = 1,885). These are a 5:2 weekday/weekend weighted average for the
+#     Time 1 diaries (children aged 3-12), not weekday values.
+#   * `population.age` from Table 1 (age at Time 1, M = 8.12, SD = 2.91) and
+#     the abstract's "aged 3-12 years at baseline".
+#   * No reliability: the article cites time-diary accuracy from other work but
+#     prints no coefficient of its own for any measure.
+#
+# CLOCK TIMES are recorded as minutes after midnight so that a mean and its SD
+# share one unit (9:25 p.m. = 1285; 7:30 a.m. = 450). This is a change of
+# notation for the clock reading, not a conversion of metric; each observation
+# keeps the printed clock time in `interpretation`.
+#
+# Read from the JSTOR repository copy. Pages 313 and 315 are two-column pages
+# whose text layer interleaves the columns, so the quotes for the age-specific
+# bedtimes, the wake-time band and the descriptive-analysis sample were taken
+# from the page images (PDF pp. 6 and 8, journal pp. 313 and 315), in the
+# article's own words. Table 1 quotes are the table rows as extracted.
+# The waketime figure (Fig. 2) values for other ages are read-offs from a
+# graph, not printed numbers, and are not recorded.
+
+schema_version: 2
+
+study:
+  key: snell-2007
+  citation: "Snell, E. K., Adam, E. K., & Duncan, G. J. (2007). Sleep and the body mass index and overweight status of children and adolescents. Child Development, 78(1), 309–323."
+  doi: "10.1111/j.1467-8624.2007.00999.x"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Two-wave panel (Panel Study of Income Dynamics Child Development
+      Supplement, 1997 and 2002-2003). Sleep measured from one weekday and one
+      weekend 24-hour time diary per child per wave, filled out by parents of
+      younger children and by older children with help; weighted with
+      PSID-supplied probability weights. Descriptive analysis pools Time 1
+      (ages 3-12) and Time 2 (ages 8-19, 19-year-olds dropped) diaries and
+      examines weekday and weekend sleep separately; OLS regressions relate
+      Time 1 sleep to Time 2 BMI.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 2281
+    unit: participants
+  additional_sizes:
+    - value: 1441
+      unit: participants
+      note: "sample for the sleep and weight analysis, smaller because of missing height and weight data"
+    - value: 1885
+      unit: participants
+      note: "children with Time 1 time-diary sleep measures (Table 1)"
+  population:
+    description: >-
+      Nationally representative US sample of children from the PSID Child
+      Development Supplement; children younger than 3 at the first wave
+      excluded. Time 1 sample 50% male; 16.1% non-Hispanic Black, 62.9%
+      non-Hispanic White, 13.3% Hispanic, 7.6% other (Table 1).
+    age_or_stage: >-
+      Aged 3-12 at baseline (Time 1, 1997); 8-19 at Time 2. The descriptive
+      sleep analysis pools both waves, ages 3-18.
+    age:
+      unit: years
+      min: 3
+      max: 12
+      mean: 8.12
+      sd: 2.91
+      note: "age at Time 1 (Table 1, n = 2,281); age at Time 2 M = 13.65, SD = 2.93"
+  context:
+    setting: "Home; parent- or child-completed 24-hour time diaries for a randomly selected weekday and weekend day, reviewed with an interviewer"
+    geography: "United States"
+  arms:
+    - id: weekday-age-8-and-under
+      description: "Children aged 8 and under in the pooled descriptive sample (which begins at age 3), weekday diaries."
+    - id: weekday-age-11
+      description: "11-year-olds in the pooled descriptive sample, weekday diaries."
+    - id: weekday-age-14
+      description: "14-year-olds in the pooled descriptive sample, weekday diaries."
+    - id: weekday-ages-6-to-15
+      description: "Children aged 6 to 15 in the pooled descriptive sample, weekday diaries."
+    - id: time1-diary-sample
+      description: "All children with Time 1 (1997) time-diary sleep data, aged 3-12; weekday and weekend weighted 5:2."
+
+comparisons: []
+
+observations:
+
+  - id: weekday-bedtime-age-8-and-under
+    arm_ref: weekday-age-8-and-under
+    outcome:
+      construct: "Bedtime"
+      source_language: "Weekday bedtime"
+      measure: "Time the child went to bed, from the weekday 24-hour time diary"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "weekday night; pooled 1997 and 2002-2003 diaries"
+    result:
+      measure_type: mean
+      estimate: 1260
+      unit: "minutes after midnight (clock time; printed as 9:00 p.m.)"
+      interpretation: "9:00 p.m.; the text says weekday bedtime is fairly constant across ages 3-8"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No SD and no n per age are printed; the text gives the value in round
+      clock time. Weighted with PSID probability weights.
+    source_quote: "Weekday bedtime is fairly constant across ages 3–8; again, it is only at age 9 that it begins to rise substantially, from 9:00 p.m. for children aged 8 and under, to 9:30 p.m. for 11-year-olds, to 10:10 p.m. for 14-year-olds, to 11:00 p.m. for 17-year-olds."
+    source_location: "p. 315, Developmental Trends in Sleep Behaviors (quote from the page image)"
+
+  - id: weekday-bedtime-age-11
+    arm_ref: weekday-age-11
+    outcome:
+      construct: "Bedtime"
+      source_language: "Weekday bedtime"
+      measure: "Time the child went to bed, from the weekday 24-hour time diary"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "weekday night; pooled 1997 and 2002-2003 diaries"
+    result:
+      measure_type: mean
+      estimate: 1290
+      unit: "minutes after midnight (clock time; printed as 9:30 p.m.)"
+      interpretation: "9:30 p.m."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD and no n per age are printed."
+    source_quote: "Weekday bedtime is fairly constant across ages 3–8; again, it is only at age 9 that it begins to rise substantially, from 9:00 p.m. for children aged 8 and under, to 9:30 p.m. for 11-year-olds, to 10:10 p.m. for 14-year-olds, to 11:00 p.m. for 17-year-olds."
+    source_location: "p. 315, Developmental Trends in Sleep Behaviors (quote from the page image)"
+
+  - id: weekday-bedtime-age-14
+    arm_ref: weekday-age-14
+    outcome:
+      construct: "Bedtime"
+      source_language: "Weekday bedtime"
+      measure: "Time the child went to bed, from the weekday 24-hour time diary"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "weekday night; pooled 1997 and 2002-2003 diaries"
+    result:
+      measure_type: mean
+      estimate: 1330
+      unit: "minutes after midnight (clock time; printed as 10:10 p.m.)"
+      interpretation: "10:10 p.m."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD and no n per age are printed."
+    source_quote: "Weekday bedtime is fairly constant across ages 3–8; again, it is only at age 9 that it begins to rise substantially, from 9:00 p.m. for children aged 8 and under, to 9:30 p.m. for 11-year-olds, to 10:10 p.m. for 14-year-olds, to 11:00 p.m. for 17-year-olds."
+    source_location: "p. 315, Developmental Trends in Sleep Behaviors (quote from the page image)"
+
+  # A band across ages, not a mean: the source prints no single value, so the
+  # range is recorded as printed and no midpoint is computed.
+  - id: weekday-waketime-ages-6-to-15
+    arm_ref: weekday-ages-6-to-15
+    outcome:
+      construct: "Wake time"
+      source_language: "Weekday waketimes"
+      measure: "Time the child woke up, from the weekday 24-hour time diary"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "weekday morning; pooled 1997 and 2002-2003 diaries"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 405
+        upper: 420
+        over:
+          value: 10
+          unit: other
+          note: "one-year age groups, ages 6 through 15 (Figure 2)"
+      unit: "minutes after midnight (clock time; printed as 6:45 a.m. and 7:00 a.m.)"
+      interpretation: "Age-group average weekday wake times lie between 6:45 a.m. and 7:00 a.m. for ages 6 to 15"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A range of age-group averages, not one mean; no SD or n per age is
+      printed. Per-age values exist only as points in Figure 2.
+    source_quote: "Weekday waketimes were surprisingly constant across most of childhood and adolescence, averaging between 6:45 a.m. and 7:00 a.m. between ages 6 and 15 (Figure 2)."
+    source_location: "p. 315, Developmental Trends in Sleep Behaviors (quote from the page image)"
+
+  - id: time1-bedtime-weighted
+    sample:
+      value: 1885
+      unit: participants
+    arm_ref: time1-diary-sample
+    outcome:
+      construct: "Bedtime"
+      source_language: "Bedtime at Time 1"
+      measure: "Average bedtime from the Time 1 weekday and weekend diaries, weighted 5:2 for weekday vs. weekend"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 (1997), children aged 3-12"
+    result:
+      measure_type: mean
+      estimate: 1285
+      sd: 60
+      unit: "minutes after midnight (clock time; mean printed as 9:25 p.m., SD as 60 min)"
+      interpretation: "9:25 p.m., SD 60 min"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A between-child SD over children aged 3 to 12, so it includes the spread
+      between ages; it is not a within-age SD.
+    source_quote: "Bedtime at Time 1 1,885 9:25 p.m. 60 min"
+    source_location: "Table 1, Sleep measures, Bedtime and waketime"
+
+  - id: time1-waketime-weighted
+    sample:
+      value: 1885
+      unit: participants
+    arm_ref: time1-diary-sample
+    outcome:
+      construct: "Wake time"
+      source_language: "Wake-up time at Time 1"
+      measure: "Average wake-up time from the Time 1 weekday and weekend diaries, weighted 5:2 for weekday vs. weekend"
+      scale: "clock time"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 (1997), children aged 3-12"
+    result:
+      measure_type: mean
+      estimate: 450
+      sd: 50
+      unit: "minutes after midnight (clock time; mean printed as 7:30 a.m., SD as 50 min)"
+      interpretation: "7:30 a.m., SD 50 min"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Includes weekend mornings at 2/7 weight, so it is later than the
+      weekday wake times printed on p. 315.
+    source_quote: "Wake-up time at Time 1 1,885 7:30 a.m. 50 min"
+    source_location: "Table 1, Sleep measures, Bedtime and waketime"
+
+not_yet_extracted:
+  - "Weekday bedtime for 17-year-olds, 11:00 p.m. (p. 315), and the weekend bedtime and waketime series (weekend waketime 8:06 a.m. at age 9, 9:40 a.m. at age 17)"
+  - "Weekday and weekend hours of sleep by age (p. 315 text and Figure 1); Table 1 hours of sleep at Time 1 (M = 9.91, SD = 1.07)"
+  - "Table 3 OLS regressions of Time 2 BMI on Time 1 sleep, bedtime and waketime, and the age interaction for bedtime"
+  - "Time-diary accuracy is supported by citation to other work; no reliability coefficient for this sample is printed"
