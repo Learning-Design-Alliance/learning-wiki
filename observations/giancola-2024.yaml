@@ -1,0 +1,298 @@
+# Giancola, Palmiero, Pino, Sannino & D'Amico (2024): fluid intelligence,
+# field dependent-independent cognitive style and divergent thinking in 101
+# Italian children aged 6-10.
+#
+# Read from the PubMed Central copy (PMC10814549), text layer. The text layer
+# escapes "<" and ">" as HTML entities; quotes below give the article's own
+# characters ("p < 0.001"), not the entities.
+#
+# WHAT THIS FILE USES:
+#
+#   * `population.age` with every figure the article prints for its own sample:
+#     mean 8.02, SD 1.43, range 6-10 years.
+#   * `measure_type: reliability` for the two judges' agreement on the
+#     DT-Creativity score, which the article labels "inter-rater correlations:
+#     α = 0.91". Recorded as `cronbach_alpha` over `raters`, because that is the
+#     statistic the article names. The CPM and CEFT reliabilities it prints are
+#     the instruments' published figures, cited from their manuals and earlier
+#     studies, not this sample's, so they are listed in not_yet_extracted.
+#   * No `measure_type: mean`: Table 1 prints means and SDs for every variable,
+#     but the observations here are correlations and path coefficients, and no
+#     single-group mean is needed to read them.
+#
+# The design is cross-sectional and correlational; the authors say it "does
+# not allow for causal inferences". The mediation paths are associations.
+
+schema_version: 2
+
+study:
+  key: giancola-2024
+  citation: "Giancola, M., Palmiero, M., Pino, M. C., Sannino, M., & D'Amico, S. (2024). How do children \"think outside the box\"? Fluid intelligence and divergent thinking: A moderated mediation study of field dependent-independent cognitive style and gender. Children, 11(1), 89."
+  doi: "10.3390/children11010089"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional correlational study with individual testing. Pearson
+      correlations among age, gender, fluid intelligence (Raven's Coloured
+      Progressive Matrices), field dependent-independent cognitive style
+      (Children's Embedded Figures Test) and divergent-thinking creativity
+      (Alternative Uses Task, judge-rated); mediation (PROCESS Model 4) and
+      moderated mediation (PROCESS Model 14) with 5000 bootstrap samples.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: gf-fdi-dt-correlations-children
+    bearing: supports
+    anchor: giancola-2024
+  - claim: fdi-fully-mediates-gf-dt-children
+    bearing: supports
+    anchor: giancola-2024
+
+evidence_base:
+  unit: participants
+  size:
+    value: 101
+    unit: participants
+  population:
+    description: >-
+      Italian-speaking school-age children (50 girls) recruited through a local
+      family paediatrician in L'Aquila, Abruzzo, Italy. An a priori power
+      analysis gave a minimum sample of 92.
+    age_or_stage: "School-age children, 6-10 years"
+    age:
+      unit: years
+      min: 6
+      max: 10
+      mean: 8.02
+      sd: 1.43
+  context:
+    setting: "Individual testing in a room of the paediatric clinic; the Alternative Uses Task had a 10-minute limit"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations, path coefficients and scoring agreement in the whole sample of 101 children; no contrast between groups."
+
+observations:
+
+  - id: gf-dt-creativity-correlation
+    sample:
+      value: 101
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Divergent-thinking creativity"
+      source_language: "DT-Creativity"
+      measure: "Alternative Uses Task (TTCT Form A, carton boxes), whole response set rated by two trained judges with the snapshot method on a 5-point scale for uncommonness, remoteness and cleverness; the two judges' ratings averaged"
+      scale: "Pearson correlation with fluid intelligence (Raven's Coloured Progressive Matrices raw score)"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single testing session, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.31
+      p_value: "< 0.01 (two tailed)"
+      descriptives: "Gf M = 25.88, SD = 4.71; DT-Creativity M = 2.44, SD = 1.03 (Table 1)"
+      note: "Zero-order correlation, not corrected for age; age correlates with both variables (0.65 with Gf, 0.23 with DT-Creativity)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "5. DT-Creativity 2.44 1.03 0.23 * 0.33 ** 0.31 ** 0.42 ** 1"
+    source_location: "Table 1; Results 3.1"
+
+  - id: age-gf-correlation
+    sample:
+      value: 101
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Fluid intelligence"
+      source_language: "Gf"
+      measure: "Raven's Coloured Progressive Matrices, three series of 12 items"
+      scale: "Pearson correlation with age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single testing session, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.65
+      p_value: "< 0.01 (two tailed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "3. Gf 25.88 4.71 0.65 ** 0.06 1"
+    source_location: "Table 1; Results 3.1"
+
+  - id: age-dt-creativity-correlation
+    sample:
+      value: 101
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Divergent-thinking creativity"
+      source_language: "DT-Creativity"
+      measure: "Alternative Uses Task, judge-rated creativity score (as above)"
+      scale: "Pearson correlation with age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single testing session, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.23
+      p_value: "< 0.05 (two tailed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "5. DT-Creativity 2.44 1.03 0.23 * 0.33 ** 0.31 ** 0.42 ** 1"
+    source_location: "Table 1; Results 3.1"
+
+  - id: gf-dt-direct-effect
+    sample:
+      value: 101
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Divergent-thinking creativity"
+      source_language: "DT-creativity"
+      measure: "Alternative Uses Task, judge-rated creativity score (as above)"
+      scale: "unstandardised path coefficient b from Gf, with FDI in the model"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single testing session, cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.02
+      standard_error: 0.03
+      ci_lower: -0.028
+      ci_upper: 0.076
+      interval_type: confidence
+      p_value: "> 0.05"
+      model: "PROCESS Model 4 (simple mediation), 95% CI bootstrapped on 5000 samples; direct effect of Gf on DT-creativity with FDI as mediator"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The interval is a percentile bootstrap confidence interval as the article
+      describes its method; it is recorded as printed.
+    source_quote: "The direct effect of Gf on DT-creativity was not significant (b = 0.02, SE = 0.03, p > 0.05, 95% CI [−0.028, 0.076]), whereas the indirect effect was significant (b = 0.04, SE = 0.01, 95% CI [0.019, 0.065])."
+    source_location: "Results 3.2"
+
+  - id: gf-dt-indirect-effect-via-fdi
+    sample:
+      value: 101
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Divergent-thinking creativity"
+      source_language: "DT-creativity"
+      measure: "Alternative Uses Task, judge-rated creativity score (as above)"
+      scale: "unstandardised indirect effect b of Gf through FDI"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single testing session, cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.04
+      standard_error: 0.01
+      ci_lower: 0.019
+      ci_upper: 0.065
+      interval_type: confidence
+      model: "PROCESS Model 4 (simple mediation), 95% CI bootstrapped on 5000 samples. Paths: Gf to FDI b = 0.29, FDI to DT-creativity b = 0.14 (both p < 0.001)."
+    moderators:
+      reported:
+        - variable: "Gender"
+          relationship: "In the moderated mediation model the FDI to DT path is stronger for boys (b = 0.22) than for girls (b = 0.09); FDI x Gender b = 0.14, 95% CI [0.040, 0.230]"
+          source_quote: "Using the Model 14 of the PROCESS macro, results indicated that the association between FDI and DT was moderated by gender (b = 0.14, SE = 0.05, t = 2.84, 95% CI [0.040, 0.230]) ( Table 2 ) considering both boys (b = 0.22, SE = 0.04, t = 5.01, 95% CI [0.134, 0.310]) and girls (b = 0.09, SE = 0.03, t = 2.76, 95% CI [0.024, 0.149]) ( Table 3 )."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The direct effect of Gf on DT-creativity was not significant (b = 0.02, SE = 0.03, p > 0.05, 95% CI [−0.028, 0.076]), whereas the indirect effect was significant (b = 0.04, SE = 0.01, 95% CI [0.019, 0.065])."
+    source_location: "Results 3.2"
+
+  # The agreement of the two judges who rated the AUT responses. The averaged
+  # rating is the DT-Creativity score every observation above uses.
+  - id: dt-creativity-interrater
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Inter-rater agreement on divergent-thinking creativity"
+      source_language: "inter-rater correlations"
+      measure: "Two trained judges' snapshot creativity ratings of each child's Alternative Uses Task responses"
+      scale: "alpha, as labelled by the article"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "scoring, after testing"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      p_value: "< 0.001"
+      reliability:
+        statistic: cronbach_alpha
+        over: raters
+        form: "inter-rater correlations: α"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article calls the figure an inter-rater correlation and prints it as
+      alpha; it is recorded as the alpha it is printed as. effect_size is
+      `unreported` because a reliability coefficient is not an effect.
+    source_quote: "The evaluations provided by the two judges have been averaged to compute a DT creativity score (DT-Creativity; inter-rater correlations: α = 0.91, p < 0.001)."
+    source_location: "Section 2.2.3, Divergent Thinking"
+
+not_yet_extracted:
+  - "CPM reliability (test-retest around 0.90, Cronbach's alpha 0.91) and CEFT internal consistency (0.86) and one-year test-retest (about 0.63): cited from the instruments' manuals and earlier studies ([55], [43]), not computed on this sample."
+  - "Other Table 1 correlations: Gf with FDI 0.65, FDI with DT-Creativity 0.42, age with FDI 0.63, gender with DT-Creativity 0.33."
+  - "Moderated mediation model (Table 2): R2 = 0.41, F(5,95) = 13.06; Gender b = 0.58; Age b = -0.06; conditional indirect effects by gender (Table 3)."
