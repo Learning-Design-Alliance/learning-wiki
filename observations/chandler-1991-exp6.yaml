@@ -1,0 +1,262 @@
+# Chandler & Sweller (1991), Experiment 6: blood circulation through the heart,
+# lungs and body, with a numbered diagram that cannot be understood without its
+# text, presented split-source or integrated, to the top 20 students of an
+# ungraded Year 9 science class.
+#
+# Read from the University of Wollongong repository copy (text layer only).
+# Table 7 is linearised, not scrambled: the header lists instruction time then
+# Problems 1-6, and the cells follow as M, SD pairs, conventional group first.
+# Both recorded instruction-time means agree with the prose (the modified group
+# spent less time, t(18) = 5.30). The quotes for them are the linearised cell
+# run as printed.
+#
+# Group sizes are not printed; t(18) is consistent with 20 students in two
+# groups, but no per-group n is recorded. The allocation method is not stated
+# for this experiment (its procedure is "the same as in Experiment 5", whose
+# own procedure is "similar to Experiment 4", where subjects were randomly
+# allocated), so the design family is `other`, not a randomised trial.
+
+# Table values were checked against page images of the publisher PDF (Table 2
+# p. 303, Table 7 p. 327) and match the column reading of the text layer.
+
+schema_version: 2
+
+study:
+  key: chandler-1991-exp6
+  citation: "Chandler, P., & Sweller, J. (1991). Cognitive load theory and the format of instruction. Cognition and Instruction, 8(4), 293–332."
+  doi: "10.1207/s1532690xci0804_2"
+  design:
+    family: other
+    design_detail: >-
+      Two-group between-subjects laboratory-type experiment in a school. The
+      article says subjects "were allocated to either a conventional or a
+      modified group" and does not state how for this experiment. Unlimited
+      study time in an instruction phase, then six test problems presented one
+      at a time, untimed; independent t tests per measure.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 20
+    unit: participants
+  population:
+    description: >-
+      The top 20 students of ungraded Year 9 science classes at a school, as
+      judged by a common science test; none had previous instruction on the
+      circulation of blood around the heart, lungs and body.
+    age_or_stage: "Year 9"
+    age: unreported
+  context:
+    setting: "A school; individual study of one page of instructional material, then a written test phase"
+  arms:
+    - id: conventional
+      description: "Split-source material: a diagram of the heart, lungs and body whose components are labelled only with numbers, and a numbered text below it naming each component and explaining its role in blood flow. Neither source is intelligible alone."
+    - id: modified
+      description: "The same text in an integrated format, placed on the diagram, without the numbers."
+      elements:
+        - term: "physically integrated text and diagram"
+
+comparisons:
+  - id: modified-vs-conventional
+    kind: between-groups
+    index_arm: modified
+    reference_arm: conventional
+    description: "Integrated (modified) material against split-source material that had to be mentally integrated to be understood."
+
+observations:
+
+  - id: instruction-time-mean-conventional
+    arm_ref: conventional
+    outcome:
+      construct: "Study time"
+      source_language: "Instruction Time"
+      measure: "Time spent studying the instructions, unlimited"
+      scale: "seconds"
+      direction: lower-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "instruction phase"
+    result:
+      measure_type: mean
+      estimate: 150.8
+      sd: 22.1
+      unit: "seconds"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The authors treat shorter study time as consistent with lower cognitive load; it is not a load measure."
+    source_quote: "150.8 22.1 4.0 1.2 2.7 2.0 1.7 1.3 3.3 2.4 12.8 4.2 1.7 1.6 105.1 16.0"
+    source_location: "Table 7, p. 327 (linearised in the text layer; see header)"
+
+  - id: instruction-time-mean-modified
+    arm_ref: modified
+    outcome:
+      construct: "Study time"
+      source_language: "Instruction Time"
+      measure: "Time spent studying the instructions, unlimited"
+      scale: "seconds"
+      direction: lower-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "instruction phase"
+    result:
+      measure_type: mean
+      estimate: 105.1
+      sd: 16.0
+      unit: "seconds"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "1.7 1.6 105.1 16.0 5.4 0.7 4.7 1.9 3.6 2.1 4.8 2.5 13.6 2.6 2.2 1.8"
+    source_location: "Table 7, p. 327 (linearised in the text layer; see header)"
+
+  - id: instruction-time-t-test
+    sample:
+      value: 20
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Study time"
+      source_language: "time processing instructions"
+      measure: "Time spent studying the instructions, unlimited"
+      scale: "t statistic, independent groups"
+      direction: lower-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "instruction phase"
+    result:
+      measure_type: other
+      statistic: "t(18) = 5.30"
+      interpretation: "The modified group spent significantly less time processing the instructions."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "A t test indicated that the modified group spent significantly less time processing instructions than the conventional group, t(18) = 5.30."
+    source_location: "Experiment 6, Results and Discussion, p. 327"
+
+  - id: problem1-t-test
+    sample:
+      value: 20
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Recall of the parts of the heart"
+      source_language: "Problem 1"
+      measure: "Recall six parts of the heart (the Experiment 5 test materials)"
+      scale: "t statistic on marks out of 6, independent groups"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after the instruction phase"
+    result:
+      measure_type: other
+      statistic: "t(18) = 3.10"
+      interpretation: "Modified group significantly better."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The critical t values were: t(18) = 3.10, for Problem 1; t(18) = 2.30, for Problem 2; and t(18) = 2.40, for Problem 3."
+    source_location: "Experiment 6, Results and Discussion, p. 327"
+
+  - id: problem2-t-test
+    sample:
+      value: 20
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Labelling parts of the heart on a diagram"
+      source_language: "Problem 2"
+      measure: "Label six parts of the heart on an unlabelled diagram of the heart, lungs and body"
+      scale: "t statistic on marks out of 6, independent groups"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after the instruction phase"
+    result:
+      measure_type: other
+      statistic: "t(18) = 2.30"
+      interpretation: "Modified group significantly better."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The critical t values were: t(18) = 3.10, for Problem 1; t(18) = 2.30, for Problem 2; and t(18) = 2.40, for Problem 3."
+    source_location: "Experiment 6, Results and Discussion, p. 327"
+
+  - id: problem3-t-test
+    sample:
+      value: 20
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Tracing the flow of blood on a diagram"
+      source_language: "Problem 3"
+      measure: "Place six numbers on an unlabelled diagram to show the flow of blood"
+      scale: "t statistic on marks out of 6, independent groups"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after the instruction phase"
+    result:
+      measure_type: other
+      statistic: "t(18) = 2.40"
+      interpretation: "Modified group significantly better. Problem 4 favoured the modified group, not significantly; Problems 5 and 6 differed little."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The critical t values were: t(18) = 3.10, for Problem 1; t(18) = 2.30, for Problem 2; and t(18) = 2.40, for Problem 3."
+    source_location: "Experiment 6, Results and Discussion, p. 327"
+
+not_yet_extracted:
+  - "Table 7 problem-score means and SDs for Problems 1-6 (readable from the linearised cells, not recorded: no claim or figure here needs them yet)."
+  - "Problem 4 t test, printed as 't(I8) = 1.38' in the text layer, with a one-tailed .05 < p < .1 remark."
+  - "Students' ages: the article says only Year 9."
+  - "No reliability or agreement coefficient is printed for the scoring."
