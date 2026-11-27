@@ -1,0 +1,375 @@
+# Erbeli, Shi, Campbell, Hart & Woltering (2021): developmental dynamics
+# between reading and math in Grades 1-4, bivariate latent change score models
+# in 554 academically at-risk children (Texas Project Achieve).
+#
+# Key `erbeli-2020`, as given: the article appeared online 25 June 2020 and in
+# the January 2021 issue (24(1), e13004). The citation carries the issue year.
+#
+# Read from the PubMed Central author manuscript (PMC7725923, NIHMS1645146),
+# text layer. Figures 2-5, which carry the path diagrams and the vector plot,
+# are images and not in the text; every parameter below is one the running
+# text prints. Tables 1-3 extracted cleanly as tab-separated rows.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The published coupling parameter, reading level to subsequent change in
+#     math (gamma = 0.165), a fitted estimate the paper reports as its finding.
+#   * The chi-square difference tests that chose the reading-to-math model.
+#   * The univariate intercept-slope correlations (fan-spread growth) and the
+#     proportional change parameters.
+#   * The authors' reading of the vector field plot (where the coupling is
+#     strongest) and the covariate model, as results without an estimate.
+#   * `population.age` with the mean, SD and range the article prints.
+#   * No reliability observation: the internal consistencies printed for the
+#     WJ-III, the Bateria-R and the UNIT are the test publishers' figures
+#     (Woodcock et al., 2001; Bracken & McCallum, 1998), and the authors say a
+#     sample-specific reliability could not be computed.
+#
+# All analyses were run on scores residualized on age and standardized to
+# z-scores in Grade 1; the parameters are unstandardized coefficients on that
+# scale, so gamma reads "SD of math change per SD of reading level per year".
+
+schema_version: 2
+
+study:
+  key: erbeli-2020
+  citation: "Erbeli, F., Shi, Q., Campbell, A. R., Hart, S. A., & Woltering, S. (2021). Developmental dynamics between reading and math in elementary school. Developmental Science, 24(1), e13004. (Published online 25 June 2020.)"
+  doi: "10.1111/desc.13004"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Prospective longitudinal cohort (Project Achieve, a study of grade
+      retention), reading and math assessed annually in Grades 1 to 4 with
+      the Woodcock-Johnson III Broad Reading and Broad Math composites
+      (W-scores; Bateria-R for children more proficient in Spanish). Scores
+      residualized on age and standardized to Grade 1 z-scores. Univariate
+      constant, proportional and dual change score models, then four
+      bivariate dual change score models (uncoupled, reading-to-math,
+      math-to-reading, bidirectional) compared by chi-square difference
+      tests; a further model added nonverbal cognitive ability (UNIT) as a
+      covariate of intercepts and slopes. Mplus. No intervention.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: reading-to-math-coupling-at-risk-children
+    bearing: supports
+    anchor: erbeli-2021
+  - claim: chi-square-testing-selects-reading-to-math-model
+    bearing: supports
+    anchor: erbeli-2021
+  - claim: fan-spread-growth-reading-math-at-risk
+    bearing: supports
+    anchor: erbeli-2021
+  - claim: reading-amplification-strongest-below-average-math
+    bearing: supports
+    anchor: erbeli-2021
+  - claim: reading-math-coupling-robust-nonverbal-iq
+    bearing: supports
+    anchor: erbeli-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 554
+    unit: participants
+  additional_sizes:
+    - value: 784
+      unit: participants
+      note: "children consented and enrolled in Project Achieve, of 1,374 eligible; 230 retained in Grade 2, 3 or 4 were excluded"
+    - value: 34
+      unit: schools
+      note: "schools across three Texas districts from which children were enrolled; not a unit of analysis"
+  population:
+    description: >-
+      Academically at-risk children, selected for scoring below the median
+      on a district early literacy test (TEKS) in spring of kindergarten or
+      fall of first grade; excluded if receiving special education in first
+      grade, already retained in first grade, or with a first language other
+      than English or Spanish. 18.9% African American, 39.8% Latino, 35.5%
+      White, 5.8% Other; 56.8% eligible for free or reduced lunch; 13.9%
+      tested in Spanish.
+    age_or_stage: "Grades 1 to 4; age given at the first assessment (Grade 1)"
+    age:
+      unit: years
+      mean: 6.57
+      sd: 0.38
+      min: 5.25
+      max: 8.25
+      note: "at the first assessment point, in first grade (fall 2000 or 2001)"
+  context:
+    setting: "Public elementary schools in three districts in Texas; annual individual achievement testing, Grades 1-4"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Model parameters and model comparisons in the whole analysed sample; no contrast between groups."
+
+observations:
+
+  - id: reading-to-math-coupling
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Change in math growth from one grade to the next"
+      source_language: "subsequent change in math growth"
+      measure: "WJ-III Broad Math composite (calculation, math fluency, applied problems), W-scores residualized on age and standardized to Grade 1 z-scores"
+      scale: "coupling parameter: unstandardized path from reading level at one grade to the latent change in math at the next"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade to grade, Grades 1 to 4"
+      offset:
+        value: 1
+        unit: years
+        from: "the reading level at the preceding grade"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.165
+      model: >-
+        Bivariate dual change score model with reading-to-math coupling only
+        (RM2), selected as most parsimonious; correlated intercepts and slopes
+        estimated (reading intercept-slope r = 0.619, math 0.347, reading
+        intercept-math slope 0.098, math intercept-reading slope 0.268,
+        reading intercept-math intercept 0.242).
+      interpretation: "A child whose reading level was one SD above average would grow 0.165 SD faster in math over a year; described by the authors as small in magnitude."
+    moderators:
+      reported:
+        - variable: "Current reading and math levels"
+          relationship: "Coupling evident in particular at mean and high reading (z > 0) with below-mean math (z < 0); negligible at reading z < -1 (from the vector field plot)"
+          source_quote: "First, the coupling effects from reading to math are evident in particular at the mean and high levels of reading performance (reading z > 0) and below the mean levels of math performance (math z < 0)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The standard error and exact p of gamma are in Figure 4, an image not in
+      the text layer; the text calls the effect significant. implementation
+      detail is `unreported` because there was no intervention; ordinary
+      schooling is not described.
+    source_quote: "As shown in Figure 4, significant coupling effects (γ= 0.165) were depicted from the level of performance in reading to subsequent change in math growth."
+    source_location: "Results, Bivariate dual change score models; Figure 4"
+
+  - id: drop-reading-to-math-coupling
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Fit of the bidirectional coupling model without the reading-to-math path"
+      source_language: "RM3 vs. RM4"
+      measure: "Chi-square difference test, math-to-reading coupling model (RM3) against the full bidirectional model (RM4)"
+      scale: "chi-square difference"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "Grades 1 to 4"
+    result:
+      measure_type: other
+      estimate: 9.579
+      statistic: "Δχ2(1) = 9.579"
+      p_value: "< .01"
+      interpretation: "Removing the reading-to-math coupling significantly worsened fit."
+      note: "RM3 fit: χ2(18) = 98.379, RMSEA 0.090 (0.073, 0.108), CFI 0.971, SRMR 0.042. Removing both couplings (RM1 vs RM4): Δχ2(2) = 10.500, p < .01."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "RM3 Math-to-reading coupling model 98.379 (18) 0.090 (0.073, 0.108) 0.971 0.042 RM3 vs. RM4 9.579 (1) <.01"
+    source_location: "Table 3, bivariate models"
+
+  - id: drop-math-to-reading-coupling
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Fit of the bidirectional coupling model without the math-to-reading path"
+      source_language: "RM2 vs. RM4"
+      measure: "Chi-square difference test, reading-to-math coupling model (RM2) against the full bidirectional model (RM4)"
+      scale: "chi-square difference"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "Grades 1 to 4"
+    result:
+      measure_type: other
+      estimate: 1.072
+      statistic: "Δχ2(1) = 1.072"
+      p_value: ".300"
+      interpretation: "Removing the math-to-reading coupling did not worsen fit; RM2 retained as the most parsimonious model."
+      note: "RM2 fit: χ2(18) = 89.872, RMSEA 0.085 (0.068, 0.103), CFI 0.974, SRMR 0.036."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "RM2 Reading-to-math coupling model 89.872 (18) 0.085 (0.068, 0.103) 0.974 0.036 RM2 vs. RM4 1.072 (1) .300"
+    source_location: "Table 3, bivariate models"
+
+  - id: reading-intercept-slope-correlation
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Reading growth across Grades 1 to 4 (fan spread)"
+      source_language: "correlation between the intercept and slope"
+      measure: "WJ-III Broad Reading composite (letter-word identification, reading fluency, passage comprehension), residualized and standardized"
+      scale: "correlation of latent intercept and constant-change slope, univariate dual change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grades 1 to 4"
+    result:
+      measure_type: correlation
+      estimate: 0.644
+      model: >-
+        Univariate dual change score model for reading (R3). Other parameters
+        printed: mean intercept 0.027 (not significant), intercept variability
+        0.596, mean slope 1.049, slope variability 0.063, proportional change
+        -0.406.
+      interpretation: "Fan-spread growth: children below the mean in Grade 1 grew more slowly than those above it."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The positive correlation between the intercept and slope (rR0,1 = 0.644) indicated a fan-spread growth pattern, where, on average, children who were below the mean in the first grade grew more slowly across the span of first through fourth grade than children who were above the mean."
+    source_location: "Results, Univariate latent change score models; Figure 2"
+
+  - id: math-intercept-slope-correlation
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Math growth across Grades 1 to 4 (fan spread)"
+      source_language: "correlation between the intercept and slope"
+      measure: "WJ-III Broad Math composite, residualized and standardized"
+      scale: "correlation of latent intercept and constant-change slope, univariate dual change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grades 1 to 4"
+    result:
+      measure_type: correlation
+      estimate: 0.336
+      model: >-
+        Univariate dual change score model for math (M3). Other parameters
+        printed: mean intercept -0.007 (not significant), intercept
+        variability 0.624, mean slope 1.043, slope variability 0.033,
+        proportional change -0.177.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The correlation between the intercept and slope was positive (rM0,1 = 0.336), suggesting that children below the mean grew on average more slowly than children above the mean."
+    source_location: "Results, Univariate latent change score models; Figure 3"
+
+  - id: math-proportional-change
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Math growth across Grades 1 to 4 (attenuation)"
+      source_language: "proportional change parameter"
+      measure: "WJ-III Broad Math composite, residualized and standardized"
+      scale: "proportional change parameter: path from math level at one grade to the latent change at the next, univariate dual change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "grade to grade, Grades 1 to 4"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.177
+      model: "Univariate dual change score model for math (M3). The reading model's proportional change parameter was -0.406."
+      interpretation: "Children who performed higher at a grade showed smaller change in the next; overall attenuated growth in math."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Similarly to reading, the proportional change parameter was significant and negative (βM = −0.177), indicating an overall attenuated growth in math over time."
+    source_location: "Results, Univariate latent change score models; Figure 3"
+
+  - id: coupling-with-nonverbal-covariate
+    sample:
+      value: 554
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Selection of the reading-to-math coupling model with nonverbal ability controlled"
+      source_language: "model-fitting results with nonverbal cognitive abilities as a covariate"
+      measure: "Bivariate model comparison with UNIT nonverbal cognitive ability added as a covariate of intercepts and slopes"
+      scale: "best-fitting model"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "Grades 1 to 4"
+    result:
+      measure_type: other
+      interpretation: "The same reading-to-math model fit best; path estimates changed minimally; nonverbal ability was significantly related to all intercept and growth parameters."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: unreported
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The fit statistics and path estimates with the covariate are in
+      supplementary Table SI1 and Figure SI1, not read here.
+    source_quote: "The model-fiting results with nonverbal cognitive abilities as a covariate supported the same best fitting model without the covariate, indicating that the findings regarding reading influencing subsequent math growth as the most parsimonious model held."
+    source_location: "Results, Bivariate dual change score models"
+
+not_yet_extracted:
+  - "Table 1 descriptive statistics (W-score means and SDs per grade; Ns 471-547) and Table 2 correlations among observed variables."
+  - "Standard errors and significance of the model parameters, in Figures 2-4 (images not in the text layer)."
+  - "Published reliabilities of the WJ-III (reading .92 ages 4-7, .93 ages 8-10; math .94 and .92), the Bateria-R (.95) and the UNIT (.84): test publishers' figures, not this sample's."
+  - "Fit statistics and estimates for the model with the nonverbal covariate (supplementary Table SI1, Figure SI1)."

@@ -1,0 +1,329 @@
+# Jerrim, Macmillan, Micklewright, Sawtell & Wiggins: a school-randomised trial
+# of chess instruction (Chess in Schools and Communities) in Year 5 in England.
+#
+# Read from the authors' revised manuscript (UCL Institute of Education,
+# "February 2017", text layer only; no PDF beside it). Volume, issue, pages and
+# year come from Crossref: the article was published online on 7 June 2017
+# and in print in 2018, volume 53(4). The key stays jerrim-2017, as given.
+#
+# Table 4 (ITT effect sizes for the three model specifications) is scrambled
+# in the text layer: its numbers are separated from their row and column
+# labels, so no figure is taken from it. Every estimate below is the one the
+# results text prints, which is the Model 3 (all controls) ITT estimate.
+#
+# The trial is also reported in the Education Endowment Foundation's 2016
+# evaluation report, whose summary figures differ in places from this paper's
+# (for example science). This record holds only this paper's own figures.
+#
+# The CI on mathematics is printed as "approximately -0.149 to +0.151"; the
+# bounds are recorded as printed, and the word "approximately" is kept in a
+# note.
+
+schema_version: 2
+
+study:
+  key: jerrim-2017
+  citation: "Jerrim, J., Macmillan, L., Micklewright, J., Sawtell, M., & Wiggins, M. (2018). Does teaching children how to play cognitively demanding games improve their educational attainment? Evidence from a randomized controlled trial of chess instruction in England. Journal of Human Resources, 53(4), 993–1021."
+  doi: "10.3368/jhr.53.4.0516.7952r"
+  design:
+    family: cluster-randomized-controlled-trial
+    design_detail: >-
+      Two-arm clustered RCT in 2013/14: 100 primary schools in 11 English local
+      authorities, separated into ten strata by historical attainment and
+      free-school-meal share, half of each stratum randomly allocated to the
+      Chess in Schools and Communities programme and half to business as usual.
+      Primary analysis intention-to-treat by OLS on Key Stage 2 scores
+      (standardised to the national population, mean 0, SD 1), with Key Stage 1
+      scores, gender and FSM eligibility as controls and standard errors
+      clustered at the school level; LATE by two-stage least squares as a
+      robustness check; pre-specified subgroups (gender, FSM) and quantile
+      regression.
+    preregistration:
+      status: preregistered
+      registry: ISRCTN
+      id: ISRCTN33648117
+      source_quote: "The trial was pre-registered at the independent ISRCTN website with a fully prespecified analysis plan."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: chess-primary-schools-no-impact-ks2-maths
+    bearing: supports
+    anchor: jerrim-2017
+  - claim: chess-primary-schools-no-impact-ks2-maths
+    bearing: supports
+    anchor: jerrim-2017-2
+  - claim: chess-no-impact-reading-science
+    bearing: supports
+    anchor: jerrim-2017
+  - claim: chess-no-impact-reading-science
+    bearing: supports
+    anchor: jerrim-2017-2
+  - claim: chess-effect-null-across-subgroups-and-distribution
+    bearing: supports
+    anchor: jerrim-2017
+
+evidence_base:
+  unit: participants
+  size:
+    value: 3865
+    unit: participants
+  allocation:
+    value: 100
+    unit: schools
+  additional_sizes:
+    - value: 4009
+      unit: participants
+      note: "pupils enrolled at randomisation; Key Stage 2 post-test scores available for 3,865 (97 percent)"
+    - value: 442
+      unit: schools
+      note: "eligible schools approached by the programme provider; 100 recruited"
+  population:
+    description: >-
+      Year 5 pupils in state primary schools with a high proportion of pupils
+      eligible for free school meals, in 11 English local authorities (Inner
+      London boroughs, Bristol, Leeds, Liverpool, Middlesbrough, Sefton,
+      Sheffield and Tameside). The authors describe the sample as somewhat
+      lower achieving and more socioeconomically disadvantaged than England as
+      a whole; 33 percent (treatment) and 36 percent (control) FSM-eligible.
+    age_or_stage: "Year 5 (age 9/10), as the article describes the year group; outcomes at the end of Year 6 (Key Stage 2, age 10/11)"
+    age: unreported
+  context:
+    setting: "English state primary schools, 2013/14 academic year; chess taught in school time in place of one regular lesson a week"
+  arms:
+    - id: chess-in-schools
+      description: >-
+        Chess in Schools and Communities programme: whole-class chess lessons
+        from trained tutors following a standardised 30-hour curriculum, in
+        place of one regular weekly lesson (intended to be art, humanities or
+        PE), with a designated assisting class teacher, chess sets and books,
+        and a school chess club.
+      size:
+        value: 1965
+        unit: participants
+      allocation:
+        value: 50
+        unit: schools
+      dose:
+        amount: 30
+        unit: hours
+        detail: "Intended 30 hours over one school year; only one-third of schools received the full 30, most between 25 and 29"
+      delivery:
+        grouping: whole-class
+        role: replacement
+        basis: stated
+      implementation_notes:
+        - "Six of the 50 treatment schools (201 pupils) dropped out before the intervention began"
+        - "Seven intervention schools substituted chess for a weekly mathematics lesson; one replaced an English lesson"
+        - "Only around one in three class teachers attended the one-day training"
+    - id: business-as-usual
+      description: "Business-as-usual control: no chess lessons during the trial year; access to the programme after outcome tests."
+      size:
+        value: 1900
+        unit: participants
+      allocation:
+        value: 50
+        unit: schools
+      implementation_notes:
+        - "One control school (54 pupils in the text; 27 in the flow diagram) delivered chess lessons"
+
+comparisons:
+  - id: chess-vs-business-as-usual
+    kind: between-groups
+    index_arm: chess-in-schools
+    reference_arm: business-as-usual
+    description: "Schools randomised to the chess programme against schools randomised to business as usual, analysed as randomised (ITT) unless stated."
+
+observations:
+
+  - id: ks2-maths-itt
+    sample:
+      value: 3865
+      unit: participants
+    comparison_ref: chess-vs-business-as-usual
+    outcome:
+      construct: "Mathematics attainment"
+      source_language: "Key Stage 2 mathematics test scores"
+      measure: "Key Stage 2 mathematics exam, externally marked national high-stakes test, from the National Pupil Database; primary outcome"
+      scale: "z-score standardised to the national population"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "End of Year 6, one year after the intervention ended"
+      offset:
+        value: 1
+        unit: years
+        from: "end of the intervention"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.001
+      ci_lower: -0.149
+      ci_upper: 0.151
+      interval_type: confidence
+      model: >-
+        ITT, OLS with pre-test (Key Stage 1) scores in mathematics, reading,
+        writing and science, gender and FSM eligibility; standard errors
+        clustered at the school level.
+      note: "The interval is printed as 'approximately -0.149 to +0.151'. The same point estimate is given for the mental arithmetic sub-domain."
+      interpretation: "No evidence of any impact on mathematics one year after the intervention"
+    moderators:
+      reported:
+        - variable: "Gender and FSM eligibility (pre-specified subgroups)"
+          relationship: "No evidence that the estimate differs between boys, girls and FSM-eligible pupils; the gender-by-treatment interaction test did not reject equal effects"
+          source_quote: "We find no evidence that estimates differ between boys, girls and children who are eligible for Free School Meals (FSM)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "In both cases, the point estimate of the treatment is 0.001 with a 95 percent confidence interval ranging from approximately -0.149 to +0.151."
+    source_location: "Section 5, Impact of the CSC programme on mathematics attainment"
+
+  - id: ks2-maths-late
+    comparison_ref: chess-vs-business-as-usual
+    outcome:
+      construct: "Mathematics attainment"
+      source_language: "Key Stage 2 mathematics test scores"
+      measure: "Key Stage 2 mathematics exam from the National Pupil Database"
+      scale: "z-score standardised to the national population"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "End of Year 6, one year after the intervention ended"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.001
+      ci_lower: -0.166
+      ci_upper: 0.168
+      interval_type: confidence
+      model: >-
+        Local Average Treatment Effect by two-stage least squares, random
+        allocation as the instrument for treatment receipt, correcting for six
+        treatment schools that did not receive the programme and one control
+        school that did.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The analysed n for the LATE estimate is not printed separately."
+    source_quote: "Specifically, the LATE point estimate is also 0.001 standard deviations, with 95 percent confidence interval running from -0.166 to +0.168."
+    source_location: "Section 5, robustness checks"
+
+  - id: ks2-reading-itt
+    comparison_ref: chess-vs-business-as-usual
+    outcome:
+      construct: "Reading attainment"
+      source_language: "post-test (Key Stage 2) scores ... in reading"
+      measure: "Key Stage 2 English (reading) test, externally marked national examination"
+      scale: "z-score standardised to the national population"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "End of Year 6, one year after the intervention ended"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.06
+      ci_lower: -0.21
+      ci_upper: 0.09
+      interval_type: confidence
+      model: "ITT, as for mathematics"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The analysed n for reading is not printed in the text read; Table 4 is unreadable in the text layer."
+    source_quote: "The estimated impact upon children’s post-test (Key Stage 2) scores was -0.06 standard deviations in reading (95 percent confidence interval from -0.21 to +0.09) and -0.03 in science (95 percent confidence interval from -0.13 to +0.08)."
+    source_location: "Section 5, Impact upon reading and science attainment"
+
+  - id: ks2-science-itt
+    comparison_ref: chess-vs-business-as-usual
+    outcome:
+      construct: "Science attainment"
+      source_language: "post-test (Key Stage 2) scores ... in science"
+      measure: "Key Stage 2 science level, based on the teacher's judgement rather than an external examination"
+      scale: "z-score standardised to the national population"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "End of Year 6, one year after the intervention ended"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.03
+      ci_lower: -0.13
+      ci_upper: 0.08
+      interval_type: confidence
+      model: "ITT, as for mathematics"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Teacher-assessed outcome, so not blind to allocation in the way the externally marked tests are; the analysed n is not printed in the text read."
+    source_quote: "The estimated impact upon children’s post-test (Key Stage 2) scores was -0.06 standard deviations in reading (95 percent confidence interval from -0.21 to +0.09) and -0.03 in science (95 percent confidence interval from -0.13 to +0.08)."
+    source_location: "Section 5, Impact upon reading and science attainment"
+
+  - id: ks2-maths-itt-fsm
+    comparison_ref: chess-vs-business-as-usual
+    outcome:
+      construct: "Mathematics attainment, FSM-eligible pupils"
+      source_language: "mathematics skills of children from socio-economically disadvantaged backgrounds"
+      measure: "Key Stage 2 mathematics exam, pupils eligible for free school meals only (pre-specified subgroup)"
+      scale: "z-score standardised to the national population"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "End of Year 6, one year after the intervention ended"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.01
+      ci_lower: -0.18
+      ci_upper: 0.19
+      interval_type: confidence
+      model: "ITT within the FSM-eligible subgroup"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The number of FSM-eligible pupils analysed is not printed in the text read."
+    source_quote: "For children from low-income (FSM) backgrounds, the point estimate is essentially zero (+0.01), with the 95 percent confidence interval running from -0.18 to +0.19."
+    source_location: "Section 5, Heterogeneous effects"
+
+not_yet_extracted:
+  - "Table 4: ITT effect sizes and SEs for Models 1-3 on mathematics, mental arithmetic, reading and science; the text layer separates the numbers from their rows and columns, so none is recorded."
+  - "Mathematics estimate excluding the seven schools that replaced a maths lesson: -0.03 (95% CI -0.18 to +0.13)."
+  - "Subgroup point estimates for boys (-0.03, 95% CI -0.18 to +0.12) and girls (+0.03, p = 0.76)."
+  - "Quantile regression: at each decile the effect is below 0.05 SD in magnitude and never significant at the 10 percent level (a bound, stated as a magnitude)."
+  - "Simulation of false-positive rates by sample size (Figures 2 and 3)."
+  - "Process-evaluation figures: 92 percent of pupils liked the chess lessons; about 40 percent playing up to three games a month seven months later."
+  - "Tables 2a, 2b, 3a, 3b (sample representativeness and baseline balance)."

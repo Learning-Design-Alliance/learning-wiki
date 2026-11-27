@@ -5,15 +5,15 @@ description: ASQ scores are poor predictors of causal attributions for actual ne
 id: asq-poor-predictor-actual-attributions
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-23
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 1985
-recheck_by: 1988
+newest_evidence: 1984
+recheck_by: 1987
 sources:
-  - id: cutrona-1985
+  - id: cutrona-1984
     resource: "https://doi.org/10.1037/0022-3514.47.5.1043"
-    title: "Cutrona, C. E., Russell, D., & Jones, R. D. (1985). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043"
+    title: "Cutrona, C. E., Russell, D., & Jones, R. D. (1984). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043"
     author: "Cutrona, C. E., Russell, D., & Jones, R. D."
     q: 3
     i: 1
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
-> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1988**: tool and model accuracy changes quickly
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1987**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q3 i1` Correlations between ASQ scores and attributions for real negative events averaged r(83) = .190, with only two of five composite-score correlations significant. [→ Cutrona 1985](#cutrona-1985)
+`q3 i1` Correlations between ASQ scores and attributions for real negative events averaged r(83) = .190, with only two of five composite-score correlations significant. [→ Cutrona 1984](#cutrona-1984)
 
 ## Evidence
 
-### Cutrona 1985
+### Cutrona 1984
 
-Cutrona, C. E., Russell, D., & Jones, R. D. (1985). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043
+Cutrona, C. E., Russell, D., & Jones, R. D. (1984). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043
 
 `q3 · i1` · `associational · r1`
 

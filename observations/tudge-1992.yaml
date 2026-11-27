@@ -1,0 +1,549 @@
+# Tudge (1992): processes and consequences of peer collaboration on the
+# balance-beam task, children aged 5 to 9.
+#
+# Read from the JSTOR copy (text layer and page images). The text layer of
+# this two-column article interleaves the columns, so most source_quote
+# values below were taken from the PAGE IMAGES (pp. 1364, 1368-1371,
+# 1373-1374) in the article's own words, not from the text layer. Short
+# fragments of each were checked against the text layer where it ran clean.
+#
+# Units of analysis: for the condition analyses ONE member of each pair was
+# retained at random, so means are over independent children; the dyadic
+# outcome analyses (Table 2, Fisher's exact tests) count DYADS. The two are
+# different units and are kept apart below.
+#
+# Assignment: the article says same-rule children were randomly assigned to
+# condition within constraints (same gender and class, no more than two rules
+# apart). Which partner was "more" or "less" competent follows from the
+# pretest rules, not from assignment, so no stronger design is recorded.
+
+schema_version: 2
+
+study:
+  key: tudge-1992
+  citation: "Tudge, J. R. H. (1992). Processes and consequences of peer collaboration: A Vygotskian analysis. Child Development, 63(6), 1364-1379."
+  doi: "10.2307/1131562"
+  design:
+    family: other
+    design_detail: >-
+      Pretest, one paired (or individual) treatment session, and two
+      individual posttests on a mathematical balance-beam prediction task
+      scored by Siegler-type rules. Three treatment conditions: no partner,
+      a partner who used the same rule at pretest, or a partner who used a
+      different rule (analysed as less and more competent members). Pairs
+      disagreeing on a prediction were asked to discuss and reach agreement;
+      no feedback was given. Same-rule children were randomly assigned to
+      condition within constraints; partner competence follows from the
+      pretest rules.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: peer-collaboration-less-improve-more-decline
+    bearing: supports
+    anchor: tudge-1992
+  - claim: peer-collaboration-less-improve-more-decline
+    bearing: supports
+    anchor: tudge-1992-2
+  - claim: high-consistent-low-inconsistent-dyads-success
+    bearing: supports
+    anchor: tudge-1992
+
+evidence_base:
+  unit: participants
+  size:
+    value: 153
+    unit: participants
+  additional_sizes:
+    - value: 162
+      unit: participants
+      note: "children pretested; nine who used Rule 0 were dropped"
+    - value: 93
+      unit: participants
+      note: "children in the condition analyses (one member per pair retained), with the second posttest"
+  population:
+    description: >-
+      Children from an open-enrollment public elementary school in Ithaca,
+      New York, a mix of social classes and race: 51 in kindergarten, 55 in
+      mixed first- and second-grade classes and 47 in mixed third- and
+      fourth-grade classes.
+    age_or_stage: "Kindergarten to Grade 4; analysed in three age groups (5-year-olds, 6-7-year-olds, 8-9-year-olds)"
+    age:
+      unit: years
+      min: 5
+      max: 9
+      note: >-
+        The abstract's "aged from 5 to 9". The Method also prints grade-group
+        ages in months: kindergarten M = 66.6, SD = 3.9, range 60-72;
+        first/second grade M = 82.9, SD = 8.7, range 72-100; third/fourth
+        grade M = 112.0, SD = 8.8, range 99-134. The upper bound of 134 months
+        is above 9 years; both are recorded as printed.
+  context:
+    setting: "Individual and paired sessions with an experimenter in school; balance beam with eight sticks (treatment: beakers and plastic figures), 14 problem configurations per session"
+  arms:
+    - id: no-partner
+      description: "Control: children worked alone and were always tested individually."
+      size:
+        value: 41
+        unit: participants
+    - id: equal-rule
+      description: "Each child paired with a child who had used the same rule at pretest; for the condition analyses one member of each pair was dropped at random."
+      size:
+        value: 38
+        unit: participants
+    - id: unequal-rule
+      description: "Each child paired with a child who had used a different rule at pretest (no more than two rules apart)."
+      size:
+        value: 74
+        unit: participants
+    - id: less-competent-partner
+      description: "Less competent members of unequal-rule pairs, one member per pair retained at random."
+      size:
+        value: 19
+        unit: participants
+    - id: more-competent-partner
+      description: "More competent members of unequal-rule pairs, one member per pair retained at random."
+      size:
+        value: 18
+        unit: participants
+    - id: high-consistent-low-inconsistent
+      description: "Unequal-rule dyads whose more competent member used a consistent rule and less competent member an inconsistent one (two Rule 4-Rule 3 and four Rule 2-Rule 1 dyads)."
+      size:
+        value: 6
+        unit: pairs
+    - id: other-unequal-dyads
+      description: "The remaining unequal-rule dyad types: high inconsistent-low consistent, different rules both inconsistent, different rules both consistent; the one dyad in which both partners kept their pretest rules was dropped."
+  variation:
+    - dimension: "Pretest rule"
+      distribution: "Rule 1: 11 children; Rule 2: 52; Rule 3: 24; Rule 4: 35 (read from the page image); Rule 5: 31; Rule 6: none"
+
+comparisons:
+  - id: equal-vs-unequal
+    kind: between-groups
+    index_arm: equal-rule
+    reference_arm: unequal-rule
+    description: "Equal-rule dyads against unequal-rule dyads on dyadic outcomes (Fisher's exact tests, dyads as the unit)."
+  - id: hcli-vs-other-unequal
+    kind: between-groups
+    index_arm: high-consistent-low-inconsistent
+    reference_arm: other-unequal-dyads
+    description: "High consistent-low inconsistent dyads against the remaining unequal-rule dyads on improvement versus decline."
+  - id: reliability-of-rule-coding
+    kind: none
+    description: "Agreement between the experimenter and a second, blind coder on which rule each child used."
+
+observations:
+
+  - id: equal-dyads-with-regression
+    sample:
+      value: 19
+      unit: pairs
+    arm_ref: equal-rule
+    outcome:
+      construct: "Regression in rule use"
+      source_language: "When regression occurred"
+      measure: "Dyads in which one or both members used a lower rule at the second posttest than at pretest"
+      scale: "number of dyads"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest, a minimum of 4 weeks after the first posttest"
+    result:
+      measure_type: count
+      estimate: 7
+      unit: "equal-rule dyads"
+      descriptives: "In four of the seven, both members declined (Table 2: one both-down dyad among consistent-rule pairs, four among inconsistent-rule pairs; one dyad of each with one member down)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "When regression occurred, it was more likely for both members of equal rule dyads to decline (four of seven dyads) than was the case for members of unequal rule dyads (one of 14 dyads), where the less competent child tended to retain the same rule and the more competent partner tended to move down (Fisher's Exact Test, N = 21, p < .001)."
+    source_location: "Results, p. 1373; Table 2, p. 1374"
+
+  - id: equal-dyads-with-improvement
+    sample:
+      value: 19
+      unit: pairs
+    arm_ref: equal-rule
+    outcome:
+      construct: "Improvement in rule use"
+      source_language: "improvement"
+      measure: "Dyads in which members used a higher rule at the second posttest than at pretest"
+      scale: "number of dyads"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest, a minimum of 4 weeks after the first posttest"
+    result:
+      measure_type: count
+      estimate: 3
+      unit: "equal-rule dyads"
+      descriptives: "In all three, both members improved (Table 2 'Both Up': 2 consistent-rule and 1 inconsistent-rule dyad)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The same was true of improvement—when this occurred in equal rule dyads it was true of both members (in all three cases), whereas in unequal rule dyads the more competent member typically (17 of 20 cases) retained his or her pretest rule, while the less competent child improved (Fisher's Exact Test, N = 23, p < .02)."
+    source_location: "Results, p. 1373"
+
+  - id: both-members-decline-equal-vs-unequal
+    sample:
+      value: 21
+      unit: pairs
+    comparison_ref: equal-vs-unequal
+    outcome:
+      construct: "Both partners declining, among dyads where regression occurred"
+      source_language: "it was more likely for both members of equal rule dyads to decline"
+      measure: "Dyads with regression in which both members declined"
+      scale: "dyads"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest"
+    result:
+      measure_type: other
+      statistic: "Fisher's Exact Test, N = 21"
+      p_value: "< .001"
+      descriptives: "Equal-rule: four of seven dyads; unequal-rule: one of 14 dyads."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "When regression occurred, it was more likely for both members of equal rule dyads to decline (four of seven dyads) than was the case for members of unequal rule dyads (one of 14 dyads), where the less competent child tended to retain the same rule and the more competent partner tended to move down (Fisher's Exact Test, N = 21, p < .001)."
+    source_location: "Results, p. 1373"
+
+  - id: retain-rule-equal-vs-unequal
+    sample:
+      value: 54
+      unit: pairs
+    comparison_ref: equal-vs-unequal
+    outcome:
+      construct: "Retaining the pretest rule rather than changing"
+      source_language: "retain the same rule than change"
+      measure: "Dyads in which partners kept their pretest rules at the second posttest"
+      scale: "dyads"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest"
+    result:
+      measure_type: other
+      statistic: "Fisher's Exact Test, N = 54, two-tailed"
+      p_value: "< .0001"
+      descriptives: "Equal-rule: nine of 19 dyads retained; unequal-rule: one of 35."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "These analyses (all of which were two-tailed) revealed that equal rule dyads were significantly more likely than unequal rule dyads to retain the same rule than change (nine of 19 and one of 35, respectively, Fisher's Exact Test, N = 54, p < .0001)."
+    source_location: "Results, p. 1373"
+
+  - id: direction-of-change-equal-vs-unequal
+    sample:
+      value: 44
+      unit: pairs
+    comparison_ref: equal-vs-unequal
+    outcome:
+      construct: "Direction of rule change (up or down), among dyads that changed"
+      source_language: "the direction of change"
+      measure: "Whether rule change in a dyad was to a higher or a lower rule"
+      scale: "dyads"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest"
+    result:
+      measure_type: other
+      statistic: "Fisher's Exact Test, N = 44, two-tailed"
+      p_value: "> .15"
+      interpretation: "No significant difference in direction between equal- and unequal-rule dyads."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "However, among equal and unequal rule dyads in which rule change occurred, the direction of change did not differ significantly (Fisher's Exact Test, N = 44, p > .15)."
+    source_location: "Results, p. 1373"
+
+  - id: hcli-dyads-improvement
+    sample:
+      value: 34
+      unit: pairs
+    comparison_ref: hcli-vs-other-unequal
+    outcome:
+      construct: "Improvement versus decline in unequal-rule dyads"
+      source_language: "significantly more likely to feature improvement"
+      measure: "Dyadic outcome at the second posttest: improvement or decline"
+      scale: "dyads"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest"
+    result:
+      measure_type: other
+      statistic: "Fisher's Exact Test, N = 34"
+      p_value: "< .05"
+      descriptives: "High consistent-low inconsistent: in five of six dyads the less competent child improved while the more competent kept the pretest rule, and in the sixth both improved. Other unequal dyads: half featured decline and half improvement."
+    moderators:
+      reported:
+        - variable: "Consistency of the partners' pretest rules"
+          relationship: "Only dyads pairing a more competent consistent-rule child with a less competent inconsistent-rule child improved without the higher partner regressing."
+          source_quote: "Thus only the collaboration between high consistent–low inconsistent partners was an unqualified success, in that the lower (less competent) partners all improved, whereas no higher (more competent) partners regressed."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As can be seen in Table 2, these dyads were significantly more likely to feature improvement (in five of the six cases the less competent child improved while the more competent child retained the pretest rule, and in the sixth case both partners improved) than all other dyads, half of which featured decline and half improvement, with the one dyad in which the partners retained their pretest rules dropped from this analysis (Fisher's Exact Test, N = 34, p < .05)."
+    source_location: "Results, p. 1373; Table 2, p. 1374"
+
+  - id: change-less-competent
+    sample:
+      value: 19
+      unit: participants
+    arm_ref: less-competent-partner
+    outcome:
+      construct: "Change in rule use"
+      source_language: "second posttest-pretest gains (or losses)"
+      measure: "Rule used at the second posttest minus rule used at pretest"
+      scale: "rule levels"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to second posttest"
+      offset:
+        value: 4
+        unit: weeks
+        from: "first posttest (a minimum; M = 32.65 days, SD = 4.12, range 28-47)"
+    result:
+      measure_type: mean
+      estimate: 0.68
+      sd: 0.89
+      unit: "rule levels, second posttest minus pretest"
+      statistic: "two-tailed t test for dependent samples against zero, t(18) = 3.37"
+      p_value: "< .005"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "These analyses revealed that the group of less competent children was the only group that improved significantly from pretest score (M = 0.68, SD = 0.89, t(18) = 3.37, p < .005)."
+    source_location: "Results, p. 1371"
+
+  - id: change-more-competent
+    sample:
+      value: 17
+      unit: participants
+    arm_ref: more-competent-partner
+    outcome:
+      construct: "Change in rule use"
+      source_language: "second posttest-pretest gains (or losses)"
+      measure: "Rule used at the second posttest minus rule used at pretest"
+      scale: "rule levels"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to second posttest"
+    result:
+      measure_type: mean
+      estimate: -0.65
+      sd: 1.06
+      unit: "rule levels, second posttest minus pretest"
+      statistic: "two-tailed t test for dependent samples against zero, t(16) = -2.52"
+      p_value: "< .03"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The group of more competent children was the only group to decline significantly (M = -0.65, SD = 1.06, t(16) = -2.52, p < .03)."
+    source_location: "Results, p. 1371"
+
+  - id: change-equal-rule
+    sample:
+      value: 19
+      unit: participants
+    arm_ref: equal-rule
+    outcome:
+      construct: "Change in rule use"
+      source_language: "second posttest-pretest gains (or losses)"
+      measure: "Rule used at the second posttest minus rule used at pretest, one member per equal-rule pair"
+      scale: "rule levels"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to second posttest"
+    result:
+      measure_type: mean
+      estimate: -0.37
+      sd: 0.83
+      unit: "rule levels, second posttest minus pretest"
+      statistic: "two-tailed t test for dependent samples against zero, t(18) = -1.93"
+      p_value: "< .07"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Children in the equal rule group declined, but not significantly (M = -0.37, SD = 0.83, t(18) = -1.93, p < .07), and the nonpaired children on average used the same rule (M = 0, SD = 0.90)."
+    source_location: "Results, p. 1371"
+
+  - id: change-no-partner
+    sample:
+      value: 38
+      unit: participants
+    arm_ref: no-partner
+    outcome:
+      construct: "Change in rule use"
+      source_language: "second posttest-pretest gains (or losses)"
+      measure: "Rule used at the second posttest minus rule used at pretest"
+      scale: "rule levels"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest to second posttest"
+    result:
+      measure_type: mean
+      estimate: 0
+      sd: 0.90
+      unit: "rule levels, second posttest minus pretest"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The sample of 38 is Table 1's N for the nonpaired group at the second
+      posttest (three more completed all but that posttest); the text prints
+      no n or t beside this mean.
+    source_quote: "Children in the equal rule group declined, but not significantly (M = -0.37, SD = 0.83, t(18) = -1.93, p < .07), and the nonpaired children on average used the same rule (M = 0, SD = 0.90)."
+    source_location: "Results, p. 1371; Table 1, p. 1370"
+
+  - id: rule-coding-agreement-pretest
+    comparison_ref: reliability-of-rule-coding
+    outcome:
+      construct: "Inter-rater agreement on rule assignment"
+      source_language: "Interrater reliability of assignment to rule"
+      measure: "Experimenter and a second coder (blind to hypotheses and treatment) independently assigning each child's rule from the pattern of predictions and justifications on 14 configurations"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest"
+    result:
+      measure_type: reliability
+      estimate: 89.9
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "across all rules"
+      note: "Disagreements were rescored blind by both coders and discussed until resolved."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Interrater reliability of assignment to rule was 89.9% for the pretest (across all rules), 94.8% for the treatment, 96.3% for the first posttest, and 94.8% for the second posttest."
+    source_location: "Method, Procedure, p. 1369"
+
+  - id: rule-coding-agreement-second-posttest
+    comparison_ref: reliability-of-rule-coding
+    outcome:
+      construct: "Inter-rater agreement on rule assignment"
+      source_language: "Interrater reliability of assignment to rule"
+      measure: "Experimenter and a second coder (blind to hypotheses and treatment) independently assigning each child's rule from the pattern of predictions and justifications on 14 configurations"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "second posttest"
+    result:
+      measure_type: reliability
+      estimate: 94.8
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Interrater reliability of assignment to rule was 89.9% for the pretest (across all rules), 94.8% for the treatment, 96.3% for the first posttest, and 94.8% for the second posttest."
+    source_location: "Method, Procedure, p. 1369"
+
+not_yet_extracted:
+  - "Rule-coding agreement at the treatment session (94.8%) and first posttest (96.3%); 97.7% for consistent rules and 88.7% for inconsistent rules overall, lowest 76.7% for Rule 1 (p. 1369)."
+  - "Agreement on level of justification (92%), reasoning exposed to (91.9%) and reasoning adopted (88.2%) (p. 1369)."
+  - "Table 1: mean rule use (SD) at pretest, treatment and both posttests per condition (p. 1370)."
+  - "ANCOVA of second posttest-pretest differences: condition F(3, 85) = 4.63, p < .005; time x condition MANOVA Wilks's lambda F(9, 204) = 4.03, p < .0001 (p. 1370)."
+  - "Re-analysis excluding Rule 1 and Rule 5 children, and the first-posttest decline of more competent partners (p. 1371)."
+  - "Gender and age-group effects on change (pp. 1371-1372)."
+  - "Reasoning accepted x condition ANCOVA and the acceptor / nonacceptor means (p. 1374)."
+  - "Table 2 counts by row and its percentages; the 'High C-low Inc' improvement cell is printed as 5 (83.5)."

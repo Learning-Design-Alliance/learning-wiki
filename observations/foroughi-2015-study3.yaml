@@ -1,0 +1,334 @@
+# Foroughi, Werner, Barragán & Boehm-Davis (2015), Experiment 3: a 15-second
+# time-out before each interruption removes the comprehension cost.
+#
+# Read from the authors' manuscript version (text layer), not the copy of
+# record; page numbers are the manuscript's. Each of the three experiments has
+# its own 24 participants, so each is its own file
+# (foroughi-2015-study1/-study2/-study3). The article does not say whether
+# the same students took part in more than one experiment.
+#
+# Design family `other`: a within-subjects laboratory experiment, conditions
+# counterbalanced across passages, which the vocabulary has no value for.
+# The article does not call the counterbalancing random assignment, so no
+# randomised design is inferred. The ds are printed beside paired t tests;
+# the article does not say how they were computed.
+#
+# No reliability figure is printed for any measure (number of correct
+# responses). Age: each experiment prints a mean and SD.
+
+schema_version: 2
+study:
+  key: foroughi-2015-study3
+  citation: 'Foroughi, C. K., Werner, N. E., Barragán, D., & Boehm-Davis, D. A. (2015). Interruptions
+    disrupt reading comprehension. Journal of Experimental Psychology: General, 144(3), 704-709. Experiment
+    3.'
+  doi: 10.1037/xge0000074
+  design:
+    family: other
+    design_detail: 'Within-subjects laboratory experiment, 2 x 3 (question type: comprehension, recognition
+      x interruption: none, interruption, interruption with a 15-second time-out), six conditions, passage
+      locations and interruptions distributed evenly across participants as in Experiment 2. Repeated-measures
+      ANOVA with Greenhouse-Geisser correction and Bonferroni-corrected simple main effects.'
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+appears_in:
+- claim: interruptions-disrupt-reading-comprehension
+  bearing: supports
+  anchor: foroughi-2015
+- claim: interruptions-disrupt-comprehension-not-recognition
+  bearing: supports
+  anchor: foroughi-2015
+- claim: time-out-before-interruption-prevents-comprehension-disruption
+  bearing: supports
+  anchor: foroughi-2015
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  population:
+    description: Twenty-four George Mason University students participating for course credit (15 female,
+      9 male), fluent in English and with English as their first language. Sample size set a priori at
+      24.
+    age_or_stage: Undergraduates
+    age:
+      unit: years
+      mean: 21.1
+      sd: 2.8
+  context:
+    setting: Laboratory, computer-presented reading and interruption tasks; no time limits for reading
+      or answering
+    materials: Four SAT reading passages and questions from The College Board, approximately equal in
+      word count and Flesch-Kincaid grade level, four paragraphs each
+  arms:
+  - id: interruption
+    description: 'Interruption: after each paragraph, pressing the space bar brought up a 15-second interruption
+      task (a series of math problems) that occluded the passage; the next paragraph appeared when it
+      ended.'
+    elements:
+    - term: interruption by an unrelated task between paragraphs
+  - id: no-interruption
+    description: 'No interruption: pressing the space bar after each paragraph displayed the next paragraph.'
+  - id: interruption-with-time-out
+    description: 'Interruption with a time-out: after each paragraph the screen went blank for 15 seconds,
+      followed by the interruption task, before the next paragraph.'
+    elements:
+    - term: 15-second time-out before an interruption
+    - term: interruption by an unrelated task between paragraphs
+comparisons:
+- id: interruption-vs-none
+  kind: other
+  index_arm: interruption
+  reference_arm: no-interruption
+  description: 'Within-participant contrast on comprehension questions: interrupted against uninterrupted.'
+- id: interruption-vs-time-out
+  kind: other
+  index_arm: interruption
+  reference_arm: interruption-with-time-out
+  description: 'Within-participant contrast on comprehension questions: interruption without a time-out
+    against interruption preceded by a 15-second time-out.'
+- id: time-out-vs-none
+  kind: other
+  index_arm: interruption-with-time-out
+  reference_arm: no-interruption
+  description: 'Within-participant contrast on comprehension questions: interruption preceded by a time-out
+    against no interruption.'
+observations:
+- id: comprehension-interruption-vs-none
+  sample:
+    value: 24
+    unit: participants
+  comparison_ref: interruption-vs-none
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: questions answered after reading each passage, no time limit
+  result:
+    measure_type: cohens_d
+    estimate: 1.51
+    statistic: t(23) = 7.42
+    p_value: < .001
+    descriptives: interruption M = 4.54 (SD 1.47, 95% CI [3.92, 5.16]) vs no interruption M = 5.63 (SD
+      1.61, 95% CI [4.95, 6.30])
+    note: The source does not say how d was computed for the within-subjects design.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: Tests of simple main effects using a Bonferroni correction (α = .05) within the comprehension
+    questions revealed significantly poorer performance in the interruption condition (M = 4.54, SD =
+    1.47, 95% CI [3.92, 5.16]) compared to the no interruption condition ((M = 5.63, SD = 1.61, 95% CI
+    [4.95, 6.30]), t(23) = 7.42, p < .001, d = 1.51) and the interruption with a time-out condition ((M
+    = 5.58, SD = 1.38, 95% CI [5.00, 6.17]), t(23) = 6.81, p < .001, d = 1.39).
+  source_location: Experiment 3, Results (manuscript p. 13)
+- id: comprehension-interruption-vs-time-out
+  sample:
+    value: 24
+    unit: participants
+  comparison_ref: interruption-vs-time-out
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: cohens_d
+    estimate: 1.39
+    statistic: t(23) = 6.81
+    p_value: < .001
+    descriptives: interruption M = 4.54 (SD 1.47) vs interruption with a time-out M = 5.58 (SD 1.38, 95%
+      CI [5.00, 6.17])
+    note: The source does not say how d was computed for the within-subjects design.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: Tests of simple main effects using a Bonferroni correction (α = .05) within the comprehension
+    questions revealed significantly poorer performance in the interruption condition (M = 4.54, SD =
+    1.47, 95% CI [3.92, 5.16]) compared to the no interruption condition ((M = 5.63, SD = 1.61, 95% CI
+    [4.95, 6.30]), t(23) = 7.42, p < .001, d = 1.51) and the interruption with a time-out condition ((M
+    = 5.58, SD = 1.38, 95% CI [5.00, 6.17]), t(23) = 6.81, p < .001, d = 1.39).
+  source_location: Experiment 3, Results (manuscript p. 13)
+- id: comprehension-time-out-vs-none
+  sample:
+    value: 24
+    unit: participants
+  comparison_ref: time-out-vs-none
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean_difference
+    p_value: '> .249'
+    note: 'No difference between the time-out condition and no interruption on comprehension questions.
+      Means: time-out 5.58 (SD 1.38), no interruption 5.63 (SD 1.61).'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  observability_notes: '''No other differences'' after the two significant contrasts leaves this as the
+    remaining comprehension pairwise contrast, with p > .249; no difference, test statistic or effect
+    size is printed for it. Recognition questions showed no differences at all (p > .249); their means
+    are printed only in Figure 3.'
+  source_quote: No other differences existed within the reading comprehension questions (p > .249) and
+    no differences existed at all within the recognition questions (p > .249).
+  source_location: Experiment 3, Results (manuscript p. 13)
+- id: mean-comprehension-interruption
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: interruption
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 4.54
+    sd: 1.47
+    ci_lower: 3.92
+    ci_upper: 5.16
+    interval_type: confidence
+    unit: correct responses in the condition
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Tests of simple main effects using a Bonferroni correction (α = .05) within the comprehension
+    questions revealed significantly poorer performance in the interruption condition (M = 4.54, SD =
+    1.47, 95% CI [3.92, 5.16]) compared to the no interruption condition ((M = 5.63, SD = 1.61, 95% CI
+    [4.95, 6.30]), t(23) = 7.42, p < .001, d = 1.51) and the interruption with a time-out condition ((M
+    = 5.58, SD = 1.38, 95% CI [5.00, 6.17]), t(23) = 6.81, p < .001, d = 1.39).
+  source_location: Experiment 3, Results (manuscript p. 13)
+- id: mean-comprehension-no-interruption
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: no-interruption
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 5.63
+    sd: 1.61
+    ci_lower: 4.95
+    ci_upper: 6.3
+    interval_type: confidence
+    unit: correct responses in the condition
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Tests of simple main effects using a Bonferroni correction (α = .05) within the comprehension
+    questions revealed significantly poorer performance in the interruption condition (M = 4.54, SD =
+    1.47, 95% CI [3.92, 5.16]) compared to the no interruption condition ((M = 5.63, SD = 1.61, 95% CI
+    [4.95, 6.30]), t(23) = 7.42, p < .001, d = 1.51) and the interruption with a time-out condition ((M
+    = 5.58, SD = 1.38, 95% CI [5.00, 6.17]), t(23) = 6.81, p < .001, d = 1.39).
+  source_location: Experiment 3, Results (manuscript p. 13)
+- id: mean-comprehension-time-out
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: interruption-with-time-out
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 5.58
+    sd: 1.38
+    ci_lower: 5.0
+    ci_upper: 6.17
+    interval_type: confidence
+    unit: correct responses in the condition
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Tests of simple main effects using a Bonferroni correction (α = .05) within the comprehension
+    questions revealed significantly poorer performance in the interruption condition (M = 4.54, SD =
+    1.47, 95% CI [3.92, 5.16]) compared to the no interruption condition ((M = 5.63, SD = 1.61, 95% CI
+    [4.95, 6.30]), t(23) = 7.42, p < .001, d = 1.51) and the interruption with a time-out condition ((M
+    = 5.58, SD = 1.38, 95% CI [5.00, 6.17]), t(23) = 6.81, p < .001, d = 1.39).
+  source_location: Experiment 3, Results (manuscript p. 13)
+not_yet_extracted:
+- Recognition-question means for the three conditions, shown only in Figure 3 (not in the text layer).
+- 'ANOVA terms: interruption F(2,46) = 21.57, partial eta squared .48; question type F(1,23) = 60.06,
+  .81; interaction F(2,46) = 18.47, .45 (Greenhouse-Geisser corrected).'
+- Interruption-task accuracy (86% of math questions correct, SD 7.9).

@@ -1,0 +1,191 @@
+# Delaney, Reder, Staszewski & Ritter (1998), the expert-calculator
+# reanalysis: one participant (G.G.) who practised mental multiplication for
+# more than 600 sessions (Staszewski's 1988 data) and was taught a new strategy
+# for two-digit-multiplier problems from Session 501.
+#
+# The article's first analysis, the feeling-of-knowing experiments, is a
+# different sample and is delaney-1998-study1.
+#
+# Read from a text layer of the published article. Table 5's two columns came
+# out in order and are legible, but only the prose summary of it is recorded
+# here. Figure 3 is plotted only: the authors say the first points after the new
+# strategy lie above the old strategy's line and print no size for it.
+#
+# The article prints no age for G.G. and no reliability figure.
+
+schema_version: 2
+
+study:
+  key: delaney-1998-study2
+  citation: "Delaney, P. F., Reder, L. M., Staszewski, J. J., & Ritter, F. E. (1998). The strategy-specific nature of improvement: The power law applies by strategy within task. Psychological Science, 9(1), 1-7."
+  doi: "10.1111/1467-9280.00001"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Single-subject secondary reanalysis of Staszewski's (1988) practice data.
+      Phase 1 (Sessions 1-500): randomly generated problems from nine
+      problem-size categories (1 x 1 to 2 x 5 digits), presented orally or
+      visually, solved with the left-to-right strategy of expert mental
+      calculators. Phase 2 (from Session 501): problems from the last 100
+      Phase 1 sessions repeated in order, with a new, taught strategy for the
+      two-digit-multiplier problems only; strategy use monitored by concurrent
+      and retrospective verbal reports. Power functions with an empirically
+      determined asymptote were fitted per category and presentation mode to
+      medians of correct solution times over five sessions, once over the
+      whole task and once split by strategy phase, and the two estimates
+      compared by stepwise regression. The 1 x n problems, which the new
+      strategy did not touch, serve as the within-subject comparison.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: expert-calculator-strategy-split-fits
+    bearing: supports
+    anchor: delaney-1998
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1
+    unit: participants
+  additional_sizes:
+    - value: 18
+      unit: other
+      note: "problem-size by presentation-mode conditions fitted separately (nine sizes, oral and visual)"
+  population:
+    description: >-
+      A single participant, G.G., from Staszewski's (1988) study of mental
+      multiplication practice, whose participants the article describes as
+      ordinary undergraduates who reached the level of established mental
+      multiplication experts.
+    age_or_stage: "Not printed."
+    age: unreported
+  context:
+    setting: "Laboratory mental-multiplication practice without external memory aids, over more than 600 sessions"
+  arms:
+    - id: old-strategy-phase
+      description: "Sessions 1-500: the general left-to-right expert strategy on all problem sizes."
+    - id: new-strategy-phase
+      description: "From Session 501: a taught strategy for two-digit-multiplier (2 x n) problems that reduces memory load."
+
+comparisons:
+  - id: new-vs-old-strategy
+    kind: other
+    index_arm: new-strategy-phase
+    reference_arm: old-strategy-phase
+    description: "Solution times after the new strategy was introduced against the power-function line of the old strategy, within one participant; for the multiple-strategy fits, the 1 x n problems the new strategy did not apply to are the within-subject contrast."
+
+observations:
+
+  - id: new-strategy-first-uses-slower
+    comparison_ref: new-vs-old-strategy
+    outcome:
+      construct: "Solution time on first uses of a new strategy"
+      source_language: "the first few points after the new strategy is introduced are above the regression line for the older strategy"
+      measure: "Median correct solution time per 15-session block, 2 x 5 visual problems (Figure 3a)"
+      scale: "solution time against the old strategy's fitted power function"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first sessions after Session 501"
+    result:
+      measure_type: other
+      interpretation: >-
+        The first points after the new strategy was introduced lie above the
+        older strategy's regression line, which the authors attribute to a new
+        strategy taking longer to use than a practised one. No size is
+        printed; the figure is a plot only.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "One is that the first few points after the new strategy is introduced are above the regression line for the older strategy. This is because when people first learn a new strategy, it often takes longer to use it than a more practiced strategy."
+    source_location: "Comparison of Performance by Problem Condition; Figure 3"
+
+  - id: multiple-strategy-estimate-incremental-variance
+    comparison_ref: new-vs-old-strategy
+    outcome:
+      construct: "Fit of strategy-split power functions to solution time"
+      source_language: "the multiple-strategy estimate always accounted for a significant amount of incremental variance"
+      measure: "Forced-entry stepwise regression of median correct solution time: the regular power-function estimate first, then the multiple-strategy estimate"
+      scale: "incremental R2 (Table 5, column b)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole practice record, more than 600 sessions"
+    result:
+      measure_type: other
+      interpretation: >-
+        For every 2 x n condition (where the new strategy applied), the
+        multiple-strategy estimate added significant variance after the
+        regular power function was forced in; for most 1 x n conditions it
+        did not. In free-entry analyses the multiple-strategy estimate entered
+        first in every condition, and the regular estimate added variance only
+        for 2 x 5 oral (0.5%).
+    moderators:
+      reported: []
+      candidate:
+        - "Other small endogenous strategy shifts on subproblems, which the authors offer for the small increments in some 1 x n conditions."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The per-condition incremental R2 values are in Table 5 and are not recorded here."
+    source_quote: "In analyses that forced the regular power function estimate into the model first, the multiple-strategy estimate always accounted for a significant amount of incremental variance for the conditions in which the new strategy applied (column 2)."
+    source_location: "Comparison of Performance by Problem Condition; Table 5"
+
+  - id: error-rate-after-criterion
+    arm_ref:
+      - old-strategy-phase
+      - new-strategy-phase
+    outcome:
+      construct: "Accuracy during practice"
+      source_language: "average error rate"
+      measure: "Percentage of problems answered incorrectly"
+      scale: "percent of problems"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over the remainder of training, after the 20 sessions taken to reach the 10% criterion"
+    result:
+      measure_type: mean
+      estimate: 5.2
+      unit: "percent error rate"
+      interpretation: >-
+        Accuracy was emphasised whenever the aggregate error rate exceeded
+        10%; G.G. took 20 sessions to meet that criterion and never exceeded
+        it again.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      "The remainder of his training" is not split by phase, so the mean is
+      attached to both phase arms; whether the Phase 2 sessions are included
+      is not stated. No SD is printed.
+    source_quote: "He took 20 sessions to achieve this criterion, which he never again exceeded, maintaining an average error rate of 5.2% over the remainder of his training."
+    source_location: "Experiment With an Expert Mental Calculator, Method"
+
+not_yet_extracted:
+  - "Table 5, free-entry R2 and forced-entry incremental R2 for each of the 18 problem-size by presentation-mode conditions."
+  - "Figure 3, solution times by 15-session block for 1 x 5 and 2 x 5 visual problems: plotted only."

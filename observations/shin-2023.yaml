@@ -1,0 +1,536 @@
+# Shin (2023): co-evolution of friend and help networks in Korean Grade 5-6
+# classrooms, with behavioral and emotional academic engagement.
+#
+# Read from the publisher's open-access full text (text layer). Network
+# densities come from Table 2; model parameters from the Results text, with
+# intervals from Table 3.
+#
+# The model parameters are the paper's own published estimates from a
+# multilevel Bayesian stochastic actor-oriented model (SAOM). They are on the
+# SAOM objective-function scale and are not effect sizes in the d or r sense.
+# The text's "SD" beside each estimate is the posterior standard deviation
+# (Table 3 column "psd"); it is kept in `statistic`, not written as a
+# standard error. Table 3 labels its intervals "95% CI"; the estimates are
+# Bayesian posteriors, so the interval type is recorded as `other`, not
+# guessed as credible or confidence.
+#
+# Table 3 is ambiguous in one place: its two column groups are headed
+# "Friends" and "Helpers", yet the "Friend network structural effects" and
+# "Help network structural effects" blocks each carry a value in both groups.
+# Only structural values the Results text itself names are recorded, and the
+# second-column structural values are left in not_yet_extracted.
+
+schema_version: 2
+
+study:
+  key: shin-2023
+  citation: "Shin, H. (2023). The co-evolution of friend and help relationships and their different relationship formation and social influence. Scientific Reports, 13, 15974."
+  doi: "10.1038/s41598-023-43346-w"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Two-wave panel over one school semester (August and December). Peer
+      nominations of friends and helpers within classrooms and self-reported
+      behavioral and emotional academic engagement, analysed with a multilevel
+      random-coefficients SAOM (Bayesian estimation) of the multiplex friend
+      and help networks. No intervention.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: friend-help-network-structural-differences
+    bearing: supports
+    anchor: shin-2023
+  - claim: engaged-adolescents-nominated-helpers-not-friends
+    bearing: supports
+    anchor: shin-2023
+  - claim: engaged-adolescents-nominated-helpers-not-friends
+    bearing: supports
+    anchor: shin-2023-2
+  - claim: help-friendship-coevolution-multiplex
+    bearing: supports
+    anchor: shin-2023
+
+evidence_base:
+  unit: participants
+  size:
+    value: 542
+    unit: participants
+  additional_sizes:
+    - value: 514
+      unit: participants
+      note: "students at Wave 2"
+    - value: 20
+      unit: classes
+      note: "classrooms analysed, from 26 in four schools; three did not take part in Wave 2 and three were excluded for model fit below the customary value"
+    - value: 4
+      unit: schools
+      note: "public elementary schools in urban areas of one district in South Korea"
+  population:
+    description: >-
+      Fifth- and sixth-grade students in four urban public elementary schools
+      in one South Korean district serving a sizable proportion of
+      middle-income families; about half female (52%), more than 99% South
+      Korean. Participation 97%, attrition 2.2% from Wave 1 to 2.
+    age_or_stage: "Grades 5 and 6 (early adolescence)"
+    age:
+      unit: years
+      mean: 11.46
+  context:
+    setting: "Self-contained classrooms (one teacher and the same peers all day); classroom surveys at the start (August) and end (December) of a semester; average class size 27 (range 23-31)"
+  arms:
+    - id: friend-network
+      description: "Within-classroom friendship nominations ('who are your close friends that you hang around with and talk to the most?'), unlimited nominations."
+    - id: help-network
+      description: "Within-classroom help nominations ('who do you most often ask for help with your academic difficulties?'), unlimited nominations."
+
+comparisons:
+  - id: friend-vs-help-structure
+    kind: other
+    index_arm: friend-network
+    reference_arm: help-network
+    description: "Network descriptives of the same students' friend and help networks, compared by independent t tests in Table 2."
+  - id: cross-network
+    kind: none
+    description: "Effects of one network on tie formation in the other, estimated jointly in the multiplex SAOM."
+  - id: engagement-scale-reliability
+    kind: none
+    description: "Internal consistency of the engagement scales in the whole sample."
+
+observations:
+
+  - id: help-network-density-wave1
+    sample:
+      value: 20
+      unit: classes
+    arm_ref: help-network
+    outcome:
+      construct: "Help network density"
+      source_language: "Density is the proportion of actual nominations relative to the total possible nominations"
+      measure: "Help nominations within classrooms"
+      scale: "proportion of possible nominations"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 1, start of semester (August)"
+    result:
+      measure_type: other
+      estimate: 0.07
+      unit: "proportion of possible nominations"
+      note: "Table 2 superscripts: friend and help densities differ at p < .001 in an independent t test at each wave. No interval is printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Density 0.15a 0.13a 0.07b 0.06b"
+    source_location: "Table 2 (columns: Friends Wave 1, Wave 2; Helpers Wave 1, Wave 2)"
+
+  - id: help-network-density-wave2
+    sample:
+      value: 20
+      unit: classes
+    arm_ref: help-network
+    outcome:
+      construct: "Help network density"
+      source_language: "Density is the proportion of actual nominations relative to the total possible nominations"
+      measure: "Help nominations within classrooms"
+      scale: "proportion of possible nominations"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2, end of semester (December)"
+    result:
+      measure_type: other
+      estimate: 0.06
+      unit: "proportion of possible nominations"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Density 0.15a 0.13a 0.07b 0.06b"
+    source_location: "Table 2"
+
+  - id: friend-network-density-wave1
+    sample:
+      value: 20
+      unit: classes
+    arm_ref: friend-network
+    outcome:
+      construct: "Friend network density"
+      source_language: "Density is the proportion of actual nominations relative to the total possible nominations"
+      measure: "Friendship nominations within classrooms"
+      scale: "proportion of possible nominations"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 1, start of semester (August)"
+    result:
+      measure_type: other
+      estimate: 0.15
+      unit: "proportion of possible nominations"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Density 0.15a 0.13a 0.07b 0.06b"
+    source_location: "Table 2"
+
+  - id: friend-network-density-wave2
+    sample:
+      value: 20
+      unit: classes
+    arm_ref: friend-network
+    outcome:
+      construct: "Friend network density"
+      source_language: "Density is the proportion of actual nominations relative to the total possible nominations"
+      measure: "Friendship nominations within classrooms"
+      scale: "proportion of possible nominations"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2, end of semester (December)"
+    result:
+      measure_type: other
+      estimate: 0.13
+      unit: "proportion of possible nominations"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Density 0.15a 0.13a 0.07b 0.06b"
+    source_location: "Table 2"
+
+  - id: help-indegree-popularity
+    sample:
+      value: 542
+      unit: participants
+    arm_ref: help-network
+    outcome:
+      construct: "Concentration of help nominations on already-nominated peers"
+      source_language: "indegree popularity effect"
+      measure: "SAOM network structural effect: tendency of individuals who already receive many nominations to attract more"
+      scale: "SAOM objective-function parameter (posterior mean, random across classes)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change from Wave 1 to Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.13
+      ci_lower: 0.11
+      ci_upper: 0.15
+      interval_type: other
+      statistic: "posterior SD 0.01; Bayesian p > 0.99"
+      model: "Multilevel random-coefficients SAOM, Bayesian estimation; the friend-network indegree popularity effect was -0.10 (SD 0.03, p < 0.01)"
+      note: "Interval from Table 3, first column of the 'Help network structural effects' row; Table 3 labels it '95% CI'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The indegree popularity effect was negative for friend networks (μ = − 0.10, SD = 0.03, p < 0.01), while it was positive for help networks (μ = 0.13, SD = 0.01, p > 0.99), thus indicating that individuals ask for help from certain peers whom others often ask for help as well."
+    source_location: "Results, The network structural effects; Table 3"
+
+  - id: helper-alter-behavioral-engagement
+    sample:
+      value: 542
+      unit: participants
+    arm_ref: help-network
+    outcome:
+      construct: "Being nominated as a helper by behavioral academic engagement"
+      source_language: "alter effects of behavioral academic engagement"
+      measure: "SAOM selection effect: behavioral engagement of the nominated peer (alter) on receiving help nominations"
+      scale: "SAOM objective-function parameter (posterior mean, fixed)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change from Wave 1 to Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.25
+      ci_lower: 0.15
+      ci_upper: 0.34
+      interval_type: other
+      statistic: "posterior SD 0.05; Bayesian p > 0.99"
+      model: "Multilevel random-coefficients SAOM, Bayesian estimation; controls for gender ego, alter and similarity, engagement ego and similarity effects"
+      note: "Interval from Table 3, 'Behavioral academic engagement alter' row, Helpers column; labelled '95% CI'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "while we found positive alter effects of behavioral academic engagement (η = 0.25, SD = 0.05, p > 0.99) for helpers"
+    source_location: "Results, Who becomes friends with whom and who helps whom?; Table 3"
+
+  - id: friend-alter-behavioral-engagement
+    sample:
+      value: 542
+      unit: participants
+    arm_ref: friend-network
+    outcome:
+      construct: "Being nominated as a friend by behavioral academic engagement"
+      source_language: "negative alter effects"
+      measure: "SAOM selection effect: behavioral engagement of the nominated peer (alter) on receiving friendship nominations"
+      scale: "SAOM objective-function parameter (posterior mean, fixed)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change from Wave 1 to Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.11
+      ci_lower: -0.17
+      ci_upper: -0.03
+      interval_type: other
+      statistic: "posterior SD 0.03; Bayesian p < 0.01"
+      model: "Multilevel random-coefficients SAOM, Bayesian estimation; emotional engagement alter effect for friends -0.14 (SD 0.04, p < 0.01)"
+      note: "Interval from Table 3, 'Behavioral academic engagement alter' row, Friends column; labelled '95% CI'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "we found negative alter effects of both behavioral (η = − 0.11, SD = 0.03, p < 0.01)"
+    source_location: "Results, Who becomes friends with whom and who helps whom?; Table 3"
+
+  - id: helper-to-friend
+    sample:
+      value: 542
+      unit: participants
+    comparison_ref: cross-network
+    outcome:
+      construct: "Friendship formation from help ties"
+      source_language: "helper to friend"
+      measure: "SAOM cross-network effect of a help tie on forming a friendship tie"
+      scale: "SAOM objective-function parameter (posterior mean, fixed)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change from Wave 1 to Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.45
+      ci_lower: 1.24
+      ci_upper: 1.68
+      interval_type: other
+      statistic: "posterior SD 0.10; Bayesian p > 0.99"
+      model: "Multilevel random-coefficients SAOM, Bayesian estimation"
+      note: "Interval from Table 3, 'Helper to friend' row; labelled '95% CI'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Regarding the cross-network effects, we found evidence for the helper to friend (η = 1.45, SD = 0.10, p > 0.99) and friend to helper (η = 1.58, SD = 0.09, p > 0.99) effects"
+    source_location: "Results, The co-evolution of friend and help relationships; Table 3"
+
+  - id: friend-to-helper
+    sample:
+      value: 542
+      unit: participants
+    comparison_ref: cross-network
+    outcome:
+      construct: "Help-tie formation from friendships"
+      source_language: "friend to helper"
+      measure: "SAOM cross-network effect of a friendship tie on forming a help tie"
+      scale: "SAOM objective-function parameter (posterior mean, fixed)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change from Wave 1 to Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.58
+      ci_lower: 1.39
+      ci_upper: 1.75
+      interval_type: other
+      statistic: "posterior SD 0.09; Bayesian p > 0.99"
+      model: "Multilevel random-coefficients SAOM, Bayesian estimation"
+      note: "Interval from Table 3, 'Friend to helper' row; labelled '95% CI'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Regarding the cross-network effects, we found evidence for the helper to friend (η = 1.45, SD = 0.10, p > 0.99) and friend to helper (η = 1.58, SD = 0.09, p > 0.99) effects"
+    source_location: "Results, The co-evolution of friend and help relationships; Table 3"
+
+  - id: alpha-behavioral-engagement-wave1
+    comparison_ref: engagement-scale-reliability
+    outcome:
+      construct: "Behavioral academic engagement scale reliability"
+      source_language: "the scale was reliable in the current sample"
+      measure: "Rochester Assessment of Intellectual and Social Engagement, behavioral engagement, three items, 5-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 1"
+    result:
+      measure_type: reliability
+      estimate: 0.90
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(α for behavioral engagement = 0.90 and 0.87 for Waves 1 and 2, respectively; α for emotional engagement = 0.89 for both Waves 1 and 2)"
+    source_location: "Methods, Measures, Academic engagement"
+
+  - id: alpha-behavioral-engagement-wave2
+    comparison_ref: engagement-scale-reliability
+    outcome:
+      construct: "Behavioral academic engagement scale reliability"
+      source_language: "the scale was reliable in the current sample"
+      measure: "Rochester Assessment of Intellectual and Social Engagement, behavioral engagement, three items, 5-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2"
+    result:
+      measure_type: reliability
+      estimate: 0.87
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(α for behavioral engagement = 0.90 and 0.87 for Waves 1 and 2, respectively; α for emotional engagement = 0.89 for both Waves 1 and 2)"
+    source_location: "Methods, Measures, Academic engagement"
+
+  - id: alpha-emotional-engagement-wave1
+    comparison_ref: engagement-scale-reliability
+    outcome:
+      construct: "Emotional academic engagement scale reliability"
+      source_language: "the scale was reliable in the current sample"
+      measure: "Rochester Assessment of Intellectual and Social Engagement, emotional engagement, three items, 5-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 1"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(α for behavioral engagement = 0.90 and 0.87 for Waves 1 and 2, respectively; α for emotional engagement = 0.89 for both Waves 1 and 2)"
+    source_location: "Methods, Measures, Academic engagement"
+
+  - id: alpha-emotional-engagement-wave2
+    comparison_ref: engagement-scale-reliability
+    outcome:
+      construct: "Emotional academic engagement scale reliability"
+      source_language: "the scale was reliable in the current sample"
+      measure: "Rochester Assessment of Intellectual and Social Engagement, emotional engagement, three items, 5-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(α for behavioral engagement = 0.90 and 0.87 for Waves 1 and 2, respectively; α for emotional engagement = 0.89 for both Waves 1 and 2)"
+    source_location: "Methods, Measures, Academic engagement"
+
+not_yet_extracted:
+  - "Table 1: behavioral engagement mean (SD) 3.37 (1.01) at Wave 1 and 3.36 (0.91) at Wave 2; emotional 3.33 (1.02) and 3.28 (0.91); fractions increased, decreased and stable."
+  - "Table 2: reciprocity, transitivity, indegree and outdegree centrality per network and wave; tie changes, Hamming distance and Jaccard index (0.42 friends, 0.31 helpers)."
+  - "Similarity selection effects (behavioral: friends 0.33, helpers 0.36; emotional: friends 0.20), average similarity influence effects (behavioral 1.81 / 2.53; emotional 1.42 / 1.06), and behavior effects of help-network indegree on engagement (0.19 behavioral, 0.10 emotional)."
+  - "Table 3 structural-effect values in the second column group (e.g. help indegree popularity 0.16), whose meaning the table's headings do not make clear."

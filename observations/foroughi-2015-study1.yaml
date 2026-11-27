@@ -1,0 +1,194 @@
+# Foroughi, Werner, Barragán & Boehm-Davis (2015), Experiment 1: interruptions
+# while reading and comprehension questions that connect information across
+# the passage.
+#
+# Read from the authors' manuscript version (text layer), not the copy of
+# record; page numbers are the manuscript's. Each of the three experiments has
+# its own 24 participants, so each is its own file
+# (foroughi-2015-study1/-study2/-study3). The article does not say whether
+# the same students took part in more than one experiment.
+#
+# Design family `other`: a within-subjects laboratory experiment, conditions
+# counterbalanced across passages, which the vocabulary has no value for.
+# The article does not call the counterbalancing random assignment, so no
+# randomised design is inferred. The ds are printed beside paired t tests;
+# the article does not say how they were computed.
+#
+# No reliability figure is printed for any measure (number of correct
+# responses). Age: each experiment prints a mean and SD.
+
+schema_version: 2
+study:
+  key: foroughi-2015-study1
+  citation: 'Foroughi, C. K., Werner, N. E., Barragán, D., & Boehm-Davis, D. A. (2015). Interruptions
+    disrupt reading comprehension. Journal of Experimental Psychology: General, 144(3), 704-709. Experiment
+    1.'
+  doi: 10.1037/xge0000074
+  design:
+    family: other
+    design_detail: Within-subjects laboratory experiment. Each participant read four SAT passages, two
+      with and two without interruption, a Latin square counterbalancing passages and conditions. In the
+      interruption condition a 15-second math-problem interruption followed each paragraph (three per
+      passage). Eight comprehension questions after each passage; scores summed over the two passages
+      in each condition and compared by paired-samples t test.
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-11-26'
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+appears_in:
+- claim: interruptions-disrupt-reading-comprehension
+  bearing: supports
+  anchor: foroughi-2015
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  population:
+    description: Twenty-four George Mason University students participating for course credit (16 female,
+      8 male), fluent in English and with English as their first language. Sample size set a priori at
+      24.
+    age_or_stage: Undergraduates
+    age:
+      unit: years
+      mean: 21.3
+      sd: 2.6
+  context:
+    setting: Laboratory, computer-presented reading and interruption tasks; no time limits for reading
+      or answering
+    materials: Four SAT reading passages and questions from The College Board, approximately equal in
+      word count and Flesch-Kincaid grade level, four paragraphs each
+  arms:
+  - id: interruption
+    description: 'Interruption: after each paragraph, pressing the space bar brought up a 15-second interruption
+      task (a series of math problems) that occluded the passage; the next paragraph appeared when it
+      ended.'
+    elements:
+    - term: interruption by an unrelated task between paragraphs
+  - id: no-interruption
+    description: 'No interruption: pressing the space bar after each paragraph displayed the next paragraph.'
+comparisons:
+- id: interruption-vs-none
+  kind: other
+  index_arm: interruption
+  reference_arm: no-interruption
+  description: 'Within-participant contrast: each participant''s comprehension score summed over the two
+    interrupted passages against the two uninterrupted ones.'
+observations:
+- id: comprehension-interruption-vs-none
+  sample:
+    value: 24
+    unit: participants
+  comparison_ref: interruption-vs-none
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: questions answered after reading each passage, no time limit
+  result:
+    measure_type: cohens_d
+    estimate: 2.37
+    statistic: t(23) = 11.63
+    p_value: < .001
+    descriptives: interruption M = 9.04 (SD 2.03, 95% CI [8.23, 9.85]) vs no interruption M = 10.8 (SD
+      2.11, 95% CI [9.96, 11.64])
+    note: The source does not say how d was computed for the paired design. Individual analyses showed
+      no participant scoring higher on an interruption condition than on a no-interruption condition.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: A paired-samples t-test revealed a significant difference between the number of correct
+    responses in the interruption (M = 9.04, SD = 2.03, 95% CI [8.23, 9.85]) and no interruption (M =
+    10.8, SD = 2.11, 95% CI [9.96, 11.64]) conditions, t(23) = 11.63, p < .001, d = 2.37 (see Figure 1).
+  source_location: Experiment 1, Results (manuscript p. 9)
+- id: mean-comprehension-interruption
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: interruption
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 9.04
+    sd: 2.03
+    ci_lower: 8.23
+    ci_upper: 9.85
+    interval_type: confidence
+    unit: correct responses summed over the two passages in the condition (eight questions per passage)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: A paired-samples t-test revealed a significant difference between the number of correct
+    responses in the interruption (M = 9.04, SD = 2.03, 95% CI [8.23, 9.85]) and no interruption (M =
+    10.8, SD = 2.11, 95% CI [9.96, 11.64]) conditions, t(23) = 11.63, p < .001, d = 2.37 (see Figure 1).
+  source_location: Experiment 1, Results (manuscript p. 9)
+- id: mean-comprehension-no-interruption
+  sample:
+    value: 24
+    unit: participants
+  arm_ref: no-interruption
+  outcome:
+    construct: Reading comprehension requiring information connected across the passage
+    source_language: reading comprehension
+    measure: SAT reading comprehension questions from The College Board, vocabulary-only questions removed;
+      number correct
+    scale: number of correct responses
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 10.8
+    sd: 2.11
+    ci_lower: 9.96
+    ci_upper: 11.64
+    interval_type: confidence
+    unit: correct responses summed over the two passages in the condition (eight questions per passage)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: A paired-samples t-test revealed a significant difference between the number of correct
+    responses in the interruption (M = 9.04, SD = 2.03, 95% CI [8.23, 9.85]) and no interruption (M =
+    10.8, SD = 2.11, 95% CI [9.96, 11.64]) conditions, t(23) = 11.63, p < .001, d = 2.37 (see Figure 1).
+  source_location: Experiment 1, Results (manuscript p. 9)
+not_yet_extracted:
+- Interruption-task accuracy (91% of math questions correct, SD 6.4) and the repeated-measures ANOVAs
+  showing no effect of time (F(3, 69) = 1.15) or passage (F(3, 69) = 1.33) on comprehension scores.
