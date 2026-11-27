@@ -1,0 +1,355 @@
+# Potkin & Bunney (2012): a night of sleep against an equal waking interval,
+# paired-associate recall in 10-14-year-olds.
+#
+# Two-arm randomised parallel-group experiment. Forty adolescents, grouped by sex
+# and randomised within sex to learn 10 word pairs at 9 pm (tested at 9 am after a
+# night of sleep) or at 9 am (tested at 9 pm with no sleep or naps). A
+# letter-number working-memory task, given before learning and before testing, is
+# the authors' control for time-of-day and encoding differences.
+#
+# PAGE IMAGES. The publisher PDF's text layer printed Table 1's plus-minus sign
+# as the digit "6" ("7.3761.74") and the "<" before p values as ",". Every quote
+# from Table 1 (recall-mean-sleep, recall-mean-no-sleep) and the Results quotes
+# carrying a p value (recall-sleep-advantage-percent,
+# recall-sleep-advantage-outliers-included) were re-taken from the rendered page
+# images of pp. 2-3 (checked 2026-11-27) and carry the article's own characters.
+# Every number in the record was confirmed against those images, including
+# "df (1,37)" in the outliers-included sentence, which the page prints as such.
+# Table 1's age row is legible on the page image (12.95±1.05 sleep, 12.4±2.15
+# no sleep) and is recorded in the arm descriptions and the age note.
+#
+# No reliability coefficient is printed for either task, so the file has no
+# reliability observation.
+
+schema_version: 2
+
+study:
+  key: potkin-2012
+  citation: "Potkin, K. T., & Bunney, W. E., Jr. (2012). Sleep improves memory: The effect of sleep on long term memory in early adolescence. PLoS ONE, 7(8), e42191."
+  doi: "10.1371/journal.pone.0042191"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-arm parallel-group experiment. Participants grouped by sex and assigned
+      to sleep or no-sleep conditions "with a separate randomization table for
+      each group". Both arms learned the same 10 word pairs (three presentations,
+      repeated aloud) and were tested for cued recall 12 hours later; the sleep
+      arm learned at 9 pm and was tested after a night of sleep, the no-sleep arm
+      learned at 9 am and was tested at 9 pm. Between-group comparisons by
+      two-tailed t-test after Levene's test; outliers removed at |Z| > 2.57.
+      Sleep was self-reported, not measured. No immediate recall test was given.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: sleep-improves-declarative-memory-adolescents
+    bearing: supports
+    anchor: potkin-kt-2012
+  - claim: sleep-memory-advantage-with-outliers-included
+    bearing: supports
+    anchor: potkin-kt-2012
+  - claim: working-memory-unaffected-by-sleep-or-time-of-day
+    bearing: supports
+    anchor: potkin-kt-2012
+  - claim: no-sex-difference-memory-tasks-adolescents
+    bearing: supports
+    anchor: potkin-kt-2012
+
+evidence_base:
+  unit: participants
+  size:
+    value: 40
+    unit: participants
+  additional_sizes:
+    - value: 37
+      unit: participants
+      note: "analysed after three outliers were removed (19 sleep, 18 no-sleep)"
+  population:
+    description: >-
+      Twenty female and twenty male normal, healthy adolescents recruited in one
+      public middle school in California; an opportunity sample. Students with
+      academic failure, accelerated academic performance or sleep problems were
+      not included. 3% African-American, 5% Asian, 92% Caucasian.
+    age_or_stage: "Ages 10 to 14 (early adolescence); group mean ages 12.9 (sleep) and 12.4 (no sleep)"
+    age:
+      unit: years
+      min: 10
+      max: 14
+      note: "The article prints the range for the whole sample and the mean only per group: Table 1 gives 12.95±1.05 (sleep, n = 19) and 12.4±2.15 (no sleep, n = 18), p = 0.14, after outliers were removed; the Results text rounds them to 12.9 and 12.4. No whole-sample mean or SD."
+  context:
+    setting: "Tested at home in a quiet room, on weekends or during school break; framed to participants as a school class project"
+  arms:
+    - id: sleep
+      description: "Learned the word pairs at 9:00 pm and were tested for cued recall 12 hours later, after a night of sleep (self-reported 8-10 hours, rated good to very good). Age 12.95±1.05 years (Table 1, mean ± SD)."
+      size:
+        value: 19
+        unit: participants
+      dose:
+        amount: 12
+        unit: hours
+        detail: "learning-to-test interval containing a night of sleep"
+      implementation_notes:
+        - "10 female, 9 male after one high-scoring outlier was removed"
+    - id: no-sleep
+      description: "Learned the same word pairs at 9:00 am and were tested 12 hours later at night, with no intervening sleep or naps. Age 12.4±2.15 years (Table 1, mean ± SD)."
+      size:
+        value: 18
+        unit: participants
+      dose:
+        amount: 12
+        unit: hours
+        detail: "learning-to-test interval of waking"
+      implementation_notes:
+        - "8 female, 10 male after two lower-scoring outliers were removed"
+
+comparisons:
+  - id: sleep-vs-no-sleep
+    kind: between-groups
+    index_arm: sleep
+    reference_arm: no-sleep
+    description: "12 hours containing a night of sleep against 12 waking hours, from learning to test."
+  - id: by-sex
+    kind: none
+    description: "Female against male participants across the sample, on both tasks; sex was not an assigned condition."
+
+observations:
+
+  - id: recall-mean-sleep
+    arm_ref: sleep
+    sample:
+      value: 19
+      unit: participants
+    outcome:
+      construct: "Declarative memory (paired-associate cued recall)"
+      source_language: "Paired Associate Recall Correct After 12 Hours"
+      measure: "Number of the 10 word pairs correctly recalled on cued recall"
+      scale: "0-10 pairs correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "12 hours after learning"
+      offset:
+        value: 12
+        unit: hours
+        from: "end of learning"
+    result:
+      measure_type: mean
+      estimate: 7.37
+      sd: 1.74
+      unit: "word pairs correct out of 10"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Outliers removed. Quote taken from the page image of Table 1 (see the file
+      header). No immediate-recall baseline exists, so this mean cannot separate
+      encoding from retention.
+    source_quote: "Paired Associate Recall Correct After 12 Hours 7.37±1.74 6.11±1.60 0.029"
+    source_location: "Table 1, p. 3"
+
+  - id: recall-mean-no-sleep
+    arm_ref: no-sleep
+    sample:
+      value: 18
+      unit: participants
+    outcome:
+      construct: "Declarative memory (paired-associate cued recall)"
+      source_language: "Paired Associate Recall Correct After 12 Hours"
+      measure: "Number of the 10 word pairs correctly recalled on cued recall"
+      scale: "0-10 pairs correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "12 hours after learning"
+      offset:
+        value: 12
+        unit: hours
+        from: "end of learning"
+    result:
+      measure_type: mean
+      estimate: 6.11
+      sd: 1.60
+      unit: "word pairs correct out of 10"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Outliers removed. Quote taken from the page image of Table 1 (see the file
+      header).
+    source_quote: "Paired Associate Recall Correct After 12 Hours 7.37±1.74 6.11±1.60 0.029"
+    source_location: "Table 1, p. 3"
+
+  - id: recall-sleep-advantage-percent
+    comparison_ref: sleep-vs-no-sleep
+    sample:
+      value: 37
+      unit: participants
+    outcome:
+      construct: "Declarative memory (paired-associate cued recall)"
+      source_language: "long-term memory ... as measured by the number correct in the paired-associate test"
+      measure: "Number of the 10 word pairs correctly recalled on cued recall"
+      scale: "percent increase of the sleep group's mean over the no-sleep group's"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "12 hours after learning"
+      offset:
+        value: 12
+        unit: hours
+        from: "end of learning"
+    result:
+      measure_type: other
+      estimate: 20.6
+      unit: "percent"
+      p_value: "< 0.029 (two-tailed t-test; Table 1 prints 0.029)"
+      descriptives: "Sleep 7.37 (SD 1.74), n = 19; no sleep 6.11 (SD 1.60), n = 18"
+      interpretation: "Relative difference in means as the authors report it; no standardised effect size or t value is printed for this outliers-removed contrast."
+    moderators:
+      reported: []
+      candidate:
+        - "Time of day of learning and testing is confounded with the sleep interval by design; the authors' letter-number control task is their evidence against a circadian explanation."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a percent increase is not a
+      standardised effect and none is printed. Quote taken from the page
+      image of p. 2, which prints "(p<0.029)".
+    source_quote: "An increase of 20.6% in long-term memory (Figure 1) was found as measured by the number correct in the paired-associate test following sleep, compared to the group which was tested at the same time interval, but without sleep (p<0.029)."
+    source_location: "Results, p. 2"
+
+  - id: recall-sleep-advantage-outliers-included
+    comparison_ref: sleep-vs-no-sleep
+    sample:
+      value: 40
+      unit: participants
+    outcome:
+      construct: "Declarative memory (paired-associate cued recall)"
+      source_language: "the number correct for recall of the paired-associates"
+      measure: "Number of the 10 word pairs correctly recalled on cued recall"
+      scale: "percent increase of the sleep group's mean over the no-sleep group's"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "12 hours after learning"
+      offset:
+        value: 12
+        unit: hours
+        from: "end of learning"
+    result:
+      measure_type: other
+      estimate: 32.7
+      unit: "percent"
+      statistic: "t = 2.76, df (1,37) as printed"
+      p_value: "< 0.009"
+      descriptives: "Sleep 7.5, no sleep 5.9 (means with the three outliers included; no SDs printed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Sensitivity analysis with the three outliers retained. The df is printed
+      as "(1,37)" on the page image although 40 participants would give 38 for
+      a two-group t-test; recorded as printed. Quote taken from the page image
+      of p. 2, which prints "p<0.009".
+    source_quote: "When the three outliers are included, the number correct for recall of the paired-associates was statistically greater for the sleep group (7.5) compared to the no sleep group (5.9, t = (2.76), df (1,37), p<0.009), a 32.7% increase."
+    source_location: "Results, p. 2"
+
+  - id: letter-number-second-test
+    comparison_ref: sleep-vs-no-sleep
+    sample:
+      value: 37
+      unit: participants
+    outcome:
+      construct: "Working memory (control task)"
+      source_language: "The letter-number correct score on the second administration"
+      measure: "WAIS-III / WMS-III letter-number sequencing, number correct, given just before the recall test"
+      scale: "number correct"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "12 hours after learning, just before the recall test"
+    result:
+      measure_type: other
+      statistic: "t = -.16, df (1,35) as printed"
+      p_value: "0.88"
+      descriptives: "Sleep 6.26 (SD 1.59), no sleep 6.33 (SD 1.03), each marked in Table 1 as not different from the initial test. At the first administration 6.58 (SD 1.02) and 6.06 (SD 1.06) (t = 1.54, p = 0.13). Within-group change from first to second administration: paired t-test p = 0.32 (sleep), 0.45 (no sleep)."
+      interpretation: "No difference between groups or across sessions; the authors read this as no time-of-day or encoding difference. They report 80% power to detect a standardised difference of .76 or greater."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A null on a control task, not a test of equivalence. The power figure is
+      the authors' own statement and its kind (a priori or post hoc) is not
+      said, so it is not recorded as result.power.
+    source_quote: "The letter-number correct score on the second administration was 6.26 and 6.33, respectively, (t = (-.16), df (1,35), p = 0.88), (Figure 1)."
+    source_location: "Results, p. 2"
+
+  - id: no-sex-difference
+    comparison_ref: by-sex
+    outcome:
+      construct: "Declarative memory and working memory"
+      source_language: "performance for either task"
+      measure: "Paired-associate recall and letter-number correct"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "both sessions"
+    result:
+      measure_type: qualitative
+      finding: "No statistically significant sex difference in performance on either the paired-associate or the letter-number task."
+      perspective: researcher
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No test statistic, group means or analysed sample is printed for the sex comparison."
+    source_quote: "There was no statistically significant sex difference in performance for either task."
+    source_location: "Results, p. 2"
+
+not_yet_extracted:
+  - "Figure 1 histogram of means and SDs: the same figures as Table 1."
