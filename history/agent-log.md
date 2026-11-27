@@ -5,6 +5,50 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 16: every simulator source is now settled
+
+The batch adds 14 files and 97 observations. The sources came from the maintainer's Drive folder, or from public
+URLs the maintainer supplied (the two reports):
+- Bilalić et al. (2008), Experiments 1–2.
+- Tarmizi & Sweller (1988), Experiment 4.
+- Penk et al. (2014), Fuchs et al. (2024), Wigfield et al. (1997), Latimier et al. (2021).
+- Brunmair & Richter (2019), Schmidt et al. (2003), Reeve et al. (2005), O'Neil et al. (2005).
+- Silvia et al. (2008), Study 1.
+- Ofqual (2016) and NWEA (2026), two reports.
+
+With it, all 176 simulator sources in the research repo's register are settled: 163 have observation records and 13
+get none.
+- Cowan (2014), Custers (2010), Loibl (2016) and Sala (2017) are reviews, so their figures belong to the studies
+  they review.
+- MacKay (1992), van der Maas (2006), Bock & Aitkin (1981) and de la Torre & Douglas (2004): the simulator takes only
+  a model form or an algorithm from each.
+- Yonelinas (2002), Frisbie (1988), van der Maas (1992) and Kalyuga (2003): the simulator uses no figure the paper
+  prints of its own.
+- Koedinger et al. (2012) prints no sample size, so a record would have to invent one.
+
+Page images settled the text-layer gaps:
+- Wigfield is a scan with no text layer.
+- In Tarmizi the OCR garbles every F and MSe.
+- Brunmair's Table 1, the Schmidt, Reeve and O'Neil tables, Bilalić's GEE row and Fuchs's alphas.
+
+Lesson, from the maintainer: the two reports were reachable all along. They have no DOI, so the register's location
+field and OpenAlex never found them. Search by title before listing a source as unreachable. The maintainer's Drive
+folder now has an index Doc, "INDEX - which article is in which file", built by reading every file's first pages. Add
+a line to it whenever a file is added.
+
+Findings for the simulator to check:
+- O'Neil et al. (2005): the within-group correlations .02 and .12 are in the 2004 CRESST report (CSE Report 625), not
+  the article, which prints only the whole-sample r = .10.
+- Ofqual (2016): exact agreement .947, within one mark .994 and SD .275 are not printed. They were computed from the
+  2015 count table, which the record keeps.
+- Wigfield et al. (1997): the competence–interest correlation at Grade 6 is .52 for math (Table 5), not .53.
+- Penk et al. (2014): ".143 [.124, .162]" and ".065" are standardised figures the article does not print. It prints
+  unstandardised coefficients (Model 2 19.64, SE 1.33).
+- Tarmizi & Sweller (1988): the d values are the simulator's own. The article prints F and MSe only.
+- Bilalić et al. (2008): Experiment 1 prints "Z = 8.4" with p = .004, which do not agree with each other. Both are
+  recorded as printed.
+- Brunmair & Richter: for words the text gives "p > .001", where Table 2 prints .005.
+
 ## 2026-11-27 · Observation records batch 15, and `study.publication_status` for withdrawn sources
 
 The batch adds 6 files and 60 observations from open copies that were reachable this time, and one PDF from the
