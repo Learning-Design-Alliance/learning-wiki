@@ -1,0 +1,553 @@
+# Fuchs, Seethaler, Sterba, Fuchs, Cutting, Mancilla-Martinez, Martin & Espinas
+# (2024): a three-arm randomised controlled trial of reading-comprehension (RC)
+# and word-problem-solving (WPS) text-structure intervention for second graders
+# with difficulty in both domains.
+#
+# Read from the author manuscript ("Manuscript version of", 64 pp., text layer),
+# not the copy of record. Page numbers below are the manuscript's own.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The eight bias-corrected Hedges' g values against control: two
+#     acquisition and two cross-domain (far) transfer effects per intervention
+#     arm, one per outcome subtest. Each is quoted from the running text. The
+#     multilevel model's pretest-adjusted mean difference, SE and p for the
+#     same contrast sit in `descriptives`; those figures were read from the
+#     PAGE IMAGE of Table 2 (manuscript p. 57), because the table's text layer
+#     comes out with its columns separated from its rows.
+#   * `measure_type: reliability` for the two outcome tasks: interscorer
+#     agreement (percent) and sample-based alpha. The text layer drops the
+#     alpha glyph ("Sample-based  was .82"), so the two alpha quotes were taken
+#     from the page images (manuscript pp. 20-21) and print the article's own
+#     alpha character.
+#   * `population.age: unreported`. The sample is defined by grade (second
+#     grade); neither the text nor Table 1 prints an age figure.
+#
+# One discrepancy in the source: the abstract gives RC.INT's g on RC Retell as
+# 0.83, the Discussion and Figure 3 as 0.84. The record takes the Discussion's
+# figure, which agrees with the figure, and keeps the abstract's in the notes.
+
+schema_version: 2
+
+study:
+  key: fuchs-2024
+  citation: "Fuchs, L. S., Seethaler, P. M., Sterba, S. K., Fuchs, D., Cutting, L. E., Mancilla-Martinez, J., Martin, B. N., & Espinas, D. (2024). Transfer between reading comprehension and word-problem solving among children with learning difficulty in both domains. Journal of Educational Psychology."
+  doi: "10.1037/edu0000911"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Three-arm randomised controlled trial, random assignment at the individual
+      level to RC text-structure intervention (RC.INT, Pirate Reading), WPS
+      text-structure intervention (WP.INT, a version of Vanderbilt Pirate Math)
+      or the standard school program (control). Outcomes analysed in multilevel
+      main-effects models with a pretest covariate and a random classroom
+      intercept; intra-class correlations .01 to .03 at the classroom level and
+      .001 to .10 at the school level. Transfer in each intervention arm was
+      tested against control, as the protocol specified. A not-at-risk
+      classmate sample (n = 106) was tested for descriptive gaps only.
+    preregistration:
+      status: not-preregistered
+      source_quote: "This study’s design and analysis were not preregistered."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: rc-text-structure-intervention-acquisition-rc-comorbid
+    bearing: supports
+    anchor: fuchs-2024
+  - claim: wps-text-structure-intervention-acquisition-wps-comorbid
+    bearing: supports
+    anchor: fuchs-2024
+  - claim: rc-intervention-transfers-to-wps
+    bearing: supports
+    anchor: fuchs-2024
+  - claim: wps-intervention-transfers-to-rc
+    bearing: supports
+    anchor: fuchs-2024
+
+evidence_base:
+  unit: participants
+  size:
+    value: 207
+    unit: participants
+  additional_sizes:
+    - value: 221
+      unit: participants
+      note: "randomised (RC.INT 74, WP.INT 74, control 73); 14 left the study (11 moved, 2 excluded by teachers for behaviour, 1 scheduling conflict)"
+    - value: 1526
+      unit: participants
+      note: "second graders screened; 294 met the RC and WPS low-performance criteria"
+    - value: 106
+      unit: participants
+      note: "not-at-risk classmates in the final descriptive comparison sample (110 sampled)"
+  population:
+    description: >-
+      Second graders below the 25th percentile on both an RC screener
+      (Gates-MacGinitie) and a WPS screener (Pennies Story Problems), and at or
+      above the 10th percentile on at least one WASI subtest, in a large,
+      diverse urban and suburban county-wide district in the southeastern
+      United States. About 45% of the at-risk sample received English learner
+      services.
+    age_or_stage: "Second grade; no age figure printed"
+    age: unreported
+  context:
+    setting: "Supplemental 1:1 tutoring during the school day, delivered by research staff (mostly university master's students without teaching certification); late October to March"
+  arms:
+    - id: rc-int
+      description: "RC text-structure intervention (Pirate Reading): schema instruction on cause-effect and compare-contrast text structures on passages without numerals, with note-taking, summarisation and retelling."
+      size:
+        value: 70
+        unit: participants
+      dose:
+        amount: 45
+        unit: lessons
+        detail: "Three 30-minute lessons a week for 15 weeks, delivered 1:1"
+      delivery:
+        grouping: individual
+        role: supplement
+        basis: stated
+    - id: wp-int
+      description: "WPS text-structure intervention (study version of Vanderbilt Pirate Math): schema instruction on cause-effect and compare-contrast word-problem types, with a WP-type diagram or equation, built in parallel with RC.INT."
+      size:
+        value: 67
+        unit: participants
+      dose:
+        amount: 45
+        unit: lessons
+        detail: "Three 30-minute lessons a week for 15 weeks, delivered 1:1"
+      delivery:
+        grouping: individual
+        role: supplement
+        basis: stated
+    - id: control
+      description: "Standard school program. Schools provided reading intervention to 93% and math intervention to 73% of control children."
+      size:
+        value: 70
+        unit: participants
+
+comparisons:
+  - id: rc-int-vs-control
+    kind: between-groups
+    index_arm: rc-int
+    reference_arm: control
+    description: "RC.INT against control: acquisition on RC outcomes, cross-domain transfer on WPS outcomes."
+  - id: wp-int-vs-control
+    kind: between-groups
+    index_arm: wp-int
+    reference_arm: control
+    description: "WP.INT against control: acquisition on WPS outcomes, cross-domain transfer on RC outcomes."
+  - id: rc-task-scoring
+    kind: none
+    description: "Scoring consistency of the RC outcome task (RC Notes and RC Retell) across the sample."
+  - id: wp-task-scoring
+    kind: none
+    description: "Scoring consistency of the WPS outcome task (WP Solutions and WP Retell) across the sample."
+
+observations:
+
+  - id: rc-int-rc-notes-acquisition
+    comparison_ref: rc-int-vs-control
+    outcome:
+      construct: "Reading comprehension: translating text to the problem model"
+      source_language: "RC Notes, the more proximal acquisition RC outcome indexing children’s skill in translating text to the problem model"
+      measure: "Experimental RC task, Subtest 1: written notes on four cause-effect and compare-contrast passages, rubric-scored (maximum 74)"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: stated
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 1.16
+      descriptives:
+        adjusted_mean_difference: 17.007
+        adjusted_mean_difference_se: 2.850
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (multilevel main-effects model, RC.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "ESs for RC.INT were g = 1.16 on RC Notes, indexing translation of text to the problem model, and 0.84 on RC Retell, the measure of text comprehension."
+    source_location: "Discussion, Text-Structure Intervention’s Acquisition Effects; Figure 3; Table 2"
+
+  - id: rc-int-rc-retell-acquisition
+    comparison_ref: rc-int-vs-control
+    outcome:
+      construct: "Reading comprehension: text comprehension"
+      source_language: "RC Retell, the more distal acquisition RC outcome measure indexing text comprehension"
+      measure: "Experimental RC task, Subtest 2: oral retell of each passage with passage and notes covered, transcribed and rubric-scored (maximum 81)"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 0.84
+      descriptives:
+        adjusted_mean_difference: 11.438
+        adjusted_mean_difference_se: 2.948
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (RC.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The abstract prints this effect as g = 0.83; the Discussion and Figure 3
+      print 0.84. The record takes 0.84. The source calls RC Retell the "more
+      distal" acquisition outcome, so role proximal-outcome is inferred.
+    source_quote: "ESs for RC.INT were g = 1.16 on RC Notes, indexing translation of text to the problem model, and 0.84 on RC Retell, the measure of text comprehension."
+    source_location: "Discussion, Text-Structure Intervention’s Acquisition Effects; Figure 3; Table 2"
+
+  - id: wp-int-wp-solutions-acquisition
+    comparison_ref: wp-int-vs-control
+    outcome:
+      construct: "Word-problem solving"
+      source_language: "WP Solutions is the more proximal acquisition WP outcome, indexing children’s skill in translating text to the problem model"
+      measure: "Experimental WPS task, Subtest 1: 12 cause-effect and compare-contrast word problems, scored for correct math and label (maximum 24)"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: stated
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 1.36
+      descriptives:
+        adjusted_mean_difference: 5.679
+        adjusted_mean_difference_se: 0.604
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (WP.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "ESs for WP.INT were 1.36 on WP Solutions (i.e., translating text to the problem model while posing mathematical demands) and 1.05 on WP Retell, the text comprehension measure."
+    source_location: "Discussion, Text-Structure Intervention’s Acquisition Effects; Figure 3; Table 2"
+
+  - id: wp-int-wp-retell-acquisition
+    comparison_ref: wp-int-vs-control
+    outcome:
+      construct: "Word-problem text comprehension"
+      source_language: "WP Retell, the more distal acquisition WP outcome indexing text comprehension"
+      measure: "Experimental WPS task, Subtest 2: oral retell of 4 of the 12 problems and their solutions, transcribed and rubric-scored (maximum 48)"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 1.05
+      descriptives:
+        adjusted_mean_difference: 9.234
+        adjusted_mean_difference_se: 1.388
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (outcome labelled 'WPS Retell', WP.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "ESs for WP.INT were 1.36 on WP Solutions (i.e., translating text to the problem model while posing mathematical demands) and 1.05 on WP Retell, the text comprehension measure."
+    source_location: "Discussion, Text-Structure Intervention’s Acquisition Effects; Figure 3; Table 2"
+
+  - id: rc-int-wp-solutions-transfer
+    comparison_ref: rc-int-vs-control
+    outcome:
+      construct: "Word-problem solving (cross-domain far transfer)"
+      source_language: "cross-domain transfer ... all four subtests represented far transfer"
+      measure: "WP Solutions subtest (maximum 24), not taught in RC.INT"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 0.41
+      descriptives:
+        adjusted_mean_difference: 1.4
+        adjusted_mean_difference_se: 0.415
+        adjusted_mean_difference_p: "0.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (RC.INT-CON), read from the page image; the table prints the estimate as 1.4."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "RC.INT’s ESs (vs. control) on WPS were g = 0.41 and 0.68; WP.INT’s ES (vs. control) on RC were g = 0.91 and 0.54."
+    source_location: "Abstract; Figure 3; Table 2"
+
+  - id: rc-int-wp-retell-transfer
+    comparison_ref: rc-int-vs-control
+    outcome:
+      construct: "Word-problem text comprehension (cross-domain far transfer)"
+      source_language: "cross-domain transfer ... all four subtests represented far transfer"
+      measure: "WP Retell subtest (maximum 48), not taught in RC.INT"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 0.68
+      descriptives:
+        adjusted_mean_difference: 5.937
+        adjusted_mean_difference_se: 1.466
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (RC.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "RC.INT’s ESs (vs. control) on WPS were g = 0.41 and 0.68; WP.INT’s ES (vs. control) on RC were g = 0.91 and 0.54."
+    source_location: "Abstract; Figure 3; Table 2"
+
+  - id: wp-int-rc-notes-transfer
+    comparison_ref: wp-int-vs-control
+    outcome:
+      construct: "Reading comprehension: translating text to the problem model (cross-domain far transfer)"
+      source_language: "cross-domain transfer ... all four subtests represented far transfer"
+      measure: "RC Notes subtest (maximum 74), not taught in WP.INT"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 0.91
+      descriptives:
+        adjusted_mean_difference: 12.148
+        adjusted_mean_difference_se: 1.931
+        adjusted_mean_difference_p: "<.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (WP.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "RC.INT’s ESs (vs. control) on WPS were g = 0.41 and 0.68; WP.INT’s ES (vs. control) on RC were g = 0.91 and 0.54."
+    source_location: "Abstract; Figure 3; Table 2"
+
+  - id: wp-int-rc-retell-transfer
+    comparison_ref: wp-int-vs-control
+    outcome:
+      construct: "Reading comprehension: text comprehension (cross-domain far transfer)"
+      source_language: "cross-domain transfer ... all four subtests represented far transfer"
+      measure: "RC Retell subtest (maximum 81), not taught in WP.INT"
+      scale: "bias-corrected Hedges' g"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, within three weeks of the end of the 15-week intervention"
+    result:
+      measure_type: hedges_g
+      estimate: 0.54
+      descriptives:
+        adjusted_mean_difference: 7.711
+        adjusted_mean_difference_se: 2.316
+        adjusted_mean_difference_p: "0.001"
+      note: "Adjusted mean difference, SE and p from Table 2 (WP.INT-CON), read from the page image."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "RC.INT’s ESs (vs. control) on WPS were g = 0.41 and 0.68; WP.INT’s ES (vs. control) on RC were g = 0.91 and 0.54."
+    source_location: "Abstract; Figure 3; Table 2"
+
+  - id: rc-task-interscorer-agreement
+    comparison_ref: rc-task-scoring
+    outcome:
+      construct: "Interscorer agreement, RC outcome task"
+      source_language: "Actual interscorer agreement"
+      measure: "Rubric scoring of RC Notes and RC Retell by trained graduate-student scorers"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest scoring"
+    result:
+      measure_type: reliability
+      estimate: 96
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source does not say how many protocols were double-scored for this
+      figure. Scorers had been trained to .95 agreement.
+    source_quote: "Scorers were trained in two 3-hour sessions to .95 agreement. Actual interscorer agreement was 96%."
+    source_location: "Method, Outcome Measures (manuscript p. 20)"
+
+  - id: rc-task-alpha
+    comparison_ref: rc-task-scoring
+    outcome:
+      construct: "Internal consistency, RC outcome task"
+      source_language: "Sample-based α"
+      measure: "RC outcome task (RC Notes and RC Retell)"
+      scale: "coefficient alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest"
+    result:
+      measure_type: reliability
+      estimate: 0.82
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "sample-based alpha"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      One alpha is printed for the RC task; the source does not say whether it
+      covers both subtests together or each. Quote taken from the page image:
+      the text layer drops the alpha glyph.
+    source_quote: "Actual interscorer agreement was 96%. Sample-based α was .82."
+    source_location: "Method, Outcome Measures (manuscript p. 20; page image)"
+
+  - id: wp-task-interscorer-agreement
+    comparison_ref: wp-task-scoring
+    outcome:
+      construct: "Interscorer agreement, WPS outcome task"
+      source_language: "Interscorer agreement"
+      measure: "Rubric scoring of WP Retell by trained graduate-student scorers"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest scoring"
+    result:
+      measure_type: reliability
+      estimate: 98
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Printed in the WP Retell paragraph; the source does not say whether it
+      also covers WP Solutions.
+    source_quote: "The maximum possible WP Retell score was 48. Interscorer agreement was 98%."
+    source_location: "Method, Outcome Measures (manuscript p. 21)"
+
+  - id: wp-task-alpha
+    comparison_ref: wp-task-scoring
+    outcome:
+      construct: "Internal consistency, WPS outcome task"
+      source_language: "Sample-based α"
+      measure: "WPS outcome task"
+      scale: "coefficient alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest"
+    result:
+      measure_type: reliability
+      estimate: 0.86
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "sample-based alpha"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote taken from the page image: the text layer drops the alpha glyph.
+    source_quote: "Interscorer agreement was 98%. Sample-based α was .86."
+    source_location: "Method, Outcome Measures (manuscript p. 21; page image)"
+
+not_yet_extracted:
+  - "RQ6 contrasts RC.INT against WP.INT within each outcome (Table 2; g 0.39, 0.30, 0.94, 0.33 in Figure 3): acquisition exceeded transfer except on RC Retell."
+  - "Mediation models (Table 3): text-structure knowledge in passages and word problems mediated all 16 tested effects; partial for WP.INT, complete for seven of eight RC.INT tests."
+  - "Post-intervention gaps against not-at-risk classmates (Table 4), descriptive only."
+  - "Table 1 posttest means and SDs by condition; the text layer of the table is garbled and was not read from the image."
+  - "Sample-based alphas for screening, covariate and mediator measures (.78 to .86); the Gates alternate-form reliability .74-.92 is the test publisher's, not this sample's."
+  - "Test-session double-scoring agreement 'exceeded 99%' and fidelity-coding agreement 'exceeded 95%' (bounds)."
