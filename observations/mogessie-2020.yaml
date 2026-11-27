@@ -1,0 +1,370 @@
+# Mogessie, Richey, McLaren, Andres-Bray & Baker (2020): confrustion and gaming
+# the system while learning with erroneous examples in the Decimal Point game.
+#
+# Read from the PMC copy (PMC7334704), which carries the whole six-page short
+# paper: Methods, Results, Table 1 and Discussion, not only the abstract.
+#
+# Points a reader needs:
+#
+#   * The gaming results are whole-sample correlations and one regression
+#     (N = 191), so they rest on no contrast between conditions
+#     (`comparisons: kind none`).
+#   * The paper says the participants "were divided into four groups" and does
+#     not say how. Random assignment is not stated, so the design family is
+#     quasi-experimental and nothing stronger is inferred.
+#   * The paper prints the same F(2, 188) = 181.14 for the confrustion model
+#     and for the gaming model. Both are recorded as printed; one of them may
+#     be a copy error, and the record does not decide which.
+#   * Two reliability figures: the inter-rater agreement of the text-replay
+#     labels (kappa .74) and the gaming detector's kappa (.62). They are
+#     different objects: the first is agreement between human coders, the
+#     second is how well a classifier reproduces those labels.
+#   * No age figure is printed: "middle schools" is all the paper says.
+#
+# The PMC record lists the volume editors (Bittencourt, Cukurova, Muldner,
+# Luckin, Millán) before the authors; the authors are the five named below.
+
+schema_version: 2
+
+study:
+  key: mogessie-2020
+  citation: "Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S. (2020). Confrustion and gaming while learning with erroneous examples in a decimals game. In I. I. Bittencourt, M. Cukurova, K. Muldner, R. Luckin, & E. Millán (Eds.), Artificial Intelligence in Education (AIED 2020), Lecture Notes in Computer Science, vol. 12164 (pp. 208–213). Springer."
+  doi: "10.1007/978-3-030-52240-7_38"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Four conditions in the Decimal Point game (problem solving only,
+      erroneous examples only, erroneous examples then problem solving,
+      problem solving then erroneous examples); the paper says participants
+      "were divided into four groups" and does not state random assignment.
+      Pretest and posttest on isomorphic test forms. Confrustion and gaming
+      were measured from game logs by machine-learned detectors trained on
+      text-replay labels. Analyses: whole-sample correlations, multiple
+      regressions of posttest on pretest plus confrustion or gaming, and
+      one-way ANOVAs across conditions with Tukey post-hoc tests.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: gaming-negative-predictor-posttest-decimals-game
+    bearing: supports
+    anchor: bittencourt-ig-ibert-2020
+  - claim: confrustion-negative-predictor-posttest-decimals-game
+    bearing: supports
+    anchor: bittencourt-ig-ibert-2020
+  - claim: errex-conditions-higher-confrustion-gaming-than-ps-only
+    bearing: supports
+    anchor: bittencourt-ig-ibert-2020
+
+evidence_base:
+  unit: participants
+  size:
+    value: 191
+    unit: participants
+  additional_sizes:
+    - value: 2
+      unit: schools
+      note: "middle schools in the metropolitan area of a US city; classes of four teachers"
+    - value: 1560
+      unit: other
+      note: "gameplay log clips labelled by text replay coding to train the detectors"
+  population:
+    description: >-
+      Middle-school students from four teachers' classes at two middle schools
+      in the metropolitan area of a city in the United States; data collected
+      in spring 2015.
+    age_or_stage: "middle school; no grade or age printed"
+    age: unreported
+  context:
+    setting: "Classroom use of the Decimal Point digital learning game over four to five class sessions"
+  arms:
+    - id: ps
+      description: "Problem solving only: students played the mini-games themselves."
+      elements:
+        - term: "problem solving"
+    - id: errex
+      description: "Erroneous examples only: students watched a game character play and make mistakes, then corrected the character's errors."
+      elements:
+        - term: "erroneous examples"
+    - id: errex-ps
+      description: "Erroneous examples, then problem solving."
+      elements:
+        - term: "erroneous examples then problem solving"
+    - id: ps-errex
+      description: "Problem solving, then erroneous examples."
+      elements:
+        - term: "problem solving then erroneous examples"
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations and regressions across all 191 students, conditions pooled; no contrast between conditions."
+  - id: detector-construction
+    kind: none
+    description: "Agreement of the human text-replay labels, and of the detectors with them, during detector construction; no contrast between conditions."
+  - id: errex-conditions-vs-ps
+    kind: between-groups
+    index_arm:
+      - errex
+      - errex-ps
+      - ps-errex
+    reference_arm: ps
+    description: "The three conditions that include erroneous examples against problem solving only, from a one-way ANOVA across the four conditions with Tukey post-hoc tests."
+
+observations:
+
+  - id: gaming-pretest-correlation
+    sample:
+      value: 191
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Prior knowledge of decimals"
+      source_language: "performance on the pretest"
+      measure: "Pretest, one of three isomorphic test versions; correlated with detector-estimated gaming"
+      scale: "Pearson correlation with gaming"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, before game play"
+    result:
+      measure_type: correlation
+      estimate: -0.58
+      p_value: "< .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Gaming is a detector estimate from game logs, not a direct observation.
+      The paper does not say whether the correlation is Pearson's; the scale
+      label follows the r it prints.
+    source_quote: "Gaming was significantly, negatively correlated with performance on the pretest (r = −.58, p < .001) and posttest (r = −.66, p < .001)."
+    source_location: "Results, paragraph 2"
+
+  - id: gaming-posttest-correlation
+    sample:
+      value: 191
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Decimals learning outcome"
+      source_language: "performance on the posttest"
+      measure: "Posttest, one of three isomorphic test versions; correlated with detector-estimated gaming"
+      scale: "correlation with gaming"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, after game play"
+    result:
+      measure_type: correlation
+      estimate: -0.66
+      p_value: "< .001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The interval between the last game session and the posttest is not stated."
+    source_quote: "Gaming was significantly, negatively correlated with performance on the pretest (r = −.58, p < .001) and posttest (r = −.66, p < .001)."
+    source_location: "Results, paragraph 2"
+
+  - id: gaming-beta-posttest-controlling-pretest
+    sample:
+      value: 191
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Decimals learning outcome"
+      source_language: "posttest performance"
+      measure: "Posttest regressed on pretest and gaming"
+      scale: "standardised regression coefficient (beta) for gaming"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, after game play"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.31
+      p_value: "< .001"
+      statistic: "model F(2, 188) = 181.14, p < .001"
+      model: >-
+        Multiple regression of posttest on pretest and gaming. Pretest
+        beta = .59 (p < .001). The partial correlation is not printed.
+      note: >-
+        The paper prints the same F(2, 188) = 181.14 for this model and for
+        the confrustion model; recorded as printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Within the model, both pretest, (β = .59, p < .001) and gaming (β = −.31, p < .001) were significant, indicating that gaming was also a significant, negative predictor of posttest performance even after controlling for pretest."
+    source_location: "Results, paragraph 2"
+
+  - id: confrustion-beta-posttest-controlling-pretest
+    sample:
+      value: 191
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Decimals learning outcome"
+      source_language: "posttest performance"
+      measure: "Posttest regressed on pretest and confrustion"
+      scale: "standardised regression coefficient (beta) for confrustion"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "posttest, after game play"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.32
+      p_value: "< .001"
+      statistic: "model F(2, 188) = 181.14, p < .001"
+      model: >-
+        Multiple regression of posttest on pretest and confrustion. Pretest
+        beta = .57 (p < .001). Confrustion correlated r = -.62 with pretest
+        and r = -.68 with posttest (both p < .001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Within the model, both pretest, (β = .57, p < .001) and confrustion (β = −.32, p < .001) were significant; confrustion was a significant, negative predictor of posttest performance even after controlling for pretest."
+    source_location: "Results, paragraph 1"
+
+  - id: gaming-by-condition
+    comparison_ref: errex-conditions-vs-ps
+    outcome:
+      construct: "Gaming the system"
+      source_language: "levels of gaming"
+      measure: "Detector-estimated gaming during game play, compared across the four conditions"
+      scale: "one-way ANOVA F; Tukey post-hoc p"
+      direction: lower-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during game play"
+    result:
+      measure_type: other
+      statistic: "F(3, 187) = 10.07, p < .001"
+      p_value: "Tukey: PS-only lower, ps < .001; no differences among the other conditions, ps > .91"
+      descriptives: "Gaming M (SD): PS .16 (.11); ErrEx .27 (.17); ErrEx/PS .28 (.13); PS/ErrEx .29 (.13) (Table 1)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No effect size is printed for the condition contrast. Per-condition
+      sample sizes are not printed. The descriptives are copied from Table 1,
+      whose text layer is clean.
+    source_quote: "Similarly, posthoc (Tukey) tests indicated that students in the PS-only condition experienced significantly lower levels of gaming (ps < .001), while there were no differences among the other conditions (ps > .91)."
+    source_location: "Results, paragraph 3; Table 1"
+
+  - id: text-replay-interrater-kappa
+    comparison_ref: detector-construction
+    outcome:
+      construct: "Inter-rater agreement of affect and behaviour labels"
+      source_language: "irr κ"
+      measure: "Text replay coding of 1,560 clips of student logs, used to label confrustion and gaming"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "detector construction, before analysis"
+    result:
+      measure_type: reliability
+      estimate: 0.74
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "irr κ"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The number of coders and the number of clips double-coded are not
+      stated. The paper writes "irr κ"; Cohen's kappa is the statistic its
+      next sentence names for the detectors, and the kappa variant for the
+      raters is not otherwise specified.
+    source_quote: "In this study, we applied text replay coding [19, 20] to student logs to label 1,560 clips (irr κ = .74)."
+    source_location: "Methods, paragraph 3"
+
+  - id: gaming-detector-kappa
+    comparison_ref: detector-construction
+    outcome:
+      construct: "Gaming detector accuracy"
+      source_language: "the gaming detector using the J-Rip classifier"
+      measure: "J-Rip classifier over 23 interaction features (attempts, time spent, restart behaviour), evaluated against the text-replay labels"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "detector construction, before analysis"
+    result:
+      measure_type: reliability
+      estimate: 0.62
+      reliability:
+        statistic: cohens_kappa
+        over: other
+        form: "classifier predictions against human labels; AUC ROC = .85"
+      note: "The confrustion detector (XGBoost) reached AUC ROC = .97, kappa = .81."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The validation scheme (for example cross-validation folds) is not
+      stated. Kappa here measures how far the classifier reproduces the
+      labels, not agreement between people.
+    source_quote: "we built the confrustion detector using the Extreme Gradient Boosting (XGBoost) ensemble tree-based classifier [21] (AUC ROC = .97, κ = .81) and the gaming detector using the J-Rip classifier [22] (AUC ROC = .85, κ = .62)."
+    source_location: "Methods, paragraph 4"
+
+not_yet_extracted:
+  - "Confrustion by condition: F(3, 187) = 14.01, p < .001; PS-only lower (ps < .001); Table 1 means (.24, .46, .45, .47)."
+  - "Pretest-to-posttest improvement across all conditions, F(3, 187) = 167.04, p < .001, and no condition differences on pretest (F(3, 187) = 1.63, p = .18) or posttest (F(3, 187) = 1.65, p = .18); Table 1 pretest and posttest means by condition."
+  - "Discussion comparison of ErrEx confrustion in the game (M = 0.46, SD = 0.26) with the earlier intelligent-tutor study (M = 0.34, SD = 0.16); the second figure is from another study [13] and is not this study's."
