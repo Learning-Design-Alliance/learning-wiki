@@ -1,0 +1,402 @@
+# Bastani, Bastani, Sungu, Ge, Kabakci & Mariman (2025): GPT-4 tutors with and
+# without guardrails in a Turkish high school's mathematics review sessions.
+#
+# Read from the PMC full text (PMC12232635), main article only; the SI
+# Appendix was not read. PMC lists a correction (PNAS 122(34) e2518204122,
+# 10.1073/pnas.2518204122) that was not read either: a reader relying on a
+# figure here should check the correction first.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The four intention-to-treat coefficients of Table 1 (GPT Base and GPT
+#     Tutor against the no-AI control, on assisted practice and on the
+#     unassisted exam), each on a 0-1 normalised grade, with classroom-
+#     clustered SEs.
+#   * The control arm's practice and exam means with their SDs (Table 1), as
+#     `measure_type: mean` named by `arm_ref`.
+#   * GPT Base's own answer accuracy on the 57 practice problems (51%), a
+#     property of the tool rather than of the students.
+#
+# DESIGN FAMILY. The article calls the study a randomised controlled trial and
+# says classrooms were the unit of randomisation, which makes it a cluster
+# design. It is recorded as `randomized-controlled-trial`, not
+# `cluster-randomized-controlled-trial`, only because the cluster family
+# requires an exact count of classes allocated and the article prints only
+# "about fifty" classes; no number is invented to satisfy the schema. The
+# clustering is stated in design_detail and on every coefficient. Class
+# assignment used an integer program matching observable characteristics
+# (footnote #), which the authors argue is random at the student level
+# because students are randomly assigned to classrooms.
+#
+# No age figure is printed (grades 9-11 only), and no reliability coefficient
+# for the rubric grading appears in the main text.
+
+schema_version: 2
+
+study:
+  key: bastani-2025
+  citation: "Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences of the United States of America, 122(26), e2422633122."
+  doi: "10.1073/pnas.2422633122"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Field experiment in one large Turkish high school, Fall 2023-2024: four
+      90-minute mathematics review sessions for about fifty 9th-, 10th- and
+      11th-grade classes. Each classroom was assigned to one of three arms
+      (control, GPT Base, GPT Tutor); the classroom is the unit of
+      randomisation and SEs are clustered at the classroom level. Class
+      assignments were made by an integer program matching observable
+      characteristics under scheduling constraints. Honors-designated
+      classrooms are excluded from the main sample. Intention-to-treat OLS
+      with previous-year GPA and session, grader, grade-level and teacher
+      fixed effects.
+    preregistration:
+      status: preregistered
+      registry: "AsPredicted"
+      id: "4DL_Q3J"
+      source_quote: "Our preregistration is available at https://aspredicted.org/4DL_Q3J; see SI Appendix, Appendix A.6 for a discussion."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: gpt-base-improves-assisted-practice-performance
+    bearing: supports
+    anchor: bastani-hamsa-2025
+  - claim: gpt-base-harms-unassisted-exam-performance
+    bearing: supports
+    anchor: bastani-hamsa-2025
+  - claim: gpt-tutor-exam-effect-null
+    bearing: supports
+    anchor: bastani-hamsa-2025
+  - claim: gpt-tutor-improves-practice-more-than-gpt-base
+    bearing: supports
+    anchor: bastani-hamsa-2025
+
+evidence_base:
+  unit: other
+  size:
+    value: 2848
+    unit: other
+  additional_sizes:
+    - value: 4
+      unit: sessions
+      note: "90-minute study sessions per class"
+    - value: 57
+      unit: items
+      note: "practice problems across grades and sessions, used for the GPT Base error-rate queries"
+  population:
+    description: >-
+      Nearly 1,000 students in about fifty regular (non-honors) 9th-, 10th-
+      and 11th-grade mathematics classes at a large high school in Turkey.
+      The analysed unit is the student-session (2,848 observations in each
+      Table 1 regression). Normalised previous-year GPA had a mean of 0.82
+      and an SD of 0.11 in the main sample.
+    age_or_stage: "9th, 10th and 11th grade (high school); no age figure printed"
+    age: unreported
+  context:
+    setting: >-
+      In-class review sessions on material previously covered, together about
+      15% of each grade's semester mathematics curriculum. Each session: a
+      teacher review of a topic with board examples; an assisted practice
+      period (the only part that differed by arm); then a closed-book,
+      closed-laptop exam whose problems each corresponded to a conceptually
+      similar practice problem. Answers were submitted on paper, graded by
+      independent graders against a teacher-designed rubric, and counted
+      towards students' final grades.
+  arms:
+    - id: control
+      description: "Business as usual: practice problems with course books and notes, no devices."
+      elements:
+        - term: "practice problems with textbook and notes"
+    - id: gpt-base
+      description: "A laptop per student with a ChatGPT-like GPT-4 chat interface whose prompt included the current practice problem and asked GPT-4 to act as a tutor."
+      elements:
+        - term: "unrestricted GPT-4 chat assistance during practice"
+      implementation_notes:
+        - "Students were shown a short instructional video introducing the tool."
+        - "A teacher and a staff member were present to keep students off other applications."
+    - id: gpt-tutor
+      description: "The same chat interface with a prompt instructing GPT-4 to give hints without the answer, and carrying teacher-written problem-specific information: correct solutions, common mistakes and feedback."
+      elements:
+        - term: "GPT-4 tutor with teacher-designed hints and no direct answers"
+      implementation_notes:
+        - "Two part-time mathematics teachers provided the problem-specific prompt inputs."
+        - "Five class sessions did not use the assigned treatment (e.g., laptops did not arrive on time); the analysis is intention-to-treat."
+
+comparisons:
+  - id: gpt-base-vs-control
+    kind: between-groups
+    index_arm: gpt-base
+    reference_arm: control
+    description: "GPT Base classrooms against no-AI control classrooms."
+  - id: gpt-tutor-vs-control
+    kind: between-groups
+    index_arm: gpt-tutor
+    reference_arm: control
+    description: "GPT Tutor classrooms against no-AI control classrooms."
+
+observations:
+
+  - id: practice-gpt-base
+    sample:
+      value: 2848
+      unit: other
+    comparison_ref: gpt-base-vs-control
+    outcome:
+      construct: "Assisted practice performance"
+      source_language: "Practice perf"
+      measure: "Normalised rubric grade on the session's practice problems, solved with the arm's resources"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the assisted practice period of each session"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.137
+      standard_error: 0.031
+      p_value: "< 0.01"
+      model: "ITT OLS on student-session outcomes with previous-year GPA and session, grader, grade-level and teacher fixed effects; HC1 robust SEs clustered by class"
+      interpretation: "Reported by the authors as a 48% improvement relative to the control arm"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The coefficient is in raw grade units (0-1); no standardised effect size
+      is printed. The authors report limited to no heterogeneity by
+      preregistered variables, with details only in the SI Appendix.
+    source_quote: "We find that GPT Base and GPT Tutor substantially increased student scores in the GPT-assisted practice sessions by 0.137 and 0.361 (out of 1), respectively, relative to the control arm that only had access to textbooks (mean performance of 0.28)."
+    source_location: "Main Results; Table 1, column (1)"
+
+  - id: practice-gpt-tutor
+    sample:
+      value: 2848
+      unit: other
+    comparison_ref: gpt-tutor-vs-control
+    outcome:
+      construct: "Assisted practice performance"
+      source_language: "Practice perf"
+      measure: "Normalised rubric grade on the session's practice problems, solved with the arm's resources"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the assisted practice period of each session"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.361
+      standard_error: 0.032
+      p_value: "< 0.01"
+      model: "ITT OLS on student-session outcomes with previous-year GPA and session, grader, grade-level and teacher fixed effects; HC1 robust SEs clustered by class"
+      interpretation: "Reported by the authors as a 127% improvement relative to the control arm"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "We find that GPT Base and GPT Tutor substantially increased student scores in the GPT-assisted practice sessions by 0.137 and 0.361 (out of 1), respectively, relative to the control arm that only had access to textbooks (mean performance of 0.28)."
+    source_location: "Main Results; Table 1, column (1)"
+
+  - id: exam-gpt-base
+    sample:
+      value: 2848
+      unit: other
+    comparison_ref: gpt-base-vs-control
+    outcome:
+      construct: "Unassisted exam performance"
+      source_language: "Exam perf"
+      measure: "Normalised rubric grade on a closed-book, closed-laptop exam taken alone, each problem paired with a conceptually similar practice problem"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, immediately after the practice period"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.054
+      standard_error: 0.022
+      p_value: "< 0.05"
+      model: "ITT OLS on student-session outcomes with previous-year GPA and session, grader, grade-level and teacher fixed effects; HC1 robust SEs clustered by class. The preregistered primary analysis compares unassisted exam outcomes across arms."
+      interpretation: "Reported by the authors as a 17% reduction relative to the average control student's exam performance"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A short-term outcome only: the exam is in the same session as the
+      practice, and the authors say long-term outcomes were not studied.
+    source_quote: "In stark contrast, in the subsequent unassisted exam, student performance in the GPT Base arm degraded by 0.054 (out of 1) relative to that of the control arm. In other words, GPT Base diminished the average control student’s performance on the unassisted exam by 17%."
+    source_location: "Main Results; Table 1, column (2)"
+
+  - id: exam-gpt-tutor
+    sample:
+      value: 2848
+      unit: other
+    comparison_ref: gpt-tutor-vs-control
+    outcome:
+      construct: "Unassisted exam performance"
+      source_language: "Exam perf"
+      measure: "Normalised rubric grade on a closed-book, closed-laptop exam taken alone, each problem paired with a conceptually similar practice problem"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, immediately after the practice period"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.004
+      standard_error: 0.013
+      model: "ITT OLS on student-session outcomes with previous-year GPA and session, grader, grade-level and teacher fixed effects; HC1 robust SEs clustered by class"
+      interpretation: "Statistically indistinguishable from control (no significance mark in Table 1)"
+    moderators:
+      reported: []
+      candidate:
+        - "Students with GPT Tutor could ask it to check their answers during practice, whereas control students saw solutions only after submitting; the authors offer this as a partial explanation of the gap between practice and exam gains"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Student performance in the GPT Tutor arm was statistically indistinguishable from that of the control arm, and the point estimate was smaller by an order of magnitude (−0.004)."
+    source_location: "Main Results; Table 1, column (2)"
+
+  - id: control-practice-mean
+    sample:
+      value: 2848
+      unit: other
+    arm_ref: control
+    outcome:
+      construct: "Assisted practice performance"
+      source_language: "Control arm mean"
+      measure: "Normalised rubric grade on the practice problems, control arm"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the practice period of each session"
+    result:
+      measure_type: mean
+      estimate: 0.284
+      sd: 0.287
+      unit: "normalised grade (0-1)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The sample is the regression's 2,848 student-session observations; the
+      article does not print how many of them are in the control arm. The
+      text rounds this mean to 0.28.
+    source_quote: "Control arm mean 0.284 0.321 Control arm SD 0.287 0.277"
+    source_location: "Table 1, column (1)"
+
+  - id: control-exam-mean
+    sample:
+      value: 2848
+      unit: other
+    arm_ref: control
+    outcome:
+      construct: "Unassisted exam performance"
+      source_language: "Control arm mean"
+      measure: "Normalised rubric grade on the unassisted exam, control arm"
+      scale: "0-1 (normalised grade)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the practice period"
+    result:
+      measure_type: mean
+      estimate: 0.321
+      sd: 0.277
+      unit: "normalised grade (0-1)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The sample is the regression's 2,848 student-session observations; the
+      article does not print how many of them are in the control arm.
+    source_quote: "Control arm mean 0.284 0.321 Control arm SD 0.287 0.277"
+    source_location: "Table 1, column (2)"
+
+  # A property of the tool, not of the students: how often GPT Base, asked the
+  # students' most common question, gave a correct answer.
+  - id: gpt-base-answer-accuracy
+    sample:
+      value: 57
+      unit: items
+    arm_ref: gpt-base
+    outcome:
+      construct: "AI tool answer accuracy"
+      source_language: "GPT Base gives a correct answer"
+      measure: "Each of the 57 practice problems put to GPT Base ten times with \"What is the answer?\", resetting between queries; errors coded by hand as logical or arithmetic"
+      scale: "percent of queries answered correctly, averaged over problems"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the experiment, by the authors"
+    result:
+      measure_type: probability
+      estimate: 51
+      unit: "percent of queries"
+      note: "Logical errors 42% of the time and arithmetic errors 8% of the time; error rates vary considerably by problem (Fig. 2)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Measured by re-querying the tool, not from the students' own
+      conversations. GPT Tutor was not queried this way, because by design it
+      does not return an answer and its prompt carries the correct solution.
+    source_quote: "We find that GPT Base gives a correct answer only 51% of the time on average; it makes logical errors 42% of the time and arithmetic errors 8% of the time."
+    source_location: "Potential Mechanism, GPT Errors vs. Student Performance"
+
+not_yet_extracted:
+  - "Table 1: Prev GPA coefficients (0.802 practice, 1.334 exam), R2 and adjusted R2."
+  - "Table 2: problem-level regression with GPT Base error-rate interactions (e.g., GPT base x logical error rate -0.448 on practice, -0.029 on exam; 13,484 and 11,392 observations), bearing on claims/gpt-base-crutch-mechanism."
+  - "First-interaction shares (56% GPT Base, 42% GPT Tutor repeat the question or ask for the answer; 67% and 37% over all first-session problems) and Fig. 3 engagement rates."
+  - "Student perception results, heterogeneity, HHI dispersion, noncompliance, robustness and attrition analyses: reported only in the SI Appendix, not read."
+  - "The published correction (10.1073/pnas.2518204122) was not read."

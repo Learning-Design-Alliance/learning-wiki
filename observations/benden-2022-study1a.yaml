@@ -1,0 +1,406 @@
+# Benden & Lauermann (2022), Study 1a: expectancy-value beliefs across the
+# first semester of gateway university mathematics courses, and what they
+# predict at the end of term.
+#
+# Read from the authors' pre-print manuscript (draft dated July 25, 2021,
+# marked "not the copy of record"), not from the published article. Figures
+# here are the manuscript's; a reader relying on one should check the
+# published version (Journal of Educational Psychology 114(5), 1062-1085).
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * Course dropout odds ratios from Table 4's logit latent change models:
+#     initial (T1) expectancy, intrinsic value and utility value, and the
+#     change in expectancy and intrinsic value to midterm (dT5T1), each from
+#     a separate per-construct model controlling for gender, SES, high school
+#     GPA, preparatory-course participation and course dummies.
+#   * `measure_type: reliability` for the outcome-side scales the article
+#     reports in its own text: alpha .67-.92 for the expectancy-value scales
+#     across time points (a range, `estimate_range`), and alpha .89 for study
+#     program satisfaction.
+#   * The course dropout base rate (39%), which an odds ratio needs beside it.
+#   * `population.age: unreported`: the article prints study year (90% first
+#     year) but no age figure.
+#
+# Table 4's rows read cleanly in the text layer (four values per row: the
+# satisfaction beta, the exam beta, the dropout beta and the dropout odds
+# ratio), and the text's "19% to 20% less likely to drop out" agrees with the
+# change-score odds ratios of 0.81 and 0.80. Table 1's Cronbach's alpha row
+# has lost its column alignment (16 values under 22 columns), so the
+# per-scale alphas are not recorded; the text's range is.
+#
+# Study 1b (a weekly-assessment subsample of 773 from the same students) is a
+# different sample and is not recorded here.
+
+schema_version: 2
+
+study:
+  key: benden-2022-study1a
+  citation: "Benden, D. K., & Lauermann, F. (2022). Students’ motivational trajectories and academic success in math-intensive study programs: Why short-term motivational assessments matter. Journal of Educational Psychology, 114(5), 1062–1085."
+  doi: "10.1037/edu0000708"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Three-wave panel survey (Week 2, Week 8, Week 15 of the first semester)
+      in six cohorts of required first-semester mathematics courses at one
+      German university. Latent change score models in Mplus 8.3 (MLR, FIML
+      for missing data); for course dropout, separate per-construct models
+      with a logit link and Monte Carlo integration. Observational: nothing
+      was manipulated.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: course-dropout-correlates-gateway-math
+    bearing: supports
+    anchor: daria-katharina-benden-and-fani-lauermann-2021
+  - claim: motivational-changes-predict-academic-outcomes
+    bearing: supports
+    anchor: daria-katharina-benden-and-fani-lauermann-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1004
+    unit: participants
+  additional_sizes:
+    - value: 318
+      unit: participants
+      note: "female participants"
+    - value: 366
+      unit: participants
+      note: "enrolled in physics"
+    - value: 445
+      unit: participants
+      note: "enrolled in math"
+    - value: 193
+      unit: participants
+      note: "enrolled in math teacher education"
+    - value: 1038
+      unit: participants
+      note: "initial sample before excluding 27 students with no linking code and 7 with systematic answer patterns"
+  population:
+    description: >-
+      Students in required mathematics courses for beginning students in
+      physics, mathematics and mathematics teacher education at a German
+      university, two consecutive winter-term cohorts per program (2017 and
+      2018). Of those with valid demographic data, 90% were in their first
+      year, 90% were born in Germany and 86% mostly spoke German at home.
+      34% female; high school GPA recoded so that higher is better
+      (M = 3.1, SD = 0.64, range 1 to 4); 65% had taken a preparatory math
+      course.
+    age_or_stage: "First-semester university students (90% in their first year); no age figure printed"
+    age: unreported
+  context:
+    setting: >-
+      Paper-and-pencil questionnaires in regular math lectures (98%-100% of
+      those present took part). Weekly mandatory, highly demanding math
+      worksheets had to be passed to qualify for the exam, with feedback in
+      separate tutoring sections; the end-of-semester exam determined the
+      course grade.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Associations and scale properties in the whole Study 1a sample; no contrast between groups."
+
+observations:
+
+  - id: dropout-or-expectancy-t1
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "course dropout"
+      measure: "Not attending the end-of-semester (Week 15) data collection; predictor: course-specific expectancy at Week 2 (three items, 6-point scale)"
+      scale: "odds ratio"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "predictor at Week 2; dropout at Week 15"
+    result:
+      measure_type: odds_ratio
+      estimate: 0.84
+      p_value: "< .001"
+      model: >-
+        Expectancy latent change model with a logit link for course dropout,
+        controlling for gender, SES, high school GPA, preparatory-course
+        participation and course dummies; the standardised path from T1
+        expectancy to dropout was -.17.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The p value is the significance mark on the standardised path printed
+      beside the odds ratio. Table 4 does not say what unit of the predictor
+      the odds ratio is per; no interval is printed.
+    source_quote: "T1 .62*** .31*** −.17*** 0.84"
+    source_location: "Table 4, Expectancy rows, course dropout columns"
+
+  - id: dropout-or-expectancy-change
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "course dropout"
+      measure: "Not attending the Week 15 data collection; predictor: latent change in expectancy from Week 2 to Week 8 (dT5T1)"
+      scale: "odds ratio"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change Week 2 to Week 8; dropout at Week 15"
+    result:
+      measure_type: odds_ratio
+      estimate: 0.81
+      p_value: "< .001"
+      model: "Same expectancy model; the standardised path from the dT5T1 change score to dropout was -.22."
+      interpretation: >-
+        The authors read the change-score odds ratios for expectancy and
+        intrinsic value as: students one SD above the mean change score were
+        19% to 20% less likely to drop out than students with mean-level
+        declines.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Students who experienced smaller declines in their expectancy and intrinsic value (i.e., one standard deviation above the sample mean of the change score) were 19% to 20% less likely to drop out of their math course than students with mean-level motivational declines."
+    source_location: "Study 1a Results, Motivational Changes as a Predictor of Students’ Academic Success; Table 4 (ΔT5T1 .39*** .27*** −.22*** 0.81)"
+
+  - id: dropout-or-intrinsic-value-t1
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "course dropout"
+      measure: "Not attending the Week 15 data collection; predictor: course-specific intrinsic value at Week 2 (two items, 6-point scale)"
+      scale: "odds ratio"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "predictor at Week 2; dropout at Week 15"
+    result:
+      measure_type: odds_ratio
+      estimate: 0.84
+      p_value: "< .001"
+      model: "Intrinsic value latent change model with a logit link, same controls; the standardised path from T1 intrinsic value to dropout was -.18."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Table 4 does not say what unit of the predictor the odds ratio is per;
+      no interval is printed.
+    source_quote: "T1 .70*** .24*** −.18*** 0.84"
+    source_location: "Table 4, Intrinsic value rows, course dropout columns"
+
+  - id: dropout-or-intrinsic-value-change
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "course dropout"
+      measure: "Not attending the Week 15 data collection; predictor: latent change in intrinsic value from Week 2 to Week 8 (dT5T1)"
+      scale: "odds ratio"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change Week 2 to Week 8; dropout at Week 15"
+    result:
+      measure_type: odds_ratio
+      estimate: 0.80
+      p_value: "< .01"
+      model: "Same intrinsic value model; the standardised path from the dT5T1 change score to dropout was -.23."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "ΔT5T1 .48*** .20** −.23** 0.80"
+    source_location: "Table 4, Intrinsic value rows, course dropout columns"
+
+  # Utility value is the expectancy-value construct whose initial level did
+  # NOT predict dropout; recorded so that "value predicts dropout" is not read
+  # as holding for every value component.
+  - id: dropout-or-utility-value-t1
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "course dropout"
+      measure: "Not attending the Week 15 data collection; predictor: course-specific utility value at Week 2 (two items, 6-point scale)"
+      scale: "odds ratio"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "predictor at Week 2; dropout at Week 15"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.04
+      model: "Utility value latent change model with a logit link, same controls; the standardised path from T1 utility value to dropout was .04, with no significance mark."
+      interpretation: "Not significant; the text says changes in cost and utility value failed to predict course dropout"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "T1 .49*** .18** .04 1.04"
+    source_location: "Table 4, Utility value rows, course dropout columns"
+
+  - id: course-dropout-rate
+    sample:
+      value: 1004
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Course dropout"
+      source_language: "Course Dropout"
+      measure: "Lack of attendance at the end-of-semester (T6) data collection"
+      scale: "percent of the sample"
+      direction: lower-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester (Week 15)"
+    result:
+      measure_type: probability
+      estimate: 39
+      unit: "percent of the sample"
+      note: "24% were absent at both T5 and T6, and an additional 15% at T6 only"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Dropout is inferred from attendance at the data collection, not from
+      course records; the authors note that nearly all students present took
+      part.
+    source_quote: "Students’ lack of attendance at the end of the semester (T6) was used as an indicator of course dropout in our analyses (39% of the sample)."
+    source_location: "Study 1a Measures, Course Dropout"
+
+  - id: expectancy-value-scales-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Expectancy and subjective task values (five scales)"
+      source_language: "The internal consistencies of these constructs"
+      measure: "Expectancy (three items), intrinsic value, utility value, psychological cost and effort cost (two items each), 6-point scale, at Weeks 2, 8 and 15"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Weeks 2, 8 and 15"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.67
+        upper: 0.92
+        over:
+          value: 5
+          unit: scales
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is across the five scales and the three time points. The
+      per-scale alphas are in Table 1, whose alpha row lost its column
+      alignment in the text layer, so none is assigned to a scale here.
+    source_quote: "The internal consistencies of these constructs ranged from α = .67 to .92 across time points (see Table 1 as well as the online supplemental materials for the full list of items)."
+    source_location: "Study 1a Measures, Expectancy and Subjective Task Value Beliefs"
+
+  - id: study-program-satisfaction-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Study program satisfaction"
+      source_language: "Study Program Satisfaction"
+      measure: "Five items: certainty about study choice (two), overall satisfaction (two), dropout intentions (one, reverse-scored), 6-point scales, Week 15"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester (Week 15)"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as very good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The internal consistency of the scale was very good (α = .89)."
+    source_location: "Study 1a Measures, Study Program Satisfaction"
+
+not_yet_extracted:
+  - "Table 4: standardised paths to study program satisfaction and exam performance, and the psychological and effort cost dropout odds ratios (T1 1.12 and 1.10; change 1.04 and 1.03) and utility value change (0.93)."
+  - "Table 1: per-scale Cronbach's alphas and the descriptive means, SDs and Ns; the alpha row's column alignment is lost in the text layer."
+  - "Table 2: latent means and variances of the change scores (e.g., the text's dM = -0.36 to -0.30 for expectancy and values), and the plausible-value shares of students with significant change (10%-21% declines)."
+  - "Table 3: predictors of initial motivation and change (gender, high school GPA, SES, preparatory course, course dummies)."
+  - "Bivariate correlations of course dropout with SES (-.11), high school GPA (-.39) and preparatory course (-.23)."
+  - "Study 1b (subsample of 773, weekly assessments in Weeks 2-4; dropout 13%-25% less likely per smaller motivational shock): a different sample, not recorded."
