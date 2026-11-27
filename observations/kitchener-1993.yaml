@@ -1,0 +1,641 @@
+# Kitchener, Lynch, Fischer & Wood (1993): reflective judgment measured with
+# and without contextual support, in 156 students aged 14 to 28.
+#
+# The support contrast is WITHIN the same people. The 104 students of the
+# experimental condition answered the Reflective Judgment Interview (RJI, no
+# support: functional level) and then the Prototypic Reflective Judgment
+# Interview (PRJI, high support: optimal level) in one session, and both again
+# about two weeks later after written practice material. 52 further students
+# took only the RJI twice (test-retest control). The article does not say how
+# students were allocated to the two conditions, so no assignment is claimed;
+# the design family is `other`.
+#
+# What is recorded:
+#   * the measure (support) effect, F(1, 363) = 59.99, PRJI above RJI mean;
+#   * the same contrast against the RJI scored for its highest stage, which
+#     did not differ from the PRJI, F(1, 363) = 0.02;
+#   * the two mean differences the authors print themselves (RJI Time 1 to
+#     PRJI Time 2: 0.61 for ages 14-18, 1.02 for ages 23-28);
+#   * the Time 1 means and SDs of the RJI and the PRJI for each of the three
+#     age groups (Table 2), which is the same-session with/without-support
+#     contrast. The article prints no standardised effect size and no
+#     correlation between the two measures within groups, so no paired d is
+#     recorded or derivable here;
+#   * the reliability figures printed for THIS sample: RJI rater agreement 78%
+#     and interrater reliability .78, PRJI agreement 85%, PRJI split-half .85,
+#     RJI test-retest r = .87 in the control group. The RJI reliabilities from
+#     earlier studies (Sakalys 1982; Welfel 1982; Kitchener & King 1981) are
+#     other samples' figures and are listed in not_yet_extracted.
+#
+# Age: the article prints the range (14-28) and the design (12 students at each
+# age from 14 to 24, twelve aged 25-26 and twelve aged 27-28), no mean or SD.
+#
+# Read from the publisher PDF (a scan with an OCR text layer). The text layer
+# escapes characters ("p \< .001"), misreads digits ("F(l, 363)", "F(\\, 363)")
+# and scrambles Table 2. The source_quote of `support-measure-effect`,
+# `rji-highest-stage-vs-prji`, the two mean differences and every Table 2 mean
+# was therefore copied from the page images (pp. 897-898), in the article's
+# own characters; Table 2 row quotes are the row as printed on the page.
+#
+# DOI: the article (1993) prints none. 10.1037/0012-1649.29.5.893 matches its
+# journal, volume, issue and pages, and Crossref's record for it gives this
+# title and these four authors.
+
+schema_version: 2
+
+study:
+  key: kitchener-1993
+  citation: "Kitchener, K. S., Lynch, C. L., Fischer, K. W., & Wood, P. K. (1993). Developmental range of reflective judgment: The effect of contextual support and practice on developmental stage. Developmental Psychology, 29(5), 893–906."
+  doi: "10.1037/0012-1649.29.5.893"
+  design:
+    family: other
+    design_detail: >-
+      Cross-sectional age design (ages 14-28) with repeated measures. In the
+      experimental condition the same students took a low-support interview
+      (RJI) and then a high-support interview (PRJI) in one 2-hr session, were
+      given practice material, and took both again about 2 weeks later
+      (Age x Measure x Time general linear models). A test-retest control
+      group took only the RJI at both sessions. Allocation of students to the
+      two conditions is not described, and no randomisation is stated.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: rji-stable-across-retest-small-practice-effect
+    bearing: supports
+    anchor: kitchener-1993
+  - claim: rji-highest-stage-matches-prji
+    bearing: supports
+    anchor: kitchener-1993
+  - claim: rji-highest-stage-estimates-optimal-level
+    bearing: supports
+    anchor: kitchener-1993
+
+evidence_base:
+  unit: participants
+  size:
+    value: 156
+    unit: participants
+  additional_sizes:
+    - value: 104
+      unit: participants
+      note: "experimental condition, 8 per age group; RJI data missing at Time 1 for one 21-year-old"
+    - value: 52
+      unit: participants
+      note: "test-retest control condition, 4 per age group, RJI only"
+  population:
+    description: >-
+      Volunteers from local middle and high schools (drawn from the upper
+      third of their class on standardised achievement tests) and
+      undergraduate and graduate volunteers at a private university
+      (undergraduates from the upper half of the University of Denver on
+      college entrance scores). Six female and six male students at each age.
+    age_or_stage: "14 to 28 years: twelve at each age from 14 to 24, twelve aged 25-26 and twelve aged 27-28"
+    age:
+      unit: years
+      min: 14
+      max: 28
+  context:
+    setting: "Individual interviews (five trained interviewers) over one year; two sessions about 2 weeks apart, each with the same interviewer"
+  arms:
+    - id: rji-ages-14-18
+      description: "Experimental condition, ages 14-18 (Group 1): the Reflective Judgment Interview, two ill-structured problems (chemical additives, pyramids) answered without support; scored as mean stage."
+      size: {value: 40, unit: participants}
+    - id: prji-ages-14-18
+      description: "Experimental condition, ages 14-18 (Group 1): the Prototypic Reflective Judgment Interview, the same two problems with prototypic stage statements (Stages 2-7) to read, discuss and summarise, memory prompts and a question list; scored as highest stage hit."
+      size: {value: 40, unit: participants}
+      elements:
+        - term: "contextual support (prototypic statements, memory prompts, guiding questions)"
+    - id: rji-ages-19-22
+      description: "Experimental condition, ages 19-22 (Group 2): the RJI without support, scored as mean stage."
+      size: {value: 32, unit: participants}
+    - id: prji-ages-19-22
+      description: "Experimental condition, ages 19-22 (Group 2): the PRJI with contextual support."
+      size: {value: 32, unit: participants}
+      elements:
+        - term: "contextual support (prototypic statements, memory prompts, guiding questions)"
+    - id: rji-ages-23-28
+      description: "Experimental condition, ages 23-28 (Group 3): the RJI without support, scored as mean stage."
+      size: {value: 32, unit: participants}
+    - id: prji-ages-23-28
+      description: "Experimental condition, ages 23-28 (Group 3): the PRJI with contextual support."
+      size: {value: 32, unit: participants}
+      elements:
+        - term: "contextual support (prototypic statements, memory prompts, guiding questions)"
+    - id: rji-highest-stage-experimental
+      description: "Experimental condition, all ages: the same RJI responses scored for the highest stage represented at least twice among the two raters' six digits."
+      size: {value: 104, unit: participants}
+    - id: rji-test-retest-control
+      description: "Test-retest control condition: the 1-hr RJI only, at both sessions, with no practice material or instructions."
+      size: {value: 52, unit: participants}
+
+comparisons:
+  - id: prji-vs-rji-mean
+    kind: other
+    index_arm: [prji-ages-14-18, prji-ages-19-22, prji-ages-23-28]
+    reference_arm: [rji-ages-14-18, rji-ages-19-22, rji-ages-23-28]
+    description: "Within-subject: the same experimental students' PRJI (high support) against their RJI mean score (no support), across age groups and both testings."
+  - id: prji-vs-rji-highest-stage
+    kind: other
+    index_arm: [prji-ages-14-18, prji-ages-19-22, prji-ages-23-28]
+    reference_arm: rji-highest-stage-experimental
+    description: "Within-subject: the same experimental students' PRJI against their RJI scored for highest stage."
+  - id: prji-t2-vs-rji-t1-ages-14-18
+    kind: other
+    index_arm: prji-ages-14-18
+    reference_arm: rji-ages-14-18
+    description: "Within-subject, ages 14-18: PRJI at Time 2 (support plus practice) against RJI at Time 1 (no support, no practice)."
+  - id: prji-t2-vs-rji-t1-ages-23-28
+    kind: other
+    index_arm: prji-ages-23-28
+    reference_arm: rji-ages-23-28
+    description: "Within-subject, ages 23-28: PRJI at Time 2 (support plus practice) against RJI at Time 1."
+  - id: rating-agreement
+    kind: none
+    description: "Agreement between raters scoring the interviews; no contrast between groups."
+
+observations:
+
+  - id: support-measure-effect
+    sample:
+      value: 104
+      unit: participants
+    comparison_ref: prji-vs-rji-mean
+    outcome:
+      construct: "Reflective judgment stage"
+      source_language: "PRJI scores higher than RJI mean scores"
+      measure: "Reflective judgment stage (1-7) on two ill-structured problems; RJI mean stage against PRJI highest stage hit"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 and Time 2, about 2 weeks apart"
+    result:
+      measure_type: other
+      statistic: "F(1, 363) = 59.99"
+      p_value: "< .001"
+      model: >-
+        Age (13 groups, 25-26 and 27-28 combined) x Measure x Time general
+        linear model on the experimental group; overall F(51, 363) = 9.14,
+        R2 = .56. Time effect F(1, 363) = 13.12; age effect F(12, 363) =
+        30.93. No Age x Measure or Age x Time x Measure interaction was
+        significant.
+      interpretation: "Scores were higher with high support (PRJI) than without (RJI mean)"
+    moderators:
+      reported: []
+      candidate:
+        - "Age group: the RJI Time 1 to PRJI Time 2 difference was 0.61 at ages 14-18 and 1.02 at ages 23-28, but no interaction involving age was significant; the authors attribute this to heteroscedasticity reducing power."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No standardised effect size is printed for the measure effect. The
+      denominator df (363) pools both measures and both times, so it is not a
+      count of participants.
+    source_quote: "Finally, there was a significant measure effect, F(1, 363) = 59.99, p < .001, with PRJI scores higher than RJI mean scores."
+    source_location: "p. 897, Results, Comparison of No Support and High Support Conditions"
+
+  - id: rji-highest-stage-vs-prji
+    sample:
+      value: 104
+      unit: participants
+    comparison_ref: prji-vs-rji-highest-stage
+    outcome:
+      construct: "Reflective judgment stage"
+      source_language: "RJI highest stage scores and PRJI scores"
+      measure: "PRJI highest stage hit against the RJI highest-stage score"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 and Time 2, about 2 weeks apart"
+    result:
+      measure_type: other
+      statistic: "F(1, 363) = 0.02"
+      p_value: "> .8"
+      model: "Parallel Age x Measure x Time model; overall F(51, 363) = 8.45; time F(1, 363) = 11.10 and age F(12, 363) = 32.70 both significant."
+      interpretation: "No difference between the PRJI and the RJI scored for highest stage"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "the comparison of RJI highest stage scores and PRJI scores was not even marginally significantly different, F(1, 363) = 0.02, p > .8."
+    source_location: "p. 898, Results"
+
+  - id: rji-t1-to-prji-t2-diff-ages-14-18
+    sample:
+      value: 40
+      unit: participants
+    comparison_ref: prji-t2-vs-rji-t1-ages-14-18
+    outcome:
+      construct: "Reflective judgment stage"
+      source_language: "difference between RJI Time 1 means and PRJI Time 2 means"
+      measure: "PRJI highest stage hit at Time 2 minus RJI mean stage at Time 1"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "RJI at Time 1; PRJI at Time 2, about 2 weeks later"
+      offset: {value: 2, unit: weeks, from: "Time 1 session"}
+    result:
+      measure_type: mean_difference
+      estimate: 0.61
+      unit: "reflective judgment stages"
+      interpretation: "The authors note that a half-stage difference has been described as practically significant in reflective judgment research"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Confounds support with practice and retesting: the two measures are two
+      weeks apart and the practice material came between them.
+    source_quote: "Specifically, the difference between RJI Time 1 means and PRJI Time 2 means for Group 1 is 0.61, and the difference for Group 3 is 1.02, suggesting a larger difference between scores for the older group."
+    source_location: "p. 898, Results; Table 2"
+
+  - id: rji-t1-to-prji-t2-diff-ages-23-28
+    sample:
+      value: 32
+      unit: participants
+    comparison_ref: prji-t2-vs-rji-t1-ages-23-28
+    outcome:
+      construct: "Reflective judgment stage"
+      source_language: "difference between RJI Time 1 means and PRJI Time 2 means"
+      measure: "PRJI highest stage hit at Time 2 minus RJI mean stage at Time 1"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "RJI at Time 1; PRJI at Time 2, about 2 weeks later"
+      offset: {value: 2, unit: weeks, from: "Time 1 session"}
+    result:
+      measure_type: mean_difference
+      estimate: 1.02
+      unit: "reflective judgment stages"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Confounds support with practice and retesting, as for ages 14-18."
+    source_quote: "Specifically, the difference between RJI Time 1 means and PRJI Time 2 means for Group 1 is 0.61, and the difference for Group 3 is 1.02, suggesting a larger difference between scores for the older group."
+    source_location: "p. 898, Results; Table 2"
+
+  - id: rji-t1-mean-ages-14-18
+    sample: {value: 40, unit: participants}
+    arm_ref: rji-ages-14-18
+    outcome:
+      construct: "Reflective judgment stage without support"
+      source_language: "Reflective Judgment Interview (RJI)"
+      measure: "RJI mean stage"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1"
+    result:
+      measure_type: mean
+      estimate: 3.63
+      sd: 0.54
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Group 1 (ages 14-18) Time 1 3.63 0.54 4.15 0.70 4.04 0.62"
+    source_location: "Table 2, p. 898 (RJI M, SD)"
+
+  - id: prji-t1-mean-ages-14-18
+    sample: {value: 40, unit: participants}
+    arm_ref: prji-ages-14-18
+    outcome:
+      construct: "Reflective judgment stage with contextual support"
+      source_language: "Prototypic Reflective Judgment Interview (PRJI)"
+      measure: "PRJI highest stage hit, averaged over the two problems"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1, same session as the RJI"
+    result:
+      measure_type: mean
+      estimate: 4.04
+      sd: 0.62
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Group 1 (ages 14-18) Time 1 3.63 0.54 4.15 0.70 4.04 0.62"
+    source_location: "Table 2, p. 898 (PRJI M, SD)"
+
+  - id: rji-t1-mean-ages-19-22
+    sample: {value: 31, unit: participants}
+    arm_ref: rji-ages-19-22
+    outcome:
+      construct: "Reflective judgment stage without support"
+      source_language: "Reflective Judgment Interview (RJI)"
+      measure: "RJI mean stage"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1"
+    result:
+      measure_type: mean
+      estimate: 4.42
+      sd: 0.63
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "n = 31 at Time 1 for RJI scores (one missing record), per the Table 2 note."
+    source_quote: "Group 2 (ages 19-22) Time 1 4.42 0.63 5.00 0.68 4.97 1.03"
+    source_location: "Table 2, p. 898 (RJI M, SD)"
+
+  - id: prji-t1-mean-ages-19-22
+    sample: {value: 32, unit: participants}
+    arm_ref: prji-ages-19-22
+    outcome:
+      construct: "Reflective judgment stage with contextual support"
+      source_language: "Prototypic Reflective Judgment Interview (PRJI)"
+      measure: "PRJI highest stage hit, averaged over the two problems"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1, same session as the RJI"
+    result:
+      measure_type: mean
+      estimate: 4.97
+      sd: 1.03
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Group 2 (ages 19-22) Time 1 4.42 0.63 5.00 0.68 4.97 1.03"
+    source_location: "Table 2, p. 898 (PRJI M, SD)"
+
+  - id: rji-t1-mean-ages-23-28
+    sample: {value: 32, unit: participants}
+    arm_ref: rji-ages-23-28
+    outcome:
+      construct: "Reflective judgment stage without support"
+      source_language: "Reflective Judgment Interview (RJI)"
+      measure: "RJI mean stage"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1"
+    result:
+      measure_type: mean
+      estimate: 5.05
+      sd: 0.85
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Group 3 (ages 23-28) Time 1 5.05 0.85 5.75 0.98 5.66 1.07"
+    source_location: "Table 2, p. 898 (RJI M, SD)"
+
+  - id: prji-t1-mean-ages-23-28
+    sample: {value: 32, unit: participants}
+    arm_ref: prji-ages-23-28
+    outcome:
+      construct: "Reflective judgment stage with contextual support"
+      source_language: "Prototypic Reflective Judgment Interview (PRJI)"
+      measure: "PRJI highest stage hit, averaged over the two problems"
+      scale: "reflective judgment stage"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1, same session as the RJI"
+    result:
+      measure_type: mean
+      estimate: 5.66
+      sd: 1.07
+      unit: "reflective judgment stage"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Group 3 (ages 23-28) Time 1 5.05 0.85 5.75 0.98 5.66 1.07"
+    source_location: "Table 2, p. 898 (PRJI M, SD)"
+
+  - id: rji-rater-agreement-percent
+    comparison_ref: rating-agreement
+    outcome:
+      construct: "Inter-rater agreement on RJI scores"
+      source_language: "The raters were in agreement on 78% of the first-round ratings"
+      measure: "Two certified raters' three-digit stage codes per problem; agreement when the sums were within 2 points"
+      scale: "percent of first-round ratings in agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first round of rating, before rerating and consensus"
+    result:
+      measure_type: reliability
+      estimate: 78
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "sums of the two raters' three-digit codes within 2 points"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Disagreements were rerated blind and then resolved by consensus, so the analysed scores are post-consensus."
+    source_quote: "The raters were in agreement on 78% of the first-round ratings, and interrater reliability was .78."
+    source_location: "p. 896, Measures, Reflective Judgment Interview"
+
+  - id: rji-interrater-reliability
+    comparison_ref: rating-agreement
+    outcome:
+      construct: "Inter-rater reliability of RJI scores"
+      source_language: "interrater reliability"
+      measure: "Two certified raters' stage codes per problem"
+      scale: "interrater reliability coefficient (type not stated)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first round of rating"
+    result:
+      measure_type: reliability
+      estimate: 0.78
+      reliability:
+        statistic: other
+        over: raters
+        form: "interrater reliability; the coefficient is not named"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The raters were in agreement on 78% of the first-round ratings, and interrater reliability was .78."
+    source_location: "p. 896, Measures, Reflective Judgment Interview"
+
+  - id: prji-rater-agreement-percent
+    sample:
+      value: 39
+      unit: other
+    comparison_ref: rating-agreement
+    outcome:
+      construct: "Inter-rater agreement on PRJI scores"
+      source_language: "resulting in 85% agreement"
+      measure: "Hit/miss ratings of summary responses, scored from audiotapes"
+      scale: "percent agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "rating of PRJI audiotapes"
+    result:
+      measure_type: reliability
+      estimate: 85
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "`sample` is the percent of interviews double-rated (39%), not a count of people; the article gives no count."
+    source_quote: "Thirty-nine percent of the interviews were rated by more than one rater, resulting in 85% agreement."
+    source_location: "p. 897, Measures, Prototypic Reflective Judgment Interview"
+
+  - id: prji-split-half-reliability
+    arm_ref: [prji-ages-14-18, prji-ages-19-22, prji-ages-23-28]
+    outcome:
+      construct: "Internal consistency of PRJI scores"
+      source_language: "split-half reliability for the PRJI"
+      measure: "PRJI highest stage hit on the two problems (pyramids, chemicals)"
+      scale: "split-half reliability"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 and Time 2 (the same value at each)"
+    result:
+      measure_type: reliability
+      estimate: 0.85
+      reliability:
+        statistic: other
+        over: items
+        form: "split-half, the two problems as halves"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      That the halves are the two problems is read from the next sentence,
+      which averages the two problems' scores because the reliability was high;
+      any step-up correction is not stated.
+    source_quote: "The split-half reliability for the PRJI was .85 both at the first and second testings."
+    source_location: "p. 897, Measures, Prototypic Reflective Judgment Interview"
+
+  - id: rji-test-retest-reliability-control
+    sample:
+      value: 52
+      unit: participants
+    arm_ref: rji-test-retest-control
+    outcome:
+      construct: "Test-retest reliability of RJI mean scores"
+      source_language: "Test-retest reliability based on the combined RJI mean score"
+      measure: "RJI mean stage at two sessions about 2 weeks apart, no intervention between"
+      scale: "correlation"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Time 1 to Time 2"
+      offset: {value: 2, unit: weeks, from: "Time 1 session"}
+    result:
+      measure_type: reliability
+      estimate: 0.87
+      reliability:
+        statistic: other
+        over: occasions
+        form: "test-retest r"
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Test-retest reliability based on the combined RJI mean score for this group was r =.87."
+    source_location: "p. 899, Effects of Retesting on RJI Scores"
+
+not_yet_extracted:
+  - "Table 2 Time 2 means and SDs, and the RJI highest-stage column, for all three age groups (read cleanly from the page image; not recorded)."
+  - "Testing-condition effect on RJI mean scores, experimental against test-retest control: F(1, 259) = 5.77, p = .017 (RJI means 4.21 control, 4.41 experimental); condition x time F(1, 259) = 3.26, p = .07."
+  - "Correlations of the PRJI with RJI mean scores (.71 Time 1, .74 Time 2); PRJI Guttman scaling (over 99% scaled perfectly)."
+  - "ANCOVAs with WISC-R/WAIS-R Vocabulary scaled score as covariate (mean scaled scores 13.35, 13.44, 14.06 by group); age effects survive."
+  - "Developmental spurt analyses (Waller-Duncan tests on adjacent ages, Figure 1) and gender analyses (Table 3)."
+  - "RJI reliabilities from earlier samples cited by the article (test-retest .71-.83, Sakalys 1982; coefficient alpha .62 to .96, Welfel 1982 and Kitchener & King 1981): other studies' figures, not this sample's."
