@@ -1,0 +1,317 @@
+# Kievit, Hofman & Nation (2019): mutualistic coupling between vocabulary and
+# reasoning in children aged 6-8, a replication of Kievit et al. (2017).
+#
+# Read from the PubMed Central full text (PMC6691592, CC BY 4.0), text only; the
+# figure (Fig. 2, all standardised and raw parameters) and the supplement (Tables
+# S1-S2, Figs. S1-S3) were not available, so every figure below comes from the
+# running text.
+#
+# A correction was published (Erratum, Psychological Science 30(8), 1253,
+# doi:10.1177/0956797619860523, registered in Crossref as a correction to this
+# article). Its content was not read, so whether it changes any figure recorded
+# here is not established.
+#
+# One cohort, no assigned conditions: arms are empty and every result rests on a
+# whole-sample comparison of kind `none`, as in marsh-2015-study1. The coupling
+# parameters are the paper's own fitted estimates (standardised), recorded as
+# printed. The article labels the reasoning-to-vocabulary coupling "(r)" and the
+# vocabulary-to-reasoning coupling "β"; both are standardised path parameters of
+# the same latent change score model and are recorded as regression coefficients.
+
+schema_version: 2
+
+study:
+  key: kievit-2019
+  citation: "Kievit, R. A., Hofman, A. D., & Nation, K. (2019). Mutualistic coupling between vocabulary and reasoning in young children: A replication and extension of the study by Kievit et al. (2017). Psychological Science, 30(8), 1245–1252."
+  doi: "10.1177/0956797619841265"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Cohort of 227 children tested in four waves; Waves 2 to 4 analysed (WASI
+      vocabulary and matrix reasoning). Bivariate latent change score models
+      comparing g-factor, investment and mutualism accounts (lavaan, robust ML
+      with Yuan-Bentler correction, FIML for missing data), with a
+      parallel-process latent growth model and a random-intercept cross-lagged
+      panel model as robustness checks. No intervention; associational.
+    preregistration:
+      status: not-preregistered
+      source_quote: "The design and analysis plans were not preregistered."
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: coupling-stronger-self-feedback-weaker-younger-children
+    bearing: supports
+    anchor: kievit-r-a-2019
+  - claim: vocabulary-drives-reasoning-gains
+    bearing: supports
+    anchor: kievit-r-a-2019
+  - claim: parallel-process-validates-cross-domain-coupling
+    bearing: supports
+    anchor: kievit-r-a-2019
+
+evidence_base:
+  unit: participants
+  size:
+    value: 227
+    unit: participants
+  population:
+    description: >-
+      Convenience cohort of 227 children (129 girls) studied at the University
+      of Oxford; the analysed waves were tested at ages 6.22, 7.22 and 8.22
+      years.
+    age_or_stage: >-
+      Four waves at ages 4.8, 6.22, 7.22 and 8.22 years; Wave 1 (WPPSI rather
+      than WASI) was not analysed. The abstract describes the sample as "6–8
+      years old". No SD or per-child range is printed.
+    age:
+      unit: years
+      min: 6
+      max: 8
+      note: "The abstract's '(N = 227, 6–8 years old)'; the analysed waves were at ages 6.22, 7.22 and 8.22 (Method)."
+  context:
+    setting: "Longitudinal cohort testing with the Wechsler Abbreviated Scale of Intelligence, United Kingdom (Oxford)"
+  arms: []
+
+comparisons:
+  - id: whole-cohort
+    kind: none
+    description: "Structural parameters of models fitted to the whole cohort across Waves 2 to 4; no contrast between groups."
+
+observations:
+
+  - id: coupling-reasoning-to-vocabulary-change-wave2
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Vocabulary growth"
+      source_language: "the coupling parameter (r) from reasoning to changes in vocabulary"
+      measure: "Latent change in WASI vocabulary between waves, regressed on matrix reasoning at the earlier wave"
+      scale: "standardised coupling parameter, latent change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2 to Wave 3 (ages about 6.22 to 7.22)"
+      offset:
+        value: 1
+        unit: years
+        from: "Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.218
+      model: >-
+        Final mutualism latent change score model (chi2(8) = 9.849, p = .276,
+        RMSEA = 0.032, CFI = .996, SRMR = .032). Standardised estimate. The
+        adolescent NSPN sample of Kievit et al. (2017) gave .155; z = 0.92 for
+        the difference.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Standard errors are given only for the unstandardised estimates, in
+      Fig. 2, which the text read here does not contain.
+    source_quote: "Indeed, in the NSPN sample, the coupling parameter (r) from reasoning to changes in vocabulary was .155 (standardized estimate), whereas in the younger Oxford sample, it was .218 and .276 for Waves 2 and 3, respectively (red arrows pointing downward in Fig. 2; zs = 0.92 and 1.72, respectively)."
+    source_location: "Results, third paragraph after Fig. 2"
+
+  - id: coupling-reasoning-to-vocabulary-change-wave3
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Vocabulary growth"
+      source_language: "the coupling parameter (r) from reasoning to changes in vocabulary"
+      measure: "Latent change in WASI vocabulary between waves, regressed on matrix reasoning at the earlier wave"
+      scale: "standardised coupling parameter, latent change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 3 to Wave 4 (ages about 7.22 to 8.22)"
+      offset:
+        value: 1
+        unit: years
+        from: "Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.276
+      model: "Final mutualism latent change score model; standardised estimate. Against the adolescent .155, z = 1.72."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Indeed, in the NSPN sample, the coupling parameter (r) from reasoning to changes in vocabulary was .155 (standardized estimate), whereas in the younger Oxford sample, it was .218 and .276 for Waves 2 and 3, respectively (red arrows pointing downward in Fig. 2; zs = 0.92 and 1.72, respectively)."
+    source_location: "Results, third paragraph after Fig. 2"
+
+  - id: coupling-vocabulary-to-reasoning-change-wave2
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Reasoning growth"
+      source_language: "the positive coupling from vocabulary to reasoning development"
+      measure: "Latent change in WASI matrix reasoning between waves, regressed on vocabulary at the earlier wave"
+      scale: "standardised coupling parameter (β), latent change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 2 to Wave 3 (ages about 6.22 to 7.22)"
+      offset:
+        value: 1
+        unit: years
+        from: "Wave 2"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.329
+      model: "Final mutualism latent change score model; standardised estimate. The adolescent NSPN sample gave 0.203; z = 2.21."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Similarly, the positive coupling from vocabulary to reasoning development had a β of 0.203 in the adolescent NSPN sample but was 0.329 and 0.449 in the Oxford sample for Waves 2 and 3, respectively (red arrows pointing upward in Fig. 2; zs = 2.21 and 4.66, respectively)."
+    source_location: "Results, third paragraph after Fig. 2"
+
+  - id: coupling-vocabulary-to-reasoning-change-wave3
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Reasoning growth"
+      source_language: "the positive coupling from vocabulary to reasoning development"
+      measure: "Latent change in WASI matrix reasoning between waves, regressed on vocabulary at the earlier wave"
+      scale: "standardised coupling parameter (β), latent change score model"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Wave 3 to Wave 4 (ages about 7.22 to 8.22)"
+      offset:
+        value: 1
+        unit: years
+        from: "Wave 3"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.449
+      model: "Final mutualism latent change score model; standardised estimate. Against the adolescent 0.203, z = 4.66."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Similarly, the positive coupling from vocabulary to reasoning development had a β of 0.203 in the adolescent NSPN sample but was 0.329 and 0.449 in the Oxford sample for Waves 2 and 3, respectively (red arrows pointing upward in Fig. 2; zs = 2.21 and 4.66, respectively)."
+    source_location: "Results, third paragraph after Fig. 2"
+
+  - id: parallel-process-vocabulary-intercept-to-reasoning-slope
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Reasoning growth rate"
+      source_language: "The path of vocabulary intercepts on reasoning slopes"
+      measure: "Linear slope of WASI matrix reasoning over Waves 2 to 4 (loadings 0, 1, 2), regressed on the vocabulary intercept"
+      scale: "unstandardised b with SE, and standardised β"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Waves 2 to 4 (ages about 6.22 to 8.22)"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.196
+      standard_error: 0.051
+      model: >-
+        Parallel-process (bivariate latent growth) model, chi2(9) = 18.72,
+        p = .028, RMSEA = 0.069, CFI = .978, SRMR = .048. Unstandardised
+        b = 0.196 (SE 0.051); standardised beta = 0.43. Constraining the path
+        gave chi2(1) = 18.72, p < .0001, as printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The constraint test is printed as chi2(1) = 18.72, the same value as the
+      model's overall chi2(9); recorded as printed, not corrected.
+    source_quote: "The path of vocabulary intercepts on reasoning slopes was strong and positive (b = 0.196, SE = 0.051, β = 0.43), and constraining this path led to a considerable drop in model fit, χ2(1) = 18.72, p < .0001."
+    source_location: "Results, Alternative model specification"
+
+  - id: parallel-process-reasoning-intercept-to-vocabulary-slope
+    sample:
+      value: 227
+      unit: participants
+    comparison_ref: whole-cohort
+    outcome:
+      construct: "Vocabulary growth rate"
+      source_language: "The path from reasoning intercepts on vocabulary slope"
+      measure: "Linear slope of WASI vocabulary over Waves 2 to 4 (loadings 0, 1, 2), regressed on the reasoning intercept"
+      scale: "unstandardised b with SE, and standardised β"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Waves 2 to 4 (ages about 6.22 to 8.22)"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.285
+      standard_error: 0.070
+      model: >-
+        Parallel-process model as above. Unstandardised b = 0.285 (SE 0.070);
+        standardised beta = 0.51. Constraining the path gave chi2(1) = 12.64,
+        p < .001. Freeing the within-domain paths worsened fit (delta AIC 3.6,
+        delta BIC 10.4).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The path from reasoning intercepts on vocabulary slope was similarly strong and positive (b = 0.285, SE = 0.070, β = 0.51), and constraining it led to a comparable drop in model fit, χ2(1) = 12.64, p < .001."
+    source_location: "Results, Alternative model specification"
+
+not_yet_extracted:
+  - "Self-feedback parameters: reasoning β −0.27 and −0.39 (Waves 2, 3; adolescents −0.602), vocabulary −0.189 and −0.227 (adolescents −0.362)."
+  - "Residual correlation between contemporaneous change scores, .299 (adolescents .1003, z = 2.74)."
+  - "Model comparison: mutualism best fit; investment vs mutualism likelihood-ratio test Δχ2(1) = 36.207, p < .001; gender multigroup Δχ2(13) = 18.338, p = .1451. AIC and BIC per model are in Fig. 1, not in the text."
+  - "Unstandardised parameters and their SEs for the latent change score model (Fig. 2) and descriptive statistics (Table S1): not in the text read."
+  - "Reliability: the residual-variance adjustment uses a 'manual-derived' internal consistency estimate (Rxx) for each WASI subtest, but the article prints no value; any figure would come from the test manual, not this sample."
+  - "Simulation: 999 of 1,000 g-factor data sets correctly preferred (99.9% power); 73% power for a coupling of .1, about 100% for .2 and .3."
+  - "The published Erratum (doi:10.1177/0956797619860523) was not read."

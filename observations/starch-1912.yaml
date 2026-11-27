@@ -1,0 +1,327 @@
+# Starch & Elliott (1912): 142 high-school English teachers grade the same two
+# examination papers.
+#
+# Read from the publisher's scanned full text (JSTOR copy), through its OCR text
+# layer. That layer reads digits as letters in places ("I.6" for 1.6, "i" for 1,
+# "io" for 10) and garbles the dot charts of Figs. 1-15 entirely. Quotes below are
+# copied from the text layer as it stands, OCR letters included; every figure
+# recorded is one the surrounding words make unambiguous. No PDF was available,
+# so nothing was checked against page images.
+#
+# The "probable error" the article reports is a spread of one paper's marks
+# across graders (the authors' footnote: "roughly is equivalent to the average
+# amount of error"). It is not a reliability coefficient: there is no
+# between-pupil variance in it, so it is recorded as measure_type `other`, never
+# as `reliability`. No SD is printed and none is derived from it.
+#
+# The two papers are the arms: each is one configuration (the same reproduced
+# paper, graded by a set of graders). The university students are a separate
+# group of graders, contrasted by the article with the teachers.
+#
+# The wiki's claim pages date this article 1911 (anchor `starch-and-elliott-1911`);
+# Crossref and the journal give September 1912, School Review 20(7).
+
+schema_version: 2
+
+study:
+  key: starch-1912
+  citation: "Starch, D., & Elliott, E. C. (1912). Reliability of the grading of high-school work in English. The School Review, 20(7), 442–457."
+  doi: "10.1086/435971"
+  design:
+    family: observational
+    design_detail: >-
+      Descriptive study. Two first-year English examination papers from one
+      large Wisconsin high school were reproduced exactly (plates printed on
+      foolscap) and sent with the questions to two hundred North Central
+      Association high schools, whose principal teacher of first-year English
+      graded both according to the school's own practices and standards. The
+      marks are presented as distributions with medians and a probable error;
+      the same papers were also graded by two classes of university students.
+      No assignment of any kind.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: same-paper-mark-range-35-40-points
+    bearing: supports
+    anchor: starch-and-elliott-1911
+  - claim: inexperienced-students-grade-more-leniently
+    bearing: supports
+    anchor: starch-and-elliott-1911
+  - claim: promotion-depends-on-teacher-subjective-estimate
+    bearing: supports
+    anchor: starch-and-elliott-1911
+
+evidence_base:
+  unit: participants
+  size:
+    value: 142
+    unit: participants
+  additional_sizes:
+    - value: 200
+      unit: schools
+      note: "high schools in the North Central Association sent the papers"
+    - value: 152
+      unit: schools
+      note: "graded papers returned; five discarded (no numerical grades or no passing grade given, or a passing mark of 60 or 80), leaving 142"
+    - value: 51
+      unit: participants
+      note: "teachers in schools with a passing mark of 70 (Figs. 2 and 4)"
+    - value: 91
+      unit: participants
+      note: "teachers in schools with a passing mark of 75 (Figs. 1 and 3)"
+    - value: 98
+      unit: participants
+      note: "students in the course on educational measurements, University of Chicago, Summer Quarter 1911, almost all superintendents, principals and teachers (Figs. 9 and 10); not recorded as an arm here"
+  population:
+    description: >-
+      The principal teacher of first-year English in each of 142 North Central
+      Association high schools, grading on their own school's standards; 51
+      schools had a passing mark of 70 and 91 a passing mark of 75. A second
+      group of graders was 86 students in the course on the teaching of English
+      at the University of Wisconsin, "Only a few" of whom had teaching
+      experience.
+    age_or_stage: "Practising high-school English teachers; university students in a teaching course"
+    age: unreported
+  context:
+    setting: >-
+      Two examination-answer papers written at the end of the first year's work
+      in English in one of the largest high schools in Wisconsin, reproduced
+      with handwriting, errors and changes intact, graded independently by
+      teachers in their own schools. The pupils' own teacher had marked the
+      papers 80 (A) and 75 (B), with a passing grade of 70.
+  arms:
+    - id: teachers-paper-a
+      description: "Paper A as graded by all 142 teachers (composite Fig. 5, marks from passing-70 schools raised one point)."
+      size:
+        value: 142
+        unit: participants
+    - id: teachers-paper-b
+      description: "Paper B, the poorer paper, as graded by all 142 teachers (composite Fig. 6, marks from passing-70 schools raised two points)."
+      size:
+        value: 142
+        unit: participants
+    - id: teachers-passing-70
+      description: "The 51 teachers in schools whose passing mark is 70, grading papers A and B (Figs. 2 and 4)."
+      size:
+        value: 51
+        unit: participants
+    - id: wisconsin-teaching-students
+      description: "86 students in the course on the teaching of English at the University of Wisconsin, grading papers A and B with an assumed passing grade of 70 (Figs. 7 and 8)."
+      size:
+        value: 86
+        unit: participants
+
+comparisons:
+  - id: students-vs-passing-70-teachers
+    kind: between-groups
+    index_arm: wisconsin-teaching-students
+    reference_arm: teachers-passing-70
+    description: "Median mark given by the Wisconsin teaching-course students against the median given by teachers in passing-70 schools, on the same paper. Not an experiment: two groups of graders, compared descriptively."
+  - id: all-teachers
+    kind: none
+    description: "The whole set of 142 teachers' marks; no contrast between groups."
+
+observations:
+
+  - id: probable-error-composite-papers-a-b
+    sample:
+      value: 142
+      unit: participants
+    arm_ref:
+      - teachers-paper-a
+      - teachers-paper-b
+    outcome:
+      construct: "Spread of one paper's marks across graders"
+      source_language: "The probable error of grades"
+      measure: "Marks on a 100-point scale given by the 142 teachers to papers A and B, as combined in the composite charts Figs. 5 and 6"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of each paper"
+    result:
+      measure_type: other
+      statistic: "probable error (deviation of individual marks from the group median)"
+      estimate: 4.5
+      unit: "points of 100"
+      interpretation: >-
+        The article says the individual marks deviate on average 4.5 points
+        from the median, and that any one teacher's mark is probably 4 or 5
+        points from the mark a large number of teachers would give.
+      note: >-
+        The article prints the value as "approximately 4.5", calculated over
+        Figs. 5 and 6 together; it gives no separate value for each paper.
+        The marks include the schools' differing standards (each teacher
+        graded on the school's own practice), so this is grader spread, not
+        a reliability coefficient.
+    moderators:
+      reported: []
+      candidate:
+        - "Differences between schools' standards and emphasis in teaching English, which the authors believe account for the range only to a small extent"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a probable error is a dispersion,
+      not an effect. Per-paper probable errors (4.0 and 4.8) are printed only
+      in the authors' 1913 sequel, not in this article, so they are not
+      recorded here.
+    source_quote: "The probable error2 of grades calculated on the basis of the data in Figs. 5 and 6 is approximately 4.5. This means that the individual marks deviate on the average 4.5 points from the median or average of the entire group of marks."
+    source_location: "p. 456, III. General results"
+
+  - id: range-of-marks-same-paper
+    comparison_ref: all-teachers
+    outcome:
+      construct: "Range of marks given to the same paper"
+      source_language: "the range of marks given by different teachers to the same paper"
+      measure: "Marks on a 100-point scale given by different teachers to the same examination paper"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of each paper"
+    result:
+      measure_type: qualitative
+      finding: >-
+        Teachers say marks of the same paper might differ by 10 points at
+        most; the range of marks different teachers gave to one paper may be
+        as large as 35 or 40 points.
+      perspective: researcher
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      The article states the range in words ("as large as 35 or 40 points")
+      and does not say which paper or chart it is read from; the dot charts
+      are unreadable in the text layer, so no minimum or maximum mark is
+      recorded.
+    source_quote: "It is almost shocking to a mind of more than ordinary exactness to find that the range of marks given by different teachers to the same paper may be as large as 35 or 40 points."
+    source_location: "p. 454, III. General results, 1"
+
+  - id: teachers-failing-paper-b
+    sample:
+      value: 142
+      unit: participants
+    arm_ref: teachers-paper-b
+    outcome:
+      construct: "Teachers giving a failing mark to a paper its own teacher passed"
+      source_language: "did not give a passing grade to this pupil"
+      measure: "Number of the 142 teachers whose mark for paper B was below their school's passing grade"
+      scale: "count of teachers"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of each paper"
+    result:
+      measure_type: count
+      estimate: 22
+      unit: "teachers, of 142"
+      interpretation: "The pupil's own teacher had marked paper B 5 points above the passing grade; the authors conclude that promotion or retardation depends to a considerable extent on the teacher's subjective estimate."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "The pupil who wrote paper B, the poorer of the two, received from his teacher a mark 5 points above the passing grade, whereas twenty-two out of the one hundred and forty-two teachers (Figs. 3 and 4) did not give a passing grade to this pupil."
+    source_location: "p. 454, III. General results, 1"
+
+  - id: students-vs-teachers-median-paper-a
+    sample:
+      value: 137
+      unit: participants
+    comparison_ref: students-vs-passing-70-teachers
+    outcome:
+      construct: "Leniency of graders (median mark, paper A)"
+      source_language: "the students graded more leniently than the teachers"
+      measure: "Median of the marks given to paper A on a 100-point scale"
+      scale: "points of 100"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of each paper"
+    result:
+      measure_type: other
+      statistic: "difference between group medians"
+      estimate: 5.2
+      unit: "points of 100"
+      descriptives: "Paper A medians: students 92.4 (Fig. 7), teachers in passing-70 schools 87.2 (Fig. 2)"
+      note: "The article says the range of variation was approximately the same for the students as for the teachers."
+    moderators:
+      reported: []
+      candidate:
+        - "Teaching experience: only a few of the students had any"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      sample is the two groups' sizes as the article gives them (86 students,
+      51 teachers). No dispersion is printed for either median.
+    source_quote: "The median of the marks assigned by the teachers to paper A is 87.2 (Fig. 2), whereas the median of the marks assigned by the students is 92.4. The medians for paper B are 78.8 (Fig. 4) and 84.5, respectively. The students thus graded the first paper 5.2 points, and the second paper 5.7 points, higher than the teachers."
+    source_location: "p. 453"
+
+  - id: students-vs-teachers-median-paper-b
+    sample:
+      value: 137
+      unit: participants
+    comparison_ref: students-vs-passing-70-teachers
+    outcome:
+      construct: "Leniency of graders (median mark, paper B)"
+      source_language: "the students graded more leniently than the teachers"
+      measure: "Median of the marks given to paper B on a 100-point scale"
+      scale: "points of 100"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of each paper"
+    result:
+      measure_type: other
+      statistic: "difference between group medians"
+      estimate: 5.7
+      unit: "points of 100"
+      descriptives: "Paper B medians: students 84.5 (Fig. 8), teachers in passing-70 schools 78.8 (Fig. 4)"
+    moderators:
+      reported: []
+      candidate:
+        - "Teaching experience: only a few of the students had any"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "The medians for paper B are 78.8 (Fig. 4) and 84.5, respectively. The students thus graded the first paper 5.2 points, and the second paper 5.7 points, higher than the teachers."
+    source_location: "p. 453"
+
+not_yet_extracted:
+  - "Per-paper probable errors for the English papers (4.0 and 4.8) are not printed in this article; they appear only in Starch & Elliott (1913), p. 257, and are not recorded in either file."
+  - "Medians by passing grade (Figs. 1-4: paper A 88.3 and 87.2, paper B 78.8 and a Fig. 3 median the text layer garbles as 'Median 8o 0.4'), composite medians (Fig. 5 '88. 2', Fig. 6 80.2), small- versus large-school medians (Figs. 12-15) and the Chicago educational-measurements class (Figs. 9-10, paper B median garbled as '8o. 5'). Not recorded: several captions are OCR-garbled and no PDF was available."
+  - "Fig. 11: per-teacher marks on A against B; nineteen of 142 teachers marked B higher than A and twenty-three marked it 15 or more points lower (p. 455)."
+  - "Interquartile statements ('In Fig. 6 one-half of the marks lie between 83 and 92, and in Fig. 7 one-half lie between 75 and 85')."
+  - "Jacoby's astronomy table (eleven papers, six professors, p. 455) is a re-tabulation of another study's data and belongs to that study; its OCR is also garbled."
