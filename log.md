@@ -12,6 +12,12 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-27
 
+* **Correction**: [claims/spontaneous-analogy-noticing-gap](claims/spontaneous-analogy-noticing-gap.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
+* **Correction**: [claims/schema-aids-beneficial-with-two-analogs](claims/schema-aids-beneficial-with-two-analogs.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
+* **Correction**: [claims/two-analogs-induce-schema-predicting-transfer](claims/two-analogs-induce-schema-predicting-transfer.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
+* **Correction**: [claims/diagrams-alone-never-spontaneously-noticed](claims/diagrams-alone-never-spontaneously-noticed.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
+* **Correction**: [claims/verbal-principle-added-to-analog-no-transfer-benefit](claims/verbal-principle-added-to-analog-no-transfer-benefit.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
+* **Correction**: [claims/story-analog-facilitates-analogous-solution](claims/story-analog-facilitates-analogous-solution.md) — Removed a garbled ')90002-4' after the Gick & Holyoak (1983) DOI in the citation
 * **Correction**: [claims/lfa-identifies-overtaught-undertught-skills](claims/lfa-identifies-overtaught-undertught-skills.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
 * **Correction**: [claims/lfa-merged-model-skill-recovery](claims/lfa-merged-model-skill-recovery.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
 * **Correction**: [claims/lfa-skill-difficulty-learning-rates](claims/lfa-skill-difficulty-learning-rates.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
