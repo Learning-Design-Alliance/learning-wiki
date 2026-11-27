@@ -1,0 +1,324 @@
+# Gick & Holyoak (1983), Experiment 5: two dissimilar story analogs, with or
+# without a verbal statement of the convergence principle appended to each.
+#
+# Read from a text layer of the published article (Cognitive Psychology 15,
+# 1-38); no PDF was available beside it. Table 7A is flattened by the text
+# layer row by row (before hint, after hint, total, N); each frequency agrees
+# with its percentage and N. The recorded percentages are also printed in the
+# running text, which every source_quote cites.
+#
+#   * Shares before the hint and in total are recorded per condition as
+#     `probability`, in percent as printed, beside the two contrasts.
+#   * `population.age: unreported`: the article says only that subjects were
+#     tested "in several different classrooms".
+#   * No reliability figure: schema descriptions were scored "in essentially
+#     the same manner as in Experiment 4" (two judges), with no coefficient.
+#   * Design `quasi-experimental`: 143 subjects "were divided about evenly
+#     between the two conditions"; how is not stated.
+
+schema_version: 2
+
+study:
+  key: gick-1983-exp5
+  citation: "Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. Cognitive Psychology, 15(1), 1–38. Experiment 5."
+  doi: "10.1016/0010-0285(83)90002-6"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Two between-subjects conditions, both reading the same pair of
+      dissimilar analogs ("The General" and "The Fire Chief"): with the verbal
+      statement of the convergence principle appended as each story's final
+      paragraph, or without it. Subjects studied the stories for 5 minutes,
+      then from memory summarised them, described their similarities and rated
+      them, and attempted the radiation problem first without and then with a
+      hint to use the stories. Method of dividing subjects not stated.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: schema-aids-beneficial-with-two-analogs
+    bearing: supports
+    anchor: gick-1983
+  - claim: two-analogs-induce-schema-predicting-transfer
+    bearing: supports
+    anchor: gick-1983
+
+evidence_base:
+  unit: participants
+  size:
+    value: 143
+    unit: participants
+  population:
+    description: "143 subjects tested in several different classrooms; the article does not otherwise describe them for this experiment."
+    age_or_stage: "Not described for this experiment"
+    age: unreported
+  context:
+    setting: "Classroom testing; written story task from memory, then the radiation problem in the two-pass procedure"
+  arms:
+    - id: with-principle
+      description: "Two dissimilar analogs, each ending with the verbal statement of the convergence principle (worded as in Experiment 2: many smaller forces applied simultaneously from different directions may work as well as one large force)."
+      size:
+        value: 73
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+        - term: "explicit statement of the underlying principle"
+    - id: without-principle
+      description: "The same two dissimilar analogs without the principle statement."
+      size:
+        value: 70
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+
+comparisons:
+  - id: principle-vs-none
+    kind: between-groups
+    index_arm: with-principle
+    reference_arm: without-principle
+    description: "Two analogs with the appended principle statement against two analogs without it."
+
+observations:
+
+  - id: before-hint-principle-vs-none
+    sample:
+      value: 143
+      unit: participants
+    comparison_ref: principle-vs-none
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "produced the convergence solution without a hint"
+      measure: "Convergence solution to the radiation problem proposed on the first pass, before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 6.75"
+      p_value: "< .01"
+      descriptives:
+        with-principle: "62% before the hint"
+        without-principle: "40% before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As is shown in Table 7A, 62% of the subjects in the with-principle condition produced the convergence solution without a hint, as compared to only 40% of those in the without- principle condition, G2(1) = 6.75, p < .01."
+    source_location: "Experiment 5, Results and Discussion, p. 26; Table 7A"
+
+  - id: total-principle-vs-none
+    sample:
+      value: 143
+      unit: participants
+    comparison_ref: principle-vs-none
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "total solution frequency"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 4.34"
+      p_value: "< .05"
+      descriptives:
+        with-principle: "82% in total"
+        without-principle: "67% in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The with-principle condition maintained a slightly smaller advantage in total solution frequency (82 vs 67%), G2(1) = 4.34, p < .05."
+    source_location: "Experiment 5, Results and Discussion, p. 26; Table 7A"
+
+  - id: before-hint-share-with-principle
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: with-principle
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "produced the convergence solution without a hint"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 62
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 7A cell: 62 (45) of N 73."
+    source_quote: "As is shown in Table 7A, 62% of the subjects in the with-principle condition produced the convergence solution without a hint, as compared to only 40% of those in the without- principle condition, G2(1) = 6.75, p < .01."
+    source_location: "Experiment 5, Results and Discussion, p. 26"
+
+  - id: before-hint-share-without-principle
+    sample:
+      value: 70
+      unit: participants
+    arm_ref: without-principle
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "produced the convergence solution without a hint"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 40
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 7A cell: 40 (28) of N 70."
+    source_quote: "As is shown in Table 7A, 62% of the subjects in the with-principle condition produced the convergence solution without a hint, as compared to only 40% of those in the without- principle condition, G2(1) = 6.75, p < .01."
+    source_location: "Experiment 5, Results and Discussion, p. 26"
+
+  - id: total-share-with-principle
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: with-principle
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "total solution frequency"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 82
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 7A cell: 82 (60) of N 73."
+    source_quote: "The with-principle condition maintained a slightly smaller advantage in total solution frequency (82 vs 67%), G2(1) = 4.34, p < .05."
+    source_location: "Experiment 5, Results and Discussion, p. 26"
+
+  - id: total-share-without-principle
+    sample:
+      value: 70
+      unit: participants
+    arm_ref: without-principle
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "total solution frequency"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 67
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 7A cell: 67 (47) of N 70."
+    source_quote: "The with-principle condition maintained a slightly smaller advantage in total solution frequency (82 vs 67%), G2(1) = 4.34, p < .05."
+    source_location: "Experiment 5, Results and Discussion, p. 26"
+
+  - id: schema-quality-principle-vs-none
+    sample:
+      value: 143
+      unit: participants
+    comparison_ref: principle-vs-none
+    outcome:
+      construct: "Schema abstraction from two analogs"
+      source_language: "schema quality"
+      measure: "Similarity descriptions scored good, intermediate or poor for the convergence schema"
+      scale: "distribution over three schema-quality levels"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, during the story task"
+    result:
+      measure_type: other
+      statistic: "G2(2) = 28.4"
+      p_value: "< .001"
+      descriptives:
+        with-principle: "44% good, 23% poor"
+        without-principle: "10% good, 60% poor"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer drops the equals sign: printed as \"G2(2) 28.4, p <.001\"."
+    source_quote: "Sixty percent of subjects in the without-principle condition wrote poor schemas, just as in the comparable condition of Experiment 4; only 10% gave good schemas. In contrast, only 23% of those in the with-principle condition produced poor schemas, whereas 44% produced schemas scored as good.."
+    source_location: "Experiment 5, Results and Discussion, p. 26; Table 7B"
+
+not_yet_extracted:
+  - "Table 8: timing of the convergence solution by schema quality within each condition; with principle G2(4) = 13.0, p < .02 (94% of good-schema subjects eventually solved, 53% of poor); without principle G2(4) = 7.00, p = .14, and G2(2) = 6.89, p < .05 with good and intermediate combined (86% vs 57%)"
+  - "After-hint percentages (Table 7A): 20 with principle, 27 without"
+  - "Schema scoring agreement: not printed"
