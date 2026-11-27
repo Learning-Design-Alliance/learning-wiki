@@ -1,0 +1,302 @@
+# Stewart, Griffin & Stewart (2007): context sensitivity in the Force Concept
+# Inventory.
+#
+# One sample: 647 students in an introductory calculus-based mechanics course
+# at the University of Arkansas took the full FCI and a ten-question
+# context-transformed version (the FCIT), about half in each order. Every
+# figure here is a within-student difference between the ten original FCI
+# questions and their transformed versions, FCIT minus FCI, in percent
+# correct.
+#
+# Read from the publisher's text layer (pdftotext). Tables I and II come out
+# column by column, each column in row order. Figures taken from those tables
+# (the per-question shifts for question 22, the Table II averages by
+# transformation, the Table I totals) were read by matching column order and
+# checked against each other: the concrete-to-abstract average (+0.06) equals
+# the mean of the three questions Table I marks with transformation 1
+# (questions 1, 25 and 27: -0.01, -3.32, +3.50). Their source_quotes are the
+# article's prose about the same figures, because no table row survives as
+# contiguous text. Every figure taken from Tables I and II was then checked
+# against the page images of the publisher PDF (pp. 3-4) and matches.
+#
+# The article prints no age figure and no reliability coefficient for either
+# test; the p-value symbol in the paired t-test sentence is a glyph in the
+# text layer, so that sentence is not quoted.
+
+schema_version: 2
+
+study:
+  key: stewart-2007
+  citation: "Stewart, J., Griffin, H., & Stewart, G. (2007). Context sensitivity in the force concept inventory. Physical Review Special Topics - Physics Education Research, 3(1), 010102."
+  doi: "10.1103/PhysRevSTPER.3.010102"
+  design:
+    family: other
+    design_detail: >-
+      Within-student comparison of two test forms: the 30-question FCI and a
+      10-question test (FCIT) made by applying eight kinds of restrictive
+      context transformation to ten FCI questions. Both given at the end of
+      the semester in lab sections over five semesters (spring 2000 to fall
+      2003); approximately half the students took the FCI first and half the
+      FCIT first, the first test handed in before the second was given. The
+      article does not say how order was assigned. Paired t-test on student
+      total-score differences and McNemar tests per question.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: fci-total-context-shift-cancels-2-72-percent
+    bearing: supports
+    anchor: stewart-et-al-2007
+  - claim: fci-individual-question-context-shifts-minus3-to-10-percent
+    bearing: supports
+    anchor: stewart-et-al-2007
+  - claim: transformation-type-context-shifts-concrete-strongest-abstract-weakest
+    bearing: supports
+    anchor: stewart-et-al-2007
+  - claim: fci-question-22-group-dependence-10-percent-shift
+    bearing: supports
+    anchor: stewart-et-al-2007
+
+evidence_base:
+  unit: participants
+  size:
+    value: 647
+    unit: participants
+  additional_sizes:
+    - value: 10
+      unit: items
+      note: "FCI questions transformed into the FCIT; every contrast is over these ten or a subset"
+  population:
+    description: >-
+      Students in the introductory calculus-based mechanics course at the
+      University of Arkansas, taught with two hours of lecture and two
+      two-hour labs a week using microcomputer-based laboratories and
+      interactive-engagement methods; the class's average normalised gain
+      over the course of the experiment was 0.5. Students who left many
+      questions unanswered were excluded ("very few").
+    age_or_stage: "University students in an introductory physics course; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "End-of-semester administration during lab sections; up to five bonus points for correct answers, no penalty for incorrect ones"
+  arms:
+    - id: fci
+      description: "The ten original FCI questions (1, 4, 6, 12, 22, 24, 25, 27, 28, 30), answered as part of the full 30-question FCI."
+    - id: fcit
+      description: "The ten transformed questions (FCIT), each made from one FCI question by one to three of eight transformations: concrete to abstract system, concrete to another concrete system, remove redundant distractors, add a figure, remove a figure, reorder responses, remove questions from a group, make distractors symbolic."
+      elements:
+        - term: "context-transformed multiple-choice concept questions"
+
+comparisons:
+  - id: fcit-vs-fci
+    kind: other
+    index_arm: fcit
+    reference_arm: fci
+    description: >-
+      Within-student contrast of the same students' answers to each
+      transformed question and its FCI original (delta S = FCIT score - FCI
+      score, in percent correct), with test order counterbalanced across
+      roughly half the sample. A positive shift means the transformed
+      question was answered correctly more often.
+
+observations:
+
+  - id: total-context-shift
+    sample:
+      value: 647
+      unit: participants
+    comparison_ref: fcit-vs-fci
+    outcome:
+      construct: "Conceptual understanding of Newtonian mechanics"
+      source_language: "context shift"
+      measure: "Percentage of the ten questions answered correctly, FCIT minus FCI"
+      scale: "percent correct out of 100"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester; the second test handed out once the first was turned in"
+    result:
+      measure_type: mean_difference
+      estimate: 2.72
+      unit: "percentage points (FCIT minus FCI)"
+      statistic: "paired t-test on individual student total-score differences, t(647) = 5.08"
+      p_value: "< 0.01 (significant at the 1% level)"
+      descriptives: "Table I totals: FCIT 71 percent, FCI 68 percent"
+      interpretation: "The authors read it as cancellation of question-level shifts: too small to explain poor FCI performance under traditional instruction"
+    moderators:
+      reported: []
+      candidate:
+        - "Test order (FCI first or FCIT first); the article reports no analysis by order"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A raw mean difference in percentage points; no standardised effect size
+      is printed and none is derived. The Table I totals were read from a
+      column-split text layer.
+    source_quote: "The total context shift was only +2.72% out of 100%, so substantial cancellation of context effects takes place and the low total score on the FCI produced by traditional instruction cannot be attributed to contextual effects."
+    source_location: "Conclusion (ii); Section III and Table I, Total row; t-test in Section III"
+
+  - id: per-question-shift-range
+    sample:
+      value: 647
+      unit: participants
+    comparison_ref: fcit-vs-fci
+    outcome:
+      construct: "Conceptual understanding of Newtonian mechanics"
+      source_language: "context shift of the ten FCI questions"
+      measure: "Percentage of students answering each question correctly, FCIT minus FCI, per question"
+      scale: "percent correct out of 100"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester; the second test handed out once the first was turned in"
+    result:
+      measure_type: mean_difference
+      estimate_range:
+        lower: -3
+        upper: 10
+        over:
+          value: 10
+          unit: items
+      unit: "percentage points (FCIT minus FCI)"
+      p_value: "each of the ten questions significant at the 1% level by McNemar's test treated as paired data; unpaired, only questions 12, 22 and 30 at the 5% level"
+      note: "Table I prints the extremes as -3.32 (question 25) and +10.2 (question 22)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The context shift of the ten FCI questions ranged from −3% to 10%. All ten FCI questions were statistically sensitive to context shifts when treated as paired data."
+    source_location: "Conclusion (i); Table I"
+
+  - id: concrete-to-abstract-shift
+    sample:
+      value: 647
+      unit: participants
+    comparison_ref: fcit-vs-fci
+    outcome:
+      construct: "Conceptual understanding of Newtonian mechanics"
+      source_language: "Change concrete system to abstract"
+      measure: "Average per-question shift over the three questions given the concrete-to-abstract transformation (FCI questions 1, 25 and 27), each also given other transformations"
+      scale: "percent correct out of 100"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester; the second test handed out once the first was turned in"
+    result:
+      measure_type: mean_difference
+      estimate: 0.06
+      unit: "percentage points (FCIT minus FCI), averaged over 3 questions"
+      interpretation: "The weakest of the eight transformation averages, against the authors' expectation that it would be the largest"
+    moderators:
+      reported: []
+      candidate:
+        - "The other transformations applied to the same questions (remove redundant distractors and reorder responses on question 1; add a figure on 25; add a figure and remove from a group on 27)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Read from Table II, which the text layer splits into columns; row 1's
+      value was checked against the Table I shifts for the three questions
+      marked with transformation 1. The transformation is not isolated: every
+      question carrying it carries others, and the table average is over
+      questions, not a separate test. No significance test is printed for it.
+    source_quote: "Based on this model, we had expected that the transformation from a concrete to an abstract system would yield the largest positive effect, since the abstract system would give the abstract material of the class the highest chance of being used. This was not the case, and the transformation to an abstract system yielded the weakest context effect."
+    source_location: "Section III; Table II, row 1"
+
+  - id: concrete-to-concrete-shift
+    sample:
+      value: 647
+      unit: participants
+    comparison_ref: fcit-vs-fci
+    outcome:
+      construct: "Conceptual understanding of Newtonian mechanics"
+      source_language: "Change concrete system to another concrete system"
+      measure: "Average per-question shift over the four questions given the concrete-to-concrete transformation (FCI questions 4, 12, 28 and 30)"
+      scale: "percent correct out of 100"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester; the second test handed out once the first was turned in"
+    result:
+      measure_type: mean_difference
+      estimate: 4.17
+      unit: "percentage points (FCIT minus FCI), averaged over 4 questions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Read from Table II, column-split in the text layer; the value equals
+      the mean of the Table I shifts for questions 4, 12, 28 and 30 (+1.42,
+      +5.37, +4.45, +5.42). Questions 4, 12 and 28 also carry other
+      transformations. No significance test is printed for it.
+    source_quote: "All the transformations generated a positive shift. A strong shift was observed when changing one concrete physical system to another."
+    source_location: "Section III; Table II, row 2"
+
+  - id: question-22-shift
+    sample:
+      value: 647
+      unit: participants
+    comparison_ref: fcit-vs-fci
+    outcome:
+      construct: "Conceptual understanding of Newtonian mechanics"
+      source_language: "FCI question 22 showed a 10% context shift"
+      measure: "Percentage of students answering FCI question 22 correctly, FCIT minus FCI; transformed by removing a figure and removing it from its four-question group"
+      scale: "percent correct out of 100"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of semester; the second test handed out once the first was turned in"
+    result:
+      measure_type: mean_difference
+      estimate: 10.2
+      unit: "percentage points (FCIT minus FCI)"
+      descriptives: "Table I: FCIT 74 percent, FCI 64 percent; most common distractor shift -12.6"
+      p_value: "significant at the 1% level by McNemar's test (paired); also at the 5% level unpaired"
+    moderators:
+      reported: []
+      candidate:
+        - "Removal of question 21, which the authors argue supplied context for question 22; the figure removal applied at the same time is the confound"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The prose prints 10%; the 10.2 and the percent-correct figures are from
+      Table I, read from a column-split text layer by row order.
+    source_quote: "FCI question 22 showed a 10% context shift, almost twice that of any other question. This question was the second question in a four-question group in the FCI."
+    source_location: "Section III (discussion of question 22); Table I, question 22 row"
+
+not_yet_extracted:
+  - "Table I per-question percent correct and shifts for the other eight questions, and the shift in the most commonly chosen distractor (delta Dmax), all column-split in the text layer"
+  - "Table II averages for the six other transformation types (remove redundant distractors +1.79, add a figure +0.09, remove a figure +4.93, reorder responses +1.95, remove questions from a group +3.46, make responses symbolic +1.42), column-split in the text layer"
+  - "The shifts the article attributes to prior studies (Bao et al. 53%, Metzler 7%, Dancy and Beichner -23% to +25%, Palmer 69%, Steinberg and Sabella -9% to 36%, Rebello and Zollman 3% to 20%, Henderson 2%): these are other studies' figures, not this study's"
+  - "No reliability coefficient for the FCI or FCIT is printed"

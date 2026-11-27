@@ -1,0 +1,281 @@
+# Putwain, Nicholson, Pekrun, Becker & Symes (2019): expectancy of success,
+# attainment value, behavioural engagement and mathematics achievement in
+# English Year 6.
+#
+# Read from the author's accepted manuscript (text layer; tables at the end,
+# readable as rows). The citation is the published version; volume and pages
+# from Crossref.
+#
+# Five measurement points in one school year: T1 Year 5 teacher-estimated
+# grades, T2 engagement (autumn), T3 expectancy and attainment value (spring),
+# T4 engagement (summer), T5 National Curriculum Tests near the end of Year 6.
+# Correlations are LATENT (CFA with gender added) and the betas come from a
+# latent moderated-mediation SEM with MLR and standard errors adjusted for
+# classes; missing data by FIML.
+#
+# One discrepancy in the source: the text gives the direct path from T3 value
+# to T5 achievement as beta = -.01 (p = .983); Table 4 prints .01 (unstandardised
+# -0.03). The text figure is recorded and the table's noted.
+#
+# The KS2 test reliability (alpha .96-.97) the article reports is He, Hayes and
+# Wiliam's (2010) figure, not this sample's, and is not recorded.
+
+schema_version: 2
+
+study:
+  key: putwain-2019
+  citation: "Putwain, D. W., Nicholson, L. J., Pekrun, R., Becker, S., & Symes, W. (2019). Expectancy of success, attainment value, engagement, and achievement: A moderated mediation analysis. Learning and Instruction, 60, 117–125."
+  doi: "10.1016/j.learninstruc.2018.11.005"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Five-wave longitudinal survey within one school year (Year 6), with
+      prior achievement from Year 5 teacher-estimated grades and subsequent
+      achievement from the statutory National Curriculum Tests in mathematics.
+      Latent CFA for bivariate correlations; SEM of a moderated mediation
+      model (expectancy x attainment value latent interaction, unconstrained
+      approach) with gender paths, Mplus 8, MLR, cluster-adjusted standard
+      errors, FIML for missing data. No manipulation.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 586
+    unit: participants
+  additional_sizes:
+    - value: 22
+      unit: schools
+      note: "English primary schools"
+    - value: 36
+      unit: classes
+      note: "Year 6 classes the students were nested in (M = 16.3 students per class); not a unit of assignment, but standard errors were adjusted for it"
+    - value: 444
+      unit: participants
+      note: "sample at T3, when expectancy and attainment value were measured"
+    - value: 433
+      unit: participants
+      note: "sample at T4"
+  population:
+    description: >-
+      English Year 6 students (final year of primary school) at T2: 275 male,
+      277 female, 34 missing; White 431, Asian 17, Black 26, other 26, mixed
+      heritage 37, missing 49. Not differentiated by ability in any school.
+      Described as broadly representative of English primary schools.
+    age_or_stage: "Year 6, final year of primary school; aged 10-11 years"
+    age:
+      unit: years
+      min: 10
+      max: 11
+      mean: 10.2
+      sd: 0.38
+      note: "mean and SD at the first self-report assessment (T2); the range is the article's 'aged 10-11 years'"
+  context:
+    setting: "Mathematics; self-report on digital personal assistants administered by the class teacher from a standardised script, three months apart; achievement from Key Stage 2 National Curriculum Tests (three 30-minute papers, 0-120)"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Latent correlations, scale properties and structural paths in the whole sample; no contrast between groups."
+
+observations:
+
+  - id: expectancy-t5-achievement-latent-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "T5 Achievement"
+      measure: "Key Stage 2 National Curriculum Tests in mathematics (one arithmetic and two reasoning papers), combined 0-120, as a single-indicator latent variable (loading fixed at .9)"
+      scale: "latent correlation with T3 expectancy of success (four SDQ II-adapted self-concept items)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "expectancy in the spring term of Year 6 (T3), achievement near the end of Year 6 (T5)"
+    result:
+      measure_type: correlation
+      estimate: 0.37
+      p_value: "< .001"
+      model: "Latent bivariate correlation from the measurement model with gender added"
+      clustering:
+        - statistic: ICC
+          level: "classroom (T3 expectancy)"
+          value: 0.04
+        - statistic: ICC
+          level: "classroom (T5 achievement)"
+          value: 0.07
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A latent correlation, corrected for measurement error, not an observed
+      one; no conversion to an observed-score correlation is made. The
+      analysed n is not printed for this estimate (FIML over the 586; 444
+      completed T3). ICCs from Table 1, where they are given as the proportion
+      of variance at the classroom level.
+    source_quote: "3. T3 Expectancy — .58*** .35*** .37*** .02"
+    source_location: "Table 3, row 3, column 6 (T5 Achievement)"
+
+  - id: expectancy-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Expectancy of success in mathematics"
+      source_language: "T3 Expectancy"
+      measure: "Four academic self-concept items adapted from the SDQ II to an expectation of good marks in mathematics lessons and tests, five-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring term of Year 6 (T3)"
+    result:
+      measure_type: reliability
+      estimate: 0.85
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 1 heads the column α; it is taken as Cronbach's alpha, the
+      article's text calling it internal consistency.
+    source_quote: "T3 Expectancy 1–5 4.08 0.78 .85 .04 -1.25 1.90 .54 – .86"
+    source_location: "Table 1; Section 2.2.1"
+
+  - id: attainment-value-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Attainment value for mathematics"
+      source_language: "T3 Attainment Value"
+      measure: "Four items adapted from the Michigan Study of Adolescent Life Transitions scales, referring to mathematics lessons and tests, five-point scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring term of Year 6 (T3)"
+    result:
+      measure_type: reliability
+      estimate: 0.73
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described as acceptable"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 1 heads the column α; taken as Cronbach's alpha. The scale is
+      negatively skewed and leptokurtic (skewness -2.18, kurtosis 7.29).
+    source_quote: "T3 Attainment Value 1–5 4.65 0.50 .73 .03 -2.18 7.29 .75 – .83"
+    source_location: "Table 1; Section 2.2.2"
+
+  - id: value-direct-t5-achievement
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "T5 achievement was directly predicted by T3 expectancy ... but not T3 value"
+      measure: "Key Stage 2 National Curriculum Tests in mathematics, combined 0-120, single-indicator latent variable"
+      scale: "standardised path coefficient from T3 attainment value"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "attainment value at T3 (spring of Year 6), achievement at T5 (near the end of Year 6)"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.01
+      p_value: ".983"
+      model: >-
+        Moderated mediation SEM with T3 expectancy, T3 attainment value and
+        their latent interaction, T4 engagement, T2 engagement, T1
+        achievement and gender as predictors of T5 achievement. Table 4
+        prints this standardised path as .01 and its unstandardised value as
+        -0.03; the text says -.01. The indirect path from value via T4
+        engagement was beta = .02, SE = .07, not significant.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A direct path net of engagement, prior achievement and expectancy, not
+      a total effect. Sign differs between the text and Table 4; the
+      magnitude (about zero) does not.
+    source_quote: "T5 achievement was directly predicted by T3 expectancy (β = .20, p = .018), but not T3 value (β = -.01, p = .983), or the interaction between T3 expectancy and T3 attainment value (β = .12, p = .063)."
+    source_location: "Section 3.4.3; Table 4"
+
+  - id: expectancy-direct-t5-achievement
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics achievement"
+      source_language: "T5 achievement was directly predicted by T3 expectancy"
+      measure: "Key Stage 2 National Curriculum Tests in mathematics, combined 0-120, single-indicator latent variable"
+      scale: "standardised path coefficient from T3 expectancy of success"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "expectancy at T3 (spring of Year 6), achievement at T5 (near the end of Year 6)"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.20
+      p_value: ".018"
+      model: >-
+        Same moderated mediation SEM. Unstandardised 1.85 (Table 4). The
+        indirect path via T4 engagement was beta = .13, SE = .06, 95% CI
+        [.02, .23].
+    moderators:
+      reported:
+        - variable: "Attainment value (T3)"
+          relationship: "The indirect relation of expectancy to T5 achievement via T4 engagement was stronger at low attainment value (B = 1.77, 95% CI 0.61 to 2.93, at -.5 SD) than at high (B = 0.62, 95% CI -0.15 to 1.39, at +.5 SD)"
+          source_quote: "At low attainment value, the indirect relationship between T3 expectancy and T5 achievement was substantial and significant. At high attainment value, this relationship was weaker and no longer statistically significant."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "T5 achievement was directly predicted by T3 expectancy (β = .20, p = .018), but not T3 value (β = -.01, p = .983), or the interaction between T3 expectancy and T3 attainment value (β = .12, p = .063)."
+    source_location: "Section 3.4.3; Tables 4 and 5"
+
+not_yet_extracted:
+  - "Table 1 means and SDs (T2 engagement 4.58/0.53, T4 engagement 4.51/0.57, T3 expectancy 4.08/0.78, T3 attainment value 4.65/0.50, T1 achievement 6.92/2.36 on 1-15, T5 achievement 102.69/5.58 on 0-120), skewness, kurtosis and loadings"
+  - "Engagement alphas (.76 at T2, .79 at T4) and the remaining ICCs (engagement .05 and .02, attainment value .03, T1 achievement .10)"
+  - "The rest of the Table 3 latent correlations, including T3 attainment value with T5 achievement (.24) and T4 engagement with T5 achievement (.40)"
+  - "Paths to T4 engagement (expectancy .22, value .03, interaction -.28, T2 engagement .46, T1 achievement .21) and to T5 (T4 engagement .59, T1 achievement .43, T2 engagement .36), the simple slopes, and the Table 5 indirect and total effects at three levels of attainment value"
+  - "Table 2 measurement invariance tests for engagement"
+  - "KS2 test internal consistency (alpha .96-.97) and teacher-assessment correlations (rs .77-.92): cited from He, Hayes and Wiliam (2010) and Harlen (2004), not this sample's figures"
+  - "Models with intrinsic and utility value, in the Supplementary Materials (not read)"
