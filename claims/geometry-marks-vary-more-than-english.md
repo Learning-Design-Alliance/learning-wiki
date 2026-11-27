@@ -5,15 +5,15 @@ description: Marks on a geometry paper vary even more widely than marks on Engli
 id: geometry-marks-vary-more-than-english
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-25
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 2017
-recheck_by: 2020
+newest_evidence: 1913
+recheck_by: 1916
 sources:
-  - id: starch-and-elliott-2017
-    resource: "http://www.journals.uchicago.edu/t-and-c"
-    title: "Daniel Starch and Edward C. Elliott. (2017). Reliability of Grading Work in Mathematics. The School Review. http://www.journals.uchicago.edu/t-and-c"
+  - id: starch-and-elliott-1913
+    resource: "https://doi.org/10.1086/436086"
+    title: "Daniel Starch and Edward C. Elliott. (1913). Reliability of Grading Work in Mathematics. The School Review, 21(4), 254–259. https://doi.org/10.1086/436086"
     author: Daniel Starch and Edward C. Elliott
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` The probable error of the geometry marks (7.5) exceeds that of the two English papers graded in the earlier study (4.0 and 4.8). [→ Starch and & Elliott 2017](#starch-and-elliott-2017)
+`q2 i?` The probable error of the geometry marks (7.5) exceeds that of the two English papers graded in the earlier study (4.0 and 4.8). [→ Starch and Elliott 1913](#starch-and-elliott-1913)
 
 ## Evidence
 
-### Starch and & Elliott 2017
+### Starch and Elliott 1913
 
-Daniel Starch and Edward C. Elliott. (2017). Reliability of Grading Work in Mathematics. The School Review. http://www.journals.uchicago.edu/t-and-c
+Daniel Starch and Edward C. Elliott. (1913). Reliability of Grading Work in Mathematics. The School Review, 21(4), 254–259. https://doi.org/10.1086/436086
 
 `q2 · i?` · `associational · r1`
 

@@ -1,0 +1,338 @@
+# Rau, Aleven & Rummel (2010): blocked versus interleaved practice with
+# multiple graphical representations in a fractions intelligent tutor.
+#
+# Read from a text copy of the LNCS chapter (pp. 413-422); no page images were
+# available.
+#
+# Points a reader needs:
+#
+#   * TABLE 1 IS NOT RECORDED. Its text layer comes out as a column of labels
+#     followed by eight runs of six values, with the condition headers
+#     (Blocked, Moderate, Interleaved, Increased) printed once, apart from the
+#     numbers. Which run belongs to which condition cannot be read from the
+#     text with certainty, so no cell mean is recorded; see not_yet_extracted.
+#   * The sample is reported three ways: 296 students in the abstract, 269 in
+#     the Methods (and in the chi-square, N = 269), and N = 215 analysed. The
+#     record uses the Methods' 269 as the number who took part and 215 as the
+#     analysed sample, and keeps the abstract's 296 as a note.
+#   * Students were randomly assigned to conditions (individual assignment,
+#     stated); analysis was a four-level HLM (tests, students, classes,
+#     schools) with Bonferroni-adjusted post-hoc comparisons. No effect sizes
+#     are printed, only F statistics and p values.
+#   * What is interleaved is three graphical representations of ONE concept
+#     (pie chart, number line, set), not problem types needing different
+#     strategies. The authors draw that distinction themselves.
+#   * No age figure is printed, only "5th- and 6th-grade", and no reliability
+#     coefficient for the tests (a confirmatory factor analysis is mentioned,
+#     with no figures).
+
+schema_version: 2
+
+study:
+  key: rau-2010
+  citation: "Rau, M. A., Aleven, V., & Rummel, N. (2010). Blocked versus interleaved practice with multiple representations in an intelligent tutoring system for fractions. In V. Aleven, J. Kay, & J. Mostow (Eds.), Intelligent Tutoring Systems (ITS 2010), Part I, Lecture Notes in Computer Science, vol. 6094 (pp. 413–422). Springer."
+  doi: "10.1007/978-3-642-13388-6_45"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      In vivo classroom experiment: students randomly assigned to one of four
+      sequences of practice with three graphical representations of fractions
+      in example-tracing tutors (blocked, moderate, interleaved, increased),
+      crossed with four randomly assigned orders of representations. Pretest,
+      immediate post-test (day after the tutor sessions) and delayed post-test
+      (seven days later). Four-level hierarchical linear model (tests within
+      students within classes within schools); Bonferroni-adjusted post-hoc
+      comparisons; a median split on pretest for low and high prior knowledge.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: blocked-interleaved-representations-fractions-its
+    bearing: supports
+    anchor: rau-2010
+  - claim: prior-knowledge-moderates-sequencing-benefit
+    bearing: supports
+    anchor: rau-2010
+
+evidence_base:
+  unit: participants
+  size:
+    value: 215
+    unit: participants
+  additional_sizes:
+    - value: 269
+      unit: participants
+      note: "students who took part (Methods; chi-square on exclusions uses N = 269). The abstract says 296."
+    - value: 3
+      unit: schools
+      note: "US schools; students worked with the tutor during regular mathematics instruction"
+  population:
+    description: >-
+      5th- and 6th-grade students from three schools in the United States,
+      during their regular mathematics instruction. Analysed students stayed
+      in their assigned condition, were present for all test days and did not
+      use the tutor at the weekend.
+    age_or_stage: "5th and 6th grade"
+    age: unreported
+  context:
+    setting: "Classroom mathematics lessons; example-tracing fractions tutors for a total of 5 hours over five to six consecutive days"
+  arms:
+    - id: blocked
+      description: "All topics with the first graphical representation (36 problems), then with the second, then with the third."
+      elements:
+        - term: "blocked practice of representations"
+      dose:
+        amount: 5
+        unit: hours
+        detail: "tutor time, spread across five to six consecutive days; same problems in every condition"
+    - id: moderate
+      description: "Representations switched after every third problem."
+      elements:
+        - term: "moderately interleaved practice of representations"
+      dose:
+        amount: 5
+        unit: hours
+    - id: interleaved
+      description: "Representations switched after every single problem."
+      elements:
+        - term: "interleaved practice of representations"
+      dose:
+        amount: 5
+        unit: hours
+    - id: increased
+      description: "Block length reduced gradually from twelve problems at the beginning to a single problem at the end."
+      elements:
+        - term: "blocked-to-interleaved practice of representations"
+      dose:
+        amount: 5
+        unit: hours
+
+comparisons:
+  - id: four-sequences
+    kind: other
+    index_arm:
+      - blocked
+      - moderate
+      - interleaved
+      - increased
+    reference_arm:
+      - blocked
+      - moderate
+      - interleaved
+      - increased
+    description: "Omnibus HLM test across the four practice sequences (the condition terms of the model); no single pair."
+  - id: blocked-vs-interleaved
+    kind: between-groups
+    index_arm: blocked
+    reference_arm: interleaved
+    description: "Blocked against interleaved, Bonferroni-adjusted post-hoc comparison."
+  - id: blocked-increased-vs-interleaved-moderate
+    kind: between-groups
+    index_arm:
+      - blocked
+      - increased
+    reference_arm:
+      - interleaved
+      - moderate
+    description: "Blocked and increased each against interleaved and moderate, Bonferroni-adjusted post-hoc comparisons reported together."
+
+observations:
+
+  - id: representational-time-by-condition
+    sample:
+      value: 215
+      unit: participants
+    comparison_ref: four-sequences
+    outcome:
+      construct: "Representational knowledge of fractions"
+      source_language: "representational knowledge"
+      measure: "Test items asking students to identify and order fractions with graphical representations, some not met in the tutor"
+      scale: "interaction F, test time by condition"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, immediate post-test and delayed post-test (7 days)"
+      offset:
+        value: 7
+        unit: days
+        from: "immediate post-test, to the delayed post-test"
+    result:
+      measure_type: other
+      statistic: "F(6, 422) = 5.54"
+      p_value: "< .01"
+      model: "Four-level HLM: tests, students, classes, schools"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No effect size is printed; Table 1's means cannot be assigned to conditions from the text layer."
+    source_quote: "We found a significant interaction effect between test time and blocked versus interleaved practice, for representational knowledge, F(6, 422) = 5.54, p < .01, and operational knowledge, F(6, 422) = 2.19, p < .05."
+    source_location: "Section 3.2"
+
+  - id: operational-time-by-condition
+    sample:
+      value: 215
+      unit: participants
+    comparison_ref: four-sequences
+    outcome:
+      construct: "Operational knowledge of fractions"
+      source_language: "operational knowledge"
+      measure: "Test items on converting and adding fractions with and without graphical representations"
+      scale: "interaction F, test time by condition"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest, immediate post-test and delayed post-test (7 days)"
+    result:
+      measure_type: other
+      statistic: "F(6, 422) = 2.19"
+      p_value: "< .05"
+      model: "Four-level HLM: tests, students, classes, schools"
+      interpretation: "Post-hoc comparisons on operational knowledge did not reveal statistically significant differences between conditions."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "We found a significant interaction effect between test time and blocked versus interleaved practice, for representational knowledge, F(6, 422) = 5.54, p < .01, and operational knowledge, F(6, 422) = 2.19, p < .05."
+    source_location: "Section 3.2"
+
+  - id: representational-immediate-blocked-vs-interleaved
+    sample:
+      value: 215
+      unit: participants
+    comparison_ref: blocked-vs-interleaved
+    outcome:
+      construct: "Representational knowledge of fractions"
+      source_language: "representational knowledge"
+      measure: "Immediate post-test, representational items"
+      scale: "post-hoc comparison, Bonferroni-adjusted p"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediate post-test, the day after the tutor sessions"
+      offset:
+        value: 1
+        unit: days
+        from: "end of the tutor sessions"
+    result:
+      measure_type: other
+      p_value: "< .05"
+      interpretation: "Blocked significantly outperformed interleaved."
+    moderators:
+      reported:
+        - variable: "Prior knowledge (median split on pretest)"
+          relationship: "At the immediate post-test the advantage of blocked and increased over interleaved was significant only for low-prior-knowledge students"
+          source_quote: "Post-hoc comparisons showed that for representational knowledge at the immediate post-test, the advantage of the blocked condition and the increased condition over the interleaved condition was only significant for the low prior knowledge group (ps < .01), but not for the high prior knowledge group."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Post-hoc comparisons showed that regarding representational knowledge, students in the blocked condition significantly outperformed students in the interleaved condition at the immediate post-test (p < .05)."
+    source_location: "Section 3.2"
+
+  - id: representational-delayed-blocked-increased-vs-interleaved-moderate
+    sample:
+      value: 215
+      unit: participants
+    comparison_ref: blocked-increased-vs-interleaved-moderate
+    outcome:
+      construct: "Representational knowledge of fractions"
+      source_language: "representational knowledge"
+      measure: "Delayed post-test, representational items"
+      scale: "post-hoc comparisons, Bonferroni-adjusted p"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "delayed post-test, seven days after the immediate post-test"
+      offset:
+        value: 7
+        unit: days
+        from: "immediate post-test"
+    result:
+      measure_type: other
+      p_value: "ps < .01"
+      interpretation: "Blocked and increased each performed significantly better than interleaved and moderate."
+    moderators:
+      reported:
+        - variable: "Prior knowledge (median split on pretest)"
+          relationship: "At the delayed post-test blocked and increased beat interleaved, and blocked beat moderate, in both prior-knowledge groups; increased beat moderate only in the low-prior-knowledge group"
+          source_quote: "At the delayed post-test, the advantage of the blocked condition and the increased condition over the interleaved condition, as well as the advantage of the blocked condition over the moderate condition reached the level of significance for both the low and high prior knowledge groups (ps < .01). The advantage of the increased condition over the moderate condition, in contrast, was significant only for the low prior knowledge group (p < .01)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "At the delayed post-test, both the blocked and the increased condition performed significantly better than the interleaved and moderate condition (ps < .01)."
+    source_location: "Section 3.2"
+
+  - id: representational-delayed-condition-by-prior-knowledge
+    sample:
+      value: 215
+      unit: participants
+    comparison_ref: four-sequences
+    outcome:
+      construct: "Representational knowledge of fractions"
+      source_language: "representational knowledge"
+      measure: "Delayed post-test, representational items"
+      scale: "interaction F, condition by prior-knowledge group"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "delayed post-test, seven days after the immediate post-test"
+      offset:
+        value: 7
+        unit: days
+        from: "immediate post-test"
+    result:
+      measure_type: other
+      statistic: "F(4, 202) = 6.08"
+      p_value: "< .01"
+      note: >-
+        The same paragraph prints the interaction at the immediate post-test,
+        F(4, 201) = 17.56, and for operational knowledge F(4, 199) = 21.74
+        (immediate) and F(4, 198) = 17.90 (delayed), all p < .01.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Prior knowledge was split at the median pretest score; the group sizes are not printed."
+    source_quote: "An interaction between condition and the prior knowledge groups was significant for representational knowledge at both the immediate post-test, F(4, 201) = 17.56, p < .01, and the delayed posttest, F(4, 202) = 6.08, p < .01, as well as for operational knowledge at the immediate post-test, F(4, 199) = 21.74, p < .01, and the delayed post-test, F(4, 198) = 17.90, p < .01."
+    source_location: "Section 3.2"
+
+not_yet_extracted:
+  - "Table 1 (relative means and SDs for representational and operational knowledge at pretest, immediate and delayed post-test, by condition and prior-knowledge group): the text layer separates the condition headers from eight runs of six values, so the condition of each run cannot be read with certainty; no cell mean is recorded. The delayed representational means for low-prior-knowledge students in the blocked and interleaved conditions need the page image."
+  - "Low-prior-knowledge gains from pretest to immediate post-test on representational knowledge in the blocked and increased conditions (and for increased also at the delayed post-test, ps < .05)."
+  - "Operational knowledge, low prior knowledge: increased better than blocked at immediate and delayed post-test, and better than interleaved and moderate at delayed post-test (p < .01)."
+  - "Exclusions did not differ by condition, chi-square(3, N = 269) = 1.21, p > .10; no effect of order of representations (F < 1)."

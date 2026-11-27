@@ -1,0 +1,361 @@
+# Starch & Elliott (1913): mathematics teachers grade the same geometry
+# final-examination paper.
+#
+# Read from the publisher's scanned full text (JSTOR copy), through its OCR text
+# layer. That layer reads digits as letters in places ("i" for 1, "io" for 10,
+# "I.I" for 1.1, "Ioo" for 100) and garbles the dot charts (Figs. 1-4) and the
+# reproduced answer paper. Quotes below are copied from the text layer as it
+# stands, OCR letters included. No PDF was available, so nothing was checked
+# against page images.
+#
+# The "probable error" is the spread of one paper's marks across graders (the
+# article: "roughly, though not exactly, equivalent to the average amount of
+# error or deviation of the mark from the median"). It is not a reliability
+# coefficient, since one paper has no between-pupil variance, so it is recorded
+# as measure_type `other`. No SD is printed and none is derived. The "mean
+# variation" of the within-school sets is likewise recorded as printed.
+#
+# The article's counts do not add up: "One hundred and forty papers were
+# returned. Twelve had to be discarded", then "Of the remaining 138", which it
+# splits 43 + 75 + 10 (= 128). `size` holds the 138 the article states, and the
+# three group counts are kept beside it; neither is corrected.
+#
+# The per-paper English probable errors (4.0 and 4.8) that this article quotes
+# belong to the 1912 study's sample, not to this one, and are not recorded as
+# observations here.
+#
+# The wiki's claim pages date this article 2017 (anchor `starch-and-elliott-1913`,
+# the JSTOR download year); Crossref and the journal give April 1913, School
+# Review 21(4).
+
+schema_version: 2
+
+study:
+  key: starch-1913
+  citation: "Starch, D., & Elliott, E. C. (1913). Reliability of grading work in mathematics. The School Review, 21(4), 254–259."
+  doi: "10.1086/436086"
+  design:
+    family: observational
+    design_detail: >-
+      Descriptive study. One pupil's geometry final examination from one of the
+      largest high schools in Wisconsin was reproduced exactly (plates printed
+      on foolscap) and sent with the questions to approximately 180 North
+      Central Association high schools, whose principal mathematics teacher
+      graded it according to the school's own practices and standards. Marks
+      are presented as distributions with medians and probable errors, by the
+      school's passing grade; within-school sets of teachers and per-question
+      marks are reported as well. No assignment of any kind.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: wide-variation-grades-same-geometry-paper
+    bearing: supports
+    anchor: starch-and-elliott-1913
+  - claim: geometry-marks-vary-more-than-english
+    bearing: supports
+    anchor: starch-and-elliott-1913
+  - claim: within-school-grading-variation-geometry
+    bearing: supports
+    anchor: starch-and-elliott-1913
+  - claim: single-question-marks-vary-as-widely-as-whole-paper
+    bearing: supports
+    anchor: starch-and-elliott-1913
+
+evidence_base:
+  unit: participants
+  size:
+    value: 138
+    unit: participants
+  additional_sizes:
+    - value: 140
+      unit: schools
+      note: "graded papers returned of approximately 180 sent; twelve discarded for missing data"
+    - value: 43
+      unit: participants
+      note: "teachers in schools whose passing grade is 70 (Fig. 1)"
+    - value: 75
+      unit: participants
+      note: "teachers in schools whose passing grade is 75 (Fig. 2)"
+    - value: 10
+      unit: participants
+      note: "teachers in schools whose passing grade is 80; their ten marks are listed in the text, not charted. 43 + 75 + 10 is 128, against the article's 'remaining 138'"
+    - value: 62
+      unit: participants
+      note: "returns carrying a mark for each separate question: 49 on one scale, 13 on a 0-to-10 scale"
+  population:
+    description: >-
+      The principal teacher of mathematics in North Central Association high
+      schools, each grading on their own school's standards; plus the five
+      geometry teachers of the pupil's own school and four geometry teachers in
+      a large Ohio high school, each grading independently.
+    age_or_stage: "Practising high-school mathematics teachers"
+    age: unreported
+  context:
+    setting: >-
+      One reproduced geometry final-examination answer paper (eight questions
+      chosen from ten), of decidedly poor form, make-up and appearance; teachers
+      differed in whether and how much they penalised form (deductions of 3 to
+      13 points). Separate grades and comments usually accompanied each answer.
+  arms:
+    - id: passing-70-teachers
+      description: "Teachers in the 43 schools whose passing grade is 70 (Fig. 1)."
+      size:
+        value: 43
+        unit: participants
+    - id: passing-75-teachers
+      description: "Teachers in the 75 schools whose passing grade is 75 (Fig. 2)."
+      size:
+        value: 75
+        unit: participants
+    - id: source-school-teachers
+      description: "The five geometry teachers of the Wisconsin school the paper came from, each grading independently; passing grade 70."
+      size:
+        value: 5
+        unit: participants
+    - id: ohio-school-teachers
+      description: "Four geometry teachers in a large Ohio high school; passing grade 70."
+      size:
+        value: 4
+        unit: participants
+    - id: question-ten-graders
+      description: "The 49 teachers who marked each question separately on the larger per-question scale, marking the answer to question ten (Fig. 4)."
+      size:
+        value: 49
+        unit: participants
+
+comparisons: []
+
+observations:
+
+  - id: probable-error-composite
+    arm_ref:
+      - passing-70-teachers
+      - passing-75-teachers
+    outcome:
+      construct: "Spread of one paper's marks across graders"
+      source_language: "The probable error of the geometry marks"
+      measure: "Marks on a 100-point scale given to the geometry paper, composite of Figs. 1 and 2 with the passing-70 schools' marks raised three points (Fig. 3)"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "probable error (deviation of individual marks from the group median)"
+      estimate: 7.5
+      unit: "points of 100"
+      descriptives: "Median 70 (Fig. 3)"
+      interpretation: "The article reads this as wider variation than either English paper of the authors' former study, and says the distribution is normal."
+      note: >-
+        The article gives no grader count for Fig. 3; it describes it as the
+        values assigned by the entire group of teachers, combining the
+        passing-70 and passing-75 schools. The spread includes the schools'
+        differing standards.
+    moderators:
+      reported: []
+      candidate:
+        - "Whether a teacher penalised the paper's poor form and make-up, which the authors offer as why this paper varied more than the English papers"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a probable error is a dispersion,
+      not an effect. No sample is recorded for this observation because the
+      article prints none for Fig. 3.
+    source_quote: "The probable error of the geometry marks is 7.5 (Fig. 3), whereas the probable error of the English papers was 4.0 and 4.8 respectively."
+    source_location: "p. 257; Fig. 3, p. 256"
+
+  - id: probable-error-passing-70
+    sample:
+      value: 43
+      unit: participants
+    arm_ref: passing-70-teachers
+    outcome:
+      construct: "Spread of one paper's marks across graders"
+      source_language: "Probable error"
+      measure: "Marks on a 100-point scale given to the geometry paper by teachers in passing-70 schools"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "probable error (deviation of individual marks from the group median)"
+      estimate: 8
+      unit: "points of 100"
+      descriptives: "Median 67"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "FIG. i.-Passing grade 70. 43 schools. Median 67. Probable error 8."
+    source_location: "Fig. 1 caption, p. 256"
+
+  - id: probable-error-passing-75
+    sample:
+      value: 75
+      unit: participants
+    arm_ref: passing-75-teachers
+    outcome:
+      construct: "Spread of one paper's marks across graders"
+      source_language: "Probable error"
+      measure: "Marks on a 100-point scale given to the geometry paper by teachers in passing-75 schools"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "probable error (deviation of individual marks from the group median)"
+      estimate: 7.2
+      unit: "points of 100"
+      descriptives: "Median 70"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "FIG. 2.-Passing grade 75. 75 schools. Median 70. Probable error 7.2."
+    source_location: "Fig. 2 caption, p. 256"
+
+  - id: within-school-source-school
+    sample:
+      value: 5
+      unit: participants
+    arm_ref: source-school-teachers
+    outcome:
+      construct: "Spread of one paper's marks across graders within one school"
+      source_language: "mean variation"
+      measure: "Marks on a 100-point scale given independently by the five geometry teachers of the pupil's own school: 70, 65, 60, 70 and 59"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "mean variation"
+      estimate: 4.2
+      unit: "points of 100"
+      descriptives: "Marks 70, 65, 60, 70, 59; average 64.8"
+      interpretation: "Offered against the criticism that the variation reflects schools with different standards."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "the school from which the paper was obtained has five teachers of geometry, each of whom graded the paper independently as follows: 70, 65, 60, 70, and 59, average 64.8, mean variation 4.2."
+    source_location: "p. 258"
+
+  - id: within-school-ohio
+    sample:
+      value: 4
+      unit: participants
+    arm_ref: ohio-school-teachers
+    outcome:
+      construct: "Spread of one paper's marks across graders within one school"
+      source_language: "mean variation"
+      measure: "Marks on a 100-point scale given by four geometry teachers in a large Ohio high school: 76, 75, 67 and 61"
+      scale: "points of the 100-point marking scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "mean variation"
+      estimate: 5.8
+      unit: "points of 100"
+      descriptives: "Marks 76, 75, 67, 61 (the text layer prints the last as '6i'); average 69.8"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    source_quote: "In a large high school in Ohio the paper was graded by four teachers of geometry as follows: 76, 75, 67, and 6i, average 69.8, mean variation 5.8."
+    source_location: "p. 259"
+
+  - id: probable-error-question-ten
+    sample:
+      value: 49
+      unit: participants
+    arm_ref: question-ten-graders
+    outcome:
+      construct: "Spread of one answer's marks across graders"
+      source_language: "the probable error"
+      measure: "Marks given to the answer to question ten by the 49 teachers who marked each question on the larger per-question scale (Fig. 4)"
+      scale: "points of the per-question scale (the text layer garbles its maximum as 'I22' and 'I2?'); the article multiplies by 8 to reach the 0-to-100 scale"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single grading of the paper"
+    result:
+      measure_type: other
+      statistic: "probable error (deviation of individual marks from the group median)"
+      estimate: 1.1
+      unit: "points of the per-question scale"
+      descriptives: "Median 5.1"
+      note: >-
+        The article transposes this to the 0-to-100 scale by multiplying by 8,
+        giving 8.8, which it compares with the whole paper's 7.5 and reads as
+        a single answer varying about as widely as the entire paper. The 8.8
+        is the article's figure; nothing was converted here.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      The text layer reads the median and probable error as "5.I" and "I.I";
+      the article's own transposition (1.1 times 8 = 8.8) confirms the
+      reading. The per-question scale's maximum is garbled and is not
+      recorded.
+    source_quote: "The median is 5.I and the probable error is I.I. If we transpose this probable error into terms of the usual scale of o to Ioo by multiplying it by 8, we obtain a probable error of 8.8."
+    source_location: "p. 259; Fig. 4"
+
+not_yet_extracted:
+  - "The English papers' probable errors (4.0 and 4.8) quoted on p. 257 belong to the 1912 study (starch-1912), whose own text prints only their combined 4.5; not recorded in either file."
+  - "Fig. 3's grader count is not printed; the composite combines Figs. 1 and 2."
+  - "The ten marks from passing-80 schools (72, 80, 83, 80, 58, 50, 50, 75, 73, 70) are listed but not summarised by the article."
+  - "Question ten marks on the 0-to-10 scale by 13 teachers ('average 3.5, mean variation 1.7'): the text layer garbles one of the thirteen listed marks ('62'), so the list is not recorded."
+  - "Fig. 4's caption reads 'Median 5. . Probable error i. I' in the text layer, against 'median is 5.I' in the prose; the prose figures are the ones recorded."
+  - "Individual-teacher examples of form penalties (marks of 50, 45, 75 or 85; deductions from 3 to 13 points), p. 258."

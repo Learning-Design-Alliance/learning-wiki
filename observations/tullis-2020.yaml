@@ -1,0 +1,358 @@
+# Tullis & Goldstone (2020): why peer instruction benefits student learning.
+#
+# One study: six university psychology and educational-psychology classes
+# (208 students, 1657 full responses to 86 questions), each student answering,
+# rating confidence, discussing with a neighbour and answering again. The six
+# classes are one dataset analysed together with class as a random effect, so
+# this is one file, not one per class.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The disagreement-trial logit model (Table 5) as three odds ratios, the
+#     form the authors report them in the text: own answer correct 4.48, own
+#     confidence 1.25 per point, partner confidence 1.19 per point decrease.
+#     The table's log-odds betas sit in `model`, not converted.
+#   * Answer pathways: 28% of incorrect answers became correct, 5% of correct
+#     answers became incorrect, and on disagreement 66% kept their own answer.
+#   * The pre-to-post odds ratio of correctness (1.57).
+#   * `population.age: unreported`. The article gives course levels (middle and
+#     upper undergraduate, introductory master's) and no age figure.
+#   * No reliability: confidence is a single 1-10 rating and correctness is
+#     scored against a key; the article prints no reliability coefficient.
+#
+# The design is a within-person pre/post comparison in ordinary classes, with
+# no comparison group and no assignment; the authors served as instructors.
+#
+# Quotes are copied from the text layer. Where the text layer hyphenates a word
+# across a line ("in- creased", "in- correct"), the quote keeps that form so a
+# substring search of the whitespace-normalised text finds it; the article's
+# word is the unhyphenated one.
+
+schema_version: 2
+
+study:
+  key: tullis-2020
+  citation: "Tullis, J. G., & Goldstone, R. L. (2020). Why does peer instruction benefit student learning? Cognitive Research: Principles and Implications, 5, 15."
+  doi: "10.1186/s41235-020-00218-5"
+  design:
+    family: observational
+    design_detail: >-
+      Semester-long classroom data from six classes using peer instruction:
+      each multiple-choice conceptual question answered individually with a
+      1-10 confidence rating, discussed with a neighbouring peer, then answered
+      and rated again. Logit and linear mixed-effects models (lme4) with random
+      intercepts for questions, classes and students. Within-person pre/post
+      comparison with no control group; trials in which partners disagreed
+      analysed separately for answer switching.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: peer-discussion-improves-accuracy-pre-to-post
+    bearing: supports
+    anchor: tullis-2020
+  - claim: confidence-predicts-answer-switching
+    bearing: supports
+    anchor: tullis-2020
+  - claim: correctness-predicts-switching-beyond-confidence
+    bearing: supports
+    anchor: tullis-2020
+
+evidence_base:
+  unit: participants
+  size:
+    value: 208
+    unit: participants
+  additional_sizes:
+    - value: 1657
+      unit: other
+      note: "full responses (trials), the unit of analysis in the mixed-effects models"
+    - value: 86
+      unit: items
+      note: "distinct multiple-choice questions across the six classes"
+    - value: 6
+      unit: classes
+      note: "classes (Cognitive Psychology 2015 and 2017, Indiana University; Decision Making 2016 and 2017, Learning Theories 2016 and 2018, University of Arizona); a random effect, not a unit of assignment"
+  population:
+    description: >-
+      Students in six psychology and educational-psychology classes at Indiana
+      University and the University of Arizona: middle-level undergraduates
+      (61 and 60), upper-level undergraduates (24 and 37) and introductory
+      master's students (12 and 14).
+    age_or_stage: "Undergraduate and introductory master's level; the article prints no age figure"
+    age: unreported
+  context:
+    setting: >-
+      Peer instruction during normal class procedures, the authors as
+      instructors; clicker responses in the cognitive psychology classes and
+      paper in the others; most responses counted toward participation
+      regardless of correctness; the instructor gave the correct answer after
+      final answers.
+  arms:
+    - id: before-discussion
+      description: "Each student's individual answer and confidence before peer discussion."
+    - id: after-discussion
+      description: "The same student's answer and confidence after discussing the question with a neighbouring peer."
+      implementation_notes:
+        - "Students paired with a neighbour; in the cognitive psychology classes they had to tell their partner their answer and confidence, in the other classes they did not."
+
+comparisons:
+  - id: post-vs-pre
+    kind: within-subject-baseline
+    index_arm: after-discussion
+    reference_arm: before-discussion
+    description: "The same students' answers after discussion against their own answers before it, question by question."
+  - id: disagreement-trials
+    kind: none
+    description: "Trials on which the two partners' initial answers disagreed: whether a student kept their own answer, predicted from own confidence, partner confidence and initial correctness. No contrast between configurations."
+
+observations:
+
+  - id: accuracy-odds-pre-to-post
+    sample:
+      value: 208
+      unit: participants
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Answer accuracy on conceptual questions"
+      source_language: "correctness"
+      measure: "Whether a multiple-choice answer was correct, per trial"
+      scale: "odds ratio of a correct answer, post- against pre-discussion"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.57
+      ci_lower: 1.31
+      ci_upper: 1.87
+      interval_type: confidence
+      model: >-
+        Logit mixed-effects model predicting correctness from time point, with
+        random intercepts for questions, classes and students (Table 2:
+        time point beta 0.45, SE 0.09, Wald z 5.102, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "A logit model predicting correctness from time point (pre-discussion to post-discussion) revealed that the odds of correctness increased by 1.57 times (95% confi- dence interval (conf) 1.31 –1.87) from pre-discussion to post-discussion, as shown in Table 2."
+    source_location: "Results, Does accuracy change through discussion?; Table 2"
+
+  - id: incorrect-to-correct-share
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Switching from an incorrect to the correct answer"
+      source_language: "incorrect answers were switched to correct following discussion"
+      measure: "Share of initially incorrect answers that were correct after discussion"
+      scale: "percent of initially incorrect answers"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: probability
+      estimate: 28
+      unit: "percent"
+      note: "Of the initially incorrect answers where the partner disagreed, 42% were changed to the correct answer."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The count of trials behind the percentage is in Fig. 2, which the text
+      layer does not carry; no sample is recorded.
+    source_quote: "Broadly, only 5% of correct answers were switched to in- correct, while 28% of incorrect answers were switched to correct following discussion."
+    source_location: "Results, Does accuracy change through discussion?; Fig. 2"
+
+  - id: correct-to-incorrect-share
+    comparison_ref: post-vs-pre
+    outcome:
+      construct: "Switching from the correct to an incorrect answer"
+      source_language: "correct answers were switched to incorrect"
+      measure: "Share of initially correct answers that were incorrect after discussion"
+      scale: "percent of initially correct answers"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: probability
+      estimate: 5
+      unit: "percent"
+      note: "Of the initially correct answers where the partner disagreed, 21% were changed to incorrect answers."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The count of trials behind the percentage is in Fig. 2, which the text
+      layer does not carry; no sample is recorded.
+    source_quote: "Broadly, only 5% of correct answers were switched to in- correct, while 28% of incorrect answers were switched to correct following discussion."
+    source_location: "Results, Does accuracy change through discussion?; Fig. 2"
+
+  - id: keep-own-answer-on-disagreement
+    comparison_ref: disagreement-trials
+    outcome:
+      construct: "Keeping one's own answer when the partner disagrees"
+      source_language: "they kept their own answer"
+      measure: "Share of disagreement trials on which the student's final answer was their own initial answer"
+      scale: "percent of disagreement trials"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: probability
+      estimate: 66
+      unit: "percent"
+      note: "When the partner was more confident, students switched to the partner's answer 50% of the time; final answers aligned with the more confident peer 58% of the time."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "When students disagreed with their partner, they were more likely to stick with their own answer than switch; they kept their own answer 66% of the time."
+    source_location: "Discussion, p. 9"
+
+  - id: keep-answer-own-correct-or
+    comparison_ref: disagreement-trials
+    outcome:
+      construct: "Keeping one's own answer when the partner disagrees"
+      source_language: "the odds of keeping one’s answer"
+      measure: "Whether the student kept their initial answer on a disagreement trial"
+      scale: "odds ratio for an initially correct own answer, both partners' confidence controlled"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: odds_ratio
+      estimate: 4.48
+      ci_lower: 2.92
+      ci_upper: 6.89
+      interval_type: confidence
+      model: >-
+        Logit mixed-level regression on disagreement trials predicting keeping
+        one's answer from own confidence (mean-centred), partner confidence
+        (mean-centred) and own initial correctness (Table 5: own correct beta
+        1.50, SE 0.22, Wald z 6.73, p < .0001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The number of disagreement trials in the model is not printed in the
+      text.
+    source_quote: "the odds of keeping one’s answer increased 4.48 times (2.92–6.89)."
+    source_location: "Results, Does correctness predict switching beyond confidence?; Table 5"
+
+  - id: keep-answer-own-confidence-or
+    comparison_ref: disagreement-trials
+    outcome:
+      construct: "Keeping one's own answer when the partner disagrees"
+      source_language: "the odds of keeping one’s answer"
+      measure: "Whether the student kept their initial answer on a disagreement trial"
+      scale: "odds ratio per one-point increase in own confidence (1-10 scale)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.25
+      ci_lower: 1.13
+      ci_upper: 1.38
+      interval_type: confidence
+      model: >-
+        Same model as keep-answer-own-correct-or (Table 5: own confidence beta
+        0.22, SE 0.05, Wald z 4.16, p < .0001). The own- and partner-confidence
+        betas did not differ (chi-square 0.49, p = 0.48).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "the odds of keeping one’s answer increases 1.25 times (95% conf 1.13 –1.38)."
+    source_location: "Results, Does correctness predict switching beyond confidence?; Table 5"
+
+  - id: keep-answer-partner-confidence-or
+    comparison_ref: disagreement-trials
+    outcome:
+      construct: "Keeping one's own answer when the partner disagrees"
+      source_language: "the odds of keeping one ’s answer"
+      measure: "Whether the student kept their initial answer on a disagreement trial"
+      scale: "odds ratio per one-point DECREASE in the partner's confidence (1-10 scale)"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after discussion of the same question"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.19
+      ci_lower: 1.08
+      ci_upper: 1.32
+      interval_type: confidence
+      model: >-
+        Same model as keep-answer-own-correct-or. The odds ratio is stated per
+        point decrease of partner confidence; Table 5 prints the partner
+        confidence beta as -0.18 (SE 0.05, Wald z 3.51, p = .0005) per point
+        increase.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "For each decrease in a point of the partner’s confidence, the odds of keeping one ’s answer in- creased 1.19 times (1.08 –1.32)."
+    source_location: "Results, Does correctness predict switching beyond confidence?; Table 5"
+
+not_yet_extracted:
+  - "Fig. 2 answer pathways with raw counts and mean confidences per pathway: a figure, not in the text layer."
+  - "Table 3 per-class pre/post accuracy (overall .65 to .72, t(212) = 5.39, d = 0.37) and Table 4 gamma correlations (overall .40 to .48, t(139) = 2.98, d = 0.24)."
+  - "Table 6 confidence model on agreement trials (time point 1.08, initial correct 0.78, interaction 0.33, p = .03)."
+  - "Counterfactual accuracies: always-more-confident 69% against actual 72% (t(207) = 2.59, d = 0.18); optimal switching M 0.80 (SD 0.19) against 0.72 (SD 0.24)."
+  - "Initial confidence-correctness gamma M 0.40, t(160) = 8.59, d = 0.68; agreement rates (78% when initially correct, 43% when initially incorrect; less than 3% changed answers on agreement)."

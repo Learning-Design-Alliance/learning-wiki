@@ -1,0 +1,434 @@
+# Zhang, Shi, King & Yeung (2017): Dynamic Key-Value Memory Networks (DKVMN)
+# for knowledge tracing.
+#
+# A model paper, not an experiment with learners in conditions. Its own printed
+# figures are the test AUCs of DKVMN, DKT (the authors' own LSTM
+# implementation) and a MANN baseline on four datasets (Table 1), the
+# DKT-versus-DKVMN comparison over state dimensions and parameter counts
+# (Table 2), and the adjusted mutual information of DKVMN's concept clustering
+# on the synthetic dataset. The arms are model configurations, not groups of
+# people.
+#
+# Read from the publisher's text layer (WWW 2017 proceedings, pp. 765-774),
+# whose front matter gives the DOI recorded here. No PDF was supplied. Table 1
+# prints its DKT/MANN pairs and the DKVMN column cleanly but its BKT+ column
+# incompletely, and Table 2 comes out cell by cell; every AUC below is quoted
+# from the Section 4.3 prose, which states each one, and the SDs from the
+# Table 1 DKVMN column, which reads cleanly in dataset order.
+#
+# BKT and BKT+ AUCs in the paper are taken from earlier papers ([11], [32]),
+# not computed here, so they are not this study's figures and are not recorded.
+# Synthetic-5 is simulated students: only its concept-discovery result is
+# recorded, marked as such, because it is the one test with a ground truth.
+#
+# No age, no reliability, no single-group mean: the article prints no age for
+# any dataset (Statics2011 is described only as a college-level course), no
+# reliability or agreement coefficient, and no group mean.
+
+schema_version: 2
+
+study:
+  key: zhang-2017
+  citation: "Zhang, J., Shi, X., King, I., & Yeung, D.-Y. (2017). Dynamic key-value memory networks for knowledge tracing. In Proceedings of the 26th International Conference on World Wide Web (WWW 2017) (pp. 765–774). International World Wide Web Conferences Steering Committee."
+  doi: "10.1145/3038912.3052580"
+  design:
+    family: other
+    design_detail: >-
+      Computational benchmark. DKVMN keeps a static key matrix of latent
+      concepts and a dynamic value matrix of concept states; each exercise
+      attends over the keys (correlation weight w_t, a softmax), the model
+      reads a weighted sum of value slots to predict correctness, and after
+      the response writes to every slot by an erase-then-add step weighted by
+      w_t. It is compared with an LSTM DKT, a standard MANN and published BKT
+      results on one synthetic and three real datasets. 30% of sequences held
+      out as test (synthetic: equal train and test), 20% of training split for
+      validation and early stopping, hyperparameters by five-fold cross
+      validation, each training repeated five times with different
+      initialisations. No conditions were assigned to learners.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: dkvmn-outperforms-dkt-mann-bkt-auc
+    bearing: supports
+    anchor: zhang-et-al-2017
+  - claim: dkvmn-better-accuracy-fewer-parameters
+    bearing: supports
+    anchor: zhang-et-al-2017
+  - claim: dkvmn-automatic-concept-discovery
+    bearing: supports
+    anchor: zhang-et-al-2017
+
+evidence_base:
+  unit: other
+  size:
+    value: 3
+    unit: other
+  additional_sizes:
+    - value: 4151
+      unit: participants
+      note: "students in ASSISTments2009 (skill-builder, updated version), 325,637 exercise records, 110 exercise tags"
+    - value: 19840
+      unit: participants
+      note: "students in ASSISTments2015 after preprocessing, 683,801 records, 100 skills"
+    - value: 333
+      unit: participants
+      note: "students in Statics2011, 189,297 trials, 1,223 exercise tags"
+    - value: 1
+      unit: other
+      note: "synthetic dataset (Synthetic-5): 2000 simulated students answering 50 exercises from five hidden concepts, in both training and testing sets"
+  population:
+    description: >-
+      Three real datasets of student responses: ASSISTments2009 and
+      ASSISTments2015 from the ASSISTments online tutoring platform
+      (mathematics), and Statics2011 from a college-level engineering statics
+      course. Records without skill names were discarded from ASSISTments2009
+      and records with correctness outside {0, 1} from ASSISTments2015.
+    age_or_stage: "Statics2011 is a college-level course; no age or grade is stated for any dataset."
+    age: unreported
+  context:
+    setting: "Offline prediction of the correctness of the next answer from logged exercise sequences, padded to length 200"
+  arms:
+    - id: dkvmn
+      description: "DKVMN: static key memory of N latent concepts and a dynamic value memory of concept states, read and written through the exercise's correlation weight over the keys."
+    - id: dkt
+      description: "DKT as implemented by the authors: an LSTM, with norm clipping and early stopping."
+    - id: mann
+      description: "A standard memory-augmented neural network with a single memory matrix, cosine-similarity reading attention and LRUA writing attention."
+
+comparisons:
+  - id: dkvmn-vs-dkt
+    kind: other
+    index_arm: dkvmn
+    reference_arm: dkt
+    description: "Model comparison of DKVMN against the authors' DKT on test AUC."
+  - id: dkvmn-vs-mann
+    kind: other
+    index_arm: dkvmn
+    reference_arm: mann
+    description: "Model comparison of DKVMN against the single-matrix MANN on test AUC."
+
+observations:
+
+  - id: dkvmn-auc-assistments2009
+    arm_ref: dkvmn
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, ASSISTments2009"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 81.6
+      unit: "percent AUC"
+      note: >-
+        Average test AUC over five trainings with different initialisations;
+        Table 1 prints it as 81.6±0.1, the ± being the standard deviation over
+        those trainings. MANN 79.7% on the same dataset.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "An AUC is a model's prediction score, not an effect on learners."
+    source_quote: "The prediction results of DKVMN from the ASSISTments2009 achieve improvement over MANN, DKT, and BKT with 81.6% over 79.7%, 80.5%, and 63% respectively [32]."
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkt-auc-assistments2009
+    arm_ref: dkt
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, ASSISTments2009"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 80.5
+      unit: "percent AUC"
+      note: "Average over five trainings; Table 1 prints 80.5±0.2."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The prediction results of DKVMN from the ASSISTments2009 achieve improvement over MANN, DKT, and BKT with 81.6% over 79.7%, 80.5%, and 63% respectively [32]."
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkvmn-auc-assistments2015
+    arm_ref: dkvmn
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, ASSISTments2015"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 72.7
+      unit: "percent AUC"
+      note: "Average over five trainings; Table 1 prints 72.7±0.1. MANN 72.3% on the same dataset."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "On the ASSISTments2015 dataset, the test AUC of DKVMN is 72.7%, which is better than 72.3% for MANN, 72.5% for DKT (originally 70% in [32])"
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkt-auc-assistments2015
+    arm_ref: dkt
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, ASSISTments2015"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 72.5
+      unit: "percent AUC"
+      note: "Average over five trainings; Table 1 prints 72.5±0.1."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "On the ASSISTments2015 dataset, the test AUC of DKVMN is 72.7%, which is better than 72.3% for MANN, 72.5% for DKT (originally 70% in [32])"
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkvmn-auc-statics2011
+    arm_ref: dkvmn
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, Statics2011"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 82.8
+      unit: "percent AUC"
+      note: "Average over five trainings; Table 1 prints 82.8±0.1. MANN 77.6% on the same dataset."
+    moderators:
+      reported:
+        - variable: "Number of distinct exercises in the dataset"
+          relationship: "DKVMN's advantage is largest on Statics2011, the dataset with the most distinct exercises"
+          source_quote: "In summary, DKVMN performs better than other methods across all the datasets, particularly on the Statics2011 dataset whose number of distinct exercises is large."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Our implemented DKT leads to an AUC of 80.2%, which is better than the 76% from [11]. MANN only produces the average AUC of 77.6%. However, our DKVMN model achieves an AUC of 82.8%, outperforming all previous models."
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkt-auc-statics2011
+    arm_ref: dkt
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "Test AUC"
+      measure: "Area under the ROC curve on the held-out 30% of sequences, Statics2011"
+      scale: "AUC, percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: other
+      estimate: 80.2
+      unit: "percent AUC"
+      note: "Average over five trainings; Table 1 prints 80.2±0.2."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Our implemented DKT leads to an AUC of 80.2%, which is better than the 76% from [11]."
+    source_location: "Section 4.3, Student Performance Prediction; Table 1"
+
+  - id: dkvmn-vs-dkt-parameters-statics2011
+    comparison_ref: dkvmn-vs-dkt
+    outcome:
+      construct: "Next-answer prediction accuracy at a given model size"
+      source_language: "better prediction accuracy than DKT with high state dimensions"
+      measure: "Best test AUC over state dimensions 10, 50, 100 and 200 (and, for DKVMN, memory sizes 1 to 100), with the number of parameters, Statics2011 (Table 2)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: qualitative
+      finding: >-
+        DKT reaches its maximum test AUC of 80.20% at 200 state dimensions with
+        1 million parameters; DKVMN reaches 82.84% at 50 state dimensions with
+        197 thousand parameters. Across datasets, DKVMN at low state dimensions
+        beats DKT at high ones.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Recorded as a qualitative comparison because the source states the two
+      configurations in prose; Table 2's cells come out of the text layer one
+      by one and are not reassembled.
+    source_quote: "For instance, on the Statics2011 dataset, DKT reaches the maximum test AUC of 80.20% when the dimension of states equals 200 using 1 million parameters. Meanwhile, DKVMN can achieve the test AUC of 82.84% only with 50 state dimensions using 197 thousand parameters."
+    source_location: "Section 4.3, Student Performance Prediction; Table 2"
+
+  - id: dkvmn-vs-dkt-overfitting
+    comparison_ref: dkvmn-vs-dkt
+    outcome:
+      construct: "Gap between training and validation AUC"
+      source_language: "the DKT model suffers severe overfitting, whereas our DKVMN model does not confront such a problem"
+      measure: "Training and validation AUC by epoch on all datasets (Figure 3)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over training epochs"
+    result:
+      measure_type: qualitative
+      finding: >-
+        DKVMN's validation AUC rises smoothly with no large gap to its training
+        AUC; DKT's training AUC keeps rising while its validation AUC rises
+        only for the first epochs and then falls.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Moreover, the DKT model suffers severe overfitting, whereas our DKVMN model does not confront such a problem."
+    source_location: "Section 4.3, Student Performance Prediction; Figure 3"
+
+  - id: dkvmn-concept-discovery-synthetic
+    arm_ref: dkvmn
+    outcome:
+      construct: "Recovery of the hidden concept behind each exercise"
+      source_language: "The adjusted mutual information of our clustering result and the ground truth"
+      measure: "Adjusted mutual information between DKVMN's exercise clusters (each exercise assigned to the concept with the largest correlation weight, memory size 5) and the five ground-truth concepts, Synthetic-5 (simulated students)"
+      scale: "adjusted mutual information, 1.0 = perfect agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after training"
+    result:
+      measure_type: other
+      estimate: 1.0
+      interpretation: "The authors call it a perfect clustering of five latent concepts"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The data are simulated, not real learners' responses: Synthetic-5 is
+      the only dataset with ground-truth concepts. The ASSISTments2009
+      clustering has no ground truth and no figure is printed for it.
+    source_quote: "The adjusted mutual information [29] of our clustering result and the ground truth is 1.0."
+    source_location: "Section 4.4, Concept Discovery; Figure 4"
+
+  - id: dkvmn-vs-mann-all-datasets
+    comparison_ref: dkvmn-vs-mann
+    outcome:
+      construct: "Next-answer prediction accuracy"
+      source_language: "DKVMN outperforms the standard MANN and the state-of-the-art method on four datasets"
+      measure: "Test AUC on Synthetic-5, ASSISTments2009, ASSISTments2015 and Statics2011"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test set"
+    result:
+      measure_type: qualitative
+      finding: "DKVMN has a higher test AUC than the single-matrix MANN and than DKT on every dataset."
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "DKVMN outperforms the standard MANN and the state-of-the-art method on four datasets."
+    source_location: "Section 4, Experiments"
+
+not_yet_extracted:
+  - "Synthetic-5 test AUCs (DKVMN 82.7%, MANN 81.0%, DKT 80.3%): simulated students, not recorded as findings about learners."
+  - "BKT and BKT+ AUCs (62/80%, 63%, 64%, 73/75%): taken from earlier papers ([11], [32]), not this study's figures."
+  - "Table 2 test AUCs and parameter counts at each state dimension and memory size for all four datasets: the text layer prints the cells one by one; only the Statics2011 pair the prose states is recorded."
+  - "Table 1 MANN AUCs as separate observations: given in the notes of the DKVMN observations only."
+  - "Figure 6 knowledge-state depiction for one student: an illustration, with no figure printed."
+  - "Equations 2-9 (correlation weight, read, write by erase and add): model structure, not a result."

@@ -1,0 +1,311 @@
+# Malmberg & Martin (2019): cyclic and dynamic effects of primary pupils'
+# momentary effort, competence beliefs and motivation within school days and
+# within school subjects (experience sampling over one school week).
+#
+# Read from the authors' revised manuscript (CEDPSYCH 2018-216-R2, 18 March
+# 2019, text layer). Tables 2 and 3 are at the end of the manuscript and their
+# text layer is scrambled into single cells, so no figure is taken from either
+# table; every figure below is from the running text. The manuscript's text
+# layer renders the Greek alpha of "Cronbach's α" and "Mα" as a plain "a"; the
+# quotes keep the text layer's characters.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The carry-over of self-reported effort from one learning episode to the
+#     next, by the two lags the study defines: the previous episode the same
+#     day (median lag 1 h 26 min) and the previous episode in the same school
+#     subject (median lag 24 h 14 min). Each is one observation, from the joint
+#     model in which both lags enter together.
+#   * Effort's between-student share of variance (rICC .28), as printed.
+#   * `population.age` with the mean and SD the article prints for students.
+#   * `measure_type: reliability` for the three multi-item momentary scales.
+#     Effort was a single item, so the article gives it no reliability.
+
+schema_version: 2
+
+study:
+  key: malmberg-2019
+  citation: "Malmberg, L.-E., & Martin, A. J. (2019). Processes of students' effort exertion, competence beliefs and motivation: Cyclic and dynamic effects of learning experiences within school days and school subjects. Contemporary Educational Psychology, 58, 299–309."
+  doi: "10.1016/j.cedpsych.2019.03.013"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Intensive longitudinal (experience-sampling) study over one school week:
+      pupils answered the Learning Experience Questionnaire on a handheld
+      computer after each learning task or at least once a lesson. Lagged
+      variables were built for the previous episode within the day (the first
+      episode of each day coded missing) and the previous episode in the same
+      school subject (the first occurrence of each subject coded missing).
+      Multilevel structural equation models (Mplus 7.4, robust ML) with
+      time-points nested in students, standard errors adjusted for clustering
+      between 14 classrooms. Observational: nothing was manipulated.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: effort-least-self-sustaining-within-day-subject
+    bearing: supports
+    anchor: malmberg-and-martin-2019
+
+evidence_base:
+  unit: participants
+  size:
+    value: 231
+    unit: participants
+  additional_sizes:
+    - value: 3490
+      unit: other
+      note: "time-points (lines of data, one per reported learning episode) after exclusions; mean 15.1 per student (SD 3.3, range 10 to 26)"
+    - value: 353
+      unit: participants
+      note: "students from whom data were collected, in 16 classrooms in 11 schools, before exclusions"
+    - value: 14
+      unit: classes
+      note: "classrooms over which standard errors were adjusted for clustering"
+    - value: 22
+      unit: other
+      note: "teachers who reported on students' academic performance, task-focus and their own involvement"
+  population:
+    description: >-
+      Primary school pupils in England, Year 5 (98, 42.4%) and Year 6 (133,
+      57.6%); 108 boys and 123 girls; 174 White British, 40 minority students
+      and 17 unknown. Opt-in parental or guardian consent.
+    age_or_stage: "Year 5 and Year 6 of primary school (grade 5 and 6)"
+    age:
+      unit: years
+      mean: 10.5
+      sd: 0.64
+  context:
+    setting: "Ordinary school lessons across the curriculum during one calendar week; reports after each learning task or at least once a lesson"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Within-student associations and scale properties in the whole analysed sample; no contrast between groups."
+
+observations:
+
+  - id: effort-carryover-within-day
+    sample:
+      value: 231
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary effort exertion"
+      source_language: "effort exertion"
+      measure: "One item, \"How much effort did you put in?\" (1 = none at all, 4 = a lot), answered for each learning episode"
+      scale: "standardised association between effort at time T and effort at the previous episode the same day (D1)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "previous learning episode within the same school day; median within-day lag 1 h 26 min"
+    result:
+      measure_type: correlation
+      estimate: 0.07
+      p_value: "= .043"
+      model: >-
+        Joint multilevel SEM (Model 3) in which effort at time T is regressed on
+        both the within-day and the within-subject lag; the authors test the two
+        autoregressive parameters against each other (difference not
+        significant, delta B = -.02, p = .723).
+      interpretation: "Described by the authors as effort not being sustained within days"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The source prints this as rho with p = .043 and nevertheless describes
+      effort as "not sustained"; both are recorded as printed. The text places
+      the figure among the associations between T and D1 shown in Table 2, a
+      within-level correlation matrix of standardised coefficients; that table
+      is unreadable in the manuscript's text layer and was not used. The
+      analysed n of time-points for this lag is not stated in the text.
+    source_quote: "Effort exertion at time T was not sustained within days or within school-subjects (with D1 and S1 ρ = .07; p = .043, and ρ = .08; p = .071). The effects were not significantly different (∆B = -.02; p = .723)."
+    source_location: "Results, Joint cyclic and dynamic effects within days and school-subjects"
+
+  - id: effort-carryover-within-subject
+    sample:
+      value: 231
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary effort exertion"
+      source_language: "effort exertion"
+      measure: "One item, \"How much effort did you put in?\" (1 = none at all, 4 = a lot), answered for each learning episode"
+      scale: "standardised association between effort at time T and effort at the previous episode in the same school subject (S1)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "previous learning episode in the same school subject; median within-school-subject lag 24 hours 14 minutes"
+    result:
+      measure_type: correlation
+      estimate: 0.08
+      p_value: "= .071"
+      model: "Joint multilevel SEM (Model 3), both lags entered together."
+      interpretation: "Described by the authors as effort not being sustained within school subjects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      As for the within-day lag: printed as rho in the text, from the
+      associations between T and S1 the text refers to Table 2, which was not
+      read. The analysed n of time-points for this lag is not stated in the text.
+    source_quote: "Effort exertion at time T was not sustained within days or within school-subjects (with D1 and S1 ρ = .07; p = .043, and ρ = .08; p = .071)."
+    source_location: "Results, Joint cyclic and dynamic effects within days and school-subjects"
+
+  - id: effort-icc-students
+    sample:
+      value: 231
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary effort exertion"
+      source_language: "effort exertion"
+      measure: "One-item momentary effort report, time-points nested in students"
+      scale: "intraclass correlation (share of variance between students)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over the week of experience sampling"
+    result:
+      measure_type: other
+      estimate: 0.28
+      statistic: "intraclass correlation, rICC"
+      note: >-
+        The same sentence gives rICC .28 for competence belief, .37 for
+        autonomous motivation and .55 for controlled motivation. The
+        classroom-level ICCs are separate (effort .004).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Intraclass correlations (rICC ) for our four constructs were substantive so we specified multilevel models to take account of the clustering: effort exertion rICC = .28, competence belief rICC = .28, autonomous motivation rICC = .37, and controlled motivation rICC = .55."
+    source_location: "Method, Student instruments"
+
+  - id: competence-belief-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary competence belief"
+      source_language: "Competence belief"
+      measure: "Two items, \"how well were you doing at this task\" and \"how much did you understand\" (reverse coded, rescaled to 1-5)"
+      scale: "Cronbach's alpha, averaged across time-points"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the time-points of the week"
+    result:
+      measure_type: reliability
+      estimate: 0.69
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "mean of alphas across time-points (SD of alphas .11)"
+      note: "McDonald's omegas also printed: within level .69, between level .89."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "We estimated internal consistencies (Cronbach’s a) across time-points Ma = .69; SDa = .11), and McDonald’s omegas: ωW = .69; ωB = .89;"
+    source_location: "Method, Student instruments"
+
+  - id: autonomous-motivation-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary autonomous motivation"
+      source_language: "Autonomous motivation"
+      measure: "Three items after \"why were you doing this task?\": \"I enjoyed it\", \"I was interested\", \"I chose it\" (1 = not at all, 4 = very much)"
+      scale: "Cronbach's alpha, averaged across time-points"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the time-points of the week"
+    result:
+      measure_type: reliability
+      estimate: 0.84
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "mean of alphas across time-points (SD of alphas .07)"
+      note: "McDonald's omegas also printed: within level .83, between level .89."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(1 = not at all, 4 = very much; ωW = .83; ωB = .89; λW s = .64-.86; λB s = .61-1.00; Ma = .84; SDa = .07)"
+    source_location: "Method, Student instruments"
+
+  - id: controlled-motivation-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Momentary controlled motivation"
+      source_language: "controlled motivation"
+      measure: "Two items, \"I had to do it\" and \"my teacher wanted me to do it\" (1 = not at all, 4 = very much)"
+      scale: "Cronbach's alpha, averaged across time-points"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the time-points of the week"
+    result:
+      measure_type: reliability
+      estimate: 0.83
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "mean of alphas across time-points (SD of alphas .08)"
+      note: "McDonald's omegas also printed: within level .76, between level .94."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "(1 = not at all, 4 = very much; ωW = .76; ωB = .94; λW s = .73-.83; λB s = .88-1.00; Ma = .83; SDa = .08)"
+    source_location: "Method, Student instruments"
+
+not_yet_extracted:
+  - "Autoregressive and cross-lagged paths for competence belief, autonomous and controlled motivation in the within-day, within-subject and joint models (Results text and Figures 2-3)."
+  - "Between-level correlations of teacher involvement, academic performance and task-focus with students' weekly average experiences (Results text; Table 3 is unreadable in the text layer)."
+  - "Means and SDs of the momentary measures (Table 2 descriptives; unreadable in the text layer, not recorded)."
+  - "Reliabilities of the teacher-report scales: involvement alpha .84, academic performance alpha .90, task-focus alpha .94."
+  - "Classroom-level ICCs (effort .004, competence belief .091, autonomous motivation .090, controlled motivation .015)."

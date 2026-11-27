@@ -5,15 +5,15 @@ description: Students in conditions including erroneous examples experienced sig
 id: errex-conditions-higher-confrustion-gaming-than-ps-only
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-25
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
 newest_evidence: 2020
 sources:
-  - id: bittencourt-ig-ibert-2020
+  - id: mogessie-et-al-2020
     resource: "https://doi.org/10.1007/978-3-030-52240-7_38"
-    title: "Bittencourt Ig Ibert, Cukurova Mutlu, Muldner Kasia, Luckin Rose, Millán Eva, Mogessie Michael, Richey Elizabeth J., McLaren Bruce M., Andres-Bray Juan Miguel L., Baker Ryan S. (2020). Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game. Artificial Intelligence in Education. https://doi.org/10.1007/978-3-030-52240-7_38"
-    author: Bittencourt Ig Ibert, Cukurova Mutlu, Muldner Kasia, Luckin Rose, Millán Eva, Mogessie Michael, Richey Elizabeth J., McLaren Bruce M., Andres-Bray Juan Miguel L., Baker Ryan S.
+    title: "Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S. (2020). Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game. Artificial Intelligence in Education. https://doi.org/10.1007/978-3-030-52240-7_38"
+    author: "Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S."
     q: 3
     i: "?"
     kind: causal
@@ -25,16 +25,16 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Bittencourt Ig Ibert 2020: the intervention came bundled with another change (read from the study by two models, 2026-11-25)
+> **Design limits** · Mogessie et al. 2020: the intervention came bundled with another change (read from the study by two models, 2026-11-25)
 
 ## Subclaims
-`q3 i?` A one-way ANOVA showed a significant effect of condition on confrustion (F(3, 187) = 14.01, p < .001) and gaming (F(3, 187) = 10.07, p < .001); Tukey tests showed PS-only students had significantly lower levels of both, with no differences among the erroneous-example conditions. [→ Bittencourt Ig Ibert 2020](#bittencourt-ig-ibert-2020)
+`q3 i?` A one-way ANOVA showed a significant effect of condition on confrustion (F(3, 187) = 14.01, p < .001) and gaming (F(3, 187) = 10.07, p < .001); Tukey tests showed PS-only students had significantly lower levels of both, with no differences among the erroneous-example conditions. [→ Mogessie et al. 2020](#mogessie-et-al-2020)
 
 ## Evidence
 
-### Bittencourt Ig Ibert 2020
+### Mogessie et al. 2020
 
-Bittencourt Ig Ibert, Cukurova Mutlu, Muldner Kasia, Luckin Rose, Millán Eva, Mogessie Michael, Richey Elizabeth J., McLaren Bruce M., Andres-Bray Juan Miguel L., Baker Ryan S. (2020). Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game. Artificial Intelligence in Education. https://doi.org/10.1007/978-3-030-52240-7_38
+Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S. (2020). Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game. Artificial Intelligence in Education. https://doi.org/10.1007/978-3-030-52240-7_38
 
 `q3 · i?` · `causal · r1`
 

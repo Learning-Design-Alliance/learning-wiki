@@ -1,0 +1,236 @@
+# Miller & Brownell (1975): dyadic interaction between conservers and
+# nonconservers.
+#
+# WHICH COPY WAS READ. Two copies were supplied. The text file is the ERIC
+# copy of the authors' 1974 technical report (Developmental Program Report
+# No. 44, University of Michigan, ED 105 975), a longer and earlier version.
+# The PDF beside it is the published article this DOI names (Child
+# Development 46(4), 992-997, via JSTOR). This record is of the published
+# article: every figure and every source_quote below was taken from the
+# published article and checked against its page images (p. 993-994), not
+# from the report's text layer, which carries OCR errors in exactly these
+# sentences ("conservers on out 27 times", "nonconservers o.i 38"). The win
+# counts are the same in both versions.
+#
+# WHAT THE RECORD HOLDS. The yielding results: on each conservation task and
+# on the control questions, how often the conserver's answer prevailed, how
+# often the nonconserver's, and how often the pair stalemated. Counts are
+# recorded as printed, per task; no total or ratio across tasks is computed.
+# No age figure is printed (the sample is described only as second graders),
+# so `age: unreported`. The one agreement figure printed in the text is the
+# judges' 96% agreement on the adequacy of conservation explanations.
+
+schema_version: 2
+
+study:
+  key: miller-1975
+  citation: "Miller, S. A., & Brownell, C. A. (1975). Peers, persuasion, and Piaget: Dyadic interaction between conservers and nonconservers. Child Development, 46(4), 992–997."
+  doi: "10.2307/1128411"
+  design:
+    family: observational
+    design_detail: >-
+      Two sessions. Second graders were pretested individually on conservation
+      of length and of weight and on two control questions (most dangerous
+      animal, best TV show). Pairs of one conserver and one nonconserver were
+      formed randomly from the available children, subject to same sex, same
+      classroom and differing on at least one control question. In the second
+      session each pair discussed the questions on which they had disagreed
+      until they agreed or were judged deadlocked; the child who had changed
+      their conservation answer then took an individual posttest. No condition
+      was assigned: the contrast is between the two roles within each pair.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: pairs
+  size:
+    value: 50
+    unit: pairs
+  additional_sizes:
+    - value: 100
+      unit: participants
+      note: "children in the final sample (58 boys, 42 girls)"
+    - value: 223
+      unit: participants
+      note: "initial sample pretested, from which the final sample was selected on pretest performance"
+  population:
+    description: >-
+      Second graders from two predominantly middle-class schools in Ann Arbor,
+      Michigan. In the interaction session 14 pairs were tested only on length,
+      17 only on weight and 19 on both concepts. Same-sex pairs from the same
+      classroom.
+    age_or_stage: "second graders; no age figure printed"
+    age: unreported
+  context:
+    setting: "School, two individual or paired sessions with an adult experimenter; modal interval between sessions 2 days, range 1-8 days"
+  arms:
+    - id: conservers
+      description: "The pair member classed as a conserver on the concept at pretest: both conservation questions answered correctly with logical explanations."
+    - id: nonconservers
+      description: "The pair member classed as a nonconserver on the concept at pretest: both conservation questions answered incorrectly."
+
+comparisons:
+  - id: conserver-vs-nonconserver
+    kind: other
+    index_arm: conservers
+    reference_arm: nonconservers
+    description: "Within each pair, whose pretest answer prevailed in the discussion: the conserver's, the nonconserver's, or neither (stalemate). The two roles are members of the same pair, not independent groups."
+  - id: explanation-scoring
+    kind: none
+    description: "Agreement between two judges rating the adequacy of conservation explanations; no contrast."
+
+observations:
+
+  - id: length-yielding
+    comparison_ref: conserver-vs-nonconserver
+    outcome:
+      construct: "Social influence on a conservation judgment"
+      source_language: "conservers won ... nonconservers ... stalemates"
+      measure: "Answer the pair agreed on after discussing conservation of length (the staggered-sticks problem)"
+      scale: "number of discussion trials whose agreed answer was the conserver's"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the second (interaction) session"
+    result:
+      measure_type: count
+      estimate: 27
+      unit: "length trials won by the conserver"
+      descriptives: "conservers won 27, nonconservers 3, stalemates 3"
+      statistic: "Z = 4.20, normal approximation to the binomial"
+      p_value: "< .001"
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Developmental level of the sample"
+          relationship: "The authors argue that conservers' dominance should grow with the sample's developmental level; this sample was not designed to test that."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The Z is a test statistic, not an effect size, and none is printed. The
+      number of length trials is not printed as a total; the three counts are
+      recorded as printed and not summed.
+    source_quote: "On conservation of length, conservers won 27 times, nonconservers three times, and there were three stalemates, Z = 4.20, p < .001, by the normal approximation to the binomial."
+    source_location: "Results, Interaction, p. 994 (from the page image)"
+
+  - id: weight-yielding
+    comparison_ref: conserver-vs-nonconserver
+    outcome:
+      construct: "Social influence on a conservation judgment"
+      source_language: "conservers won ... nonconservers ... stalemates"
+      measure: "Answer the pair agreed on after discussing conservation of weight (the sausage problem)"
+      scale: "number of discussion trials whose agreed answer was the conserver's"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the second (interaction) session"
+    result:
+      measure_type: count
+      estimate: 25
+      unit: "weight trials won by the conserver"
+      descriptives: "conservers won 25, nonconservers 5, stalemates 6"
+      statistic: "Z = 3.47"
+      p_value: "< .001"
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Share of conservers in the pretest pool"
+          relationship: "The authors suggest the weight sample's departure from a 50% conservation rate may explain the many weight trials on which the nonconserver offered no resistance."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      As for length: a Z, no effect size, and no printed total of weight trials.
+    source_quote: "On conservation of weight, conservers won 25 times, nonconservers five times, and there were six stalemates, Z = 3.47, p < .001."
+    source_location: "Results, Interaction, p. 994 (from the page image)"
+
+  - id: control-yielding
+    sample:
+      value: 90
+      unit: other
+    comparison_ref: conserver-vs-nonconserver
+    outcome:
+      construct: "General social influence"
+      source_language: "relative social influence"
+      measure: "Answer the pair agreed on for the two control questions (most dangerous animal, best TV show)"
+      scale: "number of usable control trials whose agreed answer was the conserver's"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the second (interaction) session, before the conservation problems"
+    result:
+      measure_type: count
+      estimate: 41
+      unit: "control trials won by the conserver, of 90 usable trials"
+      descriptives: "conservers won 41, nonconservers 38, stalemates 11, of 90 usable trials across the 50 pairs"
+      interpretation: "The authors read this as no evidence that conservers and nonconservers differed in relative social influence"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      `sample` counts usable control trials (unit `other`), not children. No
+      test statistic is printed for the control trials.
+    source_quote: "The control problems yielded 90 usable trials across the 50 pairs. Conservers won the argument on 41 of these trials, nonconservers on 38, and there were 11 stalemates."
+    source_location: "Results, Interaction, p. 994 (from the page image)"
+
+  - id: explanation-adequacy-agreement
+    comparison_ref: explanation-scoring
+    outcome:
+      construct: "Inter-judge agreement"
+      source_language: "The percentage of agreement with respect to adequacy"
+      measure: "Two judges independently rated whether each conservation explanation was adequate (reversibility, compensation, addition/subtraction, previous equality, irrelevancy of transformation, and for weight same amount of clay)"
+      scale: "percent of explanations agreed"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "scoring of pretest and posttest explanations"
+    result:
+      measure_type: reliability
+      estimate: 96
+      reliability:
+        statistic: percent_agreement
+        over: raters
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      This is the agreement on the explanation codes that classed children as
+      conservers, not on who won a discussion; the winner of a trial was not
+      reported as separately coded.
+    source_quote: "The percentage of agreement with respect to adequacy was 96."
+    source_location: "Method, Scoring, p. 994 (from the page image)"
+
+not_yet_extracted:
+  - "Table 1 percentages of interrater agreement for each category used to score the discussions (77 to 99); the text layer drops cells and footnotes, and the categories score the discussion process, not the yielding outcome."
+  - "Table 2 proportions of conservers, nonconservers, winners and losers giving each category of statement, by task."
+  - "Pretest rates (length 35% conservers, 39% nonconservers, 26% transitional; weight 46%, 27%, 26%; sign test Z = 4.12) and posttest conservation judgments by nonconservers (50% length, 54% weight)."
+  - "Discussion length and counts of assertions and explanations per trial (e.g., 7.1 assertions on length, 4.7 on weight; mean time 178 s and 131 s)."
+  - "The 1974 report version also prints a sex difference in yielding (male conservers prevailing on 34 of 36 agreed trials, females 18 of 24) and posttest agreement of 95%; neither appears in the published article, so neither is recorded here."

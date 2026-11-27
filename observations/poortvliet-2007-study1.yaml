@@ -1,0 +1,201 @@
+# Poortvliet, Janssen, Van Yperen & Van de Vliert (2007), Study 1:
+# assigned achievement goals and openness in giving task information to an
+# exchange partner (Winter Survival Exercise, simulated partner).
+#
+# Read from the publisher PDF. Its text layer interleaves the two columns of
+# every page (the Results sentences come out with words of the neighbouring
+# column spliced in), so EVERY source_quote in this file was taken from the
+# page images of pp. 1439-1441 and 1446 (notes), not from the text layer.
+#
+# WHAT THIS FILE RECORDS: the three planned contrasts on openness in
+# information giving, each a partial eta squared as printed, between the
+# mastery-goal, performance-goal and no-goal conditions. Study 2 of the same
+# article is a different sample and is its own record (poortvliet-2007-study1
+# and poortvliet-2007-study2).
+#
+# Ages: the article prints none for either study, so `age: unreported`.
+# Reliability: openness is a single behavioural index (a rank-order
+# correlation), and Study 1 prints no reliability for any measure.
+# Means: Table 1 prints means and SDs per condition; they are not recorded
+# here (see not_yet_extracted).
+
+schema_version: 2
+
+study:
+  key: poortvliet-2007-study1
+  citation: "Poortvliet, P. M., Janssen, O., Van Yperen, N. W., & Van de Vliert, E. (2007). Achievement goals and interpersonal behavior: How mastery and performance goals shape information exchange. Personality and Social Psychology Bulletin, 33(10), 1435–1447."
+  doi: "10.1177/0146167207305536"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Laboratory experiment, three-condition between-subjects design (mastery
+      goal vs. performance goal vs. no goal); participants randomly assigned.
+      Goals were assigned by instruction ("perform better on your second
+      ranking as compared to your first ranking" vs. "... as compared to the
+      other's ranking"). Univariate analysis followed by planned contrasts.
+      Two cases were deleted as outliers on Cook's D and studentized
+      residuals (note 3).
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: performance-goals-reduce-information-giving-openness
+    bearing: supports
+    anchor: poortvliet-2007
+
+evidence_base:
+  unit: participants
+  size:
+    value: 74
+    unit: participants
+  population:
+    description: "Students at the University of Groningen (30 men, 44 women), paid for participation."
+    age_or_stage: "University students; no age reported"
+    age: unreported
+  context:
+    setting: >-
+      Laboratory, individual computer cubicles, 50 minutes. Participants ranked
+      the 12 items of the Winter Survival Exercise, sent a ranking and
+      arguments to a supposed exchange partner (in fact simulated by the
+      computer), received the experts' ranking with arguments as the
+      partner's (high-quality information), and made a final ranking.
+  arms:
+    - id: mastery-goal
+      description: "Assigned mastery goal: \"perform better on your second ranking as compared to your first ranking\"; participants elaborated on the goal in writing."
+    - id: performance-goal
+      description: "Assigned performance goal: \"perform better on your second ranking as compared to the other's ranking\"; participants elaborated on the goal in writing."
+    - id: no-goal
+      description: "No goal assigned (control condition)."
+
+comparisons:
+  - id: performance-vs-mastery
+    kind: between-groups
+    index_arm: performance-goal
+    reference_arm: mastery-goal
+    description: "Planned contrast, performance-goal against mastery-goal condition."
+  - id: performance-vs-no-goal
+    kind: between-groups
+    index_arm: performance-goal
+    reference_arm: no-goal
+    description: "Planned contrast, performance-goal against no-goal condition."
+  - id: mastery-vs-no-goal
+    kind: between-groups
+    index_arm: mastery-goal
+    reference_arm: no-goal
+    description: "Planned contrast, mastery-goal against no-goal condition."
+
+observations:
+
+  - id: openness-performance-vs-mastery
+    comparison_ref: performance-vs-mastery
+    outcome:
+      construct: "Openness in giving task information to a partner"
+      source_language: "openness in information giving"
+      measure: "Spearman rank-order correlation between the participant's own initial ranking and the ranking sent to the exchange partner; 1 = sent the actual ranking"
+      scale: "rank-order correlation, -1 to 1"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the session, immediately after the goal manipulation"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.07
+      statistic: "F(1, 69) = 5.02"
+      p_value: "= .03"
+      descriptives: "Table 1 means (SD): mastery 0.99 (0.01), performance 0.78 (0.54), no goal 0.97 (0.14)"
+      interpretation: "Performance goal produced lower openness than mastery goal"
+    moderators:
+      reported:
+        - variable: "Participant gender"
+          relationship: "No main or interaction effects on the dependent variables, in either study; dropped from the analyses"
+          source_quote: "Gender had no main or interaction effects on the dependent variables considered in the studies and was thus dropped from the analyses."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Condition sizes are not printed, and the analysed n is not stated: the
+      contrasts carry df = 69 after two outliers were deleted. Note 5 says
+      chi-square testing, run because of unequal variances, gave the same
+      result; note 4 says Fisher r-to-z transformed analyses were
+      substantively identical. The descriptives were read from the Table 1
+      page image.
+    source_quote: "Relative to mastery goal manipulation, performance goal manipulation produced a lower average level of openness in information giving, F(1, 69) = 5.02, p = .03, ηp² = 0.07."
+    source_location: "Study 1, Results, Openness in Information Giving (p. 1440); quote from page image"
+
+  - id: openness-performance-vs-no-goal
+    comparison_ref: performance-vs-no-goal
+    outcome:
+      construct: "Openness in giving task information to a partner"
+      source_language: "openness in information giving"
+      measure: "Spearman rank-order correlation between the participant's own initial ranking and the ranking sent to the exchange partner"
+      scale: "rank-order correlation, -1 to 1"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the session, immediately after the goal manipulation"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.05
+      statistic: "F(1, 69) = 3.95"
+      p_value: "= .05"
+      interpretation: "Performance goal produced lower openness than no goal"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Analysed n not stated; df = 69."
+    source_quote: "Performance goal manipulation also produced a lower average level of openness in information giving than the no-goal condition, F(1, 69) = 3.95, p = .05, ηp² = 0.05."
+    source_location: "Study 1, Results, Openness in Information Giving (p. 1440); quote from page image"
+
+  - id: openness-mastery-vs-no-goal
+    comparison_ref: mastery-vs-no-goal
+    outcome:
+      construct: "Openness in giving task information to a partner"
+      source_language: "openness in information giving"
+      measure: "Spearman rank-order correlation between the participant's own initial ranking and the ranking sent to the exchange partner"
+      scale: "rank-order correlation, -1 to 1"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the session, immediately after the goal manipulation"
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.00
+      statistic: "F(1, 69) = .07"
+      p_value: "ns"
+      interpretation: "No difference between mastery goal and no goal"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "A null measured as such: the source prints the contrast and its effect size. Analysed n not stated; df = 69."
+    source_quote: "No difference was found between mastery goal manipulation and the no-goal condition, F(1, 69) = .07, ns, ηp² = 0.00."
+    source_location: "Study 1, Results, Openness in Information Giving (p. 1440); quote from page image"
+
+not_yet_extracted:
+  - "Omnibus effect of goal condition on openness, F(2, 69) = 3.04, p = .05, partial eta squared 0.08 (three-arm test, no pairwise contrast)."
+  - "Utilization of received high-quality information: omnibus F(2, 69) = 3.94, partial eta squared 0.10; performance vs mastery 0.05 (p = .06), performance vs no goal 0.10, mastery vs no goal 0.01."
+  - "Table 1 means and SDs per condition as separate measure_type mean observations (openness 0.99/0.01, 0.78/0.54, 0.97/0.14; utilization 0.18/0.21, 0.33/0.35, 0.12/0.27)."
+  - "Manipulation check, chi-square(4, N = 74) = 61.46, p < .001."

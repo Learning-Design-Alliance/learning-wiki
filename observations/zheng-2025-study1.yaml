@@ -1,0 +1,286 @@
+# Zheng, Goldwater & Gentner (2025), Experiment 1: structural alignment and a
+# contrastive label in children's learning of the diagonal brace.
+#
+# Read from the PMC full-text copy of the open-access article (CC BY), as text.
+# Experiment 2 is a different sample (136 enrolled, 116 analysed) and has its
+# own record, zheng-2025-study2.
+#
+# Design: a 2 x 2 between-subjects design (Alignment x Language). The article
+# says children "were evenly placed into the four training conditions"; it does
+# not say how, so no random assignment is inferred and the family is
+# quasi-experimental.
+#
+# Effect sizes: Table 1 prints, per factor, the logistic coefficient b, its p
+# value, and an "Effect size" with a 95% CI that footnote 9 calls a
+# standardized odds ratio (the effectsize package's standardize_parameters).
+# The CI belongs to the standardized odds ratio, so that is the estimate here;
+# b and p are kept in `model` and `p_value`. Nothing is converted.
+#
+# Reliability: both outcomes are binary scorings of a placement or a choice;
+# the article prints no coder-agreement or other reliability figure for them.
+
+schema_version: 2
+
+study:
+  key: zheng-2025-study1
+  citation: "Zheng, Y. S., Goldwater, M., & Gentner, D. (2025). Structural alignment and linguistic contrast help children learn a key principle of spatial construction. Cognitive Science, 49(12), e70149."
+  doi: "10.1111/cogs.70149"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Experiment 1. 2 x 2 between-subjects design: Alignment (a highly alignable
+      versus a low-alignable training pair of model buildings, one braced and one
+      with horizontal crosspieces) crossed with Language (a contrastive "brace"
+      label versus control language, given after the repair task). Children were
+      evenly placed into the four conditions (16 each); the method of placement
+      is not stated. Binary outcomes analysed by logistic regression with
+      centred alignment and language predictors.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: high-alignment-improves-brace-repair
+    bearing: supports
+    anchor: zheng-2025
+  - claim: contrastive-label-improves-brace-transfer
+    bearing: supports
+    anchor: zheng-2025
+  - claim: no-alignment-language-interaction-exp1
+    bearing: supports
+    anchor: zheng-2025
+
+evidence_base:
+  unit: participants
+  size:
+    value: 64
+    unit: participants
+  population:
+    description: >-
+      Children recruited through a database of families from a large Midwestern
+      city in the United States; English the primary language for all; 35
+      females. No participants excluded.
+    age_or_stage: "5- to 7-year-old children"
+    age:
+      unit: years
+      min: 5.5
+      max: 7.3
+      mean: 6.4
+  context:
+    setting: "Individual lab session of about 15 min in a quiet room, with an experimenter and physical model buildings"
+  arms:
+    - id: ha-label
+      description: "Highly alignable training pair (identical buildings except diagonal braces versus horizontal crosspieces), then the brace label."
+      size: {value: 16, unit: participants}
+    - id: ha-control
+      description: "Highly alignable training pair, then control language with no label."
+      size: {value: 16, unit: participants}
+    - id: la-label
+      description: "Low-alignable training pair (the braced building beside a dissimilar, narrower unbraced building), then the brace label."
+      size: {value: 16, unit: participants}
+    - id: la-control
+      description: "Low-alignable training pair, then control language with no label."
+      size: {value: 16, unit: participants}
+
+comparisons:
+  - id: alignment
+    kind: between-groups
+    index_arm: [ha-label, ha-control]
+    reference_arm: [la-label, la-control]
+    description: "High versus low alignability of the training pair, pooled over the language conditions (logistic main effect)."
+  - id: language
+    kind: between-groups
+    index_arm: [ha-label, la-label]
+    reference_arm: [ha-control, la-control]
+    description: "Contrastive brace label versus control language, pooled over the alignment conditions (logistic main effect)."
+  - id: alignment-by-language
+    kind: other
+    index_arm: [ha-label, la-label]
+    reference_arm: [ha-control, la-control]
+    description: "Interaction: the HA-minus-LA difference within the label arms (index side) set against the same difference within the control arms (reference side). Whether the HA-minus-LA difference in the number passing the transfer task differs between the label and the control conditions."
+
+observations:
+
+  - id: repair-alignment
+    sample: {value: 64, unit: participants}
+    comparison_ref: alignment
+    outcome:
+      construct: "Use of a diagonal brace to stabilise a structure"
+      source_language: "children's placement"
+      measure: "Repair task: a beam held up to a wobbly one-story frame; either diagonal placement scored 1, horizontal or vertical 0"
+      scale: "binary (1 = diagonal placement)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after a 3-min filler task following comparison training, before the language manipulation"
+    result:
+      measure_type: odds_ratio
+      estimate: 2.31
+      ci_lower: 1.35
+      ci_upper: 4.14
+      interval_type: confidence
+      p_value: ".003"
+      model: "Logistic regression with centred alignment and language predictors; b = 1.661. The estimate is the standardized odds ratio the article reports as the effect size (footnote 9)."
+      descriptives: "Proportion placing a diagonal brace: HA M = 0.78, SD = 0.42; LA M = 0.41, SD = 0.50"
+    moderators:
+      reported:
+        - variable: "Gender"
+          relationship: "Boys marginally outperformed girls on repair (M .72 versus .49); gender did not interact with alignment or language (ps > .54)"
+          source_quote: "Gender marginally predicted Repair performance ( M boys = .72; M girls = .49), p = .056, and significantly predicted Transfer performance ( M boys = .83; M girls = .57), p = .034."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Alignment 1.661 .003 2.31 [1.35, 4.14]"
+    source_location: "Table 1, Repair rows; Section 2.2.1"
+
+  - id: repair-language
+    sample: {value: 64, unit: participants}
+    comparison_ref: language
+    outcome:
+      construct: "Use of a diagonal brace to stabilise a structure"
+      source_language: "children's placement"
+      measure: "Repair task, scored as above"
+      scale: "binary (1 = diagonal placement)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "before the language manipulation was given"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.17
+      ci_lower: 0.68
+      ci_upper: 2.03
+      interval_type: confidence
+      p_value: ".58"
+      model: "Same model as repair-alignment; b = 0.304. The label had not yet been given, so this is a check, not a test of the label."
+      descriptives: "Label M = 0.62, SD = 0.49; Control M = 0.56, SD = 0.50"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Language 0.304 .58 1.17 [0.68, 2.03]"
+    source_location: "Table 1, Repair rows; Section 2.2.1"
+
+  - id: transfer-alignment
+    sample: {value: 64, unit: participants}
+    comparison_ref: alignment
+    outcome:
+      construct: "Transfer of the brace principle"
+      source_language: "children's choice"
+      measure: "Transfer task: choose the stronger of a new pair of tall buildings, one with two diagonal braces; choosing the braced building scored 1"
+      scale: "binary (1 = braced building chosen)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the language phase and a further 3-min filler task, same session"
+    result:
+      measure_type: odds_ratio
+      estimate: 2.66
+      ci_lower: 1.39
+      ci_upper: 5.59
+      interval_type: confidence
+      p_value: ".005"
+      model: "Logistic regression with centred alignment and language predictors; b = 1.938; standardized odds ratio as the reported effect size."
+      descriptives: "HA M = 0.84, SD = 0.37; LA M = 0.53, SD = 0.53"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Alignment 1.938 .005 2.66 [1.39, 5.59]"
+    source_location: "Table 1, Transfer rows; Section 2.2.2"
+
+  - id: transfer-language
+    sample: {value: 64, unit: participants}
+    comparison_ref: language
+    outcome:
+      construct: "Transfer of the brace principle"
+      source_language: "children's choice"
+      measure: "Transfer task, scored as above"
+      scale: "binary (1 = braced building chosen)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the language phase and a further 3-min filler task, same session"
+    result:
+      measure_type: odds_ratio
+      estimate: 3.15
+      ci_lower: 1.63
+      ci_upper: 6.88
+      interval_type: confidence
+      p_value: ".001"
+      model: "Same model as transfer-alignment; b = 2.278."
+      descriptives: "Label M = 0.88, SD = 0.34; Control M = 0.50, SD = 0.51"
+    moderators:
+      reported:
+        - variable: "Gender"
+          relationship: "Boys outperformed girls on transfer (M .83 versus .57); gender did not interact with alignment or language (ps > .54)"
+          source_quote: "Gender marginally predicted Repair performance ( M boys = .72; M girls = .49), p = .056, and significantly predicted Transfer performance ( M boys = .83; M girls = .57), p = .034."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Language 2.278 .001 3.15 [1.63, 6.88]"
+    source_location: "Table 1, Transfer rows; Section 2.2.2"
+
+  - id: transfer-interaction
+    sample: {value: 64, unit: participants}
+    comparison_ref: alignment-by-language
+    outcome:
+      construct: "Transfer of the brace principle"
+      source_language: "the magnitude of the advantage of HA over LA"
+      measure: "Number of HA minus number of LA children passing the transfer task, within each language condition"
+      scale: "difference in frequency"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session"
+    result:
+      measure_type: other
+      statistic: "Chi-square test of independence"
+      p_value: ".70"
+      interpretation: "No interaction found; the regression with an interaction term and a bootstrap analysis (in the Supplementary Materials) also showed none. No equivalence test was run."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Only the p value is printed in the article; the chi-square value and the
+      frequencies per cell are not in the text read here.
+    source_quote: "A Chi‐square test of independence failed to show a significant difference between the label and no‐label conditions, p = .70."
+    source_location: "Section 2.2.2"
+
+not_yet_extracted:
+  - "Table 1 intercept rows (repair b = 0.449, transfer b = 1.139) and the Supplementary Materials' interaction regression and bootstrap, not in the text read"
+  - "Initial guess before wiggling: 76% of children answered correctly, no group difference"
+  - "Power analysis based on an odds ratio of 6.75 from Gentner et al. (2016), another study's figure"

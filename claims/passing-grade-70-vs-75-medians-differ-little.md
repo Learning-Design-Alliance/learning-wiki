@@ -5,14 +5,14 @@ description: Schools with passing grades of 70 and 75 produced medians differing
 id: passing-grade-70-vs-75-medians-differ-little
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-25
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 1911
+newest_evidence: 1912
 sources:
-  - id: starch-and-elliott-1911
-    resource: "http://www.journals.uchicago.edu/t-and-c"
-    title: "Daniel Starch and Edward C. Elliott. (1911). Reliability of the Grading of High-School Work in English. The School Review. http://www.journals.uchicago.edu/t-and-c"
+  - id: starch-and-elliott-1912
+    resource: "https://doi.org/10.1086/435971"
+    title: "Daniel Starch and Edward C. Elliott. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971"
     author: Daniel Starch and Edward C. Elliott
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` For paper B the two school groups' medians differed by only 1.6 points. [→ Starch and & Elliott 1911](#starch-and-elliott-1911)
+`q2 i?` For paper B the two school groups' medians differed by only 1.6 points. [→ Starch and Elliott 1912](#starch-and-elliott-1912)
 
 ## Evidence
 
-### Starch and & Elliott 1911
+### Starch and Elliott 1912
 
-Daniel Starch and Edward C. Elliott. (1911). Reliability of the Grading of High-School Work in English. The School Review. http://www.journals.uchicago.edu/t-and-c
+Daniel Starch and Edward C. Elliott. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971
 
 `q2 · i?` · `associational · r2`
 

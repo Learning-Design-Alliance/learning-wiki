@@ -1,0 +1,261 @@
+# Shavelson, Ruiz-Primo & Wiley (1999): a re-analysis note on task and occasion
+# sampling in science performance assessments.
+#
+# WHAT IS RECORDED HERE, and what is not:
+#
+#   * The note's OWN new analysis: the person x occasion x task x method G study
+#     (27 students, 3 tasks, 2 occasions, 2 methods; Table 2). The person x
+#     task and person x task x occasion components (0.65 and 0.79), the zero
+#     person x occasion component and the 57.18% share of pt plus pto are each
+#     printed in the prose, which is what the quotes below come from.
+#   * NOT recorded: Table 1, which the note reproduces from Shavelson, Baxter
+#     & Gao (1993). Those figures belong to that publication's record. The
+#     note's prose prints the Table 1 pt component as ".063" while the table
+#     itself prints 0.63, a discrepancy in the source.
+#   * The text layer of Table 2 is garbled (the n column is unreadable and the
+#     pom and tom rows read "02"). The residual (ptom,e) component, 0.47 and
+#     18.70%, appears only in that table; it was read from the page image of
+#     a scanned copy of the published note (p. 66), and its source_quote is the
+#     table row as printed, so it is not found in the text layer.
+#   * `population.age: unreported`: the note says only "fifth and sixth grade
+#     students". No reliability coefficient for the scores is printed for this
+#     note's own analysis (the ".80 reliability" figures are a target used in
+#     a decision study), so no reliability observation is recorded.
+#
+# No claim page cites this DOI, so appears_in is omitted.
+
+schema_version: 2
+
+study:
+  key: shavelson-1999
+  citation: "Shavelson, R. J., Ruiz-Primo, M. A., & Wiley, E. W. (1999). Note on sources of sampling variability in science performance assessments. Journal of Educational Measurement, 36(1), 61–71."
+  doi: "10.1111/j.1745-3984.1999.tb00546.x"
+  design:
+    family: other
+    design_detail: >-
+      Generalizability (G) study re-analysis of existing data (Ruiz-Primo,
+      Baxter & Shavelson, 1993): a fully crossed person x occasion x task x
+      method design in which each student performed the same three hands-on
+      science tasks on two occasions (late spring and early fall of 1990), in
+      the same order, scored by direct observation and by notebook. A
+      measurement study estimating variance components; no intervention and
+      no group contrast.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 27
+    unit: participants
+  additional_sizes:
+    - value: 3
+      unit: items
+      note: "performance tasks in the Table 2 G study: Paper Towels, Electric Mysteries, Bugs"
+    - value: 2
+      unit: sessions
+      note: "testing occasions, late spring and early fall of 1990"
+    - value: 2
+      unit: other
+      note: "measurement methods in the Table 2 G study: direct observation and notebook"
+    - value: 186
+      unit: participants
+      note: "fifth and sixth grade students in the larger Ruiz-Primo et al. (1993) sample from which the retest students were drawn"
+    - value: 29
+      unit: participants
+      note: "random retest sample from the 186 used for the cross-occasion DO-NB correlations"
+  population:
+    description: "Fifth and sixth grade students in the Ruiz-Primo, Baxter & Shavelson (1993) study of hands-on science performance assessments."
+    age_or_stage: "fifth and sixth grade"
+    age: unreported
+  context:
+    setting: "Hands-on science investigations drawn from fifth-sixth grade curricula, administered on two occasions a summer apart"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Variance components estimated over the whole G-study sample; no contrast between groups."
+
+observations:
+
+  - id: person-x-task-variance
+    comparison_ref: whole-sample
+    sample:
+      value: 27
+      unit: participants
+    outcome:
+      construct: "Person x task variance in performance-assessment scores"
+      source_language: "The variance component for pt"
+      measure: "Estimated variance component for person x task (pt) in the person x occasion x task x method G study"
+      scale: "estimated variance component"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 0.65
+      unit: "estimated variance component"
+      model: "Random-effects G study, person x occasion x task x method, all facets crossed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The score scale of the tasks is not described in the note, so the
+      component's units are not stated. No standard error is printed.
+    source_quote: "The variance component for pt (0.65) is smaller than the variance component for pto (0.79)."
+    source_location: "p. 64, Task Sampling Variability in Performance Assessment (Table 2, p. 66)"
+
+  - id: person-x-task-x-occasion-variance
+    comparison_ref: whole-sample
+    sample:
+      value: 27
+      unit: participants
+    outcome:
+      construct: "Person x task x occasion variance in performance-assessment scores"
+      source_language: "the variance component for pto"
+      measure: "Estimated variance component for person x task x occasion (pto) in the person x occasion x task x method G study; separable from residual error because the method facet is crossed"
+      scale: "estimated variance component"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 0.79
+      unit: "estimated variance component"
+      model: "Random-effects G study, person x occasion x task x method, all facets crossed"
+      note: "The text elsewhere gives this component as 31 percent of total variation in the un-stratified design (p. 67)."
+    moderators:
+      reported: []
+      candidate:
+        - "Students changing their approach to each investigation between occasions, as the authors suggest from Ruiz-Primo et al. (1993)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The variance component for pt (0.65) is smaller than the variance component for pto (0.79)."
+    source_location: "p. 64, Task Sampling Variability in Performance Assessment (Table 2, p. 66)"
+
+  - id: person-x-occasion-variance
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Person x occasion variance in performance-assessment scores"
+      source_language: "the estimated variance component for the person x occasion effect"
+      measure: "Estimated variance component for person x occasion (po), in both the Table 1 and the Table 2 G studies"
+      scale: "estimated variance component"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 0
+      unit: "estimated variance component"
+      interpretation: "The aggregate level of a student's performance, averaged over tasks, did not vary from one occasion to the other."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The prose states the component is zero in both tables. Whether it was a
+      small negative estimate set to zero (the tables' footnote convention)
+      cannot be read from the garbled Table 2 text layer.
+    source_quote: "Note, however, that the estimated variance component for the person x occasion effect is zero (Tables 1 and 2)."
+    source_location: "p. 64, Task Sampling Variability in Performance Assessment"
+
+  - id: residual-variance
+    comparison_ref: whole-sample
+    sample:
+      value: 27
+      unit: participants
+    outcome:
+      construct: "Residual variance in performance-assessment scores"
+      source_language: "ptom,e"
+      measure: "Estimated variance component for the person x task x occasion x method interaction confounded with unmeasured error (ptom,e) in the person x occasion x task x method G study"
+      scale: "estimated variance component"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 0.47
+      unit: "estimated variance component"
+      model: "Random-effects G study, person x occasion x task x method, all facets crossed"
+      note: "Table 2 prints this component as 18.70 percent of total variability."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No standard error is printed. Read from the page image of Table 2.
+    source_quote: "ptom,e 0.47 18.70"
+    source_location: "Table 2 (p. 66), last row, read from the page image"
+
+  - id: pt-plus-pto-share-unstratified
+    comparison_ref: whole-sample
+    sample:
+      value: 27
+      unit: participants
+    outcome:
+      construct: "Share of score variance from task sampling confounded with occasion"
+      source_language: "pt,pto in the un-stratified design"
+      measure: "Person x task plus person x task x occasion components as a percent of total variation, Table 2 (un-stratified) G study"
+      scale: "percent of total variance"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 57.18
+      unit: "percent of total variation"
+      note: "Compared in the source with 44.52 percent for p x (t:s) plus p x (t:s) x o in the re-analysis that treats Electric Mysteries and Bugs as two strata (Table 3)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "pt,pto in the un-stratified design accounts for 57.18 percent (Table 2)."
+    source_location: "p. 67, Task Sampling Variability in Performance Assessment"
+
+not_yet_extracted:
+  - "Table 2 (p. 66) person (0.33, 13.11%), occasion, task x method and other rows: legible on the page image, not recorded because the simulator does not use them."
+  - "Table 1 (p. 65), the person x rater x task x occasion G study (n = 26) reproduced from Shavelson, Baxter & Gao (1993): pt 0.63 (32%), pto 1.16 (59%), prto,e 0.08 (4%). These belong to that publication's record; note the prose here prints pt as '.063'. The G coefficients row is garbled in the text layer."
+  - "Table 3 (p. 67), stratified p x (t:s) x o x m G study: p x (t:s) x o 39.60% (text: 40 percent); ps 8.54%; pso 7.97%; psom 1.87% in the text against 1.89 in the table text layer. The table's text layer is partly scrambled."
+  - "Decision-study result: tasks needed for a reliability of .80 with one occasion and one method, 27 un-stratified against 38 stratified (p. 68)."
+  - "Table 4 (p. 69) method correlations, reproduced from Shavelson, Baxter & Gao (1993, Table 6), garbled in the text layer; and the retest DO-NB correlations on 29 students (p. 69), whose subscripts are garbled in the text layer ('/D01,NB2 = .48', '7D02,NBI .56')."
