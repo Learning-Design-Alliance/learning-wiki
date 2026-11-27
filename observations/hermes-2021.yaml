@@ -15,13 +15,14 @@
 #   * No `measure_type: mean`: outcomes are standardised (mean 0, SD 1) and the
 #     article reports regression coefficients, not group means.
 #
-# TABLE 1 IS NOT READ FROM ITS CELLS. The text layer scrambles it: the seven
-# columns' cells come out as separate runs, out of column order, and the N row
-# lists one 361 among the 378s without saying which column it belongs to. The
-# coefficients below are the ones the Results prose prints (two decimals, with
-# p values). The Table 1 cells themselves, including the linear combination
-# (Treat + Treat x Low) for voluntary practice tasks and every standard error,
-# are listed in not_yet_extracted rather than assigned to columns by position.
+# TABLE 1 IN THE TEXT LAYER IS SCRAMBLED: the seven columns' cells come out
+# as separate runs, out of column order. The coefficients below are mostly the
+# ones the Results prose prints (two decimals, with p values). One Table 1 cell
+# was read from the page image of the publisher PDF (p. 52): the linear
+# combination (Treat + Treat x Low) for voluntary practice tasks, 0.209
+# (SE 0.199), N 378, which the Results describe only as not significant. Its
+# source_quote is the table row as printed, so it is not found in the text
+# layer. The image also shows the 361 in the N row belongs to Child-r Mot.
 #
 # Every coefficient is from an OLS regression of the post-treatment outcome on
 # treatment, achievement-group dummies and their interactions, with school
@@ -237,6 +238,37 @@ observations:
     source_quote: "For children’s effort displayed within the e-learning software (measured as the number of tasks solved voluntarily or the time spent on these tasks), our results seem to conﬁrm the ﬁndings for motivation: there is a strong and signiﬁcant heterogeneous treatment effect for low-achieving children (0.39 SD ( p = .044) for number of tasks, 0.41 SD ( p = .078) for time spent on voluntary practice); the linear combination with the treatment effect is, however, not signiﬁcant."
     source_location: "Section 3, Results; Table 1 column 4"
 
+  - id: voluntary-tasks-rpf-vs-control-low
+    comparison_ref: rpf-vs-control-low
+    outcome:
+      construct: "Effort"
+      source_language: "Vol. Tasks"
+      measure: "Count of voluntary practice tasks solved within the e-learning software, logged during the intervention (as above)"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the five-week intervention"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.209
+      unit: SD
+      standard_error: 0.199
+      model: "Linear combination Treat + Treat x Low; OLS with school FE and controls; class-clustered BRL standard errors; N = 378"
+      note: "No significance star is printed for this cell (stars mark p < .10, .05, .01), which agrees with the Results calling the linear combination not significant. The Treat x Low cell in the same column is 0.388 (SE 0.192), printed as 0.39 SD in the Results."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Treat + Treat × Low 0.209 (0.199)"
+    source_location: "Table 1, column Vol. Tasks, row Treat + Treat × Low (p. 52), read from the page image"
+
   - id: math-multdiv-interaction-low
     comparison_ref: rpf-effect-low-vs-mid
     outcome:
@@ -300,7 +332,7 @@ observations:
     source_location: "Section 3, Results; Table 1 column 7"
 
 not_yet_extracted:
-  - "Table 1 cells (three-decimal coefficients and BRL standard errors for Treat x Low, Treat (Mid), Treat x High and Treat + Treat x Low across seven outcomes, and N per column): the text layer scrambles the table, so cells are not assigned to columns here. This includes the linear combination for voluntary practice tasks, which the Results describe only as not significant."
+  - "Remaining Table 1 cells (three-decimal coefficients and BRL standard errors for Treat x Low, Treat (Mid), Treat x High and Treat + Treat x Low across seven outcomes); legible on the page image (p. 52). Only the voluntary-tasks linear combination is recorded."
   - "Treat x Low for the motivation task (0.47 SD, p = .034), teacher-rated motivation (0.43 SD, p = .008) and time spent on voluntary practice (0.41 SD, p = .078), printed in the Results."
   - "Baseline gap on Math Multiplication/Division: low achievers 0.54 SD below middle achievers."
   - "Above-median-points subsample (n = 183, 67 low achievers): linear combinations 0.43 SD motivation test (p = .026), 0.44 SD teacher-rated motivation (p = .082), 0.41 SD voluntary practice (p = .042), and further results."
