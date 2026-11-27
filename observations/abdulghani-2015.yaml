@@ -1,0 +1,311 @@
+# Abdulghani et al. (2015): a faculty development programme on MCQ item
+# writing, evaluated by comparing one college's final examinations before
+# (2012-2013) and after (2013-2014) two training workshops.
+#
+# WHAT THIS RECORD HOLDS: the test reliability (Kuder-Richardson 20) of each of
+# the six 80-item final examinations, as Table 1 prints them, one observation
+# per examination. KR-20 is computed over the items of one examination, so it
+# varies per examination and is recorded at that grain.
+#
+# The Results text says the KR-20 of all examinations "were more than 0.92",
+# and the Discussion repeats it; Table 1 prints 0.92 for two of the six. The
+# table's per-examination values are recorded; the text's bound is not
+# recorded as a separate figure, because it disagrees with the table at its
+# own lower edge.
+#
+# The design is what the article calls it: "a quasi-experimental study", with
+# one group of 25 faculty and no control group. Pre and post are different
+# student cohorts sitting different examinations written by the same faculty.
+#
+# Read from a pdftotext text layer of the publisher's open-access article;
+# the PDF itself was not available to view. Many inline statistics in that layer have lost their
+# symbols ("=" printed as "5", "<" as ",", "±" as "6"), so the chi-square
+# and mean-score figures are listed in not_yet_extracted rather than quoted.
+
+schema_version: 2
+
+study:
+  key: abdulghani-2015
+  citation: "Abdulghani, H. M., Ahmad, F., Irshad, M., Khalil, M. S., Al-Shaikh, G. K., Syed, S., Aldrees, A. A., Alrowais, N., & Haque, S. (2015). Faculty development programs improve the quality of Multiple Choice Questions items' writing. Scientific Reports, 5, 9556."
+  doi: "10.1038/srep09556"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Single-group pre-post comparison described by the authors as
+      quasi-experimental: the MCQ final examinations of three first-year
+      medical courses (respiratory, cardiovascular, renal) written by the same
+      25 newly joined faculty before (academic year 2012-2013) and after
+      (2013-2014) two workshops on MCQ item writing. No control group. Items
+      analysed for difficulty, discrimination, non-functioning distractors,
+      Bloom's level and item-writing flaws; examinations for KR-20 reliability;
+      students for mean score and pass rate. Chi-square and ANOVA tests.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 25
+    unit: participants
+  additional_sizes:
+    - value: 6
+      unit: other
+      note: "final MCQ examinations analysed: three courses in each of two academic years"
+    - value: 80
+      unit: items
+      note: "MCQ items in each examination (Table 1: total number of MCQs 80; marks 30)"
+  population:
+    description: >-
+      25 newly joined faculty members (demonstrators to professors) teaching
+      first-year courses at the College of Medicine, Princess Nourah
+      University, Riyadh, the largest female university in Saudi Arabia, whose
+      College of Medicine opened in 2012-2013. The examinations were sat by
+      first-year medical students, 61 to 80 per examination (Table 1).
+    age_or_stage: "Newly joined faculty; first-year medical students. No age is printed for either group."
+    age: unreported
+  context:
+    setting: "Final MCQ examinations of the respiratory, cardiovascular and renal blocks of a five-phase Bachelor's medicine curriculum; examinations reviewed by the Assessment and Evaluation Center, College of Medicine, King Saud University"
+  arms:
+    - id: pre-training-exams
+      description: "Final examinations of academic year 2012-2013, written by the faculty before the workshops."
+      size:
+        value: 240
+        unit: items
+    - id: post-training-exams
+      description: "Final examinations of academic year 2013-2014, written by the same faculty after a two-day workshop (interactive didactic sessions, revision of an MCQ construction checklist, small-group hands-on item writing) and following the checklist, with departmental review of items."
+      size:
+        value: 240
+        unit: items
+      dose:
+        amount: 2
+        unit: days
+        detail: "Described both as 'Two days full time workshop' and as two workshops, at the beginning of academic year 2013-2014"
+      delivery:
+        grouping: small-group
+        role: other
+        basis: stated
+      implementation_notes:
+        - "On the second day participants worked in small groups of three to four to write five MCQs each against the agreed checklist."
+
+comparisons: []
+
+observations:
+
+  - id: kr20-respiratory-pre
+    sample:
+      value: 64
+      unit: participants
+    arm_ref: pre-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Respiratory block final examination, 80 MCQ items, 2012-2013; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2012-2013 (before training)"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Sample is the number of students sitting the examination (24 passed of
+      64). A reliability coefficient is not an effect; no effect size is
+      reported for it.
+    source_quote: "Respiratory 24/64(37.5) 40/64(62.5) 16.89 0.93"
+    source_location: "Table 1, Pre-training rows"
+
+  - id: kr20-cardiovascular-pre
+    sample:
+      value: 63
+      unit: participants
+    arm_ref: pre-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Cardiovascular block final examination, 80 MCQ items, 2012-2013; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2012-2013 (before training)"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Cardiovascular 27/63(42.9) 36/63(57.1) 17.02 0.93"
+    source_location: "Table 1, Pre-training rows"
+
+  - id: kr20-renal-pre
+    sample:
+      value: 61
+      unit: participants
+    arm_ref: pre-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Renal block final examination, 80 MCQ items, 2012-2013; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2012-2013 (before training)"
+    result:
+      measure_type: reliability
+      estimate: 0.94
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Renal 41/61(67.2) 20/61(32.8) 20.96 0.94"
+    source_location: "Table 1, Pre-training rows"
+
+  - id: kr20-respiratory-post
+    sample:
+      value: 80
+      unit: participants
+    arm_ref: post-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Respiratory block final examination, 80 MCQ items, 2013-2014; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2013-2014 (after training)"
+    result:
+      measure_type: reliability
+      estimate: 0.92
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Respiratory 46/80(57.5) 34/80(42.5) 18.7 0.92"
+    source_location: "Table 1, Post-training rows"
+
+  - id: kr20-cardiovascular-post
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: post-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Cardiovascular block final examination, 80 MCQ items, 2013-2014; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2013-2014 (after training)"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Cardiovascular 40/73(54.8) 33/73(45.2) 20.94 0.93"
+    source_location: "Table 1, Post-training rows"
+
+  - id: kr20-renal-post
+    sample:
+      value: 69
+      unit: participants
+    arm_ref: post-training-exams
+    outcome:
+      construct: "Examination score reliability"
+      source_language: "Reliability coefficient"
+      measure: "Renal block final examination, 80 MCQ items, 2013-2014; KR-20 computed with Questionmark Perception"
+      scale: "Kuder-Richardson Formula 20"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "final examination, academic year 2013-2014 (after training)"
+    result:
+      measure_type: reliability
+      estimate: 0.92
+      reliability:
+        statistic: kr20
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 1 prints the failed count as 30/69 with 43.6%, beside 39/69 passed
+      at 56.5%; the two percentages sum to 100.1. Recorded as printed; only the
+      KR-20 is extracted here.
+    source_quote: "Renal 39/69(56.5) 30/69(43.6) 21.31 0.92"
+    source_location: "Table 1, Post-training rows"
+
+not_yet_extracted:
+  - "Overall mean scores before (18.29) and after (20.33) training with their spread: the text layer prints the plus-minus sign as '6' ('mean score 18.29 6 0.77'), so the SDs are not recorded."
+  - "Per-examination mean scores (out of 30) and pass rates in Table 1, and the overall pass rate rising from 49.2 to 56.3%."
+  - "Difficulty index distribution (Table 2: moderate items 150 of 240 pre, 183 of 240 post; easy 88 and 54), chi-square 11.61, p 0.003. The inline text statistics have lost their '=' and '<' symbols in the text layer."
+  - "Discrimination index (DI > 0.15: 221 of 240 pre, 229 of 240 post), chi-square 2.27, p 0.13 in Table 2 (0.131 in the text)."
+  - "Non-functioning distractors (28 pre, 13 post), chi-square 6.00, p 0.02; Bloom's K2 items (84 pre, 123 post), chi-square 12.91; item-writing flaws (47 pre, 5 post), chi-square 38.04. Table 2's p-value cells for the last two are garbled in the text layer ('( ,0.0001)', '(0. ,0001)')."
+  - "Table 3 per-course ANOVA F and p values for difficulty, discrimination, distractors, Bloom's level and item-writing flaws."

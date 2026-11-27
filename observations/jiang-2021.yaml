@@ -1,0 +1,421 @@
+# Jiang & Zhang (2021): perceived teaching style, approach goals and agentic
+# engagement among Chinese university EFL learners.
+#
+# WHAT THIS RECORD HOLDS: from Table 1, the zero-order correlations of agentic
+# engagement with perceived autonomy support, mastery-approach goals and
+# performance-approach goals; from the structural model (text, Figure 2), the
+# standardised paths from the same three variables to agentic engagement; and
+# the authors' own Cronbach's alphas for those four scales. All self-report,
+# one cross-sectional online questionnaire.
+#
+# Two things in the source are recorded as printed and not repaired:
+#   * The path from social relatedness to agentic engagement is printed as
+#     "β = 17, p = 0.187". It is not recorded here (a value of 17 is not a
+#     standardised coefficient, and restoring it would be a guess).
+#   * Table 1 prints the social relatedness-controlling correlation as "0.4"
+#     with no significance mark, beside 0.24** and 0.26**. Not recorded.
+#
+# Autonomy support's path to mastery-approach goals is negative (beta -.32)
+# while their zero-order r is positive (.23): the authors note the sign is
+# "a bit beyond expectation". The model also enters social relatedness, which
+# Table 1 correlates with autonomy support at .67.
+#
+# Read from a pdftotext text layer of the publisher's open-access article;
+# the PDF itself was not available to view. Figure 2 is an image and did not survive; every path
+# coefficient below is quoted from the Results text, which gives them all.
+
+schema_version: 2
+
+study:
+  key: jiang-2021
+  citation: "Jiang, A. L., & Zhang, L. J. (2021). University teachers' teaching style and their students' agentic engagement in EFL learning in China: A self-determination theory and achievement goal theory integrated perspective. Frontiers in Psychology, 12, 704269."
+  doi: "10.3389/fpsyg.2021.704269"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional online questionnaire (Wenjuanxing), distributed through
+      nine university EFL teachers mid winter semester 2020. Descriptive
+      statistics and bivariate correlations in SPSS 22; confirmatory factor
+      analysis and a structural equation model (AMOS 23) with perceived
+      autonomy support, social relatedness and controlling predicting
+      mastery-approach and performance-approach goals and agentic engagement;
+      mediation tested by bootstrapping. All measures self-report.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: autonomy-support-predicts-agentic-engagement-map-mediated
+    bearing: supports
+    anchor: jiang-al-and-zhang-lj-2021
+  - claim: approach-goals-positively-predict-agentic-engagement
+    bearing: supports
+    anchor: jiang-al-and-zhang-lj-2021
+  - claim: teaching-style-bivariate-correlations-agentic-engagement
+    bearing: supports
+    anchor: jiang-al-and-zhang-lj-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 632
+    unit: participants
+  additional_sizes:
+    - value: 9
+      unit: other
+      note: "university EFL teachers who distributed the questionnaire; not a unit of sampling or analysis"
+  population:
+    description: >-
+      632 undergraduate non-English majors in mainland China (71.5% female,
+      28.5% male), admitted after the Gaokao and attending an English course
+      for at least half a semester; 73% at national and 27% at provincial
+      universities; 86% in northern China, 14% in eastern and southern China.
+    age_or_stage: "Undergraduates, 77% Year 1 and 22% Year 2. No age figure is printed."
+    age: unreported
+  context:
+    setting: "University English-as-a-foreign-language courses in mainland China; questionnaire completed online, voluntary and anonymous"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations, scale reliabilities and structural paths in the whole sample; no contrast between groups."
+
+observations:
+
+  - id: r-agentic-engagement-autonomy-support
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Five agentic engagement items from Reeve (2013), contextualised to 'In our English class'; correlated with perceived autonomy support (PTTSS, 5 items)"
+      scale: "Pearson correlation of scale scores"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.54
+      p_value: "< 0.01 (two-tailed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Table 1's columns are AS, SR, C, PAP, MAP, AE; the AE row's first cell is
+      the correlation with autonomy support. Both variables self-reported.
+    source_quote: "AE 0.54** 0.43** 0.1** 0.31** 0.28** 1"
+    source_location: "Table 1, AE row, AS column"
+
+  - id: r-agentic-engagement-mastery-approach
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Five agentic engagement items from Reeve (2013); correlated with mastery-approach goals (three items from Elliot and McGregor's 2001 Achievement Goal Questionnaire)"
+      scale: "Pearson correlation of scale scores"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.28
+      p_value: "< 0.01 (two-tailed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "Table 1, AE row, MAP column (the fifth cell). No confidence interval is printed."
+    source_quote: "AE 0.54** 0.43** 0.1** 0.31** 0.28** 1"
+    source_location: "Table 1, AE row, MAP column"
+
+  - id: r-agentic-engagement-performance-approach
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Five agentic engagement items from Reeve (2013); correlated with performance-approach goals (three items from Elliot and McGregor's 2001 Achievement Goal Questionnaire)"
+      scale: "Pearson correlation of scale scores"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.31
+      p_value: "< 0.01 (two-tailed)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "Table 1, AE row, PAP column (the fourth cell). No confidence interval is printed."
+    source_quote: "AE 0.54** 0.43** 0.1** 0.31** 0.28** 1"
+    source_location: "Table 1, AE row, PAP column"
+
+  - id: beta-autonomy-support-to-agentic-engagement
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Latent agentic engagement factor in the structural model, regressed on perceived autonomy support, social relatedness and controlling and on mastery- and performance-approach goals"
+      scale: "standardised path coefficient"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.70
+      p_value: "< 0.001"
+      model: >-
+        SEM in AMOS 23; chi2/df = 2.59, CFI = 0.95, TLI = 0.94, RMSEA = 0.05,
+        SRMR = 0.06. Direct path from perceived autonomy support, with the
+        other two teaching styles and both goals in the model.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A direct path in a model with correlated predictors (autonomy support
+      and social relatedness r .67), not a zero-order association. No standard
+      error or interval is printed for the path. The indirect effect through
+      mastery-approach goals is negative (95% CI [-0.135, -0.003]), because
+      the autonomy support to mastery-approach path is negative.
+    source_quote: "perceived autonomy support negatively predicted mastery-approach goals ( β = −0.32, p = 0.008) and positively predicted agentic engagement (β = 0.70, p < 0.001)."
+    source_location: "Results, Structural Model Analyses; Figure 2"
+
+  - id: beta-mastery-approach-to-agentic-engagement
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Latent agentic engagement factor in the structural model; path from mastery-approach goals"
+      scale: "standardised path coefficient"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.11
+      p_value: "0.042"
+      model: "SEM in AMOS 23, the same structural model; direct path from mastery-approach goals with performance-approach goals and the three teaching styles in the model."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "No standard error or interval is printed for the path."
+    source_quote: "Finally, both mastery-approach goals (β = 0.11, p = 0.042) and performance-approach goals (β = 0.21, p < 0.001) positively predicted agentic engagement."
+    source_location: "Results, Structural Model Analyses; Figure 2"
+
+  - id: beta-performance-approach-to-agentic-engagement
+    sample:
+      value: 632
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement"
+      source_language: "agentic engagement"
+      measure: "Latent agentic engagement factor in the structural model; path from performance-approach goals"
+      scale: "standardised path coefficient"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020, cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.21
+      p_value: "< 0.001"
+      model: "SEM in AMOS 23, the same structural model; direct path from performance-approach goals with mastery-approach goals and the three teaching styles in the model."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "No standard error or interval is printed for the path."
+    source_quote: "Finally, both mastery-approach goals (β = 0.11, p = 0.042) and performance-approach goals (β = 0.21, p < 0.001) positively predicted agentic engagement."
+    source_location: "Results, Structural Model Analyses; Figure 2"
+
+  - id: alpha-agentic-engagement
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Agentic engagement scale reliability"
+      source_language: "demonstrated good reliability in the present study"
+      measure: "Five agentic engagement items from Reeve (2013), contextualised to the English class"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "Computed in the present sample, as the source states. Table 2 also gives a composite reliability of 0.92 for this factor, not recorded here."
+    source_quote: "This scale contains 5 items and demonstrated good reliability in the present study (Cronbach’s α = 0.93)."
+    source_location: "Method, Instrument"
+
+  - id: alpha-mastery-approach
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mastery-approach goal scale reliability"
+      source_language: "The Cronbach’s α for mastery-approach goals"
+      measure: "Three mastery-approach items from Elliot and McGregor's (2001) Achievement Goal Questionnaire, prefixed 'In our English class'"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020"
+    result:
+      measure_type: reliability
+      estimate: 0.82
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The Cronbach’s α for mastery-approach goals was 0.82, and 0.83 for performance-approach goals."
+    source_location: "Method, Instrument"
+
+  - id: alpha-performance-approach
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Performance-approach goal scale reliability"
+      source_language: "0.83 for performance-approach goals"
+      measure: "Three performance-approach items from Elliot and McGregor's (2001) Achievement Goal Questionnaire, prefixed 'In our English class'"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020"
+    result:
+      measure_type: reliability
+      estimate: 0.83
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The Cronbach’s α for mastery-approach goals was 0.82, and 0.83 for performance-approach goals."
+    source_location: "Method, Instrument"
+
+  - id: alpha-autonomy-support
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Perceived autonomy support scale reliability"
+      source_language: "autonomy-supportive teaching"
+      measure: "Five autonomy-support items of the Perceived Teachers' Teaching Style Scale (PTTSS), adapted from the Motivational Climate in Physical Education Scale"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "mid winter semester 2020"
+    result:
+      measure_type: reliability
+      estimate: 0.86
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "the PTTSS ended up with three scales, i.e., autonomy-supportive teaching (wit h 5 items, Cronbach’s α = 0.86)"
+    source_location: "Method, Instrument"
+
+not_yet_extracted:
+  - "Table 1 means and SDs of the six scales (e.g. agentic engagement 3.61, SD 0.82; mastery-approach 4.17, SD 0.68; performance-approach 3.41, SD 0.89), with skewness and kurtosis; the response scale's range is not stated in the text layer read."
+  - "The other Table 1 correlations (e.g. agentic engagement with social relatedness 0.43 and with controlling 0.1). The social relatedness-controlling cell is printed '0.4' with no significance mark and is not readable as intended."
+  - "The other structural paths: autonomy support to mastery-approach (-0.32), social relatedness to mastery-approach (0.68) and performance-approach (0.22), controlling to performance-approach (0.26) and to agentic engagement (-0.12). The social relatedness to agentic engagement path is printed 'β = 17, p = 0.187'."
+  - "Bootstrapped indirect effects (95% CIs [-0.135, -0.003] for autonomy support, [0.026, 0.092] for controlling, [0.054, 0.247] for social relatedness)."
+  - "Alphas of the social relatedness (0.80) and controlling (0.82) scales; Table 2 factor loadings, composite reliabilities and AVEs; CFA fit; the single-factor test (36.35% of variance)."

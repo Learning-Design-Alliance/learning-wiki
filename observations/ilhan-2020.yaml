@@ -1,0 +1,325 @@
+# İlhan, Boztunç Öztürk & Şahin (2020): item type, cognitive level and item
+# difficulty in the TIMSS 2015 Turkey mathematics tests.
+#
+# The unit of analysis is the ITEM, not the student. Each item's difficulty
+# index is the proportion of Turkish students answering it correctly (for 0-1-2
+# items, Formula 1), so a correlation here is computed over 215 or 178 items.
+# The 12,535 students are the population whose answers produced the indices;
+# they are not the n of any test below.
+#
+# The difficulty index runs toward 1 for EASY items. A negative correlation of
+# cognitive level with the index therefore means higher-level items were
+# harder. Item type was dummy-coded "multiple-choice: 1, open-ended: 0", so a
+# positive type correlation means multiple-choice items were easier.
+#
+# The two grades are two strata of the item pool, recorded as two arms; every
+# result rests on one stratum (`arm_ref`) and none is a contrast between them.
+# The authors' "25% at eighth grade, 7% at fourth" compares a step-1 R2 (.25)
+# with a step-2 R2 increment (.19 - .12); both figures are recorded as printed
+# in the model text and no like-for-like comparison is computed.
+#
+# Read from the text layer only (no PDF). Tables 3 and 4 came out in reading
+# order with their columns flattened; the rows quoted below are legible and
+# their values agree with the prose. Formula 1 is glyph codes in the text layer
+# and is not recorded. The article prints no student ages and no reliability
+# coefficient for any measure.
+
+schema_version: 2
+
+study:
+  key: ilhan-2020
+  citation: "İlhan, M., Boztunç Öztürk, N., & Şahin, M. G. (2020). The effect of the item's type and cognitive level on its difficulty index: The sample of TIMSS 2015. Participatory Educational Research, 7(2), 47–59."
+  doi: "10.17275/per.20.19.7.2"
+  design:
+    family: observational
+    design_detail: >-
+      Descriptive secondary analysis of published TIMSS 2015 item statistics
+      for Turkey ("depicting the facts without any intervention"). Item
+      information tables (type, cognitive level) were joined to item percent
+      correct statistics; item difficulty indices were then compared by
+      independent-samples t-test (type) and one-way ANOVA (cognitive level),
+      correlated with type and level, and regressed on both by stepwise
+      multiple regression, separately for Grades 8 and 4.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: cognitive-level-predicts-item-difficulty-timss-2015
+    bearing: supports
+    anchor: ilhan-et-al-2020
+  - claim: cognitive-level-predicts-item-difficulty-timss-2015
+    bearing: supports
+    anchor: ilhan-et-al-2020-2
+  - claim: open-ended-items-more-difficult-than-multiple-choice-timss-2015-turkey
+    bearing: supports
+    anchor: ilhan-et-al-2020
+  - claim: open-ended-items-more-difficult-than-multiple-choice-timss-2015-turkey
+    bearing: supports
+    anchor: ilhan-et-al-2020-2
+  - claim: regression-item-type-eighth-grade-difficulty
+    bearing: supports
+    anchor: ilhan-et-al-2020
+  - claim: regression-cognitive-level-fourth-grade-difficulty
+    bearing: supports
+    anchor: ilhan-et-al-2020
+  - claim: cognitive-level-effect-stronger-fourth-grade
+    bearing: supports
+    anchor: ilhan-et-al-2020
+  - claim: item-type-effect-stronger-eighth-grade-than-fourth
+    bearing: supports
+    anchor: ilhan-et-al-2020
+
+evidence_base:
+  unit: items
+  size:
+    value: 393
+    unit: items
+  additional_sizes:
+    - value: 12535
+      unit: participants
+      note: "students in the TIMSS 2015 Turkey sample whose responses produced the item statistics (6079 Grade 8, 6456 Grade 4)"
+  population:
+    description: >-
+      TIMSS 2015 mathematics items administered in Turkey: 215 Grade 8 items
+      (115 multiple-choice, 100 open-ended) and 178 Grade 4 items (93
+      multiple-choice, 85 open-ended), after dropping five Grade 8 items with
+      no percent-correct statistics and 4 (Grade 8) and 7 (Grade 4)
+      multiple-choice items with two alternatives. Responses came from 6079
+      eighth-grade and 6456 fourth-grade students.
+    age_or_stage: "Fourth and eighth grade; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "TIMSS 2015 mathematics achievement test, Turkey; item statistics taken from the official TIMSS database"
+  variation:
+    - dimension: "Cognitive level (TIMSS framework)"
+      distribution: "Grade 8: knowing 53 MC / 21 OE, applying 47 / 48, reasoning 15 / 31. Grade 4: knowing 42 / 32, applying 36 / 36, reasoning 15 / 17 (Table 1)"
+  arms:
+    - id: grade8-items
+      description: "The 215 Grade 8 TIMSS 2015 mathematics items analysed for Turkey."
+      size:
+        value: 215
+        unit: items
+    - id: grade4-items
+      description: "The 178 Grade 4 TIMSS 2015 mathematics items analysed for Turkey."
+      size:
+        value: 178
+        unit: items
+
+comparisons: []
+
+observations:
+
+  - id: grade8-level-difficulty-r
+    sample:
+      value: 215
+      unit: items
+    arm_ref: grade8-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 8 students answering the item correctly (Formula 1 for 0-1-2 items)"
+      scale: "correlation of item cognitive level (knowing, applying, reasoning) with difficulty index, over items"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: correlation
+      estimate: -0.32
+      interpretation: "p < .001 (Table 3 note). Higher cognitive level, lower proportion correct."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The table does not name the correlation coefficient or say how the three
+      cognitive levels were coded numerically; recorded as printed.
+    source_quote: "–.32* –.29* 1.00 –.35* -.08 1.00"
+    source_location: "Table 3, row 'Cognitive level of the item', Eighth Grade columns, p. 51"
+
+  - id: grade4-level-difficulty-r
+    sample:
+      value: 178
+      unit: items
+    arm_ref: grade4-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 4 students answering the item correctly (Formula 1 for 0-1-2 items)"
+      scale: "correlation of item cognitive level (knowing, applying, reasoning) with difficulty index, over items"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: correlation
+      estimate: -0.35
+      interpretation: "p < .001 (Table 3 note). Higher cognitive level, lower proportion correct."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The table does not name the correlation coefficient or say how the three
+      cognitive levels were coded numerically. Multiple-choice and open-ended
+      items are pooled in this correlation.
+    source_quote: "–.32* –.29* 1.00 –.35* -.08 1.00"
+    source_location: "Table 3, row 'Cognitive level of the item', Fourth Grade columns, p. 51"
+
+  - id: grade8-type-difficulty-r
+    sample:
+      value: 215
+      unit: items
+    arm_ref: grade8-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 8 students answering the item correctly"
+      scale: "correlation of item type (multiple-choice 1, open-ended 0) with difficulty index, over items"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: correlation
+      estimate: 0.50
+      interpretation: "p < .001 (Table 3 note). Multiple-choice items had higher proportions correct; the t-test gives means of .45 (MC) and .28 (OE), t(213) = 8.50, p < .001."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: ".50* 1.00 .31* 1.00"
+    source_location: "Table 3, row 'Type of the item', Eighth Grade columns, p. 51"
+
+  - id: grade4-type-difficulty-r
+    sample:
+      value: 178
+      unit: items
+    arm_ref: grade4-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 4 students answering the item correctly"
+      scale: "correlation of item type (multiple-choice 1, open-ended 0) with difficulty index, over items"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: correlation
+      estimate: 0.31
+      interpretation: "p < .001 (Table 3 note). The t-test gives means of .51 (MC) and .40 (OE), t(176) = 4.29, p < .001."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: ".50* 1.00 .31* 1.00"
+    source_location: "Table 3, row 'Type of the item', Fourth Grade columns, p. 51"
+
+  - id: grade8-regression-level
+    sample:
+      value: 215
+      unit: items
+    arm_ref: grade8-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 8 students answering the item correctly"
+      scale: "unstandardised regression coefficient of cognitive level, in proportion-correct units"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.04
+      standard_error: 0.01
+      model: >-
+        Stepwise multiple regression, step 2 (type, then cognitive level).
+        Cognitive level B = -.04, SE .01, Beta -.19, t = -3.12. Type in the same
+        step B = .15, SE .02, Beta .45, t = 7.38. Step 1 (type only) R = .50,
+        R2 = .25; step 2 R = .54, R2 = .28; F = 42.45, p < .01.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Cognitive Level –.04 .01 –.19 –3.12*"
+    source_location: "Table 4, Eighth Grade, step 2, p. 54"
+
+  - id: grade4-regression-level
+    sample:
+      value: 178
+      unit: items
+    arm_ref: grade4-items
+    outcome:
+      construct: "Item difficulty (proportion correct)"
+      source_language: "difficulty index"
+      measure: "Proportion of Turkish Grade 4 students answering the item correctly"
+      scale: "unstandardised regression coefficient of cognitive level, in proportion-correct units"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "TIMSS 2015 administration"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.09
+      standard_error: 0.02
+      model: >-
+        Stepwise multiple regression, step 2 (cognitive level, then type).
+        Cognitive level B = -.09, SE .02, Beta -.33, t = -4.87. Type in the same
+        step B = .11, SE .03, Beta .28, t = 4.16. Step 1 (cognitive level only)
+        R = .35, R2 = .12; step 2 R = .45, R2 = .19; F = 22.24, p < .01.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Cognitive Level –.09 .02 –.33 –4.87*"
+    source_location: "Table 4, Fourth Grade, step 2, p. 54"
+
+not_yet_extracted:
+  - "Mean difficulty index by cognitive level (one-way ANOVA): Grade 8 .45, .35, .30, F(2-212) = 12.48; Grade 4 .53, .42, .36, F(2-175) = 12.79. Means by level are not arms of this record; no SDs printed."
+  - "Figures 1 and 2: mean difficulty index by type within each cognitive level. The chart labels survive in the text layer but cannot be assigned to bars reliably without the image."
+  - "Table 3: correlation of item type with cognitive level (Grade 8 -.29, Grade 4 -.08)."
+  - "Table 2: skewness and kurtosis of the difficulty indices."
+  - "Formula 1 (difficulty index for 0-1-2 items) is glyph codes in the text layer."
