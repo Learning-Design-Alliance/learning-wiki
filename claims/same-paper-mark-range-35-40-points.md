@@ -5,15 +5,15 @@ description: The range of marks given by different teachers to the same examinat
 id: same-paper-mark-range-35-40-points
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-25
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 1911
-recheck_by: 1914
+newest_evidence: 1912
+recheck_by: 1915
 sources:
-  - id: starch-and-elliott-1911
-    resource: "http://www.journals.uchicago.edu/t-and-c"
-    title: "Daniel Starch and Edward C. Elliott. (1911). Reliability of the Grading of High-School Work in English. The School Review. http://www.journals.uchicago.edu/t-and-c"
+  - id: starch-and-elliott-1912
+    resource: "https://doi.org/10.1086/435971"
+    title: "Daniel Starch and Edward C. Elliott. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971"
     author: Daniel Starch and Edward C. Elliott
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Teachers grading identical English examination papers assigned marks spanning up to 35 or 40 points, far wider than teachers themselves expect. [→ Starch and & Elliott 1911](#starch-and-elliott-1911)
+`q2 i?` Teachers grading identical English examination papers assigned marks spanning up to 35 or 40 points, far wider than teachers themselves expect. [→ Starch and Elliott 1912](#starch-and-elliott-1912)
 
 ## Evidence
 
-### Starch and & Elliott 1911
+### Starch and Elliott 1912
 
-Daniel Starch and Edward C. Elliott. (1911). Reliability of the Grading of High-School Work in English. The School Review. http://www.journals.uchicago.edu/t-and-c
+Daniel Starch and Edward C. Elliott. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971
 
 `q2 · i?` · `associational · r2`
 

@@ -18,7 +18,7 @@
 # paper, graded by a set of graders). The university students are a separate
 # group of graders, contrasted by the article with the teachers.
 #
-# The wiki's claim pages date this article 1911 (anchor `starch-and-elliott-1911`);
+# The wiki's claim pages date this article 1911 (anchor `starch-and-elliott-1912`);
 # Crossref and the journal give September 1912, School Review 20(7).
 
 schema_version: 2
@@ -49,13 +49,13 @@ provenance:
 appears_in:
   - claim: same-paper-mark-range-35-40-points
     bearing: supports
-    anchor: starch-and-elliott-1911
+    anchor: starch-and-elliott-1912
   - claim: inexperienced-students-grade-more-leniently
     bearing: supports
-    anchor: starch-and-elliott-1911
+    anchor: starch-and-elliott-1912
   - claim: promotion-depends-on-teacher-subjective-estimate
     bearing: supports
-    anchor: starch-and-elliott-1911
+    anchor: starch-and-elliott-1912
 
 evidence_base:
   unit: participants

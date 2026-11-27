@@ -24,7 +24,7 @@
 # belong to the 1912 study's sample, not to this one, and are not recorded as
 # observations here.
 #
-# The wiki's claim pages date this article 2017 (anchor `starch-and-elliott-2017`,
+# The wiki's claim pages date this article 2017 (anchor `starch-and-elliott-1913`,
 # the JSTOR download year); Crossref and the journal give April 1913, School
 # Review 21(4).
 
@@ -56,16 +56,16 @@ provenance:
 appears_in:
   - claim: wide-variation-grades-same-geometry-paper
     bearing: supports
-    anchor: starch-and-elliott-2017
+    anchor: starch-and-elliott-1913
   - claim: geometry-marks-vary-more-than-english
     bearing: supports
-    anchor: starch-and-elliott-2017
+    anchor: starch-and-elliott-1913
   - claim: within-school-grading-variation-geometry
     bearing: supports
-    anchor: starch-and-elliott-2017
+    anchor: starch-and-elliott-1913
   - claim: single-question-marks-vary-as-widely-as-whole-paper
     bearing: supports
-    anchor: starch-and-elliott-2017
+    anchor: starch-and-elliott-1913
 
 evidence_base:
   unit: participants
