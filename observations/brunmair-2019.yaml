@@ -1,0 +1,476 @@
+# Brunmair & Richter (2019): multilevel meta-analysis of interleaved versus
+# blocked presentation in inductive (category) learning, and its moderators.
+#
+# Read from the publisher PDF. Its text layer renders "=" as a private-use
+# glyph and scrambles the tables, so the quotes for the overall, mathematics
+# and words estimates and the Table 1 and Table 3 rows were taken from the
+# PAGE IMAGES (pp. 1035, 1040, 1041, 1043) in the article's own characters.
+# The retention-interval and similarity quotes are clean in the text layer.
+#
+# WHAT THIS FILE HOLDS, and the discrepancies the article itself contains:
+#
+#   * Words, g = -0.39: the text prints "p > .001" and Table 2 prints p = .005;
+#     the text gives the words I2 as 18.3% and Table 2 as 18.1% (between) and
+#     39.7% (within); and Figure 6's RE-model diamond reads -0.39 [-0.62, -0.17]
+#     where the text and Table 2 give [-0.64, -0.14]. The record keeps the
+#     text and Table 2 interval (they agree) and names the others; it does not
+#     choose between them.
+#   * Similarity ratings: the text says five raters rated the materials, while
+#     the Table 1 note says alpha was "estimated for four raters who rated all
+#     71 materials". The record follows the table note for what alpha is
+#     computed over.
+#   * Moderator coefficients are unstandardised meta-regression weights on
+#     Hedges' g, from Table 3; the quantitative predictors were centred.
+#
+# `population.age` holds the one age figure the article prints about its own
+# corpus: a mean of 21.32 years over the 62 samples (97 effect sizes) that
+# reported one. That is a mean of sample means over a subset, said so in the
+# note; for 141 effect sizes age was not reported. The range 9.5 to 37 years
+# is a range of SAMPLE MEANS (after excluding one sample with mean age 77), so
+# it is kept in prose and not written as min/max.
+
+schema_version: 2
+
+study:
+  key: brunmair-2019
+  citation: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. Psychological Bulletin, 145(11), 1029–1052."
+  doi: "10.1037/bul0000209"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Multilevel meta-analysis of effect sizes (Hedges' g, blocked vs
+      interleaved presentation) nested in samples, with a random-effects model
+      for the overall and per-material estimates and three nested multilevel
+      mixed-effect meta-regressions for moderators (study and intervention
+      characteristics; rated material characteristics; type of learning
+      material), plus an outlier model and sensitivity analyses.
+  synthesis:
+    model: "Multilevel random-effects model (metafor in R); multilevel mixed-effect meta-regression for moderators"
+    heterogeneity_statistic: "I2"
+    search:
+      databases:
+        - PsycINFO
+        - Google Scholar
+        - WorldCat
+        - ProQuest
+      date_range: "through June 30, 2018"
+      records_included: 59
+    data_handling:
+      - "Between-groups effects converted to Cohen's d and within-group effects to d_av, then corrected to Hedges' g"
+      - "Learning materials rated by expert raters on similarity within and between categories, complexity, familiarity and curiosity; curiosity dropped for low interrater reliability"
+      - "Twelve outliers from five studies excluded from all models except the sensitivity analysis"
+      - "Taste studies and studies that spaced time between item presentations excluded from the moderator analysis"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: interleaving-improves-inductive-learning
+    bearing: supports
+    anchor: brunmair-richter-2019
+  - claim: interleaving-improves-discrimination
+    bearing: supports
+    anchor: brunmair-richter-2019
+  - claim: desirable-difficulties-enhance-learning
+    bearing: supports
+    anchor: brunmair-richter-2019
+  - claim: interleaving-limited-for-math-texts-and-words
+    bearing: supports
+    anchor: brunmair-2019
+  - claim: interleaving-limited-for-math-texts-and-words
+    bearing: supports
+    anchor: brunmair-2019-2
+  - claim: interleaving-null-moderators-retention-test-presentation
+    bearing: supports
+    anchor: brunmair-2019
+  - claim: similarity-and-complexity-moderate-interleaving
+    bearing: supports
+    anchor: brunmair-2019
+
+evidence_base:
+  unit: reports
+  size:
+    value: 59
+    unit: reports
+  additional_sizes:
+    - value: 238
+      unit: effect-sizes
+      note: "effect sizes in the meta-analysis"
+    - value: 158
+      unit: other
+      note: "samples in which the 238 effect sizes are nested"
+    - value: 8466
+      unit: participants
+      note: "participants across all included samples"
+    - value: 71
+      unit: other
+      note: "distinct sets of learning materials, each rated for its characteristics"
+  population:
+    description: >-
+      Mostly university student samples (173 effect sizes); also online
+      samples, school students in classrooms, one older-adult study and one
+      preschool study. Studies published 2003 to 2018.
+    age_or_stage: >-
+      Mean age reported for 97 effect sizes in 62 samples; not reported for
+      141 effect sizes. After excluding one sample with mean age 77 years, the
+      sample mean ages ranged from 9.5 to 37 years.
+    age:
+      unit: years
+      mean: 21.32
+      note: "Mean over the 62 samples (97 effect sizes) that reported a mean age; a mean of sample means, not of individuals across the corpus"
+  context:
+    setting: "Inductive category learning tasks: classifying exemplars (paintings, photographs, artificial pictures, mathematical problems, expository texts, words, tastes) after interleaved or blocked study"
+  variation:
+    - dimension: "Type of learning material (effect sizes)"
+      distribution: "paintings 70, naturalistic photographs 19, artificial pictures 63, expository texts 25, mathematical tasks 45, words 13, tastes 3"
+    - dimension: "Retention interval"
+      distribution: "Dummy-coded short (< 20 min) vs longer; most studies did not report the exact interval"
+  arms:
+    - id: interleaved
+      description: "Exemplars of different categories presented in an interleaved order during study, all materials."
+    - id: blocked
+      description: "Exemplars of each category presented together in blocks during study, all materials."
+    - id: interleaved-maths
+      description: "Interleaved practice in studies using mathematical tasks (e.g. volumes of geometric solids, choice of significance test)."
+    - id: blocked-maths
+      description: "Blocked practice in studies using mathematical tasks."
+    - id: interleaved-words
+      description: "Interleaved presentation in studies using words: names in conceptual categories, pronunciation rules, or translations."
+    - id: blocked-words
+      description: "Blocked presentation in studies using words."
+
+comparisons:
+  - id: interleaved-vs-blocked
+    kind: other
+    index_arm: interleaved
+    reference_arm: blocked
+    description: "Interleaved vs blocked presentation, pooled over between- and within-participant designs and all materials."
+  - id: interleaved-vs-blocked-maths
+    kind: other
+    index_arm: interleaved-maths
+    reference_arm: blocked-maths
+    description: "Interleaved vs blocked presentation in the mathematical-tasks subset."
+  - id: interleaved-vs-blocked-words
+    kind: other
+    index_arm: interleaved-words
+    reference_arm: blocked-words
+    description: "Interleaved vs blocked presentation in the words subset."
+  - id: material-ratings
+    kind: none
+    description: "Raters' scores of the 71 learning materials on rated characteristics; no contrast between configurations."
+
+observations:
+
+  - id: interleaving-overall
+    sample:
+      value: 238
+      unit: effect-sizes
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Inductive category learning"
+      source_language: "interleaving effect"
+      measure: "Final classification tests of studied (retention) or new (transfer) exemplars, as reported by the primary studies"
+      scale: "Hedges' g, interleaved minus blocked"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies; retention interval coded only as under 20 minutes or longer"
+    result:
+      measure_type: hedges_g
+      estimate: 0.42
+      ci_lower: 0.34
+      ci_upper: 0.50
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 238
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 77.3
+        unit: percent
+        interpretation: "Between samples; tau2 = .20; QB = 1201.1, p < .001; within-sample I2 .0% (Table 2)"
+      model: "Multilevel random-effects model. A two-level model on 138 independent effects gave g = 0.43 [0.35, 0.51]; a two-level model ignoring nesting gave g = 0.36 [0.29, 0.42]."
+    moderators:
+      reported:
+        - variable: "Type of learning material"
+          relationship: "Effects differ significantly by material (QM = 52.64, p < .001): highest for paintings, positive for visual materials and mathematical tasks, not significant for expository texts, negative for words"
+          source_quote: "Generalizability across learning materials. We found significant differences between types of learning materials (k = 238, QM = 52.64, p < .001)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The type-of-material moderator quote was taken from the page image
+      (p. 1041), where the subscript of QM is printed as a subscript.
+    source_quote: "We found a moderate overall positive effect of interleaving (k = 238; g = 0.42; p < .001; 95% confidence interval, CI [0.34, 0.50])."
+    source_location: "Results, Effect of interleaving, p. 1040; Table 2, p. 1043"
+
+  - id: interleaving-maths
+    sample:
+      value: 45
+      unit: effect-sizes
+    comparison_ref: interleaved-vs-blocked-maths
+    outcome:
+      construct: "Mathematics problem solving"
+      source_language: "mathematical tasks"
+      measure: "Final tests on mathematical problems, as reported by the primary studies"
+      scale: "Hedges' g, interleaved minus blocked"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.34
+      ci_lower: 0.11
+      ci_upper: 0.57
+      interval_type: confidence
+      p_value: ".005"
+      k:
+        value: 45
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "tau2"
+        value: 0.23
+        interpretation: "I2 = 76.9% between samples, .0% within; QB = 202.3, p < .001 (text p. 1041 and Table 2)"
+      model: "Multilevel random-effects model. Figure 5's RE-model diamond prints 0.34 [0.12, 0.57]."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "In nonvisual stimuli, a positive interleaving effect was found only for mathematical tasks, g = 0.34 (p = .005, 95% CI [0.11, 0.57]) and no significant effect for expository texts."
+    source_location: "Results, Generalizability across learning materials, p. 1041; Table 2, p. 1043"
+
+  - id: interleaving-words
+    sample:
+      value: 13
+      unit: effect-sizes
+    comparison_ref: interleaved-vs-blocked-words
+    outcome:
+      construct: "Category learning with word materials"
+      source_language: "words"
+      measure: "Final classification tests with word materials (names in conceptual categories, pronunciation rules, translations)"
+      scale: "Hedges' g, interleaved minus blocked"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.39
+      ci_lower: -0.64
+      ci_upper: -0.14
+      interval_type: confidence
+      p_value: "> .001 (text); .005 (Table 2)"
+      k:
+        value: 13
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 18.3
+        unit: percent
+        interpretation: "Text gives I2 = 18.3%, tau2 = .03; Table 2 gives 18.1% between samples and 39.7% within; QB = 28.8, p < .01"
+      model: "Multilevel random-effects model. Figure 6's RE-model diamond prints -0.39 [-0.62, -0.17], a different interval from the text and Table 2."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Furthermore, we found a negative effect (i.e., an advantage of blocking over interleaving) for studies based on words as learning materials, g = −0.39 (p > .001, 95% CI [−0.64, −0.14])."
+    source_location: "Results, Generalizability across learning materials, p. 1041; Table 2, p. 1043; Figure 6"
+
+  - id: retention-interval-moderator
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Interleaving effect size"
+      source_language: "Retention interval"
+      measure: "Meta-regression weight of the retention-interval dummy (short < 20 min coded 0, longer coded 1) on Hedges' g"
+      scale: "unstandardised meta-regression coefficient on Hedges' g"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval dummy-coded: under 20 minutes vs longer"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.13
+      model: "Table 3, Model 1 (study and intervention characteristics). Model 2: -.10; Model 3: -.08; outlier model: -.05. None marked significant."
+      interpretation: "No evidence that the interleaving effect differs between short and longer retention intervals"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The table prints no standard error for the coefficient, only
+      significance stars, and none appears on this row. The coding cannot
+      separate one day from thirty days: "Most studies failed to report exact
+      retention interval time". The k for Model 1 is not printed in Table 3
+      (it prints df 208); 238 is the total number of effect sizes, before the
+      exclusions the moderator models applied.
+    source_quote: "Retention interval. We found no evidence for a moderating effect of retention interval in the metaregression analysis."
+    source_location: "Results, p. 1044; Table 3, p. 1043; coding p. 1034"
+
+  - id: between-category-similarity-moderator
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Interleaving effect size"
+      source_language: "Category similarity, between"
+      measure: "Meta-regression weight of the rated similarity between categories (standardised mean rating, centred) on Hedges' g"
+      scale: "unstandardised meta-regression coefficient on Hedges' g"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.22
+      p_value: "< .05"
+      model: "Table 3, Model 3 (full model with type of learning material). Model 2: .41 (p < .001); outlier model: .08 (not significant). Table 4 sensitivity analysis: .20 to .38 across subsets, all significant."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      Coefficients printed with significance stars only, no standard errors.
+      The k analysed in Model 3 is not printed (df 199); 238 is the corpus total.
+    source_quote: "As expected from the viewpoint of the attentional bias framework (Carvalho & Goldstone, 2015b), similarity between categories had a positive influence on the effect of interleaving, whereas similarity within categories had a negative influence, which decreased when learning materials were included in the model (see Table 3)."
+    source_location: "Results, Material characteristics, p. 1044; Table 3, p. 1043; Table 4, p. 1044"
+
+  - id: within-category-similarity-moderator
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Interleaving effect size"
+      source_language: "Category similarity, within"
+      measure: "Meta-regression weight of the rated similarity within categories (standardised mean rating, centred) on Hedges' g"
+      scale: "unstandardised meta-regression coefficient on Hedges' g"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.17
+      p_value: "< .05"
+      model: "Table 3, Model 3. Model 2: -.33 (p < .001); outlier model: -.07 (not significant)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: unreported
+    source_quote: "As expected from the viewpoint of the attentional bias framework (Carvalho & Goldstone, 2015b), similarity between categories had a positive influence on the effect of interleaving, whereas similarity within categories had a negative influence, which decreased when learning materials were included in the model (see Table 3)."
+    source_location: "Results, Material characteristics, p. 1044; Table 3, p. 1043"
+
+  - id: similarity-between-rating-alpha
+    comparison_ref: material-ratings
+    outcome:
+      construct: "Interrater reliability of material ratings"
+      source_language: "Interrater Reliability ... Similarity between categories"
+      measure: "Raters' ratings of the similarity between categories for each of 71 learning materials"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 0.92
+      reliability:
+        statistic: cronbach_alpha
+        over: raters
+        form: "Cronbach's α estimated for four raters who rated all 71 materials"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A reliability of a moderator rating, not of any outcome measure. The
+      text says five raters rated the materials; the table note says alpha
+      was estimated for the four who rated all 71.
+    source_quote: "2. Similarity between categories .92"
+    source_location: "Table 1, p. 1035 (page image)"
+
+  - id: similarity-within-rating-alpha
+    comparison_ref: material-ratings
+    outcome:
+      construct: "Interrater reliability of material ratings"
+      source_language: "Interrater Reliability ... Similarity within categories"
+      measure: "Raters' ratings of the similarity within categories for each of 71 learning materials"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      reliability:
+        statistic: cronbach_alpha
+        over: raters
+        form: "Cronbach's α estimated for four raters who rated all 71 materials"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "1. Similarity within categories .91"
+    source_location: "Table 1, p. 1035 (page image)"
+
+not_yet_extracted:
+  - "Per-material estimates for paintings, naturalistic photographs, artificial pictures, expository texts and tastes (Table 2)"
+  - "Table 1 alphas for complexity (.92), familiarity (.94) and curiosity (.72), and the rating intercorrelations"
+  - "Other Table 3 and Table 4 moderators (student samples, design, incidental learning, test type, presentation, complexity, familiarity, material dummies)"
+  - "Mean-age moderator analysis (k = 85, b = -0.04, SE = 0.01) and its subsets, Additional Analyses"
+  - "Follow-up analyses of presentation mode (k = 26) and retention vs transfer (k = 64), p. 1044"

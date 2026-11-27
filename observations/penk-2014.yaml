@@ -1,0 +1,453 @@
+# Penk, Pöhlmann & Roppelt (2014): test-taking motivation and mathematics
+# performance in the German PISA 2000 extension sample (ninth-graders).
+#
+# Read from the open-access publisher PDF and its text layer. Tables 1-3 were
+# checked against page images (pp. 7, 9, 10); the text layer linearises the
+# tables in reading order but every recorded cell agrees with the images, and
+# each table quote below is the linearised run as it stands in the text layer.
+#
+# The design is a cross-sectional secondary analysis of a national assessment:
+# multiple regressions of the mathematics score on self-reported motivation
+# scales, all measured on one testing occasion. The effort scale was answered
+# AFTER the test, so a coefficient on effort is an association, not the effect
+# of effort on the score.
+#
+# Units: every b is in points on the PISA mathematics scale per one point of the
+# four-point motivation scale. The article prints the scale SDs (Table 1) and
+# the score SD (500.75, SD 79.50) but no standardised coefficient; none is
+# computed here.
+
+schema_version: 2
+
+study:
+  key: penk-2014
+  citation: "Penk, C., Pöhlmann, C., & Roppelt, A. (2014). The role of test-taking motivation for students’ performance in low-stakes assessments: an investigation of school-track-specific differences. Large-scale Assessments in Education, 2, 5."
+  doi: "10.1186/s40536-014-0005-4"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional secondary analysis of the German national extension
+      sample of PISA 2000. Multiple regressions (Mplus 6, five plausible
+      values, standard errors corrected for students clustered in classes,
+      population weights) of the national PISA mathematics score on
+      mathematics self-concept and post-test test-taking motivation subscales,
+      entered in four nested models, for the whole sample and separately for
+      academic-track (Gymnasium) and nonacademic-track students. Only effects
+      with p < .001 were interpreted because of the sample size.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 31740
+    unit: participants
+  population:
+    description: >-
+      German ninth-graders in the national PISA 2000 extension sample,
+      described as nationally representative of German ninth-graders; 50%
+      female; 30% in academic-track schools and 70% in nonacademic-track
+      schools; 88% reported German as their first language. Schools were
+      sampled at random by the IEA Data Processing and Research Center.
+    age_or_stage: "Grade 9; average age 15.7 years (SD = 0.56)"
+    age:
+      unit: years
+      mean: 15.7
+      sd: 0.56
+  context:
+    setting: >-
+      PISA 2000 in Germany, spring 2000: the international assessment on day
+      one and the national extension assessment on day two, about three hours
+      in all. The motivation questions analysed were administered after the
+      test on the second day. The test has no consequences for students: they
+      receive no information about their performance and it does not count
+      towards grades.
+  arms:
+    - id: all-students
+      description: "The whole analysed sample of German ninth-graders, both school tracks together."
+      size:
+        value: 31740
+        unit: participants
+    - id: nonacademic-track
+      description: "Students in nonacademic-track schools (all tracks other than the Gymnasium); 70% of the sample."
+    - id: academic-track
+      description: "Students in academic-track schools (Gymnasium); 30% of the sample."
+
+comparisons:
+  - id: scale-properties
+    kind: none
+    description: "Internal consistency of the motivation subscales in the whole sample; no contrast between groups."
+
+observations:
+
+  - id: effort-mean
+    arm_ref: all-students
+    outcome:
+      construct: "Self-reported test-taking effort"
+      source_language: "Invested effort"
+      measure: "Three-item post-test invested-effort subscale based on the Online Motivation Questionnaire (example item: 'How much effort you’ve given during the test?')"
+      scale: "four-point Likert scale; negatively worded items recoded"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the national PISA test, second day of testing"
+    result:
+      measure_type: mean
+      estimate: 2.89
+      sd: 0.58
+      unit: "points on the four-point invested-effort scale"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The Measurement section says the test-taking items ran from 1 = strongly
+      agree to 4 = strongly disagree, with negatively worded items recoded; the
+      authors read the means as students having invested effort. The analysed n
+      for this mean is not printed separately from the sample size.
+    source_quote: "Invested effort 3 How much effort you’ve given during the test? 2.89 0.58 0.83"
+    source_location: "Table 1, p. 7"
+
+  - id: effort-internal-consistency
+    comparison_ref: scale-properties
+    outcome:
+      construct: "Self-reported test-taking effort"
+      source_language: "Invested effort"
+      measure: "Three-item post-test invested-effort subscale"
+      scale: "internal consistency"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after the national PISA test, second day of testing"
+    result:
+      measure_type: reliability
+      estimate: 0.83
+      reliability:
+        statistic: other
+        over: items
+        form: "internal consistency; the article does not name the coefficient"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Invested effort 3 How much effort you’ve given during the test? 2.89 0.58 0.83"
+    source_location: "Table 1, p. 7"
+
+  - id: self-concept-internal-consistency
+    comparison_ref: scale-properties
+    outcome:
+      construct: "Mathematics self-concept"
+      source_language: "Self-concept in mathematics"
+      measure: "Three items from Marsh's Self Description Questionnaire in the student background questionnaire (example item: 'I’ve always been good at math.')"
+      scale: "internal consistency"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "student background questionnaire, after the test"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: other
+        over: items
+        form: "internal consistency; the article does not name the coefficient"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 1 prints the self-concept mean as 2.48 (SD 0.94) on a four-point scale (1 = strongly disagree to 4 = strongly agree)."
+    source_quote: "I’ve always been good at math. 2.48 0.94 0.89"
+    source_location: "Table 1, p. 7"
+
+  - id: math-score-mean
+    arm_ref: all-students
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics scores"
+      measure: "National PISA 2000 test in mathematical literacy, scaled by IRT (ConQuest) with five plausible values"
+      scale: "PISA mathematics scale (international metric: mean 500, SD 100)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000 national extension test, spring 2000"
+    result:
+      measure_type: mean
+      estimate: 500.75
+      sd: 79.50
+      unit: "PISA mathematics score points"
+      note: "Weighted mean. The authors note the SD differs from the international metric because the sample is ninth-graders, not all 15-year-olds."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The weighted mean of the mathematics scores was 500.75 (SD = 79.50)."
+    source_location: "Results, p. 8"
+
+  - id: math-score-mean-academic-track
+    arm_ref: academic-track
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics test"
+      measure: "National PISA 2000 test in mathematical literacy"
+      scale: "PISA mathematics scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000 national extension test, spring 2000"
+    result:
+      measure_type: mean
+      estimate: 573.83
+      sd: 59.00
+      unit: "PISA mathematics score points"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As we anticipated, the academic-track students (Mat = 573.83; SDat = 59.00) outperformed the nonacademic-track students (Mnt = 470.30; SDnt = 65.95) on the mathematics test."
+    source_location: "Results, p. 8"
+
+  - id: math-score-mean-nonacademic-track
+    arm_ref: nonacademic-track
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics test"
+      measure: "National PISA 2000 test in mathematical literacy"
+      scale: "PISA mathematics scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000 national extension test, spring 2000"
+    result:
+      measure_type: mean
+      estimate: 470.30
+      sd: 65.95
+      unit: "PISA mathematics score points"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As we anticipated, the academic-track students (Mat = 573.83; SDat = 59.00) outperformed the nonacademic-track students (Mnt = 470.30; SDnt = 65.95) on the mathematics test."
+    source_location: "Results, p. 8"
+
+  - id: effort-b-given-self-concept
+    sample:
+      value: 31740
+      unit: participants
+    arm_ref: all-students
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics performance"
+      measure: "National PISA 2000 mathematics score regressed on invested effort"
+      scale: "unstandardised b: PISA score points per point of the invested-effort scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; effort reported after the test"
+    result:
+      measure_type: regression_coefficient
+      estimate: 19.64
+      standard_error: 1.33
+      p_value: "< .001"
+      model: >-
+        Table 2 Model 2: self-concept in mathematics (b = 22.99, SE 0.78) and
+        invested effort; R2 = .11 (SE .01), up from .08 with self-concept alone.
+        Clustered standard errors, weighted, five plausible values.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The analysed n is not printed per model; the sample size is recorded.
+      An unstandardised coefficient; the article prints no standardised one.
+    source_quote: "19.64* (1.33) 15.76* (1.51) 11.53* (1.56)"
+    source_location: "Table 2, invested-effort row, Model 2, p. 9 (checked against the page image)"
+
+  - id: effort-b-plus-test-facets
+    sample:
+      value: 31740
+      unit: participants
+    arm_ref: all-students
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics performance"
+      measure: "National PISA 2000 mathematics score regressed on invested effort"
+      scale: "unstandardised b: PISA score points per point of the invested-effort scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; effort reported after the test"
+    result:
+      measure_type: regression_coefficient
+      estimate: 15.76
+      standard_error: 1.51
+      p_value: "< .001"
+      model: >-
+        Table 2 Model 3: Model 2 plus test attractiveness (b = 1.83, SE 1.47)
+        and usefulness of the test (b = 4.78, SE 0.97); R2 = .11 (SE .01).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "19.64* (1.33) 15.76* (1.51) 11.53* (1.56)"
+    source_location: "Table 2, invested-effort row, Model 3, p. 9 (checked against the page image)"
+
+  - id: effort-b-full-model
+    sample:
+      value: 31740
+      unit: participants
+    arm_ref: all-students
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics performance"
+      measure: "National PISA 2000 mathematics score regressed on invested effort"
+      scale: "unstandardised b: PISA score points per point of the invested-effort scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; effort reported after the test"
+    result:
+      measure_type: regression_coefficient
+      estimate: 11.53
+      standard_error: 1.56
+      p_value: "< .001"
+      model: >-
+        Table 2 Model 4: all predictors - self-concept (b = 19.45, SE 0.80),
+        invested effort, test attractiveness (-5.39, 1.55), usefulness (5.93,
+        0.96), emotional state (1.04, 1.26), worry (-19.65, 1.12) and
+        distraction (-9.98, 0.89); R2 = .15 (SE .01).
+    moderators:
+      reported:
+        - variable: "School track"
+          relationship: "Effort coefficient similar in both tracks in Model 4 (10.11 nonacademic, 9.69 academic); the effort-by-track interaction was not among the four significant interactions"
+          source_quote: "Four of the seven interactions became statistically significant (ordered by size of the coefficients): test attractiveness (b = 7.35), self-concept (b = 5.95), emotional state (b = 5.76), and distraction (b = 4.17)."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "19.64* (1.33) 15.76* (1.51) 11.53* (1.56)"
+    source_location: "Table 2, invested-effort row, Model 4, p. 9 (checked against the page image)"
+
+  - id: effort-b-full-model-nonacademic
+    arm_ref: nonacademic-track
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics performance"
+      measure: "National PISA 2000 mathematics score regressed on invested effort, nonacademic-track students"
+      scale: "unstandardised b: PISA score points per point of the invested-effort scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; effort reported after the test"
+    result:
+      measure_type: regression_coefficient
+      estimate: 10.11
+      standard_error: 1.65
+      p_value: "< .001"
+      model: "Table 3 Model 4 (all motivation predictors), nonacademic track; R2 = .15 (SE .01)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The track subsample sizes are given only as 70% and 30% of the sample; no count is printed, so no sample is recorded."
+    source_quote: "Invested effort 10.11* (1.65) 9.69* (2.01)"
+    source_location: "Table 3, Model 4, p. 10 (checked against the page image)"
+
+  - id: effort-b-full-model-academic
+    arm_ref: academic-track
+    outcome:
+      construct: "Mathematics achievement in a low-stakes test"
+      source_language: "mathematics performance"
+      measure: "National PISA 2000 mathematics score regressed on invested effort, academic-track students"
+      scale: "unstandardised b: PISA score points per point of the invested-effort scale"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; effort reported after the test"
+    result:
+      measure_type: regression_coefficient
+      estimate: 9.69
+      standard_error: 2.01
+      p_value: "< .001"
+      model: "Table 3 Model 4 (all motivation predictors), academic track; R2 = .29 (SE .01)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Invested effort 10.11* (1.65) 9.69* (2.01)"
+    source_location: "Table 3, Model 4, p. 10 (checked against the page image)"
+
+not_yet_extracted:
+  - "Table 2 Model 1 (self-concept alone, b = 24.37, SE 0.79, R2 .08) and the other Model 2-4 coefficients, kept only in each model note"
+  - "Table 3 Model 1 by track (self-concept b 22.39 and 29.64) and the other Model 4 coefficients by track"
+  - "Tables 4 and 5: regressions of invested effort on test attractiveness, usefulness, emotional state, worry and distraction, whole sample and by track"
+  - "Table 1 means and internal consistencies of test attractiveness, usefulness, emotional state, worry and distraction"
+  - "Prior findings the article cites from other studies (Eklöf 2008; Eklöf & Nyroos 2013, r = 0.25; Cole et al. 2008; Lau et al. 2009; Wise & DeMars 2005): not this study's figures"

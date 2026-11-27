@@ -1,0 +1,378 @@
+# Silvia, Winterstein, Willse, Barona, Cram, Hess, Martinez & Richard (2008),
+# Study 1: generalizability (G-) and decision (D-) study of subjective ratings of
+# divergent-thinking responses.
+#
+# Study 1 only. Study 2 (n = 226, latent-variable validity study) is a different
+# sample and is not recorded here.
+#
+# WHAT IS RECORDED: per task (unusual uses, instances, consequences) and per
+# scoring method (Average, Top 2), the D-study generalizability coefficient for
+# relative decisions with ONE rater (the single-rater reliability), with the
+# coefficients for 2 to 5 raters, the Phi coefficients and the G-study variance
+# components (Tables 2-4) in the result's note and descriptives. Six
+# observations. All are `measure_type: reliability`, statistic `other` (a G
+# coefficient is none of the listed coefficients), over raters.
+#
+# The coefficients for 1, 2, 4 and 5 raters are the authors' D-study
+# projections from a design that actually used 3 raters; the 3-rater value is
+# the observed design. Nothing here is computed by us.
+#
+# QUOTES. The text layer prints Tables 2-4 column by column, not row by row, so
+# each table quote is the run of one column as the text file has it (Table 4's
+# G column for one task: Average 1-5 raters, then Top 2 1-5 raters). The column
+# mapping was checked against the page image of p. 75. The prose quotes avoid
+# the glyph-substituted symbols (the text layer prints "x" and "Phi" as glyph
+# codes); where a figure stands beside such a symbol it was read from the page
+# images of pp. 74-76.
+#
+# Age: the article prints no age figure for the Study 1 sample (only "79
+# undergraduate students enrolled in General Psychology"); Study 2's "Most
+# people (82%) were 18 or 19 years old" is a different sample.
+
+schema_version: 2
+
+study:
+  key: silvia-2008-study1
+  citation: "Silvia, P. J., Winterstein, B. P., Willse, J. T., Barona, C. M., Cram, J. T., Hess, K. I., Martinez, J. L., & Richard, C. A. (2008). Assessing creativity with divergent thinking tasks: Exploring the reliability and validity of new subjective scoring methods. Psychology of Aesthetics, Creativity, and the Arts, 2(2), 68–85."
+  doi: "10.1037/1931-3896.2.2.68"
+  design:
+    family: observational
+    design_detail: >-
+      Psychometric study, no manipulation: 77 undergraduates completed three
+      divergent-thinking tasks (unusual uses for a brick, instances of things
+      that are round, consequences of no longer needing to sleep; 3 minutes
+      each, with instructions to be creative) and circled their two most
+      creative responses. Three raters rated every response on a 1-5 scale,
+      blind to the person, the top-2 choice and serial position. Univariate
+      generalizability analysis (GENOVA) in a person-by-rater (p x r) design,
+      raters random, each task analysed separately as a fixed facet; D-study
+      for 1 to 5 raters. Uniqueness scoring analysed in a p x t design.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 77
+    unit: participants
+  additional_sizes:
+    - value: 79
+      unit: participants
+      note: "undergraduates who took part; two excluded for substantial missing data"
+    - value: 73
+      unit: participants
+      note: "examinees in the p x r generalizability analyses (GENOVA requires listwise deletion)"
+    - value: 1596
+      unit: other
+      note: "responses generated across the three tasks, each rated by every rater"
+    - value: 3
+      unit: other
+      note: "raters, each rating every response to every task on a 1-5 scale"
+  population:
+    description: >-
+      Undergraduate students in General Psychology at the University of North
+      Carolina at Greensboro, taking part for a research participation option;
+      48 women and 29 men. Most common majors fine and performing arts (12%),
+      undeclared (9%), education (8%) and psychology (8%). Who the three raters
+      were is not stated.
+    age_or_stage: "Undergraduates; the article prints no age figure for this sample"
+    age: unreported
+  context:
+    setting: "Laboratory sessions in groups of 3 to 8, with instructions emphasising that the study was about creative thinking"
+  arms: []
+
+comparisons:
+  - id: average-scoring-dependability
+    kind: none
+    description: "Dependability of Average scoring (mean rating of all of a person's responses to a task) across raters, in the whole Study 1 sample; no contrast between groups."
+  - id: top2-scoring-dependability
+    kind: none
+    description: "Dependability of Top 2 scoring (mean rating of the two responses the person circled as most creative) across raters, in the whole Study 1 sample; no contrast between groups."
+
+observations:
+  - id: g-single-rater-average-uses
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: average-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Average scoring, unusual uses task: estimated G-coefficient for relative decisions"
+      measure: "Average creativity: mean of the 1-5 ratings of all the responses a person gave to the task; Generate creative uses for a brick, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.70
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 2 G-study variance components (variance, SE, percent), n = 73: person 0.120 (SE 0.023, 62.6%); rater 0.020 (SE 0.015, 10.4%); person x rater with error 0.052 (SE 0.006, 27.0%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.70, 0.82, 0.87, 0.90, 0.92; Phi coefficients (absolute decisions): 0.63, 0.77, 0.83, 0.87, 0.89. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The unusual uses and instances tasks were similarly dependable; the consequences task was less dependable"
+          source_quote: "the unusual uses task and the instances task produced similarly dependable scores, but the consequences task produced less dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.70 0.82 0.87 0.90 0.92 0.58 0.74 0.81 0.85 0.87"
+    source_location: "Table 4, G column for the unusual uses task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 2"
+
+  - id: g-single-rater-average-instances
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: average-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Average scoring, instances task: estimated G-coefficient for relative decisions"
+      measure: "Average creativity: mean of the 1-5 ratings of all the responses a person gave to the task; Generate creative instances of things that are round, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.73
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 2 G-study variance components (variance, SE, percent), n = 73: person 0.140 (SE 0.026, 63.9%); rater 0.027 (SE 0.020, 12.4%); person x rater with error 0.052 (SE 0.006, 23.7%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.73, 0.84, 0.89, 0.92, 0.93; Phi coefficients (absolute decisions): 0.64, 0.78, 0.84, 0.88, 0.90. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The unusual uses and instances tasks were similarly dependable; the consequences task was less dependable"
+          source_quote: "the unusual uses task and the instances task produced similarly dependable scores, but the consequences task produced less dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.73 0.84 0.89 0.92 0.93 0.55 0.71 0.78 0.83 0.86"
+    source_location: "Table 4, G column for the instances task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 2"
+
+  - id: g-single-rater-average-consequences
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: average-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Average scoring, consequences task: estimated G-coefficient for relative decisions"
+      measure: "Average creativity: mean of the 1-5 ratings of all the responses a person gave to the task; Generate creative consequences of people no longer needing to sleep, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.54
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 2 G-study variance components (variance, SE, percent), n = 73: person 0.110 (SE 0.023, 34.0%); rater 0.121 (SE 0.086, 37.4%); person x rater with error 0.093 (SE 0.011, 28.6%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.54, 0.70, 0.78, 0.83, 0.86; Phi coefficients (absolute decisions): 0.34, 0.51, 0.61, 0.67, 0.72. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The consequences task was less dependable than the unusual uses and instances tasks; raters contributed as much variance as persons, so it would need four or five raters"
+          source_quote: "For the consequences task, participants and raters contributed equal variance to the scores; this task would require four or five raters for dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.54 0.70 0.78 0.83 0.86 0.49 0.66 0.74 0.79 0.83"
+    source_location: "Table 4, G column for the consequences task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 2"
+
+  - id: g-single-rater-top2-uses
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: top2-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Top 2 scoring, unusual uses task: estimated G-coefficient for relative decisions"
+      measure: "Top 2 creativity: mean of the 1-5 ratings of the two responses the person circled as most creative; Generate creative uses for a brick, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.58
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 3 G-study variance components (variance, SE, percent), n = 73: person 0.329 (SE 0.068, 56.2%); rater 0.019 (SE 0.016, 3.2%); person x rater with error 0.237 (SE 0.028, 40.6%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.58, 0.74, 0.81, 0.85, 0.87; Phi coefficients (absolute decisions): 0.56, 0.72, 0.79, 0.84, 0.87. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The unusual uses and instances tasks were similarly dependable; the consequences task was less dependable"
+          source_quote: "the unusual uses task and the instances task produced similarly dependable scores, but the consequences task produced less dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.70 0.82 0.87 0.90 0.92 0.58 0.74 0.81 0.85 0.87"
+    source_location: "Table 4, G column for the unusual uses task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 3"
+
+  - id: g-single-rater-top2-instances
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: top2-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Top 2 scoring, instances task: estimated G-coefficient for relative decisions"
+      measure: "Top 2 creativity: mean of the 1-5 ratings of the two responses the person circled as most creative; Generate creative instances of things that are round, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.55
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 3 G-study variance components (variance, SE, percent), n = 73: person 0.210 (SE 0.045, 50.0%); rater 0.036 (SE 0.027, 8.6%); person x rater with error 0.174 (SE 0.020, 41.4%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.55, 0.71, 0.78, 0.83, 0.86; Phi coefficients (absolute decisions): 0.50, 0.67, 0.75, 0.80, 0.83. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The unusual uses and instances tasks were similarly dependable; the consequences task was less dependable"
+          source_quote: "the unusual uses task and the instances task produced similarly dependable scores, but the consequences task produced less dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.73 0.84 0.89 0.92 0.93 0.55 0.71 0.78 0.83 0.86"
+    source_location: "Table 4, G column for the instances task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 3"
+
+  - id: g-single-rater-top2-consequences
+    sample:
+      value: 73
+      unit: participants
+    comparison_ref: top2-scoring-dependability
+    outcome:
+      construct: "Dependability of rated divergent-thinking (creativity) scores across raters"
+      source_language: "Top 2 scoring, consequences task: estimated G-coefficient for relative decisions"
+      measure: "Top 2 creativity: mean of the 1-5 ratings of the two responses the person circled as most creative; Generate creative consequences of people no longer needing to sleep, 3 minutes"
+      scale: "Generalizability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single session; responses rated afterwards"
+    result:
+      measure_type: reliability
+      estimate: 0.49
+      reliability:
+        statistic: other
+        over: raters
+        form: "Generalizability coefficient for relative decisions, D-study for one rater, p x r design with the task fixed and raters random"
+      descriptives: "Table 3 G-study variance components (variance, SE, percent), n = 73: person 0.203 (SE 0.046, 34.9%); rater 0.165 (SE 0.119, 28.3%); person x rater with error 0.214 (SE 0.025, 36.8%)"
+      note: "D-study generalizability coefficients (relative decisions) for 1, 2, 3, 4 and 5 raters: 0.49, 0.66, 0.74, 0.79, 0.83; Phi coefficients (absolute decisions): 0.35, 0.52, 0.62, 0.68, 0.73. The study used 3 raters; the other numbers of raters are the authors' D-study projections. The authors take .80 as an informal threshold for reliable scores."
+    moderators:
+      reported:
+        - variable: "Scoring method"
+          relationship: "Average scoring gave higher G and Phi coefficients than Top 2 scoring for all three tasks and every number of raters"
+          source_quote: "Table 4 shows that, on the whole, Average scoring produced more dependable scores for all three tasks and for all numbers of raters."
+        - variable: "Task"
+          relationship: "The consequences task was less dependable than the unusual uses and instances tasks; raters contributed as much variance as persons, so it would need four or five raters"
+          source_quote: "For the consequences task, participants and raters contributed equal variance to the scores; this task would require four or five raters for dependable scores."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. population_detail is partial: no age figure and no description of
+      the raters.
+    source_quote: "0.54 0.70 0.78 0.83 0.86 0.49 0.66 0.74 0.79 0.83"
+    source_location: "Table 4, G column for the consequences task (Average 1-5 raters, then Top 2 1-5 raters, as the text layer prints the column); variance components Table 3"
+
+not_yet_extracted:
+  - "Uniqueness (Wallach & Kogan 0/1) scoring, p x t design, n = 75 (Table 5): variance components person 0.724 (15.9%), task 1.294 (28.5%), person x task with error 2.529 (55.6%); Table 6 G and Phi for 1 to 20 tasks (G 0.22 for one task; 15 tasks for G .81). Not a rater facet."
+  - "Table 7: correlations of each creativity score with fluency (Pearson r and Kendall tau) for each task and scoring method."
+  - "Table 1: descriptive statistics and correlations of the creativity scores (the text layer of this table is scrambled; not read from the page image)."
+  - "Study 2 (n = 226, different sample): latent-variable models of Top 2 and Average divergent-thinking scores on the Big Five and the higher-order Plasticity and Stability factors."

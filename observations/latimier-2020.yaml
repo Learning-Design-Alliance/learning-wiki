@@ -1,0 +1,319 @@
+# Latimier, Peyre & Ramus (2021): meta-analysis of spacing out retrieval
+# practice episodes, in two subsets.
+#
+# Read from the JSTOR copy of the published article (text layer; Table 3 and
+# Appendix 1 read cleanly there). The DOI printed on the article,
+# 10.1007/s10648-020-09572-8, matches the key. Published online 7 October
+# 2020; the issue is September 2021, 33(3), 959-987, so the citation carries
+# 2021 while the key keeps 2020.
+#
+# WHAT THIS FILE HOLDS:
+#
+#   * Subset 1, spaced vs massed retrieval practice: the RVE estimate (g 1.01)
+#     and the trim-and-fill estimate (g 0.74) are two observations. The
+#     abstract prints only 0.74; the results section prints both. Neither is
+#     "the" effect: the authors report 1.01 as the weighted mean and 0.74 as
+#     the estimate after correcting for the publication bias their Egger test
+#     found.
+#   * Subset 2, expanding vs uniform schedule: g 0.034. The text prints
+#     p = 0.59 and Table 3 prints p = 0.62 for the same estimate; both are
+#     kept in the record, neither is chosen.
+#   * The `SE` the paper prints is labelled "between-study standard error"
+#     (Table 3 note). It is recorded as `standard_error` with that label kept
+#     in the note, not reinterpreted.
+#
+# `population.age: unreported`: the article characterises the corpus as
+# mostly undergraduates ("more than 12 years of studies") with one child study
+# in subset 2, and prints no age figure. No reliability figure is recorded:
+# the coding "was completed by the first author for all studies", so there
+# was no second coder and no agreement statistic.
+
+schema_version: 2
+
+study:
+  key: latimier-2020
+  citation: "Latimier, A., Peyre, H., & Ramus, F. (2021). A meta-analytic review of the benefit of spacing out retrieval practice episodes on retention. Educational Psychology Review, 33(3), 959–987."
+  doi: "10.1007/s10648-020-09572-8"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of randomised experiments (randomisation of participants to
+      conditions was an inclusion criterion) comparing schedules of repeated
+      retrieval practice on final retention. Two subsets analysed separately:
+      spaced vs massed retrieval practice (subset 1) and expanding vs uniform
+      spacing schedules (subset 2). Effect sizes in Hedges' g; within-subject
+      designs computed with an assumed correlation of 0.5. Each moderator
+      analysed separately (univariate) because of limited degrees of freedom.
+  synthesis:
+    model: "Meta-regression with robust variance estimation (R package robumeta), assumed within-study effect-size correlation rho = 0.80, small-sample adjustments"
+    heterogeneity_statistic: "I2"
+    search:
+      databases:
+        - ERIC
+        - Web of Science
+        - Scopus
+      date_range: "until September 2017"
+      records_screened: 3948
+      records_included: 29
+    inclusion:
+      - "Neurotypical population, no age limit and no specific education level"
+      - "Training phase with at least two retrieval attempts for the same item, followed by a retention assessment"
+      - "Control condition of massed repeated retrieval practice, or a manipulation contrasting expanding with uniform schedules"
+      - "Participants randomised to conditions"
+      - "Statistics sufficient to compute an effect size"
+    exclusion:
+      - "Patient-only populations, literature reviews, perceptual and motor learning tasks"
+    data_handling:
+      - "Coding of every study completed by the first author alone"
+      - "Missing statistics recovered from figures with WebPlotDigitizer where possible; 4 comparisons excluded for lack of data"
+      - "Sensitivity analysis varying rho from 0 to 1"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: spaced-retrieval-improves-retention
+    bearing: supports
+    anchor: latimier-et-al-2021
+  - claim: spaced-retrieval-improves-retention
+    bearing: supports
+    anchor: latimier-2021
+  - claim: spaced-retrieval-outperforms-restudy
+    bearing: supports
+    anchor: latimier-et-al-2021
+  - claim: expanding-versus-uniform-retrieval-no-difference
+    bearing: supports
+    anchor: latimier-2021
+  - claim: exposures-moderate-expanding-schedule-benefit
+    bearing: supports
+    anchor: latimier-2021
+  - claim: desirable-difficulties-enhance-learning
+    bearing: supports
+    anchor: latimier-et-al-2020
+
+evidence_base:
+  unit: studies
+  size:
+    value: 29
+    unit: studies
+  additional_sizes:
+    - value: 97
+      unit: comparisons
+      note: "comparisons in the 29 eligible studies, before the split into the two subsets"
+    - value: 11
+      unit: studies
+      note: "studies in subset 1 (spaced vs massed), contributing 39 effect sizes"
+    - value: 16
+      unit: studies
+      note: "studies in subset 2 (expanding vs uniform), contributing 54 effect sizes"
+  population:
+    description: >-
+      Mostly undergraduate students in laboratory experiments; subset 1 has 9
+      laboratory and 4 classroom studies, subset 2 has 13 laboratory and 3
+      classroom studies, and only one subset-2 study has a child population.
+    age_or_stage: >-
+      Coded as educational level (fewer than 12 vs 12 or more years of
+      schooling); the article describes most studies as "more than 12 years of
+      studies" and prints no age range or mean.
+    age: unreported
+  context:
+    setting: "Mostly laboratory experiments; verbal and semantic material (word pairs, text passages, exercises, lists); cued or free recall tests"
+  variation:
+    - dimension: "Retention interval (subset 1)"
+      distribution: "23 comparisons tested immediately, 15 after 1 day to more than 1 month"
+    - dimension: "Design (subset 1)"
+      distribution: "7 within-subject studies, 4 between-subject"
+  arms:
+    - id: spaced-retrieval
+      description: "Repeated retrieval practice of the same item with retrieval events separated by other items or time (most often on a uniform schedule)."
+      size:
+        value: 11
+        unit: studies
+    - id: massed-retrieval
+      description: "Repeated retrieval practice of the same item with no other retrieval events between them."
+      size:
+        value: 11
+        unit: studies
+    - id: expanding-schedule
+      description: "Spaced retrieval practice whose inter-retrieval intervals increase across repetitions."
+      size:
+        value: 16
+        unit: studies
+    - id: uniform-schedule
+      description: "Spaced retrieval practice with equal inter-retrieval intervals."
+      size:
+        value: 16
+        unit: studies
+
+comparisons:
+  - id: spaced-vs-massed
+    kind: other
+    index_arm: spaced-retrieval
+    reference_arm: massed-retrieval
+    description: "Subset 1: spaced vs massed repeated retrieval practice, pooled over within- and between-subject designs."
+  - id: expanding-vs-uniform
+    kind: other
+    index_arm: expanding-schedule
+    reference_arm: uniform-schedule
+    description: "Subset 2: expanding vs uniform spacing schedule of retrieval practice, pooled over within- and between-subject designs."
+
+observations:
+
+  - id: spaced-vs-massed-rve
+    sample:
+      value: 39
+      unit: effect-sizes
+    comparison_ref: spaced-vs-massed
+    outcome:
+      construct: "Final retention"
+      source_language: "final retention"
+      measure: "Final memory tests (mostly cued recall, some free recall) as reported by the primary studies"
+      scale: "Hedges' g, spaced minus massed"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies, immediately (23 comparisons) or after 1 day to more than 1 month (15)"
+    result:
+      measure_type: hedges_g
+      estimate: 1.01
+      standard_error: 0.15
+      ci_lower: 0.68
+      ci_upper: 1.34
+      interval_type: confidence
+      p_value: "< 0.0001"
+      k:
+        value: 39
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 49.09
+        unit: percent
+        interpretation: "Described as moderate; between-study variance T2 0.213 at rho = 0.8 (0.204 to 0.215 as rho varies from 0 to 1, Appendix 1)"
+      publication_bias:
+        method: "Funnel plot and Egger's regression test"
+        finding: "Egger's test significant (t = 4.41, d.f. = 37, p < 0.0001); funnel plot asymmetrical"
+      model: "Robust variance estimation, rho = 0.80; adjusted d.f. 9.72 (Table 3)"
+      note: "The SE is the paper's 'estimated between-study SE' (Table 3 note: 'SE: between-study standard error'). Effect sizes ranged from g = 0.29 to 2.16."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The authors report that no moderator in subset 1 came close to
+      significance at alpha = 0.1, while warning that many moderators had too
+      few degrees of freedom for a reliable test.
+    source_quote: "The overall weighted mean effect size across all 39 effect size estimates was g = 1.01 (95% CI [0.68, 1.34], p < 0.0001) with an estimated between-study SE of 0.15 (Table 3)."
+    source_location: "Results, Effect Size Analyses, Subset 1; Table 3"
+
+  - id: spaced-vs-massed-trim-and-fill
+    sample:
+      value: 49
+      unit: effect-sizes
+    comparison_ref: spaced-vs-massed
+    outcome:
+      construct: "Final retention"
+      source_language: "final retention"
+      measure: "Final memory tests as reported by the primary studies"
+      scale: "Hedges' g, spaced minus massed, after trim-and-fill"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.74
+      standard_error: 0.09
+      ci_lower: 0.55
+      ci_upper: 0.91
+      interval_type: confidence
+      p_value: "< 0.0001"
+      k:
+        value: 49
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 46.62
+        unit: percent
+        interpretation: "Described as moderate"
+      model: "Trim-and-fill correction of the subset-1 RVE model; adjusted d.f. 19.4 (Table 3)"
+      note: "k = 49 is the 39 observed effect sizes plus 10 imputed by trim-and-fill (Fig. 2 caption). This is the figure the abstract reports for subset 1."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The overall weighted mean effect size was reduced to g = 0.74 (95% CI [0.55, 0.91], p < 0.0001), with a moderate heterogeneity (I2 = 46.62%) too."
+    source_location: "Results, Subset 1, Publication Bias Analysis; Table 3"
+
+  - id: expanding-vs-uniform
+    sample:
+      value: 54
+      unit: effect-sizes
+    comparison_ref: expanding-vs-uniform
+    outcome:
+      construct: "Final retention"
+      source_language: "final retention"
+      measure: "Final memory tests, mostly cued recall of pairs at relatively long delays, as reported by the primary studies"
+      scale: "Hedges' g, expanding minus uniform"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as tested in the primary studies, typically at relatively long delays"
+    result:
+      measure_type: hedges_g
+      estimate: 0.034
+      standard_error: 0.06
+      ci_lower: -0.10
+      ci_upper: 0.17
+      interval_type: confidence
+      p_value: "0.59 (text); 0.62 (Table 3)"
+      k:
+        value: 54
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 0
+        unit: percent
+        interpretation: "No heterogeneity; between-study variance T2 0.0000 at every rho (Appendix 1)"
+      publication_bias:
+        method: "Funnel plot and Egger's regression test"
+        finding: "Egger's test not significant (t = -0.44, d.f. = 52, p = 0.66); funnel plot symmetrical"
+      model: "Robust variance estimation, rho = 0.80; adjusted d.f. 13.7 (Table 3)"
+      note: "The text gives the between-study SE as 0.063, Table 3 as 0.06, Appendix 1 as 0.0626. Effect sizes ranged from g = -0.53 to 1.02; 55% were positive."
+    moderators:
+      reported:
+        - variable: "Number of exposures per item during training"
+          relationship: "More than four exposures: g = 0.2 [-0.07, 0.47], p = 0.12; four or fewer: g = -0.04 [-0.17, 0.094], p = 0.54; the difference p = 0.09"
+          source_quote: "Indeed, when each item was presented more than four times during the training phase (initial exposure + retrieval practice episodes), g = 0.2 (95% CI [− 0.07, 0.47], p = 0.12) compared with g = − 0.04 (95% CI [− 0.17, 0.094], p = 0.54) when it was presented four times or less."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The overall weighted mean effect size across all 54 effect size estimates was g = 0.034 (95% CI = [− 0.10, 0.17], p = 0.59) with an estimated between-study SE of 0.063 (Table 3)."
+    source_location: "Results, Effect Size Analyses, Subset 2; Table 3; Appendix 1"
+
+not_yet_extracted:
+  - "Table 4 moderator analyses for both subsets (only the exposures moderator of subset 2 is recorded, as the one the authors report near significance)"
+  - "Per-study effect sizes in Tables 1 and 2"

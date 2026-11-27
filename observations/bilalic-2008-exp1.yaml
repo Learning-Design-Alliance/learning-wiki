@@ -1,0 +1,298 @@
+# Bilalić, McLeod & Gobet (2008), Experiment 1: the Einstellung (set) effect in
+# chess players, using a mating problem with a familiar five-move smothered-mate
+# solution and a shorter, less familiar three-move one.
+#
+# Read from the publisher PDF and its text layer; the logistic-regression
+# sentence (p. 83) and Tables 1-2 were checked against page images. Quotes
+# keep the text layer's ligature characters ("ﬁ", "ﬀ") and the article's own
+# "SE." exactly as printed.
+#
+# Shape: experts (Group 1, Grand Master to Candidate Master) were given the
+# 2-solution problem and, if they missed the shorter mate, the 1-solution
+# problem; weaker players (Group 2, Class A-C) were given only the 1-solution
+# problem. Groups are defined by Elo rating, not assigned, so nothing here is
+# randomised. The "about 3 SDs" Einstellung cost is the authors' reading of
+# matched percentages across rating bands; no interval or test is printed for
+# it, so it is recorded as a qualitative finding, not as a number.
+#
+# The article prints no age figure for any player.
+# The Group 2 players were also the weaker group in Experiment 2
+# (bilalic-2008-exp2).
+
+schema_version: 2
+
+study:
+  key: bilalic-2008-exp1
+  citation: "Bilalić, M., McLeod, P., & Gobet, F. (2008). Inflexibility of experts—Reality or myth? Quantifying the Einstellung effect in chess masters. Cognitive Psychology, 56(2), 73–102."
+  doi: "10.1016/j.cogpsych.2007.02.001"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Natural skill groups defined by Elo rating, no random assignment. Experts
+      solved the 2-solution (critical) problem with unlimited time while
+      thinking aloud, and those who missed the shorter solution were then
+      shown the 1-solution (extinction) problem; weaker players solved the
+      1-solution problem only. The Einstellung effect is read by comparing
+      experts on the 2-solution problem with weaker players on the 1-solution
+      problem; skill within the experts was analysed by logistic regression on
+      Elo rating. Tested individually in a quiet room.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 58
+    unit: participants
+  additional_sizes:
+    - value: 34
+      unit: participants
+      note: "experts in Group 1 (6 Grand Masters, 6 International Masters, 11 Masters, 11 Candidate Masters)"
+    - value: 24
+      unit: participants
+      note: "weaker players in Group 2 (8 each of Class A, B and C)"
+  population:
+    description: >-
+      Rated chess players recruited from local chess clubs in Oxford, Tuzla and
+      Sarajevo and at the Bosnian team championship in Neum 2003, from Class C
+      (around the mean of graded players) to Grand Master (5.5 SDs above it) on
+      the Elo scale (mean 1500, SD 200).
+    age_or_stage: "Adult and club chess players; no age is reported"
+    age: unreported
+  context:
+    setting: "Problems shown on a 15-inch laptop screen, think-aloud protocols tape-recorded, individual testing in a quiet room"
+  arms:
+    - id: grand-master-2sol
+      description: "Grand Masters (mean Elo 2554 ± 32, 5.5 SDs above the mean) on the 2-solution problem."
+      size: {value: 6, unit: participants}
+    - id: international-master-2sol
+      description: "International Masters (mean Elo 2443 ± 24, 5 SDs above the mean) on the 2-solution problem."
+      size: {value: 6, unit: participants}
+    - id: master-2sol
+      description: "Masters (mean Elo 2305 ± 58, 4 SDs above the mean) on the 2-solution problem."
+      size: {value: 11, unit: participants}
+    - id: candidate-master-2sol
+      description: "Candidate Masters (mean Elo 2129 ± 45, 3 SDs above the mean) on the 2-solution problem."
+      size: {value: 11, unit: participants}
+    - id: class-a-1sol
+      description: "Class A players (mean Elo 1895 ± 63, 2 SDs above the mean) on the 1-solution problem only."
+      size: {value: 8, unit: participants}
+    - id: class-b-1sol
+      description: "Class B players (mean Elo 1677 ± 67, 1 SD above the mean) on the 1-solution problem only."
+      size: {value: 8, unit: participants}
+    - id: class-c-1sol
+      description: "Class C players (mean Elo 1506 ± 62, at the mean) on the 1-solution problem only."
+      size: {value: 8, unit: participants}
+
+comparisons:
+  - id: rating-within-experts
+    kind: none
+    index_arm: [grand-master-2sol, international-master-2sol, master-2sol, candidate-master-2sol]
+    description: "Elo rating as a continuous predictor of solving the 2-solution problem, within the 34 experts; no contrast of configurations."
+  - id: experts-2sol-vs-weaker-1sol
+    kind: between-groups
+    index_arm: [international-master-2sol, master-2sol, candidate-master-2sol]
+    reference_arm: [class-a-1sol, class-b-1sol, class-c-1sol]
+    description: "Experts on the 2-solution problem (familiar solution present) against weaker players on the 1-solution problem (familiar solution absent), matched band by band."
+
+observations:
+
+  - id: found-shorter-2sol-grand-master
+    sample: {value: 6, unit: participants}
+    arm_ref: grand-master-2sol
+    outcome: &found2
+      construct: "Finding the optimal solution with a familiar solution available"
+      source_language: "found the optimal solution in the 2-solution (critical) problem"
+      measure: "Whether the player found the shorter three-move mate in the 2-solution problem"
+      scale: "percent of players"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time: &t1
+      label: "single session, unlimited time"
+    result:
+      measure_type: probability
+      estimate: 100
+      unit: "percent of players"
+    moderators: {reported: [], candidate: []}
+    observability: &obs
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The Grand Masters all found the optimal solution in the 2-solution problem."
+    source_location: "Experiment 1 Results, p. 83; Table 2"
+
+  - id: found-shorter-2sol-international-master
+    sample: {value: 6, unit: participants}
+    arm_ref: international-master-2sol
+    outcome: *found2
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 50
+      unit: "percent of players"
+      note: "All International Masters found the solution in the 1-solution problem (100%, Table 2)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the International Masters (5 SDs above average) on the 2solution problem was comparable to that of Class A players (2 SDs above average) on the 1-solution problem—50% and 63%, respectively."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: found-shorter-2sol-master
+    sample: {value: 11, unit: participants}
+    arm_ref: master-2sol
+    outcome: *found2
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 18
+      unit: "percent of players"
+      note: "Two of the 11 Masters; all found the solution in the 1-solution problem (100%, Table 2)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the Masters (4 SDs above average) was comparable to that of the Class B players (1 SD above average)—18% and 13%, respectively."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: found-shorter-2sol-candidate-master
+    sample: {value: 11, unit: participants}
+    arm_ref: candidate-master-2sol
+    outcome: *found2
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 0
+      unit: "percent of players"
+      note: "All Candidate Masters found the solution in the 1-solution problem (100%, Table 2)."
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the Candidate Masters (3 SDs above the average skill level) (0%) was the same as the performance of the Class C players (average skill level) (0%)."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: found-1sol-class-a
+    sample: {value: 8, unit: participants}
+    arm_ref: class-a-1sol
+    outcome: &found1
+      construct: "Finding the optimal solution with no familiar solution available"
+      source_language: "found the solution in the 1-solution problem"
+      measure: "Whether the player found the three-move mate in the 1-solution (extinction) problem"
+      scale: "percent of players"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 63
+      unit: "percent of players"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the International Masters (5 SDs above average) on the 2solution problem was comparable to that of Class A players (2 SDs above average) on the 1-solution problem—50% and 63%, respectively."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: found-1sol-class-b
+    sample: {value: 8, unit: participants}
+    arm_ref: class-b-1sol
+    outcome: *found1
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 13
+      unit: "percent of players"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the Masters (4 SDs above average) was comparable to that of the Class B players (1 SD above average)—18% and 13%, respectively."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: found-1sol-class-c
+    sample: {value: 8, unit: participants}
+    arm_ref: class-c-1sol
+    outcome: *found1
+    time: *t1
+    result:
+      measure_type: probability
+      estimate: 0
+      unit: "percent of players"
+    moderators: {reported: [], candidate: []}
+    observability: *obs
+    source_quote: "The performance of the Candidate Masters (3 SDs above the average skill level) (0%) was the same as the performance of the Class C players (average skill level) (0%)."
+    source_location: "Experiment 1 Results, p. 84; Table 2"
+
+  - id: rating-logistic-regression
+    sample: {value: 34, unit: participants}
+    comparison_ref: rating-within-experts
+    outcome:
+      construct: "Finding the optimal solution with a familiar solution available"
+      source_language: "results on the 2-solution problem"
+      measure: "Found or missed the shorter mate in the 2-solution problem, regressed on Elo rating"
+      scale: "logistic regression coefficient per Elo point"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time: *t1
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.013
+      standard_error: 0.005
+      p_value: ".004"
+      statistic: "Z = 8.4 (as printed)"
+      model: "Logistic regression of 2-solution result on Elo rating, Group 1 experts"
+      interpretation: >-
+        A decrease of 100 rating points reduced the odds of finding the shorter
+        solution by a factor of 3.67; predicted probabilities .64, .32, .12 and
+        .01 for an average Grand Master (Elo 2550), International Master (2450),
+        Master (2350) and Candidate Master (2150).
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The article prints Z = 8.4 beside p = .004; the two do not correspond
+      for a standard normal Z, but both are recorded as printed and neither
+      is corrected or reinterpreted. The analysed n is not printed for
+      the regression; 34 is the Group 1 size from Table 1.
+    source_quote: "Rating had a signiﬁcant eﬀect (B = .013, SE. = .005, Z = 8.4, p = .004) such that a decrease of 100 rating points reduced the odds of ﬁnding the shorter solution by a factor of 3.67."
+    source_location: "Experiment 1 Results, p. 83 (checked against the page image)"
+
+  - id: einstellung-cost-in-sd
+    comparison_ref: experts-2sol-vs-weaker-1sol
+    outcome:
+      construct: "Einstellung cost in skill units"
+      source_language: "reduced the problem solving abilities of the experts to about that of players 3 SDs lower in skill"
+      measure: "Percent solving, experts with the familiar solution present matched to weaker players without it, band by band"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time: *t1
+    result:
+      measure_type: qualitative
+      finding: >-
+        With the familiar solution present, each expert band solved at about
+        the rate of the band 3 SDs of rating below it on the 1-solution problem
+        (International Masters 50% vs Class A 63%; Masters 18% vs Class B 13%;
+        Candidate Masters 0% vs Class C 0%). The authors read this as reducing
+        experts to about the level of players 3 SDs lower in skill; no interval
+        or test is printed for the gap.
+    moderators: {reported: [], candidate: []}
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The presence of a familiar solution reduced the problem solving abilities of the experts to about that of players 3 SDs lower in skill."
+    source_location: "Experiment 1 Results, p. 84"
+
+not_yet_extracted:
+  - "Median search times from the protocols (7-10 s) and 1-solution solution times (23, 44 and 120 s, footnote 7)"
+  - "Twelve experts' predictions of success (86%, 74%, 59%) against the actual 50%, 18%, 0%"
+  - "Experiment 3 (eye-movement study, different players); not used here"

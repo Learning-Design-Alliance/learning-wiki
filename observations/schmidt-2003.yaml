@@ -1,0 +1,244 @@
+# Schmidt, Le & Ilies (2003): transient error in measures of individual
+# differences, estimated from two administrations about one week apart.
+#
+# One sample (N = 167 after attrition) took parallel forms or parallel half
+# scales of ten constructs' measures on two occasions. The figures recorded here
+# are the general mental ability measure (Wonderlic Personnel Test), which is the
+# one measure with true parallel forms and the cognitive one, and the Rosenberg
+# self-esteem scale's transient error share. Each measure's coefficient of
+# equivalence (CE, alpha), coefficient of equivalence and stability (CES) and
+# transient error share (TEV = CE - CES) are separate observations because the
+# source prints them as separate statistics with their own standard errors.
+#
+# TEV is a proportion of OBSERVED score variance, as the source defines it
+# ("transient error variance over observed score variance"). It is recorded as
+# printed and is not converted to a share of true or systematic variance.
+#
+# Quotes for the Wonderlic rows come from the text layer, where Table 2 prints
+# the row's numbers in sequence. The Rosenberg row of Table 2 is scrambled across
+# columns in the text layer (TSBI, Rosenberg and the average interleaved), so the
+# quote for `rosenberg-tev` was taken from the page image of p. 217 (Table 2) and
+# its standard error from the page image of p. 219 (Table 3).
+
+schema_version: 2
+
+study:
+  key: schmidt-2003
+  citation: "Schmidt, F. L., Le, H., & Ilies, R. (2003). Beyond alpha: An empirical examination of the effects of different sources of measurement error on reliability estimates for measures of individual differences constructs. Psychological Methods, 8(2), 206–224."
+  doi: "10.1037/1082-989x.8.2.206"
+  design:
+    family: observational
+    design_detail: >-
+      Two-occasion measurement study. Students completed two laboratory sessions
+      about one week apart, each with a different one of two questionnaires
+      holding one of a pair of parallel forms (Wonderlic, TSBI) or parallel half
+      scales (all other measures) of each measure. CE was the mean alpha of the
+      parallel forms (or half scales, stepped up by Spearman-Brown); CES was the
+      cross-occasion correlation of the parallel forms (or half scales, via the
+      authors' Equation 14); TEV = CE - CES. Standard errors from a Monte Carlo
+      simulation of 1,000 data sets per measure. No conditions were assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 167
+    unit: participants
+  additional_sizes:
+    - value: 235
+      unit: participants
+      note: "initial sample; 68 did not attend the second session"
+    - value: 18
+      unit: sessions
+      note: "laboratory sessions of about 20 participants each, spanning 3 weeks"
+  population:
+    description: >-
+      Students in an introductory management course at a midwestern US
+      university, participating for course credit. Final sample 83 men and 84
+      women; initial sample 123 women (52%) and 112 men (48%).
+    age_or_stage: "Undergraduates; average age 21.3 years in the final sample, 21.5 in the initial sample"
+    age:
+      unit: years
+      mean: 21.3
+      note: "Final sample of 167. The initial sample of 235 averaged 21.5 years. No range or SD printed."
+  context:
+    setting: "Two laboratory questionnaire sessions separated by approximately one week"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Reliability coefficients and transient error shares in the whole final sample; no contrast between groups."
+
+observations:
+
+  - id: wonderlic-ce
+    sample:
+      value: 167
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "General mental ability test score reliability, single occasion"
+      source_language: "coefficient equivalence (alpha)"
+      measure: "Wonderlic Personnel Test (1998), two parallel forms"
+      scale: "Cronbach's alpha, averaged over the two parallel forms"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each of two occasions about one week apart"
+    result:
+      measure_type: reliability
+      estimate: 0.79
+      standard_error: 0.020
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient of equivalence: the coefficient alphas of the two parallel forms, averaged"
+      note: "Standard error from Table 3 (Monte Carlo simulation). Full-scale SD 5.36."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. The quoted Table 2 row reads SD, CE, CES, TEV, % overestimate.
+    source_quote: "5.36 .79 .74 .05 6.7"
+    source_location: "Table 2, GMA / Wonderlic row (p. 217); SE in Table 3 (p. 219)"
+
+  - id: wonderlic-ces
+    sample:
+      value: 167
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "General mental ability test score reliability across occasions"
+      source_language: "coefficient of equivalence and stability"
+      measure: "Wonderlic Personnel Test (1998), parallel forms given on different occasions"
+      scale: "correlation between parallel forms administered about one week apart"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions about one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first session"
+    result:
+      measure_type: reliability
+      estimate: 0.74
+      standard_error: 0.035
+      reliability:
+        statistic: other
+        over: occasions
+        form: "coefficient of equivalence and stability (CES): the correlation between the parallel forms administered on different occasions"
+      note: "Standard error from Table 3 (Monte Carlo simulation). Forms and occasions vary together in this coefficient."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "5.36 .79 .74 .05 6.7"
+    source_location: "Table 2, GMA / Wonderlic row (p. 217); SE in Table 3 (p. 219)"
+
+  - id: wonderlic-tev
+    sample:
+      value: 167
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Transient (occasion) error share of a general mental ability test score"
+      source_language: "transient error variance over observed score variance"
+      measure: "Wonderlic Personnel Test (1998)"
+      scale: "proportion of observed score variance (CE minus CES)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions about one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first session"
+    result:
+      measure_type: other
+      estimate: 0.05
+      unit: "proportion of observed score variance"
+      standard_error: 0.029
+      note: >-
+        CE overestimates the CES by 6.7% (Table 2). Footnote 4: adjusting CE and
+        CES for the sample's range restriction on the Wonderlic (sample SD 5.36
+        against the manual's 7.50) reduced this estimate from .05 to .03.
+    moderators:
+      reported: []
+      candidate:
+        - "Range restriction of a college sample on general mental ability (the authors' own adjustment lowers the estimate to .03)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Not an effect of any configuration; a variance share of one measure.
+      Standard error from Table 3 (Monte Carlo simulation).
+    source_quote: "Against our expectation, measures of GMA and broad personality traits appear to have comparable TEV (.05 for GMA and an average of .04 across 7 broad personality traits; Table 2)."
+    source_location: "Results, p. 218; Table 2 (p. 217); SE in Table 3 (p. 219); footnote 4"
+
+  - id: rosenberg-tev
+    sample:
+      value: 167
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Transient (occasion) error share of a self-esteem scale score"
+      source_language: "transient error variance over observed score variance"
+      measure: "Rosenberg Self-Esteem Scale (1965), parallel half scales on the two occasions"
+      scale: "proportion of observed score variance (CE minus CES)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions about one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first session"
+    result:
+      measure_type: other
+      estimate: 0.05
+      unit: "proportion of observed score variance"
+      standard_error: 0.043
+      note: "Same row: CE .84 (SE .019), CES .79 (SE .044), CE overestimate 6.3%. No full-scale SD printed for this measure."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Rosenberg .84 .79 .05 6.3"
+    source_location: "Table 2, Self-Esteem / Rosenberg row (p. 217, quoted from the page image); SEs in Table 3 (p. 219, page image)"
+
+not_yet_extracted:
+  - "CE, CES and TEV for the other eight constructs' measures (PCI and IPIP Big Five scales, Sherer's GSE, TSBI, PANAS, MPI, DE scale), Table 2, with standard errors in Table 3"
+  - "Construct averages: TEV .04 across 7 broad personality traits, .13 for positive affectivity and .11 for negative affectivity"
+  - "Wonderlic-manual correlations with WAIS-R, Otis-Lennon and GATB (.75-.96, .87-.99, .74) are cited from the test manual, not this study's figures"
