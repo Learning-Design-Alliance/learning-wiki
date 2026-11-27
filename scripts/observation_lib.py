@@ -238,6 +238,14 @@ DELIVERY_ROLE = {"core-curriculum", "supplement", "replacement", "add-on", "othe
 # behind it.
 PREREGISTRATION_STATUS = {"preregistered", "not-preregistered", "unreported"}
 
+# A source's standing after publication (added 2026-11-27, when a simulator
+# source turned out to be a withdrawn preprint). Absent means nothing is known
+# against it, as for every record written before the field existed. A record of
+# a withdrawn or retracted source is kept, because a consumer that already uses
+# its figures must be able to find out; the field is what stops it reading as
+# sound. `notice` names where the withdrawal is stated (a DOI or URL).
+PUBLICATION_STATUS = {"withdrawn", "retracted", "expression-of-concern"}
+
 # Recorded ONLY where the source identifies them. A researcher measuring
 # graduation does not establish that anybody values graduation, so this field
 # has no default.
@@ -562,6 +570,25 @@ def _validate_study(rec, key, issues) -> str | None:
                                                                 or prereg.get("id")):
                 _err(issues, wp, "status is 'preregistered' but neither registry nor id is "
                                  "given; say where, or it is an assertion with nothing behind it")
+
+    pubstat = study.get("publication_status")
+    if pubstat is not None:
+        wp = f"{where}.publication_status"
+        if not isinstance(pubstat, dict):
+            _err(issues, wp, "must be a mapping {status, date, notice, note}")
+        else:
+            _enum(issues, wp, pubstat.get("status"), PUBLICATION_STATUS, "status",
+                  required=True)
+            # Where the withdrawal is stated is required: a status with nothing
+            # behind it is an assertion, the same rule as a preregistration.
+            _str(issues, wp, pubstat.get("notice"), "notice", required=True)
+            _str(issues, wp, pubstat.get("note"), "note")
+            d = pubstat.get("date")
+            if d is not None and not isinstance(d, date):
+                try:
+                    date.fromisoformat(str(d))
+                except ValueError:
+                    _err(issues, wp, "date must be a date or an ISO date string")
 
     synth = study.get("synthesis")
     if family in SYNTHESIS_FAMILIES:

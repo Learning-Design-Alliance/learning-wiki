@@ -1,0 +1,336 @@
+# *** WITHDRAWN. This preprint was withdrawn on 2026-01-16 (study.publication_status).
+# *** It is recorded so that anything already using these figures can find that out;
+# *** do not cite it as evidence. The reason for the withdrawal is not known.
+#
+# Johansson, Savi, van der Maas & Hofman (2024): sequential errors and quitting
+# in an online arithmetic practice environment (Prowise Learn / Math Garden),
+# and how far the effect differs between learners.
+#
+# VERSION READ: the PsyArXiv preprint dated June 6, 2024 (version 1 of
+# doi:10.31234/osf.io/6tduv), text layer only, not peer reviewed. Crossref
+# (checked 2026-11-27) lists no journal version. It does list a version 2,
+# doi:10.31234/osf.io/6tduv_v2, posted 2026-01-16, whose registered title is
+# "WITHDRAWN", and OSF answers a download of the files with 410 Gone. So the
+# preprint appears to have been WITHDRAWN by its authors; the reason is not
+# established. Every figure below is from the version 1 text as it was posted.
+#
+# Only the individual-differences part (Section 2.2.3, the mixed-effects
+# logistic regressions on the addition and subtraction games) is recorded: it
+# is what the figures in use rest on. The multi-state and two-state Markov
+# models (Sections 2.1, 2.2.1, Tables 1, A1-A4, B1-B3) are listed under
+# not_yet_extracted.
+#
+# Two places where the text and the supplement disagree, recorded as the text
+# prints them and noted on the observation: the SE of the addition slope
+# (0.001 in the text, 0.01 in Table C1) and the SD of the random slope (0.37
+# in the text, 0.38 in Table C2).
+#
+# Log data from one platform, no assigned conditions: arms are empty and each
+# result rests on a whole-sample comparison of kind `none`.
+
+schema_version: 2
+
+study:
+  key: johansson-2024
+  citation: "Johansson, A. M., Savi, A. O., van der Maas, H. L. J., & Hofman, A. D. (2024). Three strikes and who is out? Individual differences in error-induced quitting [Preprint, version 1, June 6, 2024; version 2 registered as withdrawn, January 16, 2026]. PsyArXiv."
+  doi: "10.31234/osf.io/6tduv"
+  publication_status:
+    status: withdrawn
+    date: 2026-01-16
+    notice: "https://doi.org/10.31234/osf.io/6tduv_v2"
+    note: >-
+      Crossref (checked 2026-11-27) registers version 2 of the preprint,
+      posted 2026-01-16, with the title "WITHDRAWN" and no authors, as a
+      version of 10.31234/osf.io/6tduv. OSF answers a download of the files
+      with 410 Gone. No reason for the withdrawal was found, and no journal
+      version is registered.
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of intensive longitudinal log data from an online
+      learning environment. For individual differences: generalised linear
+      mixed-effects (logistic) models of quitting a 10-item addition game,
+      with sequential errors (continuous) as predictor, random intercepts and
+      random slopes over users, and user ability and grade as covariates;
+      fitted on a training split and validated on a held-out testing split;
+      the same model fitted to the subtraction game for users with enough data
+      in both. No manipulation of errors; associational.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 255568
+    unit: participants
+  additional_sizes:
+    - value: 105864
+      unit: participants
+      note: "training dataset drawn from the 255,568 addition-game users"
+    - value: 105733
+      unit: participants
+      note: "testing dataset, held out"
+    - value: 3998
+      unit: participants
+      note: "training users with at least 50 sessions and 10 quits, the sample of the mixed-effects models"
+    - value: 4091
+      unit: participants
+      note: "testing users after the same selection"
+    - value: 1765
+      unit: participants
+      note: "users with at least 50 sessions and 10 quits in both the addition and the subtraction game"
+    - value: 24859
+      unit: participants
+      note: "users in the separate replication analysis (all domains, 2023-05-29 to 2023-07-30), not recorded here"
+  population:
+    description: >-
+      Dutch primary-school users of Prowise Learn's Math Garden, grades 3 to 8
+      (grades 1 and 2 excluded), with parental consent; addition-game data
+      from 2021-09-01 to 2023-07-01. The mixed-effects sample is restricted to
+      users with at least 50 sessions and 10 quits, which the authors note
+      limits inference to more persistent children.
+    age_or_stage: "Grades 3 to 8 (primary school); the article prints no age figures."
+    age: unreported
+  context:
+    setting: >-
+      Computer-adaptive arithmetic practice (Elo-based item selection); each
+      game is 10 time-limited items, and a quit is leaving the game before the
+      10th item. Difficulty level sets the target probability correct at .90,
+      .75 (default) or .60.
+  arms: []
+
+comparisons:
+  - id: addition-users
+    kind: none
+    description: "Mixed-effects model of quitting in the addition game across the 3,998 selected training users; no contrast between groups."
+  - id: subtraction-users
+    kind: none
+    description: "The same model fitted to the subtraction game for the 1,765 users with enough data in both games, and the correlation of their per-user effects across the two games."
+
+observations:
+
+  - id: sequential-errors-quitting-addition
+    sample:
+      value: 3998
+      unit: participants
+    comparison_ref: addition-users
+    outcome:
+      construct: "Quitting a practice game"
+      source_language: "quitting"
+      measure: "Whether a user stops the 10-item addition game before completing 10 items, per item, predicted by the number of sequential errors directly before the item"
+      scale: "log-odds per sequential error (logistic mixed model)"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within game sessions, 2021-09-01 to 2023-07-01"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.81
+      standard_error: 0.001
+      p_value: "< .001"
+      model: >-
+        Model 3 (best fit): random intercept and random slope of sequential
+        errors over users, fixed effects of user ability and grade. The authors
+        give an odds ratio of about 2.25 per sequential error. Ability
+        beta = -0.10 (SE 0.01, OR 0.90); grade beta = -0.05 (SE 0.004,
+        OR 0.95).
+      note: >-
+        Table C1 prints the same estimate with SE 0.01 (z = 119.57); the text
+        prints SE = 0.001. The text's value is recorded. The testing data give
+        0.81 again (Table C1).
+    moderators:
+      reported: []
+      candidate:
+        - "Difficulty level: the authors tried to add it as a covariate, but the selected difficulty groups were too small to fit."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "There was a significant fixed effect of sequential errors (β = 0.81; SE = 0.001; p < .001) on quitting. This is equivalent to an odds ratio (OR) of about 2.25, meaning that for every sequential error committed, the risk of quitting increases by about 2.25."
+    source_location: "Section 2.2.3, Fixed effects estimates; Table C1"
+
+  - id: random-slope-sd-addition
+    sample:
+      value: 3998
+      unit: participants
+    comparison_ref: addition-users
+    outcome:
+      construct: "Between-learner variation in error-induced quitting"
+      source_language: "the effect of sequential errors"
+      measure: "Random-slope variance of sequential errors on quitting, over users"
+      scale: "SD of the per-user slope, log-odds per sequential error"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within game sessions, 2021-09-01 to 2023-07-01"
+    result:
+      measure_type: other
+      estimate: 0.37
+      unit: "log-odds per sequential error (SD)"
+      model: >-
+        Model 3 as above. Variance 0.14 (sigma = 0.37). The authors report that
+        the model accounted for about 56% of between-subject variance in the
+        effect of sequential errors (ICC), and a random intercept-slope
+        correlation of r = -.10.
+      note: >-
+        Table C2 prints the training SD as 0.38 beside the variance 0.14; the
+        text says 0.37, which is recorded. Testing data: variance 0.13, SD 0.36
+        (Table C2).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The variance estimate for the intercept was 0.39 (σ = 0.62) and for the effect of sequential errors was 0.14 (σ = 0.37)."
+    source_location: "Section 2.2.3, Random effects estimates; Table C2"
+
+  - id: random-intercept-sd-addition
+    sample:
+      value: 3998
+      unit: participants
+    comparison_ref: addition-users
+    outcome:
+      construct: "Between-learner variation in baseline quitting"
+      source_language: "baseline quit rates (at 0 sequential errors)"
+      measure: "Random-intercept variance of quitting over users"
+      scale: "SD of the per-user intercept, log-odds"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within game sessions, 2021-09-01 to 2023-07-01"
+    result:
+      measure_type: other
+      estimate: 0.62
+      unit: "log-odds (SD)"
+      model: "Model 3 as above. Variance 0.39 (sigma = 0.62); about 68% of between-subject variance in baseline quitting accounted for (ICC). Testing data: variance 0.41, SD 0.64 (Table C2)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The variance estimate for the intercept was 0.39 (σ = 0.62) and for the effect of sequential errors was 0.14 (σ = 0.37)."
+    source_location: "Section 2.2.3, Random effects estimates; Table C2"
+
+  - id: sequential-errors-quitting-subtraction
+    sample:
+      value: 1765
+      unit: participants
+    comparison_ref: subtraction-users
+    outcome:
+      construct: "Quitting a practice game"
+      source_language: "quitting"
+      measure: "Whether a user stops the subtraction game before completing it, predicted by the number of sequential errors"
+      scale: "log-odds per sequential error (logistic mixed model)"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within game sessions, same data collection period"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.74
+      standard_error: 0.007
+      p_value: "< .001"
+      model: "Same model as for addition. User ability beta = -0.07 (SE 0.011); grade beta = -0.07 (SE 0.004)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Similar to the addition game, there was a significant main effect of sequential errors (β = 0.74; SE = 0.007; p < .001) , user ability (β = −0.07; SE = 0.011; p < .001) , and grade (β = −0.07; SE = 0.004; p < .001) ."
+    source_location: "Section 2.2.4"
+
+  - id: random-slope-sd-subtraction
+    sample:
+      value: 1765
+      unit: participants
+    comparison_ref: subtraction-users
+    outcome:
+      construct: "Between-learner variation in error-induced quitting"
+      source_language: "the effect of sequential errors"
+      measure: "Random-slope variance of sequential errors on quitting in the subtraction game, over users"
+      scale: "SD of the per-user slope, log-odds per sequential error"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within game sessions, same data collection period"
+    result:
+      measure_type: other
+      estimate: 0.35
+      unit: "log-odds per sequential error (SD)"
+      model: "Variance 0.12 (sigma = 0.35). Random intercept variance 0.39 (sigma = 0.62)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The random variance estimate for the intercept was 0.39 (σ = 0.62) and for the effect of sequential errors was 0.12 (σ = 0.35)."
+    source_location: "Section 2.2.4"
+
+  - id: slope-correlation-addition-subtraction
+    sample:
+      value: 1765
+      unit: participants
+    comparison_ref: subtraction-users
+    outcome:
+      construct: "Stability of error-induced quitting across domains"
+      source_language: "users' individual effects of sequential errors on quitting (random slopes) in the addition and the subtraction game"
+      measure: "Correlation between each user's random slope in the addition game and in the subtraction game"
+      scale: "correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same data collection period, two games"
+    result:
+      measure_type: correlation
+      estimate: 0.64
+      p_value: "< .001"
+      model: "Correlation of extracted random effects. Baseline quitting rates (random intercepts) correlated r = .80 (p < .001)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "There was a strong correlation between users’ individual effects of sequential errors on quitting (random slopes) in the addition and the subtraction game (r = .64; p < .001)."
+    source_location: "Section 2.2.4; Figure 4"
+
+not_yet_extracted:
+  - "Replication part (Section 2.1, Table 1, Tables A1-A4): multi-state survival model transition intensities (persisting to hard-quit 0.0227, soft-quit to hard-quit 0.0284) and hazard ratios for 1, 2, 3 and >3 sequential errors by application and transition; 24,859 users. Figure 1's extracted labels are scrambled; Tables A1-A4 read cleanly but were not encoded."
+  - "Two-state Markov models on the addition game (Section 2.2.1, Tables B1-B3): baseline persisting-to-quitting rate 0.018; hazard ratios 7.36, 22.93, 17.61 and 17.65 for 1, 2, 3 and >3 vs 0 sequential errors (training); interaction effects. Figure 2's extracted text is scrambled; Table B1 reads cleanly."
+  - "About 31% of addition-game sessions ended prematurely (both datasets)."
+  - "Testing-data fixed and random effects (Tables C1, C2) beyond the values quoted in notes, and the ICCs for the testing data (69% and 56%)."
+  - "Figure 3 (post-error vs post-correct quit probability by session count): figure only."
+  - "Measures inconsistency: Section 2.2.3 says sequential errors range from 0 to 10, Section 4.4 says 0 to 9."
+  - "No reliability coefficient is printed for any measure; ability is the platform's Elo rating."

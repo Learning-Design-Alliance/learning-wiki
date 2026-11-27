@@ -101,6 +101,10 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                     "study_key": key,
                     "citation": study.get("citation"),
                     "doi": study.get("doi"),
+                    # A withdrawn or retracted source stays in the store so a
+                    # consumer already using it can find out; this field says so
+                    # on every row, beside the citation, where it cannot be missed.
+                    "publication_status": study.get("publication_status"),
                     # Present when the source is a research release of ours
                     # rather than somebody's paper: {ref, version}, pinned to
                     # the version that produced this result and never moved to
@@ -212,6 +216,10 @@ def explain(records: list, observation_id: str) -> int:
     release = prov.get("release")
     if prov.get("citation"):
         print(f"    {prov['citation']}")
+    ps = prov.get("publication_status")
+    if ps:
+        print(f"    ** {str(ps.get('status')).upper()}"
+              f"{' ' + str(ps.get('date')) if ps.get('date') else ''}: {ps.get('notice')} **")
     elif isinstance(release, dict):
         print(f"    research release {release.get('ref')}@{release.get('version')}"
               f"{'  analysis: ' + prov['analysis_ref'] if prov.get('analysis_ref') else ''}")
