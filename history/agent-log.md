@@ -14,7 +14,7 @@ The batch adds 15 files and 107 observations:
 - Chandler & Sweller (1991), Experiments 1, 2 and 6.
 - Giancola et al. (2024), Hermes et al. (2021), Delgado et al. (2018).
 
-Cowan (2014) gets no record: it is a review, and the simulator uses no figure of its own from it.
+Cowan (2014) gets no record: it is a review, and the simulator cites it only for the direction of capacity growth with age (its rate, .25 per half-year, is the simulator's own judgement).
 
 Tables the text layer garbled were read from page images of PDFs in the maintainer's Drive folder:
 - Bahrick & Hall: Tables 5, 6 and 8. These give the steps and weights for the rate of loss, and three claim pages gained edges.
