@@ -1,0 +1,388 @@
+# Chen, Sonnert, Sadler & Sunbury (2020): high school life science teachers'
+# item-level subject matter knowledge (SMK) and knowledge of student
+# misconceptions (KOSM), and their students' posttest correctness on the same
+# misconception-driven items.
+#
+# Read from the PMC full text (PMC8697650), text layer of the XML. The text layer
+# writes "&" as "&amp;" and "<" as "&lt;"; quotes are chosen to avoid both, so
+# every quote is the article's own characters. Chi-square statistics print as
+# "χ 2 (1)" (a superscript flattened); that spacing is the text layer's.
+#
+# The "arms" are not groups of people. A teacher's knowledge category is defined
+# per ITEM (did the teacher answer this item correctly; did the teacher name its
+# most popular wrong answer), so one student contributes item responses to more
+# than one category. The aggregate-level model instead puts each teacher in one
+# category by thresholds on their correct rates, so it has its own arms. No
+# condition was assigned; the design is observational.
+#
+# Sample counts disagree inside the article: the abstract says 79 biology
+# teachers, the Sample section 78 life science teachers at 78 schools. The record
+# uses the Sample section. Table 3's printed odds-ratio column does not equal the
+# exponentiated coefficients for the two teacher-knowledge rows of M1 (0.261 is
+# printed beside 1.195, 0.178 beside 1.298); the coefficients and SEs are
+# recorded and the odds ratios are not.
+
+schema_version: 2
+
+study:
+  key: chen-2020
+  citation: "Chen, C., Sonnert, G., Sadler, P. M., & Sunbury, S. (2020). The impact of high school life science teachers’ subject matter knowledge and knowledge of student misconceptions on students’ learning. CBE—Life Sciences Education, 19(1), ar9."
+  doi: "10.1187/cbe.19-08-0164"
+  design:
+    family: observational
+    design_detail: >-
+      Pre-post observational study over one school year (Fall 2017 to the end of
+      the year). Students and their teachers answered the same 29 multiple-choice
+      items at the start of the course; teachers also named the wrong answer
+      they expected most students to choose. Students answered the items again
+      at the end of the year. Teachers were asked to teach as usual. Three
+      analyses: a multilevel linear model of gain in correct rate with
+      threshold-based teacher categories (aggregate level), and two-level
+      logistic models of item posttest correctness controlling item pretest
+      correctness and demographics, without (M1) and with (M2) knowledge x
+      misconception-strength interactions; FDR-adjusted.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: misconception-strength-bifurcated-by-teacher-kosm
+    bearing: supports
+    anchor: chen-2020
+  - claim: misconception-strength-effect-masked-without-interaction
+    bearing: supports
+    anchor: chen-2020
+
+evidence_base:
+  unit: participants
+  size:
+    value: 2749
+    unit: participants
+  additional_sizes:
+    - value: 78
+      unit: other
+      note: "life science teachers, at 78 different U.S. high schools; students nested in their classes (the abstract says 79 biology teachers)"
+    - value: 29
+      unit: items
+      note: "misconception-driven multiple-choice items, the same at pretest and posttest"
+  population:
+    description: >-
+      U.S. high school students enrolled in a life science course in Fall 2017,
+      and their teachers. 44.8% male, 55.2% female; 59% White, 14% Hispanic,
+      9% Asian, 4% Black, 12% other. Highest parental education averaged
+      between some college and a 4-year degree. Median class size 28.
+    age_or_stage: "Student grade mean 9.76 (SD 0.97), range Grades 7 to 12 (Table 1)"
+    age: unreported
+  context:
+    setting: "Business-as-usual high school life science courses across the United States; tests in the first weeks and the last session of the course"
+  arms:
+    - id: smk-kosm
+      description: "Item-level condition: the student's teacher answered this item correctly and correctly named its most popular wrong answer."
+    - id: smk-only
+      description: "Item-level condition: the teacher answered this item correctly but did not name its most popular wrong answer."
+    - id: no-smk
+      description: "Item-level condition: the teacher answered this item incorrectly."
+    - id: agg-smk-kosm
+      description: "Aggregate-level category: the teacher's SMK and KOSM correct rates were both above the study's thresholds."
+    - id: agg-no-smk
+      description: "Aggregate-level category: the teacher's SMK and KOSM correct rates were both below the thresholds."
+
+comparisons:
+  - id: smk-kosm-vs-no-smk
+    kind: other
+    index_arm: smk-kosm
+    reference_arm: no-smk
+    description: "Item responses whose teacher had SMK and KOSM of the item against those whose teacher lacked SMK of it; observed, not assigned."
+  - id: smk-only-vs-no-smk
+    kind: other
+    index_arm: smk-only
+    reference_arm: no-smk
+    description: "Item responses whose teacher had SMK only against those whose teacher lacked SMK; observed, not assigned."
+  - id: smk-kosm-vs-smk-only
+    kind: other
+    index_arm: smk-kosm
+    reference_arm: smk-only
+    description: "Item responses whose teacher had SMK and KOSM against those whose teacher had SMK only: the KOSM increment."
+  - id: agg-smk-kosm-vs-agg-no-smk
+    kind: other
+    index_arm: agg-smk-kosm
+    reference_arm: agg-no-smk
+    description: "Students of teachers in the threshold-based SMK+KOSM category against students of teachers in the no-SMK category."
+  - id: whole-sample
+    kind: none
+    description: "Properties of the 29-item test and slopes over the whole sample; no contrast."
+
+observations:
+
+  - id: m1-smk-kosm-vs-no-smk
+    comparison_ref: smk-kosm-vs-no-smk
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "correctness in posttest items"
+      measure: "Binary correctness on each of 29 misconception-driven life science items at the end of the year"
+      scale: "log-odds coefficient, two-level logistic regression"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.261
+      standard_error: 0.033
+      p_value: "< 0.001 (FDR-adjusted)"
+      model: "Item-level model M1 (main effects), controlling item pretest, gender, parent education, grade and race/ethnicity; random intercept for teacher and random slope of misconception strength."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The printed odds ratio beside this coefficient (1.195) is not its
+      exponential; only the coefficient and SE are recorded. The number of
+      item responses analysed is not printed.
+    source_quote: "0.261 0.033 *** 1.195 −0.346 0.113 *** 0.685"
+    source_location: "Table 3, M1, Teacher's knowledge rows"
+
+  - id: m1-smk-only-vs-no-smk
+    comparison_ref: smk-only-vs-no-smk
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "correctness in posttest items"
+      measure: "Binary correctness on each of 29 misconception-driven life science items at the end of the year"
+      scale: "log-odds coefficient, two-level logistic regression"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.178
+      standard_error: 0.032
+      p_value: "< 0.001 (FDR-adjusted)"
+      model: "Item-level model M1 (main effects), covariates as above."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The printed odds ratio beside this coefficient (1.298) is not its exponential; only the coefficient and SE are recorded."
+    source_quote: "SMK-only vs. no-SMK 0.178 0.032 *** 1.298 −0.057 0.114 0.945"
+    source_location: "Table 3, M1, Teacher's knowledge rows"
+
+  - id: m1-smk-kosm-vs-smk-only-post-hoc
+    comparison_ref: smk-kosm-vs-smk-only
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "higher odds of answering an item correctly on the posttest"
+      measure: "Binary correctness on each of 29 misconception-driven life science items at the end of the year"
+      scale: "post hoc chi-square test of the two M1 coefficients"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: other
+      statistic: "chi2(1) = 53.40"
+      p_value: "< 0.001"
+      model: "Post hoc test on model M1."
+      interpretation: "Students had higher odds of a correct posttest answer when their teacher had both SMK and KOSM of the item than when the teacher had SMK only."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No difference coefficient or SE for this contrast is printed; only the test statistic."
+    source_quote: "compared with students whose teacher only had SMK of the item (post hoc test χ 2 (1) = 53.40, p"
+    source_location: "Results, Item-Level Model"
+
+  - id: m1-misconception-strength-main-effect
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "MS (item misconception strength)"
+      measure: "Binary correctness on each item, regressed on the item's misconception strength (share of wrong answers choosing the most popular wrong answer)"
+      scale: "log-odds coefficient per unit of misconception strength"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.083
+      standard_error: 0.050
+      model: "Item-level model M1, no interactions; not significant."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "MS (item misconception strength) 0.083 0.050 1.087 −0.899 0.224 *** 0.407"
+    source_location: "Table 3, M1"
+
+  - id: m2-misconception-strength-slope-no-smk
+    arm_ref: no-smk
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "The no-SMK group had a negative slope of misconception strength"
+      measure: "Binary correctness on each item, regressed on misconception strength, in the reference (no-SMK) condition"
+      scale: "log-odds coefficient per unit of misconception strength"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.899
+      standard_error: 0.224
+      p_value: "< 0.001 (FDR-adjusted)"
+      model: "Item-level model M2 with knowledge x misconception-strength interactions; no-SMK is the reference, so this is the no-SMK slope."
+      interpretation: "The authors: a 0.1 increase in misconception strength reduces the odds of a correct posttest answer by 8.6% in this group."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The no-SMK group had a negative slope of misconception strength, with a 0.1 increase in misconception strength reducing the odds of answering a posttest item correctly by 8.6% [exp(−0.899 × 0.1) − 1 = −0.086]."
+    source_location: "Results, Item-Level Model; Table 3, M2"
+
+  - id: m2-smk-kosm-by-misconception-strength
+    comparison_ref: smk-kosm-vs-no-smk
+    outcome:
+      construct: "Item correctness at posttest, controlling item pretest correctness"
+      source_language: "Interaction effects"
+      measure: "Difference between the SMK and KOSM condition's slope of misconception strength and the no-SMK slope"
+      scale: "log-odds interaction coefficient"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the school year, controlling start-of-year pretest"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.322
+      standard_error: 0.233
+      p_value: "< 0.001 (FDR-adjusted)"
+      model: "Item-level model M2. The SMK-only x MS interaction was 0.525 (SE 0.239)."
+      interpretation: "With the interaction the SMK and KOSM group is the only one with a positive slope: the authors compute a 4.3% rise in the odds of a correct answer per 0.1 of misconception strength."
+    moderators:
+      reported:
+        - variable: "Item misconception strength"
+          relationship: "The effect of the teacher having SMK and KOSM grows with the item's misconception strength; the SMK-only and no-SMK slopes are negative."
+          source_quote: "In combination, the model estimated that the three teachers’ knowledge groups had different slopes of misconception strength."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "with a 0.1 increase in misconception strength increasing the odds of answering a posttest item correctly by 4.3% (exp[(−0.899 + 1.322) × 0.1] − 1 = 0.043)."
+    source_location: "Results, Item-Level Model; Table 3, M2"
+
+  - id: aggregate-gain-smk-kosm-vs-no-smk
+    comparison_ref: agg-smk-kosm-vs-agg-no-smk
+    outcome:
+      construct: "Gain in correct rate"
+      source_language: "student gain in correct rate"
+      measure: "Each student's posttest minus pretest correct rate, separately for strong- and weak-misconception items"
+      scale: "proportion correct (gain)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "start to end of the school year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.048
+      standard_error: 0.011
+      p_value: "< 0.001"
+      model: >-
+        Aggregate-level multilevel linear model (students clustered in teachers)
+        with a strong/weak misconception-strength dummy, its interaction with
+        the teacher category, and gender, age, race/ethnicity and parental
+        education. Main effect of the category; SMK-only vs no-SMK was 0.039
+        (SE 0.016). Teachers with KOSM above but SMK below threshold were
+        excluded.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The thresholds that define the categories, and the analysed n after the exclusion, are not printed in the text read."
+    source_quote: "Teacher correct rate category SMK+KOSM vs. no-SMK 0.048 0.011 *** SMK-only vs. no-SMK 0.039 0.016 *"
+    source_location: "Table 2"
+
+  - id: test-internal-consistency
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the 29-item life science test"
+      source_language: "Cronbach alpha"
+      measure: "The 29 misconception-driven multiple-choice items selected for the pre/posttest"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pretest"
+    result:
+      measure_type: reliability
+      estimate: 0.88
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      Printed in the item-selection paragraph beside the "pretest eigenvalue"
+      of the first factor. The article does not say whether the alpha was
+      computed on this study's pretest or on the field-test sample (9740
+      students of 187 teachers) used to select the items.
+    source_quote: "Cronbach alpha = 0.88), a range of difficulty (from 0.25 to 0.84, mean of 0.56), high discrimination, low gender bias, and a range of misconception strength"
+    source_location: "Data and Methods, Pre- and Posttest Development"
+
+not_yet_extracted:
+  - "Odds ratios in Table 3: the printed column does not match the coefficients for the M1 teacher-knowledge rows (see header); not recorded."
+  - "Aggregate-level post hoc tests (weak-MS items SMK&KOSM vs SMK-only F(1, 2743) = 0.40; strong-MS items SMK-only vs no-SMK F(1, 2743) = 0.27) and the Strong-MS x category interactions."
+  - "Figure 2 contrasts at misconception strength 0.4 and at the high end (margins 0.08, 0.10, 0.20, with the authors' effect sizes 0.38, 0.48 and 0.95 of a pretest SD): figure-based, effect sizes computed by the authors against a 0.17 pretest SD."
+  - "Figure 3 probabilities of maintaining and gaining correctness."
+  - "Table 1 descriptives: pretest 0.56 (SD 0.17), posttest 0.64 (SD 0.19); teachers' average SMK 0.93 and KOSM 0.31."

@@ -1,0 +1,313 @@
+# Bailey, Oh, Farkas, Morgan & Hillemeier (2020): reading and mathematics from
+# kindergarten to Grade 3 in ECLS-K:2011, fitted as a cross-lagged panel model
+# (CLPM) and as a random-intercept CLPM (RI-CLPM).
+#
+# Read from the author manuscript (APA "manuscript version", text layer). The
+# manuscript's Figure 2, which holds the path estimates, is an image and is not
+# in the text; every path figure below comes from the prose. Table 2's text layer
+# is scrambled (rows of different models interleave), so no Table 2 cell is
+# recorded; only the prose summary of it is.
+#
+# The two models are not arms: they are two analyses of one sample. Each is a
+# `kind: none` comparison so that an observation says which model produced it.
+#
+# Ranges over autoregressive paths: the four-wave bivariate model (Figure 1, K to
+# Grade 3) has one-year autoregressive paths for each domain at each of three
+# lags, six in all. The source prints the range, not the count; the count of 6
+# in `over` is read from the model's parameterisation, and is said so in each
+# observation's notes.
+
+schema_version: 2
+
+study:
+  key: bailey-2020
+  citation: "Bailey, D. H., Oh, Y., Farkas, G., Morgan, P., & Hillemeier, M. (2020). Reciprocal effects of reading and mathematics? Beyond the cross-lagged panel model. Developmental Psychology, 56(5), 912–921."
+  doi: "10.1037/dev0000902"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Secondary analysis of a nationally representative observational panel
+      (ECLS-K:2011), four spring waves from kindergarten to Grade 3. Reading and
+      mathematics IRT scale scores modelled with a traditional CLPM and with
+      extensions that add stable person-level factors (RI-CLPM, ST-CLPM; eight
+      variants in the online supplement). No intervention and no assignment.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: stable-reading-math-latent-factors-correlate-94
+    bearing: supports
+    anchor: bailey-et-al-2020
+  - claim: clpm-replicates-asymmetric-prediction-high-autoregressive
+    bearing: supports
+    anchor: bailey-et-al-2020
+  - claim: kindergarten-math-boost-persistent-effects-model-dependent
+    bearing: supports
+    anchor: bailey-et-al-2020
+  - claim: early-math-intervention-reading-transfer-may-be-misdirected
+    bearing: supports
+    anchor: bailey-et-al-2020
+  - claim: reading-math-high-correlation-and-comorbidity
+    bearing: supports
+    anchor: bailey-et-al-2020
+
+evidence_base:
+  unit: participants
+  size:
+    value: 9612
+    unit: participants
+  additional_sizes:
+    - value: 9646
+      unit: participants
+      note: "longitudinal panel sample before exclusion; 34 children with data missing on all variables were excluded"
+    - value: 7181
+      unit: participants
+      note: "sensitivity sub-sample who stayed in the same school from kindergarten to Grade 4, re-estimated with school-level nesting (online supplement)"
+  population:
+    description: >-
+      Nationally representative U.S. children entering kindergarten in 2010-11
+      (ECLS-K:2011 public-use file). Unweighted analytic sample 51% male; 52%
+      White, 10% African American, 25% Hispanic, 8% Asian; about 20% in
+      households below the poverty threshold. 99% had complete assessment data
+      at all four time points.
+    age_or_stage: "Kindergarten to Grade 3"
+    age:
+      unit: years
+      mean: 6.13
+      sd: 0.37
+      note: "As printed for the analytic sample; the article does not say at which wave the age was taken."
+  context:
+    setting: "U.S. schools; individually administered two-stage adaptive reading and mathematics assessments in the spring of kindergarten and of Grades 1, 2 and 3"
+  arms: []
+
+comparisons:
+  - id: descriptive-whole-sample
+    kind: none
+    description: "Observed correlations in the whole analytic sample, before any model."
+  - id: clpm-model
+    kind: none
+    description: "Traditional cross-lagged panel model (Model 1A in the supplement) fitted to the whole sample; no stable person-level factors."
+  - id: ri-clpm-model
+    kind: none
+    description: "Random-intercept cross-lagged panel model (Model 2A) fitted to the whole sample: stable math and reading factors separate between-person from within-person variation."
+  - id: ri-and-st-clpm-models
+    kind: none
+    description: "The RI-CLPM and state-trait CLPM variants together, as the source summarises them; whole sample."
+
+observations:
+
+  - id: concurrent-reading-math-correlation
+    sample:
+      value: 9612
+      unit: participants
+    comparison_ref: descriptive-whole-sample
+    outcome:
+      construct: "Concurrent reading-mathematics correlation"
+      source_language: "cross-domain, same wave correlations"
+      measure: "ECLS-K:2011 reading and mathematics IRT scale scores at the same wave"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each spring wave, kindergarten to Grade 3"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.72
+        upper: 0.74
+        over:
+          value: 4
+          unit: other
+          note: "waves (spring K, Grade 1, Grade 2, Grade 3)"
+      note: ".73 at kindergarten and Grade 1, .74 at Grade 2, .72 at Grade 3."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Specifically, cross-domain, same wave correlations were .73 at kindergarten and 1st grade, .74 at 2nd grade, and .72 at 3rd grade wave."
+    source_location: "Results, descriptive statistics; Table 1"
+
+  - id: stable-factor-correlation-ri-clpm
+    sample:
+      value: 9612
+      unit: participants
+    comparison_ref: ri-clpm-model
+    outcome:
+      construct: "Correlation between stable reading and mathematics factors"
+      source_language: "The correlation between stable math and reading factors"
+      measure: "Correlation of the random-intercept (time-invariant) math and reading latent factors in the RI-CLPM"
+      scale: "latent factor correlation (phi)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "kindergarten to Grade 3, time-invariant factors"
+    result:
+      measure_type: correlation
+      estimate: 0.94
+      model: "RI-CLPM (Model 2A), unweighted; the article says factor correlations are near unity in all the alternative models in the supplement."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The correlation between stable math and reading factors is near unity (φ = .94), consistent with the interpretation that the empirically stable individual and environmental factors affecting children’s math and reading achievement similarly throughout this developmental period substantially overlap."
+    source_location: "Results, Parameter Estimates"
+
+  - id: autoregressive-paths-clpm
+    sample:
+      value: 9612
+      unit: participants
+    comparison_ref: clpm-model
+    outcome:
+      construct: "One-year within-domain stability"
+      source_language: "autoregressive paths"
+      measure: "Standardised one-year autoregressive paths for reading and mathematics in the CLPM"
+      scale: "standardised path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one-year lags, kindergarten to Grade 3"
+      offset:
+        value: 1
+        unit: years
+        from: "the earlier wave"
+    result:
+      measure_type: regression_coefficient
+      estimate_range:
+        lower: 0.74
+        upper: 0.81
+        over:
+          value: 6
+          unit: other
+          note: "autoregressive paths (two domains x three one-year lags); the count is read from the model's parameterisation, not printed"
+      model: "CLPM (Model 1A); the same fit also shows larger math-to-reading than reading-to-math cross-lagged paths."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The individual paths are in Figure 2, which is an image not present in
+      the manuscript's text layer; only the printed range is recorded.
+    source_quote: "In the CLPM, we replicate previous findings of asymmetric prediction and high autoregressive paths (Duncan et al., 2007), with higher cross-lagged paths from math to reading than from reading to math, and very high autoregressive paths ranging from .74 to .81."
+    source_location: "Results, Parameter Estimates; Figure 2"
+
+  - id: autoregressive-paths-ri-clpm
+    sample:
+      value: 9612
+      unit: participants
+    comparison_ref: ri-clpm-model
+    outcome:
+      construct: "One-year within-domain stability, net of stable factors"
+      source_language: "autoregressive paths"
+      measure: "Standardised one-year within-person autoregressive paths for reading and mathematics in the RI-CLPM"
+      scale: "standardised path coefficient"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one-year lags, kindergarten to Grade 3"
+      offset:
+        value: 1
+        unit: years
+        from: "the earlier wave"
+    result:
+      measure_type: regression_coefficient
+      estimate_range:
+        lower: 0.23
+        upper: 0.65
+        over:
+          value: 6
+          unit: other
+          note: "autoregressive paths (two domains x three one-year lags); the count is read from the model's parameterisation, not printed"
+      model: "RI-CLPM (Model 2A). The authors compare the range with a pre-specified prior of .33-.50, which they take from other studies of intervention fade-out, not from these data."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The individual paths are in Figure 2, an image not in the text layer. The
+      .33-.50 benchmark is cited from Bailey et al. (2018) and Li et al. (2017)
+      and is not recorded as this study's figure.
+    source_quote: "In the RI-CLPM, autoregressive paths were closer to the pre-specified range of .33-.50, ranging from .23 to .65, providing convergent evidence for the alternative models relative to the CLPM."
+    source_location: "Results, Parameter Estimates; Figure 2"
+
+  - id: kindergarten-math-boost-total-effect-ri-st-clpm
+    sample:
+      value: 9612
+      unit: participants
+    comparison_ref: ri-and-st-clpm-models
+    outcome:
+      construct: "Model-implied persistence of a kindergarten mathematics boost to Grade 3"
+      source_language: "estimated effects of a hypothetical 1 SD boost to kindergarten math or reading achievement on grade 3 math and reading achievement"
+      measure: "Total effect, implied by each fitted model, of a 1 SD gain in spring-kindergarten mathematics on Grade 3 mathematics and on Grade 3 reading"
+      scale: "SD of Grade 3 achievement per 1 SD of kindergarten mathematics"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring kindergarten to spring Grade 3"
+      offset:
+        value: 3
+        unit: years
+        from: "spring of kindergarten"
+    result:
+      measure_type: regression_coefficient
+      bound:
+        operator: "<="
+        value: 0.06
+      model: >-
+        Every RI-CLPM and ST-CLPM variant in Table 2, for both Grade 3 outcomes.
+        By contrast the CLPMs and Duncan et al. (2007) give about .5 for Grade 3
+        mathematics and .27 to .37 for Grade 3 reading. These are model-implied
+        effects of a hypothetical boost, not effects of any intervention.
+      interpretation: "The authors read this as the CLPM's persistent cross-domain effects being largely an artefact of unmodelled stable factors."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The source prints the per-model values in Table 2, whose text layer is
+      scrambled; only the bound stated in the prose is recorded.
+    source_quote: "In contrast, all of the corresponding estimated effects in the RI-CLPM and ST-CLPM models are .06 or below."
+    source_location: "Results, Parameter Estimates; Table 2"
+
+not_yet_extracted:
+  - "Reliability of the reading (.87 to .95) and mathematics (.73 to .85) assessments: cited from the ECLS-K:2011 user's manual (Tourangeau et al., 2018), not computed in this article."
+  - "The .33-.50 prior for one-year autoregressive paths, from Bailey et al. (2018) and Li et al. (2017): another study's figure."
+  - "Table 1 means and SDs of the reading and mathematics scale scores at each wave, and the full correlation matrix (lagged within-domain .64 to .88; cross-domain .59 to .74)."
+  - "Variance decomposition: about 22.5% (reading) and 17.8% (math) of total variance due to time-specific within-student change; school-level ICCs .19 to .21 (reading) and .20 to .22 (math)."
+  - "Early-math-to-later-reading paths reduced from .18 to .28 in the CLPMs to -.01 to .09 in the best-fitting ST-CLPM and RI-CLPM models (Discussion): a range over unstated models and lags."
+  - "Table 2 per-model total effects: text layer scrambled, rows of different models interleave; not recorded."
+  - "Fit statistics (CFI, TLI, RMSEA) and the eight supplementary model variants (Tables S1, S2, Figure S1): in the online supplement, not read."

@@ -1,0 +1,380 @@
+# Chandler & Sweller (1991), Experiment 1: integrated against conventional
+# split-source installation-testing notes for first-year electrical apprentices,
+# tested at the end of a one-week course, one week later and about 12 weeks later.
+#
+# Read from the University of Wollongong repository copy (journal pages, text
+# layer only; no PDF beside it). Two text-layer artefacts, both kept out of the
+# quotes: the written-test F prints as "F(1, 26) == 8.60" and the practical-test
+# F as "F(l, 18)". The figures are recorded in `statistic`, and each quote is the
+# clause in front of them.
+#
+# Table 2's text layer is linearised, not scrambled: the header lists the five
+# columns (Period 1 written; Period 2 practical tests 1 and 2; Period 3 written
+# and practical test 1) and the cells follow as M, SD pairs, conventional group
+# then modified group. Every recorded mean agrees with the prose (the modified
+# group higher on both written tests; the conventional group's 12-week mean below
+# the modified group's first mean). The quotes for those means are the
+# linearised cell run, as printed.
+#
+# Experiment 2 used the same 28 apprentices at the same time
+# (chandler-1991-exp2).
+
+# Table values were checked against page images of the publisher PDF (Table 2
+# p. 303, Table 7 p. 327) and match the column reading of the text layer.
+
+schema_version: 2
+
+study:
+  key: chandler-1991-exp1
+  citation: "Chandler, P., & Sweller, J. (1991). Cognitive load theory and the format of instruction. Cognition and Instruction, 8(4), 293–332."
+  doi: "10.1207/s1532690xci0804_2"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-group between-subjects experiment inside a company's normal training
+      programme. The course instructor randomly allocated apprentices, 14 to
+      each group; the experimenter and the senior instructor who tested did not
+      know the allocation. Written test at the end of the one-week course and
+      again about 12 weeks later (2 x 2 ANOVA, repeated measures on test
+      period); practical tests one week and about 12 weeks after the course.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: integrated-instructions-superior-written-tests-exp1
+    bearing: supports
+    anchor: chandler-1991
+
+evidence_base:
+  unit: participants
+  size:
+    value: 28
+    unit: participants
+  additional_sizes:
+    - value: 20
+      unit: participants
+      note: "available for the practical tests in the second test period, 10 from each group"
+  population:
+    description: >-
+      First-year trade apprentices of a Sydney, Australia, company, enrolled in
+      first-year trade courses at technical colleges; none had prior formal
+      training in electrical areas.
+    age_or_stage: "All had completed at least Year 10 of high school"
+    age: unreported
+  context:
+    setting: "The training centre of a major Sydney company; the domestic wiring course of a rotating multiskilling programme, one week long"
+  arms:
+    - id: conventional
+      description: "Conventional split-source introductory notes on installation testing: a 10-page booklet close to the company's regular notes, with text and diagrams presented separately."
+      size:
+        value: 14
+        unit: participants
+      dose:
+        detail: "Notes handed out on day 2 of the one-week course and available throughout it, including during practical work"
+    - id: modified
+      description: "The same information in an integrated format: mutually referring text and diagram combined into unitary sources where possible."
+      size:
+        value: 14
+        unit: participants
+      elements:
+        - term: "physically integrated text and diagram"
+      dose:
+        detail: "Notes handed out on day 2 of the one-week course and available throughout it, including during practical work"
+
+comparisons:
+  - id: modified-vs-conventional
+    kind: between-groups
+    index_arm: modified
+    reference_arm: conventional
+    description: "Integrated (modified) notes against conventional split-source notes, same content."
+
+observations:
+
+  - id: written-test-group-main-effect
+    sample:
+      value: 28
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Installation-testing knowledge"
+      source_language: "written test on installation testing"
+      measure: "28 objective questions on conductors in permanent wiring, earthing continuity, appliance testing and multimeters, each marked correct or incorrect"
+      scale: "F for the Groups main effect, 2 x 2 repeated-measures ANOVA over test periods 1 and 3"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of course and about 12 weeks later, pooled in the main effect"
+    result:
+      measure_type: other
+      statistic: "F(1, 26) = 8.60, MSe = 553.14"
+      interpretation: "Significant main effect favouring the modified group (.05 level); the Groups x Test Periods interaction was not significant, F(1, 26) = .63."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      No standardised effect size is printed. The text layer renders the equals
+      signs as "==".
+    source_quote: "Results showed a significant main effect for groups in the predicted direction,"
+    source_location: "Experiment 1, Results and Discussion, p. 302"
+
+  - id: written-test-period1-mean-conventional
+    sample:
+      value: 14
+      unit: participants
+    arm_ref: conventional
+    outcome:
+      construct: "Installation-testing knowledge"
+      source_language: "Written Test"
+      measure: "28-question written test"
+      scale: "marks out of 28"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 1, at the end of the one-week course"
+    result:
+      measure_type: mean
+      estimate: 8.2
+      sd: 7.3
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+  - id: written-test-period1-mean-modified
+    sample:
+      value: 14
+      unit: participants
+    arm_ref: modified
+    outcome:
+      construct: "Installation-testing knowledge"
+      source_language: "Written Test"
+      measure: "28-question written test"
+      scale: "marks out of 28"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 1, at the end of the one-week course"
+    result:
+      measure_type: mean
+      estimate: 13.8
+      sd: 6.2
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+  - id: written-test-period3-mean-conventional
+    sample:
+      value: 14
+      unit: participants
+    arm_ref: conventional
+    outcome:
+      construct: "Installation-testing knowledge"
+      source_language: "Written Test"
+      measure: "28-question written test, second attempt"
+      scale: "marks out of 28"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 3, about 12 weeks after the course"
+      offset:
+        value: 12
+        unit: weeks
+        from: "end of the domestic wiring course"
+    result:
+      measure_type: mean
+      estimate: 10.1
+      sd: 5.6
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The source says the follow-up was 'approximately 12 weeks' after the course."
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+  - id: written-test-period3-mean-modified
+    sample:
+      value: 14
+      unit: participants
+    arm_ref: modified
+    outcome:
+      construct: "Installation-testing knowledge"
+      source_language: "Written Test"
+      measure: "28-question written test, second attempt"
+      scale: "marks out of 28"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 3, about 12 weeks after the course"
+      offset:
+        value: 12
+        unit: weeks
+        from: "end of the domestic wiring course"
+    result:
+      measure_type: mean
+      estimate: 17.1
+      sd: 5.3
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The source says the follow-up was 'approximately 12 weeks' after the course."
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+  - id: practical-test1-group-main-effect
+    sample:
+      value: 20
+      unit: participants
+    comparison_ref: modified-vs-conventional
+    outcome:
+      construct: "Appliance safety-testing skill"
+      source_language: "first practical test (appliance testing using an electric kettle)"
+      measure: "Four megger-meter safety tests on an electric kettle, one mark for each test performed and one for each required reading recalled; notes not available"
+      scale: "F for the Groups main effect, 2 x 2 repeated-measures ANOVA over test periods 2 and 3"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "one week and about 12 weeks after the course, pooled in the main effect"
+    result:
+      measure_type: other
+      statistic: "F(1, 18) = 33.72, MSe = 87.03"
+      interpretation: "Significant main effect favouring the modified group; the interaction with test period was not significant, F(1, 18) = .58. The second practical test (light switch, period 2 only) showed no significant difference, t(18) = 1.24."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Eight of the 28 apprentices were not available for the practical tests;
+      the source does not say why. The text layer prints the df as "F(l, 18)".
+    source_quote: "there was a significant main effect due to groups,"
+    source_location: "Experiment 1, Results and Discussion, pp. 302-303"
+
+  - id: practical-test1-period2-mean-conventional
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional
+    outcome:
+      construct: "Appliance safety-testing skill"
+      source_language: "Practical Test 1"
+      measure: "Four megger-meter safety tests on an electric kettle"
+      scale: "marks out of 8"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 2, one week after the course"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of the domestic wiring course"
+    result:
+      measure_type: mean
+      estimate: 1.9
+      sd: 1.2
+      unit: "marks out of 8"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+  - id: practical-test1-period2-mean-modified
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: modified
+    outcome:
+      construct: "Appliance safety-testing skill"
+      source_language: "Practical Test 1"
+      measure: "Four megger-meter safety tests on an electric kettle"
+      scale: "marks out of 8"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test period 2, one week after the course"
+      offset:
+        value: 1
+        unit: weeks
+        from: "end of the domestic wiring course"
+    result:
+      measure_type: mean
+      estimate: 4.5
+      sd: 1.8
+      unit: "marks out of 8"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "8.2 7.3 1.9 1.2 1.2 0.9 10.1 5.6 2.1 1.8 13.8 6.2 4.5 1.8 1.9 1.5 17.1 5.3 5.4 1.2"
+    source_location: "Table 2, p. 303 (linearised in the text layer; see header)"
+
+not_yet_extracted:
+  - "Table 2 cells not recorded: practical test 2 at period 2 (conventional 1.2, SD 0.9; modified 1.9, SD 1.5) and practical test 1 at period 3 (conventional 2.1, SD 1.8; modified 5.4, SD 1.2)."
+  - "Test-period main effect on the written test, F(1, 26) = 8.68, MSe = 97.79, and on the practical test, F(1, 18) = 1.42."
+  - "No reliability or agreement coefficient is printed; the practical tests were scored by the experimenter and a senior instructor blind to group."
+  - "No study time or other direct cognitive-load measure: the authors say none was possible in this setting."

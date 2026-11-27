@@ -1,0 +1,1070 @@
+# Bahrick & Hall (1991): retention of high school algebra and geometry content
+# over up to about 50 years, by cross-sectional hierarchical regression.
+#
+# First extraction (2026-11-26) read the text layer of the published article
+# (pdftotext, reading order). A second pass (2026-11-27) viewed every page of
+# the publisher PDF as an image and checked each recorded number against it;
+# all prose figures recorded in the first pass match the page.
+#
+# QUOTES TAKEN FROM PAGE IMAGES (the article's own characters, not the text
+# layer's; line-break hyphens are joined, so these are not substrings of the
+# text layer):
+#   - algebra1-retention-interval-multiple-r and
+#     geometry-retention-interval-multiple-r: the full sentence on p. 29. The
+#     text layer interleaves it with the other column and prints "of. 17";
+#     the page prints "of .17".
+#   - algebra1-final-multiple-r: the page prints "(R = .69 vs. R = .81)"; the
+#     text layer had "K = .69".
+#   - every observation whose source_location names Table 5, 6, 8 or 9: the
+#     quote is that table's row as printed on the page (pp. 24, 27, 28),
+#     read at 260-300 dpi. The text layer runs these tables' columns together.
+# All other quotes are from the text layer and were checked against the page.
+#
+# The article prints two different reliability figures for the same two
+# tests: odd-even split-half, Spearman-Brown corrected, .94 (algebra) and .93
+# (geometry) in the Method (Pilot Testing, p. 21), and "(.98 for algebra and
+# .95 for geometry)" in the Discussion (p. 30) with no coefficient named; both
+# confirmed on the page images. Both observations below record the Method
+# figures, whose coefficient is stated; the discrepancy is noted on each.
+#
+# Tables 5 and 6 are the Algebra 1 hierarchical regression. In Table 6 the
+# retention-interval term ATIME is the natural logarithm of (retention
+# interval + 1) (Table 3), so a positive weight on an X x ATIME interaction
+# means higher X goes with less decline as log time grows. No weight is
+# converted or combined here.
+#
+# No age figure is printed for the sample as a whole; only the adult controls'
+# range (19 to 84) and the recruiting band for younger participants (16 to 30)
+# are given, so `age: unreported` and the words go in age_or_stage.
+#
+# The front matter prints no DOI (1991); the journal, volume, issue and pages
+# (JEP: General 120(1), 20-33) agree with 10.1037/0096-3445.120.1.20.
+
+schema_version: 2
+
+study:
+  key: bahrick-1991
+  citation: "Bahrick, H. P., & Hall, L. K. (1991). Lifetime maintenance of high school mathematics content. Journal of Experimental Psychology: General, 120(1), 20-33."
+  doi: "10.1037/0096-3445.120.1.20"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional study: participants who varied in time since their last
+      algebra course (or since plane geometry) took one test of Algebra 1 and
+      Algebra 2 content and/or one of plane geometry content, and a
+      questionnaire on courses, grades, test scores and rehearsal. Hierarchical
+      multiple regression predicted test scores from the retention interval
+      (log, squared and cubed), original-learning variables, rehearsal and
+      gender, then interactions of each with the retention interval, which the
+      authors read as effects on the rate of decline. Retention functions are
+      the regression equation evaluated for profiles of predictor values
+      (Table 7), not observed group means. Course and score data were checked
+      against registrar and testing-service records for 661 participants.
+      Student and adult control groups had never taken the course.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: college-math-courses-prevent-algebra-loss-decades
+    bearing: supports
+    anchor: bahrick-1991
+  - claim: grades-sat-predict-level-not-decline-rate
+    bearing: supports
+    anchor: bahrick-1991
+  - claim: grades-sat-predict-level-not-decline-rate
+    bearing: supports
+    anchor: bahrick-1991-2
+  - claim: geometry-content-declines-less-than-algebra
+    bearing: supports
+    anchor: bahrick-1991
+  - claim: geometry-content-declines-less-than-algebra
+    bearing: supports
+    anchor: bahrick-1991-2
+  # GRADE x ATIME (Table 6) is a statistically significant weight on the rate
+  # of loss (p .01), so the record qualifies "trivial effects on the rate" as
+  # well as supporting "predict level" (GRADE main effect).
+  - claim: grades-sat-predict-level-not-decline-rate
+    bearing: qualifies
+    anchor: bahrick-1991
+  - claim: gender-difference-algebra-decline-rate
+    bearing: supports
+    anchor: bahrick-1991
+  - claim: recall-recognition-equal-decline-naturalistic
+    bearing: supports
+    anchor: bahrick-1991
+  - claim: item-loss-predicted-control-group-performance
+    bearing: supports
+    anchor: bahrick-1991
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1726
+    unit: participants
+  additional_sizes:
+    - value: 1050
+      unit: participants
+      note: "took the algebra test, including 110 student controls and 13 adult controls"
+    - value: 946
+      unit: participants
+      note: "took the geometry test, including 61 student controls and 25 adult controls"
+    - value: 270
+      unit: participants
+      note: "took both tests, usually on different days"
+    - value: 927
+      unit: participants
+      note: "algebra subjects excluding controls (Table 1)"
+    - value: 860
+      unit: participants
+      note: "geometry subjects excluding controls (Table 1)"
+    - value: 661
+      unit: participants
+      note: "whose reported course dates, courses, grades and SAT/ACT scores were checked against registrar and Educational Testing Service records (38% of the sample)"
+    - value: 284
+      unit: participants
+      note: "with standardized test scores available, analysed in a separate regression"
+  population:
+    description: >-
+      Ohio participants who had taken high school algebra and/or plane
+      geometry between about 1937 and 1986, recruited at local high schools,
+      Ohio Wesleyan University and the Ohio State University, and among Ohio
+      Wesleyan alumni and members of local churches and service
+      organisations. Control groups had never taken the course: students due
+      to begin it the following fall, and adults whose educational level
+      approximated that of the other participants.
+    age_or_stage: >-
+      Persons between 16 and 30 were recruited mainly at high schools and
+      universities, older participants from alumni and community groups;
+      adult controls ranged in age from 19 to 84. No age figure is printed
+      for the sample as a whole.
+    age: unreported
+  context:
+    setting: "Tests given individually and to groups of up to 200 in laboratories, high school classrooms and church space, spring 1986 to fall 1987; no time limit, most finishing within 90 minutes"
+  variation:
+    - dimension: "Retention interval"
+      distribution: "From 0 to 74 years since acquisition (Table 1 bands 0 to 55.1-74.0); Table 1 prints per-band counts for 927 algebra and 860 geometry subjects, not recorded here"
+    - dimension: "Highest level of mathematics taken"
+      distribution: "Below calculus, calculus, above calculus (Table 2 cross-tabulates these against reported level of rehearsal, 0 to 5; not recorded here)"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Regression and correlation results over the participants analysed; no contrast between assigned groups."
+
+observations:
+
+  - id: algebra-test-reliability
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra content knowledge"
+      source_language: "reliability of .94 for the algebra test"
+      measure: "Final algebra test: recall and recognition (multiple choice) items on Algebra 1 and Algebra 2 content, ordered by difficulty"
+      scale: "odd-even split-half reliability, Spearman-Brown corrected"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pilot testing, before the final administration"
+    result:
+      measure_type: reliability
+      estimate: 0.94
+      reliability:
+        statistic: other
+        over: items
+        form: "Odd-even reliability coefficients corrected by the Spearman Brown formula"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      Reported in the Pilot Testing section for "the final ... algebra test";
+      the article does not say whether it was computed on the 92 pilot
+      participants or on the main sample. The Discussion gives a different
+      figure for the same test (".98 for algebra"), naming no coefficient;
+      that figure is not recorded here.
+    source_quote: "Odd-even reliability coefficients corrected by the Spearman Brown formula indicated a reliability of .93 for the final geometry test and .94 for the algebra test."
+    source_location: "Method, Pilot Testing"
+
+  - id: geometry-test-reliability
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Plane geometry content knowledge"
+      source_language: "reliability of .93 for the final geometry test"
+      measure: "Final geometry test: recall and recognition items on plane geometry content, ordered by difficulty"
+      scale: "odd-even split-half reliability, Spearman-Brown corrected"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pilot testing, before the final administration"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: other
+        over: items
+        form: "Odd-even reliability coefficients corrected by the Spearman Brown formula"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      As for the algebra test: computed at pilot testing (103 geometry pilot
+      participants) or on the main sample, the article does not say. The
+      Discussion gives ".95 for geometry", naming no coefficient.
+    source_quote: "Odd-even reliability coefficients corrected by the Spearman Brown formula indicated a reliability of .93 for the final geometry test and .94 for the algebra test."
+    source_location: "Method, Pilot Testing"
+
+  - id: more-math-courses-minimal-algebra-loss
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Retention of Algebra 1 content"
+      source_language: "minimal losses during the course of more than 50 years"
+      measure: "Algebra 1 test score as predicted by the final regression equation for profiles differing in number and level of mathematics courses (Figures 1 and 2), rehearsal set at zero"
+      scale: "chance-adjusted proportion of the score at the start of the retention interval lost (Figure 2)"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval up to about 50 years after the last algebra course"
+    result:
+      measure_type: qualitative
+      finding: >-
+        In profiles predicted by the regression, participants who took three or
+        more college mathematics courses with the highest above calculus show
+        minimal losses of Algebra 1 content over more than 50 years while
+        reporting no rehearsal; those who took no further algebra courses
+        decline to the control-group level; intermediate training falls in an
+        orderly hierarchy between.
+      perspective: researcher
+      collection_method: "Evaluation of the final regression equation for predictor profiles (Table 7), plotted in Figures 1 and 2"
+      interpretation: >-
+        A description of model-predicted retention functions, not of observed
+        group means. Level and number of courses are confounded, and the
+        authors note that longer acquisition periods and relearning in later
+        courses go with them. The plotted values are in figures and are not
+        given as numbers in the text.
+    moderators:
+      reported: []
+      candidate:
+        - "Spacing of acquisition over several years, which the authors say is confounded with the number of courses taken"
+        - "Self-selection of those who continue to take mathematics courses, which the authors say may play a role"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Those who have taken three or more college mathe- matics courses with the highest level course above calculus show minimal losses during the course of more than 50 years even though they report no rehearsal activities during that period."
+    source_location: "Results and Discussion, Effect of number and level of mathematics courses taken (Figure 2)"
+
+  - id: sat-retention-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra retention test performance"
+      source_language: "the retention scores"
+      measure: "Algebra test score against SAT or equivalent ACT score"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: correlation
+      estimate: 0.65
+      interpretation: "The highest correlation of any variable with the retention scores."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The n for this correlation is not printed; standardized scores were
+      unavailable for two thirds of participants, and the separate regression
+      used 284. The sentence follows the algebra analysis; the article does
+      not say explicitly that the correlation is for the algebra test.
+    source_quote: "test scores (i.e., SAT or equivalent ACT scores) had the highest correlation with the retention scores (r = .65)."
+    source_location: "Results and Discussion, Effect of standardized test scores"
+
+  - id: sat-subsample-final-multiple-r
+    sample:
+      value: 284
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "the final multiple correlation"
+      measure: "Hierarchical regression of Algebra 1 test score with standardized test scores added, including their interaction with the retention interval"
+      scale: "multiple correlation R"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 0.85
+      statistic: "multiple R"
+      interpretation: >-
+        The standardized-score by retention-interval interaction was not
+        statistically significant, which the authors read as standardized
+        scores not significantly affecting the rate of loss. No test statistic
+        or p value is printed for the interaction.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A non-significant interaction is not a demonstrated absence of an
+      effect on rate; the article prints no estimate or power for it.
+      Standardized scores were mostly unavailable for those tested 30 or more
+      years after the course and for high school students.
+    source_quote: "The addition of standardized scores increased the final multiple correlation to .85, but did not yield a statistically significant interaction between standardized scores and the retention interval, indicating that the scores per se do not significantly affect the rate of loss."
+    source_location: "Results and Discussion, Effect of standardized test scores"
+
+  - id: algebra1-grade-test-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "Algebra 1 test per- formance"
+      measure: "Algebra 1 test score against Algebra 1 course grade"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: correlation
+      estimate: 0.41
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The n for this correlation is not printed."
+    source_quote: "the corre- lation between grade in plane geometry and geometry test performance is actually slightly higher than the comparable correlation between Algebra 1 grade and Algebra 1 test per- formance (r = .48 vs. r = .41)."
+    source_location: "Comparing Retention of Algebra and Geometry Content"
+
+  - id: geometry-grade-test-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Plane geometry retention test performance"
+      source_language: "geometry test performance"
+      measure: "Geometry test score against plane geometry course grade"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: correlation
+      estimate: 0.48
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The n for this correlation is not printed."
+    source_quote: "the corre- lation between grade in plane geometry and geometry test performance is actually slightly higher than the comparable correlation between Algebra 1 grade and Algebra 1 test per- formance (r = .48 vs. r = .41)."
+    source_location: "Comparing Retention of Algebra and Geometry Content"
+
+  - id: algebra1-retention-interval-multiple-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "Algebra 1 test scores"
+      measure: "Algebra 1 test score regressed on the three retention-interval terms alone (first step)"
+      scale: "multiple correlation R"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval 0 to about 50 years"
+    result:
+      measure_type: other
+      estimate: 0.39
+      statistic: "multiple R"
+      interpretation: "The authors read the larger R for algebra than for geometry (.17) as a larger overall decline for algebra content, while calling the magnitude and causes of the difference conjectural."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      R is a fit statistic for the time terms, not a rate of loss; its sign
+      and the shape of decline are in Figures 1 and 2. Table 5 (p. 24) prints
+      R = .393 for Step 1 (F to test change 50.65, df 3, 831, p .001); the
+      prose rounds it to .39. Quote taken from the page image.
+    source_quote: "However, the overall decline in performance is smaller for geometry content (the retention interval variables yield a multiple correlation of .39 with Algebra 1 test scores and of .17 with geometry test scores)."
+    source_location: "Comparing Retention of Algebra and Geometry Content (p. 29); Table 5"
+
+  - id: geometry-retention-interval-multiple-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Plane geometry retention test performance"
+      source_language: "geometry test scores"
+      measure: "Geometry test score regressed on the three retention-interval terms alone (first step)"
+      scale: "multiple correlation R"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval 0 to about 50 years after plane geometry"
+    result:
+      measure_type: other
+      estimate: 0.17
+      statistic: "multiple R"
+      interpretation: "The retention interval accounts for only 2% of variation in geometry performance, in the authors' words."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The page image prints "of .17" (the text layer's "of. 17" was an
+      artefact). Table 12 (p. 30) prints R = .168 for the geometry Step 1
+      (F to test change 7.98, df 3, 824, p .001). The prose elsewhere says
+      the interval "accounts for only 2% of variation in performance"; both
+      are the authors' rounded statements and neither is derived here.
+    source_quote: "However, the overall decline in performance is smaller for geometry content (the retention interval variables yield a multiple correlation of .39 with Algebra 1 test scores and of .17 with geometry test scores)."
+    source_location: "Comparing Retention of Algebra and Geometry Content (p. 29); Table 12"
+
+  - id: geometry-final-multiple-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Plane geometry retention test performance"
+      source_language: "validity of prediction"
+      measure: "Final step of the hierarchical regression of geometry test score (retention interval, college opportunity, original learning, rehearsal, gender and their interactions with the interval)"
+      scale: "multiple correlation R"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 0.69
+      statistic: "multiple R"
+      interpretation: "Lower than the algebra analysis's .81, which the authors attribute to the greater autonomy of geometry content from other mathematics courses."
+      note: "Table 12 (p. 30) prints R = .691 after the final step (Step 10, Gender x Retention); the prose rounds it to .69."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The final step of the hierarchical analysis yields a multiple R of .69, which is considerably lower than the validity of prediction achieved for the algebra data."
+    source_location: "Results and Discussion, Regression Analysis for the Retention of Geometry Content"
+
+  - id: algebra1-final-multiple-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "predictability of ... test scores"
+      measure: "Final step of the hierarchical regression of Algebra 1 test score (retention interval, original learning, rehearsal, gender and their interactions with the interval)"
+      scale: "multiple correlation R"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 0.81
+      statistic: "multiple R"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      Quote taken from the page image, which prints "R = .69" (the text
+      layer had "K = .69"). Table 5 (p. 24) prints R = .814 after its final
+      step (Step 9, Gender x Retention); the prose rounds it to .81, and the
+      Results (p. 22) also say "a multiple correlation of .81 is achieved
+      after the final step".
+    source_quote: "To some extent, diminished performance decline for geometry content is an artifact of the lower predictability of geometry test scores (R = .69 vs. R = .81)."
+    source_location: "Comparing Retention of Algebra and Geometry Content (p. 30); Table 5"
+
+  - id: algebra1-learning-x-retention-step
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "Learning × Retention"
+      measure: "Hierarchical regression of Algebra 1 test score, Step 7: interactions of the seven original-learning variables (number of algebra, high school math, college algebra, college math and related courses; highest level of math; average algebra grade) with the retention interval (Table 4)"
+      scale: "F test of the change in R when the step's variables are added"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 11.26
+      statistic: "F to test change = 11.26, df 7, 812; R after the step = .811"
+      p_value: ".001"
+      interpretation: >-
+        The authors read a significant interaction with the retention interval
+        as an effect on the rate of performance decline: Steps 7 to 9
+        "identify variables that significantly affect the rate at which test
+        performance declines during the retention interval." R rises from .791
+        (Step 6) to .811.
+    moderators:
+      reported: []
+      candidate:
+        - "Spacing of acquisition over several years, which the authors say is confounded with the number of courses taken"
+        - "Self-selection of those who continue to take mathematics courses, which the authors say may play a role"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        The F tests the seven interactions as a set; which ones carry it is in
+        Table 6 (the X x ATIME weights recorded below). The sample size behind
+        df 812 is not printed for this analysis. Row quoted from the page
+        image.
+    source_quote: "7. Learning × Retention .811 11.26 7, 812 .001"
+    source_location: "Table 5 (p. 24), Step 7"
+
+  - id: algebra1-rehearsal-x-retention-step
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "Rehearsal × Retention"
+      measure: "Hierarchical regression of Algebra 1 test score, Step 8: interactions of the two rehearsal scales (overall level of rehearsal; recency of rehearsal) with the retention interval"
+      scale: "F test of the change in R when the step's variables are added"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 1.08
+      statistic: "F to test change = 1.08, df 2, 810; R after the step = .812"
+      p_value: "not significant (printed as a dash)"
+      interpretation: >-
+        The rehearsal-by-interval interactions add no significant prediction;
+        R rises from .811 to .812. Table 2 shows that most participants at
+        every level of mathematics reported no relevant rehearsal, so the
+        rehearsal scales have little spread.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        A dash in the p column is the table's mark for a non-significant step;
+        no p value is printed. Non-significance is not a demonstrated absence
+        of an effect, and no power figure is given. Row quoted from the page
+        image.
+    source_quote: "8. Rehearsal × Retention .812 1.08 2, 810 —"
+    source_location: "Table 5 (p. 24), Step 8"
+
+  - id: algebra1-gender-x-retention-step
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "Gender × Retention"
+      measure: "Hierarchical regression of Algebra 1 test score, Step 9: gender (men 0, women 1) by retention interval, entered after all other variables and their interactions"
+      scale: "F test of the change in R when the step's variables are added"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 9.66
+      statistic: "F to test change = 9.66, df 1, 809; R after the step = .814"
+      p_value: ".01"
+      interpretation: >-
+        Entered last, the gender-by-interval interaction adds significant
+        prediction (R .812 to .814). The authors read it, with Figure 4, as
+        women's performance declining more than men's from no difference at
+        the end of the last algebra course, not explained by course taking or
+        grades.
+    moderators:
+      reported: []
+      candidate:
+        - "Gender differences in rehearsal not captured by the two rehearsal scales, which the authors say could affect the data"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        The direction (women decline more) is from the negative GENDER x ATIME
+        weight in Table 6 and the authors' prose, recorded in algebra1-gender-
+        x-atime-weight. Row quoted from the page image.
+    source_quote: "9. Gender × Retention .814 9.66 1, 809 .01"
+    source_location: "Table 5 (p. 24), Step 9"
+
+  - id: algebra1-malev-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "MALEV × ATIME"
+      measure: "Interaction of highest level of math completed (MALEV) with the log retention interval (ATIME), Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: 2.688
+      statistic: "standardized regression coefficient .330; t = 2.78"
+      p_value: ".01"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        A positive interaction: the higher the level of mathematics completed,
+        the less the predicted score falls as the retention interval grows. Of
+        the original-learning interactions, this one has the largest
+        standardized weight.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        MALEV was condensed to below calculus, calculus and above calculus for
+        the profiles (Table 7); the coded values used in the regression are
+        not printed. Its first-order weight is 14.360 (standardized .451, t
+        2.78, p .01). Row quoted from the page image.
+    source_quote: "MALEV × ATIME 2.688 .330 2.78 .01"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-cmnum-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "CMNUM × ATIME"
+      measure: "Interaction of number of college math courses (CMNUM, condensed to 0, 1 to 2, 3 or more) with the log retention interval, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.751
+      statistic: "standardized regression coefficient .166; t = 1.89"
+      p_value: ".06"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        Positive (more college math courses, less decline), at p .06 as
+        printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        The article says number and level of courses are naturally confounded,
+        so the weights for MALEV, CMNUM and ALGNUM interactions are not
+        separable effects of each. Row quoted from the page image.
+    source_quote: "CMNUM × ATIME 1.751 .166 1.89 .06"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-algnum-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "ALGNUM × ATIME"
+      measure: "Interaction of number of algebra courses (ALGNUM) with the log retention interval, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: -2.046
+      statistic: "standardized regression coefficient -.245; t = -2.06"
+      p_value: ".05"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        Negative at p .05, net of the other course variables, whereas ALGNUM's
+        first-order weight is positive (9.525, standardized .216, t 3.94, p
+        .001).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        The retention interval for algebra begins at the end of the last
+        algebra course, so more algebra courses also mean the interval starts
+        later. The article does not interpret this weight on its own; it is a
+        partial weight among confounded course variables. Row quoted from the
+        page image.
+    source_quote: "ALGNUM × ATIME −2.046 −.245 −2.06 .05"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-grade-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "GRADE × ATIME"
+      measure: "Interaction of average algebra grade (GRADE) with the log retention interval, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: -1.134
+      statistic: "standardized regression coefficient -.258; t = -2.75"
+      p_value: ".01"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        A significant negative interaction: the grade advantage narrows
+        somewhat as the interval grows. The authors call grades' effect on the
+        rate of loss relatively small compared with number of courses taken,
+        and the influence of grades and standardized scores on the rate of
+        loss "trivial" (p. 26).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        The significance of this weight sits beside the authors' word
+        "trivial"; both are recorded and neither is resolved here. Row quoted
+        from the page image.
+    source_quote: "GRADE × ATIME −1.134 −.258 −2.75 .01"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-grade-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "GRADE"
+      measure: "Average algebra grade (GRADE), first-order term, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: 9.181
+      statistic: "standardized regression coefficient .351; t = 10.61"
+      p_value: ".001"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        The largest t of any term in the final equation: grades go with a
+        large and durable difference in score level.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        A first-order weight in an equation that also holds GRADE x ATIME; it
+        is the grade effect where ATIME = 0, i.e. at the start of the
+        interval. Row quoted from the page image.
+    source_quote: "GRADE 9.181 .351 10.61 .001"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-gender-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "GENDER × ATIME"
+      measure: "Interaction of gender (men 0, women 1) with the log retention interval, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: -2.001
+      statistic: "standardized regression coefficient -.120; t = -3.11"
+      p_value: ".01"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        Negative: women's predicted scores fall more than men's as the
+        interval grows. The first-order GENDER weight is .392 (standardized
+        .009, t .29, not significant), consistent with the authors' statement
+        of no gender difference at the end of the last algebra course.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        Row quoted from the page image.
+    source_quote: "GENDER × ATIME −2.001 −.120 −3.11 .01"
+    source_location: "Table 6 (p. 24)"
+
+  - id: algebra1-rscale-x-atime-weight
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Algebra 1 retention test performance"
+      source_language: "RSCALE × ATIME"
+      measure: "Interaction of overall level of rehearsal (RSCALE, 0 to 5) with the log retention interval, Algebra 1 test score"
+      scale: "unstandardized regression coefficient, final step of the hierarchical regression"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.446
+      statistic: "standardized regression coefficient -.058; t = -1.24"
+      p_value: "not significant (printed as a dash)"
+      model: "Final step (Step 9) of the Algebra 1 hierarchical regression, R = .814 (Table 5)"
+      interpretation: >-
+        Not significant. The first-order RSCALE weight is 2.174 (standardized
+        .104, t 2.43, p .05): reported rehearsal goes with a higher score
+        level, not with a different rate of decline.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+        ATIME is the natural logarithm of (retention interval + 1) (Table 3).
+        RTIME x ATIME (recency of rehearsal) is also not significant (-.315,
+        standardized -.021, t -.16). Most participants reported no rehearsal
+        (Table 2). Row quoted from the page image.
+    source_quote: "RSCALE × ATIME −.446 −.058 −1.24 —"
+    source_location: "Table 6 (p. 24)"
+
+  - id: item-level-control-group-step
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Loss of individual Algebra 1 items over the retention interval"
+      source_language: "Control group performance"
+      measure: "Per-item retention index: (proportion correct at the start of the interval minus proportion correct at the end) divided by the proportion at the start; Step 2 adds student-control and adult-control percentage passing the item, after initial difficulty"
+      scale: "F test of the change in R when the step's variables are added"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 32.06
+      statistic: "F to test change = 32.06, df 2, 72; R after the step = .689"
+      p_value: ".001"
+      interpretation: >-
+        Initial difficulty alone gives R = .084 (F .53, df 1, 74, not
+        significant); adding the two control groups' pass rates raises R to
+        .689. The authors: the two control group scores were the best
+        predictors of item loss.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        The unit of analysis is the test item, not the participant; the number
+        of items is not printed for this analysis. The index compares
+        different people tested at the start and at the end of the interval,
+        and the authors note it is limited by possible cohort effects. Row
+        quoted from the page image.
+    source_quote: "2. Control group performance .689 32.06 2, 72 .001"
+    source_location: "Table 8 (p. 27), Step 2"
+
+  - id: item-level-format-step
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Loss of individual Algebra 1 items over the retention interval"
+      source_language: "Item format"
+      measure: "Per-item retention index: (proportion correct at the start of the interval minus proportion correct at the end) divided by the proportion at the start; Step 3 adds item format (recall vs. recognition)"
+      scale: "F test of the change in R when the step's variables are added"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at test, across retention intervals"
+    result:
+      measure_type: other
+      estimate: 3.26
+      statistic: "F to test change = 3.26, df 1, 71; R after the step = .705"
+      p_value: ".08"
+      interpretation: >-
+        Item format does not add statistically significant prediction of item
+        loss (p .08 as printed). The authors: no statistically significant
+        difference in the amount of decline for recognition versus recall
+        questions, contrasting with much of the experimental literature, which
+        they attribute to recall and recognition items having been selected to
+        be about equally difficult.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        The unit of analysis is the test item, not the participant; the number
+        of items is not printed for this analysis. The index compares
+        different people tested at the start and at the end of the interval,
+        and the authors note it is limited by possible cohort effects. p = .08
+        is not a demonstrated equivalence; no power figure is given. Table 9
+        gives the final-step Format weight 8.258 (standardized .172, t 1.71,
+        not significant). Row quoted from the page image.
+    source_quote: "3. Item format .705 3.26 1, 71 .08"
+    source_location: "Table 8 (p. 27), Step 3"
+
+  - id: item-level-final-multiple-r
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Loss of individual Algebra 1 items over the retention interval"
+      source_language: "a final multiple correlation of .71"
+      measure: "Per-item retention index: (proportion correct at the start of the interval minus proportion correct at the end) divided by the proportion at the start, regressed on initial difficulty, student and adult control performance, item format and item content"
+      scale: "multiple correlation R"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "over the retention interval (start versus end)"
+    result:
+      measure_type: other
+      estimate: 0.71
+      statistic: "multiple R"
+      interpretation: >-
+        Table 8 prints R = .713 after Step 4 (item content: F .72, df 2, 69,
+        not significant). In the final-step weights (Table 9), the student-
+        control pass rate (PCS) has regression coefficient -.659 (standardized
+        -.516, t -4.55, p .001) and the adult-control pass rate (PCA) -.618
+        (standardized -.345, t -3.11, p .01): content more often known by
+        people who never took the course is lost less.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+        The unit of analysis is the test item, not the participant; the number
+        of items is not printed for this analysis. The index compares
+        different people tested at the start and at the end of the interval,
+        and the authors note it is limited by possible cohort effects. Quote
+        from the text layer, checked against the page; Table 8 and 9 figures
+        read from the page image.
+    source_quote: "The analysis yielded a final multiple correlation of .71, and the two control group scores were the best predictors."
+    source_location: "Retention as a function of item characteristics (p. 27); Tables 8 and 9 (pp. 27-28)"
+
+not_yet_extracted:
+  - "Table 1 (p. 22): subjects per retention-interval band, 0 to 55.1-74.0 years (927 algebra, 860 geometry). Readable on the page image; not recorded, since no simulator figure rests on the per-band counts."
+  - "Table 2 (p. 22): reported level of rehearsal (0 to 5) by highest level of math taken (e.g. 565 of the algebra subjects at level 0). Readable on the page image; not recorded beyond the interpretations above."
+  - "Table 5 Steps 2-6 (original learning, quadratic learning, rehearsal, gender main effects; R .779 to .791) and Table 6 first-order and non-significant weights not listed above (ATIMES, ATIMEC, HSMNUM, CANUM, CMNUM, RELNUM, RELNUMS, MALEVS, RTIME, HSMNUM x ATIME, CANUM x ATIME, RELNUM x ATIME, constant). Readable on the page image; only the rate-of-loss interactions and the grade, rehearsal and gender terms are recorded."
+  - "Figures 1 to 8: predicted retention functions by course level, grade, gender and item format; plotted values only, not read off."
+  - "Separate five-predictor regression including standardized test scores, math level, retention interval, grade and number of college math courses: multiple correlation .82 (p. 22)."
+  - "Tables 10 and 11: Algebra 2 items (final R .783 in Table 10, .78 in prose; Learning x Retention F 5.49, df 6, 540, p .001; Gender x Retention F 4.96, df 1, 537, p .05). Not recorded: no simulator figure rests on them."
+  - "Tables 12 and 13: geometry steps and weights beyond the Step 1 and final R noted above (e.g. Learning x Retention F 9.92, df 6, 805, p .001; GRADE x GTIME -2.119, t -4.52, p .001; HSMNUM x GTIME 1.008, t 3.61, p .001). Item-level geometry analysis: final R .58 in prose. Not recorded."
+  - "Discussion reliability figures (.98 for algebra and .95 for geometry, p. 30), which differ from the Method's split-half figures and name no coefficient; confirmed on the page image."

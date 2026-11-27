@@ -1,0 +1,679 @@
+# Delgado, Vargas, Ackerman & Salmerón (2018): meta-analysis of reading
+# comprehension on paper against digital screens, 2000-2017.
+#
+# Read from the published article (Educational Research Review 25, 23-38),
+# text layer. Table 1's columns come out of the text layer as separate runs,
+# but each block (categories, k, g, CI) keeps its row order, and every g used
+# below is also printed in the Results prose. The table quotes are those runs
+# as the text layer gives them, with ASCII hyphens as minus signs; the prose
+# quotes keep the article's minus sign.
+#
+# WHAT THIS FILE USES:
+#
+#   * `population.age: unreported`. Educational level was coded (grades 1-6,
+#     7-12, undergraduates, graduates or professionals) and tested as a
+#     moderator, but the article prints no age figure.
+#   * `measure_type: reliability` for the coding: Cohen's kappa .89 (range
+#     .71 to 1) over raters for qualitative variables, and ICC = 1 for
+#     continuous ones, from two judges on a 28% random sample of studies.
+#   * No `measure_type: mean`: every result is a pooled standardised effect.
+#
+# SIGN: g and dc are digital minus paper, so a NEGATIVE value is a paper
+# advantage. The article fixes the sign this way for both indices.
+#
+# Two separate meta-analyses: between-participants (Hedges' g) and
+# within-participants (dc, the standardised mean change, with a correlation
+# of .7 imputed because no study reported one). Moderators were analysed in
+# the between-participants set only.
+
+schema_version: 2
+
+study:
+  key: delgado-2018
+  citation: "Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. Educational Research Review, 25, 23–38."
+  doi: "10.1016/j.edurev.2018.09.003"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of studies from 2000 to 2017 comparing comprehension of
+      comparable texts read individually and silently on paper and on digital
+      screens. Between-participants and within-participants designs were
+      pooled separately. Categorical moderators by one-way ANOVA (QB) and
+      continuous moderators by simple meta-regression with the Knapp-Hartung
+      adjustment, in the between-participants set. Moderators were not
+      analysed in the within-participants set because of its small number of
+      effect sizes, and an explicit in-depth reading prompt (k = 5) was too
+      rare to test.
+  synthesis:
+    model: "Random-effects model"
+    heterogeneity_statistic: "Q"
+    search:
+      databases:
+        - PsycInfo
+        - ERIC
+        - ProQuest Psychology
+        - Web of Science
+        - Scopus
+        - ProQuest Dissertations and Theses
+        - Google Scholar
+      date_range: "2000 to 2017; search ended May 2017"
+      records_screened: 1840
+      records_included: 54
+    inclusion:
+      - "Compares comprehension of texts printed on paper and displayed on digital screens (computers, tablets, mobile phones, e-readers)"
+      - "Participants read individually and silently, in their daily-used language"
+      - "Materials comparable across media; no hyperlinks or web navigation in the digital condition"
+      - "Normative population: typical development, no reading difficulties, no cognitive impairments or disorders"
+      - "Published or presented 2000-2017, in English; formal publication not required"
+    data_handling:
+      - "Two independent judges coded a random 28% of studies; disagreements discussed"
+      - "Within-participants dc computed with an imputed pre-post correlation of .7; sensitivity analyses imputed .10 to .90"
+      - "Two between-participants effect sizes removed as outliers after a robust model"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: paper-advantage-between-participants-meta-analysis
+    bearing: supports
+    anchor: delgado-2018
+  - claim: paper-advantage-within-participants-meta-analysis
+    bearing: supports
+    anchor: delgado-2018
+  - claim: time-frame-moderates-paper-advantage
+    bearing: supports
+    anchor: delgado-2018
+  - claim: text-genre-moderates-paper-advantage
+    bearing: supports
+    anchor: delgado-2018
+  - claim: paper-advantage-increases-over-years
+    bearing: supports
+    anchor: delgado-2018
+  - claim: non-significant-moderators-media-effect
+    bearing: supports
+    anchor: delgado-2018
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 76
+    unit: effect-sizes
+  additional_sizes:
+    - value: 54
+      unit: studies
+      note: "studies included: 38 between-participants, 16 within-participants"
+    - value: 171055
+      unit: participants
+      note: "participants across all included studies"
+    - value: 169524
+      unit: participants
+      note: "participants in the 58 between-participants comparisons initially included; 165,778 of them from four large-scale studies"
+    - value: 1531
+      unit: participants
+      note: "participants in the 18 within-participants comparisons"
+  population:
+    description: >-
+      Normative readers in the primary studies. Between-participants
+      comparisons mostly with undergraduates (63.79%), on computers (74.13%),
+      with informational texts only (55.17%); 44.83% imposed a reading time
+      limit; 74.14% reported randomised allocation.
+    age_or_stage: >-
+      Educational level coded per comparison: grades 1 to 6, grades 7 to 12,
+      undergraduates, graduates or professionals. The article prints no age
+      range or mean.
+    age: unreported
+  context:
+    setting: "Laboratory and assessment studies comparing reading on paper with reading on computers or hand-held devices"
+  variation:
+    - dimension: "Design"
+      distribution: "38 between-participants studies (56 effect sizes analysed), 16 within-participants studies (18 effect sizes)"
+    - dimension: "Educational level (between-participants)"
+      distribution: "grades 1-6 k = 8, grades 7-12 k = 8, undergraduates k = 36, graduates or professionals k = 3"
+    - dimension: "Reading time frame (between-participants)"
+      distribution: "self-paced k = 20, limited k = 27"
+    - dimension: "Text genre (between-participants)"
+      distribution: "informational k = 34, narrative k = 7, mixed k = 10"
+  arms:
+    - id: digital
+      description: "Reading the text on a digital screen (computer, tablet, mobile phone or e-reader)."
+    - id: paper
+      description: "Reading the same text printed on paper."
+    - id: digital-self-paced
+      description: "Digital reading in comparisons where reading time was self-paced."
+    - id: paper-self-paced
+      description: "Paper reading in comparisons where reading time was self-paced."
+    - id: digital-time-limited
+      description: "Digital reading in comparisons where reading time was limited by the task."
+    - id: paper-time-limited
+      description: "Paper reading in comparisons where reading time was limited by the task."
+    - id: digital-informational
+      description: "Digital reading of informational (expository, descriptive or informative) texts."
+    - id: paper-informational
+      description: "Paper reading of informational texts."
+    - id: digital-narrative
+      description: "Digital reading of narrative texts only."
+    - id: paper-narrative
+      description: "Paper reading of narrative texts only."
+    - id: digital-mixed-genre
+      description: "Digital reading where both informational and narrative texts were used."
+    - id: paper-mixed-genre
+      description: "Paper reading where both informational and narrative texts were used."
+    - id: digital-grades-1-6
+      description: "Digital reading by samples in grades 1 to 6."
+    - id: paper-grades-1-6
+      description: "Paper reading by samples in grades 1 to 6."
+
+comparisons:
+  - id: digital-vs-paper-between
+    kind: between-groups
+    index_arm: digital
+    reference_arm: paper
+    description: "Digital against paper reading in between-participants studies, pooled."
+  - id: digital-vs-paper-within
+    kind: other
+    index_arm: digital
+    reference_arm: paper
+    description: "Within-participant contrast: each participant read on both paper and a digital device; pooled standardised mean change."
+  - id: digital-vs-paper-self-paced
+    kind: between-groups
+    index_arm: digital-self-paced
+    reference_arm: paper-self-paced
+    description: "Digital against paper in between-participants comparisons with self-paced reading."
+  - id: digital-vs-paper-time-limited
+    kind: between-groups
+    index_arm: digital-time-limited
+    reference_arm: paper-time-limited
+    description: "Digital against paper in between-participants comparisons with a reading time limit."
+  - id: digital-vs-paper-informational
+    kind: between-groups
+    index_arm: digital-informational
+    reference_arm: paper-informational
+    description: "Digital against paper in between-participants comparisons with informational texts."
+  - id: digital-vs-paper-narrative
+    kind: between-groups
+    index_arm: digital-narrative
+    reference_arm: paper-narrative
+    description: "Digital against paper in between-participants comparisons with narrative texts only."
+  - id: digital-vs-paper-mixed-genre
+    kind: between-groups
+    index_arm: digital-mixed-genre
+    reference_arm: paper-mixed-genre
+    description: "Digital against paper in between-participants comparisons using both genres."
+  - id: digital-vs-paper-grades-1-6
+    kind: between-groups
+    index_arm: digital-grades-1-6
+    reference_arm: paper-grades-1-6
+    description: "Digital against paper in between-participants comparisons with samples in grades 1 to 6."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the two independent judges coding a random 28% of the included studies."
+
+observations:
+
+  - id: digital-vs-paper-between-pooled
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-between
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies: standardised or official tests and researcher-created tasks, textual and inferential questions"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.21
+      ci_lower: -0.28
+      ci_upper: -0.14
+      interval_type: confidence
+      k:
+        value: 56
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 208.96
+        interpretation: "p < .001; I2 = 72.24, described as medium-high"
+      prediction_interval:
+        lower: -0.56
+        upper: 0.14
+        source: "reported by the authors"
+      publication_bias:
+        method: "Classic fail-safe N, Egger's regression, ANOVA of published against unpublished studies"
+        p_value: ".39 (Egger)"
+        finding: "Fail-safe N = 1,727 against Rosenthal's criterion of 290; published and unpublished not different (QB = 0.14, p = .71); no publication bias"
+      model: "random-effects"
+    moderators:
+      reported:
+        - variable: "Allowed reading time frame"
+          relationship: "Paper advantage larger with a time limit (g = -0.26) than self-paced (g = -0.09)"
+          source_quote: "Examination of the reading time frame showed that comparisons in studies with time constraints yielded a significantly larger (QB = 4.12, p = .04) print advantage (Hedges' g = −0.26) than comparisons in studies in which participants were allowed to self-pace their reading (Hedges’ g = −0.09)."
+        - variable: "Text genre"
+          relationship: "Paper advantage for informational (g = -0.27) and mixed (g = -0.30) texts, none for narrative only (g = 0.01); explains 31% of variance"
+          source_quote: "The moderator factor of text genre revealed a significant effect, explaining 31% of the mean effect size variance."
+        - variable: "Date of publication"
+          relationship: "Paper advantage increased by 0.01 a year (b = -0.01)"
+          source_quote: "The beta coefficient of −0.01 (QR = 4.95, p = .03) indicates that the effect size favouring paper-based reading increased by 0.01 points a year, explaining 64% of the mean effect size variance (see Table 3)."
+        - variable: "Educational level, text length, digital device, need for scrolling, open testing, type of comprehension"
+          relationship: "No significant moderation"
+          source_quote: "No moderating effects were found for educational level, text length, type of digital device, need for scrolling, open testing, or type of comprehension because QB values were not significant in all these cases (see Table 1)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The mean effect size of the sample was significant (Hedges’ g = −0.21; 95% CI: −0.28, −0.14; k = 56), revealing an advantage of paper-based reading over digital-based reading."
+    source_location: "Section 3.2.1, Media effect in between-participants designs"
+
+  - id: digital-vs-paper-within-pooled
+    sample:
+      value: 18
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-within
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies, each participant reading on both media"
+      scale: "dc (standardised mean change), digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: -0.21
+      ci_lower: -0.37
+      ci_upper: -0.06
+      interval_type: confidence
+      k:
+        value: 18
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "Q"
+        value: 167.94
+        interpretation: "p < .001; I2 = 89.88, described as high"
+      prediction_interval:
+        lower: -0.90
+        upper: 0.47
+        source: "reported by the authors"
+      publication_bias:
+        method: "Classic fail-safe N, Egger's regression, ANOVA of published against unpublished studies"
+        p_value: ".20 (Egger)"
+        finding: "Fail-safe N = 475 against Rosenthal's criterion of 100; published and unpublished not different (QB = 0.02, p = .90); no publication bias"
+      model: "random-effects"
+      note: "dc computed with an imputed correlation of .7 between conditions, because no primary study reported one."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "The mean effect size of this sample of studies was also significant, and it replicated the advantage of paper-based reading over digital-based reading (dc = −0.21; 95%; CI: −0.37, −0.06; k = 18)."
+    source_location: "Section 3.2.3, Media effect in within-participants designs"
+
+  - id: digital-vs-paper-self-paced
+    sample:
+      value: 20
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-self-paced
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.09
+      ci_lower: -0.22
+      ci_upper: 0.05
+      interval_type: confidence
+      k:
+        value: 20
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on time frame, QB(1) = 4.12, p < .05, R2 = .05"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Self-paced Limited 20 27 -0.09 -0.26 [-0.22, 0.05] [-0.35, -0.16]"
+    source_location: "Table 1, Allowed reading time frame; Section 3.4.1"
+
+  - id: digital-vs-paper-time-limited
+    sample:
+      value: 27
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-time-limited
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.26
+      ci_lower: -0.35
+      ci_upper: -0.16
+      interval_type: confidence
+      k:
+        value: 27
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on time frame, QB(1) = 4.12, p < .05, R2 = .05"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Self-paced Limited 20 27 -0.09 -0.26 [-0.22, 0.05] [-0.35, -0.16]"
+    source_location: "Table 1, Allowed reading time frame; Section 3.4.1"
+
+  - id: digital-vs-paper-informational
+    sample:
+      value: 34
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-informational
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.27
+      ci_lower: -0.36
+      ci_upper: -0.18
+      interval_type: confidence
+      k:
+        value: 34
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on text genre, QB(2) = 7.00, p < .05, R2 = .31"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Informational Narrative Mixed 34 7 10 -0.27 0.01 -0.30 [-0.36, -0.18] [-0.20, 0.20] [-0.40, -0.21]"
+    source_location: "Table 1, Text genre; Section 3.4.1"
+
+  - id: digital-vs-paper-narrative
+    sample:
+      value: 7
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-narrative
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: 0.01
+      ci_lower: -0.20
+      ci_upper: 0.20
+      interval_type: confidence
+      k:
+        value: 7
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on text genre, QB(2) = 7.00, p < .05, R2 = .31"
+      interpretation: "Described by the authors as no effect of media"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Informational Narrative Mixed 34 7 10 -0.27 0.01 -0.30 [-0.36, -0.18] [-0.20, 0.20] [-0.40, -0.21]"
+    source_location: "Table 1, Text genre; Section 3.4.1"
+
+  - id: digital-vs-paper-mixed-genre
+    sample:
+      value: 10
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-mixed-genre
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.30
+      ci_lower: -0.40
+      ci_upper: -0.21
+      interval_type: confidence
+      k:
+        value: 10
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on text genre, QB(2) = 7.00, p < .05, R2 = .31"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Informational Narrative Mixed 34 7 10 -0.27 0.01 -0.30 [-0.36, -0.18] [-0.20, 0.20] [-0.40, -0.21]"
+    source_location: "Table 1, Text genre; Section 3.4.1"
+
+  # The youngest stratum the article reports. Educational level did not
+  # moderate the effect (QB(2) = 2.33, ns), so this is a subgroup estimate,
+  # not evidence of an age difference.
+  - id: digital-vs-paper-grades-1-6
+    sample:
+      value: 8
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-grades-1-6
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading comprehension"
+      measure: "Comprehension tests in the primary studies"
+      scale: "Hedges' g, digital minus paper (negative favours paper)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, as measured in the primary studies"
+    result:
+      measure_type: hedges_g
+      estimate: -0.19
+      ci_lower: -0.35
+      ci_upper: -0.03
+      interval_type: confidence
+      k:
+        value: 8
+        unit: effect-sizes
+      model: "random-effects; one-way ANOVA on educational level (graduates or professionals, k = 3, excluded), QB(2) = 2.33, ns, R2 = .00"
+      descriptives: "Grades 7 to 12: g = -0.15 [-0.29, -0.02], k = 8; undergraduates: g = -0.28 [-0.38, -0.18], k = 36"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Grades 1 to 6 Grades 7 to 12 Undergraduates 8 8 36 -0.19 -0.15 -0.28 [-0.35, -0.03] [-0.29, -0.02] [-0.38, -0.18]"
+    source_location: "Table 1, Participants' educational level"
+
+  - id: publication-year-meta-regression
+    sample:
+      value: 56
+      unit: effect-sizes
+    comparison_ref: digital-vs-paper-between
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "mean effect size of the media"
+      measure: "Between-participants effect sizes regressed on date of publication or presentation"
+      scale: "meta-regression slope of Hedges' g (digital minus paper) per year"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "studies published or presented 2000-2017"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.01
+      unit: "Hedges' g per year"
+      p_value: ".03"
+      statistic: "QR = 4.95"
+      k:
+        value: 56
+        unit: effect-sizes
+      model: "Simple meta-regression with Knapp-Hartung adjustment; authors report 64% of the mean effect size variance explained"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      Table 3's R2 column does not come out of the text layer cleanly; the 64%
+      is taken from the prose.
+    source_quote: "The beta coefficient of −0.01 (QR = 4.95, p = .03) indicates that the effect size favouring paper-based reading increased by 0.01 points a year, explaining 64% of the mean effect size variance (see Table 3)."
+    source_location: "Section 3.4.2, Extrinsic variables; Table 3"
+
+  # The reliability of the CODING of moderators, which every moderator result
+  # above rests on.
+  - id: coder-agreement-kappa
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "Inter-rater reliability"
+      measure: "Two independent judges' codes for the qualitative study variables, on a random 28% of the included studies"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were discussed"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      note: "Minimum .71 and maximum 1 across the qualitative variables, as printed"
+      interpretation: "Described by the authors as adequate"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. The .89 appears to summarise kappas over variables with the
+      printed minimum and maximum; the article does not say how it was
+      combined.
+    source_quote: "Inter-rater reliability was adequate, showing a Cohen's kappa equal to .89 (minimum = .71, maximum = 1) for qualitative variables, and an intra-class correlation (95% CI) yielding absolute agreement for continuous variables (ICC = 1)."
+    source_location: "Section 2.3, Coding the studies"
+
+  - id: coder-agreement-icc
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement"
+      source_language: "Inter-rater reliability"
+      measure: "Two independent judges' codes for the continuous study variables, on a random 28% of the included studies"
+      scale: "intra-class correlation, absolute agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were discussed"
+    result:
+      measure_type: reliability
+      estimate: 1
+      reliability:
+        statistic: icc
+        over: raters
+        form: "intra-class correlation (95% CI) yielding absolute agreement"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article mentions a 95% CI for the ICC but prints none.
+    source_quote: "Inter-rater reliability was adequate, showing a Cohen's kappa equal to .89 (minimum = .71, maximum = 1) for qualitative variables, and an intra-class correlation (95% CI) yielding absolute agreement for continuous variables (ICC = 1)."
+    source_location: "Section 2.3, Coding the studies"
+
+not_yet_extracted:
+  - "Other Table 1 moderator strata (text length, digital device, need for scrolling, open testing, type of comprehension), each non-significant; computers g = -0.23 (p < .001) against hand-held devices g = -0.12 (p = .11), scrolling g = -0.25 against no scrolling g = -0.13 (p = .06), in the prose."
+  - "Table 2 extrinsic and methodological moderators (publishing status, group allocation, test type, testing medium), all non-significant; Table 3 sample-size meta-regression (b = -0.00, QR = 3.11)."
+  - "Sensitivity analyses: one-study-removal ranges, grey-literature exclusions, alternative tau2 estimators and imputed correlations for the within-participants set."

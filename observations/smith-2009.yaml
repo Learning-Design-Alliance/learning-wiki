@@ -1,0 +1,472 @@
+# Smith, Wood, Adams, Wieman, Knight, Guild & Su (2009): why peer discussion
+# improves performance on in-class concept questions. 350 students in one
+# undergraduate genetics course; 16 isomorphic clicker-question pairs.
+#
+# Read from the JSTOR copy (PDF and its text layer). The text layer reads Q1
+# as "Ql", Q1ad as "Ql^"/"Qlad", and breaks Table 1 and Figure 2 into
+# scattered fragments, so these quotes were taken from the PAGE IMAGE
+# (PDF page 3, journal p. 123), written as the article prints them:
+#   * the Table 1 rows (all-questions-*, difficult-*, easy-*, medium-*);
+#   * the Figure 2 labels (q1-correct-share, right-to-wrong-share,
+#     wrong-to-right-share);
+#   * the 77% sentence in the note of wrong-to-right-share, and the
+#     difficulty moderator's quote on all-questions-q2-minus-q1ad.
+# The quote for neither-correct-q2-share is verbatim from the text layer.
+#
+# WHAT THIS FILE RECORDS, and why:
+#
+#   * Three phases of one task sequence are the arms: Q1 (answered alone),
+#     Q1ad (the same question re-voted after discussion with neighbours) and
+#     Q2 (an isomorphic question answered alone). The same 350 students answer
+#     all three, so every comparison is within-subject. There is no class
+#     without discussion; nothing here contrasts discussion with its absence.
+#   * Table 1's per-student mean differences, with the SEM it prints, for all
+#     questions and for Q1ad - Q1 within each difficulty group. Difficulty was
+#     set by the percentage correct on Q1; the cut-offs are in the supporting
+#     online text, which was not read.
+#   * Figure 2's breakdown of pooled responses: the share correct on Q1, the
+#     share of Q1-correct responses that went wrong after discussion, the share
+#     of Q1-incorrect responses that went right, and the share of responses
+#     wrong on both Q1 and Q1ad that were right on Q2. The bases are the
+#     preceding branch of the figure, not all responses, and Figure 2 pools
+#     responses over the 16 pairs ("the pool of 16 Q1, Q1ad, and Q2
+#     questions"); it prints no number of responses.
+#   * `population.age: unreported`: the article prints no age figure
+#     (demographics are in table S1 of the supporting material, not read).
+#   * No reliability: the article prints no reliability or agreement
+#     coefficient for the clicker questions.
+
+schema_version: 2
+
+study:
+  key: smith-2009
+  citation: "Smith, M. K., Wood, W. B., Adams, W. K., Wieman, C., Knight, J. K., Guild, N., & Su, T. T. (2009). Why peer discussion improves student performance on in-class concept questions. Science, 323(5910), 122–124."
+  doi: "10.1126/science.1165919"
+  design:
+    family: observational
+    design_detail: >-
+      Single-course classroom study with a within-subject sequence. Sixteen
+      times in a semester students answered a multiple-choice clicker question
+      individually (Q1), discussed it with neighbours and re-voted (Q1ad), then
+      answered an isomorphic question individually (Q2). No answers or
+      histograms were shown until after Q2. The two questions of each pair
+      were randomly assigned to the Q1 and Q2 roles after both were written.
+      No comparison class without discussion.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: peer-discussion-improves-conceptual-understanding
+    bearing: supports
+    anchor: smith-et-al-2009
+
+evidence_base:
+  unit: participants
+  size:
+    value: 350
+    unit: participants
+  additional_sizes:
+    - value: 16
+      unit: pairs
+      note: "isomorphic question pairs (32 questions); five easy, seven medium and four difficult by Q1 percentage correct"
+  population:
+    description: >-
+      Students in an undergraduate introductory genetics course for biology
+      majors at the University of Colorado-Boulder; analysis limited to
+      students who answered all three questions of an isomorphic pair.
+    age_or_stage: "Undergraduates; the article prints no age figure"
+    age: unreported
+  context:
+    setting: >-
+      An average of five clicker questions per 50-minute class through the
+      semester; participation points for answering regardless of correctness;
+      exam questions similar to clicker questions. Students reported an
+      average of three participants per discussion group (post-semester
+      survey, n = 98).
+  arms:
+    - id: q1-individual
+      description: "Q1: one question of an isomorphic pair, answered individually by clicker before any discussion."
+    - id: q1ad-after-discussion
+      description: "Q1ad: the same question voted on again after discussion with neighbours; no answer or histogram shown."
+      delivery:
+        grouping: small-group
+        role: core-curriculum
+        basis: inferred
+    - id: q2-isomorphic
+      description: "Q2: the second, isomorphic question of the pair (different cover story, same concept), answered individually after Q1ad, with no discussion of Q2 and no answers revealed."
+
+comparisons:
+  - id: q1ad-vs-q1
+    kind: within-subject-baseline
+    index_arm: q1ad-after-discussion
+    reference_arm: q1-individual
+    description: "Same students, same question: re-vote after peer discussion against the individual first vote."
+  - id: q2-vs-q1
+    kind: within-subject-baseline
+    index_arm: q2-isomorphic
+    reference_arm: q1-individual
+    description: "Same students: individual answer to the isomorphic question after discussion of Q1, against the individual first vote on Q1."
+  - id: q2-vs-q1ad
+    kind: within-subject-baseline
+    index_arm: q2-isomorphic
+    reference_arm: q1ad-after-discussion
+    description: "Same students: individual answer to the isomorphic question against the re-vote on Q1 after discussion."
+
+observations:
+
+  - id: all-questions-q1ad-minus-q1
+    sample:
+      value: 350
+      unit: participants
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Correct answers to concept questions"
+      source_language: "percentage of students who can correctly answer a question"
+      measure: "Per-student percentage correct on clicker concept questions, averaged over the 16 pairs"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: individual vote, then re-vote after a brief discussion"
+    result:
+      measure_type: mean_difference
+      estimate: 16
+      standard_error: 1
+      note: "Table 1: the mean of each student's Q1ad - Q1 difference, SEM in parentheses."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A raw difference in percentage points, not a standardised effect; no SD
+      or test statistic is printed. The Q1ad gain may include copying a
+      neighbour's answer, which is the alternative the Q2 measure was built to
+      separate.
+    source_quote: "All questions 16(1) 21(1) 5(1)"
+    source_location: "Table 1, p. 123 (quoted from the page image)"
+
+  - id: all-questions-q2-minus-q1
+    sample:
+      value: 350
+      unit: participants
+    comparison_ref: q2-vs-q1
+    outcome:
+      construct: "Correct answers to an isomorphic concept question"
+      source_language: "percentage correct for Q2"
+      measure: "Per-student percentage correct, Q2 against Q1, averaged over the 16 pairs"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: Q1, discussion and re-vote, then Q2"
+    result:
+      measure_type: mean_difference
+      estimate: 21
+      standard_error: 1
+      note: "Table 1. The text reports Q2 significantly higher than Q1 and Q1ad; no test statistic printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "All questions 16(1) 21(1) 5(1)"
+    source_location: "Table 1, p. 123 (quoted from the page image); text: the average percentage correct for Q2 was significantly higher than for Q1 and Q1ad"
+
+  - id: all-questions-q2-minus-q1ad
+    sample:
+      value: 350
+      unit: participants
+    comparison_ref: q2-vs-q1ad
+    outcome:
+      construct: "Correct answers to an isomorphic concept question"
+      source_language: "percentage correct for Q2"
+      measure: "Per-student percentage correct, Q2 against Q1ad, averaged over the 16 pairs"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: re-vote after discussion, then Q2"
+    result:
+      measure_type: mean_difference
+      estimate: 5
+      standard_error: 1
+      note: "Table 1, all questions. By difficulty: easy -4 (1) and medium 1 (1), both marked no significant improvement; difficult 22 (2)."
+    moderators:
+      reported:
+        - variable: "Question difficulty (percentage correct on Q1)"
+          relationship: "Q2 exceeded Q1ad only on the difficult questions; on easy and medium questions the difference was not significant."
+          source_quote: "On the most difficult questions there was another significant increase between Q1ad and Q2, suggesting that there was an additional delayed benefit to the group discussions."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "All questions 16(1) 21(1) 5(1)"
+    source_location: "Table 1, p. 123 (quoted from the page image)"
+
+  - id: difficult-questions-q1ad-minus-q1
+    sample:
+      value: 337
+      unit: participants
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Correct answers to concept questions, difficult questions"
+      source_language: "Difficult questions"
+      measure: "Per-student percentage correct on the four difficult pairs (lowest Q1 percentage correct)"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: individual vote, then re-vote after discussion"
+    result:
+      measure_type: mean_difference
+      estimate: 16
+      standard_error: 2
+      note: "Same row: Q2 - Q1 38 (2), Q2 - Q1ad 22 (2)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The difficulty cut-offs are in the supporting online text, not the
+      article; the group means on Q1 appear only as bars in Figure 1B.
+    source_quote: "Difficult questions 16(2) 38(2) 22(2)"
+    source_location: "Table 1, p. 123 (quoted from the page image); n = 337 from the Figure 1 caption"
+
+  - id: easy-questions-q1ad-minus-q1
+    sample:
+      value: 343
+      unit: participants
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Correct answers to concept questions, easy questions"
+      source_language: "Easy questions"
+      measure: "Per-student percentage correct on the five easy pairs (highest Q1 percentage correct)"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: individual vote, then re-vote after discussion"
+    result:
+      measure_type: mean_difference
+      estimate: 16
+      standard_error: 1
+      note: "Same row: Q2 - Q1 21 (1), Q2 - Q1ad -4 (1), the last marked no significant improvement."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Easy questions 16(1) 21(1) −4(1)†"
+    source_location: "Table 1, p. 123 (quoted from the page image); n = 343 from the Figure 1 caption"
+
+  - id: medium-questions-q1ad-minus-q1
+    sample:
+      value: 344
+      unit: participants
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Correct answers to concept questions, medium questions"
+      source_language: "Medium questions"
+      measure: "Per-student percentage correct on the seven medium pairs"
+      scale: "percentage points (per-student mean difference)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within one class session: individual vote, then re-vote after discussion"
+    result:
+      measure_type: mean_difference
+      estimate: 15
+      standard_error: 1
+      note: "Same row: Q2 - Q1 16 (2), Q2 - Q1ad 1 (1), the last marked no significant improvement."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Medium questions 15(1) 16(2) 1(1)†"
+    source_location: "Table 1, p. 123 (quoted from the page image); n = 344 from the Figure 1 caption"
+
+  - id: q1-correct-share
+    arm_ref: q1-individual
+    outcome:
+      construct: "Correct first answers to concept questions"
+      source_language: "Q1 52% correct"
+      measure: "Responses to Q1, pooled over the 16 pairs, that were correct"
+      scale: "percent of pooled Q1 responses"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "individual first vote, before discussion"
+    result:
+      measure_type: other
+      estimate: 52
+      unit: "percent of pooled Q1 responses"
+      interpretation: "48% of pooled Q1 responses were incorrect."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The number of pooled responses behind the Figure 2 percentages is not
+      printed.
+    source_quote: "Q1 52% correct 48% incorrect"
+    source_location: "Figure 2, p. 123 (quoted from the page image)"
+
+  - id: right-to-wrong-share
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Answer change from right to wrong after peer discussion"
+      source_language: "Q1ad 8% incorrect (of the Q1 correct branch)"
+      measure: "Of pooled responses correct on Q1, the share incorrect on Q1ad"
+      scale: "percent of Q1-correct responses"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "individual vote, then re-vote after discussion"
+    result:
+      measure_type: other
+      estimate: 8
+      unit: "percent of responses correct on Q1"
+      interpretation: >-
+        92% of Q1-correct responses stayed correct on Q1ad. Of those that went
+        wrong, 42% were correct on Q2; of those that stayed correct, 90% were
+        correct on Q2.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The base is the Q1-correct branch of Figure 2, not all responses. No
+      count of responses is printed.
+    source_quote: "Q1ad 92% correct 8% incorrect"
+    source_location: "Figure 2, p. 123 (quoted from the page image)"
+
+  - id: wrong-to-right-share
+    comparison_ref: q1ad-vs-q1
+    outcome:
+      construct: "Answer change from wrong to right after peer discussion"
+      source_language: "42% correct (of the Q1 incorrect branch; underlined in the figure)"
+      measure: "Of pooled responses incorrect on Q1, the share correct on Q1ad"
+      scale: "percent of Q1-incorrect responses"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "individual vote, then re-vote after discussion"
+    result:
+      measure_type: other
+      estimate: 42
+      unit: "percent of responses incorrect on Q1"
+      interpretation: >-
+        58% of Q1-incorrect responses were still incorrect on Q1ad. Of the
+        responses that went from wrong to right, 77% were correct on the
+        isomorphic Q2: "Second, of the students who answered Q1 incorrectly and
+        Q1ad correctly, 77% answered Q2 correctly (Fig. 2)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The base is the Q1-incorrect branch of Figure 2, not all responses. No
+      count of responses is printed.
+    source_quote: "42% correct *58% incorrect"
+    source_location: "Figure 2, p. 123 (quoted from the page image)"
+
+  - id: neither-correct-q2-share
+    arm_ref: q2-isomorphic
+    outcome:
+      construct: "Correct answers on an isomorphic question after a discussion in which the learner never had the right answer"
+      source_language: "students who answered both Q1 and Q1ad incorrectly"
+      measure: "Of pooled responses incorrect on both Q1 and Q1ad, the share correct on Q2"
+      scale: "percent of responses incorrect on Q1 and Q1ad"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Q2, answered individually after Q1 and its re-vote"
+    result:
+      measure_type: other
+      estimate: 44
+      unit: "percent of responses incorrect on both Q1 and Q1ad"
+      p_value: "described as significantly better than random guessing; no statistic printed in the article"
+      interpretation: >-
+        56% of these were incorrect on Q2. The authors compare the 44% with
+        guessing on questions averaging four answer choices. The Figure 2
+        caption lists the option counts as 7 with 5 choices, 5 with 4, 3 with
+        3 and 1 with 2 (16 counted, against the 32 questions it names).
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Whether anyone in the discussion group knew the answer"
+          relationship: "The authors argue from a seating model (supporting online text) that some correct Q2 answers came from groups where no one knew the Q1 answer; the article reports no group-level result."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A student wrong on both votes is not the same as a group in which no
+      one knew the answer; the article does not report Q2 results by group
+      composition. No count of responses is printed.
+    source_quote: "Of these students, 44% answered Q2 correctly, significantly better than expected from random guessing (Fig. 2; on average, the questions in our 16 isomorphic pairs had four answer choices each)."
+    source_location: "Text, p. 123; Figure 2 label '*44% correct'"
+
+not_yet_extracted:
+  - "Figure 1A and 1B bar heights (percentage correct on Q1, Q1ad and Q2, overall and by difficulty): shown only as bars with SEM error bars, no numbers printed."
+  - "Figure 2 Q2 branches not recorded as observations: Q1 correct and Q1ad correct, 90% correct on Q2; Q1 correct and Q1ad incorrect, 42% correct on Q2."
+  - "End-of-year survey (n = 328 responding): 47% disagreed that having someone in the group who knows the correct answer is necessary for a productive discussion."
+  - "Supporting online material (table S1 demographics, difficulty cut-offs, the naive-group statistical analysis, fig. S1 sample questions): not read."

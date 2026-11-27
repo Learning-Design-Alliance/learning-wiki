@@ -1,0 +1,340 @@
+# Hermes, Huschens, Rothlauf & Schunk (2021): improvement-based relative
+# performance feedback (a class leaderboard) for low-achieving third-year
+# primary-school children, in a class-randomised trial in Germany.
+#
+# Read from the published article (JEBO 187, 45-59, open access), text layer.
+#
+# WHAT THIS FILE USES:
+#
+#   * `population.age` with the two figures the article prints, mean 8.61 and
+#     SD 0.48. No range is printed; the Discussion's "about 8-9 years" is kept
+#     in the prose only, because it is a description, not a printed range.
+#   * No `measure_type: reliability`: the article prints no reliability or
+#     agreement coefficient for any outcome. The measures are described in the
+#     Supplementary Online Material (Section A.3), which was not read.
+#   * No `measure_type: mean`: outcomes are standardised (mean 0, SD 1) and the
+#     article reports regression coefficients, not group means.
+#
+# TABLE 1 IN THE TEXT LAYER IS SCRAMBLED: the seven columns' cells come out
+# as separate runs, out of column order. The coefficients below are mostly the
+# ones the Results prose prints (two decimals, with p values). One Table 1 cell
+# was read from the page image of the publisher PDF (p. 52): the linear
+# combination (Treat + Treat x Low) for voluntary practice tasks, 0.209
+# (SE 0.199), N 378, which the Results describe only as not significant. Its
+# source_quote is the table row as printed, so it is not found in the text
+# layer. The image also shows the 361 in the N row belongs to Child-r Mot.
+#
+# Every coefficient is from an OLS regression of the post-treatment outcome on
+# treatment, achievement-group dummies and their interactions, with school
+# fixed effects, gender, age, pretreatment grades and the baseline outcome as
+# controls, and standard errors clustered at class level with the BRL
+# small-cluster correction. Middle achievers in the control group are the
+# reference category.
+
+schema_version: 2
+
+study:
+  key: hermes-2021
+  citation: "Hermes, H., Huschens, M., Rothlauf, F., & Schunk, D. (2021). Motivating low-achievers—Relative performance feedback in primary schools. Journal of Economic Behavior & Organization, 187, 45–59."
+  doi: "10.1016/j.jebo.2021.04.004"
+  design:
+    family: cluster-randomized-controlled-trial
+    design_detail: >-
+      Class-wise randomised controlled trial: 20 third-year classes in seven
+      primary schools, randomised at class level within schools and stratified
+      by the socioeconomic status of the school district. Both groups used the
+      same mathematics e-learning software for 15 lessons over five weeks with
+      an improvement-based point system; the treatment group also saw a
+      permanently visible, dynamic class ranking of points. Pre- and
+      post-treatment measurement waves; low-, middle- and high-achievers
+      defined from teacher-reported baseline grades.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: rpf-improvement-boosts-motivation-effort-low-achievers
+    bearing: supports
+    anchor: hermes-et-al-2021
+  - claim: rpf-improvement-improves-math-outcomes-low-achievers
+    bearing: supports
+    anchor: hermes-et-al-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 378
+    unit: participants
+  allocation:
+    value: 20
+    unit: classes
+  additional_sizes:
+    - value: 7
+      unit: schools
+      note: "primary schools recruited"
+    - value: 404
+      unit: participants
+      note: "children in the 20 classes when the study began"
+    - value: 399
+      unit: participants
+      note: "children with parental consent (98.8%); 197 (49%) in the treatment group"
+    - value: 383
+      unit: participants
+      note: "after excluding 16 children whose language level was not sufficient for the software; 378 in the main results because five lacked a Math or German grade"
+  population:
+    description: >-
+      Third-year primary-school children in Germany (53% male), class sizes 18
+      to 24. Low achievers (a teacher-reported grade worse than 3 in Math or
+      Language) n = 99, middle achievers n = 165, high achievers (grade 1)
+      n = 114.
+    age_or_stage: "Third year of primary school, at the beginning of the school year; described in the Discussion as about 8-9 years"
+    age:
+      unit: years
+      mean: 8.61
+      sd: 0.48
+  context:
+    setting: "Regular mathematics lessons, one 50-minute lesson three days a week for five weeks, conducted by trained research assistants; each child at an individual notebook with headset. The software repeated second-grade arithmetic in 11 modules."
+  arms:
+    - id: rpf-low
+      description: "Low-achieving children in treatment classes: individual cumulative points plus a public, dynamic class ranking of points earned for improvement."
+      size:
+        value: 55
+        unit: participants
+    - id: control-low
+      description: "Low-achieving children in control classes: the same software and improvement-based points, with individual feedback only."
+      size:
+        value: 44
+        unit: participants
+    - id: rpf-mid
+      description: "Middle-achieving children in treatment classes."
+      size:
+        value: 69
+        unit: participants
+    - id: control-mid
+      description: "Middle-achieving children in control classes; the regression's reference category."
+      size:
+        value: 96
+        unit: participants
+
+comparisons:
+  - id: rpf-vs-control-low
+    kind: between-groups
+    index_arm: rpf-low
+    reference_arm: control-low
+    description: >-
+      Low achievers in treatment classes against low achievers in control
+      classes: the linear combination Treat + Treat x Low of the regression.
+  - id: rpf-effect-low-vs-mid
+    kind: other
+    index_arm:
+      - rpf-low
+      - control-low
+    reference_arm:
+      - rpf-mid
+      - control-mid
+    description: >-
+      The heterogeneous treatment effect for low achievers (the Treat x Low
+      interaction): how far the treatment-control difference among low
+      achievers exceeds the treatment-control difference among middle
+      achievers.
+
+observations:
+
+  - id: motivation-task-rpf-vs-control-low
+    comparison_ref: rpf-vs-control-low
+    outcome:
+      construct: "Motivation"
+      source_language: "motivation test task"
+      measure: "Computer-based motivation task designed to capture intrinsic motivation, post-treatment"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-treatment, within the week after the last training lesson"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.34
+      unit: SD
+      p_value: ".026"
+      model: "Linear combination Treat + Treat x Low; OLS with school FE, controls and baseline outcome; class-clustered BRL standard errors"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The linear combination of the interaction effect with the treatment dummy, indicating the difference between the subgroup of low-achieving children in the treatment group and the low-achieving children in the control group, is substantial and signiﬁcant—low-achieving children in the treatment group perform 0.34 SD ( p = .026) better in the motivation task and are rated 0.47 SD ( p = .094) higher on motivation by their teachers."
+    source_location: "Section 3, Results; Table 1 column 1"
+
+  - id: teacher-motivation-rpf-vs-control-low
+    comparison_ref: rpf-vs-control-low
+    outcome:
+      construct: "Motivation"
+      source_language: "teacher-rated motivation"
+      measure: "Teacher ratings of the child's motivation, post-treatment"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-treatment"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.47
+      unit: SD
+      p_value: ".094"
+      model: "Linear combination Treat + Treat x Low; OLS with school FE, controls and baseline outcome; class-clustered BRL standard errors"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The article does not say whether the rating teachers knew their class's
+      condition.
+    source_quote: "The linear combination of the interaction effect with the treatment dummy, indicating the difference between the subgroup of low-achieving children in the treatment group and the low-achieving children in the control group, is substantial and signiﬁcant—low-achieving children in the treatment group perform 0.34 SD ( p = .026) better in the motivation task and are rated 0.47 SD ( p = .094) higher on motivation by their teachers."
+    source_location: "Section 3, Results; Table 1 column 2"
+
+  - id: voluntary-tasks-interaction-low
+    comparison_ref: rpf-effect-low-vs-mid
+    outcome:
+      construct: "Effort"
+      source_language: "number of tasks solved voluntarily"
+      measure: "Count of voluntary practice tasks solved within the e-learning software, logged during the intervention"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the five-week intervention"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.39
+      unit: SD
+      p_value: ".044"
+      model: "Treat x Low interaction coefficient; OLS with school FE and controls; no baseline score exists for this outcome, so none is controlled"
+      note: "The article says the linear combination with the treatment effect (low achievers, treatment against control) is not significant for this outcome; its value is in Table 1 and is not recorded here."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "For children’s effort displayed within the e-learning software (measured as the number of tasks solved voluntarily or the time spent on these tasks), our results seem to conﬁrm the ﬁndings for motivation: there is a strong and signiﬁcant heterogeneous treatment effect for low-achieving children (0.39 SD ( p = .044) for number of tasks, 0.41 SD ( p = .078) for time spent on voluntary practice); the linear combination with the treatment effect is, however, not signiﬁcant."
+    source_location: "Section 3, Results; Table 1 column 4"
+
+  - id: voluntary-tasks-rpf-vs-control-low
+    comparison_ref: rpf-vs-control-low
+    outcome:
+      construct: "Effort"
+      source_language: "Vol. Tasks"
+      measure: "Count of voluntary practice tasks solved within the e-learning software, logged during the intervention (as above)"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the five-week intervention"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.209
+      unit: SD
+      standard_error: 0.199
+      model: "Linear combination Treat + Treat x Low; OLS with school FE and controls; class-clustered BRL standard errors; N = 378"
+      note: "No significance star is printed for this cell (stars mark p < .10, .05, .01), which agrees with the Results calling the linear combination not significant. The Treat x Low cell in the same column is 0.388 (SE 0.192), printed as 0.39 SD in the Results."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Treat + Treat × Low 0.209 (0.199)"
+    source_location: "Table 1, column Vol. Tasks, row Treat + Treat × Low (p. 52), read from the page image"
+
+  - id: math-multdiv-interaction-low
+    comparison_ref: rpf-effect-low-vs-mid
+    outcome:
+      construct: "Mathematics performance"
+      source_language: "Math Multiplication/Division"
+      measure: "Post-treatment multiplication and division task set, designed to differ from the training tasks while measuring the competencies trained"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-treatment"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.74
+      unit: SD
+      p_value: ".011"
+      model: "Treat x Low interaction coefficient; OLS with school FE, controls and baseline outcome; class-clustered BRL standard errors"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The subgroup of low-achievers displays a strong and signiﬁcant heterogeneous treatment effect on Math Multiplication/Division (0.74 SD, p = .011)."
+    source_location: "Section 3, Results; Table 1 column 7"
+
+  - id: math-multdiv-rpf-vs-control-low
+    comparison_ref: rpf-vs-control-low
+    outcome:
+      construct: "Mathematics performance"
+      source_language: "Math Multiplication/Division"
+      measure: "Post-treatment multiplication and division task set (as above)"
+      scale: "standardised outcome (mean 0, SD 1); OLS coefficient in SD units"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-treatment"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.43
+      unit: SD
+      p_value: ".065"
+      model: "Linear combination Treat + Treat x Low; OLS with school FE, controls and baseline outcome; class-clustered BRL standard errors"
+      interpretation: "The authors compare it with a baseline gap of 0.54 SD between low and middle achievers on this task and say it closed about 80% of that gap."
+    moderators:
+      reported: []
+      candidate:
+        - "Points earned: the article reports larger effects in a subsample of children with above-median points (n = 183), a restricted-sample analysis rather than a tested moderator"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The difference between low-achievers in treatment and control group for this learning outcome is large and signiﬁcant at the 10-percent level (0.43 SD, p = .065)."
+    source_location: "Section 3, Results; Table 1 column 7"
+
+not_yet_extracted:
+  - "Remaining Table 1 cells (three-decimal coefficients and BRL standard errors for Treat x Low, Treat (Mid), Treat x High and Treat + Treat x Low across seven outcomes); legible on the page image (p. 52). Only the voluntary-tasks linear combination is recorded."
+  - "Treat x Low for the motivation task (0.47 SD, p = .034), teacher-rated motivation (0.43 SD, p = .008) and time spent on voluntary practice (0.41 SD, p = .078), printed in the Results."
+  - "Baseline gap on Math Multiplication/Division: low achievers 0.54 SD below middle achievers."
+  - "Above-median-points subsample (n = 183, 67 low achievers): linear combinations 0.43 SD motivation test (p = .026), 0.44 SD teacher-rated motivation (p = .082), 0.41 SD voluntary practice (p = .042), and further results."
+  - "Rank-improver subsample (n = 163), stress, competition, self-efficacy and gender-difference analyses (exploratory)."
+  - "Outcome measure details and any reliabilities: Supplementary Online Material Section A.3, not read."

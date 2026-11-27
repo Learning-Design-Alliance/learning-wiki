@@ -1,0 +1,143 @@
+# Baker, Walonoski, Heffernan, Roll, Corbett & Koedinger (2008), Cognitive
+# Tutor Study Two: disliking mathematics and detected gaming the system.
+#
+# The article reports four studies with different samples; this file is the
+# second (Cognitive Tutor Study Two, Spring 2005). See baker-2008-study1 and
+# baker-2008-study3 for the others.
+#
+# No DOI: a Crossref bibliographic search on the title (2026-11-27) returned
+# no record for this article, so `study.doi` is left unset.
+#
+# ANALYSED N. The article says 108 students completed all stages, but every
+# item correlation in this study prints F(1,95), i.e. 97 cases. The source does
+# not explain the difference, so no per-observation `sample` is recorded; the
+# F statistic is kept as printed.
+#
+# No reliability or validity coefficient is printed for the single Likert
+# items or the gaming detector, so no reliability observation is recorded.
+#
+# Read from a PDF of the typeset published article (text layer).
+
+schema_version: 2
+
+study:
+  key: baker-2008-study2
+  citation: "Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., & Koedinger, K. (2008). Why students engage in “gaming the system” behavior in interactive learning environments. Journal of Interactive Learning Research, 19(2), 185–224."
+  design:
+    family: observational
+    design_detail: >-
+      Correlational field study within regular Cognitive Tutor lessons. Each
+      student's gaming frequency was estimated by the same machine-learned
+      gaming detector as in Cognitive Tutor Study One and correlated, item by
+      item, with 1-6 Likert questionnaire items given with the unit pretest.
+      No manipulation and no comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 108
+    unit: participants
+  additional_sizes:
+    - value: 13
+      unit: participants
+      note: "students removed from analysis for missing one or more parts of the study"
+    - value: 5
+      unit: classes
+      note: "classes at two schools in the Pittsburgh suburbs"
+  population:
+    description: >-
+      Middle school mathematics students in the second semester of a year-long
+      Cognitive Tutor course, five classes at two suburban Pittsburgh schools,
+      who had used Cognitive Tutors several times a week for several months.
+    age_or_stage: "Middle school; ages approximately 12 to 14"
+    age:
+      unit: years
+      min: 12
+      max: 14
+      note: "The article says ages ranged from approximately 12 to 14."
+  context:
+    setting: "Cognitive Tutor lessons on scatterplots (47% of students) or on converting between percents and other representations (53%), 80 minutes, Spring 2005"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations across students between single questionnaire items and detected gaming frequency; no contrast between groups."
+
+observations:
+
+  - id: h3-math-boring-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Cognitive Tutor gaming detector estimate of gaming frequency, against the single Likert item “Math is boring” (1 Strongly Disagree to 6 Strongly Agree; Knezek & Christensen, 1995)"
+      scale: "correlation r with the questionnaire item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire with the unit pretest; gaming during the 80-minute lesson"
+    result:
+      measure_type: correlation
+      estimate: 0.19
+      statistic: "F(1,95)=3.47"
+      p_value: "p=0.07"
+      interpretation: "Students who rated maths as more boring gamed more; the authors call the relationship relatively weak"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Single item, no reliability reported. The analysed n is not stated; the
+      F degrees of freedom imply 97, against 108 reported as completing.
+    source_quote: "“Math is boring” (Knezek & Christensen, 1995) o r=0.19, F(1,95)=3.47, p=0.07"
+    source_location: "Results, H3: Disliking math, p. 210"
+
+  - id: h3-enjoy-difficult-math-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Cognitive Tutor gaming detector estimate of gaming frequency, against the single Likert item “I enjoy working on a difficult math problem” (1-6)"
+      scale: "correlation r with the questionnaire item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire with the unit pretest; gaming during the 80-minute lesson"
+    result:
+      measure_type: correlation
+      estimate: -0.15
+      statistic: "F(1,95)=2.12"
+      p_value: "p=0.15"
+      interpretation: "Not significant; same direction as the other disliking-maths item"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Single item, no reliability reported. The analysed n is not stated; the
+      F degrees of freedom imply 97.
+    source_quote: "“I enjoy working on a difficult math problem” (Knezek and Christensen, 1995) o r= -0.15, F(1,95)=2.12, p=0.15"
+    source_location: "Results, H3: Disliking math, p. 210"
+
+not_yet_extracted:
+  - "This study's H2, H8, H9, H10 and H11 items (control, tutor helpfulness, caring, self-drive, passive-aggressiveness): item-level correlations with gaming printed in the Results section, not recorded here"

@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 11
+
+The batch adds 15 files and 107 observations:
+- Bahrick & Hall (1991), Marsh, Cairns et al. (1984), Smith et al. (2009), Jonsson & Svingby (2007).
+- Baker et al. (2008), Studies 1–3.
+- Bailey et al. (2020), Chen et al. (2020).
+- Chandler & Sweller (1991), Experiments 1, 2 and 6.
+- Giancola et al. (2024), Hermes et al. (2021), Delgado et al. (2018).
+
+Cowan (2014) gets no record: it is a review, and the simulator cites it only for the direction of capacity growth with age (its rate, .25 per half-year, is the simulator's own judgement).
+
+Tables the text layer garbled were read from page images of PDFs in the maintainer's Drive folder:
+- Bahrick & Hall: Tables 5, 6 and 8. These give the steps and weights for the rate of loss, and three claim pages gained edges.
+- Hermes et al.: Table 1. The low achievers' voluntary-tasks effect, treatment against control, is 0.209 (SE 0.199), N 378.
+
+Findings for the simulator to check:
+- Bahrick & Hall: GRADE × ATIME is a significant weight on the rate of loss (−1.134, t −2.75, p .01), while the authors call
+  grades' effect on the rate trivial. The record carries a `qualifies` edge to
+  `grades-sat-predict-level-not-decline-rate` beside its `supports` edge. ALGNUM × ATIME is negative (−2.046, p .05)
+  even though course-taking reduces loss overall; the authors say the course variables are confounded with each other.
+- Bahrick & Hall: two reliability pairs are printed for the same tests. The Method gives .94 and .93 (Spearman-Brown
+  split-half). The Discussion gives .98 and .95 and names no coefficient.
+- Hermes et al.: the voluntary-tasks figure is a linear combination with no significance star. The 0.39 SD in the
+  Results is the Treat × Low interaction (0.388, SE 0.192), not the treatment effect for low achievers.
+
 ## 2026-11-27 · Observation records batch 10, and the Cutrona year
 
 The batch adds 13 files and 100 observations:
