@@ -1,0 +1,404 @@
+# Tarmizi & Sweller (1988), Experiment 4: conventional geometry problems,
+# conventional (split-source) worked examples and modified (integrated) worked
+# examples for the top 30 students of a Year 9 mathematics class in Sydney.
+#
+# Read from the publisher PDF, a scan with an OCR text layer. The OCR layer
+# mangles the statistics ("F(l, 27)", "MS, = 12.71", "F{\, 27)", and the
+# volume as "SO"), so EVERY F ratio and MSe recorded below was read from the
+# page images (pp. 432-433), not from the text. The source quotes are the
+# clean prose in front of each statistic and the Table 4 rows, which the text
+# layer reproduces correctly; each was checked against the page images.
+#
+# Allocation: Experiment 4 says only "There were three groups of 10 subjects
+# each" and that its general procedure was similar to Experiment 3's, in which
+# subjects were allocated at random. The Experiment 4 method does not itself
+# state random allocation, so the design family is `other`, not a randomised
+# trial.
+#
+# Experiments 1-3 and 5 used other samples and are not recorded here.
+
+schema_version: 2
+
+study:
+  key: tarmizi-1988-exp4
+  citation: "Tarmizi, R. A., & Sweller, J. (1988). Guidance during mathematical problem solving. Journal of Educational Psychology, 80(4), 424–436."
+  doi: "10.1037/0022-0663.80.4.424"
+  design:
+    family: other
+    design_detail: >-
+      Three-group between-subjects experiment, 10 subjects a group:
+      conventional problems, conventional (split-source) worked examples and
+      modified worked examples with the solution steps placed within the
+      geometric diagram. 16-minute acquisition period of paired two-step
+      circle-geometry problems, then four test problems; verbal protocols
+      recorded throughout. Group differences tested as planned single-df
+      contrasts, F(1, 27). The method of allocation to groups is not stated
+      for this experiment (see header).
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: split-attention-effect-in-worked-examples
+    bearing: supports
+
+evidence_base:
+  unit: participants
+  size:
+    value: 30
+    unit: participants
+  population:
+    description: >-
+      The top 30 students from the Year 9 mathematics class of a Sydney high
+      school, not previously exposed to circle geometry; their mathematical
+      background was sufficient to follow the explanations and solve problems
+      in the area.
+    age_or_stage: "Year 9"
+    age: unreported
+  context:
+    setting: "A Sydney high school; circle-geometry problems, students working individually and thinking aloud"
+  arms:
+    - id: conventional
+      description: "Conventional problems: every acquisition problem solved, presented in conventional fashion."
+      size:
+        value: 10
+        unit: participants
+      dose:
+        amount: 16
+        unit: minutes
+        detail: "acquisition period"
+    - id: conventional-worked-example
+      description: "Conventional worked examples: the first of each similar problem pair presented as a worked example in the conventional split-source format (solution text separate from the diagram), the second solved as a conventional problem."
+      size:
+        value: 10
+        unit: participants
+      dose:
+        amount: 16
+        unit: minutes
+        detail: "acquisition period"
+    - id: modified-worked-example
+      description: "Modified worked examples: the same procedure with the worked solution placed within the geometric diagram as numerically ordered steps, calculated angle values in red and givens in black."
+      size:
+        value: 10
+        unit: participants
+      elements:
+        - term: "worked solution steps integrated into the diagram"
+      dose:
+        amount: 16
+        unit: minutes
+        detail: "acquisition period"
+
+comparisons:
+  - id: modified-vs-other-two
+    kind: between-groups
+    index_arm: modified-worked-example
+    reference_arm: [conventional, conventional-worked-example]
+    description: "Modified worked-example group against the conventional and conventional worked-example groups combined, a single-df contrast."
+  - id: modified-vs-conventional-worked-example
+    kind: between-groups
+    index_arm: modified-worked-example
+    reference_arm: conventional-worked-example
+    description: "Integrated against split-source worked examples, a single comparison between the two worked-example groups."
+
+observations:
+
+  - id: acquisition-problems-processed-contrast
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: modified-vs-other-two
+    outcome:
+      construct: "Acquisition throughput"
+      source_language: "No. problems processed"
+      measure: "Number of acquisition problems processed in the 16-minute acquisition period"
+      scale: "F for a single-df contrast"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "acquisition phase"
+    result:
+      measure_type: other
+      statistic: "F(1, 27) = 12.60, MSe = 12.71"
+      descriptives: "Mean problems processed: conventional 7.7, conventional worked example 7.1, modified worked example 12.30 (Table 4)"
+      interpretation: "Modified worked-example group processed significantly more problems; the other two groups did not differ, F(1, 27) = 0.14, MSe = 12.71."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No standardised effect size or SD is printed; only the MSe. The F and MSe were read from the page image (p. 432)."
+    source_quote: "The modified worked-example group processed significantly more problems than the other two groups,"
+    source_location: "Experiment 4, Results and Discussion, p. 432"
+
+  - id: acquisition-problems-processed-mean-modified
+    arm_ref: modified-worked-example
+    outcome:
+      construct: "Acquisition throughput"
+      source_language: "No. problems processed"
+      measure: "Number of acquisition problems processed in the 16-minute acquisition period"
+      scale: "problems"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "acquisition phase"
+    result:
+      measure_type: mean
+      estimate: 12.30
+      unit: "problems processed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "7.7 7.1 12.30"
+    source_location: "Table 4, acquisition phase, No. problems processed row, p. 433"
+
+  - id: acquisition-problems-processed-mean-conventional-worked-example
+    arm_ref: conventional-worked-example
+    outcome:
+      construct: "Acquisition throughput"
+      source_language: "No. problems processed"
+      measure: "Number of acquisition problems processed in the 16-minute acquisition period"
+      scale: "problems"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "acquisition phase"
+    result:
+      measure_type: mean
+      estimate: 7.1
+      unit: "problems processed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "7.7 7.1 12.30"
+    source_location: "Table 4, acquisition phase, No. problems processed row, p. 433"
+
+  - id: test-problem1-time-worked-example-contrast
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: modified-vs-conventional-worked-example
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 1, very similar to the acquisition problems; maximum 180 s"
+      scale: "F for a single-df contrast"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: other
+      statistic: "F(1, 27) = 4.95, MSe = 2173.19"
+      descriptives: "Mean s to solution: conventional 87.8, conventional worked example 129.0, modified worked example 82.6 (Table 4)"
+      interpretation: >-
+        Significant in the single comparison of the two worked-example groups.
+        The modified group against the other two combined was not significant,
+        F(1, 27) = 2.04, MSe = 2173.19.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      F and MSe read from the page image (p. 433). The MSe is from the
+      three-group analysis (27 error df), so the sample is all 30 students.
+      Subjects who failed a problem were given the maximum time; the authors
+      say this violated ANOVA assumptions and that nonparametric tests gave
+      identical conclusions.
+    source_quote: "It might be noted also that a single comparison between the two worked-example groups yielded a significant effect,"
+    source_location: "Experiment 4, Results and Discussion, p. 433"
+
+  - id: test-problem1-time-mean-modified
+    arm_ref: modified-worked-example
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 1; maximum 180 s"
+      scale: "seconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: mean
+      estimate: 82.6
+      unit: "seconds"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "Problem 1 Mean s to solution 87.8 129.0 82.6"
+    source_location: "Table 4, test phase, p. 433"
+
+  - id: test-problem1-time-mean-conventional-worked-example
+    arm_ref: conventional-worked-example
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 1; maximum 180 s"
+      scale: "seconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: mean
+      estimate: 129.0
+      unit: "seconds"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "Problem 1 Mean s to solution 87.8 129.0 82.6"
+    source_location: "Table 4, test phase, p. 433"
+
+  - id: test-problem2-time-contrast
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: modified-vs-other-two
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 2, a three-move problem somewhat different in structure from the acquisition problems; maximum 180 s"
+      scale: "F for a single-df contrast"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: other
+      statistic: "F(1, 27) = 4.72, MSe = 2371.15"
+      descriptives: "Mean s to solution: conventional 130.1, conventional worked example 164.8, modified worked example 106.5 (Table 4)"
+      interpretation: "Modified group significantly faster than the other two, which did not differ, F(1, 27) = 2.5, MSe = 2371.15."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "F and MSe read from the page image (p. 433). The Table 4 row is: Problem 2 Mean s to solution 130.1 164.8 106.5."
+    source_quote: "On Problem 2, the modified worked-example group required significantly less time to solution,"
+    source_location: "Experiment 4, Results and Discussion, p. 433; Table 4"
+
+  - id: test-problem3-time-contrast
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: modified-vs-other-two
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 3, a three-move problem; maximum 180 s"
+      scale: "F for a single-df contrast"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: other
+      statistic: "F(1, 27) = 3.50, MSe = 2341.1"
+      p_value: ".05 < p < .10"
+      descriptives: "Mean s to solution: conventional 132.0, conventional worked example 153.7, modified worked example 107.8 (Table 4)"
+      interpretation: "Not significant at .05; the authors say it may represent a real effect. Conventional and conventional worked-example groups did not differ, F(1, 27) = 1.00, MSe = 2341.10."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "F and MSe read from the page image (p. 433), where the MSe is printed as 2341.1 in one test and 2341.10 in the other."
+    source_quote: "Although the difference between the modified worked-example group and the other two groups on Problem 3 was not significant at the .05 level, this may nevertheless represent a real effect,"
+    source_location: "Experiment 4, Results and Discussion, p. 433; Table 4"
+
+  - id: test-problem4-time-contrast
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: modified-vs-other-two
+    outcome:
+      construct: "Geometry problem-solving speed"
+      source_language: "Mean s to solution"
+      measure: "Seconds to solve test Problem 4, a goal-free problem requiring seven moves; maximum 240 s"
+      scale: "F for a single-df contrast"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition"
+    result:
+      measure_type: other
+      statistic: "F(1, 27) = 5.32, MSe = 2555.12"
+      descriptives: "Mean s to solution: conventional 202.8, conventional worked example 221.5, modified worked example 167.0 (Table 4)"
+      interpretation: "Modified group significantly faster than the other two, which did not differ, F(1, 27) = 0.68, MSe = 2555.12."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "F and MSe read from the page image (p. 433). The Table 4 row is: Problem 4 Mean s to solution 202.8 221.5 167.0."
+    source_quote: "with the modified worked-example group again requiring significantly less time to solution than the other two groups,"
+    source_location: "Experiment 4, Results and Discussion, p. 433; Table 4"
+
+not_yet_extracted:
+  - "Acquisition times per problem, initial and repeat (Table 4) and their contrasts (F = 17.15, 0.16, 7.81, 10.73)"
+  - "Acquisition and test errors per problem (Table 4; test means 0.38, 0.53, 0.55) and their contrasts"
+  - "Total test time contrast, F(1, 27) = 6.43, MSe = 20754.32, and the count of unsolved test problems (6, 16, 26)"
+  - "Strategy counts from the verbal protocols (subjects working backward, Table 4; chi-square tests) and the correlations r(28) = .24 and .57"
+  - "Experiments 1-3 and 5 (different samples)"
