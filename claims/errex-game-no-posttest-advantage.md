@@ -13,7 +13,7 @@ sources:
   - id: mogessie-et-al-2020
     resource: "https://doi.org/10.1007/978-3-030-52240-7_38"
     title: "Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S. (2020). Confrustion and Gaming While Learning with Erroneous Examples in a Decimals Game. Artificial Intelligence in Education. https://doi.org/10.1007/978-3-030-52240-7_38"
-    author: Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S.
+    author: "Mogessie, M., Richey, J. E., McLaren, B. M., Andres-Bray, J. M. L., & Baker, R. S."
     q: 3
     i: "?"
     kind: causal

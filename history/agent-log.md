@@ -45,7 +45,6 @@ Findings for the simulator to check:
 - Kirya et al.: the keyed answer to item 17 was marked by typography the text layer lost, so it is not recorded.
 - Seol & Jung: Table 1's significance stars are detached from the cells, so p < .001 for r = .32 is not recorded.
 - Kievit et al. (2019): an erratum exists (10.1177/0956797619860523) and was not read.
-- Bastani et al. (2025) and Tullis & Goldstone (2020): the simulator's figures are all present as printed.
 
 ## 2026-11-27 · Observation records batch 12, and two citation repairs
 
