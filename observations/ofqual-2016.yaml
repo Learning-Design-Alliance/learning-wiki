@@ -1,0 +1,265 @@
+# Ofqual (2016), Marking consistency metrics (Rhead, Black & Pinot de Moira):
+# how far examiners' marks agree with a senior examiner's definitive mark, in
+# onscreen-marking monitoring data from four exam boards.
+#
+# Grey literature: a technical report from England's exam regulator, with no
+# DOI on the front matter, so `doi` is omitted (not established) rather than
+# null. The front matter reads "November 2016", "Ofqual/16/6121"; it names the
+# authors. Read from the publisher PDF on GOV.UK (40 pp.) and its text layer.
+#
+# Tables 1 and 3 come out of the text layer column by column, not row by row.
+# Each source_quote below is therefore one printed COLUMN of a table as the
+# text layer gives it (a verbatim substring), and which row each value sits on
+# was confirmed on the page images of pp. 14 and 32.
+#
+# What is recorded and what is not:
+#   * Table 1 prints COUNTS of physics seed items by mark difference. The share
+#     with zero difference, the share within one mark, and the SD or mean of
+#     the differences are not printed anywhere; computing them from the counts
+#     would be a conversion, so only the printed counts are recorded.
+#   * Table 3's ranges (lowest and highest of 18 printed specification values)
+#     are the extremes of printed values, not a range the report itself prints;
+#     each observation says so. These figures are Ofqual's own derivations
+#     (sums of item-level variances; pseudo-candidates simulated from them), so
+#     they are the report's published estimates, not raw measurements.
+#   * No reliability or agreement coefficient is printed: the report treats
+#     "quality of marking" as distinct from reliability. No measure_type
+#     reliability, and no candidate ages: `age: unreported`.
+
+schema_version: 2
+
+study:
+  key: ofqual-2016
+  citation: "Rhead, S., Black, B., & Pinot de Moira, A. (2016). Marking consistency metrics (Ofqual/16/6121). Office of Qualifications and Examinations Regulation (Ofqual). https://assets.publishing.service.gov.uk/media/5a85437de5274a2e87dc3e1c/Marking_consistency_metrics_-_November_2016.pdf"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of operational mark-remark data from onscreen-marking
+      monitoring (seed items with a senior examiner's definitive mark, and
+      blind sample double marking) supplied by AQA, OCR, Pearson and WJEC for
+      GCSE and GCE units in eleven subjects. Item-level distributions of the
+      examiner-minus-definitive mark difference; component- and
+      specification-level metrics derived by summing item means and variances
+      (covariances assumed zero) and by simulating pseudo-candidates. No
+      intervention and no comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: items
+  size:
+    value: 66700000
+    unit: items
+  additional_sizes:
+    - value: 433
+      unit: other
+      note: "unique units/components in the data set"
+    - value: 11800000
+      unit: items
+      note: "seed items, given in the report as 'approximately 11.8 million'"
+    - value: 600000
+      unit: items
+      note: "sample double-marked items"
+    - value: 18
+      unit: other
+      note: "physics specifications (8 GCSE, 5 AS, 5 A2) in Table 3"
+  population:
+    description: >-
+      Examiners' marks on candidates' responses in GCSE and GCE (AS and A level)
+      units marked onscreen by AQA, OCR, Pearson and WJEC, in business studies,
+      English language, English literature, French, geography, history,
+      physical education, physics, psychology, sociology and Spanish. The
+      records below are physics only. The total of 66.7 million items is given
+      by the report as "some 66.7 million" and includes 54.5 million
+      automarked items.
+    age_or_stage: "GCSE and GCE (AS/A level) candidates; the report prints no ages"
+    age: unreported
+  context:
+    setting: "Live onscreen marking sessions, 2013-2015; seed items inserted into examiners' allocations at about 5%, marked blind to the definitive mark"
+  arms: []
+
+comparisons:
+  - id: physics-seed-items-2015
+    kind: none
+    description: "Examiner mark against definitive mark for all 2015 physics seed items, all boards, GCSE and GCE; no contrast between groups."
+  - id: physics-specifications
+    kind: none
+    description: "Specification-level marking metrics across the 18 physics specifications of Table 3; no contrast between groups."
+
+observations:
+
+  - id: physics-seed-zero-difference-count-2015
+    comparison_ref: physics-seed-items-2015
+    outcome:
+      construct: "Examiner agreement with the definitive mark"
+      source_language: "Distribution of mark differences for all physics seed items"
+      measure: "Mark awarded by the first examiner minus the final (definitive) mark, per seed item"
+      scale: "count of seed items with a mark difference of 0"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "2015 live marking session"
+    result:
+      measure_type: count
+      estimate: 2075847
+      unit: "physics seed items with zero mark difference"
+      descriptives: >-
+        2015 counts by mark difference as printed in Table 1: -6: 7; -5: 9;
+        -4: 90; -3: 504; -2: 6,646; -1: 52,427; 0: 2,075,847; 1: 50,338;
+        2: 5,756; 3: 533; 4: 126; 5: 5; 6: 0. The report prints no total,
+        proportion or SD for this distribution.
+      interpretation: "The report reads the distribution as almost perfectly symmetric around zero, with no bias towards severe or lenient marking"
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Maximum mark of the item"
+          relationship: "Physics items are mostly low-tariff (generally 6 marks or fewer); the report notes agreement falls as the maximum mark rises, across subjects (Figure 6), but tests this in no physics-specific analysis"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A count, not an effect. The quote is the 2015 column of Table 1 as the
+      text layer gives it (values for differences -6 to 6, top to bottom);
+      the row assignment was checked on the page image (p. 14). The 2013 and
+      2014 columns are in not_yet_extracted.
+    source_quote: "7 9 90 504 6,646 52,427 2,075,847 50,338 5,756 533 126 5 0"
+    source_location: "Section 4.1, Table 1 (pp. 13-14), 2015 column"
+
+  - id: physics-spec-marking-sd-range
+    comparison_ref: physics-specifications
+    outcome:
+      construct: "Spread of marking error at specification level"
+      source_language: "Standard Deviation (% Max. Mark)"
+      measure: "SD of the examiner-minus-definitive mark difference for a whole specification, estimated from the item-level variances (equation 2), as a percentage of the specification's maximum mark"
+      scale: "percent of maximum mark"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "2015 physics data"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 0.98
+        upper: 3.39
+        over:
+          value: 18
+          unit: other
+      unit: "percent of maximum mark"
+      model: "Sum of independent random variables over all items in a specification; covariances between items assumed zero"
+      note: >-
+        Lowest (AS - 5) and highest (GCSE - F3) of the 18 printed values; the
+        report prints the per-specification values, not this range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the Standard Deviation column of Table 3 as the text layer gives
+      it, GCSE - F1 to A2 - 5 top to bottom; checked on the page image (p. 32).
+    source_quote: "1.62 3.23 3.39 2.60 1.19 1.95 2.16 1.38 1.36 1.58 1.94 1.94 0.98 1.39 1.62 1.88 1.78 1.49"
+    source_location: "Section 4.3, Table 3 (p. 32), Standard Deviation column"
+
+  - id: physics-spec-p-definitive-grade-weighted-range
+    comparison_ref: physics-specifications
+    outcome:
+      construct: "Probability a candidate receives the definitive grade"
+      source_language: "Probability of definitive Grade (weighted)"
+      measure: "Probability of being awarded the grade the definitive marks would give, from simulated pseudo-candidates, weighted by the mark distribution"
+      scale: "probability"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "2015 physics data"
+    result:
+      measure_type: probability
+      estimate_range:
+        lower: 0.85
+        upper: 0.96
+        over:
+          value: 18
+          unit: other
+      model: >-
+        Specification grade boundaries as the sum of component boundaries;
+        probability weighted by the number of candidates at each mark, with the
+        mark distribution assumed normal around half the maximum mark because
+        real mark distributions were not available
+      note: >-
+        Lowest (A2 - 5) and highest (GCSE - F1) of the 18 printed values; the
+        report prints the per-specification values, not this range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the weighted-probability column of Table 3 as the text layer
+      gives it; checked on the page image (p. 32).
+    source_quote: "0.96 0.89 0.88 0.90 0.93 0.86 0.86 0.90 0.91 0.89 0.88 0.86 0.92 0.89 0.88 0.88 0.89 0.85"
+    source_location: "Section 4.3, Table 3 (p. 32), Probability of definitive Grade (weighted) column"
+
+  - id: physics-spec-p-definitive-grade-integration-range
+    comparison_ref: physics-specifications
+    outcome:
+      construct: "Probability a candidate receives the definitive grade"
+      source_language: "Probability of definitive Grade (integration)"
+      measure: "Probability of being awarded the definitive grade over the judgemental grade boundaries only: the probability curve numerically integrated from the lowest judgemental boundary to the highest and divided by the number of marks between them, independent of the mark distribution"
+      scale: "probability"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "2015 physics data"
+    result:
+      measure_type: probability
+      estimate_range:
+        lower: 0.59
+        upper: 0.93
+        over:
+          value: 18
+          unit: other
+      note: >-
+        Lowest (A2 - 5) and highest (GCSE - F1) of the 18 printed values; the
+        report prints the per-specification values, not this range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the integration-probability column of Table 3 as the text layer
+      gives it; checked on the page image (p. 32). The report calls this the
+      most conservative of its probability statistics, always smaller than the
+      weighted one.
+    source_quote: "0.93 0.83 0.75 0.83 0.91 0.81 0.81 0.88 0.83 0.75 0.78 0.69 0.80 0.82 0.77 0.75 0.76 0.59"
+    source_location: "Section 4.3, Table 3 (p. 32), Probability of definitive Grade (integration) column"
+
+not_yet_extracted:
+  - "Table 1, 2013 and 2014 columns of physics seed-item counts by mark difference"
+  - "Table 3, expected difference (% of maximum mark) per physics specification (-1.43 to 0.24)"
+  - "Table 2, cumulative pseudo-candidate distributions for units 36 and 6"
+  - "Component-level statements: expected differences within 2% and standard deviations within 5% of the maximum mark for all physics components (Figure 9)"
+  - "Figures 4-17 (item agreement by maximum mark, subject comparisons including English language and history), which print no tabulated values"

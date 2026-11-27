@@ -1,0 +1,329 @@
+# NWEA (2026), MAP Growth Technical Report for 2024-2025: score reliability of
+# the MAP Growth Math test in grades 3-8.
+#
+# The report's own front matter reads "MAP Growth Technical Report for
+# 2024–2025", dated April 2, 2026, "(c) 2026 HMH Education Company". That
+# matches the register's "MAP Growth technical report 2024-2025, NWEA 2026";
+# only the PDF's file name says "2025". It names no individual authors, so the
+# citation names NWEA as corporate author with HMH Education Company as
+# publisher. Grey literature with no DOI on the front matter: `doi` omitted.
+# Read from the publisher PDF (147 pp.); only chapter 7's reliability section
+# (7.6, Tables 7.7 and 7.10) and the demographics section (9.1) were read.
+#
+# Tables 7.7 and 7.10 come out of the text layer column by column. Each
+# source_quote is a verbatim run of that text; the grade on each row was
+# checked on the page images (report pp. 71 and 76). In Table 7.7 an (N,
+# reliability) pair stays together in the text, so the quotes are the grade
+# 3-8 pairs; in Table 7.10 the N column is separate, so the quote is the
+# reliability column for Math grades K-12.
+#
+# Ranges over grades 3-8 are the lowest and highest of six printed per-grade
+# values; the report does not print the range itself, and each observation
+# says so. The report prints grades, never ages: `age: unreported`.
+#
+# Test-retest here is the Pearson correlation of RIT scores from two terms of
+# one school year on adaptive (so alternate) forms: the report calls it a mix
+# of test-retest and alternate-forms reliability, spread over months, which
+# includes true growth between terms. It is recorded as `reliability` over
+# `occasions` with statistic `other` and the report's own description in
+# `form`, never as a plain test-retest coefficient.
+
+schema_version: 2
+
+study:
+  key: nwea-2026
+  citation: "NWEA. (2026, April 2). MAP Growth technical report for 2024–2025. HMH Education Company. https://www.nwea.org/uploads/MAP-Growth-Technical-Report-2025.pdf"
+  design:
+    family: observational
+    design_detail: >-
+      Psychometric technical report on operational 2024-2025 MAP Growth test
+      events (computer-adaptive interim tests, Rasch-scaled RIT scores, given
+      fall, winter and spring). Reliability analysed as IRT marginal
+      reliability per subject, grade and term, and as the Pearson correlation
+      between RIT scores of the same students in two terms. No intervention
+      and no comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: map-growth-reliability-095-subject-and-interval-variation
+    bearing: supports
+    anchor: map-growth-technical-report-for-20242025-2026
+
+evidence_base:
+  unit: other
+  size:
+    value: 6
+    unit: other
+  additional_sizes:
+    - value: 785629
+      unit: participants
+      note: "Math grade 4 students with fall-winter, fall-spring and winter-spring score pairs analysed for test-retest reliability (Table 7.10)"
+  population:
+    description: >-
+      US K-12 students who took MAP Growth in 2024-2025; the records below are
+      Math, grades 3-8, one row of the report's tables per grade (the six
+      grades counted in `size`). Per-grade Ns are several hundred thousand to
+      about a million students per term (Tables 7.7 and 7.10). Across Math and
+      Reading the report gives examinee counts above 8.5 million students per
+      term, with female students about 48.9% to 49.3%. Operational data from schools using the
+      test, not a designed sample.
+    age_or_stage: "Grades 3 to 8 (the report covers K-12); the report prints no ages"
+    age: unreported
+  context:
+    setting: "Operational MAP Growth Math testing in US schools, fall, winter and spring of the 2024-2025 school year, proctored, in school or remote"
+  arms:
+    - id: math-grade-4
+      description: "Grade 4 students taking MAP Growth Math in 2024-2025."
+
+comparisons:
+  - id: math-grades-3-8
+    kind: none
+    description: "MAP Growth Math score reliability across grades 3-8, each grade analysed separately; no contrast between groups."
+
+observations:
+
+  - id: math-test-retest-fall-spring-grades-3-8
+    comparison_ref: math-grades-3-8
+    outcome:
+      construct: "Stability of MAP Growth Math scores from fall to spring"
+      source_language: "Test-retest with alternate forms reliability"
+      measure: "Pearson correlation between MAP Growth Math RIT scores of the same students in fall and spring 2024-2025, computed per grade"
+      scale: "correlation coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fall to spring of the 2024-2025 school year"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.85
+        upper: 0.89
+        over:
+          value: 6
+          unit: other
+      reliability:
+        statistic: other
+        over: occasions
+        form: "Pearson correlation of RIT scores in two terms; 'a mix between test-retest reliability and a type of alternate forms reliability', spread over several months"
+      descriptives: >-
+        Math Fall/Spring per grade as printed: grade 3 0.85 (N 813,405),
+        grade 4 0.87 (785,629), grade 5 0.89 (788,428), grade 6 0.87
+        (740,051), grade 7 0.88 (707,251), grade 8 0.85 (600,893).
+      note: >-
+        Lowest and highest of the six printed per-grade values (grades 3 and 8;
+        grade 5); the report prints no grade 3-8 range.
+      interpretation: "The report reads fall-spring as the lowest of the three windows because true growth over the longer interval attenuates the stability coefficient"
+    moderators:
+      reported:
+        - variable: "Interval between test occasions"
+          relationship: "Winter-spring coefficients highest, then fall-winter, fall-spring lowest"
+          source_quote: "Reliability was generally highest for winter–spring comparisons, followed by fall–winter, with fall–spring comparisons yielding the lowest coefficients."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the Fall/Spring column of Table 7.10 for Math, grades K to 12
+      top to bottom, as the text layer gives it; grades 3-8 are the fourth to
+      ninth values, checked on the page image (p. 76). A stability
+      coefficient over months includes true growth, not only measurement
+      error, as the report says.
+    source_quote: "Fall/Spring Reliability 0.70 0.79 0.82 0.85 0.87 0.89 0.87 0.88 0.85 0.76 0.74 0.74 0.72"
+    source_location: "Section 7.6.2, Table 7.10 (p. 76), Math rows, Fall/Spring column"
+
+  - id: math-test-retest-fall-spring-grade-4
+    sample:
+      value: 785629
+      unit: participants
+    arm_ref: math-grade-4
+    outcome:
+      construct: "Stability of MAP Growth Math scores from fall to spring"
+      source_language: "Test-retest with alternate forms reliability"
+      measure: "Pearson correlation between MAP Growth Math RIT scores of the same grade 4 students in fall and spring 2024-2025"
+      scale: "correlation coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fall to spring of the 2024-2025 school year"
+    result:
+      measure_type: reliability
+      estimate: 0.87
+      reliability:
+        statistic: other
+        over: occasions
+        form: "Pearson correlation of RIT scores in two terms; 'a mix between test-retest reliability and a type of alternate forms reliability', spread over several months"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Grade 4 is the fifth value of the quoted column (Math K-12), checked on
+      the page image (p. 76); its N (785,629) is in the table's separate N
+      column. The table states one N per row for all three windows.
+    source_quote: "Fall/Spring Reliability 0.70 0.79 0.82 0.85 0.87 0.89 0.87 0.88 0.85 0.76 0.74 0.74 0.72"
+    source_location: "Section 7.6.2, Table 7.10 (p. 76), Math grade 4 row, Fall/Spring column"
+
+  - id: math-test-retest-winter-spring-grades-3-8
+    comparison_ref: math-grades-3-8
+    outcome:
+      construct: "Stability of MAP Growth Math scores from winter to spring"
+      source_language: "Test-retest with alternate forms reliability"
+      measure: "Pearson correlation between MAP Growth Math RIT scores of the same students in winter and spring 2024-2025, computed per grade"
+      scale: "correlation coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "winter to spring of the 2024-2025 school year"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.88
+        upper: 0.92
+        over:
+          value: 6
+          unit: other
+      reliability:
+        statistic: other
+        over: occasions
+        form: "Pearson correlation of RIT scores in two terms; 'a mix between test-retest reliability and a type of alternate forms reliability', spread over several months"
+      descriptives: >-
+        Math Winter/Spring per grade as printed: grade 3 0.89, grade 4 0.90,
+        grade 5 0.92, grade 6 0.91, grade 7 0.90, grade 8 0.88 (Ns as for the
+        fall-spring row of each grade).
+      note: >-
+        Lowest (grade 8) and highest (grade 5) of the six printed per-grade
+        values; the report prints no grade 3-8 range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the Winter/Spring column of Table 7.10 for Math, grades K to
+      12, as the text layer gives it; grades 3-8 checked on the page image
+      (p. 76).
+    source_quote: "Winter/Spring Reliability 0.80 0.86 0.88 0.89 0.90 0.92 0.91 0.90 0.88 0.81 0.80 0.79 0.78"
+    source_location: "Section 7.6.2, Table 7.10 (p. 76), Math rows, Winter/Spring column"
+
+  - id: math-marginal-reliability-fall-grades-3-8
+    comparison_ref: math-grades-3-8
+    outcome:
+      construct: "Precision of MAP Growth Math scores"
+      source_language: "Marginal reliability"
+      measure: "IRT marginal reliability of fall 2024 MAP Growth Math RIT scores, per grade (score variance over score variance plus mean squared SEM, Equation 9)"
+      scale: "reliability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fall 2024 test"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.95
+        upper: 0.97
+        over:
+          value: 6
+          unit: other
+      reliability:
+        statistic: other
+        over: items
+        form: "IRT marginal reliability, described by the report as an estimate of internal consistency"
+      descriptives: >-
+        Math fall per grade as printed: grade 3 0.95 (N 997,802), grade 4 0.96
+        (974,054), grade 5 0.96 (983,489), grade 6 0.96 (1,006,521), grade 7
+        0.97 (1,003,779), grade 8 0.97 (905,110).
+      note: >-
+        Lowest (grade 3) and highest (grades 7 and 8) of the six printed
+        per-grade values; the report prints no grade 3-8 range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the Math grade 3-8 run of Table 7.7's Fall column as the text
+      layer gives it (N, reliability pairs), checked on the page image
+      (p. 71). The report notes marginal reliability depends on the group's
+      true-score variance and is higher when grades are pooled.
+    source_quote: "997,802 0.95 974,054 0.96 983,489 0.96 1,006,521 0.96 1,003,779 0.97 905,110 0.97"
+    source_location: "Section 7.6.1, Table 7.7 (p. 71), Math grades 3-8, Fall"
+
+  - id: math-marginal-reliability-spring-grades-3-8
+    comparison_ref: math-grades-3-8
+    outcome:
+      construct: "Precision of MAP Growth Math scores"
+      source_language: "Marginal reliability"
+      measure: "IRT marginal reliability of spring 2025 MAP Growth Math RIT scores, per grade (Equation 9)"
+      scale: "reliability coefficient, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring 2025 test"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.96
+        upper: 0.98
+        over:
+          value: 6
+          unit: other
+      reliability:
+        statistic: other
+        over: items
+        form: "IRT marginal reliability, described by the report as an estimate of internal consistency"
+      descriptives: >-
+        Math spring per grade as printed: grade 3 0.96 (N 936,819), grade 4
+        0.96 (904,212), grade 5 0.97 (910,198), grade 6 0.97 (909,925), grade
+        7 0.97 (892,846), grade 8 0.98 (775,508).
+      note: >-
+        Lowest (grades 3 and 4) and highest (grade 8) of the six printed
+        per-grade values; the report prints no grade 3-8 range.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Quote is the Math grade 3-8 run of Table 7.7's Spring column as the text
+      layer gives it (N, reliability pairs), checked on the page image
+      (p. 71).
+    source_quote: "936,819 0.96 904,212 0.96 910,198 0.97 909,925 0.97 892,846 0.97 775,508 0.98"
+    source_location: "Section 7.6.1, Table 7.7 (p. 71), Math grades 3-8, Spring"
+
+not_yet_extracted:
+  - "Table 7.10 Math Fall/Winter column (grades 3-8: 0.88, 0.90, 0.91, 0.90, 0.90, 0.89) and the Reading, Language Usage and Science rows"
+  - "Table 7.7 winter marginal reliabilities and the other grades and subjects"
+  - "Table 7.11 test-retest reliability by demographic group, and Table 7.9 marginal reliability by demographic group (0.99 in Math for every subgroup, grades pooled)"
+  - "Tables 7.5-7.6 conditional standard errors of measurement"
+  - "Executive summary statement that reliability coefficients 'average about 0.95' across subjects and grades"
