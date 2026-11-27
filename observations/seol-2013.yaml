@@ -1,0 +1,266 @@
+# Seol & Jung (2013): school belonging, individual and parental factors, and
+# academic achievement of Korean fifth graders.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The zero-order correlation between school belonging (PSSM, Korean
+#     translation) and school grades, read from the row of Table 1 (p. 48).
+#     The text layer prints the table's values in row order and its
+#     significance stars detached from the cells, so the p-value of that cell
+#     is not recorded here (see not_yet_extracted). No PDF was available.
+#   * `measure_type: reliability` for the belonging scale: the article prints
+#     its own alpha in this sample (.89). The achievement measure (teacher-
+#     assembled diagnostic tests) has no reliability printed.
+#   * `measure_type: mean` for the achievement measure (M 89.46, SD 7.64),
+#     described by the authors as a relatively high level, and for belonging.
+#   * `population.age: unreported`. The article gives the grade (5th) and the
+#     test month (March 2012), never an age figure.
+#
+# Quotes are in Korean, as the article prints them, copied from the text layer
+# (pdftotext). Where a Korean word is broken across a line in the text layer
+# ("이 었다") the quote keeps the break as a space. The achievement-mean
+# sentence (p. 47) is interleaved with the next column's text in the text
+# layer, so its quote is the contiguous fragment that carries the figures. The article does not print
+# its DOI; 10.16983/kjsp.2013.10.1.41 was checked against Crossref (title,
+# journal, volume 10(1), pages 41-58, 2013 all match the article's front
+# matter).
+
+schema_version: 2
+
+study:
+  key: seol-2013
+  citation: "Seol, K. O., & Jung, S. W. (2013). School belonging as a mediator of the relationship between individual and parental factors and academic achievement of elementary school students [초등학생의 개인 및 부모환경요인과 학업성취와의 관계에서 학교소속감의 매개효과]. The Korean Journal of School Psychology, 10(1), 41–58."
+  doi: "10.16983/kjsp.2013.10.1.41"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional survey of all fifth graders in one Seoul elementary
+      school, with school grades taken from the March 2012 diagnostic tests.
+      Correlations, then a path analysis (SPSS 19, AMOS 19) with school
+      belonging as mediator between parental learning involvement, an
+      individual factor (conscientiousness and intrinsic motivation) and
+      grades, controlling private-tutoring time; indirect effects tested by
+      Sobel test and bootstrapping. No intervention and no comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 250
+    unit: participants
+  additional_sizes:
+    - value: 270
+      unit: participants
+      note: "all fifth graders of the school surveyed; 17 excluded for careless answers or missing grades, then 3 grade outliers (3 SD or more below) excluded"
+    - value: 120
+      unit: participants
+      note: "boys in the analysed sample"
+    - value: 130
+      unit: participants
+      note: "girls in the analysed sample"
+  population:
+    description: >-
+      Fifth-grade pupils of one elementary school in Seoul, Korea; 250
+      analysed (120 boys, 130 girls). 238 of the 250 (95.2%) reported
+      receiving private tutoring.
+    age_or_stage: "Grade 5 (elementary school); the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Questionnaire administered in classrooms by the author with the homeroom teachers' permission; grades from the school's March 2012 diagnostic tests"
+  arms:
+    - id: analysed-fifth-graders
+      description: "The whole analysed sample of 250 fifth graders; the study has no groups or conditions."
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations, path coefficients and scale properties in the whole analysed sample; no contrast between groups."
+
+observations:
+
+  - id: belonging-grades-correlation
+    sample:
+      value: 250
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Academic achievement (school grades)"
+      source_language: "성적 (학업성취도)"
+      measure: "Mean score on the school's March 2012 diagnostic tests in Korean, mathematics, social studies, science and English, assembled by grade-5 teachers from the Seoul education office's item bank; correlated with school belonging (Goodenow's PSSM, 18 items, 5-point, Korean translation)"
+      scale: "Pearson correlation"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional; tests in March 2012, survey date not printed"
+    result:
+      measure_type: correlation
+      estimate: 0.32
+      interpretation: "The discussion states that school belonging correlated positively with pupils' school grades, as expected"
+    moderators:
+      reported: []
+      candidate:
+        - "Near-ceiling achievement measure (M 89.46, SD 7.64) may attenuate the correlation"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The cell's significance is not recorded: in the text layer the stars of
+      Table 1 are printed apart from the values and cannot be attached to a
+      cell with certainty. The prose says belonging correlated positively with
+      grades, and the English abstract says it was positively correlated with
+      academic achievement.
+    source_quote: "학교소속감 .32 0 .37 .46 1"
+    source_location: "Table 1 (표 1), p. 48, row 학교소속감, column 성적"
+
+  - id: belonging-to-grades-path
+    sample:
+      value: 250
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Academic achievement (school grades)"
+      source_language: "학업성적"
+      measure: "Diagnostic-test mean as above, regressed in the path model on school belonging, the individual factor and parental learning involvement, with private-tutoring time as a control"
+      scale: "standardised path coefficient"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "cross-sectional"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.22
+      p_value: "< .01"
+      model: >-
+        Path model (AMOS 19), fit chi-square 10.6, df 6, CFI .984, TLI .960,
+        RMSEA .055. Path from school belonging to grades, with the effect of
+        private tutoring on grades (beta .27, p < .001) controlled.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "학교소속감의 증가는 학업성적 향상으로 이어졌다(β=.22, p<.01)."
+    source_location: "Results, mediation model (학교소속감의 매개모형), pp. 49-50; Figure 1"
+
+  - id: belonging-scale-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "School belonging"
+      source_language: "학교소속감"
+      measure: "Goodenow (1993) Psychological Sense of School Membership scale, Korean translation by Jeon (1999); 18 self-report items, 5-point Likert"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the survey"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "내적 합치도(Cronbach’α)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "본 연구에서 내적 합치도(Cronbach’α)는 .89이 었다."
+    source_location: "Method, measures (학교소속감), p. 47"
+
+  - id: achievement-mean
+    sample:
+      value: 250
+      unit: participants
+    arm_ref: analysed-fifth-graders
+    outcome:
+      construct: "Academic achievement (school grades)"
+      source_language: "학업성취도"
+      measure: "Mean of the March 2012 diagnostic tests in Korean, mathematics, social studies, science and English"
+      scale: "test score (points; maximum not printed)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "March 2012"
+    result:
+      measure_type: mean
+      estimate: 89.46
+      sd: 7.64
+      unit: "diagnostic-test score points"
+      interpretation: "Described by the authors as a relatively high level of achievement"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The text does not say whether this mean is over the 253 pupils before
+      the 3 outliers were dropped or over the 250 analysed; the sample is
+      recorded as 250 because the sentence speaks of the study sample
+      (본 연구대상).
+    source_quote: "은 89.46 표준편차는 7.64로 비교적 높은 수준"
+    source_location: "Method, measures (학업성취도), p. 47"
+
+  - id: belonging-mean
+    sample:
+      value: 250
+      unit: participants
+    arm_ref: analysed-fifth-graders
+    outcome:
+      construct: "School belonging"
+      source_language: "학교소속감"
+      measure: "PSSM (Korean translation), 18 items, 5-point Likert"
+      scale: "mean item score, 1-5"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the survey"
+    result:
+      measure_type: mean
+      estimate: 3.72
+      sd: 0.67
+      unit: "scale points (1-5)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "학교소속감은 평균 3.72(SD=.67)이었다."
+    source_location: "Results, descriptive statistics, p. 48"
+
+not_yet_extracted:
+  - "Significance stars of Table 1: the text layer prints them apart from the cells, so the p-value of each correlation (including belonging x grades) is not attributed; no PDF to check against."
+  - "Table 1 cell belonging x private tutoring prints as '0' in the text layer, which may be a garbled value; not recorded."
+  - "Table 2 (direct, indirect and total effects with Sobel z): rows and stars are interleaved in the text layer and cannot be read cleanly."
+  - "Other correlations in Table 1 (tutoring .31, conscientiousness .28, intrinsic motivation .30, parental involvement .08 with grades) and the alphas of the other scales (conscientiousness .70, intrinsic motivation .91, parental involvement .84)."
+  - "Means of the other scales: parental positive involvement 3.63 (SD .77), conscientiousness 3.54 (SD .68), intrinsic motivation 2.79 (SD .47)."

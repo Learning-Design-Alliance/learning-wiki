@@ -1,0 +1,286 @@
+# Zheng, Goldwater & Gentner (2025), Experiment 2: alignment and a contrastive
+# label in learning the diagonal brace, with a 2- to 5-day delay and far
+# transfer.
+#
+# Read from the PMC full-text copy of the open-access article (CC BY), as text.
+# Experiment 1 (64 children) is zheng-2025-study1.
+#
+# Design: 2 x 2 between-subjects (Alignment x Language), children "evenly
+# placed" into the four conditions with no method of assignment stated, so the
+# family is quasi-experimental, as for Experiment 1.
+#
+# Ages: the article prints M = 6.1 and a range of 5.0 to 7.4 years for the 136
+# children who took part, before 20 were excluded; no age figure is printed
+# for the analysed 116. The age block records the enrolled sample's figures and
+# says so.
+#
+# Effect sizes: Table 2 prints b, p and a standardized odds ratio with its 95%
+# CI per factor and task (footnote 9). The odds ratio is the estimate here.
+# No reliability figure is printed for any of the five binary-scored tasks.
+
+schema_version: 2
+
+study:
+  key: zheng-2025-study2
+  citation: "Zheng, Y. S., Goldwater, M., & Gentner, D. (2025). Structural alignment and linguistic contrast help children learn a key principle of spatial construction. Cognitive Science, 49(12), e70149."
+  doi: "10.1111/cogs.70149"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Experiment 2. 2 x 2 between-subjects design: Alignment (highly alignable
+      versus low-alignable training pair) crossed with Language (contrastive
+      "brace" label versus control language, given right after training and
+      again after the Day 1 repair task). Day 1: training and repair task;
+      Day 2, after a 2- to 5-day delay: repair, near transfer and two far
+      transfer tasks on a bunkbed picture. Logistic regression per task with
+      centred alignment and language predictors.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: alignment-label-effects-persist-delay
+    bearing: supports
+    anchor: zheng-2025
+  - claim: label-aids-far-transfer-construction
+    bearing: supports
+    anchor: zheng-2025
+
+evidence_base:
+  unit: participants
+  size:
+    value: 116
+    unit: participants
+  additional_sizes:
+    - value: 136
+      unit: participants
+      note: "children who took part; 15 excluded for not returning on Day 2 (COVID-related reasons), 5 for failing the memory check"
+  population:
+    description: >-
+      Children recruited through a database of families from a large Midwestern
+      city in the United States; English the primary language for all; 60
+      females among the 136 enrolled.
+    age_or_stage: "5- to 7-year-old children"
+    age:
+      unit: years
+      min: 5.0
+      max: 7.4
+      mean: 6.1
+      note: "Printed for the 136 children who took part, before 20 exclusions; no age figure is printed for the 116 analysed"
+  context:
+    setting: "Two individual lab sessions of about 15 min each, 2 to 5 days apart, with physical model buildings and bunkbed pictures"
+  arms:
+    - id: ha-label
+      description: "Highly alignable training pair, then the brace label (twice on Day 1)."
+      size: {value: 29, unit: participants}
+    - id: ha-control
+      description: "Highly alignable training pair, then control language."
+      size: {value: 29, unit: participants}
+    - id: la-label
+      description: "Low-alignable training pair, then the brace label (twice on Day 1)."
+      size: {value: 29, unit: participants}
+    - id: la-control
+      description: "Low-alignable training pair, then control language."
+      size: {value: 29, unit: participants}
+
+comparisons:
+  - id: alignment
+    kind: between-groups
+    index_arm: [ha-label, ha-control]
+    reference_arm: [la-label, la-control]
+    description: "High versus low alignability, pooled over the language conditions (logistic main effect)."
+  - id: language
+    kind: between-groups
+    index_arm: [ha-label, la-label]
+    reference_arm: [ha-control, la-control]
+    description: "Brace label versus control language, pooled over the alignment conditions (logistic main effect)."
+
+observations:
+
+  - id: day2-repair-alignment
+    sample: {value: 116, unit: participants}
+    comparison_ref: alignment
+    outcome:
+      construct: "Use of a diagonal brace to stabilise a structure, after a delay"
+      source_language: "Day 2 repair"
+      measure: "Repair task repeated on Day 2: either diagonal placement of the beam scored 1, horizontal or vertical 0"
+      scale: "binary (1 = diagonal placement)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Day 2, after a 2- to 5-day delay"
+    result:
+      measure_type: odds_ratio
+      estimate: 2.47
+      ci_lower: 1.59
+      ci_upper: 4.02
+      interval_type: confidence
+      p_value: ".000 as printed in Table 2"
+      model: "Logistic regression with centred alignment and language predictors; b = 1.803; standardized odds ratio as the reported effect size."
+      descriptives: "HA M = 0.84, SD = 0.37; LA M = 0.50, SD = 0.50"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The number of days between sessions did not predict performance on any
+      measure (ps > .43), as the article reports.
+    source_quote: "Day 2 Repair Intercept 0.902 .000 2.46 [1.59, 3.99] Alignment 1.803 .000 2.47 [1.59, 4.02]"
+    source_location: "Table 2, Day 2 Repair rows; Section 3.2.2"
+
+  - id: day2-repair-language
+    sample: {value: 116, unit: participants}
+    comparison_ref: language
+    outcome:
+      construct: "Use of a diagonal brace to stabilise a structure, after a delay"
+      source_language: "Day 2 repair"
+      measure: "Repair task repeated on Day 2, scored as above"
+      scale: "binary (1 = diagonal placement)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Day 2, after a 2- to 5-day delay"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.76
+      ci_lower: 1.14
+      ci_upper: 2.79
+      interval_type: confidence
+      p_value: ".012"
+      model: "Same model as day2-repair-alignment; b = 1.128."
+      descriptives: "Label M = 0.78, SD = 0.42; Control M = 0.57, SD = 0.50"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Language 1.128 .012 1.76 [1.14, 2.79]"
+    source_location: "Table 2, Day 2 Repair rows; Section 3.2.2"
+
+  - id: far-construction-language
+    sample: {value: 116, unit: participants}
+    comparison_ref: language
+    outcome:
+      construct: "Far transfer of the brace principle (production)"
+      source_language: "Far Transfer (Construction)"
+      measure: "Draw a single line to stop a pictured bunkbed wobbling; a diagonal brace scored 1, anything else 0"
+      scale: "binary (1 = diagonal brace drawn)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Day 2, after a 2- to 5-day delay"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.60
+      ci_lower: 1.06
+      ci_upper: 2.47
+      interval_type: confidence
+      p_value: ".027"
+      model: "Logistic regression with centred alignment and language predictors; b = 0.941."
+      descriptives: "Label M = 0.40, SD = 0.49; Control M = 0.21, SD = 0.41"
+    moderators:
+      reported:
+        - variable: "Gender"
+          relationship: "Boys were more likely than girls to draw a brace on this task (M boys = .42, M girls = .18), without interacting with alignment or language"
+          source_quote: "Gender only significantly predicted the Day 2 bunkbed construction task ( M boys = .42; M girls = .18), p = .005, wherein boys were more likely than girls to draw a brace on the bunk bed picture."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Language 0.941 .027 1.60 [1.06, 2.47]"
+    source_location: "Table 2, Far Transfer (Construction) rows; Section 3.2.4"
+
+  - id: far-construction-alignment
+    sample: {value: 116, unit: participants}
+    comparison_ref: alignment
+    outcome:
+      construct: "Far transfer of the brace principle (production)"
+      source_language: "Far Transfer (Construction)"
+      measure: "Bunkbed drawing task, scored as above"
+      scale: "binary (1 = diagonal brace drawn)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Day 2, after a 2- to 5-day delay"
+    result:
+      measure_type: odds_ratio
+      estimate: 1.36
+      ci_lower: 0.90
+      ci_upper: 2.07
+      interval_type: confidence
+      p_value: ".15"
+      model: "Same model as far-construction-language; b = 0.605."
+      descriptives: "HA M = 0.36, SD = 0.48; LA M = 0.24, SD = 0.43"
+      interpretation: "No significant effect of alignment on this task, the hardest of the five; the article reports a chi-square interaction (p = .02) opposite to the expected direction here (Table 3)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Far Transfer (Construction) Intercept −0.900 .009 0.41 [0.26, 0.61] Alignment 0.605 .15 1.36 [0.90, 2.07]"
+    source_location: "Table 2, Far Transfer (Construction) rows; Section 3.2.4"
+
+  - id: near-transfer-alignment
+    sample: {value: 116, unit: participants}
+    comparison_ref: alignment
+    outcome:
+      construct: "Transfer of the brace principle, after a delay"
+      source_language: "Day 2 near transfer"
+      measure: "Choose the stronger of the two tall buildings from Experiment 1's transfer task; braced building scored 1"
+      scale: "binary (1 = braced building chosen)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Day 2, after a 2- to 5-day delay"
+    result:
+      measure_type: odds_ratio
+      estimate: 4.46
+      ci_lower: 2.41
+      ci_upper: 9.75
+      interval_type: confidence
+      p_value: ".000 as printed in Table 2"
+      model: "Logistic regression with centred alignment and language predictors; b = 2.976."
+      descriptives: "HA M = 0.95, SD = 0.23; LA M = 0.56, SD = 0.50"
+      interpretation: "The article notes an apparent ceiling effect in the HA condition on this task."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Near Transfer Intercept 1.774 .000 5.89 [3.16, 13.07] Alignment 2.976 .000 4.46 [2.41, 9.75]"
+    source_location: "Table 2, Near Transfer rows; Section 3.2.3"
+
+not_yet_extracted:
+  - "Table 2 rows for Day 1 repair (alignment OR 1.80, language OR 1.55), near-transfer language (OR 2.57) and far-transfer recognition (alignment OR 1.62, language OR 1.75)"
+  - "Day 1 versus Day 2 repair comparison (M D1 = 0.61, M D2 = 0.67, p = .41); the test used is not named in the text"
+  - "Table 3 chi-square interaction results per task (difference in frequency by language condition)"
+  - "Follow-up memory questions, reported in the Supplementary Materials, not read"
