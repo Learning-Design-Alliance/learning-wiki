@@ -82,6 +82,19 @@ work is done, not that the check is broken.
   is not listed again; `--include-judged` shows them. Every batch judges its new pairs, so the
   count stays near zero. It is reported, not lint-failing, on purpose.
 
+- **A simulator discovery enters the wiki as a principle flagged as a hypothesis, and nothing else of the
+  simulator does** (maintainer, 2026-11-27). The learning-graph simulator keeps its simulation index,
+  configurations and ensemble results in its own repository. A pattern it finds is written here as a
+  principle page carrying `hypothesis: simulated`, `hypothesis_status` (open / under-test / supported /
+  refuted), `simulated_by: <release>@<version>` and `proposed_study` (the simulator's `experiment` issue,
+  or `pending`), with a second banner line saying it is a model prediction. The study that would test it
+  is filed in the simulator repository, not here. A hypothesis is never evidence: it cites no claim with a
+  `[+]` marker, is never `canonical: true`, and is never folded, auto-linked or searched for evidence by the
+  batch tools. `scripts/hypothesis_lib.py` defines the flag and every consumer calls `is_hypothesis()`;
+  `lint.py --type hypotheses` fails an incomplete flag; `ingest_simulator_hypothesis.py` writes the page from
+  the simulator's discovery record, after resolving every id. When a study settles one, its status changes and
+  a person decides whether a research-based principle is written; the flag is never removed silently.
+
 - **Embargoed research never enters this repository, on any branch.** learning-wiki is
   **public**: a pushed branch or an opened PR is visible to anyone, merged or not, so
   "keep it in an unmerged PR" does not keep anything private. Embargoed work lives in

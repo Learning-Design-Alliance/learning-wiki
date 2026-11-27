@@ -29,6 +29,7 @@ from collections import defaultdict
 
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib as ok
+import hypothesis_lib
 
 WIKI_ROOT = Path(__file__).parent.parent
 
@@ -376,6 +377,8 @@ EVAL_ORG = re.compile(
 
 
 def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
+    """A hypothesis principle (hypothesis_lib) rests on a simulation, not on claims, so it is
+    not expected to link any."""
     issues = []
     principles_folder = WIKI_ROOT / "principles"
     if not principles_folder.exists():
@@ -384,6 +387,8 @@ def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
         if path.stem == "index":
             continue
         text = path.read_text(encoding="utf-8")
+        if hypothesis_lib.is_hypothesis(text):
+            continue
         if "### Claims" not in text and "## Claims" not in text:
             continue
         # Find the claims section content
@@ -439,6 +444,23 @@ def check_open_conflicts(pages: dict[str, Path]) -> list[dict]:
                 "detail": m.group(1).strip(),
             })
     return conflicts
+
+
+def check_hypotheses(pages: dict[str, Path]) -> list[dict]:
+    """A principle flagged as a simulator hypothesis must say so completely: flag, status,
+    the simulator release behind it, the proposed study, and the banner line. An incomplete
+    flag is how a model's prediction would come to read as research-based guidance
+    (hypothesis_lib, maintainer 2026-11-27)."""
+    issues = []
+    for slug, path in each_page(pages):
+        text = path.read_text(encoding="utf-8")
+        if "hypothesis" not in text[:4000]:
+            continue
+        folder = path.relative_to(WIKI_ROOT).parts[0]
+        for problem in hypothesis_lib.problems(text, folder):
+            issues.append({"file": str(path.relative_to(WIKI_ROOT)), "type": "hypothesis",
+                           "detail": problem})
+    return issues
 
 
 def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
@@ -995,6 +1017,7 @@ CHECKS = {
     "research":      check_research,
     "dimensions":    check_evidence_dimensions,
     "misfiled_kind": check_misfiled_kind,
+    "hypotheses":    check_hypotheses,
 }
 
 

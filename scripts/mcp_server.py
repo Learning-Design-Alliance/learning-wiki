@@ -159,6 +159,17 @@ def frontmatter(text: str) -> dict:
     return data if isinstance(data, dict) else {}
 
 
+def hypothesis(p: dict) -> dict | None:
+    """A principle flagged as a simulator prediction (scripts/hypothesis_lib.py). It is not
+    research-based guidance, so every result that can return it says so beside its status."""
+    if not p.get("hypothesis"):
+        return None
+    return {"source": p.get("hypothesis"), "status": p.get("hypothesis_status"),
+            "simulated_by": p.get("simulated_by"), "proposed_study": p.get("proposed_study"),
+            "note": "A prediction of the learning-graph simulator, not tested in learners. "
+                    "Do not cite it as evidence; say it is a model prediction."}
+
+
 def trust_tier(fm: dict) -> str:
     """CLAUDE.md's three tiers, derived from `verified:`."""
     v = fm.get("verified")
@@ -335,6 +346,8 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
              "kind": p["type"], "status": p.get("status"),
              "description": p.get("description") or "", "matched": fields,
              "matched_words": mode}
+        if hypothesis(p):
+            r["hypothesis"] = hypothesis(p)
         if p.get("canonical"):
             r["canonical"] = True
         elif p.get("canonical_page"):
@@ -396,6 +409,8 @@ def tool_search(wiki: Wiki, query: str, kind: str | None = None, limit: int = 10
                         "description": p.get("description") or "", "matched": fields})
         if currency(p):
             results[-1]["currency"] = currency(p)
+        if hypothesis(p):
+            results[-1]["hypothesis"] = hypothesis(p)
     return {"query": query, "total_matches": len(scored), "results": results}
 
 
@@ -420,6 +435,7 @@ def tool_fetch(wiki: Wiki, id: str) -> dict:
             "path": p["path"],
             "status": p.get("status"),
             "trust_tier": trust_tier(fm),
+            "hypothesis": hypothesis(p),
             "currency": currency(p),
             "aliases": p.get("aliases") or [],
             "generated": jsonable(fm.get("generated")),
@@ -436,6 +452,8 @@ def tool_resolve(wiki: Wiki, slug: str, kind: str | None = None) -> dict:
     for m in matches:
         p = wiki.pages[m["id"]]
         m.update(title=p.get("title"), status=p.get("status"), path=p["path"], url=wiki.url(m["id"]))
+        if hypothesis(p):
+            m["hypothesis"] = hypothesis(p)
     return {"slug": slug, "kind": kind, "resolved": bool(matches), "matches": matches}
 
 

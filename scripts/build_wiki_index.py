@@ -48,6 +48,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib
 import page_identity as pid
+import hypothesis_lib
 
 WIKI_ROOT = Path(__file__).parent.parent
 OUT_PATH = WIKI_ROOT / "wiki-index.json"
@@ -103,8 +104,12 @@ KINDS = {
 # study is, when its entries were last checked against their sources, and, for
 # fast-ageing kinds only, when it is due a recheck; a consumer needs them to know
 # how stale a claim is without fetching it.
+# The four hypothesis fields (scripts/hypothesis_lib.py) mark a principle that states a
+# simulator prediction, not research; a consumer resolving a principle must see them,
+# or it will treat a prediction as guidance.
 EXTRA_FIELDS = ("status", "grain_size", "evidence_strength",
-                "newest_evidence", "source_checked", "recheck_by")
+                "newest_evidence", "source_checked", "recheck_by",
+                "hypothesis", "hypothesis_status", "simulated_by", "proposed_study")
 CANONICAL_LINK = re.compile(r"^- \[[^\]]+\]\(([^)/]+)\.md\) — the canonical page for this theory", re.M)
 
 
