@@ -5,10 +5,15 @@
 #
 # One of five experiments; Experiments 2, 3 and 5 are their own records.
 #
-# Read from a pdftotext extraction of the JSTOR copy; no PDF beside the text.
+# Read from a pdftotext extraction of the JSTOR copy. On 2026-11-27 Table 8
+# (p. 81) was read from the PAGE IMAGE of the PDF; the observations named
+# similar-/dissimilar-time-<group> and -errors-<group> (we-sd, we-ds, cp-sd,
+# cp-ds) quote its rows as printed there. Every other quote is from the text
+# layer.
 #
-# TABLE 8 IS GARBLED IN THE TEXT: the four groups' rows break apart and their
-# values interleave, so no table mean is recorded. Every observation below is
+# TABLE 8 IS GARBLED IN THE TEXT LAYER: the four groups' rows break apart and
+# their values interleave there; its test cells are recorded from the page
+# image (see above). Every observation below is
 # a test statistic printed in the Results text, and the text names which pair
 # of groups and which problem set each one compares. Some statistics are
 # cropped at the right margin of p. 82 ("U (10,10) =" with no value) and are
@@ -16,7 +21,8 @@
 #
 # WHAT THIS FILE USES:
 #   * `population.age: unreported`: school year only.
-#   * No `measure_type: mean` (Table 8 unreadable here) and no reliability.
+#   * `measure_type: mean` for each group's test seconds and errors on the
+#     similar and dissimilar sets (Table 8). No SDs printed; no reliability.
 
 schema_version: 2
 
@@ -327,9 +333,521 @@ observations:
     source_quote: "significantly more time was spent on the dissimilar test problems than on the similar test problems, T (20) =129, z = 3.78."
     source_location: "Results, p. 81"
 
+  - id: similar-time-we-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-similar-dissimilar
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four similar test problems (taken first)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken first"
+    result:
+      measure_type: mean
+      estimate: 56.3
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Worked Example Similar-Dissimilar 56.3 103.6 (0.25) (0.63)"
+    source_location: "Table 8, p. 81, row worked-example-similar-dissimilar, Test Similar column"
+
+  - id: dissimilar-time-we-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-similar-dissimilar
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four dissimilar test problems (taken second)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken second"
+    result:
+      measure_type: mean
+      estimate: 103.6
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Worked Example Similar-Dissimilar 56.3 103.6 (0.25) (0.63)"
+    source_location: "Table 8, p. 81, row worked-example-similar-dissimilar, Test Dissimilar column"
+
+  - id: similar-errors-we-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-similar-dissimilar
+    outcome:
+      construct: "Errors on algebra test problems similar to those learned"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four similar test problems (taken first)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken first"
+    result:
+      measure_type: mean
+      estimate: 0.25
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Worked Example Similar-Dissimilar 56.3 103.6 (0.25) (0.63)"
+    source_location: "Table 8, p. 81, row worked-example-similar-dissimilar, Test Similar column (errors in parentheses)"
+
+  - id: dissimilar-errors-we-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-similar-dissimilar
+    outcome:
+      construct: "Errors on algebra test problems dissimilar in structure"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four dissimilar test problems (taken second)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken second"
+    result:
+      measure_type: mean
+      estimate: 0.63
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Worked Example Similar-Dissimilar 56.3 103.6 (0.25) (0.63)"
+    source_location: "Table 8, p. 81, row worked-example-similar-dissimilar, Test Dissimilar column (errors in parentheses)"
+
+  - id: similar-time-we-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-dissimilar-similar
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four similar test problems (taken second)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken second"
+    result:
+      measure_type: mean
+      estimate: 63.8
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Worked Example Dissimilar-Similar 63.8 136.2 (0.23) (0.80)"
+    source_location: "Table 8, p. 81, row worked-example-dissimilar-similar, Test Similar column"
+
+  - id: dissimilar-time-we-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-dissimilar-similar
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four dissimilar test problems (taken first)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken first"
+    result:
+      measure_type: mean
+      estimate: 136.2
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Worked Example Dissimilar-Similar 63.8 136.2 (0.23) (0.80)"
+    source_location: "Table 8, p. 81, row worked-example-dissimilar-similar, Test Dissimilar column"
+
+  - id: similar-errors-we-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-dissimilar-similar
+    outcome:
+      construct: "Errors on algebra test problems similar to those learned"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four similar test problems (taken second)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken second"
+    result:
+      measure_type: mean
+      estimate: 0.23
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Worked Example Dissimilar-Similar 63.8 136.2 (0.23) (0.80)"
+    source_location: "Table 8, p. 81, row worked-example-dissimilar-similar, Test Similar column (errors in parentheses)"
+
+  - id: dissimilar-errors-we-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: worked-example-dissimilar-similar
+    outcome:
+      construct: "Errors on algebra test problems dissimilar in structure"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four dissimilar test problems (taken first)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken first"
+    result:
+      measure_type: mean
+      estimate: 0.8
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Worked Example Dissimilar-Similar 63.8 136.2 (0.23) (0.80)"
+    source_location: "Table 8, p. 81, row worked-example-dissimilar-similar, Test Dissimilar column (errors in parentheses)"
+
+  - id: similar-time-cp-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-similar-dissimilar
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four similar test problems (taken first)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken first"
+    result:
+      measure_type: mean
+      estimate: 81.1
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Conventional Problem Similar-Dissimilar 81.1 87.9 (0.43) (0.43)"
+    source_location: "Table 8, p. 81, row conventional-similar-dissimilar, Test Similar column"
+
+  - id: dissimilar-time-cp-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-similar-dissimilar
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four dissimilar test problems (taken second)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken second"
+    result:
+      measure_type: mean
+      estimate: 87.9
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Conventional Problem Similar-Dissimilar 81.1 87.9 (0.43) (0.43)"
+    source_location: "Table 8, p. 81, row conventional-similar-dissimilar, Test Dissimilar column"
+
+  - id: similar-errors-cp-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-similar-dissimilar
+    outcome:
+      construct: "Errors on algebra test problems similar to those learned"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four similar test problems (taken first)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken first"
+    result:
+      measure_type: mean
+      estimate: 0.43
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Conventional Problem Similar-Dissimilar 81.1 87.9 (0.43) (0.43)"
+    source_location: "Table 8, p. 81, row conventional-similar-dissimilar, Test Similar column (errors in parentheses)"
+
+  - id: dissimilar-errors-cp-sd
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-similar-dissimilar
+    outcome:
+      construct: "Errors on algebra test problems dissimilar in structure"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four dissimilar test problems (taken second)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken second"
+    result:
+      measure_type: mean
+      estimate: 0.43
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Conventional Problem Similar-Dissimilar 81.1 87.9 (0.43) (0.43)"
+    source_location: "Table 8, p. 81, row conventional-similar-dissimilar, Test Dissimilar column (errors in parentheses)"
+
+  - id: similar-time-cp-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-dissimilar-similar
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four similar test problems (taken second)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken second"
+    result:
+      measure_type: mean
+      estimate: 87.3
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Conventional Problem Dissimilar-Similar 87.3 159.9 (0.53) (1.23)"
+    source_location: "Table 8, p. 81, row conventional-dissimilar-similar, Test Similar column"
+
+  - id: dissimilar-time-cp-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-dissimilar-similar
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the four dissimilar test problems (taken first)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken first"
+    result:
+      measure_type: mean
+      estimate: 159.9
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer breaks this table apart). No SD printed. The row prints test seconds for the similar and dissimilar sets with mean errors in parentheses beneath."
+    source_quote: "Conventional Problem Dissimilar-Similar 87.3 159.9 (0.53) (1.23)"
+    source_location: "Table 8, p. 81, row conventional-dissimilar-similar, Test Dissimilar column"
+
+  - id: similar-errors-cp-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-dissimilar-similar
+    outcome:
+      construct: "Errors on algebra test problems similar to those learned"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four similar test problems (taken second)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; similar set taken second"
+    result:
+      measure_type: mean
+      estimate: 0.53
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Conventional Problem Dissimilar-Similar 87.3 159.9 (0.53) (1.23)"
+    source_location: "Table 8, p. 81, row conventional-dissimilar-similar, Test Similar column (errors in parentheses)"
+
+  - id: dissimilar-errors-cp-ds
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-dissimilar-similar
+    outcome:
+      construct: "Errors on algebra test problems dissimilar in structure"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four dissimilar test problems (taken first)"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, same session as acquisition; dissimilar set taken first"
+    result:
+      measure_type: mean
+      estimate: 1.23
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD printed."
+    source_quote: "Conventional Problem Dissimilar-Similar 87.3 159.9 (0.53) (1.23)"
+    source_location: "Table 8, p. 81, row conventional-dissimilar-similar, Test Dissimilar column (errors in parentheses)"
+
 not_yet_extracted:
-  - "Table 8 (p. 81): mean seconds and errors per problem for the four groups (acquisition initial and repeat; similar and dissimilar tests). The rows break apart and interleave in the text layer; a page image is needed."
-  - "Errors for the dissimilar-first pair on the dissimilar set (\"U (10,10) =\", value cropped at the margin of p. 82) and on the similar set, U(10,10) = 49 (p. 82)."
-  - "Errors over all groups, dissimilar against similar: Wilcoxon T(20), value cropped at the margin of p. 82; z = 3.60."
+  - "Table 8 (p. 81), acquisition means: printed only for the two worked example groups combined (48.5 s initial, 62.6 s (0.20 errors) repeat) and the two conventional groups combined (207.6 s (0.94), 59.8 s (0.20)); not recorded, as no arm here is a combined group."
+  - "Errors for the dissimilar-first pair on the dissimilar set, U(10,10) = 34.5 (cropped in the text layer, legible on the page image of p. 82), and on the similar set, U(10,10) = 49 (p. 82)."
+  - "Errors over all groups, dissimilar against similar: Wilcoxon T(20) = 79, z = 3.60 (the T is cropped in the text layer and legible on the page image of p. 82)."
   - "Expansion use (Table 9, p. 82; text pp. 82-83): acquisition repeat U(20,20) = 126; similar-first pair on similar problems U(10,10) = 40, not significant; dissimilar-first pair U(10,10) = 24.5 (dissimilar) and 26.5 (similar). Table 9 itself is garbled in the text layer."
   - "Acquisition time, both worked-example groups against both conventional groups combined: U(20,20) = 11 (p. 81)."

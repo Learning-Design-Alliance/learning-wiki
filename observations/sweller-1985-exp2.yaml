@@ -14,12 +14,13 @@
 #
 # TABLE 3: the worked-example row extracts as one clean line and is recorded.
 # The conventional-problem row is split across the table's note in the text
-# layer, so its values are not assigned to columns here (see
-# not_yet_extracted).
+# layer; it was read on 2026-11-27 from the PAGE IMAGE of p. 72 (PDF of the
+# JSTOR copy), and test-time-conventional and test-errors-conventional quote
+# that row as printed there. Every other quote is from the text layer.
 #
 # WHAT THIS FILE USES:
-#   * `measure_type: mean` for the worked-example group's test time and test
-#     errors (Table 3). No SDs are printed anywhere in the article; the tests
+#   * `measure_type: mean` for both groups' test time and test errors
+#     (Table 3). No SDs are printed anywhere in the article; the tests
 #     are Mann-Whitney U.
 #   * `population.age: unreported`: the article gives school year only.
 #   * No reliability: none is printed.
@@ -219,6 +220,70 @@ observations:
     source_quote: "with a correction for ties indicated U(10,10) = 35, z = 1.28, p = .10."
     source_location: "Results and Discussion, p. 72"
 
+  - id: test-time-conventional
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Time to solve algebra test problems"
+      source_language: "Mean Seconds ... Per Problem ... on Test Problems"
+      measure: "Seconds per problem on six test problems structurally identical to the acquisition problems, 5 minutes maximum each"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 127.1
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD is printed. The row reads acquisition initial 73.3 s (0.03 errors), repeat 42.0 s (0.13), test 127.1 s (0.50); errors print in parentheses beneath the seconds."
+    source_quote: "Conventional Problem 73.3 42.0 127.1 (0.03) (0.13) (0.50)"
+    source_location: "Table 3, p. 72, Conventional Problem row, Test column"
+
+  - id: test-errors-conventional
+    sample:
+      value: 10
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Errors on algebra test problems"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the six test problems"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 0.5
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image. No SD is printed."
+    source_quote: "Conventional Problem 73.3 42.0 127.1 (0.03) (0.13) (0.50)"
+    source_location: "Table 3, p. 72, Conventional Problem row, Test column (errors in parentheses)"
+
 not_yet_extracted:
-  - "Table 3 (p. 72), conventional-problem row (acquisition initial and repeat, test seconds and errors): the row is split around the table note in the text layer; a page image is needed before its values are assigned to columns."
+  - "Table 3 (p. 72), acquisition means for both groups (initial and repeat presentation, seconds and errors): legible in the row quotes but not recorded; this record covers the test phase."
   - "Acquisition-time comparison (worked example group required significantly less time): the U value is cropped at the right margin of p. 71."

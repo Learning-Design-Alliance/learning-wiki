@@ -6,10 +6,14 @@
 # -exp3, -exp4). Experiment 5 (frequency judgments after consistent or varied
 # interpretation) is not recorded here.
 #
-# Read from a pdftotext extraction of the published article. No PDF was beside
-# the text, so no page image was checked.
+# Read from a pdftotext extraction of the published article. Added
+# 2026-11-27 from PAGE IMAGES of the PDF (p. 503, Table 2): the fitted
+# power-function parameters below (observations named fit-*). Their
+# source_quote values are table rows as printed on the page image, not
+# text-layer strings; every other quote is from the text layer.
 #
-# TABLE 2 IS GARBLED IN THE TEXT. Its eight columns (Experiments 1-3, words and
+# TABLE 2 IS GARBLED IN THE TEXT LAYER (it reads cleanly on the page image,
+# and its Experiment 1 columns are now recorded as fit-* observations). Its eight columns (Experiments 1-3, words and
 # nonwords) come out with the values of different columns interleaved, so no
 # fitted power-function parameter (asymptote, multiplicative constant,
 # exponent, r2, rmsd) can be assigned to its column with confidence. None is
@@ -273,8 +277,131 @@ observations:
     source_quote: "Note, however, that error rates tended to be lower for repeated items than for new items and lower for words than for nonwords."
     source_location: "Appendix B, Experiment 1, Results (p. 525); Table B1"
 
+  - id: fit-constrained-words
+    comparison_ref: repeated-items-over-presentations
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean reaction times and standard deviations of repeated words, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 16 presentations within one session"
+    result:
+      measure_type: other
+      estimate: 0.749
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 485 ms; BRT (multiplicative constant, mean RT) 101 ms; ASD (asymptote, SD) 81 ms; BSD (multiplicative constant, SD) 43 ms; r2 0.996; rmsd 8.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.749 0.563 1.033 1.078 1.622 0.702 0.816 0.880"
+    source_location: "Table 2, p. 503, Constrained fits, column Experiment 1: Learning, Word"
+
+  - id: fit-separate-words
+    comparison_ref: repeated-items-over-presentations
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean reaction times and standard deviations of repeated words, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 16 presentations within one session"
+    result:
+      measure_type: other
+      estimate: 0.698
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 482 ms; BRT (multiplicative constant, mean RT) 103 ms; ASD (asymptote, SD) 85 ms; BSD (multiplicative constant, SD) 41 ms; CSD (exponent fitted to SDs) 1.063; r2 0.996; rmsd 8.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.698 0.327 1.061 0.940 1.571 0.687 1.069 0.859"
+    source_location: "Table 2, p. 503, Separate fits, column Experiment 1: Learning, Word"
+
+  - id: fit-constrained-nonwords
+    comparison_ref: repeated-items-over-presentations
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean reaction times and standard deviations of repeated nonwords, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 16 presentations within one session"
+    result:
+      measure_type: other
+      estimate: 0.563
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 482 ms; BRT (multiplicative constant, mean RT) 216 ms; ASD (asymptote, SD) 46 ms; BSD (multiplicative constant, SD) 157 ms; r2 0.994; rmsd 12.2 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.749 0.563 1.033 1.078 1.622 0.702 0.816 0.880"
+    source_location: "Table 2, p. 503, Constrained fits, column Experiment 1: Learning, Nonword"
+
+  - id: fit-separate-nonwords
+    comparison_ref: repeated-items-over-presentations
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean reaction times and standard deviations of repeated nonwords, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 16 presentations within one session"
+    result:
+      measure_type: other
+      estimate: 0.327
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 409 ms; BRT (multiplicative constant, mean RT) 280 ms; ASD (asymptote, SD) 75 ms; BSD (multiplicative constant, SD) 140 ms; CSD (exponent fitted to SDs) 0.970; r2 0.996; rmsd 10.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.698 0.327 1.061 0.940 1.571 0.687 1.069 0.859"
+    source_location: "Table 2, p. 503, Separate fits, column Experiment 1: Learning, Nonword"
+
 not_yet_extracted:
-  - "Table 2 (p. 503): constrained and separate power-function parameters (ART, BRT, C or CRT/CSD, ASD, BSD, r2, rmsd) for words and nonwords. The text layer interleaves the eight columns, so no value is assigned to Experiment 1 here; a page image is needed."
-  - "Table B1 (p. 525): error rates per presentation for old and new words and nonwords. The text layer lists each column's 16 values in sequence but no row can be quoted; a page image is needed before per-presentation values are recorded."
+  - "Table B1 (p. 525): error rates per presentation (1-16) for old and new words and nonwords. Legible on the page image (old words .05 at presentation 1 and .03 at 16) but not recorded: no figure from it is used downstream yet, and recording 64 cells needs its own pass."
   - "Further ANOVA effects in Appendix B: conditions F(1, 23) = 31.15; word versus nonword F(1, 23) = 43.11; conditions x word/nonword and the three-way interaction (p < .05); SD conditions F(1, 23) = 29.30 and SD presentations x word/nonword F(15, 345) = 2.46. Several of these carry OCR damage in the text layer."
   - "Mean reaction times and standard deviations per presentation are plotted (Figures 4 and 5) and not printed."
