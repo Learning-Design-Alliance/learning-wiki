@@ -1,0 +1,451 @@
+# Bahrick, Bahrick, Bahrick & Bahrick (1993): 300 foreign-language word pairs
+# per subject, relearned in 13 or 26 sessions at 14-, 28- or 56-day intervals,
+# with recall tested 1, 2, 3 and 5 years after training ended.
+#
+# Read from the text layer of a scanned copy of the printed article (pp.
+# 316-321; the copy carries a "scanned copy of a printed document" notice). The
+# text layer interleaves the two columns of the abstract and the Subjects
+# paragraph, and Tables 2, 3 and 4 came out as runs of digits whose columns
+# cannot be told apart (Table 4 reads "435650ai 70- 57" and "6876"). No page
+# image was available, so no figure is taken from any table: every number
+# below is from running prose, and each quote is a contiguous run of the text
+# layer.
+#
+# Four subjects took every condition: the 300 words of each subject were split
+# 50 to each of the six training conditions by systematic alternation on rated
+# difficulty, so a condition is a set of words, not a group of people. The
+# arms below are those word sets, collapsed over subjects (and, for the
+# interval arms, over 13 and 26 sessions) as the article reports them.
+#
+# There is no reliability figure: the article prints none for the recall or
+# recognition scoring.
+
+schema_version: 2
+
+study:
+  key: bahrick-1993
+  citation: "Bahrick, H. P., Bahrick, L. E., Bahrick, A. S., & Bahrick, P. E. (1993). Maintenance of foreign language vocabulary and the spacing effect. Psychological Science, 4(5), 316-321."
+  doi: "10.1111/j.1467-9280.1993.tb00571.x"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Nine-year longitudinal investigation with four subjects, who were also
+      the investigators. Within each subject, 300 English-foreign word pairs
+      (French for three subjects, German for one) were assigned 50 to each
+      cell of a 2 x 3 factorial (13 or 26 retraining sessions x 14-, 28- or
+      56-day intersession interval) by systematic alternation within
+      ease-of-learning rating levels; not randomised. Sessions were
+      self-administered and ran with a dropout procedure until every remaining
+      word had been recalled once. Words in each condition were then assigned
+      to retention tests at 1, 2, 3 or 5 years by systematic alternation on
+      training difficulty (12 or 13 words each); each test was a self-paced
+      recall trial followed by a five-alternative recognition test for the
+      words not recalled. The authors report departures from schedule (up to
+      10% of an interval), unscheduled extra sessions, one omitted terminal
+      session, one 3-year test given at 4 years (2.14% of acquisition data,
+      2.08% of retention data, omitted from Figure 2), and some uncontrolled
+      exposure to the target languages.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: spacing-benefit-for-unmastered-words
+    bearing: supports
+    anchor: bahrick-1993
+  - claim: long-intervals-slow-acquisition-boost-retention
+    bearing: supports
+    anchor: bahrick-1993
+
+evidence_base:
+  unit: participants
+  size:
+    value: 4
+    unit: participants
+  additional_sizes:
+    - value: 300
+      unit: items
+      note: "English-foreign language word pairs learned by each subject"
+    - value: 50
+      unit: items
+      note: "words per training condition per subject"
+  population:
+    description: >-
+      Four professional psychologists who shared the investigative work and
+      authorship: two older adults and two young adults; three female, one
+      male. Each learned vocabulary of a language in which they had prior,
+      but not recent, training.
+    age_or_stage: "Two subjects aged 57 and two aged 25 and 27 at the beginning of the investigation."
+    age:
+      unit: years
+      min: 25
+      max: 57
+      note: "Ages at the beginning of the investigation; the article prints the four ages, not a mean."
+  context:
+    setting: "Self-administered index-card training and experimenter-administered retention tests carried out by four investigators in different parts of the world over 9 years"
+  arms:
+    - id: interval-14-day
+      description: "Words relearned with a 14-day intersession interval, collapsed over 13 and 26 sessions."
+    - id: interval-28-day
+      description: "Words relearned with a 28-day intersession interval, collapsed over 13 and 26 sessions."
+    - id: interval-56-day
+      description: "Words relearned with a 56-day intersession interval, collapsed over 13 and 26 sessions."
+    - id: sessions-13-interval-28
+      description: "Words relearned in 13 sessions spaced 28 days apart."
+    - id: sessions-26-interval-28
+      description: "Words relearned in 26 sessions spaced 28 days apart."
+    - id: sessions-13-interval-56
+      description: "Words relearned in 13 sessions spaced 56 days apart."
+    - id: sessions-26-interval-14
+      description: "Words relearned in 26 sessions spaced 14 days apart."
+
+comparisons:
+  - id: interval-56-vs-14-acquisition
+    kind: other
+    index_arm: interval-56-day
+    reference_arm: interval-14-day
+    description: "Exposures needed per word per session during training, 56-day against 14-day interval; within subjects, across word sets."
+  - id: s13-i56-vs-s26-i14
+    kind: other
+    index_arm: sessions-13-interval-56
+    reference_arm: sessions-26-interval-14
+    description: "Thirteen sessions at 56 days against 26 sessions at 14 days, recall collapsed over the retention tests; within subjects, across word sets."
+  - id: sessions-by-interval-factorial
+    kind: none
+    description: "The 2 x 3 factorial of sessions and interval as a whole, for the test of interaction (Table 4)."
+
+observations:
+
+  - id: acquisition-56-day-poorer
+    comparison_ref: interval-56-vs-14-acquisition
+    outcome:
+      construct: "Vocabulary acquisition during training"
+      source_language: "mean number of exposures per word per session"
+      measure: "Number of exposures each word needed before it was recalled in a session, averaged over the 4 subjects (Figure 1)"
+      scale: "exposures per word per session"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the training sessions"
+    result:
+      measure_type: other
+      interpretation: >-
+        Read from the prose describing Figure 1: the curves level off after the
+        seventh retraining session, and the 56-day interval stays somewhat
+        poorer throughout. No statistic or magnitude is printed in the text.
+    moderators:
+      reported:
+        - variable: "Number of sessions"
+          relationship: "The interval's disadvantage during acquisition diminished as sessions increased, consistently for the 4 subjects"
+          source_quote: "The interaction showing diminishing effects of the training interval as the number of sessions increases is consis- tent for the 4 subjects."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Figure 1 and Table 2 (words recalled on the first test trial at early,
+      middle and late sessions, by subject) carry the numbers; Table 2's text
+      layer is a run of digits and is not recorded.
+    source_quote: "The curves begin to level off after the seventh retraining session, but performance with the 56-day interval remains somewhat poorer throughout training."
+    source_location: "Results, Acquisition"
+
+  - id: recall-retrieved-words
+    arm_ref:
+      - interval-14-day
+      - interval-28-day
+      - interval-56-day
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "recall ... for words that were retrieved"
+      measure: "Recall of the English equivalent for words that were recalled on the first test trial of the last training session"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 62
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed. Pooled over all six training conditions and the four subjects."
+    source_quote: "recall (collapsed over 5 years) is much lower than for words that were retrieved (33% vs. 62%)"
+    source_location: "Results, Retention"
+
+  - id: recall-failed-words
+    arm_ref:
+      - interval-14-day
+      - interval-28-day
+      - interval-56-day
+    outcome:
+      construct: "Long-term vocabulary recall of words not mastered in training"
+      source_language: "words that were failed on the first test trial of the last training session"
+      measure: "Recall of the English equivalent for words failed on the first test trial of the last training session"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 33
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed. Pooled over all six training conditions and the four subjects."
+    source_quote: "recall (collapsed over 5 years) is much lower than for words that were retrieved (33% vs. 62%)"
+    source_location: "Results, Retention"
+
+  - id: recall-failed-words-14-day
+    arm_ref: interval-14-day
+    outcome:
+      construct: "Long-term vocabulary recall of words not mastered in training"
+      source_language: "words that were failed on the first test trial of the last training session"
+      measure: "Recall of the English equivalent for words failed on the first test trial of the last training session"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 22
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed. The three figures are given 'respectively, for the three intervals', which the Method orders 14, 28, 56 days."
+    source_quote: "remains very pronounced (22%, 29%, and 42%, respectively, for the three intervals)."
+    source_location: "Results, Retention"
+
+  - id: recall-failed-words-28-day
+    arm_ref: interval-28-day
+    outcome:
+      construct: "Long-term vocabulary recall of words not mastered in training"
+      source_language: "words that were failed on the first test trial of the last training session"
+      measure: "Recall of the English equivalent for words failed on the first test trial of the last training session"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 29
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "remains very pronounced (22%, 29%, and 42%, respectively, for the three intervals)."
+    source_location: "Results, Retention"
+
+  - id: recall-failed-words-56-day
+    arm_ref: interval-56-day
+    outcome:
+      construct: "Long-term vocabulary recall of words not mastered in training"
+      source_language: "words that were failed on the first test trial of the last training session"
+      measure: "Recall of the English equivalent for words failed on the first test trial of the last training session"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 42
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "remains very pronounced (22%, 29%, and 42%, respectively, for the three intervals)."
+    source_location: "Results, Retention"
+
+  - id: recall-5yr-13-sessions-28-day
+    arm_ref: sessions-13-interval-28
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "Recall ... after 5 years"
+      measure: "Recall of the English equivalent, all words in the condition"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "5-year retention test"
+      offset:
+        value: 5
+        unit: years
+        from: "last training session"
+    result:
+      measure_type: mean
+      estimate: 40
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed. Stated in the Discussion beside Bahrick & Phelps' (1987) 15% after 8 years."
+    source_quote: "after 13 and 26 retraining sessions with a 28-day interval it was 40% and 54% after 5 years in the present investigation."
+    source_location: "Discussion"
+
+  - id: recall-5yr-26-sessions-28-day
+    arm_ref: sessions-26-interval-28
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "Recall ... after 5 years"
+      measure: "Recall of the English equivalent, all words in the condition"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "5-year retention test"
+      offset:
+        value: 5
+        unit: years
+        from: "last training session"
+    result:
+      measure_type: mean
+      estimate: 54
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "after 13 and 26 retraining sessions with a 28-day interval it was 40% and 54% after 5 years in the present investigation."
+    source_location: "Discussion"
+
+  - id: s13-i56-comparable-to-s26-i14
+    comparison_ref: s13-i56-vs-s26-i14
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "retention comparable"
+      measure: "Recall of the English equivalent, all words in the condition (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: other
+      interpretation: >-
+        The authors call retention after 13 sessions at 56 days comparable to
+        retention after 26 sessions at 14 days. The Table 4 percentages behind
+        it are not legible in the copy read, and no test of the difference is
+        printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The quote is the clean run of the Results sentence ("Thirteen sessions
+      with a 56-day interval yield retention comparable to 26 sessions with a
+      14-day interval"); in the text layer a figure's axis label splits
+      "Thirteen" from "sessions", and the abstract's version is interleaved
+      with the other column.
+    source_quote: "with a 56-day interval yield retention comparable to 26 sessions with a 14-day"
+    source_location: "Results, Retention (Table 4); also in the Abstract"
+
+  - id: sessions-interval-no-interaction
+    comparison_ref: sessions-by-interval-factorial
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent by intersession interval and number of sessions (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: other
+      interpretation: >-
+        Both number of sessions and intersession interval have a major effect
+        on recall, with no evidence of interaction; the authors add that
+        sessions, interval and consistency of retrieval at the end of training
+        independently affect recall. No test statistic is printed.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Both variables have a major impact on retention, and there is no evidence of interaction."
+    source_location: "Results, Retention (Table 4)"
+
+not_yet_extracted:
+  - "Table 4, mean percentage recall by interval (14, 28, 56 days) and sessions (13, 26), collapsed over 5 years: the text layer reads '435650ai 70- 57' and '6876', so the six cells cannot be assigned. Needs the page image."
+  - "Table 2, words recalled on the first test trial at sessions 3-6, 13-16 and 23-26 by subject and interval: digit runs in the text layer."
+  - "Table 3, percentage recall of individual subjects by interval at the 5-year test: digit runs in the text layer."
+  - "Figures 2 and 3 (retention functions by interval; recall by difficulty tercile): plotted only."
+  - "Footnote 2: recognition failures are limited to 6% of the data. Not recorded as an estimate because 'limited to' may be a bound and the base is not stated."
+  - "Table 1 reproduces Bahrick & Phelps (1987); those figures belong to bahrick-1987."

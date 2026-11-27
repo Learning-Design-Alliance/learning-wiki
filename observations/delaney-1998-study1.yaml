@@ -1,0 +1,394 @@
+# Delaney, Reder, Staszewski & Ritter (1998), the feeling-of-knowing
+# reanalysis: power functions fitted by strategy (retrieval or calculation) to
+# trial-by-trial solution times from three earlier mental-arithmetic
+# experiments (Reder & Ritter, 1992, Experiments 1 and 2; Schunn et al., 1997,
+# Experiment 1).
+#
+# The article's second analysis, one expert mental calculator (G.G.,
+# Staszewski's 1988 data), is a different sample and is delaney-1998-study2.
+#
+# The figures recorded are the authors' own: means over participants of
+# their fitted power-law slopes (Table 4), their counts of strategy switches,
+# and their tests of slope and intercept differences. Read from a text layer of
+# the published article. Table 4's columns came out in order (four row labels,
+# then four slopes, then four intercepts), so each slope quote is the label
+# run followed by the slope column. Tables 1-3 came out with the values of
+# different columns separated from their rows; they are not recorded.
+#
+# The article prints no participant count, age or other description of the
+# people in the reanalysed experiments, and no reliability figure.
+
+schema_version: 2
+
+study:
+  key: delaney-1998-study1
+  citation: "Delaney, P. F., Reder, L. M., Staszewski, J. J., & Ritter, F. E. (1998). The strategy-specific nature of improvement: The power law applies by strategy within task. Psychological Science, 9(1), 1-7."
+  doi: "10.1111/1467-9280.00001"
+  design:
+    family: other
+    design_detail: >-
+      Secondary reanalysis of three experiments in which participants solved
+      relatively novel two-digit x two-digit problems (multiply, and either
+      plus or an invented 'sharp' operator), each preceded by a snap
+      (850 ms) feeling-of-knowing choice to retrieve or to calculate, which
+      the authors use as the trial's strategy. Problems recurred a variable
+      number of times. Incorrect trials were excluded from the analyses but
+      counted as practice. Power functions were fitted to log solution time
+      on log practice, per participant and operator, once on practice with
+      the problem and once per strategy on practice with that strategy;
+      only participants using each strategy on at least 30% of trials for an
+      operator (an a priori criterion) were analysed individually. Strategy
+      was chosen by the participant, not assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: strategy-intercepts-differ-slopes-do-not
+    bearing: supports
+    anchor: delaney-1998
+  - claim: strategy-shifts-rarely-stepwise
+    bearing: supports
+    anchor: delaney-1998
+
+evidence_base:
+  unit: comparisons
+  size:
+    value: 46
+    unit: comparisons
+  additional_sizes:
+    - value: 28
+      unit: comparisons
+      note: "individual participant-by-operator comparisons for multiply"
+    - value: 18
+      unit: comparisons
+      note: "individual participant-by-operator comparisons for sharp (not used in one of the experiments)"
+    - value: 3
+      unit: other
+      note: "experiments reanalysed (Reder & Ritter, 1992, two; Schunn et al., 1997, one)"
+  population:
+    description: >-
+      Participants in Reder and Ritter's (1992) and Schunn et al.'s (1997)
+      feeling-of-knowing experiments. The article does not describe them.
+    age_or_stage: "Not described in this article."
+    age: unreported
+  context:
+    setting: "Laboratory mental-arithmetic experiments with a game-show framing: an 850 ms choice to retrieve or calculate, then about 1 s to answer by retrieval or up to about 18 s by calculation"
+  arms:
+    - id: multiply-retrieval
+      description: "Trials on multiply problems on which the participant chose to retrieve the answer."
+    - id: multiply-calculation
+      description: "Trials on multiply problems on which the participant chose to calculate the answer."
+    - id: sharp-retrieval
+      description: "Trials on sharp-operator problems (AB # CD = [(A + C) x (B + D) x 3] modulo 100) on which the participant chose to retrieve."
+    - id: sharp-calculation
+      description: "Trials on sharp-operator problems on which the participant chose to calculate."
+    - id: reder-ritter-1992-experiments
+      description: "The two Reder and Ritter (1992) experiments, all problems."
+    - id: schunn-1997-experiment-1
+      description: "Schunn et al. (1997), Experiment 1, all problems."
+
+comparisons:
+  - id: retrieval-vs-calculation-multiply
+    kind: other
+    index_arm: multiply-retrieval
+    reference_arm: multiply-calculation
+    description: "Per-participant strategy-specific power-function parameters, retrieval against calculation, multiply problems; two-tailed pairwise comparisons across participants."
+  - id: retrieval-vs-calculation-sharp
+    kind: other
+    index_arm: sharp-retrieval
+    reference_arm: sharp-calculation
+    description: "Per-participant strategy-specific power-function parameters, retrieval against calculation, sharp problems."
+
+observations:
+
+  - id: slope-multiply-retrieval
+    arm_ref: multiply-retrieval
+    outcome:
+      construct: "Rate of speed-up with practice on a strategy"
+      source_language: "Mean slope (α)"
+      measure: "Slope of log solution time on log number of trials on which the strategy had been used for the problem, per participant (Equation 2)"
+      scale: "power-law slope α, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: mean
+      estimate: 0.54
+      sd: 0.53
+      unit: "power-law slope α (log-log)"
+      note: "Mean intercept (log B) 3.21 (SD 0.25) in the same row."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "The number of participants contributing to the mean is not printed. Solution times on incorrect trials were excluded."
+    source_quote: "Multiply, retrieval strategy Multiply, calculation strategy Sharp, retrieval strategy Sharp, calculation strategy 0.54 (0.53) 0.37 (0.18) 0.11 (1.15) 0.25 (0.88)"
+    source_location: "Table 4"
+
+  - id: slope-multiply-calculation
+    arm_ref: multiply-calculation
+    outcome:
+      construct: "Rate of speed-up with practice on a strategy"
+      source_language: "Mean slope (α)"
+      measure: "Slope of log solution time on log number of trials on which the strategy had been used for the problem, per participant (Equation 2)"
+      scale: "power-law slope α, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: mean
+      estimate: 0.37
+      sd: 0.18
+      unit: "power-law slope α (log-log)"
+      note: "Mean intercept (log B) 3.99 (SD 0.13) in the same row."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "The number of participants contributing to the mean is not printed."
+    source_quote: "Multiply, retrieval strategy Multiply, calculation strategy Sharp, retrieval strategy Sharp, calculation strategy 0.54 (0.53) 0.37 (0.18) 0.11 (1.15) 0.25 (0.88)"
+    source_location: "Table 4"
+
+  - id: slope-sharp-retrieval
+    arm_ref: sharp-retrieval
+    outcome:
+      construct: "Rate of speed-up with practice on a strategy"
+      source_language: "Mean slope (α)"
+      measure: "Slope of log solution time on log number of trials on which the strategy had been used for the problem, per participant (Equation 2)"
+      scale: "power-law slope α, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: mean
+      estimate: 0.11
+      sd: 1.15
+      unit: "power-law slope α (log-log)"
+      note: "Mean intercept (log B) 2.97 (SD 0.90) in the same row."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "The number of participants contributing to the mean is not printed. The SD exceeds the mean many times over."
+    source_quote: "Multiply, retrieval strategy Multiply, calculation strategy Sharp, retrieval strategy Sharp, calculation strategy 0.54 (0.53) 0.37 (0.18) 0.11 (1.15) 0.25 (0.88)"
+    source_location: "Table 4"
+
+  - id: slope-sharp-calculation
+    arm_ref: sharp-calculation
+    outcome:
+      construct: "Rate of speed-up with practice on a strategy"
+      source_language: "Mean slope (α)"
+      measure: "Slope of log solution time on log number of trials on which the strategy had been used for the problem, per participant (Equation 2)"
+      scale: "power-law slope α, mean over participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: mean
+      estimate: 0.25
+      sd: 0.88
+      unit: "power-law slope α (log-log)"
+      note: "Mean intercept (log B) 3.77 (SD 1.14) in the same row."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "The number of participants contributing to the mean is not printed."
+    source_quote: "Multiply, retrieval strategy Multiply, calculation strategy Sharp, retrieval strategy Sharp, calculation strategy 0.54 (0.53) 0.37 (0.18) 0.11 (1.15) 0.25 (0.88)"
+    source_location: "Table 4"
+
+  - id: slope-difference-multiply
+    comparison_ref: retrieval-vs-calculation-multiply
+    outcome:
+      construct: "Rate of speed-up with practice on a strategy"
+      source_language: "slopes of the retrieval and calculation power law learning curves"
+      measure: "Per-participant strategy-specific power-law slopes"
+      scale: "power-law slope α"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: other
+      statistic: "t(28) = 1.63"
+      interpretation: "No significant difference between the retrieval and calculation slopes for multiplication (two-tailed). For sharp the authors report t(17) = 1.21, also not significant."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Two-tailed pair-wise comparisons revealed no significant differences between the slopes of the retrieval and calculation power law learning curves for multiplication, t(28) = 1.63, or for sharp, t(17) = 1.21."
+    source_location: "Differences Between Strategies"
+
+  - id: intercept-difference-multiply
+    comparison_ref: retrieval-vs-calculation-multiply
+    outcome:
+      construct: "Solution time at the start of practice on a strategy"
+      source_language: "The intercepts did differ, with retrieval being faster than calculation"
+      measure: "Per-participant strategy-specific power-law intercepts (log B)"
+      scale: "log solution time"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: other
+      statistic: "t(27) = 18.67"
+      p_value: "< .001"
+      interpretation: "Retrieval intercepts lower (faster) than calculation intercepts for multiplication."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The intercepts did differ, with retrieval being faster than calculation for both multiplication, t(27) = 18.67, p < .001, and sharp, t(17) = 9.13, p < .001."
+    source_location: "Differences Between Strategies"
+
+  - id: intercept-difference-sharp
+    comparison_ref: retrieval-vs-calculation-sharp
+    outcome:
+      construct: "Solution time at the start of practice on a strategy"
+      source_language: "The intercepts did differ, with retrieval being faster than calculation"
+      measure: "Per-participant strategy-specific power-law intercepts (log B)"
+      scale: "log solution time"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: other
+      statistic: "t(17) = 9.13"
+      p_value: "< .001"
+      interpretation: "Retrieval intercepts lower (faster) than calculation intercepts for sharp. The slope test for sharp, t(17) = 1.21, was not significant (recorded in slope-difference-multiply's interpretation)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The intercepts did differ, with retrieval being faster than calculation for both multiplication, t(27) = 18.67, p < .001, and sharp, t(17) = 9.13, p < .001."
+    source_location: "Differences Between Strategies"
+
+  - id: strategy-shifts-reder-ritter
+    arm_ref: reder-ritter-1992-experiments
+    outcome:
+      construct: "Strategy switching during practice"
+      source_language: "strategy shifts per problem"
+      measure: "Changes between retrieve and calculate choices (feeling-of-knowing button press) across a problem's presentations"
+      scale: "strategy shifts per problem"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 2.12
+        upper: 2.39
+        over:
+          value: 2
+          unit: other
+      unit: "average strategy shifts per problem"
+      interpretation: >-
+        The two averages printed for the two Reder and Ritter (1992)
+        experiments, 2.39 and 2.12; the sentence does not say which belongs to
+        which experiment, so they are held as the pair, not assigned. For
+        problems with more than one switch, the region between first and last
+        shift was on average 52%, 48% and 42% of total trials 'for the three
+        experiments, respectively'.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "`over` counts experiments, which the unit vocabulary has no word for."
+    source_quote: "Participants frequently chose to calculate an answer after they had retrieved it on a prior trial, averaging 2.39 and 2.12 strategy shifts per problem in Reder and Ritter’s (1992) experiments and 3.23 switches per problem in the Schunn et al. (1997) experiment."
+    source_location: "Analysis of Group Data"
+
+  - id: strategy-shifts-schunn
+    arm_ref: schunn-1997-experiment-1
+    outcome:
+      construct: "Strategy switching during practice"
+      source_language: "switches per problem"
+      measure: "Changes between retrieve and calculate choices (feeling-of-knowing button press) across a problem's presentations"
+      scale: "strategy switches per problem"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the experimental session"
+    result:
+      measure_type: mean
+      estimate: 3.23
+      unit: "average strategy switches per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "Participants frequently chose to calculate an answer after they had retrieved it on a prior trial, averaging 2.39 and 2.12 strategy shifts per problem in Reder and Ritter’s (1992) experiments and 3.23 switches per problem in the Schunn et al. (1997) experiment."
+    source_location: "Analysis of Group Data"
+
+not_yet_extracted:
+  - "Table 1, R2 of strategy-specific and regular power-function fits to aggregated data: the text layer separates the values from their rows and columns (only the first column, .999 throughout, is in order). The prose says every fit captures at least 95% of the variance."
+  - "Table 2, lag-1 autocorrelation of residuals: values separated from their rows in the text layer."
+  - "Table 3, free-entry R2 and forced-entry delta R2 per experiment with N: column order is partly recoverable but the N column cannot be safely aligned to rows."
+  - "Slope comparisons across operators: calculation t(15) = 0.90, retrieval t(15) = 0.78, not significant."
+  - "Spans between first and last strategy shift (52%, 48%, 42%), held in strategy-shifts-reder-ritter's interpretation rather than as observations, because two of the three experiments cannot be told apart in the sentence giving the shift counts."
