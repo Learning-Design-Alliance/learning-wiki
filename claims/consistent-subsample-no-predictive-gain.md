@@ -9,7 +9,7 @@ generated:
   at: 2026-11-27
 evidence_strength: moderate
 newest_evidence: 1984
-recheck_by: 1988
+recheck_by: 1987
 sources:
   - id: cutrona-1984
     resource: "https://doi.org/10.1037/0022-3514.47.5.1043"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
-> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1988**: tool and model accuracy changes quickly
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1987**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i0` For the 22 most consistent women, correlations were lower for internality (average r(20) = .080) and globality (average r(20) = .135) than for the full sample. [→ Cutrona 1984](#cutrona-1984)
