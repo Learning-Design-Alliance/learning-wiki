@@ -1,0 +1,333 @@
+# Atteberry & McEachin (2021; online 2020): summer learning loss in NWEA MAP
+# data, Grades 1-8, 2008-2016.
+#
+# The key is atteberry-2020 as assigned; the AERJ issue is April 2021, Vol. 58,
+# No. 2, pp. 239-282, and the article's front matter carries "(c) 2020 AERA"
+# (published online 2020). The DOI on the front matter matches.
+#
+# Read from a text layer of the publisher PDF (no page images available). The
+# layer renders the minus sign in Tables 3-6 and in several prose figures as
+# "2" ("2 4.6" for the Grade 3 math summer coefficient, "20.56" for a negative
+# correlation, "26.6 to 20.9" for ELA summer losses that the text calls
+# negative). Those signed figures are NOT recorded: see not_yet_extracted.
+# Every figure below is unsigned in the source (school-year gains, percent of
+# gain lost, SEs, student SDs, the positive summer-summer correlations).
+#
+# Grade 3-5 maths is the slice recorded per grade. The article prints grades,
+# never ages, so population.age is `unreported`. It prints no reliability
+# coefficient for the MAP scores: it says only that the raw SD of summer gains
+# "reflects measurement error" and uses Bayesian (empirical-Bayes) variance
+# estimates instead. The .996 correlation between observed and projected fall
+# ELA scores is the agreement of two versions of one score, not a reliability
+# of the instrument, and is left in not_yet_extracted.
+
+schema_version: 2
+
+study:
+  key: atteberry-2020
+  citation: "Atteberry, A., & McEachin, A. (2021). School's out: The role of summers in understanding achievement disparities. American Educational Research Journal, 58(2), 239-282. (Published online 2020.)"
+  doi: "10.3102/0002831220937285"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Secondary analysis of an administrative longitudinal panel of NWEA MAP
+      scores (fall and spring each grade). Scores projected linearly to the
+      first and last day of school from collected or extrapolated district
+      calendars. Two-level random-effects growth model (repeated scores within
+      students) with grade-semester dummies, so each L1 coefficient is a
+      student's grade-specific school-year gain or summer gain/loss; fully
+      unstructured L2 covariance matrix; Bayesian estimation of the variances.
+      Balanced panels: Grades 1-5 (all 10 scores) and Grades 5-8 modelled
+      separately. Descriptive; no intervention.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: mean-summer-losses-17-28-percent-ela-25-34-percent-math
+    bearing: supports
+    anchor: atteberry-2021
+  - claim: consecutive-summer-losses-accumulate-same-students
+    bearing: supports
+    anchor: atteberry-2021
+  - claim: school-year-gains-diminish-summer-losses-stable
+    bearing: supports
+    anchor: atteberry-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 260037
+    unit: participants
+  additional_sizes:
+    - value: 17955222
+      unit: participants
+      note: "students in the full NWEA data set (203,234,153 test scores, Grades K-11, 7,685 districts, 2008-2016)"
+    - value: 7685
+      unit: other
+      note: "school districts administering MAP in the full data set"
+  population:
+    description: >-
+      US students in districts using NWEA MAP, restricted to Grades 1-8, to the
+      89% who neither repeat nor skip grades, and to balanced panels. Primary
+      analytic sample in 2011-12: 12.4% Black, 9.2% Hispanic, 3.4% Asian,
+      60.5% White, 50.3% male; school mean FRPL 51%. Not nationally
+      representative (fewer Hispanic students, smaller schools than the US
+      public-school population).
+    age_or_stage: "Grades 1 through 8; no ages printed"
+    age: unreported
+  context:
+    setting: "Low-stakes computer-adaptive formative assessment (MAP) given in fall and spring, scored on the vertical RIT scale; summers of about 3 months between 9-month school years"
+  arms:
+    - id: grade-3-math
+      description: "Balanced Grades 1-5 math panel, Grade 3 school year and the following summer."
+    - id: grade-4-math
+      description: "Balanced Grades 1-5 math panel, Grade 4 school year and the following summer."
+    - id: grade-5-math
+      description: "Balanced Grades 1-5 math panel, Grade 5 school year and the following summer."
+
+comparisons:
+  - id: whole-sample-math
+    kind: none
+    description: "Math summer gains/losses across students in the balanced panels; no contrast between groups."
+  - id: whole-sample-ela
+    kind: none
+    description: "ELA summer gains/losses across students in the balanced panels; no contrast between groups."
+
+observations:
+
+  - id: math-summer-loss-share-range
+    comparison_ref: whole-sample-math
+    outcome:
+      construct: "Summer learning loss relative to the preceding school-year gain"
+      source_language: "The average student loses between 25% and 34% of each school-year gain during the following summer"
+      measure: "Mean summer coefficient as a percentage of the mean preceding school-year coefficient, NWEA MAP math RIT, projected first/last-day scores"
+      scale: "percent of school-year gain lost"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "summer after each of Grades 1-7 (about 3 months)"
+    result:
+      measure_type: other
+      estimate_range:
+        lower: 25
+        upper: 34
+        over:
+          value: 7
+          unit: other
+      unit: percent
+      note: "Range over the grade-specific summers in Table 4 (after Grades 1-7). ELA: 17% to 28%."
+    moderators:
+      reported: []
+      candidate:
+        - "Grade level (the share rises from 28% after Grade 3 to 34% after Grade 5)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      `over` counts summers (after Grades 1-7), for which Table 4 prints a
+      share lost; the unit is `other` because no count unit names a summer.
+    source_quote: "In math, the relative losses are a little larger: The average student loses between 25% and 34% of each school- year gain during the following summer."
+    source_location: "Results, RQ1, During Summers (p. 254)"
+
+  - id: math-grade-3-summer-loss-share
+    arm_ref: grade-3-math
+    outcome:
+      construct: "Summer learning loss relative to the preceding school-year gain"
+      source_language: "% SY Learning Gain Lost in Summer"
+      measure: "NWEA MAP math RIT, projected first/last-day scores"
+      scale: "percent of school-year gain lost"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 3 school year and the following summer"
+    result:
+      measure_type: other
+      estimate: 28
+      unit: percent
+      descriptives:
+        school_year_gain_beta: 16.5
+        school_year_gain_se: 0.04
+        school_year_gain_student_sd_tau: 6.6
+        summer_student_sd_tau: 3.7
+        summer_beta_se: 0.03
+      model: "Two-level growth model, balanced Grades 1-5 math panel; beta = fixed effect, tau = student-level SD"
+      note: "Unit of the betas and taus: RIT points. The summer beta itself is not recorded (sign garbled in the text layer)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The prose says "in third-grade math, the SD is 6.6 in the school year and
+      3.6 in the following summer"; Table 4 prints 3.7 for the summer tau. The
+      table value is recorded and the discrepancy left as printed.
+    source_quote: "Grade 3 Coefficient (beta) 16.5"
+    source_location: "Table 4 (Math), Grade 3 row; % SY gain lost column = 28 (row reads '28 78 0.40 0.8 12 73' after the coefficients)"
+
+  - id: math-grade-4-summer-loss-share
+    arm_ref: grade-4-math
+    outcome:
+      construct: "Summer learning loss relative to the preceding school-year gain"
+      source_language: "% SY Learning Gain Lost in Summer"
+      measure: "NWEA MAP math RIT, projected first/last-day scores"
+      scale: "percent of school-year gain lost"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 4 school year and the following summer"
+    result:
+      measure_type: other
+      estimate: 30
+      unit: percent
+      descriptives:
+        school_year_gain_beta: 14.2
+        school_year_gain_se: 0.04
+        school_year_gain_student_sd_tau: 6.2
+        summer_student_sd_tau: 4.7
+        summer_beta_se: 0.03
+      model: "Two-level growth model, balanced Grades 1-5 math panel; beta = fixed effect, tau = student-level SD"
+      note: "Unit of the betas and taus: RIT points. The summer beta itself is not recorded (sign garbled in the text layer)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Grade 4 Coefficient (beta) 14.2"
+    source_location: "Table 4 (Math), Grade 4 row; % SY gain lost column = 30 (row reads '30 86 0.44 1.1 28 96' after the coefficients)"
+
+  - id: math-grade-5-summer-loss-share
+    arm_ref: grade-5-math
+    outcome:
+      construct: "Summer learning loss relative to the preceding school-year gain"
+      source_language: "% SY Learning Gain Lost in Summer"
+      measure: "NWEA MAP math RIT, projected first/last-day scores"
+      scale: "percent of school-year gain lost"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5 school year and the following summer"
+    result:
+      measure_type: other
+      estimate: 34
+      unit: percent
+      descriptives:
+        school_year_gain_beta: 11.7
+        school_year_gain_se: 0.05
+        school_year_gain_student_sd_tau: 8.1
+        summer_student_sd_tau: 5.2
+        summer_beta_se: 0.04
+      model: "Two-level growth model, balanced Grades 1-5 math panel; beta = fixed effect, tau = student-level SD"
+      note: "Unit of the betas and taus: RIT points. The summer beta itself is not recorded (sign garbled in the text layer)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Grade 5 Coefficient (beta) 11.7"
+    source_location: "Table 4 (Math), Grade 5 row; % SY gain lost column = 34 (row reads '34 136 0.69 1.3 51 121' after the coefficients)"
+
+  - id: math-summer-summer-correlations
+    comparison_ref: whole-sample-math
+    outcome:
+      construct: "Persistence of summer gains/losses across summers"
+      source_language: "Correlations (Summer, Summer Gains) Across Grades"
+      measure: "Student-level correlations among summer gain/loss random effects (off-diagonal elements of the L2 covariance matrix), NWEA MAP math"
+      scale: "correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "pairs of summers within Grades 1-5 and within Grades 5-8"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.10
+        upper: 0.65
+        over:
+          value: 9
+          unit: comparisons
+      model: "Two-level growth model with unstructured student-level covariance; Grades 1-5 and 5-8 modelled separately, so no correlations across the two models"
+      note: "ELA: all positive, between 0.12 and 0.65."
+    moderators:
+      reported: []
+      candidate:
+        - "Distance between summers (adjacent summers tend to correlate more strongly in Table 6)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The range is the prose's. Table 6 prints nine summer-summer correlations
+      (0.65, 0.15, 0.43, 0.09, 0.15, 0.49, 0.42, 0.10, 0.53), one of which
+      (summer after Grade 4 with summer after Grade 1) is 0.09, below the
+      prose's lower bound of 0.10. Recorded as the prose states it; the
+      discrepancy is the source's.
+    source_quote: "The corresponding correlations are also positive in math, ranging between 0.10 and 0.65."
+    source_location: "Results, RQ3 (p. 265); Table 6 upper panel (p. 267)"
+
+  - id: ela-losses-all-five-summers
+    comparison_ref: whole-sample-ela
+    outcome:
+      construct: "Share of students losing ground in every summer"
+      source_language: "exhibit losses (in ELA) in all five consecutive years observed"
+      measure: "Students whose empirical-Bayes summer gain/loss is negative in each of five consecutive summers, NWEA MAP ELA"
+      scale: "percent of students"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "five consecutive summers"
+    result:
+      measure_type: other
+      estimate: 52
+      unit: percent
+      interpretation: "More than double the 24% expected if summer losses were independent across students and grades; this group loses 39% of its total school-year ELA gains in the summers (results said to be similar for math)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      ELA only; the article says the math results are similar but prints no
+      math share. The 24% benchmark's derivation is in an endnote not read
+      here.
+    source_quote: "In contrast, we actually find that 52% exhibit losses (in ELA) in all five consecutive years observed—more than double what one would expect by chance."
+    source_location: "Conclusion, Reflections on Findings (p. 271)"
+
+not_yet_extracted:
+  - "Table 4 math summer coefficients (beta) by grade, and the ELA summer betas in Table 3 and the prose: the text layer renders their minus sign as '2' ('2 4.6', '2 4.3', '2 4.0'; '26.6 to 20.9' for ELA), so the signed values are not recorded. The prose states the summer coefficients are negative."
+  - "Table 6 lower panel (math summer vs school-year gain correlations) and Table 5 (ELA): negative values garbled the same way ('20.56', '20.68')."
+  - "95% plausible value ranges for summer gains/losses in Tables 3-4, which mix '–' and '2' as the minus sign."
+  - "Correlation of .996 (RMSE 2.3 points) between observed and projected fall ELA RIT scores: agreement of the projection with observed scores, not a reliability of the MAP test."
+  - "Mean share of score fluctuations occurring in summer, Grades 1-5: 19.4% ELA, 19.3% math (Figure 6)."
+  - "SD-to-mean ratios of summer gains (math 0.8 to 2.3; ELA 1.4 to 5.2) and Table 3 ELA rows."
