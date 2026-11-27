@@ -1,0 +1,306 @@
+# Marsh, Cairns, Relich, Barnes & Debus (1984): dimensions of self-attribution
+# and dimensions of self-concept, 248 Grade 5 students in Sydney.
+#
+# NOT Marsh (1984), JEP 76(6), 1291-1308 (key marsh-1984), which is a different
+# sample (559 students, seven Catholic schools) and a shorter version of the
+# Sydney Attribution Scale (SAS). Nothing here comes from that paper.
+#
+# Read from the publisher PDF (APA, scan quality) and its text layer. The text
+# layer reads Table 4 column by column, so the four Table 4 row quotes below
+# were taken from the PAGE IMAGE (PDF page 18, journal p. 20), written as the
+# rows print them (coefficients without decimal points; minus signs written
+# as hyphens). Each coefficient recorded was checked twice: on the page image
+# and against the same value in the text layer's column reading. The quotes
+# from running text are verbatim from the text layer.
+#
+# What is recorded and why:
+#
+#   * The correlations between the same attribution in mathematics and in
+#     reading: failure/ability, success/ability, failure/effort and
+#     failure/external (Table 4). These are the figures that say how far a
+#     child's attributions in one subject go with the same attributions in
+#     the other. The authors read the ability correlations as content
+#     specific. Success/effort (.64) and success/external (.66) are in the
+#     notes of the corresponding failure observations.
+#   * Coefficient alpha for the 18 SAS scales (mean .78) and the six subtotal
+#     scores (mean .90), as the text prints them. The per-scale alphas for the
+#     four ability scales are in the notes.
+#   * `population.age: unreported`: the article says only "primarily 10 years
+#     old"; it prints no age range or mean.
+#
+# No claim page cites this source by DOI. Two claim pages cite it by URL
+# (success-internal-attribution-positively-correlated-self-concept and
+# high-self-concept-internal-success-low-external-attributions); both record
+# statements from the article's literature review, which these observations do
+# not bear on, so appears_in is omitted. Those pages give the title as "...,
+# Dimensions of Self-Concept, and Academic Achievements"; the article's own
+# title ends at "Dimensions of Self-Concept".
+
+schema_version: 2
+
+study:
+  key: marsh-1984-cairns
+  citation: "Marsh, H. W., Cairns, L., Relich, J., Barnes, J., & Debus, R. L. (1984). The relationship between dimensions of self-attribution and dimensions of self-concept. Journal of Educational Psychology, 76(1), 3–32."
+  doi: "10.1037/0022-0663.76.1.3"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional correlational survey with a literature review. The 18
+      Sydney Attribution Scale (SAS) scales (3 content areas x success/failure
+      x ability/effort/external) were intercorrelated, analysed with a
+      3 x 2 x 3 repeated-measures ANOVA, factor analysed (oblique, SPSS), and
+      correlated with seven Self Description Questionnaire (SDQ) self-concept
+      factors and a reading achievement score; a canonical correlation
+      between the SAS and SDQ sets.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 248
+    unit: participants
+  additional_sizes:
+    - value: 4
+      unit: schools
+      note: "public coeducational schools in Sydney"
+    - value: 213
+      unit: participants
+      note: "children with complete data on both the SAS and the SDQ, which were given on separate days; SAS-SDQ correlations use pairwise deletion"
+  population:
+    description: >-
+      Fifth-grade students in four public coeducational schools in Sydney,
+      Australia, serving communities from lower and lower-middle to middle
+      and upper-middle socioeconomic status; academic abilities about
+      average by principals' reports and standardised reading tests.
+    age_or_stage: "Grade 5, \"primarily 10 years old\"; the article prints no age range or mean"
+    age: unreported
+  context:
+    setting: >-
+      Intact classes of no more than 32, tested by one of the authors on two
+      days in the same week (SDQ and a reading test on day one, SAS and a
+      second reading test on day two). SAS: 60 scenarios, each with an
+      ability, an effort and an external cause rated on five boxes from
+      false to true, read aloud; 180 items, 10 per scale. External scales
+      reflected so that higher always means more internal.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations among SAS scales and scale reliabilities in the whole Grade 5 sample; no contrast between groups."
+
+observations:
+
+  - id: math-reading-failure-ability-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-domain consistency of failure-ability attributions (mathematics with reading)"
+      source_language: "Math/Failure/Ability (MFA) with Reading/Failure/Ability (RFA)"
+      measure: "Correlation between the SAS Math/Failure/Ability and Reading/Failure/Ability scale scores (10 items each, 5-point false-true ratings)"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.45
+      interpretation: >-
+        The authors' summary: "(c) ability attributions (but perhaps not
+        attributions to effort and external causes) are specific to particular
+        areas of academic content." MFA with General/Failure/Ability .78; RFA
+        with General/Failure/Ability .66. Alphas: MFA .86, RFA .87.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed without decimal points (45). The number of children behind the
+      SAS intercorrelations is not printed (248 tested; 213 had both surveys);
+      no p value or interval is printed for Table 4.
+    source_quote: "13. Reading/Failure/Ability (RFA) -05 -19 -26 -49 -33 -13 -29 -28 -28 45 53 -37 (87)"
+    source_location: "Table 4, p. 20 (quoted from the page image); column 10 is MFA"
+
+  - id: math-reading-success-ability-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-domain consistency of success-ability attributions (mathematics with reading)"
+      source_language: "Math/Success/Ability (MSA) with Reading/Success/Ability (RSA)"
+      measure: "Correlation between the SAS Math/Success/Ability and Reading/Success/Ability scale scores"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.36
+      interpretation: >-
+        Alphas: MSA .90, RSA .92. The text reads the pattern among the 18
+        scales as content specific for ability attributions.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed without decimal points (36); no p value or interval printed.
+    source_quote: "4. Reading/Success/Ability (RSA) 36 27 -05 (92)"
+    source_location: "Table 4, p. 20 (quoted from the page image); column 1 is MSA. Text, p. 21: Inspection of the correlations among the 18 SAS scales also demonstrates how this dispositional tendency is content specific for ability attributions."
+
+  - id: math-reading-failure-effort-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-domain consistency of failure-effort attributions (mathematics with reading)"
+      source_language: "Math/Failure/Effort (MFE) with Reading/Failure/Effort (RFE)"
+      measure: "Correlation between the SAS Math/Failure/Effort and Reading/Failure/Effort scale scores"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.71
+      interpretation: >-
+        Success/effort, Math/Success/Effort with Reading/Success/Effort, is .64
+        (row 5, column 2). Alphas: MFE .78, RFE .76.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed without decimal points (71); no p value or interval printed.
+    source_quote: "14. Reading/Failure/Effort (RFE) -13 -21 -21 -33 -18 -01 -26 -20 -18 50 71 -46 60 (76)"
+    source_location: "Table 4, p. 20 (quoted from the page image); column 11 is MFE"
+
+  - id: math-reading-failure-external-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-domain consistency of failure-external attributions (mathematics with reading)"
+      source_language: "Math/Failure/External (MFX) with Reading/Failure/External (RFX)"
+      measure: "Correlation between the reflected SAS Math/Failure/External and Reading/Failure/External scale scores"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single cross-sectional administration"
+    result:
+      measure_type: correlation
+      estimate: 0.56
+      interpretation: >-
+        Success/external, Math/Success/External with Reading/Success/External,
+        is .66 (row 6, column 3). Alphas: MFX .57, RFX .71.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Printed without decimal points (56); external scales reflected, so a
+      positive correlation means the same direction of reflected scores.
+    source_quote: "15. Reading/Failure/External (RFX) 05 09 28 03 10 11 -01 06 20 -29 -26 56 -28 -31 (71)"
+    source_location: "Table 4, p. 20 (quoted from the page image); column 12 is MFX"
+
+  - id: sas-scales-mean-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the 18 SAS scales"
+      source_language: "the 18 SAS scales are reliable (mean coefficient alpha = .78)"
+      measure: "18 SAS scales (math, reading, general x success, failure x ability, effort, external), 10 items each"
+      scale: "mean of 18 Cronbach's alphas"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.78
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: >-
+        A mean over the 18 scales, as the text prints it; the per-scale alphas
+        are the parenthesised diagonal of Table 4. The authors note the six
+        external scales as lower.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Results presented in Table 4 indicated that the 18 SAS scales are reliable (mean coefficient alpha = .78), whereas correlations among the scales are modest (mean r = .30)."
+    source_location: "Results, Correlations Among the SAS Scales, p. 19"
+
+  - id: sas-subtotals-mean-alpha
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the six SAS subtotal scores"
+      source_language: "These subtotal scores ... are more reliable (mean coefficient alpha = .90)"
+      measure: "Six SAS subtotals, each summing one outcome x cause scale over math, reading and general (30 items)"
+      scale: "mean of 6 Cronbach's alphas"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "Grade 5, single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.90
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "A mean over the six subtotals, as the text prints it."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "These subtotal scores, as a consequence of the increased number of items, are more reliable (mean coefficient alpha = .90), though the average correlation among the scales is still modest (mean r = .32)."
+    source_location: "Results, Correlations Among the SAS Scales, p. 19"
+
+not_yet_extracted:
+  - "Table 4 remaining SAS intercorrelations, general-content correlations and subtotal correlations (e.g. success with failure: ability r = -.50, effort -.28, external .22, given in the text)."
+  - "Table 5 ANOVA of the 18 SAS scales: outcome 29.7% of variance, attribution 2.5%, outcome x attribution 13.8%, all effects 47.3%."
+  - "Table 6 oblique factor analysis of the 18 SAS scales (separate math-ability and reading-ability factors)."
+  - "Table 7 correlations of SAS scales with SDQ self-concept factors and reading achievement; Table 8 canonical correlation."
+  - "Reading test reliabilities in this sample: GAP alpha .83, ACER comprehension alpha .90; the two correlated .62."
+  - "The internal consistency of the six external scales, printed as 'mean r = .68': not recorded because the text labels it a mean r while calling it an internal consistency estimate."
+  - "Table 1 and Table 2: Fennema et al.'s correlation matrices and the authors' re-analysis of them; another study's sample, not this one."
+  - "SDQ reliabilities 'in the .80s and .90s' are cited from earlier research, not this sample's, and are not recorded."
