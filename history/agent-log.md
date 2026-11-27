@@ -5,6 +5,48 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batches 13 and 14, and three citation repairs
+
+The two batches add 19 files and 117 observations:
+- Kievit et al. (2019), Kirya et al. (2025), Malmberg & Martin (2019), Marinelli et al. (2021).
+- Miller & Brownell (1975), Mogessie et al. (2020), Rau et al. (2010).
+- Poortvliet et al. (2007), Studies 1 and 2.
+- Semb & Ellis (1994), Seol & Jung (2013), Shavelson et al. (1999), Starch & Elliott (1912, 1913).
+- Tullis & Goldstone (2020), Wang et al. (2021), Zhang et al. (2017).
+- Zheng et al. (2025), Experiments 1 and 2.
+
+Four simulator sources get no record:
+- MacKay (1992) and van der Maas et al. (2006): the simulator takes only a model form from each, and no printed figure.
+- Koedinger, Corbett & Perfetti (2012): the simulator cites one theoretical sentence. The paper's own data (Fig. 2) are
+  approximate time ranges given in words, with no sample size, so a record would have had to invent one.
+- Johansson et al. (2024): the PsyArXiv preprint was withdrawn on 2026-01-16 (version 2 is titled "WITHDRAWN"). A draft
+  record is held outside the repo until the maintainer decides whether the simulator should keep its figures.
+
+Some text-layer gaps were filled from page images, using PDFs in the maintainer's Drive:
+- Miller & Brownell: the cached text is the 1974 ERIC report, so the record quotes the published Child Development
+  article from its page images.
+- Shavelson et al.: the residual variance component (0.47, 18.70%) was read from the Table 2 page image.
+- Poortvliet et al.: the two columns interleave in the text layer, so the quotes come from page images.
+
+Citation repairs:
+- Starch & Elliott: on eleven claim pages the English study was dated 1911 and the mathematics study 2017 (the JSTOR
+  download year). Each linked to JSTOR's terms-of-use page. They are now 1912 and 1913 with their Crossref-checked
+  DOIs, volumes and pages.
+- Mogessie et al. (2020): on five claim pages the authors had been listed after the five volume editors, who were
+  named as authors too. The citation now has the five authors in the Crossref record.
+
+Findings for the simulator to check:
+- Rau et al. (2010): ".51 blocked vs .27 interleaved" may misread Table 1. In the text order the run ending .27 looks
+  like the Moderate condition. The table cannot be read reliably without a PDF, so neither figure is recorded.
+- Starch & Elliott: the English per-paper probable errors (A 4.0, B 4.8) are printed only in the 1913 sequel. The
+  1913 article says 138 teachers remained but splits them 43 + 75 + 10 = 128; the simulator's 128 is that sum.
+- Miller & Brownell: 52 of 60 is 27 + 25 and 3 + 5 summed by the simulator; the article prints the per-task counts.
+- Marinelli et al.: the fitted power law (T = 45 + 95.6 N^-0.86) is garbled in the text layer and not recorded.
+- Kirya et al.: the keyed answer to item 17 was marked by typography the text layer lost, so it is not recorded.
+- Seol & Jung: Table 1's significance stars are detached from the cells, so p < .001 for r = .32 is not recorded.
+- Kievit et al. (2019): an erratum exists (10.1177/0956797619860523) and was not read.
+- Bastani et al. (2025) and Tullis & Goldstone (2020): the simulator's figures are all present as printed.
+
 ## 2026-11-27 · Observation records batch 12, and two citation repairs
 
 The batch adds 13 files and 106 observations:
