@@ -5,6 +5,38 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 9: twelve more simulator sources
+
+The batch adds 16 files and 162 observations:
+- Reeve (2013), Studies 1–3.
+- Mwangi & Sweller (1998), Experiments 2–3.
+- Cutrona et al. (1984), Studies 1–2.
+- Gentner et al. (2003), Experiment 2.
+- Marsh & Hau (2003), Kitchener et al. (1993), Kibble & Johnson (2011), Payne et al. (2012), Pavlik et al. (2009),
+  Donner & Hardy (2015), Clinton (2019) and Breuer et al. (2023).
+
+Some text layers garbled tables, symbols or signs, so those figures were read from page images of PDFs in the
+maintainer's Drive folder:
+- Marsh & Hau, Kitchener (Table 2) and Reeve (Tables 3 and 5, Study 3).
+- Clinton's minus signs: the abstract and p. 19.
+
+Payne's sample age is unreported: the article prints a mean only for each condition.
+
+Claim pages for an editor to look at:
+- The five Cutrona claim pages head the entry "Cutrona 1985"; the article is 1984.
+
+Findings for the simulator to check:
+- Mwangi & Sweller print no effect sizes. The d and g values (1.36, .43, −.34, .04, .22, .00) and the pooled g .46 are
+  the simulator's own.
+- Kitchener et al. print no paired d; the support effect is F(1, 363) = 59.99.
+- Cutrona et al. print no maths-versus-verbal figure; their only cross-domain figure is the achievement–affiliation
+  factor correlation (.929 to 1.00).
+- Payne et al.: the 24 h figures (+0.7 against −6.5) are garbled in the text copy and not yet recorded. The 5.8 is the
+  sleep-interval forgetting average, not a sleep-minus-wake gap.
+- Donner & Hardy: R² > .99 for averaged curves is scrambled in the text copy and not yet recorded.
+- Breuer et al. print extraction ICCs (0.96 and 1.00), not only screening ICCs.
+- Pavlik et al.'s Table 2 Algebra log-likelihoods print without a minus sign in the copy read.
+
 ## 2026-11-27 · Observation records batch 8: twelve more simulator sources
 
 The batch adds 21 files and 173 observations:
