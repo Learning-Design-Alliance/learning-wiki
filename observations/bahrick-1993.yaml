@@ -2,14 +2,18 @@
 # per subject, relearned in 13 or 26 sessions at 14-, 28- or 56-day intervals,
 # with recall tested 1, 2, 3 and 5 years after training ended.
 #
-# Read from the text layer of a scanned copy of the printed article (pp.
-# 316-321; the copy carries a "scanned copy of a printed document" notice). The
-# text layer interleaves the two columns of the abstract and the Subjects
-# paragraph, and Tables 2, 3 and 4 came out as runs of digits whose columns
-# cannot be told apart (Table 4 reads "435650ai 70- 57" and "6876"). No page
-# image was available, so no figure is taken from any table: every number
-# below is from running prose, and each quote is a contiguous run of the text
-# layer.
+# Read from a scanned copy of the printed article (pp. 316-321; the copy
+# carries a "scanned copy of a printed document" notice). The text layer
+# interleaves the two columns of the abstract and the Subjects paragraph, and
+# Tables 2, 3 and 4 came out as runs of digits whose columns cannot be told
+# apart (Table 4 reads "435650ai 70- 57" and "6876").
+#
+# Quotes taken from PAGE IMAGES (2026-11-27, pages rendered from the PDF and
+# read at 250 dpi): the six Table 4 rows quoted by the table-4-* observations
+# (p. 320), and the full "Thirteen sessions ..." sentence quoted by
+# s13-i56-comparable-to-s26-i14 (p. 319, Results), where the text layer splits
+# the sentence around a figure's axis label. Every other quote is a contiguous
+# run of the text layer.
 #
 # Four subjects took every condition: the 300 words of each subject were split
 # 50 to each of the six training conditions by systematic alternation on rated
@@ -102,6 +106,10 @@ evidence_base:
       description: "Words relearned in 13 sessions spaced 56 days apart."
     - id: sessions-26-interval-14
       description: "Words relearned in 26 sessions spaced 14 days apart."
+    - id: sessions-13-interval-14
+      description: "Words relearned in 13 sessions spaced 14 days apart."
+    - id: sessions-26-interval-56
+      description: "Words relearned in 26 sessions spaced 56 days apart."
 
 comparisons:
   - id: interval-56-vs-14-acquisition
@@ -391,9 +399,9 @@ observations:
       measure_type: other
       interpretation: >-
         The authors call retention after 13 sessions at 56 days comparable to
-        retention after 26 sessions at 14 days. The Table 4 percentages behind
-        it are not legible in the copy read, and no test of the difference is
-        printed.
+        retention after 26 sessions at 14 days. Table 4 prints 57% and 56% for
+        the two cells (recorded as table-4-s13-i56 and table-4-s26-i14); no test
+        of the difference is printed.
     moderators:
       reported: []
       candidate: []
@@ -403,12 +411,11 @@ observations:
       outcome_timing: partial
       effect_size: unreported
     observability_notes: >-
-      The quote is the clean run of the Results sentence ("Thirteen sessions
-      with a 56-day interval yield retention comparable to 26 sessions with a
-      14-day interval"); in the text layer a figure's axis label splits
-      "Thirteen" from "sessions", and the abstract's version is interleaved
-      with the other column.
-    source_quote: "with a 56-day interval yield retention comparable to 26 sessions with a 14-day"
+      The quote is the full Results sentence as printed on p. 319, read from the
+      page image: in the text layer a figure's axis label splits "Thirteen" from
+      "sessions", and the abstract's version is interleaved with the other
+      column.
+    source_quote: "Thirteen sessions with a 56-day interval yield retention comparable to 26 sessions with a 14-day interval."
     source_location: "Results, Retention (Table 4); also in the Abstract"
 
   - id: sessions-interval-no-interaction
@@ -430,7 +437,8 @@ observations:
         Both number of sessions and intersession interval have a major effect
         on recall, with no evidence of interaction; the authors add that
         sessions, interval and consistency of retrieval at the end of training
-        independently affect recall. No test statistic is printed.
+        independently affect recall. No test statistic is printed. The six
+        cell means are recorded as the table-4-* observations.
     moderators:
       reported: []
       candidate: []
@@ -442,10 +450,213 @@ observations:
     source_quote: "Both variables have a major impact on retention, and there is no evidence of interaction."
     source_location: "Results, Retention (Table 4)"
 
+  - id: table-4-s13-i14
+    arm_ref: sessions-13-interval-14
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 43
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 13-sessions column.
+    source_quote: "14 days 43 56"
+    source_location: "Table 4, p. 320 (page image)"
+
+  - id: table-4-s26-i14
+    arm_ref: sessions-26-interval-14
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 56
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 26-sessions column.
+    source_quote: "14 days 43 56"
+    source_location: "Table 4, p. 320 (page image)"
+
+  - id: table-4-s13-i28
+    arm_ref: sessions-13-interval-28
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 50
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 13-sessions column.
+    source_quote: "28 days 50 68"
+    source_location: "Table 4, p. 320 (page image)"
+
+  - id: table-4-s26-i28
+    arm_ref: sessions-26-interval-28
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 68
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 26-sessions column.
+    source_quote: "28 days 50 68"
+    source_location: "Table 4, p. 320 (page image)"
+
+  - id: table-4-s13-i56
+    arm_ref: sessions-13-interval-56
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 57
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 13-sessions column.
+    source_quote: "56 days 57 76"
+    source_location: "Table 4, p. 320 (page image)"
+
+  - id: table-4-s26-i56
+    arm_ref: sessions-26-interval-56
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "mean percentage recall (collapsed over 5 years)"
+      measure: "Recall of the English equivalent, all words in the condition, averaged over the 4 subjects and the retention tests (Table 4)"
+      scale: "percent recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "collapsed over the retention tests at 1, 2, 3 and 5 years"
+    result:
+      measure_type: mean
+      estimate: 76
+      unit: "percent of words recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No SD is printed. Table 4 ("Mean percentage recall as a function of the
+      intersession interval and the number of sessions") has columns 13
+      sessions and 26 sessions; the Results text says it is collapsed over 5
+      years. The quote is the printed row, read from the page image; this cell
+      is the 26-sessions column.
+    source_quote: "56 days 57 76"
+    source_location: "Table 4, p. 320 (page image)"
+
 not_yet_extracted:
-  - "Table 4, mean percentage recall by interval (14, 28, 56 days) and sessions (13, 26), collapsed over 5 years: the text layer reads '435650ai 70- 57' and '6876', so the six cells cannot be assigned. Needs the page image."
-  - "Table 2, words recalled on the first test trial at sessions 3-6, 13-16 and 23-26 by subject and interval: digit runs in the text layer."
-  - "Table 3, percentage recall of individual subjects by interval at the 5-year test: digit runs in the text layer."
+  - "Table 2, mean number of words recalled on the first test trial of sessions 3-6, 13-16 and 23-26, by subject and interval (36 cells, p. 319): legible in the page image but not recorded, because no use for these per-subject acquisition cells has been identified yet."
+  - "Table 3, percentage recall of individual subjects by interval (12 cells, p. 319; the text says the data are combined for 13 and 26 sessions and for the 5-year retention interval): legible in the page image but not recorded, for the same reason."
   - "Figures 2 and 3 (retention functions by interval; recall by difficulty tercile): plotted only."
-  - "Footnote 2: recognition failures are limited to 6% of the data. Not recorded as an estimate because 'limited to' may be a bound and the base is not stated."
+  - "Footnote 2 (p. 320), checked against the page image: 'a ceiling effect (recognition failures are limited to 6% of the data)'. The base is 'the data', which the footnote does not break down by condition or retention test; not recorded, because it describes a ceiling on the recognition test rather than an outcome of any arm."
   - "Table 1 reproduces Bahrick & Phelps (1987); those figures belong to bahrick-1987."
