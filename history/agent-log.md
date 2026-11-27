@@ -5,6 +5,18 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-26 · Observation record: Norman et al. (1985)
+
+Norman et al. (1985), which had been treated as unavailable, was found by the maintainer. Its record
+(observations/norman-1985.yaml, 11 observations) was written from the page images, because the scan's OCR layer is
+unreliable. It holds the Table 4 same-problem generalizability coefficients (diagnosis .60, significant findings .37,
+critical findings .13, investigations .07), the Table 3 residual variance shares (62, 87, 40 and 93%), the two printed
+agreement figures for the diagnosis across two presentations (kappa .12 in the text, weighted kappa .06 in Table 5), and
+the finding that MCQ knowledge was unrelated to performance on any problem.
+
+The simulator cites this paper (doi:10.1111/j.1365-2923.1985.tb01336.x) on its theory page, but the research repo's
+register has no entry for it.
+
 ## 2026-11-26 · Observation records batch 7: eight simulator sources from open copies
 
 The batch adds 8 files and 49 observations: Fritz et al. (2023), Guo et al. (2016), Kai et al. (2018), Northcutt et al.
