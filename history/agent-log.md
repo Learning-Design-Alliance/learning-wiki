@@ -5,6 +5,34 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 10, and the Cutrona year
+
+The batch adds 13 files and 100 observations:
+- Atteberry & McEachin (2021), Lichtenfeld et al. (2023), Jerrim et al. (2018), Tudge (1992), Shin (2023), Bahrick et
+  al. (1993), Schwinger et al. (2022) and Erbeli et al. (2021).
+- Delaney et al. (1998), two analyses.
+- Foroughi et al. (2015), Experiments 1–3.
+
+Yonelinas (2002) and Frisbie (1988) get no record. Neither prints a figure of its own that the simulator uses: Yonelinas's
+own estimates are plotted only, and Frisbie's ".50" is the author's summary of other work.
+
+Tables and signs the text layer garbled were read from page images of PDFs in the maintainer's Drive folder: Tudge's
+results, Lichtenfeld's Tables 1 and 4, and Bahrick's Table 4 (recall 43–76% by interval and sessions).
+
+Five claim pages cited Cutrona, Russell & Jones as 1985; the article is JPSP 47(5), 1984. Their headings, citations,
+anchors and currency fields were corrected, and the two observation records' anchors with them.
+
+Findings for the simulator to check:
+- Jerrim et al.: the simulator's figures are the 2016 EEF report's, not the article's. Maths is 0.01 [−0.15, 0.16] in
+  EEF and 0.001 [−0.149, 0.151] in the article; science is −0.01 in EEF and −0.03 in the article.
+- Atteberry & McEachin: the summer betas (−4.6, −4.3, −4.0) print with a garbled minus in the text copy and are not
+  yet recorded. In the AERJ version Table 4 is maths and Table 3 is ELA, not the other way round.
+- Tudge: the 2.3 ratio and its interval are the simulator's own; the article prints 4 of 7 against 3 of 3.
+- Delaney et al.: the four strategy slopes are means of per-person fitted slopes (Table 4); the Reder & Ritter shift
+  counts 2.39 and 2.12 are not assigned to experiments in the article.
+- Erbeli et al.: parameter SEs and p values are only in the figures.
+- Shin: Table 3's column headings do not match its blocks; only values the text names are recorded.
+
 ## 2026-11-27 · Observation records batch 9: twelve more simulator sources
 
 The batch adds 16 files and 162 observations:
