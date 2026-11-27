@@ -14,8 +14,9 @@
 #     itself prints 0.63, a discrepancy in the source.
 #   * The text layer of Table 2 is garbled (the n column is unreadable and the
 #     pom and tom rows read "02"). The residual (ptom,e) component, 0.47 and
-#     18.70%, appears only in that table and is therefore NOT recorded; it is
-#     listed in not_yet_extracted. No PDF was available to check it.
+#     18.70%, appears only in that table; it was read from the page image of
+#     a scanned copy of the published note (p. 66), and its source_quote is the
+#     table row as printed, so it is not found in the text layer.
 #   * `population.age: unreported`: the note says only "fifth and sixth grade
 #     students". No reliability coefficient for the scores is printed for this
 #     note's own analysis (the ".80 reliability" figures are a target used in
@@ -185,6 +186,41 @@ observations:
     source_quote: "Note, however, that the estimated variance component for the person x occasion effect is zero (Tables 1 and 2)."
     source_location: "p. 64, Task Sampling Variability in Performance Assessment"
 
+  - id: residual-variance
+    comparison_ref: whole-sample
+    sample:
+      value: 27
+      unit: participants
+    outcome:
+      construct: "Residual variance in performance-assessment scores"
+      source_language: "ptom,e"
+      measure: "Estimated variance component for the person x task x occasion x method interaction confounded with unmeasured error (ptom,e) in the person x occasion x task x method G study"
+      scale: "estimated variance component"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "two occasions, late spring and early fall of 1990"
+    result:
+      measure_type: other
+      estimate: 0.47
+      unit: "estimated variance component"
+      model: "Random-effects G study, person x occasion x task x method, all facets crossed"
+      note: "Table 2 prints this component as 18.70 percent of total variability."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      No standard error is printed. Read from the page image of Table 2.
+    source_quote: "ptom,e 0.47 18.70"
+    source_location: "Table 2 (p. 66), last row, read from the page image"
+
   - id: pt-plus-pto-share-unstratified
     comparison_ref: whole-sample
     sample:
@@ -218,7 +254,7 @@ observations:
     source_location: "p. 67, Task Sampling Variability in Performance Assessment"
 
 not_yet_extracted:
-  - "Table 2 (p. 66) residual ptom,e component (0.47, 18.70% in the text layer) and the person (0.33, 13.11%), occasion, task x method and other rows: the text layer of the table is garbled (the n column reads '7322'; the pom and tom rows read '02'), and no PDF was available, so no table-only figure is recorded."
+  - "Table 2 (p. 66) person (0.33, 13.11%), occasion, task x method and other rows: legible on the page image, not recorded because the simulator does not use them."
   - "Table 1 (p. 65), the person x rater x task x occasion G study (n = 26) reproduced from Shavelson, Baxter & Gao (1993): pt 0.63 (32%), pto 1.16 (59%), prto,e 0.08 (4%). These belong to that publication's record; note the prose here prints pt as '.063'. The G coefficients row is garbled in the text layer."
   - "Table 3 (p. 67), stratified p x (t:s) x o x m G study: p x (t:s) x o 39.60% (text: 40 percent); ps 8.54%; pso 7.97%; psom 1.87% in the text against 1.89 in the table text layer. The table's text layer is partly scrambled."
   - "Decision-study result: tasks needed for a reliability of .80 with one occasion and one method, 27 un-stratified against 38 stratified (p. 68)."
