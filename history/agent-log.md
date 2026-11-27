@@ -21,16 +21,22 @@ The Ghosh table quotes, one Rohrer row and the Arens Table 2 cells were checked 
 Zhang et al. (2019) has no `doi` field. Crossref and DataCite found none, but a search that finds nothing does not
 establish that none is registered, which is what `doi: null` asserts.
 
-Johansson et al. (2024) is recorded and marked withdrawn (maintainer, 2026-11-27: "we'll want a wiki record of it
-clearly marked withdrawn"). Crossref registers version 2 of the preprint, posted 2026-01-16, with the title
-"WITHDRAWN". To carry this, `study.publication_status` was added to the observation schema:
+Johansson et al. (2024) was first recorded as withdrawn and then corrected the same day. Crossref registers a
+version 2 of the preprint, posted 2026-01-16, with the title "WITHDRAWN", but the DOI still resolves to version 1.
+The maintainer reports from the simulator session that the server's moderators withdrew version 2 four minutes
+after posting, for a missing contact email: an administrative withdrawal. The record reads version 1, so it carries
+no withdrawal flag; its header says what happened.
+
+`study.publication_status` stays in the observation schema for real withdrawals, retractions and expressions of
+concern:
 - Fields are `{status, date, notice, note}`, and status is `withdrawn`, `retracted` or `expression-of-concern`.
 - `notice` is required: the DOI or URL that states the status.
 - Absent means nothing is known against the source.
 - `compile_observations.py` emits the field on every row, and `--explain` prints it under the citation.
 
 The four mutations that should fail it (a status outside the set, a missing notice, an impossible date, a scalar in
-place of the mapping) each fail validation. The simulator session has been told and decides how to handle the figures.
+place of the mapping) each fail validation. Before setting it, check what the DOI resolves to: a withdrawn later
+version is not a withdrawn source.
 
 Findings for the simulator to check:
 - Rohrer et al.: the pilot (d 0.97 [0.52, 1.43], n 83) is a different sample and is not recorded.

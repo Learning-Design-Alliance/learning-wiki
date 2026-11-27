@@ -1,7 +1,3 @@
-# *** WITHDRAWN. This preprint was withdrawn on 2026-01-16 (study.publication_status).
-# *** It is recorded so that anything already using these figures can find that out;
-# *** do not cite it as evidence. The reason for the withdrawal is not known.
-#
 # Johansson, Savi, van der Maas & Hofman (2024): sequential errors and quitting
 # in an online arithmetic practice environment (Prowise Learn / Math Garden),
 # and how far the effect differs between learners.
@@ -10,9 +6,15 @@
 # doi:10.31234/osf.io/6tduv), text layer only, not peer reviewed. Crossref
 # (checked 2026-11-27) lists no journal version. It does list a version 2,
 # doi:10.31234/osf.io/6tduv_v2, posted 2026-01-16, whose registered title is
-# "WITHDRAWN", and OSF answers a download of the files with 410 Gone. So the
-# preprint appears to have been WITHDRAWN by its authors; the reason is not
-# established. Every figure below is from the version 1 text as it was posted.
+# "WITHDRAWN". Version 1 is NOT withdrawn: the DOI still resolves to it
+# (osf.io/6tduv_v1, checked 2026-11-27). The maintainer reports, from the
+# simulator session, that the preprint server's moderators withdrew version 2
+# four minutes after it was posted because its title page lacked a contact
+# email, an administrative withdrawal. This record was first written marking
+# the whole preprint withdrawn (2026-11-27, earlier the same day); that was
+# wrong and was corrected, and `study.publication_status` was removed, since it
+# describes the source this record reads, which is version 1. Every figure
+# below is from the version 1 text; it is a preprint and not peer reviewed.
 #
 # Only the individual-differences part (Section 2.2.3, the mixed-effects
 # logistic regressions on the addition and subtraction games) is recorded: it
@@ -32,18 +34,8 @@ schema_version: 2
 
 study:
   key: johansson-2024
-  citation: "Johansson, A. M., Savi, A. O., van der Maas, H. L. J., & Hofman, A. D. (2024). Three strikes and who is out? Individual differences in error-induced quitting [Preprint, version 1, June 6, 2024; version 2 registered as withdrawn, January 16, 2026]. PsyArXiv."
+  citation: "Johansson, A. M., Savi, A. O., van der Maas, H. L. J., & Hofman, A. D. (2024). Three strikes and who is out? Individual differences in error-induced quitting [Preprint, version 1, June 6, 2024; not peer reviewed]. PsyArXiv."
   doi: "10.31234/osf.io/6tduv"
-  publication_status:
-    status: withdrawn
-    date: 2026-01-16
-    notice: "https://doi.org/10.31234/osf.io/6tduv_v2"
-    note: >-
-      Crossref (checked 2026-11-27) registers version 2 of the preprint,
-      posted 2026-01-16, with the title "WITHDRAWN" and no authors, as a
-      version of 10.31234/osf.io/6tduv. OSF answers a download of the files
-      with 410 Gone. No reason for the withdrawal was found, and no journal
-      version is registered.
   design:
     family: observational
     design_detail: >-
