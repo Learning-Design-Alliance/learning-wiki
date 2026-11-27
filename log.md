@@ -12,6 +12,12 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-27
 
+* **Correction**: [claims/lfa-identifies-overtaught-undertught-skills](claims/lfa-identifies-overtaught-undertught-skills.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
+* **Correction**: [claims/lfa-merged-model-skill-recovery](claims/lfa-merged-model-skill-recovery.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
+* **Correction**: [claims/lfa-skill-difficulty-learning-rates](claims/lfa-skill-difficulty-learning-rates.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
+* **Correction**: [claims/embed-factor-increases-circle-area-difficulty](claims/embed-factor-increases-circle-area-difficulty.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
+* **Correction**: [claims/lfa-detects-hidden-blip-cm-split](claims/lfa-detects-hidden-blip-cm-split.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
+* **Correction**: [claims/lfa-improves-cognitive-model-fit](claims/lfa-improves-cognitive-model-fit.md) — Cen, Koedinger & Junker is LNCS 4053 (ITS 2006), published 2006, not 2005; year, heading and anchor corrected
 * **Correction**: [claims/consistent-subsample-no-predictive-gain](claims/consistent-subsample-no-predictive-gain.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
 * **Correction**: [claims/asq-poor-predictor-actual-attributions](claims/asq-poor-predictor-actual-attributions.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
 * **Correction**: [claims/consistent-subsample-still-situation-specific](claims/consistent-subsample-still-situation-specific.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
