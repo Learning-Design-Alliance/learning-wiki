@@ -1,0 +1,199 @@
+# Banerjee, Bhattacharjee, Chattopadhyay, Duflo, Ganimian, Rajah & Spelke
+# (2025), study 3a: children working in Delhi markets, oral abstract versus
+# oral anchored arithmetic with the same numbers.
+#
+# Study 3 has two samples, 3a (this file: working children, two waves) and 3b
+# (school children with no market-selling experience, banerjee-2025-study3b).
+# The "meaningfulness" paragraph prints one estimate for each; this record
+# holds the working children's. Its sign is the opposite of 3b's. No test of
+# the difference between the two groups' estimates is printed.
+#
+# The Results do not say which wave the anchored-versus-abstract problems come
+# from. The Methods describe randomised anchored and abstract problems in wave
+# 2's warm-up section and in wave 2's randomisation list; that is recorded as
+# an implementation note, not as the sample, because the text does not tie the
+# estimate to a wave.
+#
+# Read from the publisher's open-access full text (text layer, including the
+# Methods and the Nature reporting summary). The Supplementary Tables were not
+# read.
+
+schema_version: 2
+
+study:
+  key: banerjee-2025-study3a
+  citation: "Banerjee, A. V., Bhattacharjee, S., Chattopadhyay, R., Duflo, E., Ganimian, A. J., Rajah, K., & Spelke, E. S. (2025). Children's arithmetic skills do not transfer between applied and academic mathematics. Nature, 639(8055), 673-681."
+  doi: "10.1038/s41586-024-08502-w"
+  design:
+    family: other
+    design_detail: >-
+      Market-based survey of working children, recruited by convenience
+      sampling in Delhi markets in two waves. Children were randomised to
+      survey versions so that they could be tested on oral abstract and oral
+      anchored problems involving the same numbers; the framing contrast is
+      within children. Other randomised elements (confidence treatments in
+      wave 1; hints in both waves) are not recorded here.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: anchoring-helps-working-hurts-school-children
+    bearing: supports
+    anchor: banerjee-2025
+
+evidence_base:
+  unit: participants
+  size:
+    value: 835
+    unit: participants
+  additional_sizes:
+    - value: 372
+      unit: participants
+      note: "wave 1 (March-April 2023): of 489 working children who completed a market transaction with a surveyor, those who agreed and completed the full survey"
+    - value: 463
+      unit: participants
+      note: "wave 2 (February 2024): of 566 working children approached, those who passed the screens, agreed and completed the full survey"
+  population:
+    description: >-
+      Children working in informal wholesale and retail markets in Delhi,
+      India, who handled transactions at their shop; a convenience sample of
+      markets, since no list of markets employing children exists.
+    age_or_stage: >-
+      Surveyors approached children who appeared to be 16 or younger; the
+      survey stopped if a child was found to be 18 or older, so some
+      17-year-olds were included (stated for study 1, and study 3 followed a
+      similar sampling strategy). The article prints no age distribution;
+      sample characteristics are in Supplementary Table 24, not read.
+    age: unreported
+  context:
+    setting: "One-to-one survey in the market, Delhi, India, March-April 2023 (wave 1) and February 2024 (wave 2)"
+  arms:
+    - id: oral-abstract
+      description: "Oral addition and multiplication problems framed abstractly, as in school."
+    - id: oral-anchored
+      description: "Oral problems with the same numbers, anchored to a concrete, familiar context."
+      implementation_notes:
+        - "The Methods place randomised abstract and anchored addition and multiplication problems in wave 2's warm-up section; the Results do not name the wave."
+
+comparisons:
+  - id: anchored-vs-abstract
+    kind: other
+    index_arm: oral-anchored
+    reference_arm: oral-abstract
+    description: "Within-child contrast of item framing (anchored against abstract), with survey versions randomised so the two framings used the same numbers."
+
+observations:
+
+  - id: anchored-minus-abstract
+    comparison_ref: anchored-vs-abstract
+    outcome:
+      construct: "Arithmetic accuracy"
+      source_language: "correctly answering 72% of anchored problems compared with 64% of abstract problems"
+      measure: "Oral arithmetic problems (Fig. 5a: addition and multiplication)"
+      scale: "proportion of problems answered correctly"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single survey session"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.08
+      standard_error: 0.02
+      ci_lower: 0.03
+      ci_upper: 0.12
+      interval_type: confidence
+      p_value: "0.001"
+      unit: "proportion correct (anchored minus abstract)"
+      model: "Coefficient as printed in the Results; specification in Supplementary Tables 17 and 18, not read. Figure 5 says its P values come from two-tailed t-tests without adjustment for multiple comparisons."
+      interpretation: "Working children were more accurate on anchored problems than on the same problems framed abstractly."
+    moderators:
+      reported: []
+      candidate:
+        - "Where the arithmetic was learned (market work rather than school): the article sets this against the opposite estimate for school children (study 3b) but prints no interaction test."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The analysed n is not printed in the text; Figure 5a prints n = 716
+      under the abstract bar and n = 1,086 under the anchored bar without
+      saying what is counted. Whether the standard error accounts for several
+      answers per child is not stated.
+    source_quote: "Working children performed significantly better on anchored problems, correctly answering 72% of anchored problems compared with 64% of abstract problems (β = 0.08, s.e.m. = 0.02, 95% CI = 0.03–0.12, P = 0.001;"
+    source_location: "Results, 'Meaningfulness'; Fig. 5a; Supplementary Tables 17 and 18"
+
+  - id: accuracy-oral-abstract
+    arm_ref: oral-abstract
+    outcome:
+      construct: "Arithmetic accuracy"
+      source_language: "64% of abstract problems"
+      measure: "Oral abstract arithmetic problems"
+      scale: "percent of problems answered correctly"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single survey session"
+    result:
+      measure_type: mean
+      estimate: 64
+      unit: "percent correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed. Figure 5a shows 0.64 with n = 716, the unit of n unlabelled."
+    source_quote: "Working children performed significantly better on anchored problems, correctly answering 72% of anchored problems compared with 64% of abstract problems (β = 0.08, s.e.m. = 0.02, 95% CI = 0.03–0.12, P = 0.001;"
+    source_location: "Results, 'Meaningfulness'; Fig. 5a"
+
+  - id: accuracy-oral-anchored
+    arm_ref: oral-anchored
+    outcome:
+      construct: "Arithmetic accuracy"
+      source_language: "72% of anchored problems"
+      measure: "Oral anchored arithmetic problems"
+      scale: "percent of problems answered correctly"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single survey session"
+    result:
+      measure_type: mean
+      estimate: 72
+      unit: "percent correct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed. Figure 5a shows 0.72 with n = 1,086, the unit of n unlabelled."
+    source_quote: "Working children performed significantly better on anchored problems, correctly answering 72% of anchored problems compared with 64% of abstract problems (β = 0.08, s.e.m. = 0.02, 95% CI = 0.03–0.12, P = 0.001;"
+    source_location: "Results, 'Meaningfulness'; Fig. 5a"
+
+not_yet_extracted:
+  - "Supplementary Tables 17, 18 and 24 (regressions and sample characteristics, which may include ages): not in the text read."
+  - "Real market transactions: 85% calculated the correct amount due and change (Supplementary Table 15)."
+  - "Confidence treatments in wave 1 (stress reduced by 0.17, 0.32 and 0.23 SD; abstract-subtraction effects beta -0.20, -0.06, -0.16, none significant; Table 1)."
+  - "Roundable versus non-roundable problems (Fig. 5b): 0.67 vs 0.64, P = 0.083."
+  - "Comparisons with study 3b school children (Fig. 4), which join two samples."
+  - "No reliability or agreement coefficient is printed for any outcome measure, including the categorisation of transcribed solution methods."

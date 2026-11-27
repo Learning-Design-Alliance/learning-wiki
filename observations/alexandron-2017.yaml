@@ -1,0 +1,259 @@
+# Alexandron, Ruipérez-Valiente, Chen, Muñoz-Merino & Pritchard (2017):
+# CAMEO (copying answers using multiple existence online) in one MITx
+# introductory physics MOOC on edX, 2014.
+#
+# Read from the authors' post-print (text layer); the citation is to the
+# published version. Prevalence figures are the authors' log-mining results:
+# accounts flagged by a detection algorithm (shared IP group, a harvester
+# account obtaining the answer in the previous 24 hours, and six filters),
+# checked by manual reading of 10 of the 65 flagged certified masters. They are
+# detections, not confessions, and the authors call them a lower bound on
+# cheating of all kinds.
+#
+# THRESHOLD AMBIGUITY IN THE SOURCE. Filter 3 (Section 2.2.2) requires that
+# more than 5% of a master's correct submissions be potentially harvested,
+# raised from the 1% used in the authors' earlier paper. Yet the Summary of
+# findings and the Discussion describe the same 65 accounts (12.9%) as having
+# obtained "more than 1%" of their correct answers by CAMEO, and the abstract
+# says "about 10%" used it for more than 1%. The record keeps the 65 / 12.9%
+# as printed and does not resolve which threshold describes them.
+#
+# The article prints no reliability or agreement coefficient for the
+# detection. Its verification (all 10 sampled masters judged real CAMEO users;
+# "90% confidence that at least 52") is recorded as the interval the authors
+# give, not as a reliability.
+
+schema_version: 2
+
+study:
+  key: alexandron-2017
+  citation: "Alexandron, G., Ruipérez-Valiente, J. A., Chen, Z., Muñoz-Merino, P. J., & Pritchard, D. E. (2017). Copying@Scale: Using harvesting accounts for collecting correct answers in a MOOC. Computers & Education, 108, 96–114."
+  doi: "10.1016/j.compedu.2017.01.015"
+  design:
+    family: observational
+    design_detail: >-
+      Educational data mining of the edX clickstream logs of one course run:
+      a time-series detection algorithm for master:harvester account pairs,
+      verified by comparing the delay distribution with random account pairs
+      (Appendix B) and by in-depth reading of the logs of 10 masters drawn at
+      random from the 65 certified masters. Descriptive prevalence, plus
+      associations between question features (randomization, 'show answer'
+      availability) and harvesting. No assigned conditions; the 'show answer'
+      contrasts arose from settings enabled by mistake.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: cameo-prevalence-certificate-earners
+    bearing: supports
+    anchor: alexandron-2017
+  - claim: cameo-prevalence-certificate-earners
+    bearing: supports
+    anchor: alexandron-2017-2
+
+evidence_base:
+  unit: other
+  size:
+    value: 502
+    unit: other
+  additional_sizes:
+    - value: 502
+      unit: other
+      note: "accounts that earned a certificate (the headline size, and the denominator of the 12.9% and 3.7% figures)"
+    - value: 1079
+      unit: other
+      note: "non-certificated accounts that completed at least 5% of the assessment items; the denominator of the 7.7% figure"
+    - value: 13500
+      unit: participants
+      note: "registrants, given as 'about 13500'"
+  population:
+    description: >-
+      Registrants of a 14-week introductory physics MOOC on edX in 2014. 83%
+      male, 17% female; 37.7% secondary diploma or less, 34.5% college degree,
+      24.9% advanced degree; US 27%, India 18%, UK 3.6%, Brazil 2.8%, 152
+      countries in all. All demographics self-reported, and they describe the
+      course's participants, not specifically the certificate earners.
+    age_or_stage: "Adults and older adolescents; 45% under 26, 39% aged 26 to 40, 16% 41 and above (self-reported)"
+    age: unreported
+  context:
+    setting: >-
+      MITx introductory physics MOOC on edX, 2014 run: 12 mandatory and two
+      optional units, about 1000 questions, many with randomized parameters.
+      Honor certificates were given automatically at 60% of the course points.
+      'Show answer' was available after attempts were exhausted, but disabled
+      for most quiz questions; correct/incorrect feedback was always given.
+  arms:
+    - id: certificate-earners
+      description: "Accounts that earned a certificate in the course."
+      size:
+        value: 502
+        unit: other
+    - id: non-certificate-earners
+      description: "Accounts that did not earn a certificate but completed at least 5% of the assessment items."
+      size:
+        value: 1079
+        unit: other
+
+comparisons: []
+
+observations:
+
+  - id: cameo-masters-certificate-earners
+    sample:
+      value: 502
+      unit: other
+    arm_ref: certificate-earners
+    outcome:
+      construct: "Prevalence of answer harvesting with multiple accounts"
+      source_language: "master accounts"
+      measure: "Certificated accounts flagged by the CAMEO detection algorithm as master accounts (all six filters passed)"
+      scale: "number of accounts"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole 14-week course run"
+    result:
+      measure_type: count
+      estimate: 65
+      unit: "certificated master accounts"
+      ci_lower: 52
+      ci_upper: 65
+      interval_type: confidence
+      descriptives: "65 master accounts = 12.9% of the 502 certificate earners; they operated 78 harvesting accounts"
+      note: >-
+        The interval is the authors' 90% confidence interval, from the manual
+        verification of a random sample of 10 of the 65 masters ("90%
+        confidence that at least 52 of the master accounts receiving
+        certificates are demonstrably using this technique").
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A detection count, not an effect. The share of correct answers that
+      qualified an account is stated as more than 5% in filter 3 but as more
+      than 1% in the Summary and Discussion (see header). The interval is
+      90%, not 95%.
+    source_quote: "It shows that our algorithm detected 65 master accounts – 12.9% of the certificate earners in the course."
+    source_location: "Section 3.2 and Table 1; interval in Section 2.2.4 and Section 4.1"
+
+  - id: cameo-majority-of-correct-answers
+    sample:
+      value: 502
+      unit: other
+    arm_ref: certificate-earners
+    outcome:
+      construct: "Heavy answer harvesting"
+      source_language: "used CAMEO to obtain more than 50% of their correct answers"
+      measure: "Share of certificate earners whose detected harvested answers exceeded half of their correct answers (Figure 3a)"
+      scale: "percent of certificate earners"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole 14-week course run"
+    result:
+      measure_type: other
+      estimate: 3.7
+      unit: "percent of certificate earners"
+      note: "Read by the authors from the point (3.7, 50) on the curve in Figure 3a; the abstract rounds it to 'more than 3%'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The point (3.7, 50) means that 3.7% of the certificate earners used CAMEO to obtain more than 50% of their correct answers"
+    source_location: "Section 3.2, Figure 3a"
+
+  - id: cameo-harvested-share-of-correct-answers
+    sample:
+      value: 502
+      unit: other
+    arm_ref: certificate-earners
+    outcome:
+      construct: "Share of correct answers obtained by harvesting"
+      source_language: "harvested correct answers"
+      measure: "Correct answers submitted by the 65 certificated master accounts in detected CAMEO events, over all correct answers submitted by certificate earners"
+      scale: "number of answers, and percent of all certificate earners' correct answers"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole 14-week course run"
+    result:
+      measure_type: count
+      estimate: 17350
+      unit: "harvested correct answers"
+      descriptives: "4.3% of all correct answers submitted by certificate earners, including those of non-CAMEO users; 22% of the events help-seeking and 78% premeditated (Table 1)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "These masters harvested 17350 correct answers – 4.3% of all the correct answers submitted by certificate earners (including nonCAMEO users)."
+    source_location: "Section 3.2, Table 1"
+
+  - id: cameo-masters-non-certificate-earners
+    sample:
+      value: 1079
+      unit: other
+    arm_ref: non-certificate-earners
+    outcome:
+      construct: "Prevalence of answer harvesting with multiple accounts"
+      source_language: "master accounts"
+      measure: "Non-certificated accounts (at least 5% of assessment items completed) flagged by the CAMEO detection algorithm as master accounts"
+      scale: "number of accounts"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole 14-week course run"
+    result:
+      measure_type: count
+      estimate: 84
+      unit: "non-certificated master accounts"
+      descriptives: "84 = 7.7% of the non-certificate earners; they operated 74 harvesting accounts, and 5.1% of the non-certificate earners' correct answers were harvested (12438 answers)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The manual verification and its confidence interval cover the certified
+      masters only. The authors note that 15 of the harvesters used by these
+      masters were also used by certificated masters, and that some of these
+      masters may themselves be fake accounts.
+    source_quote: "The table shows that 84 (7.7%) of the non-certificate earners were master accounts, and that these accounts operated 74 harvesting accounts."
+    source_location: "Section 3.4, Table 1"
+
+not_yet_extracted:
+  - "Table 2: mean % of correct submissions harvested (32.5% certificated vs 51.0% non-certificated CAMEO users, p < 0.0001) and mean fraction premeditated (70.4% vs 82.9%, p = 0.001)"
+  - "Correlation of 0.359 between the fraction of correct answers harvested and the fraction help-seeking, described as negative in Section 3.2 but stated without a sign against the premeditated fraction in Section 3.6"
+  - "Table 3: harvesting on randomized (4.06%, 1956 of 48127) vs non-randomized questions (6.07%, 27832 of 458223), t-test p < 0.001"
+  - "Show-answer contrasts: Quiz 9-10 with show answer enabled by mistake 6.4% vs 3.83% for other chapter quizzes; midterm 3.43% vs final exam 6.35%"
+  - "Figure 4: about 85% of certificatees passed the certification point in section 7, after which attempted, correct and harvested questions dropped"
+  - "Filtering levels of the six detection filters (34%, 50.6%, 2%, 4.5%, 50.3%, 7.1% of pairs removed) and Appendix A sensitivity of detection to parameters"
+  - "Comparison with Northcutt, Ho & Chuang's algorithm on this course (12 accounts, 2.4%, by private communication): not this study's own measurement"
