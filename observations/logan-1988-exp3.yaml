@@ -1,0 +1,228 @@
+# Logan (1988), Experiment 3: lexical decision with items repeated in 1, 2, 4,
+# 8 or 16 consecutive blocks, at a mean lag of 12 or 24 items between
+# repetitions (lag varied between subjects).
+#
+# One of five experiments in a theory paper; Experiments 1, 2 and 4 are their
+# own records (logan-1988-exp1, -exp2, -exp4).
+#
+# Read from a pdftotext extraction of the published article. No PDF was beside
+# the text, so no page image was checked.
+#
+# TABLE 2 IS GARBLED IN THE TEXT (see logan-1988-exp1): no fitted
+# power-function parameter for either lag group is recorded. The ANOVA results
+# come from Appendix B, single-column text; F values with OCR damage are
+# written out in `result.statistic` and the quotes taken from the undamaged
+# words beside them.
+#
+# The article says only that mean lag "was varied between subjects", 16 and
+# 16; it does not say how subjects were allocated, so no randomised design is
+# claimed.
+#
+# WHAT THIS FILE USES:
+#   * `population.age: unreported` (subjects from the population of the
+#     previous experiments; no age figure).
+#   * `result.bound` for the lag main effect, printed only as "F(1, 30) < 1".
+#   * No reliability, no printed means (Figures 7 and 8 plot them).
+
+schema_version: 2
+
+study:
+  key: logan-1988-exp3
+  citation: "Logan, G. D. (1988). Toward an instance theory of automatization. Psychological Review, 95(4), 492–527."
+  doi: "10.1037/0033-295x.95.4.492"
+  design:
+    family: other
+    design_detail: >-
+      Laboratory experiment with number of repetitions (1, 2, 4, 8, 16
+      consecutive blocks) and word versus nonword within subject, and mean lag
+      between repetitions (12 or 24 items) between subjects, 16 per lag group;
+      allocation to lag group not described. Repeated and new items were mixed
+      randomly in every block. ANOVA on mean reaction times and standard
+      deviations; power functions fitted to group means and standard
+      deviations per lag group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: power-function-speedup-and-sd-reduction
+    bearing: supports
+    anchor: logan-1988
+
+evidence_base:
+  unit: participants
+  size:
+    value: 32
+    unit: participants
+  population:
+    description: "Thirty-two subjects from the population sampled in the previous experiments (introductory psychology students for course credit and paid volunteers)."
+    age_or_stage: "Undergraduate psychology population; no age figure printed"
+    age: unreported
+  context:
+    setting: "Individual laboratory session; same apparatus and four-letter stimuli as Experiments 1 and 2"
+  arms:
+    - id: mean-lag-12
+      description: "Mean lag of 12 items between successive presentations: four sets of 16 blocks of 12 trials; one stimulus per repetition condition per block (two words and two nonwords for the 16-repetition condition)."
+      size:
+        value: 16
+        unit: participants
+    - id: mean-lag-24
+      description: "Mean lag of 24 items between successive presentations: two sets of 16 blocks of 24 trials; two stimuli per repetition condition per block (four of each for the 16-repetition condition)."
+      size:
+        value: 16
+        unit: participants
+
+comparisons:
+  - id: repetitions-within-subject
+    kind: within-subject-baseline
+    index_arm:
+      - mean-lag-12
+      - mean-lag-24
+    description: "Reaction time or its standard deviation as a function of the number of repetitions (1 to 16), within subject, across both lag groups."
+  - id: lag-24-vs-lag-12
+    kind: between-groups
+    index_arm: mean-lag-24
+    reference_arm: mean-lag-12
+    description: "Mean lag of 24 against 12 items between repetitions, between subjects."
+
+observations:
+
+  - id: rt-repetition-main-effect
+    sample:
+      value: 32
+      unit: participants
+    comparison_ref: repetitions-within-subject
+    outcome:
+      construct: "Response latency"
+      source_language: "reaction times"
+      measure: "Lexical decision reaction time"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across up to 16 consecutive blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(15, 450) = 11.70"
+      p_value: "< .01"
+      model: "ANOVA on mean reaction times: repetition x word versus nonword x mean lag. Word versus nonword F(1, 30) = 78.29, p < .01; repetition x word/nonword interaction p < .01."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer renders the statistic as \"J=(15,450) = 11.70, p<.01\"; the quote stops before it."
+    source_quote: "An ANOVA on the reaction times revealed a significant main effect of repetition,"
+    source_location: "Appendix B, Experiment 3, Results (p. 526)"
+
+  - id: rt-mean-lag-null
+    sample:
+      value: 32
+      unit: participants
+    comparison_ref: lag-24-vs-lag-12
+    outcome:
+      construct: "Response latency"
+      source_language: "mean lag"
+      measure: "Lexical decision reaction time"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across up to 16 consecutive blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(1, 30)"
+      bound:
+        operator: "<"
+        value: 1
+      model: "Main effect of mean lag in the ANOVA on mean reaction times; lag x number of presentations also F(15, 450) < 1, and lag x word/nonword F(1, 30) = 1.27, neither significant."
+      interpretation: "Mean lag had no significant effect, neither as a main effect nor in interaction."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source prints only that F was below 1; the bound is on the F
+      statistic, not on an effect. The text layer renders it "F(l, 30) < 1".
+    source_quote: "There was no significant effect of mean lag,"
+    source_location: "Appendix B, Experiment 3, Results (p. 526)"
+
+  - id: sd-repetition-main-effect
+    sample:
+      value: 32
+      unit: participants
+    comparison_ref: repetitions-within-subject
+    outcome:
+      construct: "Variability of response latency"
+      source_language: "standard deviations"
+      measure: "Standard deviation of lexical decision reaction times"
+      scale: "milliseconds"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across up to 16 consecutive blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(15, 450) = 5.47"
+      p_value: "< .01"
+      model: "ANOVA on standard deviations; word versus nonword F(1, 30) = 11.46, p < .01; no other effect significant."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "An ANOVA on the standard deviations revealed a significant main effect of repetition, F(15,450) = 5.47, p < .01"
+    source_location: "Appendix B, Experiment 3, Results (p. 526)"
+
+  - id: errors-over-repetitions
+    comparison_ref: repetitions-within-subject
+    outcome:
+      construct: "Response accuracy"
+      source_language: "error rates"
+      measure: "Proportion of lexical decision errors per presentation, by lag group (Table B3)"
+      scale: "proportion of errors"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across up to 16 consecutive blocks within one session"
+    result:
+      measure_type: qualitative
+      finding: "Error rates tended to decrease with repetition and to be lower for words than for nonwords; no statistical analysis was attempted."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "No statistical analyses were attempted. Error rates tended to decrease with repetition and to be lower for words than for nonwords."
+    source_location: "Appendix B, Experiment 3, Results (p. 526); Table B3"
+
+not_yet_extracted:
+  - "Table 2 (p. 503): constrained and separate power-function parameters for the mean-lag-12 and mean-lag-24 groups, words and nonwords; the text layer interleaves the table's columns, so a page image is needed."
+  - "Table B3 (p. 525): error rates per presentation (1-16) by lag group, words and nonwords; columns extract in sequence but no row can be quoted, so a page image is needed."
+  - "The Results text on the constrained power-function fits for this experiment (pp. 503-504) is printed in two columns that the text layer interleaves; not quoted."
+  - "Mean reaction times and standard deviations per presentation are plotted (Figures 7 and 8) and not printed."

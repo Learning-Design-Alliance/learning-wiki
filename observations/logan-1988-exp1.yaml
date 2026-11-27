@@ -1,0 +1,280 @@
+# Logan (1988), Experiment 1: lexical decision on the same 10 words and 10
+# nonwords presented 16 times, against new-item control blocks.
+#
+# A theory paper that reports five experiments of its own. This file is
+# Experiment 1 only; Experiments 2-4 are their own records (logan-1988-exp2,
+# -exp3, -exp4). Experiment 5 (frequency judgments after consistent or varied
+# interpretation) is not recorded here.
+#
+# Read from a pdftotext extraction of the published article. No PDF was beside
+# the text, so no page image was checked.
+#
+# TABLE 2 IS GARBLED IN THE TEXT. Its eight columns (Experiments 1-3, words and
+# nonwords) come out with the values of different columns interleaved, so no
+# fitted power-function parameter (asymptote, multiplicative constant,
+# exponent, r2, rmsd) can be assigned to its column with confidence. None is
+# recorded; see not_yet_extracted. The one fit figure the TEXT states (the
+# constrained and separate fits' rmsds within 2 ms) is recorded as a bound.
+#
+# Several F tests in Appendix B carry OCR damage in the text layer ("F(l5,"
+# for "F(15,", "MS," for the error mean square, a page break inside the first
+# F). Quotes below are taken from the undamaged words around them, and the
+# statistic is written in `result.statistic` as the article prints it.
+#
+# WHAT THIS FILE USES:
+#   * `population.age: unreported`: the article describes the subjects only as
+#     introductory psychology students and paid volunteers, with no age figure.
+#   * No reliability: the article prints none for the reaction-time measure.
+#   * No `measure_type: mean`: the means are plotted (Figures 4-5), not printed.
+
+schema_version: 2
+
+study:
+  key: logan-1988-exp1
+  citation: "Logan, G. D. (1988). Toward an instance theory of automatization. Psychological Review, 95(4), 492–527."
+  doi: "10.1037/0033-295x.95.4.492"
+  design:
+    family: other
+    design_detail: >-
+      Within-subject repeated-measures laboratory experiment. Every subject made
+      lexical decisions in an experimental condition (the same 10 words and 10
+      nonwords once per block for 16 blocks) and a control condition (10 new
+      words and 10 new nonwords in each of 16 blocks). Analysed by ANOVA on mean
+      reaction times and on standard deviations, with power functions fitted to
+      the group means and standard deviations. The article does not say how
+      the order of conditions was arranged.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: power-function-speedup-and-sd-reduction
+    bearing: supports
+    anchor: logan-1988
+  - claim: repetition-effect-item-specific
+    bearing: supports
+    anchor: logan-1988
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  population:
+    description: >-
+      Twenty-four subjects, some from introductory psychology courses who
+      received course credit, some volunteers paid $4.
+    age_or_stage: "Introductory psychology students and paid volunteers; no age figure printed"
+    age: unreported
+  context:
+    setting: "Individual laboratory session; four-letter uppercase strings on a point-plot CRT, two-key response, instructed to respond quickly with no more than 10% errors"
+  arms:
+    - id: repeated-items
+      description: "Experimental condition: one set of 10 four-letter words and 10 nonwords, each shown once per block in a new random order, for 16 blocks (lag between repetitions 1 to 40, mean 20)."
+      dose:
+        amount: 16
+        unit: presentations per item
+    - id: new-items
+      description: "Control condition: a different set of 10 words and 10 nonwords in each of 16 blocks, each stimulus shown once only."
+
+comparisons:
+  - id: presentations-both-conditions
+    kind: within-subject-baseline
+    index_arm:
+      - repeated-items
+      - new-items
+    description: "Reaction time or standard deviation across the 16 presentations (blocks), within subject, in both conditions."
+  - id: repeated-items-over-presentations
+    kind: within-subject-baseline
+    index_arm: repeated-items
+    description: "Reaction time and standard deviation for repeated items as a function of the number of presentations, within subject."
+  - id: repeated-vs-new-over-presentations
+    kind: other
+    index_arm: repeated-items
+    reference_arm: new-items
+    description: "Within-subject contrast of the change over presentations for repeated items against the change over blocks for new-item controls (presentations x conditions interaction)."
+
+observations:
+
+  - id: rt-presentations-main-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: presentations-both-conditions
+    outcome:
+      construct: "Response latency"
+      source_language: "reaction-time data"
+      measure: "Lexical decision reaction time"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across 16 blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(15, 345) = 7.52"
+      p_value: "< .01"
+      model: "ANOVA on mean reaction times: presentations x conditions (experimental, control) x word versus nonword"
+    moderators:
+      reported:
+        - variable: "Stimulus type (word versus nonword)"
+          relationship: "Presentations interacted with word versus nonword, F(15, 345) = 4.23, p < .01: repetition had a greater effect with nonwords than with words"
+          source_quote: "reflecting the greater effect of repetition with nonwords than with words"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The F is split across a page break in the text layer: the sentence reads
+      "significant, F(15," and continues after the page header as "345) = 7.52,
+      p < .01". No effect size is printed; the means are only plotted.
+    source_quote: "The main effect of number of presentations was significant, F(15,"
+    source_location: "Appendix B, Experiment 1, Results (pp. 524-525)"
+
+  - id: rt-repeated-vs-new-interaction
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: repeated-vs-new-over-presentations
+    outcome:
+      construct: "Response latency"
+      source_language: "the extra benefit from repeating specific stimuli in the experimental condition"
+      measure: "Lexical decision reaction time"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across 16 blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(15, 345) = 2.92"
+      p_value: "< .01"
+      model: "Presentations x conditions interaction in the ANOVA on mean reaction times"
+      interpretation: "Reaction times to repeated items decreased substantially over blocks, both absolutely and relative to the new-item controls; new items showed a slight general practice effect."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The text layer renders the statistic "F(l5, 345) = 2.92, p < .01"; the
+      quote is the clause that follows it. The descriptive comparison is in
+      the Results text: "Reaction times to repeated items decreased
+      substantially over blocks, both absolutely and relative to the new-item
+      controls."
+    source_quote: "reflecting the extra benefit from repeating specific stimuli in the experimental condition"
+    source_location: "Appendix B, Experiment 1, Results (p. 525); Results text p. 502"
+
+  - id: sd-presentations-main-effect
+    sample:
+      value: 24
+      unit: participants
+    comparison_ref: presentations-both-conditions
+    outcome:
+      construct: "Variability of response latency"
+      source_language: "standard deviations"
+      measure: "Standard deviation of lexical decision reaction times"
+      scale: "milliseconds"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across 16 blocks within one session"
+    result:
+      measure_type: other
+      statistic: "F(15, 345) = 3.44"
+      p_value: "< .01"
+      model: "ANOVA on standard deviations of reaction time; the presentations x conditions interaction was also significant, F(15, 345) = 2.32, p < .01"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer renders the statistic as \"f\\ 15,345) = 3.44, p < .01\"."
+    source_quote: "An ANOVA on the standard deviations revealed a significant main effect of the number of presentations,"
+    source_location: "Appendix B, Experiment 1, Results (p. 525)"
+
+  - id: power-fit-constrained-vs-separate
+    comparison_ref: repeated-items-over-presentations
+    outcome:
+      construct: "Fit of power functions to the practice curve"
+      source_language: "the constrained fit was almost as good as the unconstrained fit; rmsds were within 2 ms"
+      measure: "Root-mean-squared deviation of power functions fitted to the group mean RTs and SDs of repeated items, words and nonwords fitted separately, with the exponent constrained equal for means and SDs versus fitted separately"
+      scale: "difference in rmsd, milliseconds"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 16 presentations within one session"
+    result:
+      measure_type: other
+      bound:
+        operator: "<="
+        value: 2
+      unit: "ms difference in rmsd between constrained and separate fits"
+      model: "Power functions with asymptote, multiplicative constant and exponent, fitted to group means and standard deviations"
+      interpretation: "The data were well fit by power functions, and constraining the mean and SD to one exponent cost almost nothing in fit."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A fit to group-mean curves, not to individuals. The parameters behind it
+      are in Table 2, whose text layer is garbled (see not_yet_extracted).
+    source_quote: "The data were well fit by power functions. Moreover, the constrained fit was almost as good as the unconstrained fit; rmsds were within 2 ms."
+    source_location: "Experiment 1, Results (p. 502)"
+
+  - id: errors-repeated-vs-new
+    comparison_ref: repeated-vs-new-over-presentations
+    outcome:
+      construct: "Response accuracy"
+      source_language: "error rates"
+      measure: "Proportion of lexical decision errors per presentation (Table B1)"
+      scale: "proportion of errors"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across 16 blocks within one session"
+    result:
+      measure_type: qualitative
+      finding: "Error rates were low throughout and tended to be lower for repeated items than for new items and lower for words than for nonwords. No statistical analysis was attempted because several subjects had error rates of zero in many cells."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Note, however, that error rates tended to be lower for repeated items than for new items and lower for words than for nonwords."
+    source_location: "Appendix B, Experiment 1, Results (p. 525); Table B1"
+
+not_yet_extracted:
+  - "Table 2 (p. 503): constrained and separate power-function parameters (ART, BRT, C or CRT/CSD, ASD, BSD, r2, rmsd) for words and nonwords. The text layer interleaves the eight columns, so no value is assigned to Experiment 1 here; a page image is needed."
+  - "Table B1 (p. 525): error rates per presentation for old and new words and nonwords. The text layer lists each column's 16 values in sequence but no row can be quoted; a page image is needed before per-presentation values are recorded."
+  - "Further ANOVA effects in Appendix B: conditions F(1, 23) = 31.15; word versus nonword F(1, 23) = 43.11; conditions x word/nonword and the three-way interaction (p < .05); SD conditions F(1, 23) = 29.30 and SD presentations x word/nonword F(15, 345) = 2.46. Several of these carry OCR damage in the text layer."
+  - "Mean reaction times and standard deviations per presentation are plotted (Figures 4 and 5) and not printed."

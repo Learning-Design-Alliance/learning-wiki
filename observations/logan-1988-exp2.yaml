@@ -1,0 +1,179 @@
+# Logan (1988), Experiment 2: lexical decision with words and nonwords
+# repeated 1, 2, 4, 6, 8 or 10 times within a block, mixed with new items.
+#
+# One of five experiments in a theory paper; Experiments 1, 3 and 4 are their
+# own records (logan-1988-exp1, -exp3, -exp4).
+#
+# Read from a pdftotext extraction of the published article. No PDF was beside
+# the text, so no page image was checked.
+#
+# TABLE 2 IS GARBLED IN THE TEXT (see logan-1988-exp1): no fitted
+# power-function parameter for this experiment is recorded. The Results text
+# for this experiment is printed in two columns that the text layer
+# interleaves with Experiment 3's, so its statements about the fits are not
+# quoted either. What is recorded are the ANOVA results in Appendix B, whose
+# text is single-column.
+#
+# In this design the lag between repetitions is confounded with the number of
+# repetitions (shorter the more often an item repeats), as the article says;
+# Experiment 3 was run to remove that confound.
+#
+# WHAT THIS FILE USES:
+#   * `population.age: unreported`: subjects are described only as drawn from
+#     the population of Experiment 1 (introductory psychology students and
+#     paid volunteers); no age figure.
+#   * No reliability and no printed means (means are plotted in Figure 6).
+
+schema_version: 2
+
+study:
+  key: logan-1988-exp2
+  citation: "Logan, G. D. (1988). Toward an instance theory of automatization. Psychological Review, 95(4), 492–527."
+  doi: "10.1037/0033-295x.95.4.492"
+  design:
+    family: other
+    design_detail: >-
+      Within-subject repeated-measures laboratory experiment with no separate
+      control condition: in each of 10 blocks of 62 trials, one word and one
+      nonword were presented once, one twice, one 4, 6, 8 and 10 times, a new
+      sample of words and nonwords in every block, lags varying randomly.
+      ANOVA on mean reaction times and standard deviations by number of
+      presentations and word versus nonword; power functions fitted to the
+      group means and standard deviations.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: power-function-speedup-and-sd-reduction
+    bearing: supports
+    anchor: logan-1988
+
+evidence_base:
+  unit: participants
+  size:
+    value: 26
+    unit: participants
+  population:
+    description: "Twenty-six subjects recruited from the population sampled in Experiment 1 (introductory psychology students for course credit and paid volunteers)."
+    age_or_stage: "Undergraduate psychology population; no age figure printed"
+    age: unreported
+  context:
+    setting: "Individual laboratory session; same apparatus, four-letter stimuli and instructions as Experiment 1"
+  arms:
+    - id: mixed-repetition-schedule
+      description: "Blocks of 62 lexical decision trials in which items repeat 1, 2, 4, 6, 8 or 10 times, repeated items mixed randomly with items seen once; 10 blocks, each with a new sample of stimuli."
+      dose:
+        amount: 10
+        unit: maximum presentations per item within a block
+
+comparisons:
+  - id: presentations-within-block
+    kind: within-subject-baseline
+    index_arm: mixed-repetition-schedule
+    description: "Reaction time or its standard deviation as a function of the number of presentations of an item (1 to 10), within subject."
+
+observations:
+
+  - id: rt-presentations-main-effect
+    sample:
+      value: 26
+      unit: participants
+    comparison_ref: presentations-within-block
+    outcome:
+      construct: "Response latency"
+      source_language: "reaction times"
+      measure: "Lexical decision reaction time"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across presentations within blocks of one session"
+    result:
+      measure_type: other
+      statistic: "F(9, 225) = 65.41"
+      p_value: "< .01"
+      model: "ANOVA on mean reaction times: number of presentations x word versus nonword. The presentations x word/nonword interaction was also significant, F(9, 225) = 5.28, p < .01; word versus nonword F(1, 25) = 60.77, p < .01."
+    moderators:
+      reported: []
+      candidate:
+        - "Stimulus type (word versus nonword): the interaction with presentations is significant, but the article does not state its direction for this experiment in text that reads cleanly"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer renders the statistic as \"f\\9, 225) = 65.41\"; the quote stops before it."
+    source_quote: "An ANOVA on the reaction times revealed a main effect of number of presentations,"
+    source_location: "Appendix B, Experiment 2, Results (p. 525)"
+
+  - id: sd-presentations-main-effect
+    sample:
+      value: 26
+      unit: participants
+    comparison_ref: presentations-within-block
+    outcome:
+      construct: "Variability of response latency"
+      source_language: "standard deviations"
+      measure: "Standard deviation of lexical decision reaction times"
+      scale: "milliseconds"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across presentations within blocks of one session"
+    result:
+      measure_type: other
+      statistic: "F(9, 225) = 12.37"
+      p_value: "< .01"
+      model: "ANOVA on standard deviations; word versus nonword F(1, 25) = 14.65, p < .01, and their interaction F(9, 225) = 2.11, p < .05."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "An ANOVA on the standard deviations revealed a main effect of number of presentations, F(9, 225) = 12.37, p < .01"
+    source_location: "Appendix B, Experiment 2, Results (p. 525)"
+
+  - id: errors-over-presentations
+    comparison_ref: presentations-within-block
+    outcome:
+      construct: "Response accuracy"
+      source_language: "error rates"
+      measure: "Proportion of lexical decision errors per presentation (Table B2)"
+      scale: "proportion of errors"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across presentations within blocks of one session"
+    result:
+      measure_type: qualitative
+      finding: "Error rates tended to decrease with repetition and to be lower for words than for nonwords; no statistical analysis was attempted."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Again, no statistical analyses were attempted, but the error rates tended to decrease with repetition and tended to be lower for words than for nonwords."
+    source_location: "Appendix B, Experiment 2, Results (p. 525); Table B2"
+
+not_yet_extracted:
+  - "Table 2 (p. 503): constrained and separate power-function parameters for Experiment 2 words and nonwords; the text layer interleaves the table's columns, so a page image is needed."
+  - "Table B2 (p. 525): error rates per presentation (1-10) for words and nonwords; columns extract in sequence but no row can be quoted, so a page image is needed."
+  - "The Results text on item specificity (repeated items mixed randomly with new ones) and on the constrained fits for this experiment is interleaved with Experiment 3's column in the text layer; not quoted."
+  - "Mean reaction times and standard deviations per presentation are plotted (Figure 6) and not printed."
