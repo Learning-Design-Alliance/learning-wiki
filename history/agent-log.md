@@ -5,6 +5,38 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 12, and two citation repairs
+
+The batch adds 13 files and 106 observations:
+- Cen, Koedinger & Junker (2006), Ilhan et al. (2020), Abdulghani et al. (2015), Jiang & Zhang (2021).
+- Ashman et al. (2020), Experiments 1 and 2. The key keeps the register's 2019, the online-first year.
+- Bailey et al. (2018), Bastani et al. (2025), Benden & Lauermann (2022) Study 1a, diSessa et al. (2004).
+- Gick & Holyoak (1983), Experiments 4–6.
+
+Custers (2010) gets no record: it is a narrative review, and the simulator's retention figures are its summary of
+other studies. Bock & Aitkin (1981) waits: only its abstract is in the cache.
+
+Citation repairs:
+- Six claim pages dated Cen, Koedinger & Junker 2005. It is LNCS 4053 (ITS 2006), so the year, headings and anchors
+  were corrected.
+- Six Gick & Holyoak claim pages printed the DOI with a garbled suffix, ")90002-4". It was removed;
+  `verify_citation_edits.py` shows every edit on a citation line.
+
+A schema gap, for the maintainer: Bastani et al. randomised classrooms, but print only "about fifty" of them. The
+cluster family requires an exact allocation count, so the record says `randomized-controlled-trial` and gives the
+clustering in its design detail and models. Allowing an unreported allocation count would fix it.
+
+Findings for the simulator to check:
+- Bailey et al. (2018): "stable factors correlate above .90" is not in this article; it seems to be Bailey et al.
+  (2020). Footnote 2's ".29 SD (= .18/.63)" for kindergarten conflicts with the rescaled .46 in the text and Table 1.
+- Ashman et al.: the pooled −0.20 [−0.33, −0.08] is the simulator's own calculation, not printed.
+- Jiang & Zhang: the interval [.11, .43] paired with r .28 comes from Hidiroglu & Sungur, not this article.
+- diSessa et al.: the 0.15 within-minus-across agreement band is not in the article. Its front matter prints
+  10.1016/j.cogsci.2004.05.003, which Crossref does not know; 10.1207/s15516709cog2806_1 resolves to it.
+- Gick & Holyoak: the one-analog pair 30/75 and the 10% base rate are Gick & Holyoak (1980), restated on p. 4.
+- Abdulghani et al.: the text says the KR-20s "were more than 0.92"; Table 1 prints 0.92 for two exams.
+- Benden & Lauermann: read from the authors' July 2021 preprint; the published figures may differ.
+
 ## 2026-11-27 · Observation records batch 11
 
 The batch adds 15 files and 107 observations:
