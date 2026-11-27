@@ -5,6 +5,41 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Simulator hypotheses: flagged principles, and the intake for them
+
+The maintainer settled where the learning-graph simulator meets the wiki, after the simulator sources were all
+recorded:
+- The simulation index, configurations and ensemble results live in the simulator repository.
+- A pattern the simulator discovers is written here as a principle flagged as a hypothesis, stated with its learner
+  and context qualifiers.
+- The study that would test it is filed in the simulator repository as an `experiment` issue, which the simulator
+  generates.
+
+Writing hypotheses as principles, not as a kind of their own, was the maintainer's choice. Every tool that trusts
+principles therefore has to check the flag, so the flag is defined once and called everywhere:
+- `scripts/hypothesis_lib.py` defines the four flat frontmatter fields (`hypothesis`, `hypothesis_status`,
+  `simulated_by`, `proposed_study`), the banner line and `problems()`.
+- `lint.py --type hypotheses` fails an incomplete or misplaced flag: a missing field, a status outside the four, a
+  release without a version, a study still `pending` once testing has begun, `canonical: true`, a missing banner, a
+  `[+]` support marker on a claim, or a flag outside `principles/`. Nine mutations of a test page each failed it.
+- `check_principles_missing_claims` no longer expects claims on a hypothesis.
+- `upgrade_worklist` gives a hypothesis the step `hypothesis`. Otherwise a page with no studies would have been
+  scheduled for search and then folded away.
+- `link_pages` leaves hypotheses out on both ends, so they collect no claims as evidence and are never offered to
+  other pages.
+- `build_wiki_index` carries the four fields into the page records, so the design-spec side sees them.
+- The MCP server adds a `hypothesis` block to `search`, `fetch` and `resolve` results, with a note saying not to cite
+  it.
+- `build_situation_index` labels a hypothesis's table rows `basis_kind: simulated`, so `situations` with
+  `tested_only` leaves them out.
+- `ingest_simulator_hypothesis.py` writes the page from the simulator's discovery record. It first resolves every
+  learner variable, configuration id and claim against `wiki-index.json`, and every condition against
+  `evidence-dimensions.json`. A sample discovery rendered and passed lint, and a broken one was refused on all four
+  defects.
+
+Nothing on today's wiki changes: no page carries the flag yet, and the generated indexes are byte-identical. The
+discovery record format is a draft until the simulator session agrees it.
+
 ## 2026-11-27 · Observation records batch 16: every simulator source is now settled
 
 The batch adds 14 files and 97 observations. The sources came from the maintainer's Drive folder, or from public

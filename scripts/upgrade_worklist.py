@@ -40,6 +40,7 @@ WIKI_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(Path(__file__).parent))
 import build_reverse_index  # noqa: E402
 import evidence_rollup  # noqa: E402
+import hypothesis_lib  # noqa: E402
 
 KINDS = {"principles": "principle", "patterns": "pattern"}
 THIN = 2          # studies at or below which a page is searched, then folded
@@ -80,7 +81,11 @@ def rows() -> list:
             unread = len(re.findall(r"^- ", further.group(1), re.M)) if further else 0
             t = tri.get(f"{folder}/{path.stem}", {})
             parent = t.get("verdict_canonical") or ""
-            if converted:
+            if hypothesis_lib.is_hypothesis(text):
+                # A simulator hypothesis has no studies by design: searching it for evidence
+                # is the study its issue proposes, and folding it would delete the prediction.
+                step = "hypothesis"
+            elif converted:
                 step = "reread" if unread > REREAD else "done"
             elif not canonical:
                 step = "fragment"

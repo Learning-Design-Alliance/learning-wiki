@@ -37,6 +37,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib  # noqa: E402
+import hypothesis_lib  # noqa: E402
 import evidence_dimensions as ed  # noqa: E402
 
 WIKI_ROOT = Path(__file__).resolve().parent.parent
@@ -149,6 +150,7 @@ def parse_page(path: Path, vocab: dict) -> tuple:
         return None, []
     fm = okf_lib.parse_frontmatter_scalars(okf_lib.split_frontmatter(text)[0])
     key = f"{folder}/{path.stem}"
+    hypothesis = hypothesis_lib.is_hypothesis(text)
     facts, rows = [], []
     for line in m.group(1).splitlines():
         fact = _FACT.match(line)
@@ -166,12 +168,17 @@ def parse_page(path: Path, vocab: dict) -> tuple:
         tags = [t for t in dict.fromkeys(_TAG.findall(cells[0])) if t in vocab]
         inferred = [t for t, rx in _INFERRED.items() if t in vocab and t not in tags and rx.search(cells[0])]
         claims = _claims(basis)
-        kind = ("untested" if basis.lower().lstrip("*_ ").startswith("untested")
+        # A row on a simulator hypothesis (hypothesis_lib) is a model prediction: it is
+        # labelled so a situations query never returns it as research-based.
+        kind = ("simulated" if hypothesis else
+                "untested" if basis.lower().lstrip("*_ ").startswith("untested")
                 else "claim" if claims else "other")
         rows.append({"page": key, "if": when, "change": change, "basis": basis,
                      "basis_kind": kind, "tags": tags, "inferred_tags": inferred, "claims": claims})
     page = {"title": str(fm.get("title") or path.stem), "type": str(fm.get("type") or ""),
             "facts": facts, "rows": len(rows)}
+    if hypothesis:
+        page["hypothesis"] = str(fm.get("hypothesis_status") or "")
     return page, rows
 
 

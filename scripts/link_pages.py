@@ -55,6 +55,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 sys.path.insert(0, str(WIKI_ROOT))
 import okf_lib  # noqa: E402
 import search_index  # noqa: E402
+import hypothesis_lib  # noqa: E402
 
 KIND = {"principles": "principle", "elements": "element", "patterns": "pattern", "designs": "design",
         "products": "product or programme", "research-methods": "research method",
@@ -80,8 +81,13 @@ SYSTEM = "You organise a learning-design wiki. Reply with one JSON object and no
 
 
 def all_pages() -> dict:
+    """Every content page the linker may read or write. Simulator hypotheses (hypothesis_lib)
+    are left out on both ends: a model's prediction must not collect claims as evidence or be
+    offered to other pages as an established principle."""
     return {f"{f}/{p.stem}": p for f in okf_lib.CONTENT_FOLDERS
-            for p in (WIKI_ROOT / f).glob("*.md") if p.stem != "index"}
+            for p in (WIKI_ROOT / f).glob("*.md")
+            if p.stem != "index" and not (f == hypothesis_lib.FOLDER and
+                                          hypothesis_lib.is_hypothesis(p.read_text(encoding="utf-8")))}
 
 
 def link_graph(pages: dict) -> dict:
