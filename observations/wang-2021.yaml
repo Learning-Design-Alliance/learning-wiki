@@ -1,0 +1,537 @@
+# Wang et al. (2021): HawkesKT, temporal cross-effects in knowledge tracing.
+#
+# A model paper, not an experiment with learners in conditions. Its own printed
+# figures are the 5-fold cross-validated test AUCs of HawkesKT on three public
+# datasets (Table 3), an ablation against three variants of the model
+# (Figure 4), the agreement of three expert annotators who labelled skill-pair
+# helpfulness (kappa .52), and the NDCG of the model's prerequisite ranking
+# against those labels. The arms are model configurations, not groups of
+# people; every dataset is an existing log of student responses.
+#
+# Read from the publisher's text layer (WSDM '21 proceedings, pp. 517-525),
+# which matches the DOI in the article's own front matter. No PDF was supplied.
+# The text layer prints Table 3's HawkesKT row cleanly and is recorded; the
+# baseline rows and Tables 2 and 4 come out column by column and Figure 4's bar
+# labels come out as loose numbers, so those are listed in not_yet_extracted
+# rather than reassembled. The ablation is therefore recorded only as the
+# authors' own words about it.
+#
+# No age, no single-group mean: the article prints no age figure for any
+# dataset (age: unreported) and no mean with SD. The kappa is the agreement of
+# the annotation that serves as ground truth for the prerequisite-score
+# evaluation, not of the AUC outcome, which has no rater.
+
+schema_version: 2
+
+study:
+  key: wang-2021
+  citation: "Wang, C., Ma, W., Zhang, M., Lv, C., Wan, F., Lin, H., Tang, T., Liu, Y., & Ma, S. (2021). Temporal cross-effects in knowledge tracing. In Proceedings of the Fourteenth ACM International Conference on Web Search and Data Mining (WSDM '21) (pp. 517–525). ACM."
+  doi: "10.1145/3437963.3441802"
+  design:
+    family: other
+    design_detail: >-
+      Computational benchmark. HawkesKT, a Hawkes-process model in which each
+      earlier (skill, response) interaction adds a mutual-excitation term to
+      the target skill's intensity, decaying through a per-pair power-law
+      kernel exp(-(1 + beta) log dt), with question and skill base intensities
+      and low-rank factorised alpha and beta, is compared with six baseline
+      knowledge-tracing models (IRT, DKT, SAKT, DKT-Forgetting, KTM, AKT-R)
+      by 5-fold cross validation split on users, AUC as the metric, and with
+      three ablated variants. An empirical study of conditional mutual
+      information between interaction pairs precedes the model. No conditions
+      were assigned to learners.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: hawkeskt-outperforms-kt-baselines
+    bearing: supports
+    anchor: wang-et-al-2021
+  - claim: hawkeskt-outperforms-kt-baselines
+    bearing: qualifies
+    anchor: wang-et-al-2021-2
+  - claim: hawkeskt-ablation-cross-and-cf
+    bearing: supports
+    anchor: wang-et-al-2021
+  - claim: hawkeskt-ablation-cross-and-cf
+    bearing: supports
+    anchor: wang-et-al-2021-2
+  - claim: temporal-cross-effects-decay-rates-differ
+    bearing: supports
+    anchor: wang-et-al-2021
+  - claim: cross-skill-effects-in-knowledge-tracing
+    bearing: supports
+    anchor: wang-et-al-2021
+  - claim: prerequisite-score-skill-relation-discovery
+    bearing: supports
+    anchor: wang-et-al-2021
+
+evidence_base:
+  unit: other
+  size:
+    value: 3
+    unit: other
+  additional_sizes:
+    - value: 6
+      unit: other
+      note: "baseline knowledge-tracing models compared with HawkesKT"
+    - value: 3
+      unit: participants
+      note: "experts who annotated binary helpfulness between each pair of the top-20 frequency skills in ASSISTments 12-13"
+  population:
+    description: >-
+      Three public datasets of student responses: ASSISTments 09-10 and
+      ASSISTments 12-13 from the ASSISTments online mathematics tutoring
+      system, and slepemapy.cz from an online geography practice system. Users
+      with fewer than 5 interactions were discarded and only each user's first
+      50 interactions kept. ASSISTments 09-10 has no timestamps, so a fixed
+      1-second gap was assumed. The empirical study uses ASSISTments 12-13,
+      described as 2.7M interactions involving 265 skills.
+    age_or_stage: "Not stated for any dataset."
+    age: unreported
+  context:
+    setting: "Offline prediction of the correctness of the next response from logged interactions; folds split on users, 10% of training users held out for validation and early stopping"
+  arms:
+    - id: hawkeskt
+      description: "HawkesKT: base intensity per question and skill plus mutual excitation alpha and per-pair kernel decay beta for each earlier (skill, response) event and target skill, factorised by matrix factorisation; sigmoid of the intensity gives the predicted probability."
+    - id: no-temporal
+      description: "The \\Temporal variant: HawkesKT with the kernel function removed, so no forgetting."
+    - id: global-decay
+      description: "The \\Cross variant: one global parameter beta controls the decay instead of a decay rate per skill pair."
+    - id: no-cf
+      description: "The \\CF variant: alpha and beta optimised directly as 2|S| x |S| matrices, without matrix factorisation."
+    - id: baselines
+      description: "The six baselines: IRT, DKT, SAKT (no temporal information), DKT-Forgetting, KTM and AKT-R (time-varying effects)."
+    - id: dkt-forgetting
+      description: "DKT-Forgetting: DKT with past trials and time gaps as extra features."
+
+comparisons:
+  - id: hawkeskt-vs-baselines
+    kind: other
+    index_arm: hawkeskt
+    reference_arm: baselines
+    description: "Model comparison of HawkesKT against all six baselines on test AUC, on each dataset (Table 3)."
+  - id: hawkeskt-vs-dkt-forgetting
+    kind: other
+    index_arm: hawkeskt
+    reference_arm: dkt-forgetting
+    description: "Model comparison of HawkesKT against DKT-Forgetting on slepemapy.cz."
+  - id: no-temporal-vs-hawkeskt
+    kind: other
+    index_arm: no-temporal
+    reference_arm: hawkeskt
+    description: "Ablation: the variant without the kernel against the full model (Figure 4)."
+  - id: global-decay-vs-hawkeskt
+    kind: other
+    index_arm: global-decay
+    reference_arm: hawkeskt
+    description: "Ablation: the variant with one global decay rate against the full model (Figure 4)."
+  - id: no-cf-vs-hawkeskt
+    kind: other
+    index_arm: no-cf
+    reference_arm: hawkeskt
+    description: "Ablation: the variant without matrix factorisation against the full model (Figure 4)."
+  - id: cmi-empirical-study
+    kind: none
+    description: "Conditional mutual information between the responses of pre- and post-interaction pairs in ASSISTments 12-13, by skill pair and by log time interval; no model and no contrast of configurations."
+  - id: expert-annotation
+    kind: none
+    description: "Agreement among the three expert annotators on binary helpfulness between skill pairs."
+
+observations:
+
+  - id: hawkeskt-auc-assistments-0910
+    arm_ref: hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "AUC of all methods on the three datasets (higher is better)"
+      measure: "Area under the ROC curve for predicting correctness of each interaction after the first, ASSISTments 09-10"
+      scale: "AUC, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: other
+      estimate: 0.7629
+      note: "Average over the 5 folds. Best result on this dataset in Table 3."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      An AUC is a model's prediction score, not an effect on learners; no
+      variance across folds is printed. The table row is printed as the
+      model's name followed by its three dataset scores in column order
+      (ASSISTments 09-10, ASSISTments 12-13, slepemapy.cz).
+    source_quote: "HawkesKT 0.7629 0.7676 0.7500"
+    source_location: "Table 3"
+
+  - id: hawkeskt-auc-assistments-1213
+    arm_ref: hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "AUC of all methods on the three datasets (higher is better)"
+      measure: "Area under the ROC curve for predicting correctness of each interaction after the first, ASSISTments 12-13"
+      scale: "AUC, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: other
+      estimate: 0.7676
+      note: "Average over the 5 folds."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "HawkesKT 0.7629 0.7676 0.7500"
+    source_location: "Table 3"
+
+  - id: hawkeskt-auc-slepemapy
+    arm_ref: hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "AUC of all methods on the three datasets (higher is better)"
+      measure: "Area under the ROC curve for predicting correctness of each interaction after the first, slepemapy.cz (geography)"
+      scale: "AUC, 0 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: other
+      estimate: 0.7500
+      note: "Average over the 5 folds."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "HawkesKT 0.7629 0.7676 0.7500"
+    source_location: "Table 3"
+
+  - id: hawkeskt-better-than-baselines
+    comparison_ref: hawkeskt-vs-baselines
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "performs consistently better than all the baselines"
+      measure: "Test AUC on ASSISTments 09-10, ASSISTments 12-13 and slepemapy.cz"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: qualitative
+      finding: >-
+        HawkesKT has the highest AUC of the seven models on all three datasets;
+        the authors attribute the margin to modelling temporal cross-effects
+        with mutual excitation and an adaptive kernel.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported:
+        - variable: "Subject domain of the dataset (mathematics vs geography)"
+          relationship: "Larger gains on the two mathematics datasets; on geography the gain over DKT-Forgetting is not significant"
+          source_quote: "Note that our model gains more improvements on mathematical datasets. While on the geography dataset (slepemapy.cz), the improvement is not that large (the difference compared to DKT-Forgetting is not significant)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Second, HawkesKT performs consistently better than all the baselines."
+    source_location: "Section 5.2, Overall Performance"
+
+  - id: hawkeskt-vs-dkt-forgetting-slepemapy
+    comparison_ref: hawkeskt-vs-dkt-forgetting
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "the improvement is not that large (the difference compared to DKT-Forgetting is not significant)"
+      measure: "Test AUC on slepemapy.cz"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: qualitative
+      finding: >-
+        On the geography dataset HawkesKT's advantage over DKT-Forgetting is
+        not significant. The authors reason that skill relations in geography
+        are simple and the major temporal dynamic is self-forgetting.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 3's caption says significance was tested at p < 0.05 and p < 0.01;
+      the test used is not named.
+    source_quote: "While on the geography dataset (slepemapy.cz), the improvement is not that large (the difference compared to DKT-Forgetting is not significant)."
+    source_location: "Section 5.2, Overall Performance"
+
+  - id: ablation-no-temporal
+    comparison_ref: no-temporal-vs-hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "the largest performance loss"
+      measure: "Test AUC on all three datasets (Figure 4)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: qualitative
+      finding: >-
+        Removing the kernel (no forgetting) costs the most AUC of the three
+        ablations, and the variant is generally worse than DKT-Forgetting and
+        AKT-R.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The AUCs are printed only as bar labels in Figure 4, which the text layer
+      does not attach to bars; no value is recorded.
+    source_quote: "First, temporal information is of significant importance in KT. \\Temporal results in the largest performance loss and is generally worse than DKT-Forgetting and AKT-R, which shows the necessity to model forgetting behavior."
+    source_location: "Section 5.4, Ablation Study; Figure 4"
+
+  - id: ablation-global-decay
+    comparison_ref: global-decay-vs-hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "consistently worse results on all the datasets"
+      measure: "Test AUC on all three datasets (Figure 4)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: qualitative
+      finding: >-
+        One global decay rate instead of a decay rate per skill pair gives
+        worse AUC on every dataset, though not the largest loss; on
+        ASSISTments 12-13 the variant is similar to AKT-R.
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Although the performance loss of \\Cross is not the largest, it is noteworthy that \\Cross leads to consistently worse results on all the datasets."
+    source_location: "Section 5.4, Ablation Study; Figure 4"
+
+  - id: ablation-no-cf
+    comparison_ref: no-cf-vs-hawkeskt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "suffer a moderate loss"
+      measure: "Test AUC on all three datasets (Figure 4)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out folds, 5-fold cross validation"
+    result:
+      measure_type: qualitative
+      finding: "Without matrix factorisation the model loses a moderate amount of AUC on every dataset."
+      perspective: researcher
+      collection_method: "model evaluation"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Without matrix factorization, performances of \\CF on all the datasets suffer a moderate loss, which shows the effectiveness of combining point process and collaborative filtering."
+    source_location: "Section 5.4, Ablation Study; Figure 4"
+
+  - id: cmi-cross-skill-effects
+    comparison_ref: cmi-empirical-study
+    outcome:
+      construct: "Dependency between responses on different skills"
+      source_language: "obvious cross-effects between different skills"
+      measure: "Conditional mutual information between pre- and post-interaction responses for every pair of the top-10 frequency skills (Figure 2)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across each student's logged sequence"
+    result:
+      measure_type: qualitative
+      finding: >-
+        Dependency is largest for interactions on the same skill, but there are
+        clear cross-effects between different skills, high within the groups
+        {0, 1, 2} and {7, 8, 9}.
+      perspective: researcher
+      collection_method: "secondary analysis of log data"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: "The CMI values are shown only as a heat map; none is printed."
+    source_quote: "We can see the effects are generally the largest for interactions of the same skill (diagonal). However, there exist obvious cross-effects between different skills, such as the condition when the pre- and post-interaction is 9 and 4, respectively."
+    source_location: "Section 3.3, Temporal Cross-Effects; Figure 2"
+
+  - id: cmi-decay-rates-differ
+    comparison_ref: cmi-empirical-study
+    outcome:
+      construct: "Decay of cross-skill dependency with time"
+      source_language: "the decay rates differ from each other obviously"
+      measure: "Conditional mutual information by skill pair and log time interval between the two interactions; cells with fewer than 50 pairs masked (Figure 3)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "by log time interval between interactions"
+    result:
+      measure_type: qualitative
+      finding: >-
+        Overall, dependency decays with the time between interactions, but the
+        decay rate differs between skill pairs: for skills 8 then 7 it is large
+        in the short term and decays quickly; for 8 then 2 it is smaller and
+        decays more slowly.
+      perspective: researcher
+      collection_method: "secondary analysis of log data"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The CMI values are shown only in Figure 3; none is printed."
+    source_quote: "Globally speaking, the overall temporal evolution exhibits a decaying form because of the forgetting behavior, which is consistent with previous studies [24]. However, it is noteworthy that for different skill pairs, the decay rates differ from each other obviously, which we call temporal cross-effects."
+    source_location: "Section 3.3, Temporal Cross-Effects; Figure 3"
+
+  - id: expert-annotation-kappa
+    comparison_ref: expert-annotation
+    sample:
+      value: 3
+      unit: participants
+    outcome:
+      construct: "Inter-annotator agreement"
+      source_language: "The kappa coefficient of annotations"
+      measure: "Three experts' binary helpfulness labels for each pair of the top-20 frequency skills in ASSISTments 12-13"
+      scale: "kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "annotation, before averaging into the ground truth"
+    result:
+      measure_type: reliability
+      estimate: 0.52
+      reliability:
+        statistic: other
+        over: raters
+        form: "kappa coefficient, three annotators; the kappa variant is not named"
+      interpretation: "Described by the authors as 'showing the applicability'"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      effect_size is `unreported` because a reliability coefficient is not an
+      effect. The averaged annotations, not the individual labels, are the
+      ground truth for the NDCG below.
+    source_quote: "The kappa coefficient of annotations is 0.52, showing the applicability."
+    source_location: "Section 5.5, Skill Relationships Discovery"
+
+  - id: prerequisite-score-ndcg
+    arm_ref: hawkeskt
+    outcome:
+      construct: "Agreement of discovered skill prerequisites with expert judgement"
+      source_language: "averaged NDCG"
+      measure: "NDCG of each skill's ranked list of prerequisites, from the prerequisite score on HawkesKT's alpha parameters, against the averaged expert annotations; top-20 frequency skills in ASSISTments 12-13"
+      scale: "NDCG, 0 to 1, averaged over skills"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "after training on ASSISTments 12-13"
+    result:
+      measure_type: other
+      estimate: 0.8267
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No baseline ranking is reported for comparison."
+    source_quote: "This ranked list is evaluated according to the annotated relevance, whose averaged NDCG is 0.8267."
+    source_location: "Section 5.5, Skill Relationships Discovery"
+
+not_yet_extracted:
+  - "Table 3 baseline AUCs (IRT, DKT, SAKT, DKT-Forgetting, KTM, AKT-R) and their significance markers: the text layer prints each block of three models column by column rather than row by row, so they are not reassembled here."
+  - "Figure 4 AUCs for the \\Temporal, \\Cross and \\CF variants and the comparison models: printed only as bar labels the text layer does not attach to bars."
+  - "Table 2 dataset statistics (students, questions, skills, interactions per dataset): printed column by column in the text layer."
+  - "Table 4 training time per epoch and number of parameters per model on ASSISTments 09-10 and slepemapy.cz: printed column by column in the text layer."
+  - "Equations 4-10 (intensity, base intensity, power-law kernel, sigmoid link, factorisation): model structure, not a result."
