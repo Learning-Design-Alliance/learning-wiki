@@ -1,0 +1,515 @@
+# Clinton (2019): reading from paper compared to screens, a systematic review
+# and meta-analysis of randomised experiments, 2008-2018.
+#
+# SIGN CONVENTION. "A positive Hedges' g indicates that the mean values for
+# reading from screens were greater." The text layer read first drops the
+# minus signs ("g = .25 ... 95% CI = [ .37, .12]"). The signs were checked
+# against page images of the publisher PDF: the overall estimate and interval
+# on p. 19, and every point estimate in the abstract (p. 1). The subgroup
+# intervals were not viewed; their signs follow from interval order around
+# the confirmed estimates. The quotes give the article's characters: g = −.25
+# [−.37, −.12] overall, −.32 expository, −.04 [−.18, .11] narrative, −.33
+# literal, −.26 inferential, .08 [−.32, .48] reading time, .20 [.07, .33]
+# calibration.
+#
+# Each of the 33 studies contributes one independent effect size per analysis,
+# so k counts studies. Table 1 (the studies) and Tables 2-6 (per-study g) are
+# scrambled in the text layer and are not recorded.
+
+schema_version: 2
+
+study:
+  key: clinton-2019
+  citation: "Clinton, V. (2019). Reading from paper compared to screens: A systematic review and meta-analysis. Journal of Research in Reading, 42(2), 288–325."
+  doi: "10.1111/1467-9817.12269"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Systematic review and random-effects meta-analysis of experiments with
+      random assignment to screen or paper reading of the same texts (or
+      within-subject designs counterbalancing texts), disseminated 2008-2018,
+      with readers who had fundamental reading skills and read in their native
+      language. Outcomes: reading performance (general, literal, inferential),
+      reading time and calibration. Moderators genre and age group.
+  synthesis:
+    model: "Random effects models (Comprehensive Meta-Analysis v3), Hedges' g"
+    heterogeneity_statistic: "I2"
+    heterogeneity_thresholds: "I2 above 20% taken to warrant moderator analysis; at least six effect sizes per moderator category"
+    quality_tool: "Study Design and Implementation Assessment Device (Study DIAD), selected questions"
+    reporting_guideline: "PRISMA flow diagram (Moher et al., 2009)"
+    search:
+      databases:
+        - Educational Resources Information Center
+        - Science Direct
+        - Taylor and Francis Online
+        - Sage
+        - Springerlink
+        - PsychINFO
+        - Wiley Online
+      date_range: "Database searches October-November 2016; forward search in Google Scholar May 2018"
+      records_screened: 2042
+      records_included: 29
+    data_handling:
+      - "Means of outcomes used when a study reported more than one performance outcome or condition per medium"
+      - "Authors contacted for missing statistics; one report excluded for lack of them"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: screen-reading-performance-disadvantage
+    bearing: supports
+    anchor: clinton-2019
+  - claim: genre-moderates-screen-paper-performance
+    bearing: supports
+    anchor: clinton-2019
+  - claim: age-not-moderator-screen-paper-performance
+    bearing: supports
+    anchor: clinton-2019
+  - claim: literal-inferential-both-screen-disadvantage
+    bearing: supports
+    anchor: clinton-2019
+  - claim: literal-inferential-both-screen-disadvantage
+    bearing: supports
+    anchor: clinton-2019-2
+  - claim: no-reading-time-difference-medium
+    bearing: supports
+    anchor: clinton-2019
+  - claim: paper-better-calibration-metacognition
+    bearing: supports
+    anchor: clinton-2019
+
+evidence_base:
+  unit: studies
+  size:
+    value: 33
+    unit: studies
+  additional_sizes:
+    - value: 29
+      unit: reports
+      note: "reports containing the 33 studies"
+    - value: 2799
+      unit: participants
+      note: "participants across the 33 studies of reading performance"
+    - value: 1233
+      unit: participants
+      note: "participants in the 14 studies of reading time"
+    - value: 698
+      unit: participants
+      note: "participants in the 11 studies of calibration"
+  population:
+    description: >-
+      Readers with fundamental reading skills, no reported disabilities,
+      reading in their native language. Adult studies were almost entirely
+      college students.
+    age_or_stage: >-
+      Coded as child (under 18 and/or secondary school or younger) or adult
+      (over 18 and/or college); 26 adult and 7 child studies. Table 1 gives
+      participants per study; no pooled age figure is printed.
+    age: unreported
+  context:
+    setting: "Supervised classroom or laboratory sessions; texts longer than one sentence, the same texts in both media"
+  variation:
+    - dimension: "Age group"
+      distribution: "26 adult studies, 7 child studies (reading performance)"
+    - dimension: "Genre"
+      distribution: "22 expository, 7 narrative in the genre analysis; 4 studies excluded for lack of results by genre"
+  arms:
+    - id: screen
+      description: "Reading the texts from a screen (computer, tablet, e-reader and similar)."
+    - id: paper
+      description: "Reading the same texts from paper."
+    - id: screen-expository
+      description: "Screen reading in studies using expository texts."
+    - id: paper-expository
+      description: "Paper reading in studies using expository texts."
+    - id: screen-narrative
+      description: "Screen reading in studies using narrative texts (only the narrative texts where a study used both)."
+    - id: paper-narrative
+      description: "Paper reading in studies using narrative texts."
+
+comparisons:
+  - id: screen-vs-paper
+    kind: other
+    index_arm: screen
+    reference_arm: paper
+    description: "Screen against paper reading of the same texts, by random assignment between groups or within-subject with counterbalanced texts, pooled across studies."
+  - id: screen-vs-paper-expository
+    kind: other
+    index_arm: screen-expository
+    reference_arm: paper-expository
+    description: "Screen against paper, studies with expository texts."
+  - id: screen-vs-paper-narrative
+    kind: other
+    index_arm: screen-narrative
+    reference_arm: paper-narrative
+    description: "Screen against paper, studies with narrative texts."
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between the author's coding and an independent research assistant's on 25% of the reviewed articles."
+
+observations:
+
+  - id: reading-performance-overall
+    sample:
+      value: 33
+      unit: studies
+    comparison_ref: screen-vs-paper
+    outcome:
+      construct: "Reading comprehension"
+      source_language: "reading performance"
+      measure: "Reading comprehension assessments (multiple-choice, open-ended, free recall); means of literal and inferential measures where a study had both"
+      scale: "Hedges' g, screens minus paper"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, within the session"
+    result:
+      measure_type: hedges_g
+      estimate: -0.25
+      standard_error: 0.06
+      ci_lower: -0.37
+      ci_upper: -0.12
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 33
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 70.35
+        unit: percent
+        interpretation: "Sufficient to warrant moderator analysis"
+      publication_bias:
+        method: "Funnel plot and Egger's test of the intercept"
+        finding: "Funnel plot symmetrical; Egger intercept 1.29, p = .20; publication bias judged unlikely"
+      model: "random-effects"
+      note: "n = 2,799 participants. One-study-removed analyses changed nothing."
+    moderators:
+      reported:
+        - variable: "Text genre (expository or narrative)"
+          relationship: "Significant moderator; the screen deficit was found for expository texts and not narrative texts"
+          source_quote: "The genre of the experimental texts was significant as a moderator, Qbetween(1) = 6.86, p = .01, R2 = .13."
+        - variable: "Age group (child or adult)"
+          relationship: "Not a significant moderator (26 adult against 7 child studies)"
+          source_quote: "The age group (child or adult) of the participants was examined, but it was not a significant moderator, Qbetween(1) = .07, p = .80, R2 = .04, indicating that the negative effect on performance for reading text from screens rather than paper did not vary for readers who were adults or children."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Based on the random effects model, reading text from screens had a small, but significant negative effect on performance scores compared to reading from paper, g = −.25, k = 33, SE = .06, 95% CI = [−.37, −.12], p < .001"
+    source_location: "RQ1, Overall performance; Table 2"
+
+  - id: reading-performance-expository
+    sample:
+      value: 22
+      unit: studies
+    comparison_ref: screen-vs-paper-expository
+    outcome:
+      construct: "Reading comprehension, expository texts"
+      source_language: "reading performance for expository texts"
+      measure: "Reading comprehension assessments on expository texts"
+      scale: "Hedges' g, screens minus paper"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, within the session"
+    result:
+      measure_type: hedges_g
+      estimate: -0.32
+      standard_error: 0.08
+      ci_lower: -0.48
+      ci_upper: -0.16
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 22
+        unit: studies
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "When tested separately, reading performance for expository texts was worse for screens compared to paper, g = −.32, k = 22, SE = .08, 95% CI = [−.48, −.16], p < .001."
+    source_location: "RQ1, Moderator analyses, Genre"
+
+  - id: reading-performance-narrative
+    sample:
+      value: 7
+      unit: studies
+    comparison_ref: screen-vs-paper-narrative
+    outcome:
+      construct: "Reading comprehension, narrative texts"
+      source_language: "reading performance by medium for narrative texts"
+      measure: "Reading comprehension assessments on narrative texts"
+      scale: "Hedges' g, screens minus paper"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, within the session"
+    result:
+      measure_type: hedges_g
+      estimate: -0.04
+      standard_error: 0.07
+      ci_lower: -0.18
+      ci_upper: 0.11
+      interval_type: confidence
+      p_value: ".64"
+      k:
+        value: 7
+        unit: studies
+      model: "random-effects"
+      interpretation: "No difference; the author cautions that genres were unevenly distributed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "The sign of the point estimate is lost in the text layer; it is read as negative from the interval (lower bound printed with a dropped sign, upper bound .11) and recorded so."
+    source_quote: "In contrast, there was no difference in reading performance by medium for narrative texts, g = −.04, k = 7, SE = .07, 95% CI = [−.18, .11], p = .64."
+    source_location: "RQ1, Moderator analyses, Genre"
+
+  - id: reading-performance-literal
+    sample:
+      value: 19
+      unit: studies
+    comparison_ref: screen-vs-paper
+    outcome:
+      construct: "Literal reading comprehension"
+      source_language: "literal reading performance"
+      measure: "Measures of factual recall of information explicitly stated in the text"
+      scale: "Hedges' g, screens minus paper"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, within the session"
+    result:
+      measure_type: hedges_g
+      estimate: -0.33
+      standard_error: 0.08
+      ci_lower: -0.48
+      ci_upper: -0.18
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 19
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 67.13
+        unit: percent
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "As can be seen in Table 3, literal reading performance from screens was worse than from paper, g = −.33, k = 19, SE = .08, 95% CI = [−.48, −.18], p < .001."
+    source_location: "RQ1, Literal and inferential reading; Table 3"
+
+  - id: reading-performance-inferential
+    sample:
+      value: 13
+      unit: studies
+    comparison_ref: screen-vs-paper
+    outcome:
+      construct: "Inferential reading comprehension"
+      source_language: "inferential reading performance"
+      measure: "Measures requiring inferences connecting ideas in the text or with background knowledge"
+      scale: "Hedges' g, screens minus paper"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after reading, within the session"
+    result:
+      measure_type: hedges_g
+      estimate: -0.26
+      standard_error: 0.05
+      ci_lower: -0.36
+      ci_upper: -0.17
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 13
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 0.00
+        unit: percent
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Similar to literal reading performance, inferential reading performance from screens was worse than from paper, g = −.26, k = 13, SE = .05, 95% CI = [−.36, −.17], p < .001 (Table 4)."
+    source_location: "RQ1, Literal and inferential reading; Table 4"
+
+  - id: reading-time
+    sample:
+      value: 14
+      unit: studies
+    comparison_ref: screen-vs-paper
+    outcome:
+      construct: "Reading time"
+      source_language: "reading times"
+      measure: "Time spent reading the texts"
+      scale: "Hedges' g, screens minus paper (positive = longer on screens)"
+      direction: contextual
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during reading"
+    result:
+      measure_type: hedges_g
+      estimate: 0.08
+      standard_error: 0.20
+      ci_lower: -0.32
+      ci_upper: 0.48
+      interval_type: confidence
+      p_value: ".45"
+      k:
+        value: 14
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 92.47
+        unit: percent
+        interpretation: "Substantial"
+      publication_bias:
+        method: "Funnel plot and Egger's test of the intercept"
+        finding: "Funnel plot not symmetrical; Egger intercept .14, p = .96; asymmetry attributed to heterogeneity rather than publication bias"
+      model: "random-effects"
+      note: "n = 1,233 participants"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "Based on the random effects model, reading text from screens had no reliable effect on reading times compared to reading from paper, g = .08, k = 14, SE = .20, 95% CI = [−.32, .48], p = .45"
+    source_location: "Reading time; Table 5"
+
+  - id: calibration
+    sample:
+      value: 11
+      unit: studies
+    comparison_ref: screen-vs-paper
+    outcome:
+      construct: "Calibration of judged comprehension"
+      source_language: "less calibrated and more overconfident predictions of performance"
+      measure: "Calibration bias: predicted performance minus actual performance"
+      scale: "Hedges' g, screens minus paper (positive = more overconfident on screens)"
+      direction: lower-is-better
+      role: intermediate-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "judgement and test within the reading session"
+    result:
+      measure_type: hedges_g
+      estimate: 0.20
+      standard_error: 0.07
+      ci_lower: 0.07
+      ci_upper: 0.33
+      interval_type: confidence
+      p_value: ".002"
+      k:
+        value: 11
+        unit: studies
+      heterogeneity:
+        statistic: I2
+        value: 19.65
+        unit: percent
+        interpretation: "Low"
+      publication_bias:
+        method: "Funnel plot and Egger's test of the intercept"
+        finding: "Funnel plot fairly symmetrical; Egger intercept 1.61, p = .16; little evidence of bias"
+      model: "random-effects"
+      note: "n = 698 participants. Every study favoured paper except Singer Trakhman et al. (2018)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "text from screens caused less calibrated and more overconfident predictions of performance than reading from paper, g = .20, k = 11, SE = .07, 95% CI = [.07, .33], p = .002"
+    source_location: "Calibration; Table 6"
+
+  - id: coding-agreement-k
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Inter-coder agreement on study descriptors"
+      source_language: "an independent research assistant coded 25% of the reviewed articles"
+      measure: "Coding of study descriptors (bibliographic information, ages, sample sizes, measures, statistics, text length, moderators) by the author and by a research assistant"
+      scale: "agreement coefficient printed as 'k'"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 0.93
+      reliability:
+        statistic: other
+        over: raters
+        form: "printed only as 'k = .93'; the article does not name the coefficient"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Agreement on coding, not the reliability of any reading measure; the article notes most included studies did not report the reliability of their measures."
+    source_quote: "The descriptive information of the studies in the selected reports were coded and double coded by the author, and then, an independent research assistant coded 25% of the reviewed articles (see Follmer, 2018, for similar approach; k = .93; see Data S1)."
+    source_location: "Method, Data items"
+
+not_yet_extracted:
+  - "Table 1 (description of the 33 studies) and Tables 2-6 (per-study effect sizes): scrambled in the text layer"
+  - "Egger's test confidence intervals, whose signs are lost in the text layer"
+  - "Per-age-group pooled estimates for reading performance (Table 2 rows), unreadable in the text layer; only the Qbetween test is recorded"

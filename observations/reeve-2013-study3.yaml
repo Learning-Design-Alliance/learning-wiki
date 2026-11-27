@@ -1,0 +1,365 @@
+# Reeve (2013), Study 3: agentic engagement and later perceived teacher
+# autonomy support, three waves over one semester.
+#
+# One article, three studies with three different samples, so three records:
+# reeve-2013-study1, reeve-2013-study2, reeve-2013-study3.
+#
+# WHAT THIS FILE RECORDS: the two hypothesised cross-lagged paths from agentic
+# engagement to later perceived autonomy support (.30 and .23), the
+# supplemental path the other way, from autonomy support to later agentic
+# engagement (.09, not significant), and the alphas printed for each wave.
+#
+#   * The design is a panel with no assigned conditions, so the paths are
+#     longitudinal associations; the record does not call them effects.
+#   * `population.age: unreported`: middle-school students; no age figure.
+#   * `measure_type: reliability`: AES alphas at T1 and T2, LCQ alphas at T1-T3.
+#
+# The text layer of the two-column Results page interleaves the columns, so the
+# path quotes were read from the page image (p. 588).
+#
+# QUOTES. The text layer of this PDF renders "=" as "⫽", alpha as "␣", "<" as
+# "⬍", minus as "⫺" and significance stars as "ⴱⴱ", and scrambles two-column
+# pages. Every source_quote containing one of those characters, and every table
+# row, was taken from the page image of the publisher's PDF and is written in
+# the article's own characters ("=", "α", "<", "−", "**"); the words around them
+# are as in the text layer, including its line-break hyphens ("in- cluded").
+# Read back into the text layer's glyphs, the Table 1 rows and the single-column
+# sentences match it exactly. Table 3, the Table 5 row, the Study 2 engagement
+# alphas and every Study 3 quote come out of the text layer interleaved or
+# garbled, and were read from the page images (pp. 585, 588, 589) only.
+
+schema_version: 2
+study:
+  key: reeve-2013-study3
+  citation: >-
+    Reeve, J. (2013). How students create motivationally supportive learning environments for themselves:
+    The concept of agentic engagement. Journal of Educational Psychology, 105(3), 579–595.
+  doi: 10.1037/a0032690
+  design:
+    family: longitudinal
+    design_detail: >-
+      Three-wave panel over an 18-week semester (T1 two weeks in, T2 a week after the midterm, T3 the
+      next-to-last week): agentic engagement at T1 and T2 and perceived teacher autonomy support at all
+      three waves, self-reported. Multilevel structural equation model with latent variables and autoregressive
+      controls. No other aspect of engagement was measured, and no condition was assigned.
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: agentic-engagement-predicts-growth-autonomy-support
+  bearing: supports
+  anchor: reeve-2013
+evidence_base:
+  unit: participants
+  size:
+    value: 302
+    unit: participants
+  additional_sizes:
+  - value: 315
+    unit: participants
+    note: consented and completed the T1 questionnaire; 308 completed T2 and 302 all three waves
+  - value: 9
+    unit: classes
+    note: >-
+      physical education classes in nine different schools, one teacher each; average class size 35.0
+      (range 31 to 38)
+  population:
+    description: >-
+      South Korean middle-school students in nine physical education classes in nine schools in the Seoul
+      metropolitan area (analysed sample 139 female, 163 male); all students and teachers ethnic Korean.
+      The six students lost at T3 differed from persisters on T1 and T2 autonomy support and T1 agentic
+      engagement.
+    age_or_stage: Middle-school students; the article prints no age figure
+    age: unreported
+  context:
+    setting: >-
+      Daily 55-min physical education classes over an 18-week semester; brief questionnaires administered
+      by a research assistant, 1–7 Likert
+  arms: []
+comparisons:
+- id: whole-sample
+  kind: none
+  description: Cross-lagged structural paths and scale reliabilities in the whole Study 3 sample; no contrast
+    between groups.
+observations:
+- id: t1-aes-predicts-t2-autonomy-support
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Perceived teacher autonomy support
+    source_language: perceived autonomy support
+    measure: 'Perceived teacher autonomy support: six-item short Learning Climate Questionnaire, 1–7 Likert,
+      latent variable'
+    scale: standardised path coefficient
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T1 (2 weeks into the semester) to T2 (a week after the midterm exam)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.3
+    statistic: t = 4.15
+    p_value: < .01
+    model: >-
+      Multilevel structural equation model, latent variables; T2 perceived autonomy support on T1 agentic
+      engagement, controlling T1 perceived autonomy support (whose own path was .34).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  observability_notes: >-
+    Self-report on both sides; the author names the absence of the other three engagement aspects and
+    of any objective measure of teaching as limitations.
+  source_quote: Both hypothesized paths from agentic engagement to perceived auton- omy support were individually
+    significant, as early-semester (i.e., initial) agentic engagement predicted midsemester perceived
+    au- tonomy support controlling for early-semester perceived autonomy support (beta = .30, t = 4.15,
+    p < .01)
+  source_location: Study 3, Results, Main analyses, p. 588; Figure 3
+- id: t2-aes-predicts-t3-autonomy-support
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Perceived teacher autonomy support
+    source_language: perceived autonomy support
+    measure: 'Perceived teacher autonomy support: six-item short Learning Climate Questionnaire, 1–7 Likert,
+      latent variable'
+    scale: standardised path coefficient
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T2 (a week after the midterm exam) to T3 (next-to-last week of the 18-week semester)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.23
+    statistic: t = 3.09
+    p_value: < .01
+    model: >-
+      Same model; T3 perceived autonomy support on T2 agentic engagement, controlling T1 and T2 perceived
+      autonomy support (T2 to T3 stability path .46).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: early-semester changes in agentic engagement predicted late-semester changes in perceived
+    autonomy support controlling for early and midsemester perceived autonomy support (beta = .23, t =
+    3.09, p < .01).
+  source_location: Study 3, Results, Main analyses, p. 588; Figure 3
+- id: t1-autonomy-support-predicts-t2-aes
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Agentic engagement
+    source_language: agentic engagement
+    measure: Five-item Agentic Engagement Scale, 1–7 Likert, latent variable
+    scale: standardised path coefficient
+    direction: higher-is-better
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T1 (2 weeks into the semester) to T2 (a week after the midterm exam)
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.09
+    statistic: t = 1.35
+    p_value: ns
+    model: >-
+      Supplemental model adding the non-hypothesised path from T1 perceived autonomy support to T2 agentic
+      engagement; model fit did not improve, change in chi-square (1) = 1.78, ns.
+    interpretation: >-
+      Not significant; the author did not expect it to be, holding that autonomy support changes engagement
+      through student motivation.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: Adding the path from T1 perceived autonomy support to T2 agentic engagement did not result
+    in an improved model fit, Δχ2 (1) = 1.78, ns, and that added path was not individually significant
+    (beta = .09, t = 1.35, ns).
+  source_location: Study 3, Results, Supplemental analyses, pp. 588–589
+- id: aes-alpha-t1
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Agentic engagement
+    source_language: AES
+    measure: Five-item Agentic Engagement Scale, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T1, 2 weeks into the semester
+  result:
+    measure_type: reliability
+    estimate: 0.77
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: &id001
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: In Study 3, the AES showed an acceptable level of internal consistency at both T1 (α =
+    .77) and T2 (α = .81).
+  source_location: Study 3, Measures, p. 588
+- id: aes-alpha-t2
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Agentic engagement
+    source_language: AES
+    measure: Five-item Agentic Engagement Scale, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T2, a week after the midterm exam
+  result:
+    measure_type: reliability
+    estimate: 0.81
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id001
+  source_quote: In Study 3, the AES showed an acceptable level of internal consistency at both T1 (α =
+    .77) and T2 (α = .81).
+  source_location: Study 3, Measures, p. 588
+- id: autonomy-support-alpha-t1
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Perceived teacher autonomy support
+    source_language: LCQ
+    measure: Six-item short Learning Climate Questionnaire, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T1, 2 weeks into the semester
+  result:
+    measure_type: reliability
+    estimate: 0.87
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id001
+  source_quote: The LCQ showed strong reliability across all three waves of data collection (αs of .87,
+    .88, and .92 at T1, T2, and T3).
+  source_location: Study 3, Measures, p. 588
+- id: autonomy-support-alpha-t2
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Perceived teacher autonomy support
+    source_language: LCQ
+    measure: Six-item short Learning Climate Questionnaire, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T2, a week after the midterm exam
+  result:
+    measure_type: reliability
+    estimate: 0.88
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id001
+  source_quote: The LCQ showed strong reliability across all three waves of data collection (αs of .87,
+    .88, and .92 at T1, T2, and T3).
+  source_location: Study 3, Measures, p. 588
+- id: autonomy-support-alpha-t3
+  sample:
+    value: 302
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Perceived teacher autonomy support
+    source_language: LCQ
+    measure: Six-item short Learning Climate Questionnaire, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time:
+    label: T3, next-to-last week of the semester
+  result:
+    measure_type: reliability
+    estimate: 0.92
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id001
+  source_quote: The LCQ showed strong reliability across all three waves of data collection (αs of .87,
+    .88, and .92 at T1, T2, and T3).
+  source_location: Study 3, Measures, p. 588
+not_yet_extracted:
+- >-
+  Table 6 means, SDs and latent intercorrelations among the five variables (for example T1 agentic engagement
+  with T3 autonomy support .46).
+- >-
+  Measurement and structural model fit (chi-square (725) = 863.71, RMSEA .060) and the Figure 3 stability
+  paths beyond those named in the model notes.
+- >-
+  Supplemental path from T1 agentic engagement to T3 autonomy support (beta −.09, ns), the Sobel test
+  for mediation by T2 agentic engagement (z = 2.91), and the latent interaction model (both interaction
+  paths ns).
+- Table 3 item means and SDs for Study 3 (scale M 4.17, SD 1.09, alpha .81 at Time 2).

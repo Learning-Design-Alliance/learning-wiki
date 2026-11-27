@@ -1,0 +1,400 @@
+# Kibble & Johnson (2011): can faculty predictions or Bloom levels estimate
+# multiple-choice item difficulty?
+#
+# One course, one sample of items. The unit analysed is the ITEM: 300 items were
+# administered across six examinations and 272 were analysed (28 removed: the
+# non-consenting faculty member's items, 13 not single-best-answer, 4 flawed).
+# The abstract's "300 items" is the administered count; every correlation below
+# rests on the 272.
+#
+# "Item difficulty" in this article is the item P value (proportion of students
+# answering correctly), so a NEGATIVE rho means items rated higher (harder, or
+# at a higher cognitive level) were answered correctly less often.
+#
+# Uses all three 2026-11-25 additions where the article allows:
+#   * reliability: Cronbach's alpha per examination (a range, 0.70-0.92, over six
+#     examinations), and the agreement between item writers' cognitive-level
+#     labels and the two-person consensus labels (57% of items, kappa 0.33).
+#   * age: `unreported`. The article says the students were in the third or
+#     fourth year of their undergraduate programmes and prints no age figure.
+#   * mean: not used. The single-group means the article prints (examination
+#     means, mean item discrimination) are not used here; they are listed in
+#     not_yet_extracted.
+#
+# The kappa quote was taken from the PDF page image (p. 397): the text layer
+# renders the kappa symbol as an unreadable glyph. Every other quote is from the
+# text layer.
+
+schema_version: 2
+
+study:
+  key: kibble-2011
+  citation: "Kibble, J. D., & Johnson, T. (2011). Are faculty predictions or item taxonomies useful for estimating the outcome of multiple-choice examinations? Advances in Physiology Education, 35(4), 396–401."
+  doi: "10.1152/advan.00062.2011"
+  design:
+    family: observational
+    design_detail: >-
+      Correlational item analysis in one two-semester upper-level undergraduate
+      human physiology course. Eight consenting faculty members annotated their
+      own multiple-choice items before the examinations with an intended
+      difficulty (easy, moderate, hard) and a truncated Bloom's level
+      (knowledge, comprehension, application); one author and the Course
+      Director independently assigned a Bloom's level to every item and agreed
+      a consensus score. Annotations were correlated (Spearman's rho) with item
+      P values and point-biserial discrimination, and predictions were
+      cross-tabulated against grade-based P-value bands.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: cognitive-level-no-relation-difficulty
+    bearing: supports
+    anchor: kibble-jd-2011
+  - claim: faculty-item-difficulty-prediction-weak
+    bearing: supports
+    anchor: kibble-jd-2011
+  - claim: individual-variation-difficulty-prediction
+    bearing: supports
+    anchor: kibble-jd-2011
+  - claim: low-agreement-cognitive-level-classification
+    bearing: supports
+    anchor: kibble-jd-2011
+  - claim: exam-quality-high-despite-weak-prediction
+    bearing: supports
+    anchor: kibble-jd-2011
+
+evidence_base:
+  unit: items
+  size:
+    value: 272
+    unit: items
+  additional_sizes:
+    - value: 300
+      unit: items
+      note: "examination items administered; 28 removed before analysis"
+    - value: 6
+      unit: other
+      note: "examinations: two 35-item midterms and one 80-item final in each of two semesters"
+    - value: 8
+      unit: participants
+      note: "faculty members who wrote and annotated the items and consented (of nine who taught the course)"
+  population:
+    description: >-
+      Multiple-choice items written by eight physiology faculty members for a
+      two-semester upper-level undergraduate human physiology course at the
+      Faculty of Medicine, Memorial University of Newfoundland, taken by
+      students majoring in Biochemistry, Nutrition, Dietetics or Neuroscience.
+      The article does not print the number of students.
+    age_or_stage: "Students in the third or fourth year of their undergraduate programmes"
+    age: unreported
+  context:
+    setting: "Upper-level undergraduate human physiology course, lectures and laboratory classes; multiple-choice examinations worth 80% of the grade, graded on a fixed university-wide percentage scale"
+  arms: []
+
+comparisons:
+  - id: whole-item-set
+    kind: none
+    description: "Correlations and agreement across the analysed items; no contrast between groups."
+
+observations:
+
+  - id: writer-level-vs-item-p-value
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Item difficulty"
+      source_language: "actual item difficulty"
+      measure: "Item P value (proportion of students answering correctly), correlated with the item writer's own cognitive-level label (1 knowledge, 2 comprehension, 3 application)"
+      scale: "Spearman's rho"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "examinations across one two-semester course"
+    result:
+      measure_type: correlation
+      estimate: -0.09
+      p_value: "0.14"
+      statistic: "Spearman's rho"
+      interpretation: "Not significant at the article's 5% level"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The abstract states this as the correlation with "actual student scores";
+      the Methods say actual difficulty is the item P value. All 272 items were
+      multiple choice. No confidence interval is printed.
+    source_quote: "In terms of whether the cognitive level of an item was a determinant of the outcome on a test, no significant relationships were observed between faculty members’ classifications of cognitive level and 1) actual item difficulty (ρ = −0.09, P = 0.14) or 2) item discrimination (ρ = 0.05, P = 0.42)."
+    source_location: "Results, Faculty classifications of item cognitive level (p. 397); also the abstract"
+
+  - id: writer-level-vs-discrimination
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Item discrimination"
+      source_language: "item discrimination"
+      measure: "Relative point-biserial discrimination index from the LXR testing software, correlated with the item writer's cognitive-level label"
+      scale: "Spearman's rho"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "examinations across one two-semester course"
+    result:
+      measure_type: correlation
+      estimate: 0.05
+      p_value: "0.42"
+      statistic: "Spearman's rho"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "In terms of whether the cognitive level of an item was a determinant of the outcome on a test, no significant relationships were observed between faculty members’ classifications of cognitive level and 1) actual item difficulty (ρ = −0.09, P = 0.14) or 2) item discrimination (ρ = 0.05, P = 0.42)."
+    source_location: "Results, Faculty classifications of item cognitive level (p. 397)"
+
+  - id: consensus-level-vs-item-p-value
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Item difficulty"
+      source_language: "actual item difficulty"
+      measure: "Item P value, correlated with the consensus cognitive-level label agreed by J. D. Kibble and the Course Director"
+      scale: "Spearman's rho"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "examinations across one two-semester course"
+    result:
+      measure_type: correlation
+      estimate: -0.04
+      p_value: "0.50"
+      statistic: "Spearman's rho"
+      note: "The consensus labels' correlation with item discrimination was rho = 0.06, P = 0.34."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "ers’ classifications of cognitive level and 1) actual item difficulty (ρ = −0.04, P = 0.50) or 2) item discrimination (ρ = 0.06, P = 0.34)."
+    source_location: "Results, Faculty classifications of item cognitive level (p. 398)"
+
+  - id: intended-difficulty-vs-item-p-value
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Item difficulty"
+      source_language: "actual student scores"
+      measure: "Item P value, correlated with the item writer's intended difficulty (1 easy, 2 moderate, 3 hard)"
+      scale: "Spearman's rho"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "examinations across one two-semester course"
+    result:
+      measure_type: correlation
+      estimate: -0.19
+      p_value: "< 0.01"
+      statistic: "Spearman's rho"
+      note: "The text says individual faculty members' correlations ranged from 0.07 (weaker) to -0.56 (stronger); Table 3 lists each."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Overall, faculty members’ predictions of item difficulty were modestly but significantly correlated with item P values (ρ = −0.19, P < 0.01)."
+    source_location: "Results, Faculty predictions of item difficulty level (p. 397)"
+
+  - id: intended-difficulty-hit-rate
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Accuracy of faculty difficulty predictions"
+      source_language: "successfully predicted"
+      measure: "Items whose intended difficulty matched their grade-based P-value band (easy 0.80-1.00, moderate 0.55-0.79, hard 0-0.54)"
+      scale: "percent of items correctly predicted"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "examinations across one two-semester course"
+    result:
+      measure_type: other
+      estimate: 48
+      unit: "percent of items (130 of 272)"
+      descriptives: "Easy 57 of 117 (49%), moderate 63 of 116 (54%), hard 10 of 39 (26%)"
+      note: "Faculty members differed in their rates of successful prediction (chi-square = 16.84, P = 0.02), from 27% to 75%."
+    moderators:
+      reported:
+        - variable: "Faculty member"
+          relationship: "Individual success rates ranged from 27% to 75%"
+          source_quote: "Individually, faculty members differed significantly in overall rates of successful prediction (χ2 = 16.84, P = 0.02)."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A hit rate, not an effect; no chance rate or agreement statistic is
+      printed for the prediction against the banded P values.
+    source_quote: "Compared with the grade-based performance categories, faculty members as a group successfully predicted 130 of 272 items (48%): 57 of 117 easy items (49%), 63 of 116 moderate items (54%), and 10 of 39 hard items (26%)."
+    source_location: "Results, Faculty predictions of item difficulty level (p. 397); Table 2"
+
+  - id: level-label-agreement-percent
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Agreement on cognitive-level labels"
+      source_language: "The classifications by item writers and the consensus raters matched"
+      measure: "Item writer's own Bloom's level against the consensus level of two raters (J. D. Kibble and the Course Director)"
+      scale: "percent of items matched"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "item classification, before and after the examinations"
+    result:
+      measure_type: reliability
+      estimate: 57
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "item writer against a two-rater consensus score"
+      descriptives: "155 of 272 items matched: 88 at knowledge, 32 at comprehension, 35 at application"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The classifications by item writers and the consensus raters matched on only 155 of 272 items (57%): 88 items matched at the knowledge level, 32 items matched at the comprehension level, and 35 items matched at the application level"
+    source_location: "Results, Faculty classifications of item cognitive level (p. 397)"
+
+  - id: level-label-agreement-kappa
+    sample:
+      value: 272
+      unit: items
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Agreement on cognitive-level labels"
+      source_language: "agreement between faculty classifications of the item cognitive level and consensus taxonomic scores"
+      measure: "Item writer's own Bloom's level against the consensus level of two raters"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "item classification, before and after the examinations"
+    result:
+      measure_type: reliability
+      estimate: 0.33
+      p_value: "< 0.01"
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+        form: "item writer against a two-rater consensus score"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      Quote taken from the PDF page image (p. 397); the text layer renders the
+      kappa symbol as an unreadable glyph. The agreement between the two
+      consensus raters before they met is not printed.
+    source_quote: "35 items matched at the application level (κ = 0.33, P < 0.01)."
+    source_location: "Results, Faculty classifications of item cognitive level (p. 397)"
+
+  - id: exam-alpha-range
+    comparison_ref: whole-item-set
+    outcome:
+      construct: "Examination internal consistency"
+      source_language: "Test reliability"
+      measure: "Cronbach's alpha of student scores on each of the six examinations (35, 35, 80, 35, 35 and 80 items)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each examination"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.70
+        upper: 0.92
+        over:
+          value: 6
+          unit: other
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      descriptives: "Table 1: 0.70, 0.70, 0.92, 0.79, 0.81, 0.92 for examinations 1-6"
+      interpretation: "Lowest for the 35-item midterms, highest for the 80-item finals"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The range is over six examinations, not scales; `over.unit` is `other`
+      for that reason. Each examination's alpha is in Table 1.
+    source_quote: "Test reliability ranged from 0.70 in the midterm examinations to 0.92 for the final examinations at the end of semester."
+    source_location: "Results (p. 397); Table 1"
+
+not_yet_extracted:
+  - "Table 1 examination medians and means (median 71-83%, mean 70-82%); overall mean examination score 75%"
+  - "Mean item discrimination (point biserial) 0.37 across the examinations (abstract)"
+  - "Writer's cognitive level against writer's intended difficulty, rho = 0.63, P < 0.01, and the Fig. 3 cross-tabulation"
+  - "Table 3: per-faculty-member rho and success rates by difficulty category"
+  - "Table 2: distribution of actual item difficulty (easy 105, moderate 123, hard 44 of 272)"
+  - "Number of students taking the examinations: not printed"

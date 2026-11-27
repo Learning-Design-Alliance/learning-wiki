@@ -1,0 +1,351 @@
+# Marsh & Hau (2003): the big-fish-little-pond effect (BFLPE) on academic
+# self-concept in PISA 2000 samples of 15-year-olds from 26 countries.
+#
+# One cross-sectional data set analysed two ways, and both are recorded:
+#   * a three-level model (students in schools in countries, Table 2), whose
+#     school-average achievement coefficient is -.206;
+#   * a separate multilevel model per country (Table 1), whose 26 BFLPE
+#     coefficients have a mean of -.20 and an SD of .08, ranging from -.02 to
+#     -.36, significantly negative in 24 countries and never positive.
+# The two are kept apart: the mean of 26 country coefficients is not the pooled
+# coefficient of the three-level model, though the authors note they agree.
+#
+# Reliability: the authors print coefficient alpha for their three-item
+# academic self-concept scale per country (Table 1), summarised as a mean of
+# .76 (SD .04) and singled out for Australia (.74). Both are recorded. No
+# reliability is printed for the PISA achievement tests.
+#
+# Age: the sample is defined as "15-year-olds" (PISA's sampling frame). The
+# article prints no age minimum, maximum, mean or SD, so `age: unreported`
+# and the words stay in `age_or_stage`.
+#
+# Read from the publisher PDF. The text layer interleaves the two columns on
+# pp. 370-373 and renders "=" and the minus sign as glyphs; the source_quote
+# of every observation except `bflpe-three-level-model` was therefore copied
+# from the page images (pp. 364, 370, 372, 373), in the article's own
+# characters, and will not be found verbatim in the pdftotext output.
+#
+# Discrepancy in the source: the Table 1 note gives 3,849 schools; the Table 2
+# note and the text give 3,851. The text also gives the individual-achievement
+# linear term as .384 on p. 373 against .378 in Table 2 and on p. 372.
+
+schema_version: 2
+
+study:
+  key: marsh-2003
+  citation: "Marsh, H. W., & Hau, K.-T. (2003). Big-fish-little-pond effect on academic self-concept: A cross-cultural (26-country) test of the negative effects of academically selective schools. American Psychologist, 58(5), 364–376."
+  doi: "10.1037/0003-066x.58.5.364"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of the PISA 2000 database: cross-sectional,
+      nationally representative samples, "correlational data collected at a
+      single point in time". Academic self-concept regressed on individual
+      achievement (linear and quadratic), school-average achievement and their
+      interactions, in a three-level multilevel model (students, schools,
+      countries) and in a separate multilevel model for each country. All
+      measures z-scored across the whole sample; school-average achievement is
+      the mean of students' achievement scores in each school, not
+      restandardised. Sample weights rescaled to an average of 1.0.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: bflpe-negative-school-average-achievement-26-countries
+    bearing: supports
+    anchor: marsh-2003
+  - claim: individual-achievement-positive-academic-self-concept
+    bearing: supports
+    anchor: marsh-2003
+
+evidence_base:
+  unit: participants
+  size:
+    value: 103558
+    unit: participants
+  additional_sizes:
+    - value: 3851
+      unit: schools
+      note: "schools, per the Table 2 note and the text; the Table 1 note gives 3,849"
+    - value: 26
+      unit: other
+      note: "countries, of the 32 in PISA 2000, that administered the Cross Curriculum Competencies questionnaire carrying the self-concept items"
+    - value: 104186
+      unit: participants
+      note: "students who completed the Cross Curriculum Competencies questionnaire, before listwise deletion for missing data"
+  population:
+    description: >-
+      Nationally representative samples of 15-year-old students from 26
+      countries in the PISA 2000 database, about 4,000 per country (from 297
+      in Liechtenstein to 6,316 in Russia; mean 3,983).
+    age_or_stage: "15-year-olds (PISA 2000 sampling frame)"
+    age: unreported
+  context:
+    setting: "High schools in 26 countries; PISA 2000 paper-and-pencil achievement tests and the optional Cross Curriculum Competencies questionnaire"
+  variation:
+    - dimension: "Country"
+      distribution: "26 countries (Table 1): Australia, Austria, Belgium, Brazil, Czech Republic, Denmark, Finland, Germany, Hungary, Iceland, Ireland, Italy, Korea, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, New Zealand, Norway, Portugal, Russia, Sweden, Switzerland, United Kingdom, United States"
+  arms:
+    - id: australia
+      description: "The Australian national sample: 4,916 students in 223 schools (Table 1). Australia is where the SDQII, the source of the self-concept items, was developed."
+      size:
+        value: 4916
+        unit: participants
+
+comparisons:
+  - id: whole-sample-three-level
+    kind: none
+    description: "Fixed effects of the three-level model over all 26 countries; no contrast between groups."
+  - id: country-specific-models
+    kind: none
+    description: "The 26 separate country-level multilevel models of Table 1, summarised across countries; no contrast between groups."
+
+observations:
+
+  - id: bflpe-three-level-model
+    sample:
+      value: 103558
+      unit: participants
+    comparison_ref: whole-sample-three-level
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "academic self-concept"
+      measure: "Three items from the 10-item academic self-concept scale of the SDQII, in the PISA 2000 Cross Curriculum Competencies questionnaire"
+      scale: "standardised (M = 0, SD = 1) self-concept regressed on school-average achievement, in the metric of individual achievement"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000, single cross-sectional measurement"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.206
+      standard_error: 0.019
+      model: >-
+        Three-level model (students, schools, countries), with individual
+        achievement linear (.378, SE .023) and quadratic (.069, SE .003) terms
+        and their interactions with school-average achievement. The
+        country-level random effect of school-average achievement was .007
+        (SE .002), small but statistically significant.
+      interpretation: "Students in a school whose average achievement is one SD above the mean have academic self-concepts .206 SD lower, holding their own achievement constant"
+    moderators:
+      reported:
+        - variable: "Country"
+          relationship: "The effect of school-average achievement varied significantly from country to country (random effect .007)"
+          source_quote: "In Table 2 the random effect associated with country for the school-average achievement effect (.007) is small but statistically significant."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Correlational, single time point: the authors themselves say predictions
+      based on the BFLPE are causal but these results are not. The quoted
+      moderator sentence comes from the page image of p. 373; its pdftotext
+      rendering is interleaved with the other column.
+    source_quote: "whereas the effects of school-average achievement are less substantial and negative (–.206)."
+    source_location: "p. 372, Results and Discussion; Table 2"
+
+  - id: bflpe-mean-across-countries
+    sample:
+      value: 26
+      unit: other
+    comparison_ref: country-specific-models
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "academic self-concept"
+      measure: "Three SDQII academic self-concept items, PISA 2000"
+      scale: "mean of 26 country-specific school-average achievement coefficients"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000, single cross-sectional measurement"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.20
+      model: >-
+        Mean over the 26 separate country models (Table 1) of the
+        school-average achievement coefficient; SD across countries .08, median
+        -.20. Each country model held individual achievement (linear and
+        quadratic) constant.
+      interpretation: "Negative in all 26 countries"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      `sample` counts countries, not students: this is a summary over 26
+      country coefficients. The text on p. 373 prints the SD as "(–.08)", with
+      a minus sign; Table 1 and the abstract print .08.
+    source_quote: "Consistent with the BFLPE, the effects of school-average achievement were negative in all 26 countries (M beta = –.20, SD = .08), demonstrating the BFLPE’s cross-cultural generalizability."
+    source_location: "Abstract, p. 364; Table 1, M and SD rows"
+
+  - id: bflpe-range-across-countries
+    sample:
+      value: 26
+      unit: other
+    comparison_ref: country-specific-models
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "academic self-concept"
+      measure: "Three SDQII academic self-concept items, PISA 2000"
+      scale: "country-specific school-average achievement coefficients"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000, single cross-sectional measurement"
+    result:
+      measure_type: regression_coefficient
+      estimate_range:
+        lower: -0.36
+        upper: -0.02
+        over:
+          value: 26
+          unit: other
+      p_value: "< .05 in 24 of 26 countries"
+      interpretation: "Significantly negative in 24 countries, nonsignificantly negative in the other 2 (Hungary -.05, Korea -.02 in Table 1), positive in none"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "`over` counts countries."
+    source_quote: "Across the 26 countries, the BFLPE varied from –.02 to –.36 (Table 1). The effect of school-average achievement was significantly negative in 24 of 26 countries and nonsignificantly negative in the remaining 2 countries."
+    source_location: "p. 373, Results and Discussion; Table 1"
+
+  - id: individual-achievement-three-level-model
+    sample:
+      value: 103558
+      unit: participants
+    comparison_ref: whole-sample-three-level
+    outcome:
+      construct: "Academic self-concept"
+      source_language: "academic self-concept"
+      measure: "Three SDQII academic self-concept items, PISA 2000"
+      scale: "standardised self-concept regressed on standardised individual achievement (linear term)"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000, single cross-sectional measurement"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.378
+      standard_error: 0.023
+      model: >-
+        Same three-level model as bflpe-three-level-model. In the 26 separate
+        country models the individual-achievement effect was significant in
+        every country and ranged from .14 to .63 (M .38, SD .11). Its absolute
+        size exceeded that of the BFLPE in 25 of 26 countries (all but the
+        Netherlands).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The text on p. 373 restates this term as .384; Table 2 and p. 372 give
+      .378, which is recorded.
+    source_quote: "Consistent with a priori predictions, the effects of individual student achievement are substantial and positive (.378), whereas the effects of school-average achievement are less substantial and negative (–.206)."
+    source_location: "p. 372, Results and Discussion; Table 2"
+
+  - id: self-concept-alpha-mean
+    sample:
+      value: 26
+      unit: other
+    comparison_ref: country-specific-models
+    outcome:
+      construct: "Reliability of the academic self-concept scale"
+      source_language: "reliability for this scale"
+      measure: "Three best items from the 10-item SDQII academic self-concept scale"
+      scale: "coefficient alpha, mean over 26 countries"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000"
+    result:
+      measure_type: reliability
+      estimate: 0.76
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient α, computed per country; mean across the 26 countries, SD .04"
+      interpretation: "Described as consistently reasonable across all 26 countries, given the brevity of the scale"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A mean of 26 per-country alphas, which Table 1 lists individually. No
+      correction for unreliability is applied to the regression coefficients.
+    source_quote: "Nevertheless, the reliability for this scale was consistently reasonable across all 26 countries (mean coefficient α = .76, SD = .04; see Table 1), particularly given the brevity of the scale."
+    source_location: "p. 370, Method; Table 1"
+
+  - id: self-concept-alpha-australia
+    sample:
+      value: 4916
+      unit: participants
+    arm_ref: australia
+    outcome:
+      construct: "Reliability of the academic self-concept scale"
+      source_language: "reliability of responses in Australia"
+      measure: "Three best items from the 10-item SDQII academic self-concept scale"
+      scale: "coefficient alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "PISA 2000"
+    result:
+      measure_type: reliability
+      estimate: 0.74
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient α"
+      interpretation: "Did not differ systematically from the mean across countries"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "It is interesting to note that the reliability of responses in Australia (.74), the country in which the SDQII was developed, did not differ systematically from the mean reliability across all countries."
+    source_location: "p. 370, Method; Table 1, Australia row"
+
+not_yet_extracted:
+  - "Table 1 per-country coefficients and alphas for the other 25 countries (individual achievement linear and quadratic terms, BFLPE, alpha)."
+  - "Table 2 interaction terms: IAch-L x SAAch .011 (SE .008), not significant; IAch-Q x SAAch .008 (SE .003), significant but small; the BFLPE did not vary linearly with individual achievement."
+  - "Table 2 remaining random effects (country, school and student intercepts; individual-achievement slopes at Levels 2 and 3)."
+  - "Prior single-country BFLPE studies reviewed in the introduction (e.g. Marsh, Kong & Hau 2000, bs -.22 to -.24): their figures belong to those studies."

@@ -1,0 +1,341 @@
+# Donner & Hardy (2015): piecewise power laws in 25,280 individual learning
+# curves from four Lumosity tasks.
+#
+# Read from a text layer of the open-access published article (Psychonomic
+# Bulletin & Review 22:1308-1319), whose front matter prints the DOI
+# 10.3758/s13423-015-0811-x. Parts of the text layer have scrambled spacing
+# ("n =2 5 , 2 8 0l e a r n i n g curves", "R2 >. 9 9f o ra l l tasks",
+# "R2 =. 0 7 2"); no page image was available, so no figure is taken from a
+# scrambled passage. The sample counts are taken from the abstract and the
+# data-processing paragraph, which print them cleanly.
+#
+# What the record holds and what it does not:
+#
+#   * The authors' own fitted results are recorded as printed: the share of
+#     fitted transitions followed by a drop, the share in which the
+#     post-transition piece overtook the pre-transition one within 50
+#     exercises (printed only as "over 80 %", so a bound), the variance
+#     explained by the piecewise and single power-law models, and the age
+#     coefficients in the regression on the number of transitions.
+#   * Transitions are breakpoints of a fitted piecewise power law, chosen by
+#     the authors' strict pairwise AICc procedure; they are not observed
+#     strategy reports. Every observation about transitions is about fitted
+#     breakpoints.
+#   * `population.age` holds the figures the article prints for the 13,933
+#     participants who gave demographics: an age range of 18-80 and a mean of
+#     50.92. The article writes "50.92 ± 12.94 years" without saying whether
+#     12.94 is an SD, so it is not recorded as one.
+#   * No reliability coefficient is printed for the task scores. The authors
+#     estimate measurement-noise variance instead (sigma squared = 0.096, estimated
+#     from the real data), which is not a reliability coefficient and is not
+#     recorded as one.
+#   * Scores are rank-based inverse-normal transformed within task, so every
+#     figure is on that transformed scale.
+
+schema_version: 2
+
+study:
+  key: donner-2015
+  citation: "Donner, Y., & Hardy, J. L. (2015). Piecewise power laws in individual learning curves. Psychonomic Bulletin & Review, 22, 1308–1319."
+  doi: "10.3758/s13423-015-0811-x"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of learning curves logged by the online
+      cognitive-training program Lumosity on four tasks (one-back speed of
+      processing, two-back memory updating, Eriksen flanker, verbal fluency).
+      The first 500 scores of every curve with at least 500 completions were
+      rank-normalised within task, cleaned of low-score outliers, and fitted
+      with a single four-parameter power law and with piecewise power laws of
+      up to ten pieces (windows of 50 or more scores); the number of pieces was
+      chosen by AICc followed by a strict pairwise criterion (spAICc), selected
+      in a simulation study. Transition properties were computed against
+      position-matched windows and a shuffled-piece control; linear regressions
+      related demographics and curve properties to the number of transitions.
+      No condition was assigned.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: transition-dynamics-drop-then-surpass
+    bearing: supports
+    anchor: donner-2015-2
+  - claim: ppl-fits-individual-learning-curves-better-than-single-pl
+    bearing: supports
+    anchor: donner-2015
+  - claim: ppl-fits-individual-learning-curves-better-than-single-pl
+    bearing: supports
+    anchor: donner-2015-2
+  - claim: age-negatively-associated-with-transitions
+    bearing: supports
+    anchor: donner-2015
+
+evidence_base:
+  unit: participants
+  size:
+    value: 22460
+    unit: participants
+  additional_sizes:
+    - value: 25280
+      unit: other
+      note: "individual learning curves of 500 scores each (one curve per participant per task); the unit most analyses are over"
+    - value: 13933
+      unit: participants
+      note: "participants who provided gender, education level, country and age; the demographic analyses rest on these"
+  population:
+    description: >-
+      Registered users of Lumosity worldwide with at least 500 completions of a
+      task. Of the 13,933 who gave demographics, 73.6% female, 57.8% gave an
+      academic degree, over 65% gave the USA as their country. 91.4% of
+      participants contributed a curve for one task only.
+    age_or_stage: "Adults; ages between 18 and 80 among those who reported demographics"
+    age:
+      unit: years
+      min: 18
+      max: 80
+      mean: 50.92
+      note: "Among the 13,933 participants who provided demographics. Printed as 50.92 ± 12.94 years overall (females 52.2 ± 12.36, males 47.32 ± 13.8), without saying what the ± figure is; it is not recorded as an SD. The range may be a reporting bound rather than the observed extremes."
+  context:
+    setting: "Self-directed online cognitive-training games outside any course; scores are correct answers in 45 s (one-back, two-back, flanker) or words generated in 60 s (verbal fluency)"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Model fits and fitted-transition properties over all 25,280 curves, and regressions over the participants with demographics; no contrast between configurations."
+
+observations:
+
+  - id: drop-at-transition-share
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Immediate performance change at a fitted strategy transition"
+      source_language: "Immediately posttransition, performance dropped"
+      measure: "Whether the fitted post-transition power-law piece started below the pre-transition piece at the transition point, over every fitted transition"
+      scale: "percent of fitted transitions"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "at the transition point, within the first 500 completions of a task"
+    result:
+      measure_type: probability
+      estimate: 78
+      unit: "percent of fitted transitions followed by an immediate drop"
+      interpretation: "No interval and no per-task value printed; the number of transitions is not printed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A share of fitted breakpoints, so it depends on the fitting and model
+      selection procedure. The authors' averaged transition curves (Fig. 2a)
+      subtract a shuffled-piece control; the article does not say whether the
+      78% is computed against such a control.
+    source_quote: "Immediately posttransition, performance dropped in 78 % of the transitions, but within 50 exercises, the posttransition PL exceeded the pretransition PL in over 80 % of the transitions."
+    source_location: "Results, Properties of transitions, p. 1313; Fig. 2b"
+
+  - id: surpass-within-50-share
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Post-transition piece overtaking the pre-transition piece"
+      source_language: "the posttransition PL exceeded the pretransition PL"
+      measure: "For each fitted transition, the number of exercises it would take the post-transition power law to exceed the pre-transition power law; share doing so within 50 exercises"
+      scale: "percent of fitted transitions"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "within 50 exercises after the transition"
+      offset:
+        value: 50
+        unit: sessions
+        from: "the transition point; one session is one exercise completion"
+    result:
+      measure_type: probability
+      bound:
+        operator: ">"
+        value: 80
+      unit: "percent of fitted transitions"
+      interpretation: "Printed only as 'over 80 %'; a comparison of fitted curves (the post-transition fit against the pre-transition fit extrapolated), not of raw scores"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Immediately posttransition, performance dropped in 78 % of the transitions, but within 50 exercises, the posttransition PL exceeded the pretransition PL in over 80 % of the transitions."
+    source_location: "Results, Properties of transitions, p. 1313; Fig. 2b"
+
+  - id: variance-explained-ppl
+    sample:
+      value: 25280
+      unit: other
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Fit of a piecewise power law to individual learning curves"
+      source_language: "noise-subtracted variance ... explained"
+      measure: "Variance of the rank-normalised scores explained by the four-parameter piecewise power law, after a degrees-of-freedom correction and subtraction of the estimated measurement noise, all tasks"
+      scale: "percent of noise-subtracted variance"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first 500 completions of each curve"
+    result:
+      measure_type: other
+      estimate: 90.74
+      unit: "percent of noise-subtracted variance explained"
+      statistic: "likelihood-ratio test of PPL against a single power law, all tasks: chi-square(94205) = 534,030"
+      p_value: "ps < 10^-7000 for all tests after Bonferroni correction"
+      model: >-
+        Four-parameter piecewise power law, up to ten pieces per curve, pieces
+        chosen by spAICc. By task (Table 4): two-back 93.75, one-back 71.66,
+        flanker 88.93, verbal fluency 94.97. Three-parameter PPL 90.57;
+        three-parameter piecewise exponential 90.43. PPL explained 33.99% of
+        the variance remaining after the single power law.
+      interpretation: "The authors' fitted result; the comparison figures are the single power law (85.97) and an autoregressive model (33.88)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The PPL model explained 90.74 % of the learning variance (overall variance minus noise; see the Method), as compared to 85.97 % for PL1, and accounted for over one-third of the variance remaining in PL1."
+    source_location: "Discussion, p. 1316; Results, Piecewise power laws, p. 1312; Table 4, All row"
+
+  - id: variance-explained-single-pl
+    sample:
+      value: 25280
+      unit: other
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Fit of a single power law to individual learning curves"
+      source_language: "noise-subtracted variance ... explained"
+      measure: "Variance of the rank-normalised scores explained by one four-parameter power law per curve, after a degrees-of-freedom correction and subtraction of the estimated measurement noise, all tasks"
+      scale: "percent of noise-subtracted variance"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first 500 completions of each curve"
+    result:
+      measure_type: other
+      estimate: 85.97
+      unit: "percent of noise-subtracted variance explained"
+      model: >-
+        Single four-parameter power law f(t) = u - a(t + d)^c. By task
+        (Table 4): two-back 88.79, one-back 63.49, flanker 83.49, verbal
+        fluency 91.16. The Results text rounds the overall figure to 86%.
+        The autoregressive model explained 33.88 (33.9 in the text).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "All 33.88 85.97 90.74 78.78 33.99"
+    source_location: "Table 4, All row (columns AR, PL1, PPL, ΔPL1, ΔPPL), p. 1314"
+
+  - id: age-transitions-female
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Number of fitted transitions in a learning curve"
+      source_language: "the number of PL transitions"
+      measure: "Number of piecewise power-law transitions per curve, regressed on performance and improvement (or skill and growth), education, gender and age by gender"
+      scale: "transitions per curve, per year of age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first 500 completions of each curve; cross-sectional in age"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.009
+      standard_error: 0.0008
+      statistic: "t = −10.756"
+      p_value: "< 10^-15"
+      model: >-
+        Linear regression of the number of transitions (Table 6), with
+        absolute performance and improvement (or the decorrelated skill and
+        growth components) as controls, education level, gender, and age
+        entered separately for females and males. Unstandardised. The
+        coefficient for males is -0.012 (SE 0.0012).
+      interpretation: "Fewer transitions with age after accounting for absolute score and improvement"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The analysed n of the regression is not printed for Table 6. Its R2 is
+      in a scrambled passage of the text layer and is not recorded. Age is
+      self-reported.
+    source_quote: "Age for female −0.009 0.0008 −10.756 <10 −15"
+    source_location: "Table 6, p. 1317; Results, Associations between demographic variables and learning curve properties"
+
+  - id: age-transitions-male
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Number of fitted transitions in a learning curve"
+      source_language: "the number of PL transitions"
+      measure: "Number of piecewise power-law transitions per curve, regressed on performance and improvement (or skill and growth), education, gender and age by gender"
+      scale: "transitions per curve, per year of age"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first 500 completions of each curve; cross-sectional in age"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.012
+      standard_error: 0.0012
+      statistic: "t = −9.925"
+      p_value: "< 10^-15"
+      model: "The same regression as the female coefficient (Table 6); the age term for males."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Age for male −0.012 0.0012 −9.925 <10 −15"
+    source_location: "Table 6, p. 1317"
+
+not_yet_extracted:
+  - "Average learning curves fitted by a single power law, R2 above .99 for all tasks: the passage is scrambled in the text layer ('R2 >. 9 9f o ra l l tasks') and was not recorded"
+  - "R2 of the Table 6 regression: scrambled in the text layer ('R2 =. 0 7 2') and not recorded"
+  - "Per-task likelihood-ratio tests of PPL against a single power law: chi-square(1785) = 13,222, (8520) = 61,616, (9020) = 61,975, (74880) = 367,681 (Results, p. 1312)"
+  - "Skill and growth coefficients on the number of transitions: skill 0.05 (SE 0.0052), growth 0.382 (SE 0.0139); performance -0.51 (SE 0.023) and improvement 2.14 (SE 0.074) in the alternative parameterisation (Table 6)"
+  - "Correlations between the immediate score change at a transition and the change 25, 50, 75 and 100 exercises later: rs = .438, .303, .24, .2; slopes -0.2, -0.15, -0.12, -0.11 (Results, p. 1314)"
+  - "First-piece durations in multipiece curves: medians of approximately 125 exercises and 2-3 months, printed as approximate (Results, p. 1314; Fig. 3)"
+  - "Performance-improvement correlation r(15684) = .8148, and Table 5 regressions of performance and improvement on education, gender and age"
+  - "Simulation study of model selection (Tables 2 and 3): spAICc false-positive rate 0.1790 against 0.4840 for AICc, and accumulative prediction error changes"
