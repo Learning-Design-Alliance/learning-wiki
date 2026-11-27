@@ -1,0 +1,353 @@
+# Cen, Koedinger & Junker (2008): two IRT models for conjunctive skills,
+# compared on the EAPS algebra data.
+#
+# A three-page ITS short paper. It defines the Additive Factor Model (AFM: a
+# sum of a student proficiency, skill difficulties and skill learning rates on
+# the logit) and the Conjunctive Factor Model (CFM: a product over required
+# skills), fits both by penalised maximum likelihood (PMLE, lambda = 1), and
+# compares them by cross-validation error on a simulated data set (Table 1)
+# and on a real assessment data set, EAPS (Table 2).
+#
+# THE ARMS ARE MODELS, NOT CONDITIONS. No learner was assigned anything. AFM-P
+# and CFM-P are two model configurations fitted to the same 247 students'
+# responses; each figure below is the paper's own printed fit statistic or
+# fitted parameter for one model, so each observation names its model with
+# arm_ref. The learning term was removed from both models for this data set
+# (the students had no repeated practice), so the skill parameters here are
+# difficulties only, with no learning rates.
+#
+# Only the EAPS analysis is recorded. Table 1 (simulated data drawn from a CFM
+# with 100 student parameters, 3 skills and 7 items) is a different, synthetic
+# sample; it is listed in not_yet_extracted rather than mixed into this
+# evidence base.
+#
+# CVMean and CVSd are recorded as `mean` with `sd`, as printed. The paper does
+# not say which error is averaged or over how many folds. The beta-hat values
+# are printed both in probability and in logit; the logit values (the fitted
+# parameters) are recorded, and the probability versions are kept in `note`
+# as printed, not recomputed.
+#
+# Read from the publisher's chapter PDF (text layer). Table 2 was checked
+# against the page image (PDF page 3, p. 798); the text layer agrees with it,
+# including the minus signs.
+#
+# Age: the article prints no age figure ("247 U.S. algebra students"), so
+# age: unreported. No reliability or agreement coefficient is printed.
+
+schema_version: 2
+
+study:
+  key: cen-2008
+  citation: "Cen, H., Koedinger, K., & Junker, B. (2008). Comparing two IRT models for conjunctive skills. In Intelligent Tutoring Systems: 9th International Conference, ITS 2008, Lecture Notes in Computer Science, vol. 5091 (pp. 796–798). Springer."
+  doi: "10.1007/978-3-540-69132-7_111"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary model-comparison analysis of an existing assessment data set
+      (EAPS, from a difficulty factor study of U.S. algebra students). Two
+      item-response models, AFM and CFM, each fitted by penalised maximum
+      likelihood (normal prior on student proficiency, lambda = 1, BFGS) with
+      the learning term removed, and compared by cross-validation error and by
+      the interpretability of the fitted skill parameters. No conditions were
+      assigned; the paper also reports a simulation, not recorded here.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: afm-acts-conjunctive-eaps-real-data
+    bearing: supports
+    anchor: cen-et-al-2008
+
+evidence_base:
+  unit: participants
+  size:
+    value: 247
+    unit: participants
+  additional_sizes:
+    - value: 1976
+      unit: other
+      note: "observations (student responses) in the EAPS data set"
+    - value: 96
+      unit: items
+      note: "distinctive items"
+    - value: 3
+      unit: other
+      note: "skills, in a simplification of the original study's skill coding"
+  population:
+    description: >-
+      U.S. algebra students from a difficulty factor study (the paper cites
+      Koedinger & Nathan for it). No school, grade or demographic detail is
+      given.
+    age_or_stage: "Algebra students; no grade or age stated."
+    age: unreported
+  context:
+    setting: "Assessment data (EAPS); students were not exposed to repeated learning opportunities"
+  arms:
+    - id: afm-p
+      description: "Additive Factor Model fitted by penalised maximum likelihood (AFM-P), learning term removed: the logit of a correct response is student proficiency plus the sum of the required skills' parameters."
+    - id: cfm-p
+      description: "Conjunctive Factor Model fitted by penalised maximum likelihood (CFM-P), learning term removed: the probability of a correct response is the product over required skills of a logistic in student proficiency plus that skill's parameter."
+
+comparisons:
+  - id: afm-vs-cfm
+    kind: other
+    index_arm: cfm-p
+    reference_arm: afm-p
+    description: "Two models fitted to the same EAPS responses and compared by cross-validation error; the paper prints each model's figures and no difference statistic."
+
+observations:
+
+  - id: cv-error-afm-p
+    sample:
+      value: 1976
+      unit: other
+    arm_ref: afm-p
+    outcome:
+      construct: "Model prediction error"
+      source_language: "CVMean"
+      measure: "Cross-validation error of AFM-P on the EAPS data; the error metric and number of folds are not stated"
+      scale: "mean cross-validation error"
+      direction: lower-is-better
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: mean
+      estimate: 0.202
+      sd: 0.142
+      unit: "cross-validation error (CVMean; SD printed as CVSd)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      A model fit statistic, not a learner outcome. The paper does not define
+      the error or the cross-validation scheme.
+    source_quote: "AFM-P 0.202 0.142 (0.35, 0.47, 0.43) (-0.63, -0.14, -0.3)"
+    source_location: "Table 2, p. 798"
+
+  - id: cv-error-cfm-p
+    sample:
+      value: 1976
+      unit: other
+    arm_ref: cfm-p
+    outcome:
+      construct: "Model prediction error"
+      source_language: "CVMean"
+      measure: "Cross-validation error of CFM-P on the EAPS data; the error metric and number of folds are not stated"
+      scale: "mean cross-validation error"
+      direction: lower-is-better
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: mean
+      estimate: 0.187
+      sd: 0.221
+      unit: "cross-validation error (CVMean; SD printed as CVSd)"
+      interpretation: "The authors: 'In the real data set, CFM-P is not clearly better.'"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      A model fit statistic, not a learner outcome. No test of the difference
+      from AFM-P is reported.
+    source_quote: "CFM-P 0.187 0.221 (0.61, 0.7, 0.67) (0.43, 0.85, 0.7)"
+    source_location: "Table 2, p. 798"
+
+  - id: afm-p-skill1-logit
+    arm_ref: afm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted AFM-P parameter for the first of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.63
+      note: "Printed in probability as 0.35."
+      interpretation: "All three AFM-P skill estimates are negative, which the authors read as AFM-P 'essentially performing as a conjunctive model'."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval. The paper does not name the three skills."
+    source_quote: "AFM-P 0.202 0.142 (0.35, 0.47, 0.43) (-0.63, -0.14, -0.3)"
+    source_location: "Table 2, p. 798"
+
+  - id: afm-p-skill2-logit
+    arm_ref: afm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted AFM-P parameter for the second of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.14
+      note: "Printed in probability as 0.47."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval."
+    source_quote: "AFM-P 0.202 0.142 (0.35, 0.47, 0.43) (-0.63, -0.14, -0.3)"
+    source_location: "Table 2, p. 798"
+
+  - id: afm-p-skill3-logit
+    arm_ref: afm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted AFM-P parameter for the third of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.3
+      note: "Printed in probability as 0.43."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval."
+    source_quote: "AFM-P 0.202 0.142 (0.35, 0.47, 0.43) (-0.63, -0.14, -0.3)"
+    source_location: "Table 2, p. 798"
+
+  - id: cfm-p-skill1-logit
+    arm_ref: cfm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted CFM-P parameter for the first of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.43
+      note: "Printed in probability as 0.61."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval."
+    source_quote: "CFM-P 0.187 0.221 (0.61, 0.7, 0.67) (0.43, 0.85, 0.7)"
+    source_location: "Table 2, p. 798"
+
+  - id: cfm-p-skill2-logit
+    arm_ref: cfm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted CFM-P parameter for the second of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.85
+      note: "Printed in probability as 0.7."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval."
+    source_quote: "CFM-P 0.187 0.221 (0.61, 0.7, 0.67) (0.43, 0.85, 0.7)"
+    source_location: "Table 2, p. 798"
+
+  - id: cfm-p-skill3-logit
+    arm_ref: cfm-p
+    outcome:
+      construct: "Skill parameter (easiness)"
+      source_language: "β̂ in logit"
+      measure: "Fitted CFM-P parameter for the third of the three skills, EAPS data"
+      scale: "logit"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "single assessment; no time dimension"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.7
+      note: "Printed in probability as 0.67."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "A fitted parameter as printed; no standard error or interval."
+    source_quote: "CFM-P 0.187 0.221 (0.61, 0.7, 0.67) (0.43, 0.85, 0.7)"
+    source_location: "Table 2, p. 798"
+
+not_yet_extracted:
+  - "Table 1, simulated data (CFM-generated, 100 student parameters, 3 skills, 7 items, skill probabilities .1, .5, .9): CVMean 0.120 (CVSd 0.281) for AFM-P and 0.111 (0.174) for CFM-P, with fitted skill parameters. A synthetic sample, different from the EAPS evidence base here; it bears on claims/cfm-beats-afm-simulated-conjunctive-data and would be its own record."
+  - "The simulation's three other skill-probability sets ((.1, .1, .1), (.4, .5, .6), (.9, .9, .9)) are described only in words; no figures are printed for them."
