@@ -1,0 +1,443 @@
+# Cutrona, Russell & Jones (1984), Study 1: cross-situational consistency of
+# attributions on the Attributional Style Questionnaire (ASQ), 1,133 students.
+#
+# Study 2 of the same article is a different sample (85 women assessed in
+# pregnancy and postpartum) and is its own record, cutrona-1984-study2.
+#
+# Read from a scanned repository copy whose text layer is OCR: "intemality" for
+# "internality", "A" for the normed fit index Delta, and escaped brackets. Quotes
+# are copied from that text with the escapes dropped. Table 1 survives as
+# column runs (".33 .59 .62 / .66" under "Intemality Stability Globality / Total
+# score"); its row order is the column order, and the text confirms internality
+# is the lowest alpha. Tables 2 and 3 (item correlations) are too garbled to
+# read and are not recorded.
+#
+# The wiki's claim pages cite this article as "Cutrona 1985"; Crossref and the
+# article's copyright line give 1984 (vol. 47, no. 5, November 1984).
+
+schema_version: 2
+
+study:
+  key: cutrona-1984-study1
+  citation: "Cutrona, C. E., Russell, D., & Jones, R. D. (1984). Cross-situational consistency in causal attributions: Does attributional style exist? Journal of Personality and Social Psychology, 47(5), 1043–1058."
+  doi: "10.1037/0022-3514.47.5.1043"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional questionnaire study. Internal consistency of the ASQ's
+      six negative events, correlations with the Beck Depression Inventory,
+      and confirmatory factor analyses (LISREL V, maximum likelihood) testing
+      whether attributions are consistent across situations; repeated for a
+      subsample selected as highly consistent on three of the six events.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: asq-weak-reliability-validity-study1
+    bearing: supports
+    anchor: cutrona-1985
+  - claim: internality-weakest-consistency-dimension
+    bearing: supports
+    anchor: cutrona-1985
+  - claim: consistent-subsample-still-situation-specific
+    bearing: supports
+    anchor: cutrona-1985
+
+evidence_base:
+  unit: participants
+  size:
+    value: 1133
+    unit: participants
+  additional_sizes:
+    - value: 1200
+      unit: participants
+      note: "students who took part; 67 gave incomplete data and were dropped"
+  population:
+    description: >-
+      Students in an introductory psychology course at the University of
+      Iowa, taking part for course credit.
+    age_or_stage: "Undergraduate introductory psychology students; the article prints no age figure."
+    age: unreported
+  context:
+    setting: "Questionnaire administration (ASQ negative events and Beck Depression Inventory)"
+  arms:
+    - id: consistent-subsample
+      description: >-
+        The 337 students (29.6% of the sample) with the lowest variance in
+        summed attribution scores across three randomly chosen ASQ negative
+        events; their other three events were then analysed.
+      size:
+        value: 337
+        unit: participants
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Scale properties, correlations and factor models in the whole Study 1 sample; no contrast between groups."
+
+observations:
+
+  - id: asq-alpha-internality
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internality of attributions for negative events"
+      source_language: "Intemality"
+      measure: "ASQ internality ratings for the six negative events, 7-point scales"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.33
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient alpha over the six negative-event items"
+      interpretation: "The authors judge the ASQ's reliabilities too low even for experimental use"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from Table 1, whose OCR text keeps the column order but not the row
+      layout. The alphas Peterson et al. (1982) report for the ASQ are cited
+      figures from another sample and are not recorded here.
+    source_quote: "Intemality Stability Globality Total score .33 .59 .62 .66"
+    source_location: "Table 1"
+
+  - id: asq-alpha-stability
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Stability of attributions for negative events"
+      source_language: "Stability"
+      measure: "ASQ stability ratings for the six negative events, 7-point scales"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.59
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient alpha over the six negative-event items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Intemality Stability Globality Total score .33 .59 .62 .66"
+    source_location: "Table 1"
+
+  - id: asq-alpha-globality
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Globality of attributions for negative events"
+      source_language: "Globality"
+      measure: "ASQ globality ratings for the six negative events, 7-point scales"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.62
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient alpha over the six negative-event items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Intemality Stability Globality Total score .33 .59 .62 .66"
+    source_location: "Table 1"
+
+  - id: asq-alpha-total
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Composite attributional style for negative events"
+      source_language: "Total score"
+      measure: "Sum of the ASQ internality, stability and globality ratings for the six negative events (18 items)"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration"
+    result:
+      measure_type: reliability
+      estimate: 0.66
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "coefficient alpha over 18 items"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Intemality Stability Globality Total score .33 .59 .62 .66"
+    source_location: "Table 1"
+
+  - id: asq-total-depression-r
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Depressive symptoms"
+      source_language: "correlation between the total score on the ASQ and depression"
+      measure: "Beck Depression Inventory (21 items) correlated with the ASQ negative-event total score"
+      scale: "Pearson r"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.22
+      p_value: "< .001"
+      note: "df = 1131. Internality .12, stability .14 and globality .20 in the same table (OCR column run)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "In particular, note the correlation between the total score on the ASQ and depression (r [1131] = .22). This value is substantially lower than the value of .48 reported by Seligman et al. (1979)."
+    source_location: "Study 1, Results and Discussion; Table 1"
+
+  - id: variance-explained-internality
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-situational consistency of internality attributions"
+      source_language: "variance in the intemality items being accounted for by this factor"
+      measure: "Squared loadings of the six ASQ internality items on the internality factor in the eight-factor model (attributional-style factors plus situation factors)"
+      scale: "percent of item variance, mean over the six items"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 8.5
+      unit: "percent of item variance"
+      model: "Eight-factor LISREL model, chi2(115, N = 1133) = 141.77, p = .041, normed fit index .938; per-item range 3.8 to 13.2%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The authors computed these percentages by squaring the printed factor
+      loadings; they are recorded as printed. Stability and globality are the
+      next two observations.
+    source_quote: "The factor corresponding to intemality ap- peared to be the weakest, with only 3.8 to 13.2% (M=8.5%) of the variance in the intemality items being accounted for by this factor."
+    source_location: "Study 1, Factor structure of the ASQ"
+
+  - id: variance-explained-stability
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-situational consistency of stability attributions"
+      source_language: "The results for stability (10.2 to 32.0%, M = 20.8%)"
+      measure: "Squared loadings of the six ASQ stability items on the stability factor in the eight-factor model"
+      scale: "percent of item variance, mean over the six items"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 20.8
+      unit: "percent of item variance"
+      model: "Eight-factor LISREL model; per-item range 10.2 to 32.0%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The results for stability (10.2 to 32.0%, M = 20.8%) and globality (9.3 to 33.9%, A/ = 23.5%) provided stronger evidence of cross- situational consistency."
+    source_location: "Study 1, Factor structure of the ASQ"
+
+  - id: variance-explained-globality
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Cross-situational consistency of globality attributions"
+      source_language: "globality (9.3 to 33.9%, M = 23.5%)"
+      measure: "Squared loadings of the six ASQ globality items on the globality factor in the eight-factor model"
+      scale: "percent of item variance, mean over the six items"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 23.5
+      unit: "percent of item variance"
+      model: "Eight-factor LISREL model; per-item range 9.3 to 33.9%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The OCR text renders the mean's 'M' as 'A/'; the quote keeps the OCR characters."
+    source_quote: "The results for stability (10.2 to 32.0%, M = 20.8%) and globality (9.3 to 33.9%, A/ = 23.5%) provided stronger evidence of cross- situational consistency."
+    source_location: "Study 1, Factor structure of the ASQ"
+
+  # The cross-domain figure: achievement versus affiliative situations. The
+  # six-factor model gave each dimension its own achievement and affiliation
+  # factor; the estimated correlations between each pair were near unity, so the
+  # domain split added almost nothing for the three dimensions.
+  - id: achievement-affiliation-factor-correlations
+    sample:
+      value: 1133
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Consistency of attributions between achievement and affiliative situations"
+      source_language: "the correlations between the two internality, stability, and globality factors for achievement and affiliation"
+      measure: "Correlations between the achievement and the affiliation factor for each attribution dimension, estimated by LISREL in the six-factor model"
+      scale: "latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: correlation
+      estimate_range:
+        lower: 0.929
+        upper: 1.00
+        over:
+          value: 3
+          unit: other
+      model: "Six-factor model, chi2(120, N = 1133) = 631.53, p < .001, normed fit index .722; only .035 better than the three-factor model"
+      interpretation: "The authors conclude the achievement/affiliation distinction does not matter for the three dimensions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The range is over the three dimension pairs (internality, stability,
+      globality); the source does not say which pair took which value. These
+      are latent correlations from a model that fits poorly, not observed
+      score correlations.
+    source_quote: "Moreover, as these results suggest, the correlations between the two internality, stability, and globality factors for achievement and affiliation were estimated by the LISREL program to be quite high (ranging from r=.929 to 1.00)."
+    source_location: "Study 1, Factor structure of the ASQ"
+
+  - id: consistent-subsample-three-factor-fit
+    sample:
+      value: 337
+      unit: participants
+    arm_ref: consistent-subsample
+    outcome:
+      construct: "Fit of a pure attributional-style model for highly consistent respondents"
+      source_language: "This model was not found to provide a very good fit to the data"
+      measure: "Three correlated factors (internality, stability, globality) fitted to the nine ratings for the three ASQ events not used to select the subsample"
+      scale: "Bentler-Bonett normed fit index (0 to 1; .90 or above read as a very good fit)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration, cross-sectional"
+    result:
+      measure_type: other
+      estimate: 0.531
+      unit: "normed fit index"
+      statistic: "chi2(24, N = 337) = 117.41, p < .001"
+      interpretation: "Substantial situational specificity remained for the consistent subjects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The OCR text prints the fit index Delta as 'A'."
+    source_quote: "This model was not found to provide a very good fit to the data, x2 (24, N = 337) = 117.41, p < .001, A = .531."
+    source_location: "Study 1, Factor structure of the ASQ for consistent subjects"
+
+not_yet_extracted:
+  - "Table 2 (correlations among the 18 ASQ items) and Table 3 (items for the consistent subsample): OCR text too garbled to read"
+  - "Fit of the three-factor (Delta .687), domain-factor (.803) and eight-factor models (.889; .938 with correlated errors) beyond the figures in the model notes above"
+  - "Footnote 6: model fit for depressed subsamples (BDI >= 10, n = 261, Delta .591; BDI >= 14, n = 117, Delta .414)"
+  - "Alphas (.46/.59/.69/.72) and test-retest correlations cited from Peterson et al. (1982), and the BDI split-half .93 cited from Beck et al. (1961): another study's figures"

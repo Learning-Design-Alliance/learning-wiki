@@ -1,0 +1,602 @@
+# Breuer, Scherndl & Ortner (2023): open-ended (OE) against closed-ended (CE)
+# response formats in achievement and aptitude tests, three groups of
+# multi-level random-effects meta-analyses.
+#
+# Read from the Europe PMC full-text XML (CC BY), flattened to text: table rows
+# survive as runs of cells in reading order and are quoted as such; the XML's
+# "&lt;" is quoted as the article's "<".
+#
+# SIGN. d_av is OE minus CE: "a negative effect size revealed that higher
+# average scores were obtained in CE formats". So the OE arm is the index arm
+# throughout, and every negative estimate means CE scores were higher.
+#
+# k counts EFFECT SIZES, not studies (each table's note says so). Meta-Analyses
+# A (differences) rest on 81 studies and 303 effect sizes, B (correlations) on
+# 34 studies and 98 effect sizes, out of 102 primary studies and 392 effect
+# sizes in all. The subgroup rows of Tables 3 and 6 print k and d only: no
+# standard error or interval, and none is derived here.
+
+schema_version: 2
+
+study:
+  key: breuer-2023
+  citation: "Breuer, S., Scherndl, T., & Ortner, T. M. (2023). Effects of response format on achievement and aptitude assessment results: Multi-level random effects meta-analyses. Royal Society Open Science, 10(5), 220456."
+  doi: "10.1098/rsos.220456"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Three groups of multi-level random-effects meta-analyses (effect sizes
+      nested in studies): A, standardised mean differences between OE and CE
+      scores (Cohen's d_av, Lakens); B, correlations between OE and CE scores;
+      C, moderation by test-taker characteristics (age group, sex, test
+      anxiety, risk propensity, motivation) and relations with school
+      performance. Moderators of A and B by meta-regression on test and
+      situation features. Within- and between-subject, randomised and
+      non-randomised primary studies were all eligible.
+  synthesis:
+    model: "Multi-level random-effects models, metafor robust.rma.mv() with random part ~1|citation/id, clubSandwich CR2 robust standard errors"
+    heterogeneity_statistic: "Q and I2 (total, within studies, between studies)"
+    reporting_guideline: "MARS and PRISMA"
+    search:
+      databases:
+        - Web of Science (all citation indices)
+        - PsycINFO
+      date_range: "From inception to 1 September 2022; unpublished data received by 2 November 2022"
+      records_screened: 1022
+      records_included: 102
+    data_handling:
+      - "Two raters screened titles and abstracts and full texts and extracted data; disagreements resolved by discussion"
+      - "Outliers removed: d > 3 or < -3, r > 0.90"
+      - "Scores on different scales converted to percentages; SDs computed from SEs"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: ce-response-format-higher-scores-than-oe-pooled-meta-analysis
+    bearing: supports
+    anchor: breuer-sonja-2023
+  - claim: oe-ce-response-format-scores-correlation-r-067
+    bearing: supports
+    anchor: breuer-sonja-2023
+  - claim: stem-equivalency-moderates-oe-ce-score-difference
+    bearing: supports
+    anchor: breuer-sonja-2023
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 392
+    unit: effect-sizes
+  additional_sizes:
+    - value: 102
+      unit: studies
+      note: "primary studies (records) whose data were extracted"
+    - value: 303
+      unit: effect-sizes
+      note: "effect sizes in Meta-Analyses A, from 81 primary studies"
+    - value: 98
+      unit: effect-sizes
+      note: "effect sizes in Meta-Analyses B, from 34 primary studies"
+  population:
+    description: >-
+      Healthy test-takers of all ages. In Meta-Analyses A, studies mostly from
+      the United States (49.4%), the United Kingdom (6.2%), Canada (6.2%) and
+      Taiwan (4.9%), with school students (54.3%) and university students
+      (39.5%); 15 to 191,040 test-takers per record.
+    age_or_stage: >-
+      Effect sizes coded into age groups 6-10, 11-14, 15-17 and over 18 years
+      for the age moderation (Table 6); mean age was coded where reported, but
+      the article prints no age distribution for the corpus.
+    age: unreported
+  context:
+    setting: "Achievement and aptitude tests: school and university exams, entrance tests, psychometric ability tests, international student assessments; low- and high-stakes, small- and large-scale"
+  variation:
+    - dimension: "Cognitive ability (CHC category), Meta-Analyses A"
+      distribution: "Domain-specific knowledge 46.2%, reading and writing 24.3%, quantitative knowledge 23.1%"
+    - dimension: "Design and items, Meta-Analyses A"
+      distribution: "Within-subject design 77.8%; non-stem-equivalent items 61.7%; low-stakes 71.6%; small-scale 70.4%; 44.4% of data collected before 2000"
+  arms:
+    - id: oe
+      description: "Test scores under an open-ended response format (written short answer, cloze, essay, mixed, oral or practical task)."
+    - id: ce
+      description: "Test scores under a closed-ended response format (single-choice, multiple-choice, true-false)."
+
+comparisons:
+  - id: oe-vs-ce
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE scores on achievement or aptitude tests, pooled over within- and between-subject primary studies."
+  - id: oe-vs-ce-stem-equivalent
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, restricted to stem-equivalent items (the CE version differs only by offering response options)."
+  - id: oe-vs-ce-non-stem-equivalent
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, restricted to non-stem-equivalent items."
+  - id: oe-vs-ce-gq-stem-equivalent
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, quantitative knowledge (maths and statistics) with stem-equivalent items."
+  - id: oe-vs-ce-gq-age-6-10
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, quantitative knowledge, effect sizes from 6-to-10-year-olds."
+  - id: oe-vs-ce-gq-age-11-14
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, quantitative knowledge, effect sizes from 11-to-14-year-olds."
+  - id: oe-vs-ce-gq-age-15-17
+    kind: other
+    index_arm: oe
+    reference_arm: ce
+    description: "OE against CE, quantitative knowledge, effect sizes from 15-to-17-year-olds."
+  - id: oe-ce-association
+    kind: none
+    description: "Correlation between the same test-takers' OE and CE scores, pooled across studies."
+  - id: extraction-agreement
+    kind: none
+    description: "Agreement between the two raters who extracted sample sizes and effect sizes."
+
+observations:
+
+  - id: dav-overall
+    sample:
+      value: 303
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce
+    outcome:
+      construct: "Test score"
+      source_language: "differences between scores from OE and CE response formats"
+      measure: "Achievement and aptitude test scores, all cognitive ability categories"
+      scale: "Cohen's d_av, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.65
+      standard_error: 0.066
+      ci_lower: -0.78
+      ci_upper: -0.53
+      interval_type: confidence
+      p_value: "< 0.001"
+      k:
+        value: 303
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 99.83
+        unit: percent
+        interpretation: "Q(302) = 159 858.74, p < 0.001; I2 within studies 25.38, between studies 74.45"
+      publication_bias:
+        method: "Kendall's tau rank correlation and Egger's regression test, adjusted for nesting"
+        finding: "Kendall's tau = 0.30, p < 0.001 and Egger's z = -6.06, p < 0.001 indicated possible publication bias overall"
+      model: "multi-level random-effects, d_av = M_diff / ((SD1 + SD2)/SD_pooled)"
+    moderators:
+      reported:
+        - variable: "Stem-equivalency of items"
+          relationship: "Smaller OE-CE difference for stem-equivalent items (d -0.52, k 242) than non-stem-equivalent (d -0.88, k 61); d_diff -0.36, p = 0.004"
+          source_quote: "Overall, analyses revealed a significantly smaller difference between scores from OE and CE formats for stem-equivalent items than for non-stem-equivalent items ( d diff = −0.36, p = 0.004), as hypothesized."
+        - variable: "Country of data collection"
+          relationship: "Larger difference for United States data (d -0.75, k 109) than other countries (d -0.55, k 194); d_diff 0.20, p = 0.032"
+          source_quote: "When the data had been collected in the United States, the difference between scores from OE and CE formats was significantly higher than for data collected in other countries overall ( d diff = 0.20, p = 0.032; table 3 )."
+        - variable: "Age group"
+          relationship: "No significant moderation; CE scores higher at every age"
+          source_quote: "Our meta-analyses indicated that age did not significantly moderate the magnitude of the gap between scores from OE and CE assessments, indicating that significantly higher scores were reached in CE response formats irrespective of the test-takers' age ( table 6 )."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      The test reliabilities of the primary studies are not reported or
+      corrected for; the authors say the effects are probably underestimations.
+    source_quote: "total*** 303 −0.65 (0.066) [−0.78, −0.53] <0.001 Q (302) = 159 858.74, p < 0.001 99.83 25.38 74.45"
+    source_location: "Table 2, row total"
+
+  - id: dav-stem-equivalent
+    sample:
+      value: 242
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-stem-equivalent
+    outcome:
+      construct: "Test score, stem-equivalent items"
+      source_language: "stem-equivalency yes"
+      measure: "Achievement and aptitude test scores on stem-equivalent OE and CE items, all cognitive ability categories"
+      scale: "Cohen's d_av, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.52
+      k:
+        value: 242
+        unit: effect-sizes
+      model: "multi-level random-effects meta-regression, moderator stem-equivalency"
+      note: "No standard error or interval printed for the subgroup."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "moderator: stem-equivalency yes no total** 242 −0.52 61 −0.88 −0.36 0.004"
+    source_location: "Table 3, stem-equivalency, total"
+
+  - id: dav-non-stem-equivalent
+    sample:
+      value: 61
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-non-stem-equivalent
+    outcome:
+      construct: "Test score, non-stem-equivalent items"
+      source_language: "stem-equivalency no"
+      measure: "Achievement and aptitude test scores on non-stem-equivalent OE and CE items, all cognitive ability categories"
+      scale: "Cohen's d_av, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.88
+      k:
+        value: 61
+        unit: effect-sizes
+      model: "multi-level random-effects meta-regression, moderator stem-equivalency"
+      note: "No standard error or interval printed for the subgroup."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "moderator: stem-equivalency yes no total** 242 −0.52 61 −0.88 −0.36 0.004"
+    source_location: "Table 3, stem-equivalency, total"
+
+  - id: dav-gq-stem-equivalent
+    sample:
+      value: 105
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-gq-stem-equivalent
+    outcome:
+      construct: "Quantitative knowledge score, stem-equivalent items"
+      source_language: "G q (quantitative knowledge)"
+      measure: "Maths and statistics test scores on stem-equivalent OE and CE items"
+      scale: "Cohen's d_av, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.62
+      k:
+        value: 105
+        unit: effect-sizes
+      model: "multi-level random-effects meta-regression, moderator stem-equivalency, G q only"
+      note: "Non-stem-equivalent G q: d -0.70, k 12; d_diff -0.08, p = 0.749 (not significant). No interval printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "yes no G q 105 −0.62 12 −0.70 −0.08 0.749"
+    source_location: "Table 3, stem-equivalency, G q"
+
+  - id: d-gq-age-6-10
+    sample:
+      value: 16
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-gq-age-6-10
+    outcome:
+      construct: "Quantitative knowledge score, ages 6 to 10"
+      source_language: "G q, 6-to-10-year-olds"
+      measure: "Maths and statistics test scores, OE and CE versions"
+      scale: "Cohen's d, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.46
+      k:
+        value: 16
+        unit: effect-sizes
+      model: "multi-level random-effects moderation by age group (Meta-Analyses C)"
+      note: "No standard error or interval printed per age group."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "G q 16 −0.46 72 −0.45 25 −0.70 4 −1.10"
+    source_location: "Table 6, row G q"
+
+  - id: d-gq-age-11-14
+    sample:
+      value: 72
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-gq-age-11-14
+    outcome:
+      construct: "Quantitative knowledge score, ages 11 to 14"
+      source_language: "G q, 11-to-14-year-olds"
+      measure: "Maths and statistics test scores, OE and CE versions"
+      scale: "Cohen's d, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.45
+      k:
+        value: 72
+        unit: effect-sizes
+      model: "multi-level random-effects moderation by age group (Meta-Analyses C)"
+      note: "No standard error or interval printed per age group."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "G q 16 −0.46 72 −0.45 25 −0.70 4 −1.10"
+    source_location: "Table 6, row G q"
+
+  - id: d-gq-age-15-17
+    sample:
+      value: 25
+      unit: effect-sizes
+    comparison_ref: oe-vs-ce-gq-age-15-17
+    outcome:
+      construct: "Quantitative knowledge score, ages 15 to 17"
+      source_language: "G q, 15-to-17-year-olds"
+      measure: "Maths and statistics test scores, OE and CE versions"
+      scale: "Cohen's d, OE minus CE"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: cohens_d
+      estimate: -0.70
+      k:
+        value: 25
+        unit: effect-sizes
+      model: "multi-level random-effects moderation by age group (Meta-Analyses C)"
+      note: "No standard error or interval printed per age group. Over 18: d -1.10 on k 4."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "G q 16 −0.46 72 −0.45 25 −0.70 4 −1.10"
+    source_location: "Table 6, row G q"
+
+  - id: r-overall
+    sample:
+      value: 98
+      unit: effect-sizes
+    comparison_ref: oe-ce-association
+    outcome:
+      construct: "Agreement of test-taker standing across formats"
+      source_language: "relations between scores from OE and CE response formats"
+      measure: "Correlation of OE and CE scores, all cognitive ability categories"
+      scale: "Pearson r, uncorrected for unreliability"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.67
+      standard_error: 0.050
+      ci_lower: 0.57
+      ci_upper: 0.76
+      interval_type: confidence
+      p_value: "< 0.001"
+      k:
+        value: 98
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 99.17
+        unit: percent
+        interpretation: "Q(97) = 7776.83, p < 0.001; I2 within studies 27.79, between studies 71.37"
+      model: "multi-level random-effects"
+    moderators:
+      reported:
+        - variable: "Type of OE format (written short answer against other OE)"
+          relationship: "Larger correlations with written short answer items; r_diff -0.30, p < 0.001"
+          source_quote: "Further analyses with the aggregated OE format categories ( written short answer versus other OE types ) yielded a significant overall moderating effect of the type of OE format, with larger correlations between scores from OE and CE assessments found when written short answer items were used rather than other OE formats ( r diff = −0.30, p < 0.001; table 5 )."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: "Uncorrected for the primary tests' reliabilities, which the article does not report."
+    source_quote: "total*** 98 0.67 (0.050) [0.57, 0.76] <0.001 Q (97) = 7776.83, p < 0.001 99.17 27.79 71.37"
+    source_location: "Table 4, row total"
+
+  - id: r-gq
+    sample:
+      value: 24
+      unit: effect-sizes
+    comparison_ref: oe-ce-association
+    outcome:
+      construct: "Agreement of test-taker standing across formats, quantitative knowledge"
+      source_language: "G q (quantitative knowledge)"
+      measure: "Correlation of OE and CE maths and statistics scores"
+      scale: "Pearson r, uncorrected for unreliability"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same assessment or sitting in most primary studies"
+    result:
+      measure_type: correlation
+      estimate: 0.85
+      standard_error: 0.095
+      ci_lower: 0.67
+      ci_upper: 1.00
+      interval_type: confidence
+      p_value: "< 0.001"
+      k:
+        value: 24
+        unit: effect-sizes
+      heterogeneity:
+        statistic: I2
+        value: 99.16
+        unit: percent
+        interpretation: "Q(23) = 789.35, p < 0.001; I2 within studies 14.77, between studies 84.39"
+      model: "multi-level random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    source_quote: "G q *** 24 0.85 (0.095) [0.67, 1.00] <0.001 Q (23) = 789.35, p < 0.001 99.16 14.77 84.39"
+    source_location: "Table 4, row G q"
+
+  - id: extraction-icc-effect-sizes-a
+    sample:
+      value: 163
+      unit: other
+    comparison_ref: extraction-agreement
+    outcome:
+      construct: "Inter-rater agreement on extracted effect sizes"
+      source_language: "Inter-rater reliability ... for the extracted effect sizes"
+      measure: "Two raters' extracted effect sizes for Meta-Analyses A"
+      scale: "intraclass correlation"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during data extraction, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.96
+      reliability:
+        statistic: icc
+        over: raters
+        form: "ICC; the article does not name the ICC form"
+      note: "Sample sizes extracted for A: ICC = 1.00 (k = 163)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The sample is the article's 'k = 163', recorded with unit other because the article does not say what k counts here."
+    source_quote: "Inter-rater reliability was perfect for the extracted sample sizes (ICC = 1.00, k = 163) and very high for the extracted effect sizes (ICC = 0.96, k = 163) in Meta-Analyses A"
+    source_location: "Section 2.1"
+
+  - id: extraction-icc-effect-sizes-b
+    sample:
+      value: 38
+      unit: other
+    comparison_ref: extraction-agreement
+    outcome:
+      construct: "Inter-rater agreement on extracted effect sizes"
+      source_language: "perfect for the extracted effect sizes"
+      measure: "Two raters' extracted effect sizes for Meta-Analyses B"
+      scale: "intraclass correlation"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during data extraction, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 1.00
+      reliability:
+        statistic: icc
+        over: raters
+        form: "ICC; the article does not name the ICC form"
+      note: "Sample sizes extracted for B: ICC = 0.97 (k = 38)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "very high for the extracted sample sizes (ICC = 0.97, k = 38) and perfect for the extracted effect sizes (ICC = 1.00, k = 38) in Meta-Analyses B"
+    source_location: "Section 2.1"
+
+not_yet_extracted:
+  - "Screening agreement: titles and abstracts ICC = 0.94, full texts ICC = 0.91 (100 records each); Meta-Analyses C extraction ICCs 1.00 (k = 153)"
+  - "Table 2 rows for G kn, G rw and G l; Table 3 moderators other than stem-equivalency and country (stakes, OE type, CE type, design, scope, year); true-false against single-choice (d_diff 0.91, p = 0.032)"
+  - "Table 4 rows G kn and G rw; Table 5 moderators of the correlation (stakes in G q, r_diff -0.39, p = 0.011; MC against SC in G q, r_diff 0.35)"
+  - "Table 6 rows other than G q (total -0.67/-0.66/-0.67/-0.64; G kn; G rw)"
+  - "Correlation of -0.03 between 39 effects available both as d and as r"
+  - "Tables 7 and 8: sex differences by format; test anxiety, risk propensity, motivation and school performance by format"
+  - "Reliabilities of the primary studies' tests: not reported by the article (Section 5)"
