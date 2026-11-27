@@ -1,0 +1,340 @@
+# Jonsson & Svingby (2007): the use of scoring rubrics, a research review.
+#
+# WHAT IS RECORDED. Only the figures the review computes across the studies
+# it reviewed: its own ranges and typical values of inter-rater reliability
+# (section 3.1.2) and its counts of studies by reliability method (Table 1).
+# A figure the review quotes from one primary study belongs to that study and
+# is not recorded here. Each range is `estimate_range` with no midpoint; the
+# "majority" or "most" values the authors give sit in `interpretation`.
+#
+# The authors warn that some reviewed studies manipulated conditions so the
+# ranges "should be interpreted with caution"; that caveat applies to every
+# observation below.
+#
+# Read from a PDF of the typeset published article (text layer); Table 1 was
+# checked against the page image of p. 134. DOI checked against the article's
+# front matter and Crossref (title, authors, journal, 2007): it matches.
+
+schema_version: 2
+
+study:
+  key: jonsson-2007
+  citation: "Jonsson, A., & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. Educational Research Review, 2(2), 130–144."
+  doi: "10.1016/j.edurev.2007.05.002"
+  design:
+    family: other
+    design_detail: >-
+      Research review (the journal's label) of empirical studies of scoring
+      rubrics used for performance assessment. ERIC, PsychINFO, Web of
+      Science, ScienceDirect, Academic Search Elite/EBSCO, JSTOR and Blackwell
+      Synergy were searched, with Google Scholar and reference lists; limited
+      to peer-reviewed articles, conference papers, research reports and
+      dissertations with no time limit. Findings are summarised as counts,
+      ranges and typical values; nothing is pooled statistically, and the
+      article does not describe itself as a systematic review.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: studies
+  size:
+    value: 75
+    unit: studies
+  additional_sizes:
+    - value: 46
+      unit: studies
+      note: "articles reporting inter-rater reliability in any form, no article counted twice (Table 1, grand total)"
+    - value: 27
+      unit: studies
+      note: "articles reporting consensus agreement estimates (Table 1): percentage of total agreement 18, adjacent agreement 14, Cohen's kappa 4, other 7"
+    - value: 24
+      unit: studies
+      note: "articles reporting consistency estimates (Table 1): Pearson's correlations 4, Cronbach's alpha 8, Spearman's rho 6, other 9"
+    - value: 19
+      unit: studies
+      note: "articles reporting measurement estimates (Table 1): generalizability theory 15, many-facets Rasch model 3, other 1"
+    - value: 7
+      unit: studies
+      note: "studies reporting intra-rater reliability"
+    - value: 40
+      unit: other
+      note: "journals in which the reviewed studies appeared"
+  population:
+    description: >-
+      Studies of rubric-scored performance assessment from K-12, college and
+      university to active professionals; almost half concern students and
+      active professionals, many of them student teachers and teachers, and
+      the youngest children are less represented.
+    age_or_stage: "K-12, college, university and active professionals"
+    age: unreported
+  context:
+    setting: "Performance assessments scored with rubrics: teaching quality, writing and literacy, critical thinking, classroom practice, engineering scenarios, essays and others"
+  variation:
+    - dimension: "Publication date"
+      distribution: "Mostly the last decade; only seven articles published before 1997"
+  arms: []
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Inter-rater reliability values reported across the reviewed studies; no contrast between groups of studies."
+
+observations:
+
+  - id: exact-agreement-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "consensus estimates with percentage of exact agreement"
+      measure: "Percentage of exact agreement between raters scoring with a rubric, as reported by the reviewed studies"
+      scale: "percent exact agreement"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 4
+        upper: 100
+        over:
+          value: 18
+          unit: studies
+      reliability:
+        statistic: percent_agreement
+        over: raters
+        form: "exact agreement"
+      interpretation: "Majority of estimates 55-75%, so many fall short of the 70% criterion the authors cite"
+    moderators:
+      reported:
+        - variable: "Number of levels in the rubric"
+          relationship: "Fewer levels give a greater chance of agreement"
+          source_quote: "It should be noted, however, that the consensus agreement of raters depends heavily on the number of levels in the rubric. With fewer levels, there will be a greater chance of agreement"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      The range is across estimates, not studies; 18 is Table 1's count of
+      articles reporting percentage of total agreement, and the number of
+      estimates is not printed (footnote 1: some studies report only
+      aggregated estimates).
+    source_quote: "The consensus estimates with percentage of exact agreement varied between 4 and 100% in this review, with the majority of estimates falling in the range of 55–75%."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 134; Table 1"
+
+  - id: kappa-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "Cohen’s kappa"
+      measure: "Cohen's kappa between raters scoring with a rubric, as reported by the reviewed studies"
+      scale: "Cohen's kappa"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.20
+        upper: 0.63
+        over:
+          value: 4
+          unit: studies
+      reliability:
+        statistic: cohens_kappa
+        over: raters
+      interpretation: "Only a couple of values below .40"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      4 is Table 1's count of articles reporting Cohen's kappa; the number of
+      kappa values is not printed.
+    source_quote: "Kappa values between .40 and .75 represent fair agreement beyond chance (Stoddart, Abrams, Gasper, & Canaday, 2000), and the values reported vary from .20 to .63, with only a couple of values below .40."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 134; Table 1"
+
+  - id: rater-correlation-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "correlation of raters’ scoring"
+      measure: "Correlations between raters' scores, mostly Pearson's or Spearman's, in a few cases Kendall's W, often unspecified, as reported by the reviewed studies"
+      scale: "correlation coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.27
+        upper: 0.98
+        over:
+          value: 24
+          unit: studies
+      reliability:
+        statistic: other
+        over: raters
+        form: "correlation between raters (Pearson's or Spearman's where specified; a few Kendall's W)"
+      interpretation: "Majority between .55 and .75, so many fall short of the .70 the authors cite as acceptable"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      `over` is 24, Table 1's total of articles reporting any consistency
+      estimate, which includes the 8 reporting Cronbach's alpha. The article
+      does not print how many articles the correlation range itself spans, nor
+      the number of correlations.
+    source_quote: "The range of correlations is .27–.98, with the majority between .55 and .75."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 134; Table 1"
+
+  - id: rater-alpha-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "the consistency is also reported with Cronbach’s alpha"
+      measure: "Cronbach's alpha across raters' scores, as reported by the reviewed studies"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.50
+        upper: 0.92
+        over:
+          value: 8
+          unit: studies
+      reliability:
+        statistic: cronbach_alpha
+        over: raters
+      interpretation: "Most values above .70"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      8 is Table 1's count of articles reporting Cronbach's alpha as an
+      inter-rater consistency estimate; the number of alphas is not printed.
+    source_quote: "Besides correlations between raters, the consistency is also reported with Cronbach’s alpha. The alpha coefficients are in the range of .50–.92, with most values above .70."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 135; Table 1"
+
+  - id: dependability-coefficient-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "Dependability and generalizability coefficients from generalizability theory"
+      measure: "Dependability coefficients from generalizability studies of rubric scores, as reported by the reviewed studies"
+      scale: "dependability coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.06
+        upper: 0.96
+        over:
+          value: 15
+          unit: studies
+      reliability:
+        statistic: other
+        over: raters
+        form: "dependability coefficient, generalizability theory"
+      interpretation: "The authors say most generalizability-theory values were between .50 and .80, below the .80 often taken as acceptable"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      15 is Table 1's count of articles using generalizability theory. The
+      facets of each G study (raters, tasks, occasions) are not reported in
+      the review; `over: raters` follows the section, which is about
+      inter-rater reliability.
+    source_quote: "Dependability and generalizability coefficients from generalizability theory ranged from .06 to .96 and from .15 to .98, respectively."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 135; Table 1"
+
+  - id: generalizability-coefficient-range
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Inter-rater reliability of rubric scoring"
+      source_language: "Dependability and generalizability coefficients from generalizability theory"
+      measure: "Generalizability coefficients from generalizability studies of rubric scores, as reported by the reviewed studies"
+      scale: "generalizability coefficient"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as reported in the reviewed studies"
+    result:
+      measure_type: reliability
+      estimate_range:
+        lower: 0.15
+        upper: 0.98
+        over:
+          value: 15
+          unit: studies
+      reliability:
+        statistic: other
+        over: raters
+        form: "generalizability coefficient, generalizability theory"
+      interpretation: "Most values reported were between .50 and .80"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      As for the dependability coefficients. The "between .50 and .80"
+      statement is made of the coefficient values together, not separately
+      for dependability and generalizability.
+    source_quote: "Coefficient values exceeding .80 are often considered as acceptable (Brown et al., 2004; Marzano, 2002), but as most of the values reported were between .50 and .80, the majority of estimates do not reach this criterion."
+    source_location: "Section 3.1.2, Inter-rater reliability, p. 135; Table 1"
+
+not_yet_extracted:
+  - "Adjacent agreement (within one score point): the review says it 'exceeded 90% in most studies'. That is neither a range nor a bound on every value, so it is not recorded as either."
+  - "Intra-rater reliability: seven studies, most using Cronbach's alpha, the majority reporting values above .70; no range is printed."
+  - "Validity and educational-consequence findings (sections 3.2 and 3.3): summarised narratively or quoted from individual studies, not recorded here."

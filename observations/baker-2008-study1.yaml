@@ -1,0 +1,152 @@
+# Baker, Walonoski, Heffernan, Roll, Corbett & Koedinger (2008), Cognitive
+# Tutor Study One: performance goals and detected gaming the system.
+#
+# The article reports four studies with different samples. This file is the
+# first (Cognitive Tutor Study One, 102 students, Spring 2004). Cognitive Tutor
+# Study Two and the ASSISTments Study are their own files
+# (baker-2008-study2, baker-2008-study3); the teacher survey is not recorded.
+#
+# No DOI: a Crossref bibliographic search on the title (2026-11-27) returned
+# no record for this article, so `study.doi` is left unset (not established)
+# rather than null.
+#
+# Each result is the correlation of one single questionnaire item with each
+# student's gaming frequency from a gaming detector. The article prints no
+# reliability or validity coefficient for either the items or the detector
+# (the detector is described only as "significantly better than chance"), so
+# no reliability observation is recorded.
+#
+# Read from a PDF of the typeset published article (text layer, checked
+# against the page image of p. 207).
+
+schema_version: 2
+
+study:
+  key: baker-2008-study1
+  citation: "Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., & Koedinger, K. (2008). Why students engage in “gaming the system” behavior in interactive learning environments. Journal of Interactive Learning Research, 19(2), 185–224."
+  design:
+    family: observational
+    design_detail: >-
+      Correlational field study within a regular Cognitive Tutor lesson. Each
+      student's frequency of gaming the system was estimated by a
+      machine-learned gaming detector (Latent Response Model) and correlated,
+      item by item, with self-report questionnaire items given with the unit
+      pretest. No manipulation and no comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 102
+    unit: participants
+  additional_sizes:
+    - value: 23
+      unit: participants
+      note: "students removed from analysis for missing one or more parts of the study"
+    - value: 6
+      unit: classes
+      note: "classes at two schools in the Pittsburgh suburbs"
+  population:
+    description: >-
+      Middle school mathematics students in the second semester of a year-long
+      Cognitive Tutor course, six classes at two suburban Pittsburgh schools,
+      who had used Cognitive Tutors several times a week for several months.
+    age_or_stage: "Middle school; ages approximately 12 to 14"
+    age:
+      unit: years
+      min: 12
+      max: 14
+      note: "The article says ages ranged from approximately 12 to 14."
+  context:
+    setting: "A two-class-period Cognitive Tutor lesson on scatterplot generation and interpretation, Spring 2004"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations across students between single questionnaire items and detected gaming frequency; no contrast between groups."
+
+observations:
+
+  - id: h1-problem-choice-item-gaming
+    sample:
+      value: 102
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Cognitive Tutor gaming detector (Latent Response Model) estimate of how often each student gamed, against a single multiple-choice performance-versus-learning goal item about which problems the student would like best (adapted from Mueller & Dweck, 1998)"
+      scale: "Pearson-type correlation r with the questionnaire item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire with the unit pretest; gaming during the following two-class-period lesson"
+    result:
+      measure_type: correlation
+      estimate: -0.03
+      statistic: "F(1,100)=0.09"
+      p_value: "p=0.76"
+      interpretation: "Not significant; the authors conclude students do not game because of performance goals"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The article does not say how the four answer options were scored, so the
+      sign of r cannot be read as more or less performance-oriented. A single
+      item, with no reliability reported.
+    source_quote: "If you had your choice, what kind of problems would you like best?” o r= -0.03, F(1,100)=0.09, p=0.76"
+    source_location: "Results, H1: Performance goals, p. 207"
+
+  - id: h1-extra-credit-item-gaming
+    sample:
+      value: 102
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Cognitive Tutor gaming detector estimate of gaming frequency, against a single multiple-choice performance-versus-learning goal item about which extra-credit project the student would most like to do"
+      scale: "Pearson-type correlation r with the questionnaire item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "questionnaire with the unit pretest; gaming during the following two-class-period lesson"
+    result:
+      measure_type: correlation
+      estimate: -0.06
+      statistic: "F(1,100)=0.41"
+      p_value: "p=0.52"
+      interpretation: "Not significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      As for the other H1 item: option scoring not reported, so the sign is not
+      interpretable as a direction of goal orientation.
+    source_quote: "If you had your choice, what kinds of extra projects would you most like to do?” o r=-0.06, F(1,100)=0.41, p=0.52"
+    source_location: "Results, H1: Performance goals, p. 207"
+
+not_yet_extracted:
+  - "This study's H4, H5 and H13 items (liking computers, liking the tutor, anxiety): item-level correlations with gaming printed in the Results section, not recorded here"
+  - "The careless-answering item: no result found for it in the text"

@@ -1,0 +1,200 @@
+# Baker, Walonoski, Heffernan, Roll, Corbett & Koedinger (2008), the
+# ASSISTments Study: performance goals, disliking mathematics and gaming.
+#
+# The article reports four studies with different samples; this file is the
+# third (the ASSISTments Study, Worcester, 2004-2005). See baker-2008-study1
+# and baker-2008-study2 for the Cognitive Tutor studies.
+#
+# No DOI: a Crossref bibliographic search on the title (2026-11-27) returned
+# no record for this article, so `study.doi` is left unset.
+#
+# ANALYSED N. The final dataset is 323 students, but the item correlations
+# print F(1,323), which would imply 325 cases. The source does not explain the
+# difference, so no per-observation `sample` is recorded; F is kept as printed.
+#
+# Gaming here is a knowledge-engineered model (hint abuse and guess-and-check
+# in clusters), not the machine-learned Cognitive Tutor detector; no validity
+# or reliability figure is printed for it or for the single Likert items, so
+# no reliability observation is recorded. The sample's ages and grades are
+# not printed.
+#
+# Read from a PDF of the typeset published article (text layer, checked
+# against the page image of p. 207).
+
+schema_version: 2
+
+study:
+  key: baker-2008-study3
+  citation: "Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., & Koedinger, K. (2008). Why students engage in “gaming the system” behavior in interactive learning environments. Journal of Interactive Learning Research, 19(2), 185–224."
+  design:
+    family: observational
+    design_detail: >-
+      Correlational study of a year of regular ASSISTments use. Each student's
+      gaming rate over the year was computed by a knowledge-engineered model of
+      hint abuse and guessing-and-checking and correlated, item by item, with
+      1-5 Likert items from an end-of-year survey. No manipulation and no
+      comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 323
+    unit: participants
+  additional_sizes:
+    - value: 600
+      unit: participants
+      note: "about 600 students were using the system in 2004-2005; only those who completed all stages were included"
+    - value: 2
+      unit: schools
+      note: "two urban schools in Worcester, Massachusetts, multiple classes of eight teachers"
+  population:
+    description: >-
+      Students from two urban schools in Worcester, Massachusetts (eight
+      teachers' classes) who used the ASSISTments mathematics system on a
+      biweekly basis throughout the 2004-2005 school year.
+    age_or_stage: "Not stated for this sample"
+    age: unreported
+  context:
+    setting: "ASSISTments mathematics tutoring across the whole curriculum, biweekly through the 2004-2005 school year; survey at the end of the year"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Correlations across students between single survey items and the year's gaming rate; no contrast between groups."
+
+observations:
+
+  - id: h1-get-through-items-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Knowledge-engineered ASSISTments gaming model rate, against the single Likert item “My goal when using the ASSISTment system was to get through as many items as possible.” (1-5)"
+      scale: "correlation r with the survey item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming over the 2004-2005 school year; survey at its end"
+    result:
+      measure_type: correlation
+      estimate: 0.10
+      statistic: "F(1,323)=2.97"
+      p_value: "p=0.09"
+      interpretation: "The only one of five performance-goal items even marginally related to gaming; the other four were not significant and their values are not printed"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "“My goal when using the ASSISTment system was to get through as many items as possible.” o r=0.10, F(1,323)=2.97, p=0.09."
+    source_location: "Results, H1: Performance goals, p. 207"
+
+  - id: h3-like-math-class-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Knowledge-engineered ASSISTments gaming model rate, against the single Likert item “I like math class.” (1-5)"
+      scale: "correlation r with the survey item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming over the 2004-2005 school year; survey at its end"
+    result:
+      measure_type: correlation
+      estimate: -0.21
+      statistic: "F(1,323)=14.89"
+      p_value: "p<0.001"
+      interpretation: "Students who liked maths class less gamed more"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "“I like math class.” o r= -0.21, F(1,323)=14.89, p<0.001"
+    source_location: "Results, H3: Disliking math, p. 210"
+
+  - id: h3-good-at-math-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Knowledge-engineered ASSISTments gaming model rate, against the single Likert item “I am good at math.” (1-5), grouped by the authors under disliking mathematics"
+      scale: "correlation r with the survey item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming over the 2004-2005 school year; survey at its end"
+    result:
+      measure_type: correlation
+      estimate: -0.26
+      statistic: "F(1,323)=22.99"
+      p_value: "p<0.001"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The item asks about self-rated ability rather than liking; the authors
+      list it under H3 (disliking mathematics) and the record keeps their
+      grouping without re-labelling the construct.
+    source_quote: "“I am good at math.” o r= -0.26, F(1,323)=22.99, p<0.001"
+    source_location: "Results, H3: Disliking math, p. 210"
+
+  - id: h3-work-hard-math-gaming
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Frequency of gaming the system"
+      source_language: "each student’s frequency of gaming behavior, as detected by the models of gaming"
+      measure: "Knowledge-engineered ASSISTments gaming model rate, against the single Likert item “I work hard at math.” (1-5)"
+      scale: "correlation r with the survey item"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "gaming over the 2004-2005 school year; survey at its end"
+    result:
+      measure_type: correlation
+      estimate: -0.13
+      statistic: "F(1,323)=5.7"
+      p_value: "p=0.02"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "“I work hard at math.” o r= -0.13, F(1,323)=5.7, p=0.02"
+    source_location: "Results, H3: Disliking math, p. 210"
+
+not_yet_extracted:
+  - "The four other H1 performance-goal items: reported as not significant, values not printed"
+  - "This study's items for H4-H8 and H10-H12 (liking computers, the system, importance of maths, innate ability, helpfulness, self-drive, passive-aggressiveness, frustration): item-level correlations printed in the Results section, not recorded here"
+  - "Open-response tallies (about 8% of top-quartile gamers listed maths among their dislikes): anecdotal, not recorded"
