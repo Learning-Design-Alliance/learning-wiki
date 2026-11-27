@@ -1,0 +1,411 @@
+# Pavlik, Cen & Koedinger (2009): Performance Factors Analysis (PFA) against
+# Learning Factors Analysis (LFA) and knowledge tracing (KT).
+#
+# A model-comparison paper on existing tutor logs, not a study of learners. The
+# "arms" below are MODELS fitted to the same four datasets, and every
+# observation is a published model-fit result for one dataset. The model form
+# (Equation 3: a logit summing beta per KC, gamma times prior successes and
+# rho times prior failures, with the student parameter alpha removed) is the
+# paper's contribution and is described in design_detail; it is not a result.
+#
+# Read from a text-only copy of the author's upload to ResearchGate (the
+# AIED 2009 paper with a ResearchGate cover page); no PDF was available here.
+# THE TABLES COME OUT COLUMN BY COLUMN: each dataset's block prints its model
+# names, then Par., Obs., LL, BIC and the last column(s) as runs of values, and
+# the dataset labels (Physics, Geometry, Algebra, Fractions) come after all four
+# blocks. Blocks are matched to datasets in the order of those labels. The match
+# is checked, for Table 3, by the text: the KT 2LL rows appear in the second
+# and fourth blocks, and the text says KT 2LL was run "for the fractions and
+# geometry datasets", which are the fourth and second labels. Each source_quote
+# is one dataset's block as the text layer prints it. Equations 1 and 3 did not
+# survive extraction and are not quoted.
+#
+# Table 2's Algebra block prints its LL values without a minus sign
+# (1.629E+4, 1.564E+4, 1.58E+4) where every other LL is negative. It is
+# recorded as printed in this copy and flagged; the sign could not be checked
+# against a page image.
+#
+# Of the 2026-11-25 additions: no age (the article gives grade bands only, so
+# `age: unreported`), no reliability and no single-group mean. The paper prints
+# no fitted parameter values (Table 1 shows model predictions for one example
+# student, not parameters).
+#
+# DOI checked against Crossref on 2026-11-26: 10.3233/978-1-60750-028-5-531 is
+# "Performance Factors Analysis – A New Alternative to Knowledge Tracing",
+# first author Pavlik, 2009, in Frontiers in Artificial Intelligence and
+# Applications (Artificial Intelligence in Education). Title, first author and
+# year agree with the article; the copy's cover page prints the same DOI.
+
+schema_version: 2
+
+study:
+  key: pavlik-2009
+  citation: "Pavlik, P. I., Jr., Cen, H., & Koedinger, K. R. (2009). Performance factors analysis – A new alternative to knowledge tracing. In Artificial Intelligence in Education (Frontiers in Artificial Intelligence and Applications). IOS Press."
+  doi: "10.3233/978-1-60750-028-5-531"
+  design:
+    family: other
+    design_detail: >-
+      Secondary model comparison on logged tutor data. Three logistic models
+      were fitted by maximum likelihood to four datasets: LFA (student ability
+      alpha, KC easiness beta, and a learning rate gamma per prior opportunity),
+      LFA without the student parameter (LFA ns), and PFA, which drops alpha and
+      replaces the opportunity count with separate counts of prior successes
+      (scaled by gamma, bounded at 0 or above) and prior failures (scaled by
+      rho), summing over the KCs a step needs. PFA was then compared with two
+      fits of Corbett's knowledge tracing (KT 1, KT 2; KT 2LL a re-fit of KT 2
+      on log-likelihood) on the same data recoded to one KC per step, KT
+      predictions floored at 0.01 and capped at 0.99, slip bounded at 0.1 and
+      guess at 0.3. No learners were assigned to anything.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: pfa-outperforms-kt-fit-four-datasets
+    bearing: supports
+    anchor: pavlik-jr-2009
+  - claim: kt-overestimates-failure-impact
+    bearing: supports
+    anchor: pavlik-jr-2009
+  - claim: pfa-approaches-lfa-accuracy
+    bearing: supports
+    anchor: pavlik-jr-2009
+  - claim: pfa-crossvalidation-generalizes
+    bearing: supports
+    anchor: pavlik-jr-2009
+
+evidence_base:
+  unit: other
+  size:
+    value: 4
+    unit: other
+  additional_sizes:
+    - value: 4
+      unit: other
+      note: "datasets: Fractions and Algebra (Bridge to Algebra Cognitive Tutor), Geometry (Geometry Cognitive Tutor, Angles and Areas units), Physics (Andes); the number of students and observations per dataset is in the observations' descriptives as printed"
+  population:
+    description: >-
+      Logged responses of students using Carnegie Learning's Bridge to Algebra
+      and Geometry Cognitive Tutors and the Andes Physics tutor, with each step
+      labelled with the knowledge component(s) it was coded to need. The
+      Geometry and Physics data came from the PSLC DataShop. The number of
+      students is not printed.
+    age_or_stage: "Fractions and Algebra grades 5-8; Geometry and Physics grades 9-12"
+    age: unreported
+  context:
+    setting: "Intelligent tutoring systems in use (the three Carnegie Learning datasets came from tutors that used knowledge tracing)"
+  arms:
+    - id: pfa
+      description: "Performance Factors Analysis: KC easiness plus separately weighted counts of the student's prior successes and failures on each KC, no student parameter."
+    - id: lfa
+      description: "Learning Factors Analysis: student ability, KC easiness and a per-KC learning rate on the count of prior opportunities."
+    - id: lfa-ns
+      description: "LFA without the student ability parameter."
+    - id: kt-1
+      description: "Knowledge tracing fitted with Beck and Leszczenski's code as adapted by Cen."
+    - id: kt-2
+      description: "Knowledge tracing fitted with Baker's exhaustive bounded search on sum of squared error; initial learning bounded at 0.85, transition at 0.3."
+    - id: kt-2ll
+      description: "KT 2 re-fitted on log-likelihood instead of squared error (Fractions and Geometry only)."
+
+comparisons:
+  - id: pfa-vs-lfa
+    kind: other
+    index_arm: pfa
+    reference_arm: [lfa, lfa-ns]
+    description: "PFA against full LFA and LFA without a student parameter, fitted to the same data with multiple KCs per step (Table 2)."
+  - id: pfa-vs-kt
+    kind: other
+    index_arm: pfa
+    reference_arm: [kt-1, kt-2, kt-2ll]
+    description: "PFA against knowledge tracing fits, on the data recoded to one KC per step (Table 3)."
+
+observations:
+
+  - id: kt-table3-physics
+    comparison_ref: pfa-vs-kt
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "Log-likelihood, BIC, correlation r of prediction with outcome, and A' on the Physics (Andes) data"
+      scale: "LL (higher is better), BIC (lower is better), r, A'"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset, fitted in-sample"
+    result:
+      measure_type: other
+      statistic: "LL, BIC, r and A' per model"
+      descriptives: "Par. KT 1 752, KT 2 752, PFA 564; Obs. 4.099E+4 each; LL KT 1 -2.234E+4, KT 2 -2.25E+4, PFA -2.105E+4; BIC KT 1 5.267E+04, KT 2 5.249E+04, PFA 4.809E+04; r KT 1 0.326, KT 2 0.326, PFA 0.358; A' KT 1 0.708, KT 2 0.705, PFA 0.719"
+      interpretation: "PFA better than both KT fits on all four statistics."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      Fit statistics, not an effect; no test of the difference between models
+      is reported. Dataset assigned to this block by label order (see header).
+    source_quote: "KT 1 KT 2 PFA 752 752 564 4.099E+4 4.099E+4 4.099E+4 -2.234E+4 -2.25E+4 -2.105E+4 5.267E+04 5.249E+04 4.809E+04 0.326 0.326 0.358 0.708 0.705 0.719"
+    source_location: "Table 3, first block (Physics)"
+
+  - id: kt-table3-geometry
+    comparison_ref: pfa-vs-kt
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "Log-likelihood, BIC, r and A' on the Geometry Cognitive Tutor data"
+      scale: "LL (higher is better), BIC (lower is better), r, A'"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset, fitted in-sample"
+    result:
+      measure_type: other
+      statistic: "LL, BIC, r and A' per model"
+      descriptives: "Par. KT 1, KT 2, KT 2LL 480 each, PFA 360; Obs. 2.102E+5 each; LL KT 1 -1.322E+5, KT 2 -1.409E+5, KT 2LL -1.376E+5, PFA -1.223E+5; BIC KT 1 2.703E+05, KT 2 2.877E+05, KT 2LL 2.811E+05, PFA 2.490E+05; r KT 1 0.270, KT 2 0.282, KT 2LL 0.269, PFA 0.305; A' KT 1 0.660, KT 2 0.667, KT 2LL 0.654, PFA 0.685"
+      interpretation: "PFA better than every KT fit on all four statistics, including KT re-fitted on log-likelihood."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect; no test of the difference between models is reported."
+    source_quote: "KT 1 KT 2 KT 2LL PFA 480 480 480 360 2.102E+5 2.102E+5 2.102E+5 2.102E+5 -1.322E+5 -1.409E+5 -1.376E+5 -1.223E+5 2.703E+05 2.877E+05 2.811E+05 2.490E+05 0.270 0.282 0.269 0.305 0.660 0.667 0.654 0.685"
+    source_location: "Table 3, second block (Geometry)"
+
+  - id: kt-table3-algebra
+    comparison_ref: pfa-vs-kt
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "Log-likelihood, BIC, r and A' on the Algebra (Bridge to Algebra) data"
+      scale: "LL (higher is better), BIC (lower is better), r, A'"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset, fitted in-sample"
+    result:
+      measure_type: other
+      statistic: "LL, BIC, r and A' per model"
+      descriptives: "Par. KT 1 552, KT 2 552, PFA 414; Obs. 1.37E+5 each; LL KT 1 -5.867E+4, KT 2 -5.795E+4, PFA -5.596E+4; BIC KT 1 1.239E+05, KT 2 1.224E+05, PFA 1.168E+05; r KT 1 0.224, KT 2 0.247, PFA 0.272; A' KT 1 0.687, KT 2 0.692, PFA 0.711"
+      interpretation: "PFA better than both KT fits on all four statistics."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect; no test of the difference between models is reported."
+    source_quote: "KT 1 KT 2 PFA 552 552 414 1.37E+5 1.37E+5 1.37E+5 -5.867E+4 -5.795E+4 -5.596E+4 1.239E+05 1.224E+05 1.168E+05 0.224 0.247 0.272 0.687 0.692 0.711"
+    source_location: "Table 3, third block (Algebra)"
+
+  - id: kt-table3-fractions
+    comparison_ref: pfa-vs-kt
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "Log-likelihood, BIC, r and A' on the Fractions (Bridge to Algebra) data"
+      scale: "LL (higher is better), BIC (lower is better), r, A'"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset, fitted in-sample"
+    result:
+      measure_type: other
+      statistic: "LL, BIC, r and A' per model"
+      descriptives: "Par. KT 1, KT 2, KT 2LL 256 each, PFA 192; Obs. 1.043E+5 each; LL KT 1 -3.711E+4, KT 2 -3.711E+4, KT 2LL -3.707E+4, PFA -3.643E+4; BIC KT 1 7.718E+04, KT 2 7.718E+04, KT 2LL 7.710E+04, PFA 7.508E+04; r KT 1 0.308, KT 2 0.306, KT 2LL 0.307, PFA 0.320; A' KT 1 0.706, KT 2 0.692, KT 2LL 0.696, PFA 0.723"
+      interpretation: "PFA better than every KT fit on all four statistics, including KT re-fitted on log-likelihood."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect; no test of the difference between models is reported."
+    source_quote: "KT 1 KT 2 KT 2LL PFA 256 256 256 192 1.043E+5 1.043E+5 1.043E+5 1.043E+5 -3.711E+4 -3.711E+4 -3.707E+4 -3.643E+4 7.718E+04 7.718E+04 7.710E+04 7.508E+04 0.308 0.306 0.307 0.320 0.706 0.692 0.696 0.723"
+    source_location: "Table 3, fourth block (Fractions)"
+
+  - id: kt-prediction-after-failure
+    comparison_ref: pfa-vs-kt
+    outcome:
+      construct: "Predicted performance after a failure"
+      source_language: "predicted performance probability for each repeated observation with a KC conditional on the previous response for that KC"
+      measure: "Each model's learning-curve prediction for the next attempt on a KC after a failed attempt, against the observed average, Fractions and Geometry datasets"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "next attempt on the same KC after a failure"
+    result:
+      measure_type: qualitative
+      finding: >-
+        KT predicted much worse performance after a failure than PFA did; the
+        observed average after a failure fell between the two predictions, much
+        closer to PFA. The authors read this as KT over-weighting a single
+        failure as evidence that a KC is unlearned.
+      perspective: researcher
+    moderators:
+      reported: []
+      candidate:
+        - "The authors note the pattern could be argued to follow from bounding KT's slip parameter at 0.1."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Described in words only; no predicted or observed values are printed,
+      and the learning curves themselves are not shown.
+    source_quote: "We noticed that the KT model had a tendency to predict much worse performance after a failure than did PFA, with the observed average in the data (for performance following failure) falling between the two model predictions, but much closer to PFA."
+    source_location: "Section 2.1, Model Comparison Results"
+
+  - id: lfa-table2-physics
+    comparison_ref: pfa-vs-lfa
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "Log-likelihood, BIC and mean absolute deviation in 7-fold cross-validation (MAD CV) on the Physics (Andes) data"
+      scale: "LL (higher is better), BIC (lower is better), MAD CV (lower is better)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset; MAD CV from 7-fold cross-validation"
+    result:
+      measure_type: other
+      statistic: "LL, BIC and MAD CV per model"
+      descriptives: "Par. LFA ns 376, LFA 451, PFA 564; Obs. 4.093E+4 each; LL LFA ns -2.124E+4, LFA -2.074E+4, PFA -2.099E+4; BIC LFA ns 4.648E+4, LFA 4.627E+4, PFA 4.797E+4; MAD CV LFA ns 0.349, LFA 0.340, PFA 0.346"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect. Dataset assigned to this block by label order (see header)."
+    source_quote: "LFA ns LFA PFA 376 451 564 4.093E+4 4.093E+4 4.093E+4 -2.124E+4 -2.074E+4 -2.099E+4 4.648E+4 4.627E+4 4.797E+4 0.349 0.340 0.346"
+    source_location: "Table 2, first block (Physics)"
+
+  - id: lfa-table2-geometry
+    comparison_ref: pfa-vs-lfa
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "LL, BIC and MAD CV on the Geometry Cognitive Tutor data"
+      scale: "LL (higher is better), BIC (lower is better), MAD CV (lower is better)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset; MAD CV from 7-fold cross-validation"
+    result:
+      measure_type: other
+      statistic: "LL, BIC and MAD CV per model"
+      descriptives: "Par. LFA ns 240, LFA 274, PFA 360; Obs. 4.478E+4 each; LL LFA ns -2.07E+4, LFA -2.011E+4, PFA -2.015E+4; BIC LFA ns 4.398E+4, LFA 4.316E+4, PFA 4.416E+4; MAD CV LFA ns 0.305, LFA 0.295, PFA 0.297"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect."
+    source_quote: "LFA ns LFA PFA 240 274 360 4.478E+4 4.478E+4 4.478E+4 -2.07E+4 -2.011E+4 -2.015E+4 4.398E+4 4.316E+4 4.416E+4 0.305 0.295 0.297"
+    source_location: "Table 2, second block (Geometry)"
+
+  - id: lfa-table2-algebra
+    comparison_ref: pfa-vs-lfa
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "LL, BIC and MAD CV on the Algebra (Bridge to Algebra) data"
+      scale: "LL (higher is better), BIC (lower is better), MAD CV (lower is better)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset; MAD CV from 7-fold cross-validation"
+    result:
+      measure_type: other
+      statistic: "LL, BIC and MAD CV per model"
+      descriptives: "Par. LFA ns 276, LFA 387, PFA 414; Obs. 4.657E+4 each; LL as printed in this copy LFA ns 1.629E+4, LFA 1.564E+4, PFA 1.58E+4; BIC LFA ns 3.554E+4, LFA 3.545E+4, PFA 3.605E+4; MAD CV LFA ns 0.210, LFA 0.203, PFA 0.204"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      Fit statistics, not an effect. The LL values print with no minus sign in
+      this copy, unlike every other LL in Tables 2 and 3; whether the article
+      itself omits the sign could not be checked against a page image, so the
+      LLs here are recorded only as printed and should not be relied on.
+    source_quote: "LFA ns LFA PFA 276 387 414 4.657E+4 4.657E+4 4.657E+4 1.629E+4 1.564E+4 1.58E+4 3.554E+4 3.545E+4 3.605E+4 0.210 0.203 0.204"
+    source_location: "Table 2, third block (Algebra)"
+
+  - id: lfa-table2-fractions
+    comparison_ref: pfa-vs-lfa
+    outcome:
+      construct: "Model fit to student step correctness"
+      source_language: "fit statistics"
+      measure: "LL, BIC and MAD CV on the Fractions (Bridge to Algebra) data"
+      scale: "LL (higher is better), BIC (lower is better), MAD CV (lower is better)"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "whole logged dataset; MAD CV from 7-fold cross-validation"
+    result:
+      measure_type: other
+      statistic: "LL, BIC and MAD CV per model"
+      descriptives: "Par. LFA ns 128, LFA 269, PFA 192; Obs. 1.01E+5 each; LL LFA ns -3.689E+4, LFA -3.533E+4, PFA -3.533E+4; BIC LFA ns 7.525E+4, LFA 7.377E+4, PFA 7.287E+4; MAD CV LFA ns 0.216, LFA 0.208, PFA 0.207"
+      interpretation: "PFA ties LFA on LL and beats it on BIC, the one dataset where it does."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: "Fit statistics, not an effect."
+    source_quote: "LFA ns LFA PFA 128 269 192 1.01E+5 1.01E+5 1.01E+5 -3.689E+4 -3.533E+4 -3.533E+4 7.525E+4 7.377E+4 7.287E+4 0.216 0.208 0.207"
+    source_location: "Table 2, fourth block (Fractions)"
+
+not_yet_extracted:
+  - "Equations 1-3 (LFA, logistic link, PFA): the text layer drops the equations' content; the PFA form is described in design_detail from the prose"
+  - "KT 2LL against KT 2 check (Fractions and Geometry): the authors conclude in words that fitting on squared error did not drive KT's misfit"
+  - "Number of students per dataset: not printed"
+  - "Fitted parameter values (beta, gamma, rho per KC; KT's L0, T, G, S): not printed"
