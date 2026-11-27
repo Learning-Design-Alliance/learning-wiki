@@ -1,0 +1,331 @@
+# Brimi (2011): 73 English teachers in one district, all trained in the same
+# writing-assessment scheme (NWREL 6+1 Traits), grade one copy of the same
+# student essay on a 100-point scale.
+#
+# READ FROM the publisher's full text (PARE 16(17), 12 pp., text layer), with
+# pages 6 and 12 viewed as images to confirm Table 1 and Appendix C.
+#
+# WHAT IS RECORDED: the spread of the 73 grades as the article prints it.
+# Table 1's mean and SD (to the decimals printed), the range in points, and the
+# letter-grade counts. The article computes NO reliability coefficient (no ICC,
+# kappa or agreement figure): its "reliability" is this spread. So there is no
+# measure_type reliability observation, and none is derived from the SD.
+#
+# AN INTERNAL INCONSISTENCY, left as printed: the Results text says "eight of
+# 75", but Appendix C lists a frequency of 5 for a score of 75 (its cumulative
+# percent, 20.5 to 27.4, agrees with 5). The letter-grade counts in the text
+# (10/18/30/9/6) do agree with Appendix C under the district's printed grading
+# scale. Nothing below rests on the per-score counts.
+#
+# No claim page cites this source, so there is no appears_in.
+
+schema_version: 2
+
+study:
+  key: brimi-2011
+  citation: "Brimi, H. M. (2011). Reliability of grading high school work in English. Practical Assessment, Research & Evaluation, 16(17)."
+  doi: "10.7275/j531-fz38"
+  design:
+    family: observational
+    design_detail: >-
+      Descriptive single-group study, framed as a replication of Starch and
+      Elliot (1912). After mandatory district training in the 6+1 Traits of
+      Writing, ninth- and tenth-grade English teachers were each given a copy
+      of the same student argumentative essay at spring 2008 follow-up
+      sessions, asked to build a 6+1 rubric and score the essay on a 100-point
+      scale, with unlimited time and without consulting colleagues. Only the
+      distribution of grades is analysed; no inferential statistics.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 90
+    unit: participants
+  additional_sizes:
+    - value: 89
+      unit: participants
+      note: "teachers who returned a graded paper (one refused)"
+    - value: 86
+      unit: participants
+      note: "after three papers were discarded (letter grades only, or illegible trait scores)"
+    - value: 73
+      unit: participants
+      note: "teachers who gave a numerical grade on the 100-point scale as asked; the analysed group"
+    - value: 12
+      unit: schools
+      note: "schools the 90 trained teachers came from"
+    - value: 1
+      unit: other
+      note: "student essay graded by every teacher (\"Why Abortion Should Be Illegal\", Appendix B)"
+  population:
+    description: >-
+      Ninth- and tenth-grade English (Language Arts) teachers in one public
+      school district serving over 400,000 residents and 17,000 public-school
+      students; the district's K-12 population 80.3% Caucasian, 14.7%
+      African-American. No data were recorded on the teachers' gender,
+      experience or educational background, to keep them anonymous.
+    age_or_stage: "Practising high school teachers; no age figure recorded or printed"
+    age: unreported
+  context:
+    setting: >-
+      Follow-up professional development sessions at each teacher's school,
+      spring 2008. State-mandated grading scale: A 93-100, B 85-92, C 75-84,
+      D 70-74, F below 70. The essay was a final draft of a research paper by
+      a former Advanced Placement student of the author, who had scored it 83.
+  arms:
+    - id: trained-teachers-100-point
+      description: >-
+        The 73 teachers who graded the essay on a 100-point scale, each using a
+        rubric of their own built on the 6+1 traits (Ideas, Organization,
+        Voice, Word Choice, Sentence Fluency, Conventions, Presentation).
+      size:
+        value: 73
+        unit: participants
+      dose:
+        amount: 16
+        unit: hours
+        detail: "Two summer days with the district writing coach (16 hours total), plus three hours earlier for ninth-grade teachers and two hours in the fall for tenth-grade teachers, and in-year reinforcement sessions"
+      implementation_notes:
+        - "Not all teachers complied with the request to construct a 100-point rubric; some gave a grade with few or no comments."
+
+comparisons: []
+
+observations:
+
+  - id: grade-mean-sd
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Grade assigned to one student essay"
+      source_language: "Final Grade"
+      measure: "Each teacher's final score for the same essay on a 100-point scale"
+      scale: "points out of 100"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: mean
+      estimate: 81.1599
+      sd: 9.55938
+      unit: "points on a 100-point scale"
+      descriptives: "N 73, minimum 50.00, maximum 96.00 (Table 1)"
+      interpretation: "The SD is the spread of 73 teachers' grades for one paper, i.e. between-grader variation, not variation between students."
+    moderators:
+      reported: []
+      candidate:
+        - "Graders' own views on the essay's topic (abortion), which the author acknowledges could have skewed judgement"
+        - "Whether a teacher built and followed a 100-point 6+1 rubric as asked"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A descriptive mean, not an effect. Population detail is partial because
+      the teachers' characteristics were deliberately not recorded.
+    source_quote: "Final Grade 73 Minimum Maximum 50.00 96.00 Mean Std. Deviation 81.1599 9.55938"
+    source_location: "Table 1, p. 6 (text layer runs the header and row together; confirmed on the page image)"
+
+  - id: grade-range
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Spread of grades assigned to one student essay"
+      source_language: "the range of scores"
+      measure: "Highest minus lowest final score among the 73 teachers"
+      scale: "points out of 100"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: other
+      estimate: 46
+      unit: "points (high 96, low 50)"
+      note: "The 73 teachers gave 30 different scores. The article compares the range with 37 and 44 for the two papers in Starch and Elliot (1912)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Within the population of 73, the range of scores was 46 points (high of 96; low of 50)."
+    source_location: "Results, Distribution of Scores, p. 6"
+
+  - id: letter-grade-a
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Letter grade assigned to one student essay"
+      source_language: "letter grades"
+      measure: "Teachers whose grade fell in the A band (93-100 on the district scale)"
+      scale: "number of teachers"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: count
+      estimate: 10
+      unit: "teachers grading the essay an A"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As for letter grades, ten participants scored the paper as an “A,” 18 assigned a “B,” 30 marked the paper a “C,” nine gave a “D,” and six graded it as an “F.”"
+    source_location: "Results, Distribution of Scores, p. 6"
+
+  - id: letter-grade-b
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Letter grade assigned to one student essay"
+      source_language: "letter grades"
+      measure: "Teachers whose grade fell in the B band (85-92 on the district scale)"
+      scale: "number of teachers"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: count
+      estimate: 18
+      unit: "teachers grading the essay a B"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As for letter grades, ten participants scored the paper as an “A,” 18 assigned a “B,” 30 marked the paper a “C,” nine gave a “D,” and six graded it as an “F.”"
+    source_location: "Results, Distribution of Scores, p. 6"
+
+  - id: letter-grade-c
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Letter grade assigned to one student essay"
+      source_language: "letter grades"
+      measure: "Teachers whose grade fell in the C band (75-84 on the district scale); the author's own score, 83, is a C"
+      scale: "number of teachers"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: count
+      estimate: 30
+      unit: "teachers grading the essay a C"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As for letter grades, ten participants scored the paper as an “A,” 18 assigned a “B,” 30 marked the paper a “C,” nine gave a “D,” and six graded it as an “F.”"
+    source_location: "Results, Distribution of Scores, p. 6"
+
+  - id: letter-grade-d
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Letter grade assigned to one student essay"
+      source_language: "letter grades"
+      measure: "Teachers whose grade fell in the D band (70-74 on the district scale)"
+      scale: "number of teachers"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: count
+      estimate: 9
+      unit: "teachers grading the essay a D"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As for letter grades, ten participants scored the paper as an “A,” 18 assigned a “B,” 30 marked the paper a “C,” nine gave a “D,” and six graded it as an “F.”"
+    source_location: "Results, Distribution of Scores, p. 6"
+
+  - id: letter-grade-f
+    sample:
+      value: 73
+      unit: participants
+    arm_ref: trained-teachers-100-point
+    outcome:
+      construct: "Letter grade assigned to one student essay"
+      source_language: "letter grades"
+      measure: "Teachers whose grade fell in the F band (below 70 on the district scale)"
+      scale: "number of teachers"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "spring 2008, after the training"
+    result:
+      measure_type: count
+      estimate: 6
+      unit: "teachers grading the essay an F"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As for letter grades, ten participants scored the paper as an “A,” 18 assigned a “B,” 30 marked the paper a “C,” nine gave a “D,” and six graded it as an “F.”"
+    source_location: "Results, Distribution of Scores, p. 6"
+
+not_yet_extracted:
+  - "Appendix C: the frequency of each of the 30 distinct scores (50 to 96), with percent and cumulative percent."
+  - "Results text: the most common scores (five of 70, eight of 75, six of 80, six of 84, six of 90, five of 93); the 'eight of 75' disagrees with Appendix C's frequency of 5 and is not recorded."
+  - "The three discarded papers' letter grades (C/B, B, C) and the 13 usable papers not graded on a 100-point scale: no figures printed beyond those."
