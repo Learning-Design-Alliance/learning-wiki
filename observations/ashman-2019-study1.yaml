@@ -1,0 +1,366 @@
+# Ashman, Kalyuga & Sweller (2020; online 5 August 2019), Experiment 1:
+# explicit instruction first versus problem-solving first, Year 5, light-globe
+# energy efficiency (eight interacting elements).
+#
+# Experiment 2 is a different cohort of the same school (N = 71, twelve
+# interacting elements, post-test one day after instruction) and is its own
+# record, ashman-2019-study2.
+#
+# Read from the JSTOR copy of the publisher's PDF (text layer). Table 4's text
+# layer prints the cells column by column (one condition's similar and transfer
+# cells, then the other's); the source_quote below is that run of text as it
+# appears, and the assignment of cells to rows follows the table's row labels
+# (similar first, transfer second) and agrees with the t tests in the prose.
+#
+# Ages: the article says only that the students "were approximately 10 years
+# old". That is not a mean, a median or a range, so `age: unreported` and the
+# words are kept in age_or_stage.
+
+schema_version: 2
+
+study:
+  key: ashman-2019-study1
+  citation: "Ashman, G., Kalyuga, S., & Sweller, J. (2020). Problem-solving or explicit instruction: Which should go first when element interactivity is high? Educational Psychology Review, 32(1), 229–247. (Published online 5 August 2019.)"
+  doi: "10.1007/s10648-019-09500-5"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Two-arm randomised experiment within one Year 5 cohort: students randomly
+      assigned to problem-solving then interactive explicit instruction, or the
+      same explicit instruction then the same problems, with a reading filler
+      task so that both groups received the 25-minute lecture together. Only
+      the sequence was varied. Post-test on similar and transfer questions,
+      scored by one scorer blind to condition.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: exp1-explicit-first-superior-similar-questions
+    bearing: supports
+    anchor: ashman-et-al-2020
+  - claim: exp1-no-difference-transfer-questions
+    bearing: supports
+    anchor: ashman-et-al-2020
+
+evidence_base:
+  unit: participants
+  size:
+    value: 64
+    unit: participants
+  population:
+    description: >-
+      Year 5 students at one independent school in Victoria, Australia, with no
+      prior instruction in conservation of energy or energy efficiency. The
+      whole cohort was invited; those who returned consent forms and were
+      present on both days were included.
+    age_or_stage: "Year 5; the article says the students were approximately 10 years old"
+    age: unreported
+  context:
+    setting: "A 200-seat lecture theatre in the students' school, during regular science lesson time"
+  arms:
+    - id: problem-solving-first
+      description: >-
+        Problem-solving–lecture: 15 minutes on a booklet of everyday light-globe
+        efficiency problems without guidance, then 25 minutes of interactive
+        explicit instruction in the canonical method, then the reading filler.
+      size:
+        value: 30
+        unit: participants
+      dose:
+        amount: 15
+        unit: minutes
+        detail: "15 min problem-solving booklet, then 25 min interactive explicit instruction"
+    - id: explicit-instruction-first
+      description: >-
+        Lecture–problem-solving: the reading filler, then the same 25 minutes of
+        interactive explicit instruction, then 15 minutes on the same problem
+        booklet.
+      size:
+        value: 34
+        unit: participants
+      dose:
+        amount: 25
+        unit: minutes
+        detail: "25 min interactive explicit instruction, then 15 min problem-solving booklet"
+
+comparisons:
+  - id: instruction-first-vs-problem-solving-first
+    kind: between-groups
+    index_arm: explicit-instruction-first
+    reference_arm: problem-solving-first
+    description: "Explicit instruction before problem-solving against problem-solving before explicit instruction, same materials and times."
+  - id: post-test-scales
+    kind: none
+    description: "Internal consistency of the post-test components in the whole Experiment 1 sample; no contrast."
+
+observations:
+
+  - id: similar-questions-d
+    sample:
+      value: 64
+      unit: participants
+    comparison_ref: instruction-first-vs-problem-solving-first
+    outcome:
+      construct: "Near-transfer problem-solving performance"
+      source_language: "similar post-test questions"
+      measure: "Light-globe efficiency problems in the same context as the booklet with different values; 1 mark per correct calculation and per correct globe choice"
+      scale: "marks, maximum 35"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+      offset:
+        value: 6
+        unit: days
+        from: "the instructional phase"
+    result:
+      measure_type: cohens_d
+      estimate: 0.56
+      statistic: "t(62) = 2.25"
+      p_value: "0.03"
+      interpretation: "Explicit instruction first scored significantly higher"
+    moderators:
+      reported: []
+      candidate:
+        - "Element interactivity (Experiment 2 raised it and found effects on transfer as well)"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "For the similar post-test questions, learners in the lecture–problem-solving condition, who received explicit instruction first, scored significantly higher than learners in the problem-solving–lecture condition who received problem-solving first (t(62) = 2.25, p = 0.03, Cohen’s d = 0.56)."
+    source_location: "Experiment 1, Results and Discussion"
+
+  - id: similar-questions-mean-problem-solving-first
+    sample:
+      value: 30
+      unit: participants
+    arm_ref: problem-solving-first
+    outcome:
+      construct: "Near-transfer problem-solving performance"
+      source_language: "Similar questions (total 35 marks)"
+      measure: "Similar post-test questions"
+      scale: "marks, maximum 35"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: mean
+      estimate: 17.57
+      sd: 12.39
+      unit: "marks out of 35"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Problem-solving–lecture (n = 30) Lecture–problem-solving (n = 34) 17.57 (12.39) 8.33 (7.60) 24.68 (12.78) 11.41 (5.33)"
+    source_location: "Table 4"
+
+  - id: similar-questions-mean-explicit-instruction-first
+    sample:
+      value: 34
+      unit: participants
+    arm_ref: explicit-instruction-first
+    outcome:
+      construct: "Near-transfer problem-solving performance"
+      source_language: "Similar questions (total 35 marks)"
+      measure: "Similar post-test questions"
+      scale: "marks, maximum 35"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: mean
+      estimate: 24.68
+      sd: 12.78
+      unit: "marks out of 35"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Problem-solving–lecture (n = 30) Lecture–problem-solving (n = 34) 17.57 (12.39) 8.33 (7.60) 24.68 (12.78) 11.41 (5.33)"
+    source_location: "Table 4"
+
+  - id: transfer-questions-d
+    sample:
+      value: 64
+      unit: participants
+    comparison_ref: instruction-first-vs-problem-solving-first
+    outcome:
+      construct: "Transfer problem-solving performance"
+      source_language: "transfer post-test questions"
+      measure: "Problems in a new context (electric fans), with redundant heat data, or needing conservation of energy as an extra step; 1 mark per correct calculation and answer"
+      scale: "marks, maximum 28"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: cohens_d
+      estimate: 0.47
+      statistic: "t(62) = 1.89"
+      p_value: "0.06"
+      interpretation: "No significant difference between conditions; equivalence was not tested"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "For the transfer post-test questions, there was no significant difference between the conditions (t(62) = 1.89, p = 0.06, Cohen’s d = 0.47)."
+    source_location: "Experiment 1, Results and Discussion"
+
+  - id: transfer-questions-mean-problem-solving-first
+    sample:
+      value: 30
+      unit: participants
+    arm_ref: problem-solving-first
+    outcome:
+      construct: "Transfer problem-solving performance"
+      source_language: "Transfer questions (total 28 marks)"
+      measure: "Transfer post-test questions"
+      scale: "marks, maximum 28"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: mean
+      estimate: 8.33
+      sd: 7.60
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Problem-solving–lecture (n = 30) Lecture–problem-solving (n = 34) 17.57 (12.39) 8.33 (7.60) 24.68 (12.78) 11.41 (5.33)"
+    source_location: "Table 4"
+
+  - id: transfer-questions-mean-explicit-instruction-first
+    sample:
+      value: 34
+      unit: participants
+    arm_ref: explicit-instruction-first
+    outcome:
+      construct: "Transfer problem-solving performance"
+      source_language: "Transfer questions (total 28 marks)"
+      measure: "Transfer post-test questions"
+      scale: "marks, maximum 28"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: mean
+      estimate: 11.41
+      sd: 5.33
+      unit: "marks out of 28"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Problem-solving–lecture (n = 30) Lecture–problem-solving (n = 34) 17.57 (12.39) 8.33 (7.60) 24.68 (12.78) 11.41 (5.33)"
+    source_location: "Table 4"
+
+  - id: similar-questions-alpha
+    comparison_ref: post-test-scales
+    outcome:
+      construct: "Internal consistency of the similar post-test"
+      source_language: "Items on the similar post-test component were highly reliable"
+      measure: "Similar post-test questions"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: reliability
+      estimate: 0.94
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Only one scorer was used, on the stated ground that scoring involved no
+      subjectivity, so no inter-rater figure exists for this test.
+    source_quote: "Items on the similar posttest component were highly reliable with Cronbach’s α = 0.94."
+    source_location: "Experiment 1, Scoring"
+
+  - id: transfer-questions-alpha
+    comparison_ref: post-test-scales
+    outcome:
+      construct: "Internal consistency of the transfer post-test"
+      source_language: "Items on the transfer post-test component were reliable"
+      measure: "Transfer post-test questions"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "post-test, 6 days after instruction"
+    result:
+      measure_type: reliability
+      estimate: 0.75
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Items on the transfer post-test component were reliable with Cronbach’s α = 0.75."
+    source_location: "Experiment 1, Scoring"
+
+not_yet_extracted:
+  - "Figures 2 and 3 (estimation plots with 95% confidence intervals for the difference in means) are images; their intervals are not printed in the text."
