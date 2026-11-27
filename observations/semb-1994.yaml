@@ -1,0 +1,349 @@
+# Semb & Ellis (1994): a descriptive review of long-term retention of knowledge
+# taught in school (56 articles, 96 entries in Table 1).
+#
+# WHAT IS RECORDED HERE, and what is not:
+#
+#   * Only the review's OWN computed figures: the overall mean relative loss
+#     score per task type over the Table 1 entries (p. 259), and the Figure 1
+#     frequencies stated in the text (p. 267). Per-study relative loss scores
+#     in Tables 1 and 2 belong to the primary studies and are not recorded.
+#   * One qualitative observation: the review's own synthesis of the five
+#     studies that compared ability levels (p. 278). It prints no statistic.
+#   * The authors explain that they chose not to run a meta-analysis: the
+#     primary studies printed no error terms or SDs, and relative loss had to be
+#     calculated from summary means, so no estimate of variance exists. No SD
+#     is recorded for any mean below because the source prints none.
+#   * `population.age: unreported`: the inclusion criterion is "junior high
+#     school age or older"; no age figure is printed.
+#   * No reliability for the outcome measure is printed. The figures the review
+#     calls "reliability" (.956, 0.950, 1.0) are agreement between the two
+#     authors on which articles to include, not a property of the loss scores;
+#     they are listed in not_yet_extracted.
+#
+# The mean-loss quote was checked against the PDF page image (p. 259): the
+# figures are -16.17 (n = 52), -28.25 (n = 22), -13.32 (n = 26). The quote is
+# copied from the text layer, which prints a stray space in "- 28.25".
+
+schema_version: 2
+
+study:
+  key: semb-1994
+  citation: "Semb, G. B., & Ellis, J. A. (1994). Knowledge taught in school: What is remembered? Review of Educational Research, 64(2), 253–286."
+  doi: "10.3102/00346543064002253"
+  design:
+    family: systematic-review
+    design_detail: >-
+      Descriptive review of classroom studies of long-term knowledge retention
+      (content taught on at least 2 days, retention interval of at least 1
+      week, learners of junior high school age or older, original data). The
+      reviewers calculated a relative loss score for each study entry from
+      end-of-course and retention-test means and summarised trends and
+      frequencies; they state that they deliberately did not run a
+      meta-analysis.
+  synthesis:
+    model: "Descriptive summary of relative loss scores (trends and frequencies); no meta-analytic pooling"
+    search:
+      databases:
+        - PsycLIT
+        - ERIC
+      records_screened: "403 abstracts from the database search, plus 46 articles from the authors' own files"
+      records_included: "56 articles (96 entries in Table 1)"
+    inclusion:
+      - "Knowledge retention, not procedural or psychomotor skills"
+      - "Academic content taught over a minimum of 2 different days"
+      - "Retention interval of at least 1 week"
+      - "Nonhandicapped learners of junior high school age or older"
+      - "Original data"
+    data_handling:
+      - "Two authors independently rated each candidate article for inclusion; disagreements discussed against the five criteria"
+      - "Relative loss scores calculated by the reviewers from summary measures (e.g. means) in most articles; the loss measure was rarely reported directly, so no estimates of variance could be determined"
+      - "Articles without end-of-course scores were dropped from Table 1 because relative loss could not be computed"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: school-knowledge-retention-substantial
+    bearing: supports
+    anchor: semb-1994
+  - claim: recognition-retained-better-than-recall
+    bearing: supports
+    anchor: semb-1994
+  - claim: ability-no-differential-forgetting
+    bearing: supports
+    anchor: semb-1994
+
+evidence_base:
+  unit: reports
+  size:
+    value: 56
+    unit: reports
+  additional_sizes:
+    - value: 96
+      unit: other
+      note: "entries in Table 1 (many articles reported several studies, each entered separately)"
+    - value: 34
+      unit: reports
+      note: "peer-reviewed journal articles among the 56"
+    - value: 22
+      unit: reports
+      note: "articles not peer reviewed among the 56 (chapters, technical reports, dissertations, conference papers)"
+  population:
+    description: >-
+      Students in school, college, medical and military courses studied for
+      long-term retention of taught knowledge; nonhandicapped learners of
+      junior high school age or older.
+    age_or_stage: "junior high school age or older (inclusion criterion)"
+    age: unreported
+  context:
+    setting: "Classroom courses (school, college, professional and military training); retention measured from end of course to a delayed retention test"
+  variation:
+    - dimension: "Learning task assessed"
+      distribution: "Relative loss scores: 52 recognition, 22 recall, 26 cognitive skills"
+    - dimension: "Publication type"
+      distribution: "34 peer-reviewed journal articles, 22 not peer reviewed; the reviewers found no significant difference in overall mean loss between them for any task type"
+  arms:
+    - id: recognition-tasks
+      description: "Table 1 relative loss scores from recognition tests (e.g. multiple-choice, true-false)."
+    - id: recall-tasks
+      description: "Table 1 relative loss scores from recall tests."
+    - id: cognitive-skill-tasks
+      description: "Table 1 relative loss scores from cognitive-skill tasks (problem solving, concept identification, application, comprehension)."
+    - id: higher-ability
+      description: "Higher-ability students in the studies that directly compared ability levels (Beane, 1962; Brashear, 1974; Furukawa, 1977; Hamilton, 1965; Nelson & Frayer, 1972)."
+    - id: lower-ability
+      description: "Lower-ability students in the same five studies."
+
+comparisons:
+  - id: recognition-vs-recall
+    kind: between-groups
+    index_arm: recognition-tasks
+    reference_arm: recall-tasks
+    description: "Retention on recognition tasks against recall tasks, across Table 1 entries; not a within-study contrast (the reviewers note recognition and recall were rarely examined in the same study)."
+  - id: higher-vs-lower-ability
+    kind: between-groups
+    index_arm: higher-ability
+    reference_arm: lower-ability
+    description: "Higher- against lower-ability students, as summarised by the reviewers across five primary studies."
+
+observations:
+
+  - id: mean-relative-loss-recognition
+    arm_ref: recognition-tasks
+    sample:
+      value: 52
+      unit: other
+    outcome:
+      construct: "Loss of taught knowledge between end of course and retention test"
+      source_language: "overall mean loss scores"
+      measure: "Percent relative loss per Table 1 entry: loss from the end-of-course test to the retention test relative to the end-of-course score (the source's example: 90% then 70% is a 22.2% loss), calculated by the reviewers from published means"
+      scale: "percent relative loss (negative = loss)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 week, varying across entries"
+    result:
+      measure_type: mean
+      estimate: -16.17
+      unit: "percent relative loss"
+      k:
+        value: 52
+        unit: other
+      note: "Unweighted mean over Table 1 entries as the text reports it; the n in parentheses counts relative loss scores, not participants. No SD printed."
+    moderators:
+      reported:
+        - variable: "Publication type (peer reviewed or not)"
+          relationship: "no significant difference in overall mean loss"
+          source_quote: "There were no significant differences between peer-reviewed and non- peer-reviewed articles for any of the three learning tasks."
+      candidate:
+        - "Prior knowledge: the reviewers note relative loss is underestimated where students had prior knowledge of the content"
+        - "Length of the retention interval, which varies across entries"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The text does not say whether the mean is weighted by the Ns in Table 1;
+      no weighting is inferred. The n of 52 counts loss scores, not studies or
+      learners.
+    source_quote: "-16.17 (n = 52) for recognition, - 28.25 (n = 22) for recall, and -13.32 (n = 26) for cognitive skills. These means support our observation that much of what is taught in school is remembered."
+    source_location: "p. 259, Article Selection, Review, and Summarization"
+
+  - id: mean-relative-loss-recall
+    arm_ref: recall-tasks
+    sample:
+      value: 22
+      unit: other
+    outcome:
+      construct: "Loss of taught knowledge between end of course and retention test"
+      source_language: "overall mean loss scores"
+      measure: "Relative loss score per Table 1 entry, calculated by the reviewers"
+      scale: "percent relative loss (negative = loss)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 week, varying across entries"
+    result:
+      measure_type: mean
+      estimate: -28.25
+      unit: "percent relative loss"
+      k:
+        value: 22
+        unit: other
+      note: "Mean over the 22 recall loss scores in Table 1. No SD printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "-16.17 (n = 52) for recognition, - 28.25 (n = 22) for recall, and -13.32 (n = 26) for cognitive skills. These means support our observation that much of what is taught in school is remembered."
+    source_location: "p. 259, Article Selection, Review, and Summarization"
+
+  - id: mean-relative-loss-cognitive-skills
+    arm_ref: cognitive-skill-tasks
+    sample:
+      value: 26
+      unit: other
+    outcome:
+      construct: "Loss of taught knowledge between end of course and retention test"
+      source_language: "overall mean loss scores"
+      measure: "Relative loss score per Table 1 entry, calculated by the reviewers"
+      scale: "percent relative loss (negative = loss)"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 week, varying across entries"
+    result:
+      measure_type: mean
+      estimate: -13.32
+      unit: "percent relative loss"
+      k:
+        value: 26
+        unit: other
+      note: "Mean over the 26 cognitive-skill loss scores in Table 1. No SD printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "-16.17 (n = 52) for recognition, - 28.25 (n = 22) for recall, and -13.32 (n = 26) for cognitive skills. These means support our observation that much of what is taught in school is remembered."
+    source_location: "p. 259, Article Selection, Review, and Summarization"
+
+  - id: share-low-loss-recognition
+    arm_ref: recognition-tasks
+    outcome:
+      construct: "Share of studies with little loss of taught knowledge"
+      source_language: "recognition studies report loss scores of less than 20%"
+      measure: "Percentage of recognition loss scores in Table 1 below 20% relative loss (Figure 1, 10-point intervals)"
+      scale: "percent of studies"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 week, varying across entries"
+    result:
+      measure_type: other
+      bound:
+        operator: ">"
+        value: 70
+      unit: "percent of recognition studies with relative loss below 20%"
+      note: "The text gives only 'over 70%'; the exact share is in Figure 1, which is not read here."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "More specifically, over 70% of recognition studies report loss scores of less than 20% while only 50% of the recall studies report loss scores below 20%."
+    source_location: "p. 267, Content Characteristics and Task Requirements"
+
+  - id: share-low-loss-recall
+    arm_ref: recall-tasks
+    outcome:
+      construct: "Share of studies with little loss of taught knowledge"
+      source_language: "recall studies report loss scores below 20%"
+      measure: "Percentage of recall loss scores in Table 1 below 20% relative loss (Figure 1)"
+      scale: "percent of studies"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "retention interval of at least 1 week, varying across entries"
+    result:
+      measure_type: other
+      estimate: 50
+      unit: "percent of recall studies with relative loss below 20%"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "More specifically, over 70% of recognition studies report loss scores of less than 20% while only 50% of the recall studies report loss scores below 20%."
+    source_location: "p. 267, Content Characteristics and Task Requirements"
+
+  - id: ability-no-differential-forgetting
+    comparison_ref: higher-vs-lower-ability
+    outcome:
+      construct: "Rate of forgetting of taught knowledge by ability level"
+      source_language: "rate of forgetting or relative loss scores"
+      measure: "Learning, retention and relative loss in studies directly comparing ability levels"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of course and delayed retention test, intervals varying across the five studies"
+    result:
+      measure_type: qualitative
+      finding: >-
+        Across five studies that directly compared ability levels, higher-ability
+        students learned and retained more than lower-ability students, but the
+        reviewers report no differences in the rate of forgetting or in relative
+        loss scores. No statistic is printed for this summary.
+      perspective: researcher
+      collection_method: "narrative summary of primary studies"
+    moderators:
+      reported: []
+      candidate:
+        - "Original learning was not equated across ability groups in the summary; the reviewers compare it to instructional-strategy studies with learning differences but no differential forgetting"
+    observability:
+      population_detail: unreported
+      implementation_detail: unreported
+      outcome_timing: unreported
+      effect_size: unreported
+    observability_notes: >-
+      A summary of primary studies, not a pooled estimate. "No differences" is
+      the absence of a reported difference, not a measured zero, and the
+      section opens by calling ability findings "mixed".
+    source_quote: "The general findings for these studies were that higher ability students learned and retained more than lower ability students, but there were no differences in the rate of forgetting or relative loss scores."
+    source_location: "p. 278, Individual Differences"
+
+not_yet_extracted:
+  - "Inclusion agreement between the two authors (agreements / (agreements + disagreements)): .956 for the 46 file articles, 0.950 for the 403 database abstracts, 1.0 for the 69 full texts (p. 258); and .875 for the reviewers' judgments of low content coherence / prior knowledge (p. 268). Selection agreement, not reliability of the loss scores."
+  - "Pretest-adjusted results over the seven Table 2 courses with recognition tests: mean pretest 43.3% (range 32% to 59.4%), average adjusted relative loss 25.6% (p. 264). Not used by the simulator; the per-study Table 2 rows belong to those studies."
+  - "Low-coherence / low-prior-knowledge subset (Figure 2) and the degree-of-original-learning section (Bahrick 1984; Bahrick & Hall 1991; Semb et al.): narrative summaries of named primary studies; their figures belong to those studies."
+  - "Table 1 and Table 2 per-study relative loss scores: per-study figures, and the Table 1 text layer is scrambled."
