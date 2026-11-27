@@ -1,0 +1,905 @@
+# Bahrick & Phelps (1987): recall and recognition of 50 English-Spanish word
+# pairs about 8 years after they were learned and relearned at intersession
+# intervals of 0, 1 or 30 days (Bahrick, 1979).
+#
+# The front matter names two authors, Harry P. Bahrick and Elizabeth Phelps.
+# Crossref's record spells the second author "Phelphs"; the article's spelling
+# is used.
+#
+# First read from the text layer of a scan of the published article, in which
+# Tables 1 to 5 came out as runs of digits whose columns cannot be told apart
+# (Table 2's recall row read "15861"). On 2026-11-27 the article was re-read
+# from the rendered page images (pp. 344-348), and every table is legible there.
+# FROM PAGE IMAGES: the Table 2 observations (table2-*), whose source_quote is
+# the printed row (interval, recall %, recognition %, failed-both %); the Table 1
+# rows quoted in the arms' implementation_notes; the ANOVA observations
+# (anova-*); and the prose figures overall-recall-approx-10 and
+# recall-words-one-two-presentations, whose sentences the text layer had
+# interleaved with table digits. The older prose quotes were checked against the
+# same images. Quotes avoid line-break hyphens ("presenta- tion").
+#
+# Table 1 prints N per training-condition row, not per primary interval, so the
+# arms carry the rows as printed and no size: a total would be a sum the
+# article does not print.
+#
+# There is no reliability figure: the article prints none for the recall or
+# recognition scoring. There is no age figure: participants are described only
+# as former undergraduates.
+
+schema_version: 2
+
+study:
+  key: bahrick-1987
+  citation: "Bahrick, H. P., & Phelps, E. (1987). Retention of Spanish vocabulary over 8 years. Journal of Experimental Psychology: Learning, Memory, and Cognition, 13(2), 344-349."
+  doi: "10.1037/0278-7393.13.2.344"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Eight-year follow-up retention test of participants from an earlier
+      training study (Bahrick, 1979). In that study the interval between
+      successive relearning sessions (0, 1 or 30 days) was a between-subjects
+      independent variable; the article does not say how participants were
+      assigned to intervals. Intervals were changed for most participants
+      after five to seven relearning sessions, with one to four further
+      sessions; the analysis groups participants by their primary interval
+      without regard to the change, which the authors say dilutes the
+      interval's effect. Participants received six to nine sessions; the
+      average number varied only slightly across primary intervals (7.3-7.8).
+      Each session ran, with a dropout technique, until a test trial on which
+      all remaining items were passed. Participants with Spanish exposure in the retention
+      interval were excluded. A control group of alumni who never took part in
+      the training took the same tests. Word difficulty (presentations needed
+      during training) is an observed, not a manipulated, variable.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 35
+    unit: participants
+  additional_sizes:
+    - value: 10
+      unit: participants
+      note: "control group: alumni of the same graduating classes who had no formal Spanish training and did not take part in the original study"
+    - value: 64
+      unit: participants
+      note: "original participants sent a letter asking them to take part"
+    - value: 48
+      unit: participants
+      note: "affirmative responses; 13 of those willing were then eliminated for Spanish exposure or for not returning a test"
+    - value: 50
+      unit: items
+      note: "English-Spanish word pairs learned and tested"
+  population:
+    description: >-
+      Former undergraduates (most of them former students of one of the
+      investigators) who had learned and relearned 50 English-Spanish word
+      pairs in the Bahrick (1979) study, with no residence in Spanish-speaking
+      or bilingual areas and no formal Spanish instruction during the
+      retention interval.
+    age_or_stage: "Former college students tested about 8 years after training; no age figure is printed."
+    age: unreported
+  context:
+    setting: "Recall and then recognition tests mailed to participants and completed at home at their own pace; five participants in central Ohio were tested individually by the investigators."
+  arms:
+    - id: interval-30-day
+      description: "Relearning sessions spaced 30 days apart (primary interval)."
+      implementation_notes:
+        - "Table 1 rows (sessions prior to change; changed interval; sessions after change; N): '30 7 1 1 7' and '30 7 none 0 4'."
+    - id: interval-1-day
+      description: "Relearning sessions spaced 1 day apart (primary interval)."
+      implementation_notes:
+        - "Table 1 rows (sessions prior to change; changed interval; sessions after change; N): '1 6 none 0 1', '1 6 30 1 2', '1 6 30 2 6', '1 3 30-1 2, 2 5'."
+    - id: interval-0-day
+      description: "Each relearning session begun immediately after the previous one ended (primary interval)."
+      implementation_notes:
+        - "The zero interval is associated with the largest number of sessions."
+        - "Table 1 rows (sessions prior to change; changed interval; sessions after change; N): '0 6 none 0 1', '0 5 30 1 1', '0 6 1 1 3', '0 6 30-1 1, 2 5'."
+    - id: control-untrained
+      description: "Alumni who never learned the word pairs, tested with the same recall and recognition tests as a baseline for incidental knowledge and chance."
+
+comparisons:
+  - id: interval-30-vs-0
+    kind: between-groups
+    index_arm: interval-30-day
+    reference_arm: interval-0-day
+    description: "Primary intersession interval of 30 days against 0 days, recall after about 8 years."
+  - id: interval-omnibus
+    kind: between-groups
+    index_arm: interval-30-day
+    reference_arm:
+      - interval-1-day
+      - interval-0-day
+    description: >-
+      Main effect of the primary intersession interval across the three
+      trained groups (ANOVA on the Table 4 data). An omnibus test over three
+      arms has no single index and reference; read it as the three interval
+      arms.
+  - id: trained-sample-pooled
+    kind: none
+    description: "All trained participants and all 50 words pooled over the three intervals; no counterfactual."
+  - id: trained-sample-word-difficulty
+    kind: none
+    description: "All trained participants pooled over the three intervals, words grouped by the number of presentations each needed during training."
+
+observations:
+
+  - id: recall-ratio-30-vs-0-day
+    comparison_ref: interval-30-vs-0
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "recall probability"
+      measure: "Written recall of the Spanish word for each of 50 English words; minor spelling errors disregarded, phonetically unambiguous responses scored correct"
+      scale: "ratio of recall probabilities"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      estimate: 2.5
+      unit: "ratio (30-day recall probability over 0-day recall probability)"
+      interpretation: "Recall after 30-day spacing was 2.5 times recall after 0-day spacing. Elsewhere the authors call it 'a factor of at least 2.5 to 1'."
+    moderators:
+      reported: []
+      candidate:
+        - "Changes of interval during training, which the authors say dilute and underestimate the interval effect."
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      A ratio as the prose states it. The recall percentages behind it are
+      recorded from Table 2 as table2-recall-30-day and table2-recall-0-day.
+      The retention interval averaged about 8 years, ranging from 81 to 103
+      months. The ANOVA main effect of interval on recall is
+      anova-interval-recall.
+    source_quote: "The recall probability associated with the 30-day interval is 2.5 times the probability associated with the zero interval."
+    source_location: "Results and Discussion, The Effect of the Intersession Interval"
+
+  - id: control-recognition
+    arm_ref: control-untrained
+    outcome:
+      construct: "Recognition without training (incidental knowledge and chance)"
+      source_language: "were able to identify 62% of the Spanish words on the recognition test"
+      measure: "Multiple-choice recognition: each English word with the correct Spanish word and five Spanish foils matched on part of speech; guessing required"
+      scale: "percent of words identified"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "tested at the time of the 8-year follow-up"
+    result:
+      measure_type: mean
+      estimate: 62
+      unit: "percent of words identified on the recognition test"
+      interpretation: "The baseline against which the trained groups' recognition of unrecalled words must be read; the authors attribute it mainly to knowledge of French or Latin."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed. Table 2 prints the same 62 in the control row's recognition column (percent of nonrecalled words recognized); the control group's recall is table2-recall-control."
+    source_quote: "in the control group were able to identify 62% of the Spanish words on the recognition test, probably because most subjects had some knowledge of French or Latin."
+    source_location: "Results and Discussion, The Effect of the Intersession Interval"
+
+  - id: recall-range-least-vs-most-favourable
+    comparison_ref: trained-sample-word-difficulty
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "a range of variation from 0% to 23% recall"
+      measure: "Written recall after about 8 years, by intersession interval and number of presentations during training"
+      scale: "percent of words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+    result:
+      measure_type: probability
+      estimate_range:
+        lower: 0
+        upper: 23
+        over:
+          value: 2
+          unit: other
+      unit: "percent recalled"
+      interpretation: "Recall in the least favourable against the most favourable combination of intersession interval and presentations during training. The abstract names the most favourable as words encoded in 1-2 presentations and accessed at 30-day intervals."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      `over` counts the two extreme conditions the sentence contrasts
+      (unit other: conditions). The cells are in Table 4, legible on the
+      page image and not recorded in this record.
+    source_quote: "account for a range of variation from 0% to 23% recall for the least favorable versus the most favorable condition."
+    source_location: "Results and Discussion, end of 'Long-Term Retention as a Function of Word Difficulty During Acquisition'"
+
+  - id: recall-words-over-ten-presentations
+    comparison_ref: trained-sample-word-difficulty
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "only 2% of words acquired in more than ten presentations are recalled"
+      measure: "Written recall after about 8 years, for words that needed more than ten presentations during training"
+      scale: "percent of words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+    result:
+      measure_type: probability
+      estimate: 2
+      unit: "percent recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Pooled over the three intersession intervals. The matching figure for
+      words acquired in one or two presentations is
+      recall-words-one-two-presentations.
+    source_quote: "two presentations are still recalled after 8 years, but only 2% of words acquired in more than ten presentations are recalled."
+    source_location: "Results and Discussion, word difficulty"
+
+  - id: presentations-per-word-0-day
+    arm_ref: interval-0-day
+    outcome:
+      construct: "Presentations needed during training"
+      source_language: "the average number of presentations per word pair"
+      measure: "Presentation trials per word pair needed to reach the relearning criteria"
+      scale: "presentations per word pair"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during training (Bahrick, 1979)"
+    result:
+      measure_type: mean
+      estimate: 3.0
+      unit: "presentations per word pair"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed. Longer intervals slowed acquisition, so spacing and word difficulty are confounded in the pooled word-difficulty figures."
+    source_quote: "is 3.0 for the zero intersession interval, 4.0 for the 1-day interval, and 5.5 for the 30-day interval."
+    source_location: "Results and Discussion, word difficulty"
+
+  - id: presentations-per-word-1-day
+    arm_ref: interval-1-day
+    outcome:
+      construct: "Presentations needed during training"
+      source_language: "the average number of presentations per word pair"
+      measure: "Presentation trials per word pair needed to reach the relearning criteria"
+      scale: "presentations per word pair"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during training (Bahrick, 1979)"
+    result:
+      measure_type: mean
+      estimate: 4.0
+      unit: "presentations per word pair"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "is 3.0 for the zero intersession interval, 4.0 for the 1-day interval, and 5.5 for the 30-day interval."
+    source_location: "Results and Discussion, word difficulty"
+
+  - id: presentations-per-word-30-day
+    arm_ref: interval-30-day
+    outcome:
+      construct: "Presentations needed during training"
+      source_language: "the average number of presentations per word pair"
+      measure: "Presentation trials per word pair needed to reach the relearning criteria"
+      scale: "presentations per word pair"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during training (Bahrick, 1979)"
+    result:
+      measure_type: mean
+      estimate: 5.5
+      unit: "presentations per word pair"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD is printed."
+    source_quote: "is 3.0 for the zero intersession interval, 4.0 for the 1-day interval, and 5.5 for the 30-day interval."
+    source_location: "Results and Discussion, word difficulty"
+
+  - id: table2-recall-30-day
+    arm_ref: interval-30-day
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "% Correct, Recall test"
+      measure: "Written recall of the Spanish word for each of 50 English words; minor spelling errors disregarded, phonetically unambiguous responses scored correct"
+      scale: "percent of the 50 words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 15
+      unit: "percent of words recalled (Table 2, Recall test)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346; the row prints, in order,
+      the interval, Recall test, Recognition test and % failed on both tests.
+      No SD and no group size is printed in Table 2. Participants are grouped
+      by primary interval regardless of later changes of interval (Table 1).
+    source_quote: "30 days 15 83 14"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recognition-30-day
+    arm_ref: interval-30-day
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "% Correct, Recognition test (Recognized but Not Recalled)"
+      measure: "Multiple-choice recognition, limited to the words failed on the recall test: each English word with the correct Spanish word and five Spanish foils matched on part of speech; guessing required"
+      scale: "percent of nonrecalled words recognized"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 83
+      unit: "percent of nonrecalled words recognized (Table 2, Recognition test)"
+      interpretation: "Recall and recognition scores are mutually exclusive: the denominator is the words this group failed to recall, not all 50. Chance and incidental knowledge give the untrained control group 62."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346. No SD and no group size
+      is printed in Table 2. Not corrected for guessing.
+    source_quote: "30 days 15 83 14"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recall-1-day
+    arm_ref: interval-1-day
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "% Correct, Recall test"
+      measure: "Written recall of the Spanish word for each of 50 English words; minor spelling errors disregarded, phonetically unambiguous responses scored correct"
+      scale: "percent of the 50 words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 8
+      unit: "percent of words recalled (Table 2, Recall test)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346; the row prints, in order,
+      the interval, Recall test, Recognition test and % failed on both tests.
+      No SD and no group size is printed in Table 2. Participants are grouped
+      by primary interval regardless of later changes of interval (Table 1).
+    source_quote: "1 day 8 80 18"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recognition-1-day
+    arm_ref: interval-1-day
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "% Correct, Recognition test (Recognized but Not Recalled)"
+      measure: "Multiple-choice recognition, limited to the words failed on the recall test: each English word with the correct Spanish word and five Spanish foils matched on part of speech; guessing required"
+      scale: "percent of nonrecalled words recognized"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 80
+      unit: "percent of nonrecalled words recognized (Table 2, Recognition test)"
+      interpretation: "Recall and recognition scores are mutually exclusive: the denominator is the words this group failed to recall, not all 50. Chance and incidental knowledge give the untrained control group 62."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346. No SD and no group size
+      is printed in Table 2. Not corrected for guessing.
+    source_quote: "1 day 8 80 18"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recall-0-day
+    arm_ref: interval-0-day
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "% Correct, Recall test"
+      measure: "Written recall of the Spanish word for each of 50 English words; minor spelling errors disregarded, phonetically unambiguous responses scored correct"
+      scale: "percent of the 50 words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 6
+      unit: "percent of words recalled (Table 2, Recall test)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346; the row prints, in order,
+      the interval, Recall test, Recognition test and % failed on both tests.
+      No SD and no group size is printed in Table 2. Participants are grouped
+      by primary interval regardless of later changes of interval (Table 1).
+    source_quote: "0 6 71 27"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recognition-0-day
+    arm_ref: interval-0-day
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "% Correct, Recognition test (Recognized but Not Recalled)"
+      measure: "Multiple-choice recognition, limited to the words failed on the recall test: each English word with the correct Spanish word and five Spanish foils matched on part of speech; guessing required"
+      scale: "percent of nonrecalled words recognized"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: mean
+      estimate: 71
+      unit: "percent of nonrecalled words recognized (Table 2, Recognition test)"
+      interpretation: "Recall and recognition scores are mutually exclusive: the denominator is the words this group failed to recall, not all 50. Chance and incidental knowledge give the untrained control group 62."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346. No SD and no group size
+      is printed in Table 2. Not corrected for guessing.
+    source_quote: "0 6 71 27"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recall-control
+    arm_ref: control-untrained
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "% Correct, Recall test"
+      measure: "Written recall of the Spanish word for each of 50 English words; minor spelling errors disregarded, phonetically unambiguous responses scored correct"
+      scale: "percent of the 50 words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "tested at the time of the 8-year follow-up"
+    result:
+      measure_type: mean
+      estimate: 1
+      unit: "percent of words recalled (Table 2, Recall test)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346; the row prints, in order,
+      the interval, Recall test, Recognition test and % failed on both tests.
+      No SD and no group size is printed in Table 2. Participants are grouped
+      by primary interval regardless of later changes of interval (Table 1).
+    source_quote: "control 1 62 37"
+    source_location: "Table 2, p. 346"
+
+  - id: table2-recognition-control
+    arm_ref: control-untrained
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "% Correct, Recognition test (Recognized but Not Recalled)"
+      measure: "Multiple-choice recognition, limited to the words failed on the recall test: each English word with the correct Spanish word and five Spanish foils matched on part of speech; guessing required"
+      scale: "percent of nonrecalled words recognized"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "tested at the time of the 8-year follow-up"
+    result:
+      measure_type: mean
+      estimate: 62
+      unit: "percent of nonrecalled words recognized (Table 2, Recognition test)"
+      interpretation: "Recall and recognition scores are mutually exclusive: the denominator is the words this group failed to recall, not all 50. Chance and incidental knowledge give the untrained control group 62."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cell read from the page image of p. 346. No SD and no group size
+      is printed in Table 2. Not corrected for guessing.
+    source_quote: "control 1 62 37"
+    source_location: "Table 2, p. 346"
+
+  - id: anova-interval-recall
+    comparison_ref: interval-omnibus
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "for recall"
+      measure: "Recall after about 8 years (Table 4 data)"
+      scale: "probability of recall"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      statistic: "F(2, 1688) = 22.96, MSe = .083"
+      p_value: "< .001"
+      interpretation: "Main effect of primary intersession interval on recall."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image of p. 347. The error degrees of freedom (1688,
+      1526) are far above the 35 participants, so the unit analysed appears to
+      be the participant-word response, not the participant; the article does
+      not say. No effect size is printed.
+    source_quote: "confirmed the statistical significance (p < .001) of the obvious main effects of intersession interval, F(2, 1688) = 22.96, MSe = .083 for recall, and F(2, 1526) = 20.56, MSe = .164 for recognition;"
+    source_location: "Results and Discussion, word difficulty, p. 347"
+
+  - id: anova-interval-recognition
+    comparison_ref: interval-omnibus
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "for recognition"
+      measure: "Recognition of nonrecalled words after about 8 years (Table 4 data)"
+      scale: "probability of recognition"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      statistic: "F(2, 1526) = 20.56, MSe = .164"
+      p_value: "< .001"
+      interpretation: "Main effect of primary intersession interval on recognition of nonrecalled words."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image of p. 347. The error degrees of freedom (1688,
+      1526) are far above the 35 participants, so the unit analysed appears to
+      be the participant-word response, not the participant; the article does
+      not say. No effect size is printed.
+    source_quote: "confirmed the statistical significance (p < .001) of the obvious main effects of intersession interval, F(2, 1688) = 22.96, MSe = .083 for recall, and F(2, 1526) = 20.56, MSe = .164 for recognition;"
+    source_location: "Results and Discussion, word difficulty, p. 347"
+
+  - id: anova-presentations-recall
+    comparison_ref: trained-sample-word-difficulty
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "for recall"
+      measure: "Recall after about 8 years (Table 4 data)"
+      scale: "probability of recall"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      statistic: "F(3, 1688) = 15.37, MSe = .083"
+      p_value: "< .001"
+      interpretation: "Main effect of the number of presentations during acquisition on recall. The interaction with interval is F < 1.0 (anova-interaction)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image of p. 347. The error degrees of freedom (1688,
+      1526) are far above the 35 participants, so the unit analysed appears to
+      be the participant-word response, not the participant; the article does
+      not say. No effect size is printed.
+    source_quote: "number of presentations during acquisition, F(3, 1688) = 15.37, MSe = .083 for recall, and F(3, 1526) = 13.57, MSe = 0.164 for recognition; and the interaction between the two, F < 1.0 for both recall and recognition."
+    source_location: "Results and Discussion, word difficulty, p. 347"
+
+  - id: anova-presentations-recognition
+    comparison_ref: trained-sample-word-difficulty
+    outcome:
+      construct: "Long-term vocabulary recognition of unrecalled words"
+      source_language: "for recognition"
+      measure: "Recognition of nonrecalled words after about 8 years (Table 4 data)"
+      scale: "probability of recognition"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      statistic: "F(3, 1526) = 13.57, MSe = 0.164"
+      p_value: "< .001"
+      interpretation: "Main effect of the number of presentations during acquisition on recognition of nonrecalled words."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image of p. 347. The error degrees of freedom (1688,
+      1526) are far above the 35 participants, so the unit analysed appears to
+      be the participant-word response, not the participant; the article does
+      not say. No effect size is printed.
+    source_quote: "number of presentations during acquisition, F(3, 1688) = 15.37, MSe = .083 for recall, and F(3, 1526) = 13.57, MSe = 0.164 for recognition; and the interaction between the two, F < 1.0 for both recall and recognition."
+    source_location: "Results and Discussion, word difficulty, p. 347"
+
+  - id: anova-interaction
+    comparison_ref: interval-omnibus
+    outcome:
+      construct: "Long-term vocabulary recall and recognition"
+      source_language: "the interaction between the two, ... for both recall and recognition"
+      measure: "Recall, and recognition of nonrecalled words, after about 8 years (Table 4 data)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: other
+      statistic: "F < 1.0 for both recall and recognition (interval by number of presentations)"
+      interpretation: "No interaction between intersession interval and the number of presentations during acquisition, on either measure. A non-significant interaction is not evidence of additivity."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Read from the page image of p. 347. The F is printed only as a bound;
+      no degrees of freedom or p value is printed for it.
+    source_quote: "number of presentations during acquisition, F(3, 1688) = 15.37, MSe = .083 for recall, and F(3, 1526) = 13.57, MSe = 0.164 for recognition; and the interaction between the two, F < 1.0 for both recall and recognition."
+    source_location: "Results and Discussion, word difficulty, p. 347"
+
+  - id: overall-recall-approx-10
+    comparison_ref: trained-sample-pooled
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "approximately 10% of vocabulary learned and relearned in six to nine successive sessions can still be recalled 8 years later"
+      measure: "Written recall after about 8 years, all trained participants and words"
+      scale: "percent of words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: probability
+      estimate: 10
+      unit: "percent recalled (printed as approximately 10%)"
+      interpretation: "An approximate figure in the authors' words, not a computed pooled mean."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Read from the page image of p. 347; the authors print it as approximate."
+    source_quote: "The present results show that approximately 10% of vocabulary learned and relearned in six to nine successive sessions can still be recalled 8 years later."
+    source_location: "Results and Discussion, end of word difficulty, p. 347"
+
+  - id: recall-words-one-two-presentations
+    comparison_ref: trained-sample-word-difficulty
+    outcome:
+      construct: "Long-term vocabulary recall"
+      source_language: "Fourteen percent of words acquired in one or two presentations are still recalled after 8 years"
+      measure: "Written recall after about 8 years, for words that needed one or two presentations during training"
+      scale: "percent of words recalled"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about 8 years after training ended"
+      offset:
+        value: 8
+        unit: years
+        from: "end of training"
+    result:
+      measure_type: probability
+      estimate: 14
+      unit: "percent recalled"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Pooled over the three intersession intervals. Read from the page images
+      of pp. 347-348 (the sentence runs across the page break). Table 3 prints
+      the same figure as a probability (.14, 634 responses).
+    source_quote: "Fourteen percent of words acquired in one or two presentations are still recalled after 8 years, but only 2% of words acquired in more than ten presentations are recalled."
+    source_location: "Results and Discussion, pp. 347-348"
+
+not_yet_extracted:
+  - "Table 2 '% Failed on both tests' column (30 days 14, 1 day 18, 0 27, control 37): legible on the page image and quoted in the table2-* rows, not recorded as observations."
+  - "Table 3 (probability of recall, recognition and failure, and N responses, by number of presentations during training: 1-2, 3-4, 5-6, 7-8, 9-10, 11+) and Table 4 (probability of recall and recognition by intersession interval and number of presentations: 1-2, 3-4, 5-6, 7+): legible on the page image of p. 347, not recorded in this record."
+  - "Table 5 (probability of recall for the 10 most frequently recalled words, by interval and acquisition presentations): legible on the page image, not recorded."
+  - "Figure 1: distribution of words by the number of subjects who recalled them (22 words recalled by no subject or only one)."
+  - "No reliability or agreement figure is printed for scoring recall or recognition."

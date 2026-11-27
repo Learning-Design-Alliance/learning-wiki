@@ -1,0 +1,323 @@
+# Sweller & Cooper (1985), Experiment 3: Year 9 students, four algebra problem
+# types each seen twice in acquisition (worked example then problem, or two
+# problems), then one test problem of each type.
+#
+# One of five experiments; Experiments 2, 4 and 5 are their own records.
+#
+# Read from a pdftotext extraction of the JSTOR copy. The scan's right margin
+# is cropped in the text layer on pp. 76-77. On 2026-11-27 p. 76 was read from
+# the PAGE IMAGE of the PDF: test-errors-conventional (Table 6 row) and
+# test-errors-contrast (the U for errors) quote the page image; every other
+# quote is from the text layer.
+#
+# TABLE 6: both rows' seconds extract as clean lines and are recorded. The
+# worked-example row's errors sit on the same line; the conventional row's
+# errors are scattered around the table note in the text layer and were read
+# from the page image.
+#
+# WHAT THIS FILE USES:
+#   * `measure_type: mean` for test time (both groups) and test errors (worked
+#     example and conventional groups). No SDs are printed.
+#   * `population.age: unreported`: school year only.
+#   * No reliability.
+
+schema_version: 2
+
+study:
+  key: sweller-1985-exp3
+  citation: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. Cognition and Instruction, 2(1), 59–89."
+  doi: "10.1207/s1532690xci0201_3"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Two groups of 11, run individually; allocation to groups not described.
+      Acquisition on four problem types, each presented twice in succession
+      (5 minutes maximum per problem, errors to be corrected), then four test
+      problems identical in format, in the same session, with no access to
+      earlier work. Mann-Whitney U tests.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: worked-examples-improve-math-performance
+    bearing: supports
+    anchor: sweller-cooper-1985
+  - claim: worked-examples-reduce-novice-search
+    bearing: supports
+    anchor: sweller-cooper-1985
+
+evidence_base:
+  unit: participants
+  size:
+    value: 22
+    unit: participants
+  population:
+    description: >-
+      Year 9 students from two Sydney high schools, from classes that pilot
+      studies showed had enough algebra to complete the problems but not a
+      high degree of proficiency.
+    age_or_stage: "Year 9"
+    age: unreported
+  context:
+    setting: "Individual sessions, pencil and paper, two Sydney high schools"
+  arms:
+    - id: worked-example
+      description: "First presentation of each of four problem types given as a worked solution to study (up to 5 minutes), followed by a structurally identical problem to solve; an initial sheet of three similar worked examples available throughout."
+      size:
+        value: 11
+        unit: participants
+    - id: conventional-problem
+      description: "Both presentations of each of the four problem types solved as problems, 5 minutes maximum each, with the solution given if unsolved; the same initial example sheet available."
+      size:
+        value: 11
+        unit: participants
+
+comparisons:
+  - id: worked-example-vs-conventional
+    kind: between-groups
+    index_arm: worked-example
+    reference_arm: conventional-problem
+    description: "Worked-example group against conventional-problem group on four test problems identical in format to the acquisition problems."
+
+observations:
+
+  - id: test-time-worked-example
+    sample:
+      value: 11
+      unit: participants
+    arm_ref: worked-example
+    outcome:
+      construct: "Time to solve algebra test problems"
+      source_language: "Mean Seconds ... Per Problem ... on Test Problems"
+      measure: "Seconds per problem on four test problems identical in format to the acquisition problems"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 43.6
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row: acquisition initial 32.0 s, repeat 53.2 s, test 43.6 s; errors beneath."
+    source_quote: "Worked Example 32.0 53.2 43.6 (-) (0.45) (0.18)"
+    source_location: "Table 6, p. 76, Worked Example row, Test column"
+
+  - id: test-time-conventional
+    sample:
+      value: 11
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Time to solve algebra test problems"
+      source_language: "Mean Seconds ... Per Problem ... on Test Problems"
+      measure: "Seconds per problem on four test problems identical in format to the acquisition problems"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 78.1
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row: acquisition initial 185.5 s, repeat 59.5 s, test 78.1 s."
+    source_quote: "Conventional Problem 185.5 59.5 78.1"
+    source_location: "Table 6, p. 76, Conventional Problem row, Test column"
+
+  - id: test-errors-worked-example
+    sample:
+      value: 11
+      unit: participants
+    arm_ref: worked-example
+    outcome:
+      construct: "Errors on algebra test problems"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four test problems"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 0.18
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Worked Example 32.0 53.2 43.6 (-) (0.45) (0.18)"
+    source_location: "Table 6, p. 76, Worked Example row, Test column (errors in parentheses)"
+
+  - id: test-time-contrast
+    sample:
+      value: 22
+      unit: participants
+    comparison_ref: worked-example-vs-conventional
+    outcome:
+      construct: "Time to solve algebra test problems"
+      source_language: "total time to solve the test problems"
+      measure: "Time to solve the four test problems"
+      scale: "seconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: other
+      statistic: "U(11,11) = 27.5"
+      model: "Mann-Whitney U test"
+      interpretation: "The worked example group solved the test problems significantly faster, despite far less time spent in acquisition."
+      descriptives: "Mean seconds per test problem: worked example 43.6, conventional problem 78.1 (Table 6)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The difference between groups in total time to solve the test problems is significant, U (11,11) = 27.5."
+    source_location: "Results, p. 75"
+
+  - id: test-expansion-contrast
+    sample:
+      value: 22
+      unit: participants
+    comparison_ref: worked-example-vs-conventional
+    outcome:
+      construct: "Use of an unnecessary solution move"
+      source_language: "used the expansion move"
+      measure: "Times per problem the expansion c(a + b) = ca + cb was used on the two test problems allowing it; mathematically correct but not needed, adding a move"
+      scale: "mean uses per problem"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: other
+      statistic: "U(11,11) = 39, z = 1.82"
+      model: "Mann-Whitney U test"
+      descriptives: "Mean uses per test problem: worked example .09, conventional problem .42"
+      interpretation: "The conventional problem group often used expansion; the worked example group almost never did."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The text says "This difference is also significant, U(11,11) = 39,
+      z = 1.82"; the start of that sentence is cropped at the margin, so the
+      quote is the clause with the two means. In acquisition the conventional
+      group expanded .55 times per problem at first presentation and .32 at
+      repeat, the worked example group .09 at repeat (U(11,11) = 40, z = 1.72).
+    source_quote: "used the expansion move a mean of .09 and .42 times, respectively."
+    source_location: "Results, p. 77"
+
+  - id: test-errors-conventional
+    sample:
+      value: 11
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Errors on algebra test problems"
+      source_language: "Mean errors"
+      measure: "Mathematical errors per problem on the four test problems"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 1.64
+      unit: "errors per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Quote taken from the page image (the text layer scatters this row's errors around the table note). No SD printed. Acquisition errors: 2.73 at initial and 0.36 at repeat presentation."
+    source_quote: "Conventional Problem 185.5 59.5 78.1 (2.73) (0.36) (1.64)"
+    source_location: "Table 6, p. 76, Conventional Problem row, Test column (errors in parentheses)"
+
+  - id: test-errors-contrast
+    sample:
+      value: 22
+      unit: participants
+    comparison_ref: worked-example-vs-conventional
+    outcome:
+      construct: "Errors on algebra test problems"
+      source_language: "The difference in errors between the conventional and worked example groups on the test"
+      measure: "Mathematical errors per problem on the four test problems"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: other
+      statistic: "U(11,11) = 30"
+      model: "Mann-Whitney U test"
+      interpretation: "The conventional problem group made significantly more errors on the test, which the authors say may partially account for its longer test times."
+      descriptives: "Mean errors per test problem: worked example 0.18, conventional problem 1.64 (Table 6)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer crops this U at the right margin (\"U (11,11\"); the quote and the value are taken from the page image of p. 76."
+    source_quote: "The difference in errors between the conventional and worked example groups on the test is statistically significant, U (11,11) = 30, and may partially account for the difference between groups in time to solve the test problems."
+    source_location: "Results, p. 76"
+
+not_yet_extracted:
+  - "Acquisition time comparison, U(11,11) = 4 (worked example group far faster in acquisition), printed on p. 75: not recorded; this record covers the test phase."

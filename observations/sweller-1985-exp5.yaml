@@ -1,0 +1,359 @@
+# Sweller & Cooper (1985), Experiment 5: Year 8 students in matched pairs,
+# with acquisition TIME equated: each worked-example student had as long as
+# the matched conventional-problem student took for eight problems, then the
+# dissimilar test set followed by the similar test set.
+#
+# One of five experiments; Experiments 2-4 are their own records.
+#
+# Read from a pdftotext extraction of the JSTOR copy; no PDF beside the text.
+# TABLE 10 extracts as two clean rows and is recorded as single-group means.
+# Some Results sentences are cropped at the right margin; quotes are the parts
+# that survive whole.
+#
+# Wilcoxon T here is printed with "the number of matched pairs whose members
+# received differing scores" in parentheses (the article's own note), so T(7)
+# rests on 7 of the 12 pairs. Each observation's `sample` is the 12 pairs and
+# its note says so; the count is not altered.
+#
+# WHAT THIS FILE USES:
+#   * `measure_type: mean` for test time on both sets in both groups, from
+#     Table 10. No SDs are printed. Error means ride as descriptives on the
+#     error contrasts.
+#   * `population.age: unreported`: school year and class only.
+#   * No reliability.
+
+schema_version: 2
+
+study:
+  key: sweller-1985-exp5
+  citation: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. Cognition and Instruction, 2(1), 59–89."
+  doi: "10.1207/s1532690xci0201_3"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Matched-pairs design: students paired on ability from class tests, then
+      one of each pair assigned to each condition (the article does not say
+      how). The conventional-problem member was run first, and the
+      worked-example member was given the same acquisition time. Dissimilar
+      then similar test sets in the same session. Wilcoxon matched-pairs
+      signed-ranks tests.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: worked-examples-improve-math-performance
+    bearing: supports
+    anchor: sweller-cooper-1985
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  additional_sizes:
+    - value: 12
+      unit: pairs
+      note: "matched pairs, one member per condition"
+  population:
+    description: >-
+      Year 8 students from a Sydney high school with eight Year 8 mathematics
+      classes: the top eight students from each of the top three classes,
+      which the school considered of parallel ability.
+    age_or_stage: "Year 8"
+    age: unreported
+  context:
+    setting: "Individual sessions, pencil and paper, a Sydney high school"
+  arms:
+    - id: worked-example
+      description: "Worked-example acquisition (worked examples alternated with problems, four problem categories duplicated with altered variables) for the time the matched conventional student took; a mean of 24.92 problems studied or solved, against 8."
+      size:
+        value: 12
+        unit: participants
+    - id: conventional-problem
+      description: "The eight acquisition problems of Experiment 4, solved conventionally."
+      size:
+        value: 12
+        unit: participants
+
+comparisons:
+  - id: worked-example-vs-conventional-matched
+    kind: between-groups
+    index_arm: worked-example
+    reference_arm: conventional-problem
+    description: "Worked-example against conventional-problem member within matched pairs, on the dissimilar then the similar test set."
+
+observations:
+
+  - id: similar-time-worked-example
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-example
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the similar test set (the Experiment 4 problems)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, after the dissimilar set, same session"
+    result:
+      measure_type: mean
+      estimate: 52.4
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row order: acquisition initial, repeat, test similar, test dissimilar; errors beneath in parentheses."
+    source_quote: "Worked Example 57.9 55.8 52.4 163.7 (--) (0.12) (0.13) (1.06)"
+    source_location: "Table 10, p. 85, Worked Example row, Similar column"
+
+  - id: similar-time-conventional
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the similar test set (the Experiment 4 problems)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, after the dissimilar set, same session"
+    result:
+      measure_type: mean
+      estimate: 101.1
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row order: acquisition initial, repeat, test similar, test dissimilar; errors beneath in parentheses."
+    source_quote: "Conventional Problem 232.2 66.5 101.1 183.3 (0.96) (0.08) (0.58) (0.88)"
+    source_location: "Table 10, p. 85, Conventional Problem row, Similar column"
+
+  - id: dissimilar-time-worked-example
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: worked-example
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the dissimilar test set (the Experiment 4 problems)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 163.7
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row order: acquisition initial, repeat, test similar, test dissimilar; errors beneath in parentheses."
+    source_quote: "Worked Example 57.9 55.8 52.4 163.7 (--) (0.12) (0.13) (1.06)"
+    source_location: "Table 10, p. 85, Worked Example row, Dissimilar column"
+
+  - id: dissimilar-time-conventional
+    sample:
+      value: 12
+      unit: participants
+    arm_ref: conventional-problem
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "Mean Seconds ... Per Problem ... on Similar and Dissimilar Test Problems"
+      measure: "Seconds per problem on the dissimilar test set (the Experiment 4 problems)"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: mean
+      estimate: 183.3
+      unit: "seconds per problem"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD printed. Row order: acquisition initial, repeat, test similar, test dissimilar; errors beneath in parentheses."
+    source_quote: "Conventional Problem 232.2 66.5 101.1 183.3 (0.96) (0.08) (0.58) (0.88)"
+    source_location: "Table 10, p. 85, Conventional Problem row, Dissimilar column"
+
+  - id: similar-time-contrast
+    sample:
+      value: 12
+      unit: pairs
+    comparison_ref: worked-example-vs-conventional-matched
+    outcome:
+      construct: "Time to solve algebra test problems similar to those learned"
+      source_language: "the similar problem set"
+      measure: "Seconds per problem on the similar test set"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, after the dissimilar set, same session"
+    result:
+      measure_type: other
+      statistic: "T(12) = 8"
+      model: "Wilcoxon matched-pairs signed-ranks test"
+      interpretation: "Significantly less time was required by the worked example group on the similar problems."
+      descriptives: "Mean seconds per problem: worked example 52.4, conventional problem 101.1 (Table 10)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The sentence is cropped at the right margin before the statistic; the quote is the line carrying it. 12 pairs differed in score."
+    source_quote: "group, T (12) = 8. Significantly more time was spent on the dissimilar"
+    source_location: "Results and Discussion, p. 85"
+
+  - id: dissimilar-time-contrast
+    sample:
+      value: 12
+      unit: pairs
+    comparison_ref: worked-example-vs-conventional-matched
+    outcome:
+      construct: "Time to solve algebra test problems dissimilar in structure"
+      source_language: "time to solve the dissimilar"
+      measure: "Seconds per problem on the dissimilar test set, taken first"
+      scale: "seconds per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: other
+      statistic: "T(12) = 31"
+      model: "Wilcoxon matched-pairs signed-ranks test"
+      interpretation: "Not significant: the larger number of acquisition problems did not affect time on the dissimilar problems."
+      descriptives: "Mean seconds per problem: worked example 163.7, conventional problem 183.3 (Table 10)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "12 pairs differed in score."
+    source_quote: "Wilcoxon matched pairs signed ranks test, T (12) = 31,"
+    source_location: "Results and Discussion, p. 85"
+
+  - id: similar-errors-contrast
+    sample:
+      value: 12
+      unit: pairs
+    comparison_ref: worked-example-vs-conventional-matched
+    outcome:
+      construct: "Errors on algebra test problems similar to those learned"
+      source_language: "mathematical errors as the dependent variable"
+      measure: "Mathematical errors per problem on the similar test set"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, after the dissimilar set, same session"
+    result:
+      measure_type: other
+      statistic: "T(7) = 3"
+      model: "Wilcoxon matched-pairs signed-ranks test"
+      interpretation: "Significant difference on the similar problems."
+      descriptives: "Mean errors per problem: worked example 0.13, conventional problem 0.58 (Table 10)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "T(7): 7 of the 12 pairs differed in score, per the article's note on T."
+    source_quote: "was a significant difference on the similar problems, T (7) = 3."
+    source_location: "Results and Discussion, p. 85"
+
+  - id: dissimilar-errors-contrast
+    sample:
+      value: 12
+      unit: pairs
+    comparison_ref: worked-example-vs-conventional-matched
+    outcome:
+      construct: "Errors on algebra test problems dissimilar in structure"
+      source_language: "mathematical errors as the dependent variable"
+      measure: "Mathematical errors per problem on the dissimilar test set"
+      scale: "errors per problem"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test phase, immediately after acquisition in the same session"
+    result:
+      measure_type: other
+      statistic: "T(10) = 20"
+      model: "Wilcoxon matched-pairs signed-ranks test"
+      interpretation: "No significant difference on the dissimilar problems."
+      descriptives: "Mean errors per problem: worked example 1.06, conventional problem 0.88 (Table 10)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "T(10): 10 of the 12 pairs differed in score. The start of the sentence is cropped at the margin."
+    source_quote: "ference between groups on the dissimilar problems, T (10) = 20,"
+    source_location: "Results and Discussion, p. 85"
+
+not_yet_extracted:
+  - "Expansion use (Table 11, p. 86, captioned 'Experiment 6' in print): dissimilar problems T(5) = 0, significant; similar problems T(3) = 0, not significant. Table 11 itself is garbled in the text layer."
+  - "Dissimilar against similar over all subjects: time T(24) = 0 and errors T(20) = 0 (p. 85)."
+  - "The Discussion on p. 86 is cropped and interleaved in the text layer; not quoted."

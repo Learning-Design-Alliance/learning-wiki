@@ -1,0 +1,319 @@
+# Workman, von Hippel & Merry (2023): average summer learning in three modern
+# data sources (ECLS-K:2011, NWEA, Renaissance), fitted with the same linear
+# growth model.
+#
+# Read from the publisher's open-access full text (text layer). Table 2's math
+# columns read cleanly; the article's own header prints "NWEA (2005)" for the
+# third math column where the reading header and Table 3 print "NWEA (2–5)",
+# so the column is taken as the grades 2–5 NWEA sample (a typo in the source).
+#
+# The data sources are recorded as ARMS: each is a different sample, test and
+# test schedule, and each observation is one source's own estimate (arm_ref).
+# The article reports no contrast between sources as a statistic, so no
+# comparison of arms is recorded; the disagreement is read from the four rows.
+#
+# "Total SDs lost during summer" is the paper's own fitted quantity: 2.65 times
+# the average monthly summer rate from the growth model, extrapolated to the
+# first and last day of school. It is in SDs of the FIRST test given in each
+# data set, not SDs of the spring score. No conversion to any other scale is
+# made here.
+
+schema_version: 2
+
+study:
+  key: workman-2023
+  citation: "Workman, J., von Hippel, P. T., & Merry, J. (2023). Findings on summer learning loss often fail to replicate, even in recent data. Sociological Science, 10, 251–285."
+  doi: "10.15195/v10.a8"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Secondary analysis of three data sources that tested US elementary
+      students in fall and spring in the 2010s with adaptive, IRT-scored tests:
+      the ECLS-K:2011 (nationally representative cohort, kindergarten to grade
+      2), and restricted vendor data from NWEA (fall 2011 onward) and
+      Renaissance Learning (fall 2013 onward), the vendor data in an
+      accelerated longitudinal design (cohorts followed for one year each).
+      Linear growth models of standardized scores on months in each grade and
+      each summer, with a random child intercept, school-clustered standard
+      errors and, for the vendor data, cohort dummies; no covariates in the
+      average model. No intervention.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: summer-loss-nonreplication-average-losses
+    bearing: supports
+    anchor: workman-2023
+  - claim: hardly-any-findings-replicate-modern-data
+    bearing: supports
+    anchor: workman-2023
+
+evidence_base:
+  unit: participants
+  size:
+    value: 3900
+    unit: participants
+  additional_sizes:
+    - value: 3
+      unit: other
+      note: "data sources analysed (ECLS-K:2011, NWEA, Renaissance); each is an arm below with its own sample. The headline size is the ECLS-K:2011 analytic sample only, because the vendor samples are not summed here."
+    - value: 280
+      unit: schools
+      note: "schools attended in kindergarten by the ECLS-K:2011 analytic sample (text; Table 1 prints 277 schools)"
+  population:
+    description: >-
+      US elementary students. ECLS-K:2011: a nationally representative
+      kindergarten cohort of fall 2010, restricted to the one-third random
+      subsample of schools tested in fall of grades 1 and 2, excluding the
+      three percent in year-round schools. NWEA and Renaissance: large, diverse
+      but not nationally representative samples of schools that tested about
+      the same number of students in every grade. Race/ethnicity and the
+      school-level share of students on free or reduced-price lunch differ by
+      source (Table 1).
+    age_or_stage: "Kindergarten through grade 5 (ECLS-K:2011 kindergarten to grade 2; NWEA kindergarten to grade 5, or grades 2 to 5; Renaissance grades 1 to 5). The article prints grades, not ages."
+    age: unreported
+  context:
+    setting: >-
+      Fall and spring reading and math tests in US schools, 2010s. Vendor tests
+      were low-stakes formative assessments bought by schools; ECLS-K:2011
+      tests were given for research. Average first day of school Aug. 22 and
+      last day June 4 (recorded in the ECLS-K:2011 only and assumed for the
+      vendor data). Fall tests 2 to 8 weeks after school started and spring
+      tests 3 to 7 weeks before it ended, depending on the source.
+  variation:
+    - dimension: "Test and its IRT model"
+      distribution: "ECLS-K:2011 two-stage adaptive test scored with a three-parameter IRT model; NWEA and Renaissance continuously adaptive tests scored with a one-parameter (Rasch) model"
+    - dimension: "Weeks of school before the fall test / after the spring test (math columns, Table 1)"
+      distribution: "Renaissance 3 / 3; NWEA K–5 3 / 5; NWEA 2–5 4 / 5; ECLS-K:2011 8 / 7"
+  arms:
+    - id: renaissance
+      description: "Renaissance Learning math data, grades 1 to 5, schools tested fall 2013 onward in an accelerated longitudinal design."
+      size:
+        value: 45303
+        unit: participants
+      implementation_notes:
+        - "Table 1 math column: 90,606 test scores, 45,303 students, 164 schools"
+    - id: nwea-k-5
+      description: "NWEA sample limited to schools testing equal numbers of students in every grade from kindergarten to grade 5; accelerated longitudinal design from fall 2011."
+      size:
+        value: 11402
+        unit: participants
+      implementation_notes:
+        - "Table 1: 32,262 test scores, 11,402 students, 43 schools"
+    - id: nwea-2-5
+      description: "Less-limited NWEA sample requiring equal testing only in grades 2 to 5; used because the K–5 restriction ruled out many schools with substantial African American enrollments."
+      size:
+        value: 44516
+        unit: participants
+      implementation_notes:
+        - "Table 1: 122,295 test scores, 44,516 students, 194 schools"
+    - id: ecls-k-2011
+      description: "ECLS-K:2011 analytic sample, kindergarten to grade 2 (grades 3 to 5 excluded because they were tested in spring only)."
+      size:
+        value: 3900
+        unit: participants
+      implementation_notes:
+        - "Table 1: 22,310 test scores, 3,900 students, 277 schools; ECLS-K:2011 sizes rounded to the nearest 10 under NCES rules"
+
+comparisons: []
+
+observations:
+
+  - id: math-total-summer-loss-renaissance
+    sample:
+      value: 45303
+      unit: participants
+    arm_ref: renaissance
+    outcome:
+      construct: "Mathematics achievement change over the summer"
+      source_language: "Total SDs lost during summer"
+      measure: "Renaissance adaptive math test, IRT (Rasch) score standardized on the earliest grade available"
+      scale: "standard deviations of the first test given in the data set, summed over an average 2.65-month summer"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "average summer vacation, extrapolated to the last and first day of school"
+      offset:
+        value: 2.65
+        unit: months
+        from: "last day of the school year"
+    result:
+      measure_type: other
+      estimate: -0.424
+      unit: "SD of the first test given"
+      standard_error: 0.015
+      p_value: "< 0.01"
+      model: >-
+        Linear growth model (average model): 2.65 times the average monthly
+        summer rate. Same column of Table 2: monthly SDs gained during school
+        year 0.161 (0.002); monthly SDs lost during summer -0.161 (0.006);
+        ratio of monthly summer loss to monthly school-year gain -0.999
+        (0.028); months of school-year learning lost during summer -2.633
+        (0.074).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A fitted model quantity as the source prints it, not a standardized
+      effect between groups. Sample is the Renaissance math students in
+      Table 1; the article does not print the analysed n per model.
+    source_quote: "Total SDs lost during −0.207† −0.498† −0.290† −0.029∗ −0.424† −0.493† −0.386† −0.009"
+    source_location: "Table 2, math columns (fifth value: Renaissance)"
+
+  - id: math-total-summer-loss-nwea-k-5
+    sample:
+      value: 11402
+      unit: participants
+    arm_ref: nwea-k-5
+    outcome:
+      construct: "Mathematics achievement change over the summer"
+      source_language: "Total SDs lost during summer"
+      measure: "NWEA adaptive math test, IRT (Rasch) score standardized on the earliest grade available"
+      scale: "standard deviations of the first test given in the data set, summed over an average 2.65-month summer"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "average summer vacation, extrapolated to the last and first day of school"
+      offset:
+        value: 2.65
+        unit: months
+        from: "last day of the school year"
+    result:
+      measure_type: other
+      estimate: -0.493
+      unit: "SD of the first test given"
+      standard_error: 0.043
+      p_value: "< 0.01"
+      model: >-
+        Linear growth model (average model): 2.65 times the average monthly
+        summer rate. Same column of Table 2: monthly SDs gained during school
+        year 0.182 (0.004); monthly SDs lost during summer -0.187 (0.016);
+        ratio -1.027 (0.069); months of school-year learning lost -2.709
+        (0.181).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Total SDs lost during −0.207† −0.498† −0.290† −0.029∗ −0.424† −0.493† −0.386† −0.009"
+    source_location: "Table 2, math columns (sixth value: NWEA K–5)"
+
+  - id: math-total-summer-loss-nwea-2-5
+    sample:
+      value: 44516
+      unit: participants
+    arm_ref: nwea-2-5
+    outcome:
+      construct: "Mathematics achievement change over the summer"
+      source_language: "Total SDs lost during summer"
+      measure: "NWEA adaptive math test, IRT (Rasch) score standardized on the earliest grade available"
+      scale: "standard deviations of the first test given in the data set, summed over an average 2.65-month summer"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "average summer vacation, extrapolated to the last and first day of school"
+      offset:
+        value: 2.65
+        unit: months
+        from: "last day of the school year"
+    result:
+      measure_type: other
+      estimate: -0.386
+      unit: "SD of the first test given"
+      standard_error: 0.014
+      p_value: "< 0.01"
+      model: >-
+        Linear growth model (average model): 2.65 times the average monthly
+        summer rate. Same column of Table 2: monthly SDs gained during school
+        year 0.150 (0.002); monthly SDs lost during summer -0.146 (0.005);
+        ratio -0.976 (0.028); months of school-year learning lost -2.573
+        (0.073).
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The source's Table 2 header labels this column "NWEA (2005)"; the
+      reading header and Table 3 label the same sample "NWEA (2–5)", so it is
+      read as the grades 2–5 sample.
+    source_quote: "Total SDs lost during −0.207† −0.498† −0.290† −0.029∗ −0.424† −0.493† −0.386† −0.009"
+    source_location: "Table 2, math columns (seventh value: NWEA 2–5)"
+
+  - id: math-total-summer-loss-ecls-k-2011
+    sample:
+      value: 3900
+      unit: participants
+    arm_ref: ecls-k-2011
+    outcome:
+      construct: "Mathematics achievement change over the summer"
+      source_language: "Total SDs lost during summer"
+      measure: "ECLS-K:2011 two-stage adaptive math test, three-parameter IRT theta score standardized on the fall of kindergarten"
+      scale: "standard deviations of the fall-kindergarten test, summed over an average 2.65-month summer"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "average summer vacation after kindergarten and grade 1, extrapolated to the last and first day of school"
+      offset:
+        value: 2.65
+        unit: months
+        from: "last day of the school year"
+    result:
+      measure_type: other
+      estimate: -0.009
+      unit: "SD of the first test given"
+      standard_error: 0.011
+      p_value: "not significant (no marker in Table 2)"
+      model: >-
+        Linear growth model (average model): 2.65 times the average monthly
+        summer rate. Same column of Table 2: monthly SDs gained during school
+        year 0.129 (0.001); monthly SDs lost during summer -0.003 (0.004);
+        ratio -0.025 (0.033); months of school-year learning lost -0.066
+        (0.087).
+      interpretation: "Described in the text as trivial and statistically insignificant in math"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Covers only the two summers after kindergarten and grade 1, because the
+      ECLS-K:2011 gave no fall tests after grade 2; the vendor estimates cover
+      later summers as well.
+    source_quote: "Total SDs lost during −0.207† −0.498† −0.290† −0.029∗ −0.424† −0.493† −0.386† −0.009"
+    source_location: "Table 2, math columns (eighth value: ECLS-K:2011)"
+
+not_yet_extracted:
+  - "\"Theta scores were more than 90 percent reliable\" (ECLS-K:2011): a property of the ECLS-K instrument from its documentation, not a figure this study computed, so not recorded"
+  - "Table 2 reading columns: total SDs lost during summer -0.207 (Renaissance), -0.498 (NWEA K–5), -0.290 (NWEA 2–5), -0.029 (ECLS-K:2011), with monthly rates, ratios and months of learning lost"
+  - "Table 3: SDs of test scores in fall and spring by grade, and average % change in SD during summers and school years"
+  - "Table 4 and text: monthly gap changes between high- and low-poverty schools, by race/ethnicity and by gender, during school and summer"
+  - "Unextrapolated (test-date to test-date) summer change, shown only in Figure 1 and not printed as numbers"
+  - "Historical review figures quoted from Cooper et al. (1996) (e.g. 48 of 80 early results showed losses); these are Cooper et al.'s figures, not this study's"

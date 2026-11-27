@@ -1,0 +1,702 @@
+# Logan (1988), Experiment 4: alphabet arithmetic (verify "A + 2 = C"),
+# 80 problems each presented 72 times over 12 sessions.
+#
+# One of five experiments in a theory paper; Experiments 1-3 are their own
+# records (logan-1988-exp1, -exp2, -exp3).
+#
+# Read from a pdftotext extraction of the published article. Added
+# 2026-11-27 from PAGE IMAGES of the PDF (p. 508, Table 3): the fitted
+# power-function parameters below (observations named fit-*). Their
+# source_quote values are table rows as printed on the page image, not
+# text-layer strings; every other quote is from the text layer.
+#
+# Table 3 prints no 'Constrained fits' / 'Separate fits' headings: its two
+# blocks are told apart by their rows, C in the upper block and CRT and CSD in
+# the lower, which the table's note defines as the simultaneous and the
+# separate exponents. Each fit-* observation's source_location names its block.
+#
+# WHAT THIS ARTICLE DOES AND DOES NOT PRINT ABOUT THE EXPERIMENT. The procedure
+# is given in outline and "Further details of the procedure can be found in
+# Logan and Klapp (1988)". The article prints NO number of subjects and no
+# description of them beyond "adult subjects". So `evidence_base` counts the
+# 80 problems, the one count this article prints, and the number of people is
+# left unstated rather than guessed. The power-function fits (Table 3) and the
+# two-segment refit of the addend = 5 data are this article's own analyses
+# and are recorded where the text states them.
+#
+# TABLE 3 IS GARBLED IN THE TEXT LAYER: values of its eight columns (true and
+# false equations, addends 2-5) interleave there. It reads cleanly on the
+# page image, and every column is recorded below as fit-* observations. Its printed caption reads "Alphabet Arithmetic Task of Experiment 5";
+# the table belongs to this experiment (the text cites it as Table 3 here).
+# Much of the experiment's Results text is two-column and interleaved in the
+# text layer, so only clauses that read cleanly are quoted.
+#
+# Figures from Logan & Klapp (1988) that this article cites (verification slope
+# of 400-500 ms per count with a 1,000 ms intercept; the 13th-session transfer
+# to the untrained half of the alphabet, slope back to about 400 ms/count) are
+# that study's figures and are not recorded here.
+#
+# WHAT THIS FILE USES:
+#   * `population.age: unreported` (no age, and no N, printed).
+#   * No reliability, no printed means.
+
+schema_version: 2
+
+study:
+  key: logan-1988-exp4
+  citation: "Logan, G. D. (1988). Toward an instance theory of automatization. Psychological Review, 95(4), 492–527."
+  doi: "10.1037/0033-295x.95.4.492"
+  design:
+    family: other
+    design_detail: >-
+      Single-group practice study over 12 sessions with no comparison
+      condition: subjects verified true and false alphabet-arithmetic
+      equations, each of 80 problems presented 6 times per session (480 trials
+      per session). The kind of false equation (true plus one or true minus
+      one) varied between subjects. Power functions with a common exponent
+      for means and standard deviations were fitted to group data per addend
+      and response type.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: items
+  size:
+    value: 80
+    unit: items
+  additional_sizes:
+    - value: 12
+      unit: sessions
+      note: "training sessions, 480 trials each; each problem presented 6 times per session, 72 times in all"
+  population:
+    description: >-
+      Adult subjects; the article prints neither their number nor how they
+      were recruited, and refers to Logan and Klapp (1988) for details.
+    age_or_stage: "Adults (\"adult subjects\"); no age figure printed"
+    age: unreported
+  context:
+    setting: "Laboratory practice over 12 sessions; equation verification by keypress"
+  arms:
+    - id: alphabet-arithmetic-training
+      description: "Training on 10 letters from one half of the alphabet (A-J or K-T), each with addends 2, 3, 4 and 5, in true and false equations: 80 problems, each presented 72 times, 6 per session for 12 sessions."
+      dose:
+        amount: 72
+        unit: presentations per problem
+        detail: "over 12 sessions of 480 trials"
+
+comparisons:
+  - id: presentations-within-subject
+    kind: within-subject-baseline
+    index_arm: alphabet-arithmetic-training
+    description: "Verification reaction time and its standard deviation as a function of the number of presentations of a problem (1 to 72), within subject, by addend and by true or false response."
+
+observations:
+
+  - id: addend5-learning-curve-discontinuity
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Response latency"
+      source_language: "a discontinuity appeared in the learning curves at about 24 presentations"
+      measure: "Mean verification reaction time for addend = 5 equations, by presentation"
+      scale: "milliseconds"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: qualitative
+      finding: >-
+        For addend = 5 equations the single power function fitted badly: the
+        learning curves showed a discontinuity at about 24 presentations, with
+        learning apparently faster after it than before. Many subjects reported
+        a strategy shift, deliberately learning the 5s with mnemonics. For
+        addends 2, 3 and 4 the power functions fitted reasonably well but
+        tended to overestimate the last few presentations.
+      perspective: mixed
+    moderators:
+      reported:
+        - variable: "Addend size"
+          relationship: "The discontinuity appeared for addend = 5 equations; the deviation from the power function was much worse there than for addends 2, 3 and 4"
+          source_quote: "curves at about 24 presentations; learning seems faster after the"
+      candidate:
+        - "A strategy shift to mnemonics (subjects' self-report), which the author offers as the explanation of the discontinuity"
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The sentence stating the discontinuity is interleaved with the
+      neighbouring column in the text layer; the quoted clause is the part
+      that reads cleanly. The moderator's quote is the same clause, because
+      the clause naming addend = 5 is the interleaved one.
+    source_quote: "curves at about 24 presentations; learning seems faster after the"
+    source_location: "Experiment 4, Results (p. 507)"
+
+  - id: addend5-two-segment-fit-true
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Fit of power functions to the practice curve"
+      source_language: "For true responses, rmsd decreased from 206 ms to 90 ms"
+      measure: "Root-mean-squared deviation of power functions fitted to addend = 5 true-equation means and SDs (common exponent): one function over all 72 presentations against separate functions before and after the 24th trial"
+      scale: "rmsd, milliseconds"
+      direction: lower-is-better
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 90
+      unit: "ms rmsd, two-segment fit (Trials 1-24 and 25-72)"
+      model: "Single constrained power-function fit over all presentations: rmsd 206 ms. Separate constrained power functions before and after the 24th trial: rmsd 90 ms."
+      interpretation: "Two learning curves fitted the addend = 5 data much better than one."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "For true responses, rmsd decreased from 206 ms to 90 ms;"
+    source_location: "Experiment 4, Results (p. 508)"
+
+  - id: addend5-two-segment-fit-false
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Fit of power functions to the practice curve"
+      source_language: "for false responses, it decreased from 194 ms to 88ms"
+      measure: "Root-mean-squared deviation of power functions fitted to addend = 5 false-equation means and SDs (common exponent): one function over all 72 presentations against separate functions before and after the 24th trial"
+      scale: "rmsd, milliseconds"
+      direction: lower-is-better
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 88
+      unit: "ms rmsd, two-segment fit (Trials 1-24 and 25-72)"
+      model: "Single constrained power-function fit: rmsd 194 ms. Separate constrained power functions before and after the 24th trial: rmsd 88 ms."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The text layer renders \"for\" as \"(or\"; the quote starts after it."
+    source_quote: "it decreased from 194 ms to 88ms."
+    source_location: "Experiment 4, Results (p. 508)"
+
+  - id: fit-constrained-true-addend2
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 2, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.317
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 384 ms; BRT (multiplicative constant, mean RT) 2052 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 828 ms; r2 0.968; rmsd 59.4 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column True equations: Addend 2"
+
+  - id: fit-separate-true-addend2
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 2, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.251
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 133 ms; BRT (multiplicative constant, mean RT) 2246 ms; ASD (asymptote, SD) 30 ms; BSD (multiplicative constant, SD) 889 ms; CSD (exponent fitted to SDs) 0.383; r2 0.974; rmsd 54.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column True equations: Addend 2"
+
+  - id: fit-constrained-true-addend3
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 3, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.255
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 195 ms; BRT (multiplicative constant, mean RT) 2770 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 893 ms; r2 0.960; rmsd 82.0 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column True equations: Addend 3"
+
+  - id: fit-separate-true-addend3
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 3, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.228
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 30 ms; BRT (multiplicative constant, mean RT) 2892 ms; ASD (asymptote, SD) 106 ms; BSD (multiplicative constant, SD) 817 ms; CSD (exponent fitted to SDs) 0.332; r2 0.960; rmsd 80.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column True equations: Addend 3"
+
+  - id: fit-constrained-true-addend4
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 4, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.238
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 3643 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1144 ms; r2 0.908; rmsd 148.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column True equations: Addend 4"
+
+  - id: fit-separate-true-addend4
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 4, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.241
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 5 ms; BRT (multiplicative constant, mean RT) 3679 ms; ASD (asymptote, SD) 112 ms; BSD (multiplicative constant, SD) 1099 ms; CSD (exponent fitted to SDs) 0.303; r2 0.908; rmsd 149.2 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column True equations: Addend 4"
+
+  - id: fit-constrained-true-addend5
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 5, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.327
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 4816 ms; ASD (asymptote, SD) 75 ms; BSD (multiplicative constant, SD) 1346 ms; r2 0.867; rmsd 206.3 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column True equations: Addend 5"
+
+  - id: fit-separate-true-addend5
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for true equations with addend 5, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.328
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 4834 ms; ASD (asymptote, SD) 76 ms; BSD (multiplicative constant, SD) 1334 ms; CSD (exponent fitted to SDs) 0.321; r2 0.869; rmsd 206.3 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column True equations: Addend 5"
+
+  - id: fit-constrained-false-addend2
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 2, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.327
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 357 ms; BRT (multiplicative constant, mean RT) 2371 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 903 ms; r2 0.960; rmsd 72.3 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column False equations: Addend 2"
+
+  - id: fit-separate-false-addend2
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 2, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.245
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 2630 ms; ASD (asymptote, SD) 76 ms; BSD (multiplicative constant, SD) 889 ms; CSD (exponent fitted to SDs) 0.416; r2 0.962; rmsd 69.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column False equations: Addend 2"
+
+  - id: fit-constrained-false-addend3
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 3, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.324
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 362 ms; BRT (multiplicative constant, mean RT) 3110 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1158 ms; r2 0.960; rmsd 87.4 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column False equations: Addend 3"
+
+  - id: fit-separate-false-addend3
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 3, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.274
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 98 ms; BRT (multiplicative constant, mean RT) 3307 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1088 ms; CSD (exponent fitted to SDs) 0.547; r2 0.964; rmsd 84.7 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column False equations: Addend 3"
+
+  - id: fit-constrained-false-addend4
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 4, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.282
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 29 ms; BRT (multiplicative constant, mean RT) 4065 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1249 ms; r2 0.949; rmsd 116.1 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column False equations: Addend 4"
+
+  - id: fit-separate-false-addend4
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 4, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.269
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 97 ms; BRT (multiplicative constant, mean RT) 3976 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1274 ms; CSD (exponent fitted to SDs) 0.290; r2 0.949; rmsd 115.3 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column False equations: Addend 4"
+
+  - id: fit-constrained-false-addend5
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 5, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.319
+      unit: "C, the exponent fitted to means and standard deviations simultaneously"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, the exponent constrained to be equal for means and SDs"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 5037 ms; ASD (asymptote, SD) 10 ms; BSD (multiplicative constant, SD) 1513 ms; r2 0.895; rmsd 193.9 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "C 0.317 0.255 0.238 0.327 0.327 0.324 0.282 0.319"
+    source_location: "Table 3, p. 508, upper block (C row: constrained fits), column False equations: Addend 5"
+
+  - id: fit-separate-false-addend5
+    comparison_ref: presentations-within-subject
+    outcome:
+      construct: "Shape of the practice curve"
+      source_language: "Parameter Estimates From Constrained and Separate Fits of Power Functions to Means and Standard Deviations of Reaction Times"
+      measure: "Exponent of power functions fitted to group mean verification reaction times and standard deviations for false equations with addend 5, by number of presentations"
+      scale: "power-function exponent (dimensionless)"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "across 72 presentations over 12 sessions"
+    result:
+      measure_type: other
+      estimate: 0.319
+      unit: "CRT, the exponent fitted to the means separately"
+      model: "Power function RT = a + bN^-c fitted to group mean RTs and SDs by presentation, means and SDs fitted separately"
+      descriptives: "ART (asymptote, mean RT) 0 ms; BRT (multiplicative constant, mean RT) 5028 ms; ASD (asymptote, SD) 0 ms; BSD (multiplicative constant, SD) 1470 ms; CSD (exponent fitted to SDs) 0.301; r2 0.896; rmsd 193.5 ms"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A fit to group-mean curves, not to individuals. Read from the page image of the printed table; the quote is the exponent's row across all eight columns, and this observation is the column named in source_location."
+    source_quote: "CRT 0.251 0.228 0.241 0.328 0.245 0.274 0.269 0.319"
+    source_location: "Table 3, p. 508, lower block (CRT and CSD rows: separate fits), column False equations: Addend 5"
+
+not_yet_extracted:
+  - "The ranges of the plotted means (816 to 4,285 ms) and standard deviations (162 to 1,408 ms), and the statement that constrained fits were as good as separate fits for all addends: printed on p. 506 in two columns that the text layer interleaves, so not quoted."
+  - "Number and description of subjects: not printed in this article (referred to Logan & Klapp, 1988)."
+  - "Mean reaction times and standard deviations per presentation are plotted (Figures 9 and 10) and not printed."

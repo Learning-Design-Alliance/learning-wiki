@@ -1,0 +1,419 @@
+# Penk & Richter (2017): change in test-taking motivation within a two-hour
+# low-stakes mathematics test, German National Assessment Study 2012.
+#
+# Read from the peDOCS repository copy (urn:nbn:de:0111-pedocs-174284), which the
+# cover sheet describes as a formally and content-revised version of the original
+# publication in Educational Assessment, Evaluation and Accountability 29(1),
+# 55-79. It is a blinded manuscript ("Institute xxx [blinded for review]"), not the
+# publisher's typeset version; page numbers below are the manuscript's. The cover
+# sheet prints the repository DOI 10.25656/01:17428, not the publisher DOI;
+# study.doi is the publisher's, as given for this key.
+#
+# Observational: one sample, no assigned conditions, test-taking motivation
+# measured three times (before, half way, after) and modelled with second-order
+# latent growth curves; every result is a whole-sample estimate.
+#
+# Figure 3 (the structural model with self-concept, the growth factors and test
+# performance) is extracted as scattered numbers ("R² = .22*", "R² = .00") with no
+# readable path labels, so no figure from it is recorded: the text says only that
+# self-concept "explained almost a quarter of the variance in initial probability
+# of success". See not_yet_extracted.
+
+schema_version: 2
+
+study:
+  key: penk-2017
+  citation: "Penk, C., & Richter, D. (2017). Change in test-taking motivation and its relationship to test performance in low-stakes assessments. Educational Assessment, Evaluation and Accountability, 29(1), 55–79."
+  doi: "10.1007/s11092-016-9248-7"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of a national low-stakes assessment. Self-reported
+      test-taking motivation (effort, probability of success, importance) at three
+      points in one two-hour testing session (T3 for about half the sample);
+      univariate and multivariate second-order latent growth curve models, then a
+      structural model predicting the mathematics score (Rasch WLE) from the growth
+      factors, mathematics self-concept and background variables. Mplus 7.1, MLR,
+      standard errors corrected for students nested in classes, sample weights;
+      significance cut-off p < .001.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 42298
+    unit: participants
+  additional_sizes:
+    - value: 44584
+      unit: participants
+      note: "the National Assessment Study's representative sample of ninth-graders, before exclusions"
+    - value: 1380
+      unit: participants
+      note: "students with special needs excluded (they received a different test)"
+    - value: 906
+      unit: participants
+      note: "excluded for disregarding the TTM questionnaire instructions (blank or uniform responses)"
+  population:
+    description: >-
+      German ninth-graders in a representative national sample; 49.8% female;
+      35.2% in academic-track schools, the rest in non-academic tracks.
+    age_or_stage: "Grade 9"
+    age:
+      unit: years
+      mean: 15.6
+      sd: 0.61
+  context:
+    setting: "German National Assessment Study, spring 2012: a two-hour paper-and-pencil mathematics and science test with no grade or individual feedback, a 15-minute break after the first hour"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Whole-sample correlations, reliabilities and model paths; no contrast between groups."
+
+observations:
+
+  - id: effort-importance-intercepts-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Initial test-taking effort and initial perceived importance of the test"
+      source_language: "The intercept of the effort factor and the intercept of the importance factor"
+      measure: "Latent intercept factors of the effort (4 items) and importance (2-item challenge subscale) growth processes"
+      scale: "latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "before the test (intercept of a linear growth model over three points in a two-hour session)"
+    result:
+      measure_type: correlation
+      estimate: 0.79
+      p_value: "< .001"
+      model: "Multivariate second-order latent growth curve model of effort, importance and probability of success; chi2(311) = 7781.83, CFI .96, TLI .95, RMSEA .02, SRMR .06"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "The analysed n of the multivariate model is not printed; the univariate models used 42,281 to 42,292."
+    source_quote: "The intercept of the effort factor and the intercept of the importance factor showed the highest correlation, as did the slope of the effort factor and the slope of the importance factor (r = .79 for both)."
+    source_location: "Results, p. 21; Table 3"
+
+  - id: effort-importance-slopes-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Change in test-taking effort and change in perceived importance"
+      source_language: "the slope of the effort factor and the slope of the importance factor"
+      measure: "Latent linear slope factors of the effort and importance growth processes"
+      scale: "latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "change over the two-hour session"
+    result:
+      measure_type: correlation
+      estimate: 0.79
+      p_value: "< .001"
+      model: "Multivariate second-order latent growth curve model (as above)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The intercept of the effort factor and the intercept of the importance factor showed the highest correlation, as did the slope of the effort factor and the slope of the importance factor (r = .79 for both)."
+    source_location: "Results, p. 21; Table 3"
+
+  - id: effort-success-intercepts-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Initial test-taking effort and initial expectancy for success"
+      source_language: "the intercepts for effort and probability of success"
+      measure: "Latent intercept factors of the effort and probability-of-success (3 items) growth processes"
+      scale: "latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "before the test (intercept)"
+    result:
+      measure_type: correlation
+      estimate: 0.21
+      p_value: "< .001"
+      model: "Multivariate second-order latent growth curve model (as above)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The text glosses this intercept correlation in terms of decreases ("test-takers
+      who decreased more than average..."); recorded as the intercept correlation
+      Table 3 prints. The slope correlation for the same pair is .45 (Table 3).
+    source_quote: "Moreover, the intercepts for effort and probability of success showed a small correlation (r = .21),"
+    source_location: "Results, p. 22; Table 3 row 5"
+
+  - id: importance-success-intercepts-correlation
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Initial perceived importance and initial expectancy for success"
+      source_language: "Probability of success intercept (with) Importance intercept"
+      measure: "Latent intercept factors of the importance and probability-of-success growth processes"
+      scale: "latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "before the test (intercept)"
+    result:
+      measure_type: correlation
+      estimate: 0.00
+      model: "Multivariate second-order latent growth curve model (as above)"
+      interpretation: "Not significant at the paper's p < .001 cut-off (no asterisk in Table 3)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Read from Table 3, row 5, column 3; the text does not mention this cell.
+      The text-layer row is clean: ".21* -.04 .00 -.01 –" under columns 1-4.
+    source_quote: "5. Probability of success intercept .21* -.04 .00 -.01 –"
+    source_location: "Table 3, p. 44"
+
+  - id: importance-to-performance-via-effort
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics test performance"
+      source_language: "the effect of the intercept for importance on test performance via effort"
+      measure: "Weighted likelihood estimates from a unidimensional Rasch scaling of the low-stakes mathematics test (balanced incomplete block design)"
+      scale: "standardised indirect effect (beta)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the two-hour session"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.13
+      model: >-
+        Model 2: mathematics score on the intercepts and slopes of effort,
+        importance and probability of success, mathematics self-concept, and sex,
+        school track, SES, immigration background and mathematics grade; 64% of
+        variance explained (57% by the background model alone). The importance
+        intercept had no significant direct effect; the effect "was fully mediated
+        by the initial level of effort". The indirect effect of initial probability
+        of success via effort was beta = .03.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A cross-sectional indirect effect from one structural model, not a causal
+      estimate. The direct paths are in Figure 3, whose text layer is not
+      readable; the indirect effects are in Appendix B.
+    source_quote: "Of the indirect effects shown in Appendix B, only the effect of the intercept for importance on test performance via effort was substantial and significant (beta = .13)."
+    source_location: "Results, p. 24"
+
+  - id: maths-test-wle-reliability
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics test performance"
+      source_language: "WLE Person separation reliability"
+      measure: "National Assessment Study 2012 mathematics test, Rasch-scaled weighted likelihood estimates"
+      scale: "person separation reliability"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the two-hour session"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      reliability:
+        statistic: other
+        over: items
+        form: "WLE person separation reliability"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The mathematics test showed a high reliability (WLE Person separation reliability = .91; EAP/PV reliability = .91)."
+    source_location: "Method, Achievement test, p. 13"
+
+  - id: maths-test-eap-pv-reliability
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics test performance"
+      source_language: "EAP/PV reliability"
+      measure: "National Assessment Study 2012 mathematics test, Rasch scaling"
+      scale: "EAP/PV reliability"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the two-hour session"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      reliability:
+        statistic: other
+        over: items
+        form: "EAP/PV reliability"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The mathematics test showed a high reliability (WLE Person separation reliability = .91; EAP/PV reliability = .91)."
+    source_location: "Method, Achievement test, p. 13"
+
+  - id: effort-scale-omega-t1
+    comparison_ref: whole-sample
+    sample:
+      value: 42080
+      unit: participants
+    outcome:
+      construct: "Test-taking effort"
+      source_language: "Effort"
+      measure: "Four items from Eklöf's TTM scale adapted to the time point, 1-4 agreement"
+      scale: "McDonald's omega"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "T1, before the test"
+    result:
+      measure_type: reliability
+      estimate: 0.83
+      reliability:
+        statistic: other
+        over: items
+        form: "McDonald's omega"
+      note: "T2 .86 (N 42,099), T3 .85 (N 22,601), same row of Table 1"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Effort 4 2.95 0.67 .83 2.73 0.75 .86 2.55 0.76 .85"
+    source_location: "Table 1, p. 42"
+
+  - id: success-scale-omega-t1
+    comparison_ref: whole-sample
+    sample:
+      value: 42080
+      unit: participants
+    outcome:
+      construct: "Expectancy for success"
+      source_language: "Probability of success (E)"
+      measure: "Three items of the Questionnaire on Current Motivation, probability-of-success subscale, 1-4 agreement"
+      scale: "McDonald's omega"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "T1, before the test"
+    result:
+      measure_type: reliability
+      estimate: 0.64
+      reliability:
+        statistic: other
+        over: items
+        form: "McDonald's omega"
+      note: "T2 .70, T3 .67, same row of Table 1"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The authors call the factors' reliabilities acceptable given the small number of items on each scale."
+    source_quote: "Probability of success (E) 3 2.88 0.56 .64 2.85 0.66 .70 2.85 0.64 .67"
+    source_location: "Table 1, p. 42"
+
+  - id: importance-scale-omega-t1
+    comparison_ref: whole-sample
+    sample:
+      value: 42080
+      unit: participants
+    outcome:
+      construct: "Perceived importance of the test (attainment value)"
+      source_language: "Importance (V)"
+      measure: "Two items of the Questionnaire on Current Motivation, challenge subscale, 1-4 agreement"
+      scale: "McDonald's omega"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "T1, before the test"
+    result:
+      measure_type: reliability
+      estimate: 0.67
+      reliability:
+        statistic: other
+        over: items
+        form: "McDonald's omega"
+      note: "T2 .73, T3 .75, same row of Table 1"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Importance (V) 2 2.75 0.80 .67 2.47 0.86 .73 2.39 0.87 .75"
+    source_location: "Table 1, p. 42"
+
+not_yet_extracted:
+  - "Figure 3 structural paths and R-squared values (the text layer prints 'R² = .22*', 'R² = .00', '.65*', '.63*', '.64*' without readable labels); the text says self-concept 'explained almost a quarter of the variance in initial probability of success'. Needs a page image."
+  - "Table 2 growth parameters (effort intercept 2.98, slope -0.13; importance 2.70, -0.18; probability of success 2.89, -0.02, with SDs) and Table 1 manifest means and SDs at T1-T3: not used here; the Table 2 text layer interleaves columns."
+  - "Table 3 remaining factor correlations (e.g. effort slope with probability-of-success slope .45; importance slope with probability-of-success slope .33)."
+  - "Mathematics self-concept reliability (McDonald's omega .91, four items) and Appendix A/B tables."

@@ -1,0 +1,309 @@
+# Muldner, Burleson, Van de Sande & VanLehn (2011), Study 1: is student or
+# problem the better predictor of gaming, in Andes physics tutor logs.
+#
+# The article analyses two log corpora with different samples, so each is its
+# own record: this file is the primary Andes analysis (286 college students,
+# 318 problems); `muldner-2011-study2` is the Algebra Cognitive Tutor
+# replication (53 high-school students, 775 problems).
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The linear regression of a student's percentage of gamed actions on a
+#     problem on the student's average gaming and the problem's average gaming:
+#     R2 .608, standardised coefficients .658 (student) and .325 (problem), and
+#     each predictor entered alone (49.6% and 18.6% of the variance).
+#   * The two "self-correlations": a student's average gaming on two random
+#     halves of their problems (r = .963), and a problem's average gaming on two
+#     random halves of its students (r = .89), with the authors' Z test of the
+#     difference. The source calls these self-correlations, not reliability, and
+#     prints no Spearman-Brown correction; they are recorded as correlations,
+#     as printed.
+#
+# All of it is associational: nothing was assigned. Gaming is labelled by the
+# authors' latency-based rule detector, which they say was hand-checked on a
+# new data fragment; no agreement or accuracy figure for the detector is
+# printed, so no reliability observation is recorded.
+#
+# `population.age: unreported`: the article says "college physics classes" and
+# "college students working at home" and prints no age figure.
+#
+# Read from the publisher's online-first PDF text layer (Springer, "123" page
+# footers). Page numbers are not cited because the online-first pagination
+# differs from the journal's 99-135; sections are.
+
+schema_version: 2
+
+study:
+  key: muldner-2011-study1
+  citation: "Muldner, K., Burleson, W., Van de Sande, B., & VanLehn, K. (2011). An analysis of students' gaming behaviors in an intelligent tutoring system: Predictors and impacts. User Modeling and User-Adapted Interaction, 21(1-2), 99-135."
+  doi: "10.1007/s11257-010-9086-0"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of DataShop logs of the Andes physics tutor, used for
+      assigned homework and test preparation in six college physics classes
+      over about three years. A rule-based detector labels each tutor-student
+      turn pair as gamed or not from response latency (skipping hints, copying
+      bottom-out hints, guessing after an incorrect entry, asking for a hint
+      straight after a correct entry). Per student-problem percentage of gamed
+      actions is analysed by linear regression, split-half self-correlations,
+      frequency distributions and Bayesian network parameter learning. No
+      condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: student-better-predictor-of-gaming-than-problem-andes
+    bearing: supports
+    anchor: kasia-muldner-winslow-burleson-brett-van-de-sande-kurt-vanlehn-2010
+  - claim: student-better-predictor-of-gaming-than-problem-andes
+    bearing: supports
+    anchor: kasia-muldner-winslow-burleson-brett-van-de-sande-kurt-vanlehn-2010-2
+
+evidence_base:
+  unit: participants
+  size:
+    value: 286
+    unit: participants
+  additional_sizes:
+    - value: 318
+      unit: items
+      note: "unique Andes physics problems in the analysed data"
+    - value: 6
+      unit: classes
+      note: "college physics classes the logs come from; not a unit of assignment"
+    - value: 900000
+      unit: other
+      note: "tutor-student turn pairs, as the source says, 'about 900,000 pairs'"
+  population:
+    description: >-
+      College students in six physics classes using the Andes intelligent
+      tutoring system for assigned homework and test preparation.
+    age_or_stage: "College; the article prints no age figure"
+    age: unreported
+  context:
+    setting: >-
+      Homework at home with the Andes Newtonian physics tutor, which gives
+      immediate red/green feedback on entries and a hint sequence ending in a
+      bottom-out hint; each bottom-out hint request slightly lowers the
+      problem's score.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Regression and split-half correlations across the whole Andes data set; no contrast between groups."
+
+observations:
+
+  - id: regression-student-coefficient
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "percentage of gaming by a student s on a problem p"
+      measure: "Detector-labelled share of a student's actions on a problem that were gamed, regressed on the student's average gaming across their problems and the problem's average gaming across its students"
+      scale: "standardised regression coefficient of the student predictor"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes, cross-sectional over problems"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.658
+      statistic: "t = 152.7"
+      p_value: "p < 0.001"
+      model: >-
+        Linear regression with two predictors, student average gaming and
+        problem average gaming; F = 16915, p < 0.001; R2 = .608. Problem
+        coefficient .325 (t = 74.23). Adding data set id explained only an
+        additional 1% of the variance.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The number of student-problem pairs entering the regression and its
+      degrees of freedom are not printed, so no analysed sample is recorded.
+    source_quote: "In this model, both student and problem yield a significant correlation with the dependent variable, but student is more strongly associated with gaming (student: standardized coefficient = .658, t = 152.7, p < 0.001; problem: standardized coefficient = .325, t = 74.23, p < 0.001)."
+    source_location: "Section 4.1, Linear regression analysis"
+
+  - id: regression-problem-coefficient
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "percentage of gaming by a student s on a problem p"
+      measure: "Detector-labelled share of a student's actions on a problem that were gamed, regressed on student and problem average gaming"
+      scale: "standardised regression coefficient of the problem predictor"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes, cross-sectional over problems"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.325
+      statistic: "t = 74.23"
+      p_value: "p < 0.001"
+      model: "The same two-predictor regression as regression-student-coefficient (R2 = .608)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "In this model, both student and problem yield a significant correlation with the dependent variable, but student is more strongly associated with gaming (student: standardized coefficient = .658, t = 152.7, p < 0.001; problem: standardized coefficient = .325, t = 74.23, p < 0.001)."
+    source_location: "Section 4.1, Linear regression analysis"
+
+  - id: variance-student-alone
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "percentage of gaming by a student s on a problem p"
+      measure: "Per student-problem gaming percentage regressed on the student's average gaming alone"
+      scale: "percent of variance explained"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes, cross-sectional over problems"
+    result:
+      measure_type: other
+      estimate: 49.6
+      unit: "percent of variance explained"
+      note: >-
+        Standardised coefficient .713 with student entered alone. Problem
+        entered alone explains 18.6% (standardised coefficient .434); see
+        variance-problem-alone.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "If we enter the independent variables separately to analyze the variance explained by each, the student variable accounts for 49.6% of the variance (standardized coefficient = .713), while the problem variable accounts for 18.6% of the variance (standardized coefficient = .434)."
+    source_location: "Section 4.1, Linear regression analysis"
+
+  - id: variance-problem-alone
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "percentage of gaming by a student s on a problem p"
+      measure: "Per student-problem gaming percentage regressed on the problem's average gaming alone"
+      scale: "percent of variance explained"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes, cross-sectional over problems"
+    result:
+      measure_type: other
+      estimate: 18.6
+      unit: "percent of variance explained"
+      note: "Standardised coefficient .434 with problem entered alone."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "If we enter the independent variables separately to analyze the variance explained by each, the student variable accounts for 49.6% of the variance (standardized coefficient = .713), while the problem variable accounts for 18.6% of the variance (standardized coefficient = .434)."
+    source_location: "Section 4.1, Linear regression analysis"
+
+  - id: student-self-correlation
+    sample:
+      value: 286
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Consistency of a student's gaming across problems"
+      source_language: "student self-correlation"
+      measure: "Each student's problems split at random into two buckets; average gaming per bucket (Eq. 2 on the subset); correlation of the two buckets across students"
+      scale: "Pearson correlation between halves"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes"
+    result:
+      measure_type: correlation
+      estimate: 0.963
+      p_value: "p < 0.001"
+      note: >-
+        One random split, as described. The problem self-correlation was .89;
+        the authors report the difference between the two coefficients
+        reliable, Z = 6.9, p < 0.05.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The sample is the 286 students of the data set; the source does not say
+      whether any student with too few problems to split was excluded. How
+      many problems each half held is not printed.
+    source_quote: "A correlation analysis yielded a high degree of association between the two buckets (r = .963, p < 0.001)."
+    source_location: "Section 4.2, Self-correlation analysis"
+
+  - id: problem-self-correlation
+    sample:
+      value: 318
+      unit: items
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Consistency of a problem's gaming across students"
+      source_language: "problem self-correlation"
+      measure: "The students who solved each problem split at random into two buckets; average gaming on the problem per bucket (Eq. 3); correlation of the two buckets across problems"
+      scale: "Pearson correlation between halves"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the courses' use of Andes"
+    result:
+      measure_type: correlation
+      estimate: 0.89
+      p_value: "p < 0.001"
+      note: "Lower than the student self-correlation (.963); Z = 6.9, p < 0.05 for the difference."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: "The analysed n is taken as the 318 problems of the data set; the source does not state it for this analysis."
+    source_quote: "We also found a high degree of association between the two buckets (r = .89, p < 0.001)."
+    source_location: "Section 4.2, Self-correlation analysis"
+
+not_yet_extracted:
+  - "Gaming frequency distributions: student distribution non-normal and apparently bimodal (Shapiro-Wilks W = .89, p = 0.02); problem distribution not different from normal (W = .92, p > 0.05)."
+  - "Bayesian network parameters (Fig. 4) are printed in a figure the text layer does not carry; the naive Bayes figures in the text (gaming probability 0.48 with studentClass high and problemClass low, 0.28 the reverse) are not encoded here."
+  - "Descriptives: on average 22.5% of tutor-student turn pairs were gamed; Table 2 gives the share per turn-pair type (e.g. 18.4% of all student actions were gaming on high-level hints)."
+  - "Section 6 onwards: gaming profiles of low and high gamers, hint viewing times (e.g. 3.2 s vs 8.1 s, F(1, 286) = 246), success after each hint type, and gaming's relation to problem solving and learning."
+  - "Discussion: a preliminary analysis of high-school honors students using Andes mostly in class found gaming 'in the 5% range'; not a result of this sample."
