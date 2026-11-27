@@ -1,0 +1,479 @@
+# Reeve (2013), Study 2: validating the Agentic Engagement Scale (AES).
+#
+# One article, three studies with three different samples, so three records:
+# reeve-2013-study1, reeve-2013-study2, reeve-2013-study3.
+#
+# WHAT THIS FILE RECORDS: the AES's correlations with autonomous motivation
+# (.44) and controlled motivation (−.14); autonomous motivation's correlations
+# with the other three aspects of engagement (Table 5 row 1), which the author
+# uses to say that engagement in general, not agentic engagement in particular,
+# goes with autonomous motivation; agentic engagement's path to course grade in
+# the structural model; and the alphas the article prints for this sample.
+#
+#   * `population.age: unreported`: college students; no age figure printed.
+#   * `measure_type: reliability`: six alphas. The Method text prints the AES
+#     alpha as "(α = 84)"; the recorded .84 is Table 3's, and the slip is noted.
+#   * All motivation and engagement measures are self-reports collected in one
+#     session; only course grade comes from the school record.
+#
+# QUOTES. The text layer of this PDF renders "=" as "⫽", alpha as "␣", "<" as
+# "⬍", minus as "⫺" and significance stars as "ⴱⴱ", and scrambles two-column
+# pages. Every source_quote containing one of those characters, and every table
+# row, was taken from the page image of the publisher's PDF and is written in
+# the article's own characters ("=", "α", "<", "−", "**"); the words around them
+# are as in the text layer, including its line-break hyphens ("in- cluded").
+# Read back into the text layer's glyphs, the Table 1 rows and the single-column
+# sentences match it exactly. Table 3, the Table 5 row, the Study 2 engagement
+# alphas and every Study 3 quote come out of the text layer interleaved or
+# garbled, and were read from the page images (pp. 585, 588, 589) only.
+
+schema_version: 2
+study:
+  key: reeve-2013-study2
+  citation: >-
+    Reeve, J. (2013). How students create motivationally supportive learning environments for themselves:
+    The concept of agentic engagement. Journal of Educational Psychology, 105(3), 579–595.
+  doi: 10.1037/a0032690
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional questionnaire study with a later outcome: self-reported motivation and four aspects
+      of engagement midway through the semester, final course grade from the school record at the end.
+      Correlations of observed scores; multilevel confirmatory factor analysis and a multilevel structural
+      model (LISREL 8.8) predicting course grade from the four latent engagement factors with gender as
+      a control.
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: aes-correlates-autonomous-controlled-motivation
+  bearing: supports
+  anchor: reeve-2013
+- claim: aes-correlates-autonomous-controlled-motivation
+  bearing: supports
+  anchor: reeve-2013-2
+- claim: agentic-engagement-unique-predictive-validity-achievement
+  bearing: supports
+  anchor: reeve-2013
+evidence_base:
+  unit: participants
+  size:
+    value: 248
+    unit: participants
+  additional_sizes:
+  - value: 4
+    unit: classes
+    note: sections of one course, each with its own teacher; too few for a teacher-level analysis
+  population:
+    description: >-
+      South Korean college students (132 female, 116 male) in four sections of the same course in the
+      Department of Education at a large university in Seoul; all students and teachers ethnic Korean.
+    age_or_stage: University students (education majors); the article prints no age figure
+    age: unreported
+  context:
+    setting: >-
+      Questionnaire at the beginning of one class midway through the semester, 5–10 min, in reference
+      to that course; Korean-translated scales, 1–5 Likert; course grades collected at the end of the
+      semester
+  arms: []
+comparisons:
+- id: whole-sample
+  kind: none
+  description: >-
+    Correlations, structural paths and scale reliabilities in the whole Study 2 sample; no contrast between
+    groups.
+observations:
+- id: aes-with-autonomous-motivation
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Autonomous motivation
+    source_language: autonomous motivation
+    measure: >-
+      Autonomous motivation (Academic Self-Regulation Questionnaire: four intrinsic and four identified-regulation
+      items, 1–5 Likert); correlated with the five-item AES
+    scale: Pearson correlation of observed scale scores
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: midway through the semester (questionnaire); course grade at the end of the semester
+  result:
+    measure_type: correlation
+    estimate: 0.44
+    p_value: < .01
+    interpretation: >-
+      The author adds that autonomous motivation correlated positively with all four aspects of engagement,
+      so engagement in general, not agentic engagement in particular, went with it.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: The five-item AES correlated positively and significantly with the measure of autonomous
+    motivation, r(248) = .44, p < .01, and negatively and significantly with controlled motivation, r(248)
+    = –.14, p < .05.
+  source_location: Study 2, Results, Construct validity, p. 586; Table 5 row 1
+- id: aes-with-controlled-motivation
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Controlled motivation
+    source_language: controlled motivation
+    measure: >-
+      Controlled motivation (Academic Self-Regulation Questionnaire: four introjected and four external-regulation
+      items, 1–5 Likert); correlated with the five-item AES
+    scale: Pearson correlation of observed scale scores
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: -0.14
+    p_value: < .05
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: The five-item AES correlated positively and significantly with the measure of autonomous
+    motivation, r(248) = .44, p < .01, and negatively and significantly with controlled motivation, r(248)
+    = –.14, p < .05.
+  source_location: Study 2, Results, Construct validity, p. 586; Table 5 row 2
+- id: autonomous-motivation-with-behavioral-engagement
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Behavioral engagement
+    source_language: Behavioral engagement
+    measure: >-
+      Behavioral engagement scale (Engagement Versus Disaffection with Learning), four items; correlated
+      with autonomous motivation
+    scale: Pearson correlation of observed scale scores
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.52
+    p_value: < .01
+    note: 'Above the diagonal of Table 5: observed (measured) variables.'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 1. Autonomous Motivation 3.55 0.62 — −.31** .44** .52** .69** .53** .26** −.01
+  source_location: Table 5, p. 588, row 1
+- id: autonomous-motivation-with-emotional-engagement
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Emotional engagement
+    source_language: Emotional engagement
+    measure: >-
+      Emotional engagement scale (Engagement Versus Disaffection with Learning), four items; correlated
+      with autonomous motivation
+    scale: Pearson correlation of observed scale scores
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.69
+    p_value: < .01
+    note: 'Above the diagonal of Table 5: observed (measured) variables.'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 1. Autonomous Motivation 3.55 0.62 — −.31** .44** .52** .69** .53** .26** −.01
+  source_location: Table 5, p. 588, row 1
+- id: autonomous-motivation-with-cognitive-engagement
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Cognitive engagement
+    source_language: Cognitive engagement
+    measure: >-
+      Learning-strategy items of the Metacognitive Strategies Questionnaire, four items; correlated with
+      autonomous motivation
+    scale: Pearson correlation of observed scale scores
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.53
+    p_value: < .01
+    note: 'Above the diagonal of Table 5: observed (measured) variables.'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 1. Autonomous Motivation 3.55 0.62 — −.31** .44** .52** .69** .53** .26** −.01
+  source_location: Table 5, p. 588, row 1
+- id: aes-predicts-course-grade
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Course achievement
+    source_language: course-specific achievement
+    measure: Final semester grade from the school record, 0–100
+    scale: standardised path coefficient
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.25
+    statistic: t = 3.20
+    p_value: < .01
+    model: >-
+      Multilevel structural equation model (LISREL 8.8): latent agentic, behavioral, emotional and cognitive
+      engagement and gender predicting course grade; behavioral engagement beta .28 (t = 2.80), emotional
+      .07 and cognitive −.06 (both ns); the predictors together explained 25% of the variance.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  observability_notes: >-
+    Four classes (k = 4) were too few for a teacher-level analysis; the author reports the results as
+    student-level after multilevel modelling.
+  source_quote: Only two of the hypothesized paths were individually significant, however, as behavioral
+    en- gagement (beta = .28, t = 2.80, p < .01) and agentic engagement (beta = .25, t = 3.20, p < .01)
+    individually predicted achievement while this was not true for either emotional engagement (beta =
+    .07, t = 0.87, ns) or cognitive engagement (beta = –.06, t = 0.75, ns).
+  source_location: Study 2, Results, Unique predictive validity, p. 586; Figure 2
+- id: aes-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Agentic engagement
+    source_language: Overall 5-item AES score
+    measure: The five-item Agentic Engagement Scale, 1–5 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.84
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+    interpretation: The Method text prints this alpha as “(α = 84)”, without the decimal point; Table
+      3 prints .84.
+  moderators:
+    reported: []
+    candidate: []
+  observability: &id002
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: α .86 .84 .81
+  source_location: Table 3, p. 585, Study 2 column
+- id: autonomous-motivation-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Autonomous motivation
+    source_language: autonomous motivation score
+    measure: Eight ASRQ items (intrinsic and identified regulation)
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.84
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: combined these eight items into a single autonomous motivation score (α = .84).
+  source_location: Study 2, Measures, p. 585
+- id: controlled-motivation-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Controlled motivation
+    source_language: controlled motivation score
+    measure: Eight ASRQ items (introjected and external regulation)
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.76
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: combined these eight items into a single controlled motivation score (α = .76).
+  source_location: Study 2, Measures, p. 585
+- id: behavioral-engagement-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Behavioral engagement
+    source_language: behavioral engagement
+    measure: Behavioral engagement scale, four items
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.87
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: All three measures showed acceptable levels of internal consistency in Study 2, including
+    behavioral engagement (four-items, α = .87), emotional engagement (four-items, α = .91), and cognitive
+    en- gagement (four-items, α = .72).
+  source_location: Study 2, Measures, p. 585
+- id: emotional-engagement-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Emotional engagement
+    source_language: emotional engagement
+    measure: Emotional engagement scale, four items
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.91
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: All three measures showed acceptable levels of internal consistency in Study 2, including
+    behavioral engagement (four-items, α = .87), emotional engagement (four-items, α = .91), and cognitive
+    en- gagement (four-items, α = .72).
+  source_location: Study 2, Measures, p. 585
+- id: cognitive-engagement-alpha
+  sample:
+    value: 248
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Cognitive engagement
+    source_language: cognitive engagement
+    measure: Cognitive engagement scale, four items
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.72
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: All three measures showed acceptable levels of internal consistency in Study 2, including
+    behavioral engagement (four-items, α = .87), emotional engagement (four-items, α = .91), and cognitive
+    en- gagement (four-items, α = .72).
+  source_location: Study 2, Measures, p. 585
+not_yet_extracted:
+- >-
+  The rest of Table 5: means and SDs, the remaining observed correlations (for example agentic engagement
+  with course grade .32) and the latent correlations below the diagonal (agentic engagement with achievement
+  .37).
+- >-
+  Confirmatory factor analysis fit and Table 4 loadings and intraclass correlations (mean ICC 5.9% across
+  the 18 measured variables).
+- Structural model fit, chi-square (327) = 436.36, RMSEA .074, and gender's path to achievement (Figure
+  2).
+- Table 3 item means and SDs for Study 2.

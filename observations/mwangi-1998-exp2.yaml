@@ -1,0 +1,567 @@
+# Mwangi & Sweller (1998), Experiment 2: integrated against split-source
+# worked examples of two-step compare word problems, Year 3 children, all
+# asked to self-explain.
+#
+# One file per experiment the simulator uses: mwangi-1998-exp2 and
+# mwangi-1998-exp3. Experiment 1 (worked examples against problem solving,
+# 18 children) is a different sample and has no record here.
+#
+# WHAT THIS FILE RECORDS: each group's mean and SD for problems solved
+# correctly in the acquisition, immediate and delayed tests (similar and
+# transfer problems), the article's t test for each, and the format effect on
+# delayed solution times. The article prints no standardised effect size, and
+# none is computed: a d from these means would be ours, not the article's.
+#
+#   * `measure_type: mean`: eight means with SDs, by arm.
+#   * `measure_type: reliability`: the self-explanation coding agreement,
+#     Scott's coefficient .897 and a proportion-agreement range .79-1.00.
+#     Scott's pi has no slot of its own, so statistic is `other` with the
+#     procedure in `form`.
+#   * `population.age`: the article prints the mean as "9 years 3 months";
+#     it is recorded as 111 months, the same figure in one unit, with a note.
+#
+# Read from the JSTOR copy of the journal pages (text layer, with the page images checked for
+# Experiment 3's tables). Every quote here comes from the text layer as is.
+
+schema_version: 2
+study:
+  key: mwangi-1998-exp2
+  citation: 'Mwangi, W., & Sweller, J. (1998). Learning to solve compare word problems: The effect of
+    example format and generating self-explanations. Cognition and Instruction, 16(2), 173–199.'
+  doi: 10.1207/s1532690xci1602_2
+  design:
+    family: randomized-controlled-trial
+    design_detail: Two-group experiment, children randomly assigned to integrated (n = 14) or split-source
+      (n = 13) worked examples of inconsistent-language two-step compare word problems; every child self-explained
+      each example. Individual sessions; acquisition test, immediate test and a delayed test 10 days later.
+      Group comparisons by t tests and format x problem ANOVAs. Small sample, two schools.
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: integrated-beats-split-source-compare-problems
+  bearing: supports
+  anchor: mwangi-1998
+- claim: integrated-beats-split-source-compare-problems
+  bearing: supports
+  anchor: mwangi-1998-2
+evidence_base:
+  unit: participants
+  size:
+    value: 27
+    unit: participants
+  population:
+    description: Twenty-seven Year 3 children (16 girls, 11 boys) attending two public schools in Sydney,
+      Australia.
+    age_or_stage: Year 3; mean age printed as 9 years 3 months
+    age:
+      unit: months
+      mean: 111
+      note: Printed as M = 9 years 3 months; 111 is that figure written in one unit.
+  context:
+    setting: Individual instruction in a quiet room, during the last term of the school year; the experimenter
+      read each problem aloud; explanations tape recorded
+  arms:
+  - id: integrated
+    description: Worked examples with the solution steps embedded in the relevant sections of the story
+      text (Appendix B); three worked solution-test problem pairs, no study time limit, child asked to
+      explain each solution to an imagined child who could not solve it, guided by open-ended questions.
+    size:
+      value: 14
+      unit: participants
+  - id: split-source
+    description: The same worked examples with the solution steps immediately after the story text (Appendix
+      B); same self-explanation procedure.
+    size:
+      value: 13
+      unit: participants
+comparisons:
+- id: integrated-vs-split
+  kind: between-groups
+  index_arm: integrated
+  reference_arm: split-source
+  description: Integrated against split-source worked examples, both with self-explanation.
+- id: coding-agreement
+  kind: none
+  description: Agreement between the researcher and an independent coder on the self-explanation protocols;
+    no contrast between groups.
+observations:
+- id: acquisition-correct-integrated
+  sample:
+    value: 14
+    unit: participants
+  arm_ref: integrated
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: acquisition phase, each problem straight after its worked example
+  result:
+    measure_type: mean
+    estimate: 2.43
+    sd: 0.94
+    unit: problems correct out of 3
+  moderators: &id002
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions 2.43 0.94 1.39 1.19 Incorrect attempts 1.07 1.38 2.92 2.81
+  source_location: Table 2, p. 181, Acquisition, Integrated
+- id: acquisition-correct-split
+  sample:
+    value: 13
+    unit: participants
+  arm_ref: split-source
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 1.39
+    sd: 1.19
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions 2.43 0.94 1.39 1.19 Incorrect attempts 1.07 1.38 2.92 2.81
+  source_location: Table 2, p. 181, Acquisition, Split
+- id: immediate-correct-integrated
+  sample:
+    value: 14
+    unit: participants
+  arm_ref: integrated
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id003
+    label: immediate test, after the acquisition phase
+  result:
+    measure_type: mean
+    estimate: 2.43
+    sd: 1.09
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions 2.43 1.09 2.15 0.80 Incorrect attempts 1.00 1.52 1.54 1.13
+  source_location: Table 2, p. 181, Immediate, Integrated
+- id: immediate-correct-split
+  sample:
+    value: 13
+    unit: participants
+  arm_ref: split-source
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: mean
+    estimate: 2.15
+    sd: 0.8
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions 2.43 1.09 2.15 0.80 Incorrect attempts 1.00 1.52 1.54 1.13
+  source_location: Table 2, p. 181, Immediate, Split
+- id: delayed-similar-correct-integrated
+  sample:
+    value: 14
+    unit: participants
+  arm_ref: integrated
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id004
+    label: delayed test
+    offset:
+      value: 10
+      unit: days
+      from: the acquisition phase
+  result:
+    measure_type: mean
+    estimate: 2.64
+    sd: 0.63
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions Similar 2.64 0.63 1.54 0.97 Transfer 1.57 0.76 1.54 0.66
+  source_location: Table 3, p. 183, Correct solutions, Similar, Integrated
+- id: delayed-similar-correct-split
+  sample:
+    value: 13
+    unit: participants
+  arm_ref: split-source
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.54
+    sd: 0.97
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions Similar 2.64 0.63 1.54 0.97 Transfer 1.57 0.76 1.54 0.66
+  source_location: Table 3, p. 183, Correct solutions, Similar, Split
+- id: delayed-transfer-correct-integrated
+  sample:
+    value: 14
+    unit: participants
+  arm_ref: integrated
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.57
+    sd: 0.76
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions Similar 2.64 0.63 1.54 0.97 Transfer 1.57 0.76 1.54 0.66
+  source_location: Table 3, p. 183, Correct solutions, Transfer, Integrated
+- id: delayed-transfer-correct-split
+  sample:
+    value: 13
+    unit: participants
+  arm_ref: split-source
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.54
+    sd: 0.66
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Correct solutions Similar 2.64 0.63 1.54 0.97 Transfer 1.57 0.76 1.54 0.66
+  source_location: Table 3, p. 183, Correct solutions, Transfer, Split
+- id: acquisition-correct-format-test
+  sample:
+    value: 27
+    unit: participants
+  comparison_ref: integrated-vs-split
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: other
+    statistic: t(25) = 2.54
+    interpretation: Integrated group solved significantly more acquisition test problems than the split-source
+      group.
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The article prints the test statistic and the group means and SDs (recorded as
+    mean observations), but no standardised effect size; none is computed here.
+  source_quote: In relation to the number of acquisition test problems solved correctly, students in the
+    integrated group significantly outperformed those in the split-source group, t(25) = 2.54.
+  source_location: Experiment 2, Results, Acquisition phase, p. 182
+- id: immediate-correct-format-test
+  sample:
+    value: 27
+    unit: participants
+  comparison_ref: integrated-vs-split
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: other
+    statistic: t(25) = 0.74
+    interpretation: No significant difference between groups; the authors suggest a practice effect across
+      both conditions.
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The article prints the test statistic and the group means and SDs (recorded as
+    mean observations), but no standardised effect size; none is computed here.
+  source_quote: Similarly, there was no significant difference between groups in the number of immediate
+    test problems solved correctly, t(25) = 0.74.
+  source_location: Experiment 2, Results, Immediate test, p. 182
+- id: delayed-similar-correct-format-test
+  sample:
+    value: 27
+    unit: participants
+  comparison_ref: integrated-vs-split
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: other
+    statistic: t(25) = 3.54
+    interpretation: Integrated group solved significantly more delayed similar problems; it also made
+      fewer incorrect attempts on them, t(25) = 3.38.
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The article prints the test statistic and the group means and SDs (recorded as
+    mean observations), but no standardised effect size; none is computed here.
+  source_quote: Significant differences in the number of problems solved correctly and in the number of
+    incorrect attempts made were obtained for similar delayed test problems, t(25) = 3.54, and t(25) =
+    3.38, respectively.
+  source_location: Experiment 2, Results, Delayed test, p. 182
+- id: delayed-transfer-correct-format-test
+  sample:
+    value: 27
+    unit: participants
+  comparison_ref: integrated-vs-split
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: other
+    statistic: t(25) = 0.12
+    interpretation: No significant difference on transfer problems (incorrect attempts t(25) = 1.47, also
+      not significant).
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The article prints the test statistic and the group means and SDs (recorded as
+    mean observations), but no standardised effect size; none is computed here.
+  source_quote: Similarly, there were no significant differences in correct solution and incorrect attempts
+    made when solving transfer problems, t(25) = 0.12, and t(25) = 1.47, respectively.
+  source_location: Experiment 2, Results, Delayed test, p. 182
+- id: delayed-similar-solution-time-format-test
+  sample:
+    value: 27
+    unit: participants
+  comparison_ref: integrated-vs-split
+  outcome:
+    construct: Problem-solving speed
+    source_language: solution times for similar problems
+    measure: Time to solve each of the three delayed similar problems
+    scale: seconds
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: other
+    statistic: F(1, 25) = 13.06, MSE = 5,085.61
+    interpretation: Significant effect of format on solution times for the three delayed similar problems,
+      integrated faster (Table 3).
+    model: 2 (format) x 3 (problem) ANOVA, problem repeated
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The article prints the test statistic and the group means and SDs (recorded as
+    mean observations), but no standardised effect size; none is computed here.
+  source_quote: A 2 (format) x 3 (problem) ANOVA, with repeated measures on the second factor, of solution
+    times for similar problems, showed a significant effect of format, F(1, 25) = 13.06, MSE = 5,085.61.
+  source_location: Experiment 2, Results, Delayed test, p. 182
+- id: coding-reliability-scott
+  sample:
+    value: 8
+    unit: other
+  comparison_ref: coding-agreement
+  outcome:
+    construct: Self-explanation coding agreement
+    source_language: intercoder reliability
+    measure: An independent coder, blind to group, coded the explanations for the three worked solutions
+      in eight randomly selected protocols with the eight-category scheme
+    scale: Scott's procedure (1955)
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: &id005 []
+  time:
+    label: after the experiment, on transcribed protocols
+  result:
+    measure_type: reliability
+    estimate: 0.897
+    reliability:
+      statistic: other
+      over: raters
+      form: intercoder reliability coefficient using Scott's (1955) procedure
+    note: Sample counts protocols (one per child), not participants coded.
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: The proportion of agreement between the two coders ranged from 0.79 to 1.00. An intercoder
+    reliability coefficient of .897 was obtained using Scott's (1955) procedure.
+  source_location: Experiment 2, Coding reliability, p. 184
+- id: coding-agreement-proportion
+  sample:
+    value: 8
+    unit: other
+  comparison_ref: coding-agreement
+  outcome:
+    construct: Self-explanation coding agreement
+    source_language: intercoder reliability
+    measure: An independent coder, blind to group, coded the explanations for the three worked solutions
+      in eight randomly selected protocols with the eight-category scheme
+    scale: proportion of agreement, 0–1
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: *id005
+  time:
+    label: after the experiment, on transcribed protocols
+  result:
+    measure_type: reliability
+    estimate_range:
+      lower: 0.79
+      upper: 1.0
+      over:
+        value: 8
+        unit: other
+    reliability:
+      statistic: other
+      over: raters
+      form: proportion of agreement between the two coders
+    note: Printed as a proportion, not a percentage, so not recorded as percent_agreement. The article
+      does not say what the range is across; `over` assumes the eight protocols and should be read as
+      that assumption.
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  observability_notes: Whether the range is across protocols, worked solutions or categories is not stated.
+  source_quote: The proportion of agreement between the two coders ranged from 0.79 to 1.00. An intercoder
+    reliability coefficient of .897 was obtained using Scott's (1955) procedure.
+  source_location: Experiment 2, Coding reliability, p. 184
+not_yet_extracted:
+- Table 2 and Table 3 solution and study times per problem, and incorrect attempts per phase (acquisition
+  t(25) = 2.20; immediate t(25) = 1.50, p = .073; delayed similar t(25) = 3.38).
+- Study-time ANOVA (format F(1, 25) = 6.08; format x problem F(2, 50) = 4.25) and its simple effects.
+- 'Self-explanation analyses: Tables 5-8 (explanation categories, rereads, metacognitive statements, knowledge
+  components) and their t and chi-square tests, including more correct inferences in the integrated group,
+  t(17) = 1.73, p = .05, on 10 and 9 analysed protocols.'

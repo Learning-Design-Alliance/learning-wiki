@@ -1,0 +1,492 @@
+# Reeve (2013), Study 1: developing the Agentic Engagement Scale (AES).
+#
+# One article, three studies with three different samples, so three records:
+# reeve-2013-study1, reeve-2013-study2, reeve-2013-study3.
+#
+# WHAT THIS FILE RECORDS: Table 1's correlations of each of the five items kept
+# in the final AES with the two measures of "agentic motivation" (psychological
+# need satisfaction and academic efficacy), one observation per item and
+# measure, and the alphas the article prints for its own sample. The article
+# prints no range or average over the retained items, so none is recorded.
+#
+#   * `population.age: unreported`: the sample is described as college
+#     students, and no age figure is printed.
+#   * `measure_type: reliability`: alphas for need satisfaction (.83), academic
+#     efficacy (.88) and the five-item AES (.86, Table 3).
+#
+# QUOTES. The text layer of this PDF renders "=" as "⫽", alpha as "␣", "<" as
+# "⬍", minus as "⫺" and significance stars as "ⴱⴱ", and scrambles two-column
+# pages. Every source_quote containing one of those characters, and every table
+# row, was taken from the page image of the publisher's PDF and is written in
+# the article's own characters ("=", "α", "<", "−", "**"); the words around them
+# are as in the text layer, including its line-break hyphens ("in- cluded").
+# Read back into the text layer's glyphs, the Table 1 rows and the single-column
+# sentences match it exactly. Table 3, the Table 5 row, the Study 2 engagement
+# alphas and every Study 3 quote come out of the text layer interleaved or
+# garbled, and were read from the page images (pp. 585, 588, 589) only.
+
+schema_version: 2
+study:
+  key: reeve-2013-study1
+  citation: >-
+    Reeve, J. (2013). How students create motivationally supportive learning environments for themselves:
+    The concept of agentic engagement. Journal of Educational Psychology, 105(3), 579–595.
+  doi: 10.1037/a0032690
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional questionnaire study for scale development: ten candidate agentic engagement items
+      correlated with two self-reported measures of agentic motivation (psychological need satisfaction,
+      academic efficacy), then an exploratory factor analysis (principal axis factoring, oblique rotation)
+      with behavioural, emotional and cognitive engagement items. All measures self-report.
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+evidence_base:
+  unit: participants
+  size:
+    value: 271
+    unit: participants
+  additional_sizes:
+  - value: 6
+    unit: classes
+    note: courses in the College of Engineering; not a unit of assignment or of analysis
+  population:
+    description: >-
+      South Korean college students (48 female, 222 male, 1 unknown), engineering majors at a large university
+      in Incheon; all students and teachers ethnic Korean.
+    age_or_stage: University students; the article prints no age figure
+    age: unreported
+  context:
+    setting: >-
+      Questionnaire at the beginning of a class period midway through the semester, 5–10 min, rated in
+      reference to that course; Korean-translated scales, 1–7 Likert
+  arms: []
+comparisons:
+- id: whole-sample
+  kind: none
+  description: Item-level correlations and scale reliabilities in the whole Study 1 sample; no contrast
+    between groups.
+observations:
+- id: aes-item1b-with-efficacy
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: Academic efficacy
+    measure: >-
+      Academic efficacy scale of the Patterns of Adaptive Learning Scales, five items, 1–7 Likert; correlated
+      with the single agentic engagement item “During class, I ask questions to help me learn.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: midway through the semester, one questionnaire session
+  result:
+    measure_type: correlation
+    estimate: 0.63
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: '1b. Revised version: During class, I ask questions to help me learn. .48** .63**'
+  source_location: Table 1, p. 583
+- id: aes-item1b-with-need-satisfaction
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: Psychological need satisfaction
+    measure: >-
+      Activity-Feelings States: autonomy (4 items), competence (3), relatedness (3), 1–7 Likert; correlated
+      with the single agentic engagement item “During class, I ask questions to help me learn.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.48
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: '1b. Revised version: During class, I ask questions to help me learn. .48** .63**'
+  source_location: Table 1, p. 583
+- id: aes-item3-with-efficacy
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: Academic efficacy
+    measure: >-
+      Academic efficacy scale of the Patterns of Adaptive Learning Scales, five items, 1–7 Likert; correlated
+      with the single agentic engagement item “I let my teacher know what I’m interested in.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.36
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 3. I let my teacher know what I’m interested in. .36** .36**
+  source_location: Table 1, p. 583
+- id: aes-item3-with-need-satisfaction
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: Psychological need satisfaction
+    measure: >-
+      Activity-Feelings States: autonomy (4 items), competence (3), relatedness (3), 1–7 Likert; correlated
+      with the single agentic engagement item “I let my teacher know what I’m interested in.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.36
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 3. I let my teacher know what I’m interested in. .36** .36**
+  source_location: Table 1, p. 583
+- id: aes-item5-with-efficacy
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: Academic efficacy
+    measure: >-
+      Academic efficacy scale of the Patterns of Adaptive Learning Scales, five items, 1–7 Likert; correlated
+      with the single agentic engagement item “During this class, I express my preferences and opinions.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.4
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 5. During this class, I express my preferences and opinions. .45** .40**
+  source_location: Table 1, p. 583
+- id: aes-item5-with-need-satisfaction
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: Psychological need satisfaction
+    measure: >-
+      Activity-Feelings States: autonomy (4 items), competence (3), relatedness (3), 1–7 Likert; correlated
+      with the single agentic engagement item “During this class, I express my preferences and opinions.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.45
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 5. During this class, I express my preferences and opinions. .45** .40**
+  source_location: Table 1, p. 583
+- id: aes-item6-with-efficacy
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: Academic efficacy
+    measure: >-
+      Academic efficacy scale of the Patterns of Adaptive Learning Scales, five items, 1–7 Likert; correlated
+      with the single agentic engagement item “I let my teacher know what I need and want.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.32
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 6. I let my teacher know what I need and want. .36** .32**
+  source_location: Table 1, p. 583
+- id: aes-item6-with-need-satisfaction
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: Psychological need satisfaction
+    measure: >-
+      Activity-Feelings States: autonomy (4 items), competence (3), relatedness (3), 1–7 Likert; correlated
+      with the single agentic engagement item “I let my teacher know what I need and want.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.36
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 6. I let my teacher know what I need and want. .36** .32**
+  source_location: Table 1, p. 583
+- id: aes-item7-with-efficacy
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: Academic efficacy
+    measure: >-
+      Academic efficacy scale of the Patterns of Adaptive Learning Scales, five items, 1–7 Likert; correlated
+      with the single agentic engagement item “When I need something in this class, I’ll ask the teacher
+      for it.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.44
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 7. When I need something in this class, I’ll ask the teacher for it. .36** .44**
+  source_location: Table 1, p. 583
+- id: aes-item7-with-need-satisfaction
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: Psychological need satisfaction
+    measure: >-
+      Activity-Feelings States: autonomy (4 items), competence (3), relatedness (3), 1–7 Likert; correlated
+      with the single agentic engagement item “When I need something in this class, I’ll ask the teacher
+      for it.”
+    scale: Pearson correlation with one agentic engagement item (1–7 Likert)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: correlation
+    estimate: 0.36
+    p_value: < .01
+    note: Item-level correlation. The item was retained in the five-item Agentic Engagement Scale.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+  source_quote: 7. When I need something in this class, I’ll ask the teacher for it. .36** .44**
+  source_location: Table 1, p. 583
+- id: aes-alpha
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Agentic engagement
+    source_language: Overall 5-item AES score
+    measure: The five retained Agentic Engagement Scale items, 1–7 Likert
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.86
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: &id002
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: α .86 .84 .81
+  source_location: Table 3, p. 585, Study 1 column (Study 2 .84, Study 3 .81)
+- id: need-satisfaction-alpha
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Psychological need satisfaction
+    source_language: psychological need satisfaction
+    measure: Activity-Feelings States, 10 items
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.83
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: The overall 10-item assessment showed acceptable reliability (α = .83).
+  source_location: Study 1, Measures, p. 582
+- id: efficacy-alpha
+  sample:
+    value: 271
+    unit: participants
+  comparison_ref: whole-sample
+  outcome:
+    construct: Academic self-efficacy
+    source_language: academic efficacy scale
+    measure: Academic efficacy scale, Patterns of Adaptive Learning Scales, five items
+    scale: Cronbach's alpha
+    direction: higher-is-better
+    role: other
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: reliability
+    estimate: 0.88
+    reliability:
+      statistic: cronbach_alpha
+      over: items
+  moderators:
+    reported: []
+    candidate: []
+  observability: *id002
+  source_quote: The academic efficacy scale in- cluded five items (e.g., “I’m certain I can master the
+    skills taught in this class this year”) and showed an acceptable reliability (α = .88).
+  source_location: Study 1, Measures, p. 582
+not_yet_extracted:
+- >-
+  Table 1 correlations for the five items not retained in the final scale (original items 1, 2 and 4;
+  candidate items 8 and 9).
+- Table 2 factor loadings and factor intercorrelations from the exploratory factor analysis.
+- >-
+  Table 3 item and scale means and SDs, skewness, kurtosis and the gender t test (Study 1 scale M 3.35,
+  SD 1.13).
+- Alphas for the behavioural (.86), emotional (.90) and cognitive (.84) engagement scales.
+- The z test comparing item 1b with item 1 on academic efficacy (z = 3.82).

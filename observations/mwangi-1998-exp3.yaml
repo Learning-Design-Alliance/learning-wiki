@@ -1,0 +1,627 @@
+# Mwangi & Sweller (1998), Experiment 3: example format (integrated or
+# split-source) crossed with self-explanation (asked or not), Year 4 children.
+#
+# One file per experiment the simulator uses: mwangi-1998-exp2 and
+# mwangi-1998-exp3.
+#
+# WHAT THIS FILE RECORDS: Table 11's mean and SD of problems solved correctly
+# for each of the four cells in each phase (acquisition, immediate, delayed
+# similar, delayed transfer), and the three F tests the article prints for its
+# 2 x 2 ANOVAs. The article prints no standardised effect size, and none is
+# computed here.
+#
+#   * `measure_type: mean`, by arm. The article gives 48 children and a
+#     random half of each format group per self-explanation condition, but no
+#     cell n, so no per-cell sample is recorded.
+#   * No reliability: the self-explanation protocols were "analyzed as in
+#     Experiment 2", and no agreement figure is printed for this experiment.
+#   * `population.age`: printed as "9 years 11 months", recorded as 119
+#     months, the same figure in one unit, with a note.
+#   * The delay before the delayed test is not restated for this experiment.
+#
+# Table 11 comes out of the text layer as one run of figures per phase; its
+# column order (no explanation then self-explanation, correct then incorrect)
+# was checked against the page image (p. 192). The quotes are the text layer's.
+
+schema_version: 2
+study:
+  key: mwangi-1998-exp3
+  citation: 'Mwangi, W., & Sweller, J. (1998). Learning to solve compare word problems: The effect of
+    example format and generating self-explanations. Cognition and Instruction, 16(2), 173–199.'
+  doi: 10.1207/s1532690xci1602_2
+  design:
+    family: randomized-controlled-trial
+    design_detail: '2 (example format: integrated, split-source) x 2 (self-explanation, none) between-subjects
+      experiment. Children randomly assigned to format, then half of each format group randomly assigned
+      to self-explain; no-explanation groups studied each example for a time set from Experiment 2''s
+      mean self-explanation time (84 s). Tasks and procedures as in Experiment 2. Analysed by 2 x 2 ANOVAs
+      per phase and measure.'
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+appears_in:
+- claim: self-explanation-no-effect-procedural-word-problems
+  bearing: supports
+  anchor: mwangi-1998
+- claim: self-explanation-no-effect-procedural-word-problems
+  bearing: supports
+  anchor: mwangi-1998-2
+- claim: integrated-beats-split-source-compare-problems
+  bearing: qualifies
+evidence_base:
+  unit: participants
+  size:
+    value: 48
+    unit: participants
+  population:
+    description: Forty-eight Year 4 children (25 girls, 23 boys) randomly selected from two public schools
+      in Sydney, Australia.
+    age_or_stage: Year 4, early in the school year (April-May); mean age printed as 9 years 11 months
+    age:
+      unit: months
+      mean: 119
+      note: Printed as M = 9 years 11 months; 119 is that figure written in one unit.
+  context:
+    setting: Individual sessions, administered as in Experiment 2
+  arms:
+  - id: integrated-no-explanation
+    description: Integrated worked examples, studied for a set time with no request to self-explain.
+  - id: split-no-explanation
+    description: Split-source worked examples, studied for a set time with no request to self-explain.
+  - id: integrated-self-explanation
+    description: Integrated worked examples with Experiment 2's self-explanation procedure.
+  - id: split-self-explanation
+    description: Split-source worked examples with Experiment 2's self-explanation procedure.
+comparisons:
+- id: format-pooled
+  kind: between-groups
+  index_arm:
+  - integrated-no-explanation
+  - integrated-self-explanation
+  reference_arm:
+  - split-no-explanation
+  - split-self-explanation
+  description: Main effect of example format, over both self-explanation conditions.
+- id: self-explanation-pooled
+  kind: between-groups
+  index_arm:
+  - integrated-self-explanation
+  - split-self-explanation
+  reference_arm:
+  - integrated-no-explanation
+  - split-no-explanation
+  description: Main effect of being asked to self-explain, over both formats.
+- id: format-by-self-explanation
+  kind: other
+  index_arm:
+  - integrated-self-explanation
+  - split-no-explanation
+  reference_arm:
+  - integrated-no-explanation
+  - split-self-explanation
+  description: 'Format x self-explanation interaction in the 2 x 2 ANOVA: whether the format difference
+    differs between the self-explanation and no-explanation conditions.'
+observations:
+- id: acquisition-correct-integrated-no-explanation
+  arm_ref: integrated-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id001
+    label: acquisition phase, each problem straight after its worked example
+  result:
+    measure_type: mean
+    estimate: 2.08
+    sd: 1.0
+    unit: problems correct out of 3
+  moderators: &id002
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Acquisition Integrated 2.08 1.00 2.75 2.26 2.08 1.08 2.50 1.73 Split 1.58 1.24 4.17 2.59
+    2.00 1.28 2.42 1.83
+  source_location: Table 11, p. 192, Acquisition, Integrated, No Explanation, Correct Solutions
+- id: acquisition-correct-split-no-explanation
+  arm_ref: split-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 1.58
+    sd: 1.24
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Acquisition Integrated 2.08 1.00 2.75 2.26 2.08 1.08 2.50 1.73 Split 1.58 1.24 4.17 2.59
+    2.00 1.28 2.42 1.83
+  source_location: Table 11, p. 192, Acquisition, Split, No Explanation, Correct Solutions
+- id: acquisition-correct-integrated-self-explanation
+  arm_ref: integrated-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 2.08
+    sd: 1.08
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Acquisition Integrated 2.08 1.00 2.75 2.26 2.08 1.08 2.50 1.73 Split 1.58 1.24 4.17 2.59
+    2.00 1.28 2.42 1.83
+  source_location: Table 11, p. 192, Acquisition, Integrated, Self-Explanation, Correct Solutions
+- id: acquisition-correct-split-self-explanation
+  arm_ref: split-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three acquisition test problems, each solved after studying a worked example; up to 3 min
+      per problem
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id001
+  result:
+    measure_type: mean
+    estimate: 2.0
+    sd: 1.28
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Acquisition Integrated 2.08 1.00 2.75 2.26 2.08 1.08 2.50 1.73 Split 1.58 1.24 4.17 2.59
+    2.00 1.28 2.42 1.83
+  source_location: Table 11, p. 192, Acquisition, Split, Self-Explanation, Correct Solutions
+- id: immediate-correct-integrated-no-explanation
+  arm_ref: integrated-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id003
+    label: immediate test, after the acquisition phase
+  result:
+    measure_type: mean
+    estimate: 2.75
+    sd: 0.62
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Immediate Integrated 2.75 0.62 1.33 1.67 2.42 1.00 1.75 1.60 Split 2.00 1.04 2.58 2.27
+    2.33 0.78 3.08 1.56
+  source_location: Table 11, p. 192, Immediate, Integrated, No Explanation, Correct Solutions
+- id: immediate-correct-split-no-explanation
+  arm_ref: split-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: mean
+    estimate: 2.0
+    sd: 1.04
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Immediate Integrated 2.75 0.62 1.33 1.67 2.42 1.00 1.75 1.60 Split 2.00 1.04 2.58 2.27
+    2.33 0.78 3.08 1.56
+  source_location: Table 11, p. 192, Immediate, Split, No Explanation, Correct Solutions
+- id: immediate-correct-integrated-self-explanation
+  arm_ref: integrated-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: mean
+    estimate: 2.42
+    sd: 1.0
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Immediate Integrated 2.75 0.62 1.33 1.67 2.42 1.00 1.75 1.60 Split 2.00 1.04 2.58 2.27
+    2.33 0.78 3.08 1.56
+  source_location: Table 11, p. 192, Immediate, Integrated, Self-Explanation, Correct Solutions
+- id: immediate-correct-split-self-explanation
+  arm_ref: split-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three immediate test problems similar in structure to the acquisition problems
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: mean
+    estimate: 2.33
+    sd: 0.78
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  source_quote: Immediate Integrated 2.75 0.62 1.33 1.67 2.42 1.00 1.75 1.60 Split 2.00 1.04 2.58 2.27
+    2.33 0.78 3.08 1.56
+  source_location: Table 11, p. 192, Immediate, Split, Self-Explanation, Correct Solutions
+- id: delayed-similar-correct-integrated-no-explanation
+  arm_ref: integrated-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: &id004
+    label: delayed test; the interval is not restated for Experiment 3 (procedures the same as Experiment
+      2's, whose delayed test came 10 days after acquisition)
+  result:
+    measure_type: mean
+    estimate: 2.42
+    sd: 0.67
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (similar) Integrated 2.42 0.67 2.58 2.02 1.83 0.94 3.50 1.73 Split 2.00 1.21 3.08
+    3.00 2.17 1.03 2.67 1.67
+  source_location: Table 11, p. 192, Delayed (similar), Integrated, No Explanation, Correct Solutions
+- id: delayed-similar-correct-split-no-explanation
+  arm_ref: split-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 2.0
+    sd: 1.21
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (similar) Integrated 2.42 0.67 2.58 2.02 1.83 0.94 3.50 1.73 Split 2.00 1.21 3.08
+    3.00 2.17 1.03 2.67 1.67
+  source_location: Table 11, p. 192, Delayed (similar), Split, No Explanation, Correct Solutions
+- id: delayed-similar-correct-integrated-self-explanation
+  arm_ref: integrated-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.83
+    sd: 0.94
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (similar) Integrated 2.42 0.67 2.58 2.02 1.83 0.94 3.50 1.73 Split 2.00 1.21 3.08
+    3.00 2.17 1.03 2.67 1.67
+  source_location: Table 11, p. 192, Delayed (similar), Integrated, Self-Explanation, Correct Solutions
+- id: delayed-similar-correct-split-self-explanation
+  arm_ref: split-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving
+    source_language: number of problems solved correctly
+    measure: Three delayed test problems similar in structure to the acquisition examples
+    scale: problems solved correctly, 0–3
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 2.17
+    sd: 1.03
+    unit: problems correct out of 3
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (similar) Integrated 2.42 0.67 2.58 2.02 1.83 0.94 3.50 1.73 Split 2.00 1.21 3.08
+    3.00 2.17 1.03 2.67 1.67
+  source_location: Table 11, p. 192, Delayed (similar), Split, Self-Explanation, Correct Solutions
+- id: delayed-transfer-correct-integrated-no-explanation
+  arm_ref: integrated-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.67
+    sd: 0.89
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (transfer) Integrated 1.67 0.89 1.42 1.31 1.50 0.90 1.33 1.56 Split 1.50 0.67
+    1.75 1.54 1.50 0.80 2.25 2.18
+  source_location: Table 11, p. 192, Delayed (transfer), Integrated, No Explanation, Correct Solutions
+- id: delayed-transfer-correct-split-no-explanation
+  arm_ref: split-no-explanation
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.5
+    sd: 0.67
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (transfer) Integrated 1.67 0.89 1.42 1.31 1.50 0.90 1.33 1.56 Split 1.50 0.67
+    1.75 1.54 1.50 0.80 2.25 2.18
+  source_location: Table 11, p. 192, Delayed (transfer), Split, No Explanation, Correct Solutions
+- id: delayed-transfer-correct-integrated-self-explanation
+  arm_ref: integrated-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.5
+    sd: 0.9
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (transfer) Integrated 1.67 0.89 1.42 1.31 1.50 0.90 1.33 1.56 Split 1.50 0.67
+    1.75 1.54 1.50 0.80 2.25 2.18
+  source_location: Table 11, p. 192, Delayed (transfer), Integrated, Self-Explanation, Correct Solutions
+- id: delayed-transfer-correct-split-self-explanation
+  arm_ref: split-self-explanation
+  outcome:
+    construct: Two-step compare word problem solving (transfer)
+    source_language: correct solution ... when solving transfer problems
+    measure: Two delayed test problems differing in structure from the acquisition examples
+    scale: problems solved correctly, 0–2
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id004
+  result:
+    measure_type: mean
+    estimate: 1.5
+    sd: 0.8
+    unit: problems correct out of 2
+  moderators: *id002
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+  source_quote: Delayed (transfer) Integrated 1.67 0.89 1.42 1.31 1.50 0.90 1.33 1.56 Split 1.50 0.67
+    1.75 1.54 1.50 0.80 2.25 2.18
+  source_location: Table 11, p. 192, Delayed (transfer), Split, Self-Explanation, Correct Solutions
+- id: immediate-incorrect-format-effect
+  sample:
+    value: 48
+    unit: participants
+  comparison_ref: format-pooled
+  outcome: &id005
+    construct: Problem-solving errors
+    source_language: number of incorrect attempts made in the immediate test phase
+    measure: Total incorrect solution attempts on the three immediate test problems
+    scale: count of incorrect attempts
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+    valued_by: []
+  time: *id003
+  result:
+    measure_type: other
+    statistic: F(1, 44) = 6.17, MSE = 3.24
+    interpretation: Integrated groups made fewer incorrect attempts on the immediate test; the only significant
+      effect in the correct-solution and incorrect-attempt ANOVAs across the three test phases.
+    model: 2 (format) x 2 (self-explanation) ANOVA
+  moderators: *id002
+  observability: &id006
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  observability_notes: The paragraph reports several 2 x 2 ANOVAs, one per phase and measure, and names
+    the immediate-test incorrect attempts as the only significant effect; the self-explanation and interaction
+    F values follow in the same passage, and the interaction is read by the authors on incorrect attempts.
+    They are recorded on that measure.
+  source_quote: The only significant effect was that of format on the number of incorrect attempts made
+    in the immediate test phase, F(1, 44) = 6.17, MSE = 3.24. The effect of self-explanation was not significant,
+    F(1, 44) = 0.78. The interaction between format and self-explanation was not significant, F(1, 44)
+    = 0.01, indicating that the integrated group made fewer incorrect attempts than the split-source group
+    in both the self-explanation and no-explanation conditions.
+  source_location: Experiment 3, Results, p. 191
+- id: self-explanation-effect
+  sample:
+    value: 48
+    unit: participants
+  comparison_ref: self-explanation-pooled
+  outcome: *id005
+  time: *id003
+  result:
+    measure_type: other
+    statistic: F(1, 44) = 0.78
+    interpretation: No significant effect of being asked to self-explain.
+    model: 2 (format) x 2 (self-explanation) ANOVA
+  moderators: *id002
+  observability: *id006
+  observability_notes: The paragraph reports several 2 x 2 ANOVAs, one per phase and measure, and names
+    the immediate-test incorrect attempts as the only significant effect; the self-explanation and interaction
+    F values follow in the same passage, and the interaction is read by the authors on incorrect attempts.
+    They are recorded on that measure.
+  source_quote: The only significant effect was that of format on the number of incorrect attempts made
+    in the immediate test phase, F(1, 44) = 6.17, MSE = 3.24. The effect of self-explanation was not significant,
+    F(1, 44) = 0.78. The interaction between format and self-explanation was not significant, F(1, 44)
+    = 0.01, indicating that the integrated group made fewer incorrect attempts than the split-source group
+    in both the self-explanation and no-explanation conditions.
+  source_location: Experiment 3, Results, p. 191
+- id: format-by-self-explanation-interaction
+  sample:
+    value: 48
+    unit: participants
+  comparison_ref: format-by-self-explanation
+  outcome: *id005
+  time: *id003
+  result:
+    measure_type: other
+    statistic: F(1, 44) = 0.01
+    interpretation: 'No interaction: the integrated groups made fewer incorrect attempts in both the self-explanation
+      and no-explanation conditions.'
+    model: 2 (format) x 2 (self-explanation) ANOVA
+  moderators: *id002
+  observability: *id006
+  observability_notes: The paragraph reports several 2 x 2 ANOVAs, one per phase and measure, and names
+    the immediate-test incorrect attempts as the only significant effect; the self-explanation and interaction
+    F values follow in the same passage, and the interaction is read by the authors on incorrect attempts.
+    They are recorded on that measure.
+  source_quote: The only significant effect was that of format on the number of incorrect attempts made
+    in the immediate test phase, F(1, 44) = 6.17, MSE = 3.24. The effect of self-explanation was not significant,
+    F(1, 44) = 0.78. The interaction between format and self-explanation was not significant, F(1, 44)
+    = 0.01, indicating that the integrated group made fewer incorrect attempts than the split-source group
+    in both the self-explanation and no-explanation conditions.
+  source_location: Experiment 3, Results, p. 191
+not_yet_extracted:
+- Table 11 incorrect-attempt means and SDs for the four cells in each phase.
+- Tables 9 and 10 study and solution times, and their ANOVAs (study time format F(1, 44) = 4.89; acquisition
+  solution time F(1, 44) = 3.63, p = .06; immediate solution time F(1, 44) = 3.79, p = .06).
+- Self-explanation analyses (Table 12; goal statements t(16) = 1.79; solution-linked rereads chi-square(1,
+  N = 138) = 16.35), on nine protocols per group after six incomplete ones were excluded.
+- The F values for format and self-explanation on correct solutions, which the article does not print;
+  it says only that no effect other than format on immediate incorrect attempts was significant.
