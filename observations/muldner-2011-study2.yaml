@@ -1,0 +1,267 @@
+# Muldner, Burleson, Van de Sande & VanLehn (2011), Study 2: the student-or-
+# problem analyses repeated on Algebra Cognitive Tutor logs.
+#
+# The article's second log corpus, with a different tutor and population, so a
+# record of its own (Study 1, `muldner-2011-study1`, is the Andes college
+# data). The authors applied their gaming detector, with thresholds re-set for
+# this tutor by the same visual method, to the Cognitive Tutor data used in
+# Baker et al. (2009): 53 students, 775 problems.
+#
+# WHAT THIS FILE RECORDS: the regression (R2 .420; student .52, problem .35;
+# each alone 30% and 15% of the variance) and the two split-half
+# "self-correlations" (student r = .973, problem r = .55, Z = 10.5 for the
+# difference). As in Study 1 the self-correlations are recorded as the
+# correlations the source prints, not relabelled as reliability.
+#
+# `population.age: unreported`: the article says "high school students working
+# in classrooms" and prints no age or grade figure.
+#
+# Read from the publisher's online-first PDF text layer (Springer); sections
+# are cited, not pages.
+
+schema_version: 2
+
+study:
+  key: muldner-2011-study2
+  citation: "Muldner, K., Burleson, W., Van de Sande, B., & VanLehn, K. (2011). An analysis of students' gaming behaviors in an intelligent tutoring system: Predictors and impacts. User Modeling and User-Adapted Interaction, 21(1-2), 99-135."
+  doi: "10.1007/s11257-010-9086-0"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of existing Algebra Cognitive Tutor log data (the data
+      used in Baker et al. 2009). The authors' latency-based gaming detector,
+      with thresholds refitted for this tutor, labels each tutor-student turn
+      pair; per student-problem percentage of gamed actions is analysed by
+      linear regression, split-half self-correlations, frequency distributions
+      and Bayesian network parameter learning, as in Study 1. No condition was
+      assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: cognitive-tutor-student-predictor-validation
+    bearing: supports
+    anchor: kasia-muldner-winslow-burleson-brett-van-de-sande-kurt-vanlehn-2010
+
+evidence_base:
+  unit: participants
+  size:
+    value: 53
+    unit: participants
+  additional_sizes:
+    - value: 775
+      unit: items
+      note: "unique Cognitive Tutor problems in the analysed data"
+  population:
+    description: "High-school students using the Algebra Cognitive Tutor in classrooms."
+    age_or_stage: "High school; the article prints no age or grade figure"
+    age: unreported
+  context:
+    setting: >-
+      Classroom use of the Algebra Cognitive Tutor, which, like Andes, gives
+      hints that start general and end in a bottom-out hint.
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Regression and split-half correlations across the whole Cognitive Tutor data set; no contrast between groups."
+
+observations:
+
+  - id: regression-student-coefficient
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "Per Gamingsp"
+      measure: "Detector-labelled share of a student's actions on a problem that were gamed, regressed on the student's average gaming and the problem's average gaming"
+      scale: "standardised regression coefficient of the student predictor"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set, cross-sectional over problems"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.52
+      statistic: "t = 76"
+      p_value: "p < 0.001"
+      model: "Two-predictor linear regression; F = 4588, p < 0.001; R2 = .420. Problem coefficient .35 (t = 51)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: >-
+      The number of student-problem pairs in the regression is not printed.
+      The refitted detector thresholds for this tutor are not printed.
+    source_quote: "In this model, both student and problem are correlated with the dependent variable, although student yields a higher correlation than problem (student: standardized coefficient = .52, t = 76, p < 0.001; problem: standardized coefficient = .35, t = 51, p < 0.001)."
+    source_location: "Section 5, Linear Regression Analysis"
+
+  - id: regression-problem-coefficient
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "Per Gamingsp"
+      measure: "Detector-labelled share of a student's actions on a problem that were gamed, regressed on student and problem average gaming"
+      scale: "standardised regression coefficient of the problem predictor"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set, cross-sectional over problems"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.35
+      statistic: "t = 51"
+      p_value: "p < 0.001"
+      model: "The same two-predictor regression (R2 = .420)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    source_quote: "In this model, both student and problem are correlated with the dependent variable, although student yields a higher correlation than problem (student: standardized coefficient = .52, t = 76, p < 0.001; problem: standardized coefficient = .35, t = 51, p < 0.001)."
+    source_location: "Section 5, Linear Regression Analysis"
+
+  - id: variance-student-alone
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "Per Gamingsp"
+      measure: "Per student-problem gaming percentage regressed on the student's average gaming alone"
+      scale: "percent of variance explained"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set, cross-sectional over problems"
+    result:
+      measure_type: other
+      estimate: 30
+      unit: "percent of variance explained"
+      note: "Problem entered alone explains 15%; no standardised coefficients are printed for the single-predictor models here."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    source_quote: "If we enter the independent variables separately to analyze the variance explained by each, the student variable accounts for 30% of the variance, while the problem variable accounts for 15% of the variance."
+    source_location: "Section 5, Linear Regression Analysis"
+
+  - id: variance-problem-alone
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Gaming the system"
+      source_language: "Per Gamingsp"
+      measure: "Per student-problem gaming percentage regressed on the problem's average gaming alone"
+      scale: "percent of variance explained"
+      direction: contextual
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set, cross-sectional over problems"
+    result:
+      measure_type: other
+      estimate: 15
+      unit: "percent of variance explained"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    source_quote: "If we enter the independent variables separately to analyze the variance explained by each, the student variable accounts for 30% of the variance, while the problem variable accounts for 15% of the variance."
+    source_location: "Section 5, Linear Regression Analysis"
+
+  - id: student-self-correlation
+    sample:
+      value: 53
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Consistency of a student's gaming across problems"
+      source_language: "students were consistently gaming on problems"
+      measure: "Each student's problems assigned at random to two buckets; average gaming per bucket; correlation of the two buckets across students"
+      scale: "Pearson correlation between halves"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set"
+    result:
+      measure_type: correlation
+      estimate: 0.973
+      p_value: "p < 0.001"
+      note: >-
+        Printed as "r. = .973". The problem self-correlation was .55; the
+        difference is reported reliable, Z = 10.5, p < 0.05.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "The analysed n is taken as the 53 students of the data set; how many problems each half held is not printed."
+    source_quote: "We found a high degree of association (r. = .973, p < 0.001)."
+    source_location: "Section 5, Self-correlation Analysis"
+
+  - id: problem-self-correlation
+    sample:
+      value: 775
+      unit: items
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Consistency of a problem's gaming across students"
+      source_language: "problems were consistently gamed on"
+      measure: "Each problem's students assigned at random to two buckets; average gaming on the problem per bucket; correlation of the two buckets across problems"
+      scale: "Pearson correlation between halves"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the tutor use in the data set"
+    result:
+      measure_type: correlation
+      estimate: 0.55
+      p_value: "p < 0.001"
+      note: "Z = 10.5, p < 0.05 for the difference from the student self-correlation."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: "The analysed n is taken as the 775 problems of the data set; the source does not state it for this analysis."
+    source_quote: "In contrast, when we analyzed that problems were consistently gamed on by randomly assigning students to two buckets and obtaining an overall average, the analysis yielded a lower degree of association (r = .55, p < 0.001); the difference between the two correlation coefficients is reliable (Z = 10.5, p < 0.05)."
+    source_location: "Section 5, Self-correlation Analysis"
+
+not_yet_extracted:
+  - "Gaming frequency distributions: student distribution not normal (Shapiro-Wilks W = .64, p < 0.05) but normal without the one outlier (W = .912, p > 0.05); problem distribution not normal (W = 0.71, p < 0.05), the one analysis the authors say did not support the student-over-problem conclusion."
+  - "Bayesian network parameters for these data (Fig. 7) are in a figure the text layer does not carry."

@@ -1,0 +1,341 @@
+# Corbett & Anderson (1995), Experiment 4: individualised knowledge tracing in
+# the ACT Programming Tutor (Lisp), its fit and test predictions, the slip
+# weight, and test mastery against a fixed-exercise comparison group.
+#
+# READ FROM THE TECHNICAL REPORT, NOT THE JOURNAL ARTICLE. The figures below
+# come from CMU-CS-95-129 (15 March 1995), the report version "To appear in the
+# journal User Modeling and User-Adapted Interaction", read from its text
+# layer. The record cites the published article (Crossref: UMUAI 4(4),
+# 253-278); the journal's figures and wording may differ from the report's,
+# and nothing here was checked against the journal pages.
+#
+# One of four studies in the article, each with its own sample; see
+# `corbett-1995-exp1` for Experiment 1.
+#
+# WHAT THIS FILE RECORDS:
+#   * Fit to tutor data: r = .71 across the 214 required goals.
+#   * Test prediction: actual against expected accuracy across students on the
+#     third test, r = .66.
+#   * The slip parameter: predicting the third test from knowledge state alone
+#     gives 0.99 against an actual 0.86, and ln(slip weight) correlates -.72
+#     with test accuracy across students.
+#   * Test mastery (90% correct on the third test): 56% of the 25
+#     knowledge-tracing students against 24% of 21 students who did only the
+#     required exercises, z = 2.21.
+#
+# INCONSISTENCIES IN THE REPORT, recorded as printed:
+#   * Section 5 gives the third test's "average actual accuracy" as 0.86; Table
+#     IV gives Test 3 actual 0.81 and expected 0.86. Which is meant is not
+#     settled here.
+#   * The Experiment 4 fit paragraph gives the correlation "across the 214
+#     goals" but the mean error and absolute error "across the 345 goals", the
+#     same figures (0.001, 0.06) and goal count as Experiment 3's paragraph.
+#   * The r = -0.72 sentence names no test or experiment; it sits in the
+#     paragraph on Figure 7 and the third test, which is Experiment 4's.
+#
+# THE FOUR PARAMETER VALUES ARE NOT PRINTED (Figure 4 defines them in words),
+# nor are the individual weights; no parameter value is recorded.
+#
+# How the comparison group came to do only the required exercises is not
+# stated, so no assignment is inferred. `population.age: unreported`: no age
+# figure is printed (Experiment 2's sample is described as college students;
+# Experiment 4's is not described).
+#
+# The report's text layer escapes "<" as "\<" and reads "ln" as "In"; quotes
+# give the article's characters without the backslash, and write "ln(slip
+# weight)" where the text layer has "In(slip weight)".
+
+schema_version: 2
+
+study:
+  key: corbett-1995-exp4
+  citation: "Corbett, A. T., & Anderson, J. R. (1995). Knowledge tracing: Modeling the acquisition of procedural knowledge. User Modeling and User-Adapted Interaction, 4(4), 253-278."
+  doi: "10.1007/bf01099821"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Twenty-five students worked the first Lisp chapter of the ACT Programming
+      Tutor to mastery under individualised knowledge tracing (per-student
+      weights on the four parameters estimated from early required-exercise
+      error rates), with three cumulative tests done without tutor help. A
+      second group of 21 students completed only the 38 required exercises.
+      Model fit is assessed across goals (tutor data) and across students
+      (tests). How students came to be in each group is not stated.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: kt-mastery-condition-test-success
+    bearing: supports
+    anchor: corbett-1995
+  - claim: kt-slip-parameter-dominates-test-predictions
+    bearing: supports
+    anchor: corbett-1995
+
+evidence_base:
+  unit: participants
+  size:
+    value: 46
+    unit: participants
+  additional_sizes:
+    - value: 214
+      unit: other
+      note: "programming goals in the 38 required exercises"
+    - value: 38
+      unit: items
+      note: "required exercises, reduced from 64 in the earlier studies"
+  population:
+    description: >-
+      Students learning Lisp in the ACT Programming Tutor, whose Lisp module
+      the report says is used in a self-paced introductory programming course
+      at Carnegie Mellon University. Experiment 4's students are not otherwise
+      described.
+    age_or_stage: "Introductory programming students; no age figure printed"
+    age: unreported
+  context:
+    setting: >-
+      Self-paced tutor work with immediate feedback; the curriculum extended
+      with a section of more complex constructor/extractor algorithms and a new
+      test after it; mastery criterion a knowledge probability of 0.95 per rule.
+  arms:
+    - id: knowledge-tracing-mastery
+      description: >-
+        Required exercises plus remedial exercises chosen by individualised
+        knowledge tracing until every rule reached the 0.95 criterion (an
+        average of 29 remedial exercises).
+      size:
+        value: 25
+        unit: participants
+    - id: required-exercises-only
+      description: "The 38 required exercises only, no remediation."
+      size:
+        value: 21
+        unit: participants
+
+comparisons:
+  - id: kt-vs-required-only
+    kind: between-groups
+    index_arm: knowledge-tracing-mastery
+    reference_arm: required-exercises-only
+    description: "Share of students reaching 90% correct on the third test; assignment to groups not stated."
+  - id: kt-model-fit
+    kind: none
+    index_arm: knowledge-tracing-mastery
+    description: "Model fit and prediction for the knowledge-tracing students; no contrast between groups."
+
+observations:
+
+  - id: tutor-fit
+    sample:
+      value: 214
+      unit: other
+    comparison_ref: kt-model-fit
+    outcome:
+      construct: "Model fit to tutor performance"
+      source_language: "The correlation of expected and actual mean error rates"
+      measure: "Correlation across the 214 required goals of actual and predicted error rates, individualised parameters"
+      scale: "Pearson correlation across goals"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the required exercises"
+    result:
+      measure_type: correlation
+      estimate: 0.71
+      p_value: "p < .0001"
+      note: >-
+        The next sentence gives mean error 0.001 and absolute error 0.06
+        "across the 345 goals", the same figures as Experiment 3; recorded
+        here only as a note because the goal count conflicts.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: "Individualised parameters were estimated from about half as much data as in Experiment 3, the report says."
+    source_quote: "The correlation of expected and actual mean error rates across the 214 goals in the required exercises was 0.71, p < .0001."
+    source_location: "Section 4.4.2, Experiment 4 (report p. 14)"
+
+  - id: test3-prediction
+    sample:
+      value: 25
+      unit: participants
+    comparison_ref: kt-model-fit
+    outcome:
+      construct: "Model prediction of unassisted test performance"
+      source_language: "the correlation of actual and expected accuracy across students"
+      measure: "Correlation across students of the proportion of test exercises completed correctly and the model's predicted proportion (product of per-goal correct probabilities)"
+      scale: "Pearson correlation across students"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "third cumulative test, after mastery of the full curriculum"
+    result:
+      measure_type: correlation
+      estimate: 0.66
+      p_value: "p < 0.01"
+      note: >-
+        Second test r = 0.36, p < 0.10; no individual differences apparent in
+        the first test. Actual accuracy was 5% to 10% lower than predicted on
+        all three tests.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "No individual differences are apparent in the first test, while the correlation of actual and expected accuracy across students is marginally reliable for the second test (r = 0.36, p < 0.10) and reliable for the third test (r = 0.66, p < 0.01)."
+    source_location: "Section 4.4.2, Experiment 4 (report p. 14); Table IV"
+
+  - id: slip-weight-test-accuracy
+    comparison_ref: kt-model-fit
+    outcome:
+      construct: "Persistent between-student differences in slipping"
+      source_language: "ln(slip weight) and test accuracy"
+      measure: "Correlation across students of the log of each student's individual slip weight with test accuracy"
+      scale: "Pearson correlation across students"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test after mastery; the paragraph concerns the third test"
+    result:
+      measure_type: correlation
+      estimate: -0.72
+      interpretation: "The authors read it as the variability in test predictions reflecting persisting differences among students in the slip parameter"
+    moderators:
+      reported: []
+      candidate:
+        - "The authors offer three readings of the slip weight: care in performing (a pure performance effect), rule strength, or the content of near-ideal rules; none is tested."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The sentence names no test and no n; it is attributed to Experiment 4's
+      third test from its paragraph (Figure 7, "the third test"). No p-value is
+      printed.
+    source_quote: "Instead, the variability in the model's predictions of test performance primarily reflect persisting differences among students in the slip parameter. This can be seen in the correlation of ln(slip weight) and test accuracy across students, r = -0.72."
+    source_location: "Section 5, Future Directions (report p. 15)"
+
+  - id: knowledge-only-prediction
+    comparison_ref: kt-model-fit
+    outcome:
+      construct: "Predicted test accuracy from knowledge state alone"
+      source_language: "predicting performance just from the student's knowledge state without considering performance"
+      measure: "Model's predicted accuracy on the third test with p(C) = p(L), no slip or guess"
+      scale: "proportion of test exercises correct"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "third test"
+    result:
+      measure_type: other
+      estimate: 0.99
+      unit: "predicted proportion correct"
+      note: >-
+        Against "an average actual accuracy of 0.86" in the same sentence;
+        Table IV prints Test 3 actual 0.81 and expected (full model) 0.86. The
+        report says knowledge probabilities after mastery range from 0.95 to
+        1.00.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A model prediction, not an effect; the actual figure it is compared with conflicts with Table IV."
+    source_quote: "The predicted accuracy for the third test under this model is 0.99 compared to an average actual accuracy of 0.86."
+    source_location: "Section 5, Future Directions (report p. 15)"
+
+  - id: mastery-share-kt
+    sample:
+      value: 25
+      unit: participants
+    arm_ref: knowledge-tracing-mastery
+    outcome:
+      construct: "Test mastery"
+      source_language: "a strict operational definition of mastery as 90% correct on the test"
+      measure: "Share of students scoring at least 90% correct on the third test (read from Figure 7)"
+      scale: "percent of students"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "third cumulative test"
+    result:
+      measure_type: other
+      estimate: 56
+      unit: "percent of students"
+      note: "Against 24% of the required-exercises-only group; difference z = 2.21, p < 0.05."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "If we adopt a strict operational definition of mastery as 90% correct on the test, Figure 7 indicates that 56% of the students in this knowledge tracing condition reached the mastery performance level."
+    source_location: "Section 4.4.2, Experiment 4 (report p. 14)"
+
+  - id: mastery-share-required-only
+    sample:
+      value: 21
+      unit: participants
+    arm_ref: required-exercises-only
+    outcome:
+      construct: "Test mastery"
+      source_language: "reached this high level of test performance"
+      measure: "Share of students scoring at least 90% correct on the test"
+      scale: "percent of students"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "the test (the report does not repeat which)"
+    result:
+      measure_type: other
+      estimate: 24
+      unit: "percent of students"
+      statistic: "z = 2.21"
+      p_value: "p < 0.05"
+      note: "z and p are for the difference from the knowledge-tracing group's 56%."
+    moderators:
+      reported: []
+      candidate:
+        - "The knowledge-tracing group did about 76% more tutor exercises (29 remedial on average), so the difference confounds remediation with amount of practice, as the report's own time comparison implies."
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Only 24% percent of these students reached this high level of test performance. This difference in the probability of success between groups is reliable, z = 2.21, p <0.05."
+    source_location: "Section 4.4.2, Experiment 4 (report pp. 14-15)"
+
+not_yet_extracted:
+  - "Table IV (Experiment 4): actual / expected / MAE / rAE / rAR per test: Test 1 0.88 / 0.94 / 0.11 / 0.24 / -0.28; Test 2 0.81 / 0.89 / 0.11 / 0.36 / -0.52; Test 3 0.81 / 0.86 / 0.10 / 0.66 / -0.73 (text layer legible for this table)."
+  - "Experiment 2 (20 college students, n = 19 for test 3): tutor fit r = 0.75 across 345 goals (0.90 with best-fitting estimates); test 3 rAE r = 0.69; tutor error rate with test accuracy -0.25, -0.64, -0.68; with post hoc individual weights test 2 r = 0.51 (Table II). Table I's text layer is scrambled for Tests 2 and 3; the prose gives these figures."
+  - "Experiment 3 (20 students, dynamic weights): tutor fit r = 0.79 across 345 goals; test 2 r = 0.31 (p < 0.10) with tutor error rate r = -0.63; test 3 r = 0.81; the report says test-2 sensitivity rests on between-student differences in the slip estimates. Table III."

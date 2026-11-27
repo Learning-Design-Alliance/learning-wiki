@@ -1,0 +1,190 @@
+# Corbett & Anderson (1995), Experiment 1: how well knowledge tracing fits
+# goal-by-goal performance in the ACT Programming Tutor (Lisp), with the four
+# parameters held constant across rules and then allowed to vary by rule.
+#
+# READ FROM THE TECHNICAL REPORT, NOT THE JOURNAL ARTICLE. The figures below
+# come from CMU-CS-95-129 (15 March 1995), the report version "To appear in the
+# journal User Modeling and User-Adapted Interaction", read from its text
+# layer. The record cites the published article (Crossref: UMUAI 4(4),
+# 253-278); the journal's figures, wording and equation numbering may differ
+# from the report's (the report numbers the update and performance equations
+# [1] and [2]), and nothing here was checked against the journal pages.
+#
+# The article reviews four studies with different samples; each one the
+# learning-graph simulator draws on is its own record. This is Experiment 1
+# (first reported in Corbett & Anderson 1993); `corbett-1995-exp4` is
+# Experiment 4. Experiments 2 and 3 are listed in that file's
+# not_yet_extracted.
+#
+# WHAT THIS FILE RECORDS: the correlation across the 158 required programming
+# goals between actual and model-predicted probability of a correct first
+# action, r = .47 with the two learning and two performance parameters held
+# constant across the 21 rules, and r = .85 with best-fitting per-rule
+# estimates; mean error and mean absolute error with each.
+#
+# THE FOUR PARAMETER VALUES ARE NOT PRINTED. Figure 4 of the report defines
+# p(L0), p(T), p(G) and p(S) in words only; Experiment 1 says the constant
+# values "were estimated from an earlier group of students" without giving
+# them, and the per-rule best-fitting estimates are not tabulated. So no
+# parameter value is recorded.
+#
+# Number of students: not printed for Experiment 1. `population.age:
+# unreported`: the report prints no age figure; the Lisp module is described as
+# used "in a self-paced introductory programming course at Carnegie Mellon
+# University".
+#
+# The report's text layer escapes "<" as "\<"; quotes below give the article's
+# own characters, without the backslash.
+
+schema_version: 2
+
+study:
+  key: corbett-1995-exp1
+  citation: "Corbett, A. T., & Anderson, J. R. (1995). Knowledge tracing: Modeling the acquisition of procedural knowledge. User Modeling and User-Adapted Interaction, 4(4), 253-278."
+  doi: "10.1007/bf01099821"
+  design:
+    family: observational
+    design_detail: >-
+      Model-fit evaluation on tutor protocol files. Students read text and
+      worked a fixed set of 25 required Lisp exercises (158 coding goals) plus
+      individually selected remedial exercises in the first chapter of the ACT
+      Programming Tutor. At each required goal the knowledge-tracing model's
+      predicted probability of a correct action (Eq. 2) was compared with the
+      first-attempt outcome, then the knowledge estimate updated (Eq. 1); actual
+      and predicted accuracy were averaged across students per goal and
+      compared across goals. No condition was assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: kt-per-rule-parameter-fit
+    bearing: supports
+    anchor: corbett-1995
+  - claim: kt-per-rule-parameter-fit
+    bearing: supports
+    anchor: corbett-1995-2
+
+evidence_base:
+  unit: other
+  size:
+    value: 158
+    unit: other
+  additional_sizes:
+    - value: 25
+      unit: items
+      note: "required programming exercises containing the 158 coding goals"
+    - value: 21
+      unit: other
+      note: "ideal coding rules in the cognitive model for the dozen Lisp constructs introduced"
+  population:
+    description: >-
+      Students working through the first chapter of the ACT Programming Tutor's
+      Lisp curriculum; the report says the Lisp module is used in a self-paced
+      introductory programming course at Carnegie Mellon University. The number
+      of students in Experiment 1 is not printed. They completed an average of
+      14 remedial exercises (range 1 to 38).
+    age_or_stage: "Introductory programming students; no age figure printed"
+    age: unreported
+  context:
+    setting: >-
+      Self-paced work in the ACT Programming Tutor: text reading, then required
+      exercises with immediate feedback (an incorrect action is not accepted),
+      then remedial exercises chosen by knowledge tracing until each rule
+      reaches the 0.95 mastery criterion.
+  arms: []
+
+comparisons:
+  - id: across-goals
+    kind: none
+    description: "Actual against predicted accuracy across the 158 required goals; the two model variants are fits to the same data, not groups of learners."
+
+observations:
+
+  - id: fit-constant-parameters
+    sample:
+      value: 158
+      unit: other
+    comparison_ref: across-goals
+    outcome:
+      construct: "Model fit to tutor performance"
+      source_language: "The expected and actual probabilities"
+      measure: "Correlation across goals of the mean actual probability of a correct first action and the mean predicted probability, parameters constant across the 21 rules"
+      scale: "Pearson correlation across goals"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the required exercises of the first chapter"
+    result:
+      measure_type: correlation
+      estimate: 0.47
+      p_value: "p < 0.05"
+      model: >-
+        Knowledge tracing with the two learning and two performance parameters
+        held constant across rules, values estimated from an earlier group of
+        students (not printed). Mean error (expected minus actual) 0.06; mean
+        absolute error 0.16.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The analysed sample is goals (158), not students; the number of students
+      is not printed. The source calls 0.06 the "mean error rate" and 0.16 the
+      "mean absolute error rate".
+    source_quote: "The expected and actual probabilities were moderately correlated (r=0.47, p < 0.05), the mean error rate was 0.06 and the mean absolute error rate was 0.16."
+    source_location: "Section 4.2.1, Experiment 1: Internal Validity (report p. 8)"
+
+  - id: fit-per-rule-parameters
+    sample:
+      value: 158
+      unit: other
+    comparison_ref: across-goals
+    outcome:
+      construct: "Model fit to tutor performance"
+      source_language: "best fitting estimates provide a substantially better fit"
+      measure: "Correlation across goals of actual and predicted accuracy, learning and performance parameters allowed to vary across rules (best-fitting estimates)"
+      scale: "Pearson correlation across goals"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the required exercises of the first chapter"
+    result:
+      measure_type: correlation
+      estimate: 0.85
+      model: >-
+        Knowledge tracing refitted with best-fitting per-rule estimates of the
+        four parameters (values not printed). Mean error in prediction -0.01;
+        absolute error in prediction 0.07.
+    moderators:
+      reported:
+        - variable: "Rule"
+          relationship: "Rules differ in how hard they are to learn, which the authors give as one reason constant parameters fit poorly; they add that slip and guess probabilities also vary across rules"
+          source_quote: "Not surprisingly, some rules are harder to learn than others."
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A post hoc refit to the same data, so the improvement in fit includes the
+      added free parameters; no p-value is printed for r = .85.
+    source_quote: "If we allow the learning and performance parameter estimates to vary across rules, best fitting estimates provide a substantially better fit, r=0.85. The mean error in prediction, -0.01, and the absolute error in prediction, 0.07, are both reduced in the revised fit."
+    source_location: "Section 4.2.1, Experiment 1: Internal Validity (report p. 8)"
+
+not_yet_extracted:
+  - "Figure 3 (Section 2.1, not tied to one experiment): error rate averages about 0.42 across the first opportunity to apply each first-lesson rule, then drops monotonically."
+  - "Figure 5: a 55% error rate at the sixth opportunity of the single variable-declaration rule, which led to splitting it into two rules; the cognitive model grew to 55 rules."
