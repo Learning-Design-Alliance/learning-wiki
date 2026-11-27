@@ -1,0 +1,270 @@
+# Reeve, Heggestad & George (2005): transient error in eight speeded cognitive
+# ability scales and their composite, two administrations one week apart.
+#
+# A replication of Schmidt, Le & Ilies (2003) with cognitive scales (six Employee
+# Aptitude Survey scales and two memory tests). TEV, as in that paper, is the
+# transient error share of OBSERVED score variance (CE minus CES), recorded as
+# printed and not converted.
+#
+# The average over the eight scales and the composite's figures are separate
+# observations: the authors themselves say the composite is the more direct
+# comparison with Schmidt et al.'s Wonderlic estimate, and the two differ (.09
+# against .04).
+#
+# Table 2 is printed column by column in the text layer, so the quote for the
+# composite's CE and CES (`composite-ce`, `composite-ces`) was taken from the
+# page image of p. 319. All other quotes are from the text layer.
+
+schema_version: 2
+
+study:
+  key: reeve-2005
+  citation: "Reeve, C. L., Heggestad, E. D., & George, E. (2005). Estimation of transient error in cognitive ability scales. International Journal of Selection and Assessment, 13(4), 316–320."
+  doi: "10.1111/j.1468-2389.2005.00328.x"
+  design:
+    family: observational
+    design_detail: >-
+      Two-occasion measurement study: the full battery given twice, one week
+      apart, in groups of at most 16. Odd and even items formed post hoc
+      randomly parallel half scales. CE was the Spearman-Brown corrected
+      split-half correlation, averaged over the two occasions; CES from
+      Equations 16 and 17a of Schmidt et al. (2003); TEV = CE - CES. Standard
+      errors from a Monte Carlo simulation of 1,000 data sets per scale. No
+      conditions were assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 123
+    unit: participants
+  additional_sizes:
+    - value: 158
+      unit: participants
+      note: "students who took part; 123 completed both sessions"
+    - value: 8
+      unit: scales
+      note: "speeded cognitive scales (six EAS scales, word memory, sentence memory), plus an EAS composite"
+  population:
+    description: >-
+      Undergraduates at a large Midwestern US university, participating for
+      course credit. Operational sample 56.90% male, mostly freshmen (49.60%)
+      or sophomores (28.50%); average reported GPA 3.02 (SD 0.63) on a 4.0 scale.
+    age_or_stage: "Undergraduates"
+    age:
+      unit: years
+      mean: 19.93
+      sd: 3.70
+  context:
+    setting: "Two scripted, timed group testing sessions of 100 minutes, one week apart; low stakes, no performance contingencies"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Reliability coefficients and transient error shares in the whole operational sample; no contrast between groups."
+
+observations:
+
+  - id: tev-eight-scales
+    sample:
+      value: 123
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Transient (occasion) error share of speeded cognitive ability scale scores"
+      source_language: "Estimates of transient error"
+      measure: "Eight speeded scales: EAS verbal comprehension, numerical ability, space visualization, numerical reasoning, verbal reasoning, symbolic reasoning; word memory; sentence memory"
+      scale: "proportion of observed score variance (CE minus CES), averaged over the eight scales"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first occasion"
+    result:
+      measure_type: other
+      estimate: 0.09
+      unit: "proportion of observed score variance, mean over 8 scales"
+      model: >-
+        Range over the eight scales .01 (verbal comprehension) to .18 (symbolic
+        reasoning). The 90% confidence intervals included zero for three scales
+        (verbal comprehension, verbal reasoning, sentence memory).
+    moderators:
+      reported: []
+      candidate:
+        - "Verbal content (the three scales whose intervals included zero all measure verbal ability, which the authors offer as a possibility needing replication)"
+        - "Practice gains between occasions (all means rose and SDs increased), which the authors say could inflate transient error estimates"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A mean of eight variance shares, not a single measure's figure; the
+      per-scale values are in Table 2. Not an effect of any configuration.
+    source_quote: "Estimates of transient error ranged from a low of .01 to a high of .18, with an average value of .09."
+    source_location: "Abstract; Results (p. 318); Table 2 (p. 319)"
+
+  - id: ce-overestimate-eight-scales
+    sample:
+      value: 123
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Overestimation of reliability by a single-occasion coefficient"
+      source_language: "the CE overestimated the reliability"
+      measure: "Eight speeded cognitive scales"
+      scale: "percentage by which CE exceeds CES, averaged over the eight scales"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions one week apart"
+    result:
+      measure_type: other
+      estimate: 12.96
+      unit: "percent, mean over 8 scales"
+      model: "Range 1.90% (verbal comprehension) to 25.96% (symbolic reasoning)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As shown in the last column, the CE values based on the split-half method resulted in overestimates of reliability by as little as 1.90% in the case of verbal comprehension scale to as much as 25.96% for the symbolic reasoning scale. On average, the CE overestimated the reliability by 12.96%."
+    source_location: "Results, p. 318"
+
+  - id: composite-tev
+    sample:
+      value: 123
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Transient (occasion) error share of a general cognitive ability composite"
+      source_language: "The TEV for the composite score"
+      measure: "EAS composite: the sum of the six EAS scales, as a proxy of general mental ability"
+      scale: "proportion of observed score variance (CE minus CES)"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first occasion"
+    result:
+      measure_type: other
+      estimate: 0.04
+      unit: "proportion of observed score variance"
+      standard_error: 0.01
+      note: "CE overestimates the composite's reliability by 5.16%. Standard error from Table 2 (Monte Carlo simulation)."
+    moderators:
+      reported: []
+      candidate:
+        - "Aggregation: the authors suggest summing scales whose transient errors are independent shrinks the composite's transient share"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The TEV for the composite score was .04, producing an overestimate of reliability by the CE of 5.16%."
+    source_location: "Discussion, p. 319; Table 2"
+
+  - id: composite-ce
+    sample:
+      value: 123
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "General cognitive ability composite score reliability, single occasion"
+      source_language: "coefficient of equivalence (corrected split-half)"
+      measure: "EAS composite"
+      scale: "Spearman-Brown corrected split-half correlation, averaged over the two occasions"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "each of two occasions one week apart"
+    result:
+      measure_type: reliability
+      estimate: 0.95
+      standard_error: 0.01
+      reliability:
+        statistic: other
+        over: items
+        form: "corrected split-half (odd versus even items, Spearman-Brown), averaged over Occasions 1 and 2"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The quoted Table 2 row reads: Occasion 1 M, SD; Occasion 2 M, SD; CE,
+      SE(CE); CES, SE(CES); TEV, SE(TEV); % over.
+    source_quote: "EAS composite 145.56 28.86 161.34 30.45 .95 .01 .91 .01 .04 .01 5.16"
+    source_location: "Table 2, EAS composite row (p. 319, quoted from the page image)"
+
+  - id: composite-ces
+    sample:
+      value: 123
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "General cognitive ability composite score reliability across occasions"
+      source_language: "coefficient of equivalence and stability"
+      measure: "EAS composite"
+      scale: "coefficient of equivalence and stability from half scales on two occasions"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "two occasions one week apart"
+      offset:
+        value: 1
+        unit: weeks
+        from: "first occasion"
+    result:
+      measure_type: reliability
+      estimate: 0.91
+      standard_error: 0.01
+      reliability:
+        statistic: other
+        over: occasions
+        form: "coefficient of equivalence and stability (CES), estimated from post hoc half scales with Equations 16 and 17a of Schmidt et al. (2003)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "EAS composite 145.56 28.86 161.34 30.45 .95 .01 .91 .01 .04 .01 5.16"
+    source_location: "Table 2, EAS composite row (p. 319, quoted from the page image)"
+
+not_yet_extracted:
+  - "Per-scale CE, CES, TEV and standard errors for the eight scales (Table 2)"
+  - "Occasion 1 and Occasion 2 means and SDs for every scale and the composite (Table 2): all means rose on the second occasion (EAS composite 145.56, SD 28.86, to 161.34, SD 30.45); not recorded as a practice effect because no contrast is tested"
+  - "Scale intercorrelations within and across sessions (Table 1)"
+  - "Alternate-forms reliabilities of .82-.91 for the EAS scales and memory-test internal consistencies of .65 and .84 are cited from the test manuals (Ruch et al., 2001; Flanagan et al., 1964), not this study's figures"

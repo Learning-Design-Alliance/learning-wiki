@@ -1,0 +1,265 @@
+# O'Neil, Abedi, Miyoshi & Mastergeorge (2005): $10 per correct item on
+# released TIMSS math items for US 12th graders, main study.
+#
+# The article reports the main study only (the focus group, pilot and AP
+# supplementary studies are named and not reported). Recorded: the incentive and
+# control groups' math means (the trial's main result, no difference), the
+# zero-order correlation between self-reported state effort and math score in
+# the whole sample, and the internal consistency of the math test and the effort
+# scale.
+#
+# The effort-math correlation is from Table 5, which the text layer prints
+# column by column; its quote was taken from the page image of p. 202. Every
+# other quote is from the text layer.
+#
+# The correlation is a whole-sample figure. The article prints no effort-math
+# correlation within the incentive or control group.
+
+schema_version: 2
+
+study:
+  key: oneil-2005
+  citation: "O'Neil, H. F., Abedi, J., Miyoshi, J., & Mastergeorge, A. (2005). Monetary incentives for low-stakes tests. Educational Assessment, 10(3), 185–208."
+  doi: "10.1207/s15326977ea1003_3"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Students were randomly assigned to an incentive group ($10 per correct
+      item, with $20 paid in cash for two easy sample items before the test) or
+      a control group (standard low-stakes TIMSS-style instructions; $20 for
+      participating, paid after the test and not announced beforehand). The
+      groups were tested in separate rooms. Math score analysed in a 2
+      (treatment) x 2 (gender) x 2 (booklet order) ANOVA; state motivation
+      scales in separate 2 x 2 x 2 ANOVAs.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 393
+    unit: participants
+  additional_sizes:
+    - value: 445
+      unit: participants
+      note: "non-AP students who took part, before exclusions for AP enrolment, incomplete booklets or no calculator"
+    - value: 9
+      unit: schools
+      note: "school sites; site SAT-9 math national percentile ranks 28 to 50, median 36"
+  population:
+    description: >-
+      US 12th-grade students not in Advanced Placement math or physics, from
+      nine southern California school sites, mostly medium to low performing on
+      the SAT-9. Well over half said they never speak English at home and fewer
+      than 15% spoke only English at home.
+    age_or_stage: "12th grade (high school seniors)"
+    age: unreported
+  context:
+    setting: "Classroom testing at the school sites late in the seniors' final year; 25 minutes for the math section and 8 minutes for the motivation and background questionnaires"
+  arms:
+    - id: incentive
+      description: "$10 per correct item on the math test, written on the board; a two-item easy pretest paid in cash ($20 for both correct) before the test; payment by check or money order within 30 days."
+      size:
+        value: 195
+        unit: participants
+    - id: control
+      description: "Standard low-stakes instructions with no payment per item; $20 for participating given at the end, unannounced during testing."
+      size:
+        value: 198
+        unit: participants
+
+comparisons:
+  - id: incentive-vs-control
+    kind: between-groups
+    index_arm: incentive
+    reference_arm: control
+    description: "Monetary incentive per correct item against standard low-stakes instructions."
+  - id: whole-sample
+    kind: none
+    description: "Relationship between self-reported state effort and math score across both groups; no contrast."
+
+observations:
+
+  - id: math-mean-incentive
+    sample:
+      value: 195
+      unit: participants
+    arm_ref: incentive
+    outcome:
+      construct: "Mathematics performance on a low-stakes test"
+      source_language: "math performance"
+      measure: "20 released TIMSS math literacy items (12 multiple choice, 8 free response)"
+      scale: "points, 0 to 24 (some items scored 0 to 2)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the testing session"
+    result:
+      measure_type: mean
+      estimate: 7.97
+      sd: 3.73
+      unit: "points (0-24)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The ANOVA's F for the treatment main effect is not printed; the source
+      says only that there was no main effect of the incentive treatment.
+    source_quote: "students in the incentive group (M = 7.97, SD = 3.73) performed no better than the students in the control group (M = 7.94, SD = 3.86)."
+    source_location: "Results, p. 195; Table 1"
+
+  - id: math-mean-control
+    sample:
+      value: 198
+      unit: participants
+    arm_ref: control
+    outcome:
+      construct: "Mathematics performance on a low-stakes test"
+      source_language: "math performance"
+      measure: "20 released TIMSS math literacy items (12 multiple choice, 8 free response)"
+      scale: "points, 0 to 24 (some items scored 0 to 2)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the testing session"
+    result:
+      measure_type: mean
+      estimate: 7.94
+      sd: 3.86
+      unit: "points (0-24)"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "students in the incentive group (M = 7.97, SD = 3.73) performed no better than the students in the control group (M = 7.94, SD = 3.86)."
+    source_location: "Results, p. 195; Table 1"
+
+  - id: effort-math-correlation
+    sample:
+      value: 382
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Mathematics performance on a low-stakes test"
+      source_language: "Correlation Coefficients Between Math Test Scores and Motivation Scale Scores"
+      measure: "Total math score (TIMSS released items) correlated with the state effort scale (6 items, retrospective, 1-4 intensity ratings)"
+      scale: "Pearson correlation"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "math test, then state questionnaire about the test immediately after"
+    result:
+      measure_type: correlation
+      estimate: 0.10
+      p_value: "not significant (only p < .05 and p < .01 flagged; this r carries neither)"
+      note: "In the same table, self-efficacy r .40 (n 376, p < .01) and worry r -.34 (n 378, p < .01) with math score."
+    moderators:
+      reported: []
+      candidate:
+        - "Treatment group (the article reports the correlation for the pooled sample only)"
+        - "Prior knowledge: the authors argue effort raises performance only where the content is known"
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "Effort r .10 1.00 n 382 382"
+    source_location: "Table 5, p. 202 (quoted from the page image); text: 'There was no significant relationship between level of effort and math performance'"
+
+  - id: math-test-alpha
+    sample:
+      value: 393
+      unit: participants
+    arm_ref: [incentive, control]
+    outcome:
+      construct: "Mathematics test score reliability"
+      source_language: "The alpha reliability in this study"
+      measure: "20 released TIMSS math literacy items"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during the testing session"
+    result:
+      measure_type: reliability
+      estimate: 0.663
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The analysed n for the alpha is not printed; the main analyses used 393
+      students.
+    source_quote: "The alpha reliability in this study was .663."
+    source_location: "Materials, Mathematics test, p. 192"
+
+  - id: effort-scale-alpha
+    arm_ref: [incentive, control]
+    outcome:
+      construct: "State effort scale reliability"
+      source_language: "alpha coefficients of .85 for effort"
+      measure: "State Thinking Questionnaire, effort scale: 6 items rated 1 (not at all) to 4 (very much so) for how the student thought or felt during the math test"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "immediately after the math test"
+    result:
+      measure_type: reliability
+      estimate: 0.85
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      note: "Same sentence: self-efficacy .84, worry .72."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The analysed n for the alphas is not printed; Table 2 gives n = 369 for the effort scale."
+    source_quote: "Internal consistency coefficients were computed for the three motivation scales, which showed a high level of internal consistency with alpha coefficients of .85 for effort, .84 for self-efficacy, and .72 for worry."
+    source_location: "Results, Motivation, p. 198"
+
+not_yet_extracted:
+  - "Effort scale means by group: incentive 19.17 (SD 3.70) against control 17.00 (SD 4.30), reported as significant with no test statistic printed (Table 2, n 185 and 184)"
+  - "Self-efficacy and worry means by group (Tables 3 and 4)"
+  - "Math means by gender and booklet and the significant treatment x gender x booklet interaction, whose post hoc comparisons were not significant (Table 1)"
+  - "Easy-item and difficult-item subscores by group (p. 197)"
+  - "Omitted items, incentive 1.45 against control 1.11 (F = 8.23; the text says the incentive group omitted more, and later says fewer); not recorded because the article contradicts itself on the direction"
+  - "Effort correlations with self-efficacy (.44) and worry (.14), Table 5"
