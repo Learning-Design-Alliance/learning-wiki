@@ -5,6 +5,45 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-27 · Observation records batch 8: twelve more simulator sources
+
+The batch adds 21 files and 173 observations:
+- Logan (1988), Experiments 1–4. Experiment 5 is not used by the simulator.
+- Sweller & Cooper (1985), Experiments 2–5.
+- Muldner et al. (2011), one file for each tutor corpus (Andes and the Algebra Cognitive Tutor).
+- Corbett & Anderson (1995), Experiments 1 and 4, from the CMU technical report.
+- Banerjee et al. (2025), study 3, one file for each sample (working children and school children).
+- Bahrick & Phelps (1987), Potkin & Bunney (2012), Penk & Richter (2017), Alexandron et al. (2017), Workman et al.
+  (2023), Stewart et al. (2007) and Putwain et al. (2019).
+
+Text came from the wiki's cache. Tables the text layer garbled were read from page images, using PDFs from the
+maintainer's Drive folder or the publisher:
+- Logan's Tables 2 and 3.
+- Sweller & Cooper's Tables 3, 5 and 8.
+- Bahrick & Phelps' Table 2 and its ANOVAs.
+- Potkin & Bunney's Table 1.
+- Stewart et al.'s Tables I and II, as a check.
+
+Penk & Richter's Figure 3 (an R² of .22) is still unread, because the repository copy could not be downloaded.
+
+Figures removed or not recorded:
+- Workman et al.'s "more than 90 percent reliable" describes the ECLS-K instrument. It comes from that instrument's
+  documentation, so it was moved to not_yet_extracted.
+- Alexandron et al.'s "roughly 15 to 75" ages describe the course's participants, not the sample, so age is unreported.
+
+Findings for the simulator to check:
+- Corbett & Anderson print no knowledge-tracing parameter values. Their third-test accuracy is 0.86 in the text and
+  0.81 in Table IV. The Experiment 4 error figures in the text are Experiment 3's.
+- Muldner et al. call the student and problem figures self-correlations, not split-half reliabilities; no
+  Spearman-Brown correction is printed.
+- Potkin & Bunney do not print the +12.6 gap or the SE of 5.5.
+- Workman et al. do not print the ≈.32 and ≈.39 "SD of spring score" or the ≈.06 and ≈.19 date-to-date values.
+- Putwain et al. do not print an observed-score r of .34. Their value → achievement path is β −.01 in the text and .01
+  in Table 4.
+- Banerjee et al.'s 425/542 and 394/542 counts are in the supplement, which was not read.
+- Penk & Richter: the "value → post β −.05" is not in readable text.
+- Logan's fitted parameters are now recorded, though the simulator cites the article for direction only.
+
 ## 2026-11-26 · Observation record: Norman et al. (1985)
 
 Norman et al. (1985), which had been treated as unavailable, was found by the maintainer. Its record
