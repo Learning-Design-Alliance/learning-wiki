@@ -1,0 +1,336 @@
+# Kirya, Mashood & Yadav (2025): the Force Concept Inventory in Ugandan
+# Senior Four classes, read through classical test theory and item response
+# curves.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * `population.age` as the range the article prints ("aged 15–17"); no mean
+#     or SD is printed.
+#   * `measure_type: reliability`: the test's own alpha, 0.15, over the 30
+#     items. The SEM of 2.1 rides in the note.
+#   * `measure_type: mean`: the whole sample's total score, 5.76 of 30 items
+#     (SD 2.28), from Table 1.
+#   * Item 17's response distribution, one observation per option, as Table 2
+#     prints it. The table's bold-underline marking of the keyed answer did not
+#     survive in the text layer and no PDF was available, so this record does
+#     not say which option is correct. Each Table 2 text row carries two items
+#     side by side (item n and item n+15); the item-17 figures are the second
+#     half of the row that begins with item 2.
+#
+# Read from the publisher's open-access PDF text layer (pdftotext). No page
+# image was viewed.
+
+schema_version: 2
+
+study:
+  key: kirya-2025
+  citation: "Kirya, K. R., Mashood, K. K., & Yadav, L. L. (2025). Use of item response curves to evaluate the validity of the force concept inventory in secondary schools in Uganda and comparison with other educational contexts. European Journal of Mathematics and Science Education, 6(2), 79–95."
+  doi: "10.12973/ejmse.6.2.79"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional survey. The 30-item FCI was given once, treated by the
+      authors as a post-test, to Senior Four students in 24 schools chosen by
+      multi-stage sampling (six schools at random from each of four regions,
+      60 students chosen at random by each school's physics teacher). Item
+      statistics with ITEMAN (classical test theory) and item response curves.
+      No comparison group.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: fci-uganda-mean-5-76-very-challenging
+    bearing: supports
+    anchor: kirya-2025
+  - claim: fci-uganda-low-reliability-alpha-0-15
+    bearing: supports
+    anchor: kirya-2025
+
+evidence_base:
+  unit: participants
+  size:
+    value: 941
+    unit: participants
+  additional_sizes:
+    - value: 1440
+      unit: participants
+      note: "students who sat the FCI; 499 were dropped for incomplete response sheets"
+    - value: 24
+      unit: schools
+      note: "secondary schools, six chosen at random from each of Uganda's four geographic regions"
+    - value: 30
+      unit: items
+      note: "FCI items, five options each"
+  population:
+    description: >-
+      Ugandan Senior Four students, male and female, preparing for the Uganda
+      Certificate of Education (UCE) examinations. English is the medium of
+      instruction; the FCI was given in English. Genders were not tabulated.
+    age_or_stage: "Senior Four, aged 15 to 17"
+    age:
+      unit: years
+      min: 15
+      max: 17
+  context:
+    setting: >-
+      Classroom administration by the schools' physics teachers under UNEB
+      seating rules; the time limit was not strictly kept. Students had not
+      taken this kind of assessment before.
+  arms:
+    - id: senior-four-sample
+      description: "The 941 Senior Four students with complete FCI response sheets."
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Test-level statistics for the whole analysed sample; no contrast between groups."
+
+observations:
+
+  - id: fci-total-score-mean
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Conceptual understanding of Newtonian force and motion"
+      source_language: "Summary of the Scores"
+      measure: "Force Concept Inventory (Hestenes et al., 1992), 30 multiple-choice items, number correct"
+      scale: "0 to 30 items correct"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four, treated as a post-test"
+    result:
+      measure_type: mean
+      estimate: 5.76
+      sd: 2.28
+      unit: "items correct out of 30"
+      descriptives:
+        mean_p: 0.19
+        max_score: 25
+        min_score: 0
+      note: >-
+        Table 1. The Discussion restates the mean as "19.2%, with a standard
+        deviation of 2.28"; the SD there is still in items, not percent.
+    moderators:
+      reported: []
+      candidate:
+        - "Language, curriculum and instructional methods, offered by the authors from comparison with other studies, not tested here"
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Number of Students (n) 941 Items: 30 Mean: 5.76 Mean P: 0.19 SD: 2.28 Max Score: 25 Min Score: 0"
+    source_location: "Results, Table 1"
+
+  - id: fci-alpha
+    sample:
+      value: 941
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the FCI in this sample"
+      source_language: "reliability coefficient (alpha)"
+      measure: "Force Concept Inventory, 30 items, scored by ITEMAN"
+      scale: "coefficient alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: reliability
+      estimate: 0.15
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+        form: "Alpha as output by ITEMAN"
+      note: "Standard error of measurement 2.1 (Table 1)."
+      interpretation: "Described by the authors as significantly lower than the acceptable threshold for educational assessments"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "The test’s reliability coefficient (alpha = 0.15) was significantly lower than the acceptable threshold for educational assessments. The standard error of measurement (SEM = 2.1) also suggests that observed scores contain a considerable amount of random error, further reducing test validity."
+    source_location: "Results, Reliability and Standard Error; Table 1"
+
+  - id: item17-option-a
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Choice of response option on FCI item 17"
+      source_language: "Percentage of Responses to the FCI Items"
+      measure: "FCI item 17, option A"
+      scale: "percent of students choosing the option"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: other
+      estimate: 28
+      unit: "percent of respondents"
+      note: "Item 17 row of Table 2: A 28, B 16, C 18, D 24, E 14. Which option is keyed correct is not legible in the text layer."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      The quote is the whole Table 2 text row, which carries item 2 (first
+      six numbers) and item 17 (last six numbers: item number, then A to E).
+    source_quote: "2 14 28 19 29 10 17 28 16 18 24 14"
+    source_location: "Results, Table 2 (p. 86)"
+
+  - id: item17-option-b
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Choice of response option on FCI item 17"
+      source_language: "Percentage of Responses to the FCI Items"
+      measure: "FCI item 17, option B"
+      scale: "percent of students choosing the option"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: other
+      estimate: 16
+      unit: "percent of respondents"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "2 14 28 19 29 10 17 28 16 18 24 14"
+    source_location: "Results, Table 2 (p. 86)"
+
+  - id: item17-option-c
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Choice of response option on FCI item 17"
+      source_language: "Percentage of Responses to the FCI Items"
+      measure: "FCI item 17, option C"
+      scale: "percent of students choosing the option"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: other
+      estimate: 18
+      unit: "percent of respondents"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "2 14 28 19 29 10 17 28 16 18 24 14"
+    source_location: "Results, Table 2 (p. 86)"
+
+  - id: item17-option-d
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Choice of response option on FCI item 17"
+      source_language: "Percentage of Responses to the FCI Items"
+      measure: "FCI item 17, option D"
+      scale: "percent of students choosing the option"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: other
+      estimate: 24
+      unit: "percent of respondents"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "2 14 28 19 29 10 17 28 16 18 24 14"
+    source_location: "Results, Table 2 (p. 86)"
+
+  - id: item17-option-e
+    sample:
+      value: 941
+      unit: participants
+    arm_ref: senior-four-sample
+    outcome:
+      construct: "Choice of response option on FCI item 17"
+      source_language: "Percentage of Responses to the FCI Items"
+      measure: "FCI item 17, option E"
+      scale: "percent of students choosing the option"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single administration in Senior Four"
+    result:
+      measure_type: other
+      estimate: 14
+      unit: "percent of respondents"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "2 14 28 19 29 10 17 28 16 18 24 14"
+    source_location: "Results, Table 2 (p. 86)"
+
+not_yet_extracted:
+  - "Which option of each item is keyed correct: Table 2 marks it in bold underline, lost in the text layer. The text names the correct option only for items 1 (C), 4 (E, 11%), 9 (E, 28%) and 21 (B, 42%); item 17's key is not stated in the text."
+  - "Table 2 option percentages for the other 29 items"
+  - "Item difficulty and discrimination indices per item (Figures 2 and 3, plots only); 22 of 30 items (73.3%) below 0.3 discrimination and eight below 0.0"
+  - "Distractor effectiveness: three distractors (items 14, 15, 23) judged inappropriate, two chosen by under 5% of students"
+  - "Item response curves for items 1, 4, 9 and 21 (Figures 4-7, plots only) and the logistic goodness-of-fit study, for which no statistics are printed"
+  - "Comparisons with India, China, USA and other samples: those figures are other studies', not this study's"

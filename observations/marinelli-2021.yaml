@@ -1,0 +1,401 @@
+# Marinelli, Angelelli, Martelli, Trenta & Zoccolotti (2021): practice curves
+# on a paper-and-pencil alphabet-rule task in Italian fifth graders.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * `population.age` for the analysed subsample of 125 (mean 10.34, SD 0.61).
+#     The full tested sample of 137 (mean 10.36, SD 0.60) is in the prose.
+#   * `measure_type: mean` for the time per 36-letter matrix at the first
+#     practised matrix (A1), the last (A20) and the first matrix of new letters
+#     (B1), each with its SD, as the Results print them. The matrices are the
+#     arms, as the phases are in a single-case record: one group of children
+#     met all of them, in order, on two consecutive days.
+#   * The F tests for practice across the 20 repetitions and across A1, A20
+#     and B1, as printed. No effect size is printed for either.
+#   * Error rates at A1, A20 and B1.
+#   * The power-function fits: the median individual R2 and the group R2.
+#
+# No reliability coefficient is printed for the experimental task or for any
+# other test. The fitted group parameters (equation in the Results) are garbled
+# in the text layer and are not recorded; see not_yet_extracted.
+#
+# Read from the publisher's open-access PDF text layer (pdftotext). No page
+# image was viewed.
+
+schema_version: 2
+
+study:
+  key: marinelli-2021
+  citation: "Marinelli, C. V., Angelelli, P., Martelli, M., Trenta, M., & Zoccolotti, P. (2021). Ability to consolidate instances as a proxy for the association among reading, spelling, and math learning skill. Frontiers in Psychology, 12, 761696."
+  doi: "10.3389/fpsyg.2021.761696"
+  design:
+    family: other
+    design_detail: >-
+      Single group, within-subject repeated measures. Every child did 20
+      matrices of the same six target letters (A1-A20; ten on each of two
+      consecutive days) and then two matrices of six new letters (B1, B2), in
+      that fixed order. Power functions fitted per child and to the median
+      curve; repeated-measures ANOVAs on time and errors; then multiple
+      regressions of reading, spelling, maths and control tests on each
+      child's fitted parameters. No comparison group and no random assignment.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: power-law-learning-in-paper-pencil-matrix-task
+    bearing: supports
+    anchor: marinelli-cv-2021
+  - claim: power-law-learning-in-paper-pencil-matrix-task
+    bearing: supports
+    anchor: marinelli-cv-2021-2
+  - claim: instance-learning-is-stimulus-specific
+    bearing: supports
+    anchor: marinelli-cv-2021
+  - claim: instance-learning-is-stimulus-specific
+    bearing: supports
+    anchor: marinelli-cv-2021-2
+  - claim: accuracy-changes-across-matrix-practice
+    bearing: supports
+    anchor: marinelli-cv-2021
+
+evidence_base:
+  unit: participants
+  size:
+    value: 125
+    unit: participants
+  additional_sizes:
+    - value: 140
+      unit: participants
+      note: "children who agreed to take part; 3 excluded for impaired Raven's CPM performance"
+    - value: 137
+      unit: participants
+      note: "children tested; 12 more excluded because their individual power fit had R2 below 0.30"
+  population:
+    description: >-
+      Typically developing Italian fifth graders in schools in areas of Lecce
+      and Rome described as middle-class. Analysed subsample 78 boys and 47
+      girls; mean Raven's CPM z score 0.20 (SD 0.91). The 137 tested: 82 boys,
+      55 girls, mean age 10.36 (SD 0.60).
+    age_or_stage: "Fifth grade"
+    age:
+      unit: years
+      mean: 10.34
+      sd: 0.61
+      note: "Analysed subsample of 125"
+  context:
+    setting: "Tested individually in a quiet room at school on two consecutive days"
+  arms:
+    - id: matrix-a1
+      description: "First practised matrix (A1): 36 letters, six target letters (A, M, T, N, F, I) six times each; rule 'letter +2 positions ahead in the alphabet', with an example at the top of the sheet."
+    - id: matrices-a1-a20
+      description: "The twenty practised matrices A1-A20, the same six target letters in a different order on each; A1-A10 on day 1, A11-A20 on day 2."
+    - id: matrix-a20
+      description: "Last practised matrix (A20), day 2."
+    - id: matrix-b1
+      description: "First matrix of six new letters (U, C, R, E, Q, L), given on day 2 after A20, to test generalisation to letters not practised."
+
+comparisons:
+  - id: practice-over-20-repetitions
+    kind: within-subject-baseline
+    index_arm: matrices-a1-a20
+    description: "Change in time (or errors) across the 20 repetitions of the practised matrices."
+  - id: a1-a20-b1
+    kind: other
+    index_arm: [matrix-a20, matrix-b1]
+    reference_arm: matrix-a1
+    description: "Three-condition repeated-measures comparison of A1, A20 and B1 in the same children."
+
+observations:
+
+  - id: time-practice-anova
+    sample:
+      value: 125
+      unit: participants
+    comparison_ref: practice-over-20-repetitions
+    outcome:
+      construct: "Speed on a practised rule-based task"
+      source_language: "response times"
+      measure: "Overall time in seconds to complete each 36-letter matrix"
+      scale: "seconds per matrix"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "matrices A1 to A20 over two consecutive days"
+    result:
+      measure_type: other
+      statistic: "F(19, 2,356) = 361.21"
+      p_value: "< 0.0001"
+      model: "Repeated-measures ANOVA over the 20 repetitions"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "As far as response times, an ANOV A with repetition indicated a significant learning effect across the 20 repetitions ( F(19, 2,356)  = 361.21; p < 0.0001)."
+    source_location: "Results, Learning Effects in the Experimental Task"
+
+  - id: time-a1-a20-b1-anova
+    sample:
+      value: 125
+      unit: participants
+    comparison_ref: a1-a20-b1
+    outcome:
+      construct: "Speed on a practised rule-based task, and on new items"
+      source_language: "times"
+      measure: "Overall time in seconds to complete the matrix"
+      scale: "seconds per matrix"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "A1 (day 1), A20 and B1 (day 2)"
+    result:
+      measure_type: other
+      statistic: "F(2, 248) = 484.74"
+      p_value: "< 0.0001"
+      model: "Repeated-measures ANOVA over A1, A20 and B1, Tukey post-hoc tests"
+      note: >-
+        Tukey contrasts as printed, each p < 0.0001: a decrease of "about 94 s"
+        from A1 to A20; an increase of "about 75 s" from A20 to B1; B1 faster
+        than A1 by "about 19 s". The differences are given only as approximate.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The condition effect was highly significant (F(2, 248)  = 484.74; p < 0.0001), indicating a significant decrease in times with practice (of about 94 s., p < 0.0001, Tukey’s test) and a significant increase in times in the condition with new stimuli (B1) with respect to the A20 presentation (of about 75 s., p < 0.0001, Tukey’s test)"
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 4"
+
+  - id: time-a1-mean
+    sample:
+      value: 125
+      unit: participants
+    arm_ref: matrix-a1
+    outcome:
+      construct: "Speed on a rule-based task before practice"
+      source_language: "the A1 (141 s, SD = 40 s) presentation"
+      measure: "Overall time to complete matrix A1"
+      scale: "seconds"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first practised matrix, day 1"
+    result:
+      measure_type: mean
+      estimate: 141
+      sd: 40
+      unit: "seconds per 36-letter matrix"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The Results give the figure as a performance time with its SD; Figure 4's
+      caption calls these mean times. Figure 3's caption gives medians for B1
+      and B2 only, so a mean and a median for B1 differ (122 against 118).
+    source_quote: "performance in the B1 presentation (122 s, SD = 32 s) was much slower than the performance at the A20 matrix (47 s, SD = 12 s), although slightly faster than in the A1 (141 s, SD = 40 s) presentation (of about 19 s., p < 0.0001, Tukey’s test)."
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 4"
+
+  - id: time-a20-mean
+    sample:
+      value: 125
+      unit: participants
+    arm_ref: matrix-a20
+    outcome:
+      construct: "Speed on a rule-based task after practice"
+      source_language: "the performance at the A20 matrix"
+      measure: "Overall time to complete matrix A20"
+      scale: "seconds"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "twentieth practised matrix, day 2"
+    result:
+      measure_type: mean
+      estimate: 47
+      sd: 12
+      unit: "seconds per 36-letter matrix"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "performance in the B1 presentation (122 s, SD = 32 s) was much slower than the performance at the A20 matrix (47 s, SD = 12 s), although slightly faster than in the A1 (141 s, SD = 40 s) presentation"
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 4"
+
+  - id: time-b1-mean
+    sample:
+      value: 125
+      unit: participants
+    arm_ref: matrix-b1
+    outcome:
+      construct: "Speed on the same rule with new letters"
+      source_language: "performance in the B1 presentation"
+      measure: "Overall time to complete matrix B1 (new target letters)"
+      scale: "seconds"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first matrix of new letters, day 2, after A20"
+    result:
+      measure_type: mean
+      estimate: 122
+      sd: 32
+      unit: "seconds per 36-letter matrix"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "performance in the B1 presentation (122 s, SD = 32 s) was much slower than the performance at the A20 matrix (47 s, SD = 12 s)"
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 4"
+
+  - id: errors-a1-a20-b1
+    sample:
+      value: 125
+      unit: participants
+    comparison_ref: a1-a20-b1
+    outcome:
+      construct: "Accuracy on a practised rule-based task, and on new items"
+      source_language: "errors"
+      measure: "Errors per matrix, as a percentage"
+      scale: "percent errors"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "A1 (day 1), A20 and B1 (day 2)"
+    result:
+      measure_type: other
+      statistic: "F(2, 248) = 6.16"
+      p_value: "< 0.01"
+      descriptives:
+        errors_percent_a1: 2.52
+        errors_percent_a20: 1.61
+        errors_percent_b1: 3.14
+      model: "Repeated-measures ANOVA over A1, A20 and B1"
+      note: >-
+        A1 against A20 p = 0.09; B1 against A20 p < 0.001; B1 not
+        significantly different from A1. Across the 20 practised matrices,
+        F(19, 2,356) = 3.78, p < 0.0001.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The source does not say whether the percentages are means over children
+      or pooled over all responses, so they are kept as descriptives of the
+      contrast rather than as per-arm means.
+    source_quote: "A significant effect also emerged in the analysis that compared the A1, A20, and B1 presentations ( F(2, 248)  = 6.16; p < 0.01): errors decreased from 2.52% in A1 to 1.61% in A20 ( p = 0.09) for increasing again to 3.14% in the B1 matrix (with respect to the A20 matrix, p < 0.001); accuracy in performing the B1 matrix was not significantly different from the A1 matrix."
+    source_location: "Results, Learning Effects in the Experimental Task"
+
+  - id: power-fit-individual-r2
+    sample:
+      value: 125
+      unit: participants
+    arm_ref: matrices-a1-a20
+    outcome:
+      construct: "Fit of a power function of practice to each child's learning curve"
+      source_language: "time reduction according to a power function"
+      measure: "Least-squares fit of T = a + bN^-c to each child's times over A1-A20, asymptote a constrained not below the child's fastest matrix"
+      scale: "R2, variance explained"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "matrices A1 to A20 over two consecutive days"
+    result:
+      measure_type: other
+      estimate: 0.68
+      unit: "median R2 across children"
+      descriptives:
+        r2_min: 0.3
+        r2_max: 0.93
+      note: >-
+        Selected sample: the 12 of 137 children whose fit had R2 below 0.3
+        were excluded before this median was taken.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The remaining sample of 125 children showed a time reduction according to a power function with a median R2 = 0.68 (range 0.3–0.93)."
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 3"
+
+  - id: power-fit-group-r2
+    sample:
+      value: 125
+      unit: participants
+    arm_ref: matrices-a1-a20
+    outcome:
+      construct: "Fit of a power function of practice to the group learning curve"
+      source_language: "Execution time reduced with practice according to the power law"
+      measure: "Power function fitted to the median of the 125 children's times at each of A1-A20"
+      scale: "R2, variance explained"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "matrices A1 to A20 over two consecutive days"
+    result:
+      measure_type: other
+      estimate: 0.95
+      unit: "R2 of the fit to the median curve"
+      note: "The fitted global parameters are printed as an equation that is garbled in the text layer and are not recorded here."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Figure 3 (right) shows the fit applied to the median of the data of the subgroup of children. Execution time reduced with practice according to the power law (R2 = 0.95) with the following global parameters:"
+    source_location: "Results, Learning Effects in the Experimental Task; Figure 3"
+
+not_yet_extracted:
+  - "The fitted global power-function parameters (a, b and the exponent c) of the median curve: the equation is garbled in the text layer (\"T =+ −45 95 6 08 6. .\") and no PDF was available to read it"
+  - "Figure 3 caption: medians and SDs of the retest matrices, B1 = 118 (SD 32), B2 = 89 (SD 24), units not stated in the caption"
+  - "Table 1: 21 multiple regressions of reading, spelling, maths and control tests on the individual power-fit parameters a, b and c (R2, F, betas and t), e.g. Multiplications R2 = 0.131; the table continues on page 12"
+  - "Per-matrix times A2-A19 and B2 (Figure 3, plot only)"
+  - "No reliability coefficient for the experimental task or any other test is printed; the authors judge the paradigm 'sufficiently sensitive and reliable' from the share of usable individual fits (91%)"
