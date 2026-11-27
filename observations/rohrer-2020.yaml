@@ -1,0 +1,419 @@
+# Rohrer, Dedrick, Hartwig & Cheung (2020; online 2019): a randomized
+# controlled trial of interleaved mathematics practice. 54 seventh-grade
+# classes, five middle schools in one Florida district, 2017-2018.
+#
+# Read from the ERIC copy (ED595322), the authors' accepted manuscript ("Journal
+# of Educational Psychology, Published online May 24, 2019", 39 pp.). The
+# manuscript does not print the DOI; 10.1037/edu0000367 is the one Crossref
+# gives for this title and these four authors in Journal of Educational
+# Psychology 112(1), 40-52. The text layer is clean in the prose; Table 7 comes
+# out column by column, so its row quote below was taken from the page image
+# (manuscript p. 37). Table 6 was checked against its page image (p. 36).
+#
+# WHAT THIS FILE RECORDS, and why:
+#
+#   * The student-level d (0.83, 95% CI [0.68, 0.97]) and the two test means
+#     with their SDs (Table 6) as separate observations. Neither is computed
+#     from the other; the source says d uses the pooled student-level SD.
+#   * The two-level model's condition coefficient (22.17 percentage points,
+#     SE 2.47) with the ICC of .23 the source prints from the unconditional
+#     model. The d treats 787 students as independent although 54 classes were
+#     randomised; the multilevel model is the source's own answer to that.
+#   * `measure_type: reliability`: Cronbach's alpha .89 over the 16 test items.
+#     The scorers' agreement is printed only as a count of discrepancies (83 in
+#     12,592), so it is recorded as a count, not converted into a percentage.
+#   * `population.age: unreported`. Table 3's note says the district did not
+#     provide ages and that "most seventh-grade students in the district are 12
+#     years of age at the beginning of the school year". That is not a median
+#     or a range; the words are kept in age_or_stage.
+#
+# Preregistration: the article says "We preregistered the main study, and all
+# materials and data are available at https://osf.io/pfeg4/". It does not say
+# in which registry the preregistration is filed, so no preregistration block
+# is written (`preregistered` requires a registry or id, and that would be an
+# inference); the statement is kept in design_detail.
+#
+# The pilot study (83 students, two teachers, one school, one year earlier) is
+# a different sample. It is not recorded here; see not_yet_extracted.
+
+schema_version: 2
+
+study:
+  key: rohrer-2020
+  citation: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. Journal of Educational Psychology, 112(1), 40–52."
+  doi: "10.1037/edu0000367"
+  design:
+    family: cluster-randomized-controlled-trial
+    design_detail: >-
+      Cluster randomized controlled trial, students nested within classes;
+      classes randomly assigned within teacher (each of 15 teachers had classes
+      in both conditions), 28 classes interleaved and 26 blocked. Over about
+      four months (practice phase averaging 103 days) classes completed eight
+      worksheets whose critical problems (graph, inequality, expression,
+      circle) were interleaved or blocked, with filler problems arranged the
+      other way; both groups then had the same interleaved review worksheet
+      and, on average 33 days later, an unannounced test. The authors describe
+      the contrast as mostly interleaved against mostly blocked practice, a
+      high versus low dose of interleaving. No pretest. The article states the
+      main study was preregistered and gives https://osf.io/pfeg4/ for
+      materials and data. Analysed by a student-level Cohen's d and a
+      two-level random-intercept model (HLM 7.03, REML) with condition and 14
+      teacher dummies at the class level.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: interleaved-practice-beats-blocked-delayed-test-rohrer-2019
+    bearing: supports
+    anchor: doug-rohrer-2019
+  - claim: interleaving-significant-hlm-teacher-controlled
+    bearing: supports
+    anchor: doug-rohrer-2019
+
+evidence_base:
+  unit: participants
+  size:
+    value: 787
+    unit: participants
+  allocation:
+    value: 54
+    unit: classes
+  additional_sizes:
+    - value: 15
+      unit: other
+      note: "teachers (13 women, 2 men), each with classes in both conditions"
+    - value: 5
+      unit: schools
+      note: "middle schools in one large Florida school district"
+    - value: 1103
+      unit: participants
+      note: "students in the participating classes when recruitment began"
+    - value: 856
+      unit: participants
+      note: "students with written assent and parental permission who began the study; 69 (8%) withdrew from the course or missed the test day, 39/437 interleaved and 30/419 blocked"
+  population:
+    description: >-
+      Seventh-grade students in Honors Advanced Grade 7 Mathematics, the modal
+      seventh-grade course at most of the district's schools; it excludes
+      students taking Algebra a year early and nearly all students who failed
+      the Grade 6 mathematics FSA. Final sample 53.2% female; 62.0% White,
+      19.1% Hispanic, 7.5% Black, 5.8% Asian, 5.6% other; 24.0% free or
+      reduced-price lunch; 2.3% ELL/LEP. Grade 6 FSA mathematics: interleaved
+      M = 345 (SD 12), blocked M = 346 (SD 12), no significant difference.
+    age_or_stage: >-
+      Grade 7. Table 3 note: "The school district did not provide student
+      ages, but most seventh-grade students in the district are 12 years of
+      age at the beginning of the school year."
+    age: unreported
+  context:
+    setting: >-
+      Regular mathematics classes in five public middle schools, 2017-2018
+      school year. Teachers had no prior association with the authors and no
+      training; they gave each worksheet in class with at least 30 minutes
+      remaining, could help students one-on-one, then presented the answer
+      key and had students correct their errors. Test: 16 problems, four of
+      each kind, blocked by kind, 25 minutes, calculator allowed, scored blind
+      to condition by two scorers.
+  arms:
+    - id: interleaved
+      description: >-
+        Mostly interleaved practice: on Worksheets 1-8 the critical problems
+        (graph, inequality, expression, circle) were interleaved so that each
+        kind preceded each other kind equally often; many filler problems were
+        blocked. Then the common interleaved review (Worksheet 9).
+      size:
+        value: 398
+        unit: participants
+      allocation:
+        value: 28
+        unit: classes
+      elements:
+        - term: "interleaved mathematics practice"
+          anchors:
+            - principles/interleaving
+      dose:
+        amount: 8
+        unit: "worksheets of eight practice problems, plus one review worksheet"
+        detail: "Practice phase averaged 103 days (range 98-108); review about 10 days later; test about 33 days after the review"
+      implementation_notes:
+        - "Every student saw the same practice problems in a different order; the problems of each kind appeared in the same order in both conditions."
+        - "Solutions were presented after each worksheet and students corrected their errors, so worksheet scores measure compliance, not performance."
+    - id: blocked
+      description: >-
+        Mostly blocked practice: on Worksheets 1-8 the critical problems were
+        blocked by kind; most filler problems were interleaved. Then the same
+        interleaved review (Worksheet 9).
+      size:
+        value: 389
+        unit: participants
+      allocation:
+        value: 26
+        unit: classes
+      dose:
+        amount: 8
+        unit: "worksheets of eight practice problems, plus one review worksheet"
+        detail: "Same schedule as the interleaved classes of the same teacher"
+
+comparisons:
+  - id: interleaved-vs-blocked
+    kind: between-groups
+    index_arm: interleaved
+    reference_arm: blocked
+    description: "Classes assigned to mostly interleaved against mostly blocked practice, on the unannounced test about one month after the review."
+  - id: test-scoring
+    kind: none
+    description: "Properties of the test and its scoring across the whole analysed sample; no contrast."
+
+observations:
+
+  - id: test-d
+    sample:
+      value: 787
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Mathematics problem solving on the four practised kinds of problem"
+      source_language: "test scores"
+      measure: "Unannounced test of 16 new problems (four graph, four inequality, four expression, four circle), each scored correct or not"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about one month after the review worksheet"
+      offset:
+        value: 33
+        unit: days
+        from: "review worksheet (average across classes; range 28-40 days)"
+    result:
+      measure_type: cohens_d
+      estimate: 0.83
+      ci_lower: 0.68
+      ci_upper: 0.97
+      interval_type: confidence
+      descriptives: "interleaved M = 60.7 (SD 28.6), n = 398; blocked M = 37.6 (SD 27.3), n = 389 (Table 6)"
+      note: >-
+        d = (M1 - M2)/SD pooled on student-level data, not class means. A
+        positive effect was observed for each of the 15 teachers, ds = 0.23 to
+        1.48.
+    moderators:
+      reported: []
+      candidate:
+        - "Problem kind: per-kind ds of 0.86, 0.63, 0.40 and 0.34 follow the order in which the blocked group practised the kinds, which the authors attribute to a scheduling confound with test delay, not to the kinds themselves."
+        - "Test delay: the authors list a possibly smaller benefit at shorter delays as a caveat; this study had one delay."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Computed with students as independent units although classes were
+      randomised; the CI therefore does not reflect the clustering. The
+      two-level model (hlm-condition) is the clustered analysis.
+    source_quote: "The effect size was large, Cohen’s d = 0.83, 95% CI = [0.68, 0.97], where d = (M1 – M2)/SD pooled, and M and SD are based on the student-level data (not class means)."
+    source_location: "Results, p. 18"
+
+  - id: test-mean-interleaved
+    sample:
+      value: 398
+      unit: participants
+    arm_ref: interleaved
+    outcome:
+      construct: "Mathematics problem solving on the four practised kinds of problem"
+      source_language: "Descriptive Statistics for the Test (% correct)"
+      measure: "Unannounced 16-problem test"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about one month after the review worksheet"
+      offset:
+        value: 33
+        unit: days
+        from: "review worksheet (average across classes)"
+    result:
+      measure_type: mean
+      estimate: 60.7
+      unit: "percent correct"
+      sd: 28.6
+      note: "Median 62.5, range 0-100, skewness -0.33, kurtosis -1.03 (Table 6)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A group mean is not an effect; the effect is test-d."
+    source_quote: "M 60.7 37.6 49.3 SD 28.6 27.3 30.3"
+    source_location: "Table 6 (manuscript p. 36), Interleaved column"
+
+  - id: test-mean-blocked
+    sample:
+      value: 389
+      unit: participants
+    arm_ref: blocked
+    outcome:
+      construct: "Mathematics problem solving on the four practised kinds of problem"
+      source_language: "Descriptive Statistics for the Test (% correct)"
+      measure: "Unannounced 16-problem test"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about one month after the review worksheet"
+      offset:
+        value: 33
+        unit: days
+        from: "review worksheet (average across classes)"
+    result:
+      measure_type: mean
+      estimate: 37.6
+      unit: "percent correct"
+      sd: 27.3
+      note: "Median 31.3, range 0-100, skewness 0.45, kurtosis -0.68 (Table 6)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A group mean is not an effect; the effect is test-d."
+    source_quote: "M 60.7 37.6 49.3 SD 28.6 27.3 30.3"
+    source_location: "Table 6 (manuscript p. 36), Blocked column"
+
+  - id: hlm-condition
+    sample:
+      value: 787
+      unit: participants
+    comparison_ref: interleaved-vs-blocked
+    outcome:
+      construct: "Mathematics problem solving on the four practised kinds of problem"
+      source_language: "Two-Level Model of Test Score (% correct)"
+      measure: "Unannounced 16-problem test"
+      scale: "percent correct"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "about one month after the review worksheet"
+    result:
+      measure_type: regression_coefficient
+      estimate: 22.17
+      standard_error: 2.47
+      p_value: "<.001"
+      unit: "percentage points"
+      model: >-
+        Two-level random-intercept model (students within classes), HLM 7.03,
+        REML; Model 2 with a class-level condition dummy (0 = Blocked,
+        1 = Interleaved) and 14 teacher dummies. Intercept 24.55 (SE 4.57);
+        between-classroom variance 30.13, within-classroom 693.68. No
+        teacher-by-condition interaction (p > .05).
+      clustering:
+        - statistic: ICC
+          level: class
+          value: 0.23
+          note: "From Model 1, the unconditional model (between-classroom variance 206.72, within-classroom 694.13)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The coefficient is in raw percentage points on the test, not a
+      standardised effect; the source prints no standardised effect from this
+      model.
+    source_quote: "Interleaved Practice 22.17 (2.47) ***"
+    source_location: "Table 7, Model 2 (manuscript p. 37; quoted from the page image, the text layer reads the table column by column); ICC from the table note"
+
+  - id: test-alpha
+    comparison_ref: test-scoring
+    outcome:
+      construct: "Internal consistency of the test"
+      source_language: "The internal consistency reliability of the test"
+      measure: "The 16 test items"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test day"
+    result:
+      measure_type: reliability
+      estimate: 0.89
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as high"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A reliability coefficient is not an effect."
+    source_quote: "The internal consistency reliability of the test was high (for the 16 items, Cronbach’s alpha = .89)."
+    source_location: "Method, Test, p. 18"
+
+  - id: scoring-discrepancies
+    sample:
+      value: 12592
+      unit: items
+      note: "scored answers (each test scored independently by two scorers)"
+    comparison_ref: test-scoring
+    outcome:
+      construct: "Agreement between scorers"
+      source_language: "Discrepancies were rare"
+      measure: "Answers marked correct or not by two scorers working independently and blind to condition"
+      scale: "count of discrepancies"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "test day; discrepancies resolved later by the four authors"
+    result:
+      measure_type: count
+      estimate: 83
+      unit: "discrepancies between the two scorers"
+      note: >-
+        Printed as a count out of 12,592; no agreement percentage or kappa is
+        printed, and none is computed here. The analysed scores are the
+        resolved ones.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Two scorers independently scored each test. Discrepancies were rare (83 in 12,592), and the four authors later met and resolved each discrepancy."
+    source_location: "Method, Test, p. 18"
+
+not_yet_extracted:
+  - "Pilot study (one middle school, two teachers, six classes, n = 83, practice phase 47 days, test 30 days after the review): interleaved M = 0.51 (SD 0.32) vs blocked M = 0.22 (SD 0.25), d = 0.97, 95% CI (0.52, 1.43). A different sample; a separate record (rohrer-2020-pilot) if needed."
+  - "Per-problem-kind ds: 0.86 (graph), 0.63 (inequality), 0.40 (expression), 0.34 (circle); the authors call them misleading because of a scheduling confound with test delay."
+  - "Per-teacher ds, range 0.23 to 1.48 (individual values not printed in the text)."
+  - "Worksheet compliance (Table 4) and percent of practice problems with correct (or corrected) answers (Table 5); the authors say these measure compliance, not performance."
+  - "Teacher survey counts (Appendix, 15 teachers, 18 items)."

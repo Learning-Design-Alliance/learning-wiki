@@ -1,0 +1,1102 @@
+# Arens, Schmidt & Preckel (2019): self-concept, intrinsic value and attainment
+# value in math, German and English, five annual waves (end of Grades 5-9),
+# BiKS-8-14, N = 2116.
+#
+# READ FROM the peDOCS repository copy (urn:nbn:de:0111-pedocs-174751), which
+# states on its own title page that it is "the prepublication version" of the
+# article: the authors' accepted manuscript, not the APA copy of record. Page
+# numbers below are the manuscript's.
+#
+# WHAT IS RECORDED, and why only this:
+#
+#   * Table 2, MATH ONLY (the first coefficient of each cell): the latent factor
+#     correlations of math intrinsic value with itself across all ten pairs of
+#     waves (lags of one to four years), and of math self-concept with math
+#     intrinsic value within each of the five waves. These are CFA factor
+#     correlations from Model 1 (separate factors per wave, free loadings),
+#     not the cross-lagged stability paths of the final model (Table 3).
+#   * The coefficient alphas the article prints for its own sample, per wave,
+#     for the two math scales those correlations rest on.
+#
+# TABLE 2's text layer is unreadable as a table: pdftotext emits each cell as a
+# vertical triple (math/German/English) with no row or column labels. Every
+# cell recorded here was located by viewing the page image (PDF page 62,
+# manuscript p. 60) and its row and column read there, then cross-checked
+# against the column order of the text layer, which runs down each column. The source_quote is the
+# cell's three coefficients exactly as the text layer prints them, checked to
+# occur once in the text; the row and column are given in source_location.
+#
+# German and English cells, the attainment-value cells and the alphas of the
+# other six scales are printed in the same places and are not recorded (see
+# not_yet_extracted).
+
+schema_version: 2
+
+study:
+  key: arens-2019
+  citation: "Arens, A. K., Schmidt, I., & Preckel, F. (2019). Longitudinal relations among self-concept, intrinsic value, and attainment value across secondary school years in three academic domains. Journal of Educational Psychology, 111(4), 663–684."
+  doi: "10.1037/edu0000313"
+  design:
+    family: longitudinal
+    design_detail: >-
+      Secondary analysis of five annual waves (end of Grades 5 to 9, May to
+      July, from 2008) of the BiKS-8-14 panel. Per domain: CFA models with
+      separate correlated factors for self-concept, intrinsic value and
+      attainment value at each wave, then longitudinal loading invariance,
+      then cross-lagged panel models (full-forward and more parsimonious
+      variants), with school grades at t1 as a covariate in the last step.
+      Mplus 8.0, MLR, type = complex with 97 schools as clusters, twenty
+      multiply imputed data sets combined by Little and Rubin's formulas,
+      correlated uniquenesses for repeated items. No intervention.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 2116
+    unit: participants
+  additional_sizes:
+    - value: 97
+      unit: schools
+      note: "schools the students were nested in; treated as clustering variable (type = complex) to correct standard errors"
+  population:
+    description: >-
+      German secondary school students in Bavaria (1451, 68.6%) and Hesse
+      (665, 31.4%); 48.3% male, 51.7% female. At t1, 54.3% academic track
+      (Gymnasium), 15.9% intermediate (Realschule), 17.4% vocational
+      (Hauptschule), 10.8% comprehensive (Gesamtschule), 1.5% special-needs
+      schools. HISEI M = 53.18 (SD = 15.97) where available; 69.5% with no
+      immigrant background; German mother tongue for 80.4%. Included: every
+      student with at least one valid self-concept or value item at one or
+      more waves and a known school. Wave participation fell from 90.3% (t1)
+      to 84.7%, 78.0%, 44.9% and 36.6% (t5).
+    age_or_stage: "Grades 5 to 9 (t1 to t5); age given at t1 only"
+    age:
+      unit: years
+      mean: 11.45
+      sd: 0.46
+      note: "at t1, the end of Grade 5"
+  context:
+    setting: "BiKS-8-14 longitudinal study (DFG-funded), questionnaires at the end of each school year, Grades 5 to 9, starting 2008; data from the IQB Research Data Centre"
+  arms: []
+
+comparisons:
+  - id: whole-sample
+    kind: none
+    description: "Factor correlations and scale reliabilities in the whole sample; no contrast between groups."
+
+observations:
+
+  # Math intrinsic value with itself across waves (lags of 1 to 4 years).
+
+  - id: math-intrinsic-value-t1-t2
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t1 correlated with the same factor at t2. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 1
+        unit: years
+        from: "t1, end of Grade 5"
+      label: "end of Grade 5 (t1) with end of Grade 6 (t2), 1 year apart"
+    result:
+      measure_type: correlation
+      estimate: 0.541
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".541/ .428/ .483"
+    source_location: "Table 2, row INT t2, column INT t1, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t2-t3
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t2 correlated with the same factor at t3. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 1
+        unit: years
+        from: "t2, end of Grade 6"
+      label: "end of Grade 6 (t2) with end of Grade 7 (t3), 1 year apart"
+    result:
+      measure_type: correlation
+      estimate: 0.538
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".538/ .418/ .498"
+    source_location: "Table 2, row INT t3, column INT t2, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t3-t4
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t3 correlated with the same factor at t4. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 1
+        unit: years
+        from: "t3, end of Grade 7"
+      label: "end of Grade 7 (t3) with end of Grade 8 (t4), 1 year apart"
+    result:
+      measure_type: correlation
+      estimate: 0.516
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".516/ .449/ .601"
+    source_location: "Table 2, row INT t4, column INT t3, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t4-t5
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t4 correlated with the same factor at t5. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 1
+        unit: years
+        from: "t4, end of Grade 8"
+      label: "end of Grade 8 (t4) with end of Grade 9 (t5), 1 year apart"
+    result:
+      measure_type: correlation
+      estimate: 0.640
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".640/ .493/ .507"
+    source_location: "Table 2, row INT t5, column INT t4, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t1-t3
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t1 correlated with the same factor at t3. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 2
+        unit: years
+        from: "t1, end of Grade 5"
+      label: "end of Grade 5 (t1) with end of Grade 7 (t3), 2 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.380
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".380/ .250/ .296"
+    source_location: "Table 2, row INT t3, column INT t1, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t2-t4
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t2 correlated with the same factor at t4. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 2
+        unit: years
+        from: "t2, end of Grade 6"
+      label: "end of Grade 6 (t2) with end of Grade 8 (t4), 2 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.459
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".459/ .370/ .404"
+    source_location: "Table 2, row INT t4, column INT t2, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t3-t5
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t3 correlated with the same factor at t5. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 2
+        unit: years
+        from: "t3, end of Grade 7"
+      label: "end of Grade 7 (t3) with end of Grade 9 (t5), 2 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.524
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".524/ .490/ .512"
+    source_location: "Table 2, row INT t5, column INT t3, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t1-t4
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t1 correlated with the same factor at t4. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 3
+        unit: years
+        from: "t1, end of Grade 5"
+      label: "end of Grade 5 (t1) with end of Grade 8 (t4), 3 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.380
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".380/ .273/ .313"
+    source_location: "Table 2, row INT t4, column INT t1, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t2-t5
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t2 correlated with the same factor at t5. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 3
+        unit: years
+        from: "t2, end of Grade 6"
+      label: "end of Grade 6 (t2) with end of Grade 9 (t5), 3 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.412
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".412/ .289/ .325"
+    source_location: "Table 2, row INT t5, column INT t2, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-intrinsic-value-t1-t5
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Rank-order stability of math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math intrinsic value factor at t1 correlated with the same factor at t5. Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      offset:
+        value: 4
+        unit: years
+        from: "t1, end of Grade 5"
+      label: "end of Grade 5 (t1) with end of Grade 9 (t5), 4 years apart"
+    result:
+      measure_type: correlation
+      estimate: 0.323
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".323/ .208/ .294"
+    source_location: "Table 2, row INT t5, column INT t1, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  # Math self-concept with math intrinsic value within each wave.
+
+  - id: math-self-concept-intrinsic-value-t1
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Concurrent relation of math self-concept and math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math self-concept factor and latent math intrinsic value factor at the same wave. Self-concept: Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math. Intrinsic value: Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 5 (t1), same wave"
+    result:
+      measure_type: correlation
+      estimate: 0.644
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".644/ .596/ .654"
+    source_location: "Table 2, row INT t1, column ASC t1, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-self-concept-intrinsic-value-t2
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Concurrent relation of math self-concept and math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math self-concept factor and latent math intrinsic value factor at the same wave. Self-concept: Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math. Intrinsic value: Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 6 (t2), same wave"
+    result:
+      measure_type: correlation
+      estimate: 0.669
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".669/ .507/ .674"
+    source_location: "Table 2, row INT t2, column ASC t2, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-self-concept-intrinsic-value-t3
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Concurrent relation of math self-concept and math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math self-concept factor and latent math intrinsic value factor at the same wave. Self-concept: Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math. Intrinsic value: Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 7 (t3), same wave"
+    result:
+      measure_type: correlation
+      estimate: 0.624
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".624/ .506/ .610"
+    source_location: "Table 2, row INT t3, column ASC t3, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-self-concept-intrinsic-value-t4
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Concurrent relation of math self-concept and math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math self-concept factor and latent math intrinsic value factor at the same wave. Self-concept: Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math. Intrinsic value: Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 8 (t4), same wave"
+    result:
+      measure_type: correlation
+      estimate: 0.642
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".642/ .414/ .580"
+    source_location: "Table 2, row INT t4, column ASC t4, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  - id: math-self-concept-intrinsic-value-t5
+    sample:
+      value: 2116
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Concurrent relation of math self-concept and math intrinsic value"
+      source_language: "Standardized Factor Correlations"
+      measure: "Latent math self-concept factor and latent math intrinsic value factor at the same wave. Self-concept: Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math. Intrinsic value: Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "standardized latent factor correlation"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 9 (t5), same wave"
+    result:
+      measure_type: correlation
+      estimate: 0.716
+      p_value: "< .05"
+      model: >-
+        CFA Model 1 for math (Table 1): separate correlated factors for
+        self-concept, intrinsic value and attainment value at each wave, free
+        loadings; MLR, type = complex (97 schools), twenty imputed data sets.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The table note says all factor correlations are significant at p < .05;
+      no standard error or interval is printed per cell, and no per-cell n.
+      The models were fitted to the 2116 students with missing responses
+      multiply imputed, so the sample here is not the number who responded at
+      each wave (36.6% at t5).
+    source_quote: ".716/ .498/ .614"
+    source_location: "Table 2, row INT t5, column ASC t5, first coefficient (math); manuscript p. 60, cell position read from the page image"
+
+  # Coefficient alphas the article prints for its own sample, per wave.
+
+  - id: math-self-concept-alpha-t1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math self-concept scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 5 (t1)"
+    result:
+      measure_type: reliability
+      estimate: 0.921
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math self-concept: t1: α = .921; t2: α = .935; t3: α = .932; t4: α = .945; t5: α = .959;"
+    source_location: "Method, Instruments"
+
+  - id: math-self-concept-alpha-t2
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math self-concept scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 6 (t2)"
+    result:
+      measure_type: reliability
+      estimate: 0.935
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math self-concept: t1: α = .921; t2: α = .935; t3: α = .932; t4: α = .945; t5: α = .959;"
+    source_location: "Method, Instruments"
+
+  - id: math-self-concept-alpha-t3
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math self-concept scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 7 (t3)"
+    result:
+      measure_type: reliability
+      estimate: 0.932
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math self-concept: t1: α = .921; t2: α = .935; t3: α = .932; t4: α = .945; t5: α = .959;"
+    source_location: "Method, Instruments"
+
+  - id: math-self-concept-alpha-t4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math self-concept scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 8 (t4)"
+    result:
+      measure_type: reliability
+      estimate: 0.945
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math self-concept: t1: α = .921; t2: α = .935; t3: α = .932; t4: α = .945; t5: α = .959;"
+    source_location: "Method, Instruments"
+
+  - id: math-self-concept-alpha-t5
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math self-concept scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Three SDQ II items, 5-point scale: Math is easy for me; I learn quickly in math; I am good at math"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 9 (t5)"
+    result:
+      measure_type: reliability
+      estimate: 0.959
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math self-concept: t1: α = .921; t2: α = .935; t3: α = .932; t4: α = .945; t5: α = .959;"
+    source_location: "Method, Instruments"
+
+  - id: math-intrinsic-value-alpha-t1
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math intrinsic value scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 5 (t1)"
+    result:
+      measure_type: reliability
+      estimate: 0.877
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math intrinsic value: t1: α = .877; t2: α = .865; t3: α = .853; t4: α = .864; t5: α = .846;"
+    source_location: "Method, Instruments"
+
+  - id: math-intrinsic-value-alpha-t2
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math intrinsic value scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 6 (t2)"
+    result:
+      measure_type: reliability
+      estimate: 0.865
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math intrinsic value: t1: α = .877; t2: α = .865; t3: α = .853; t4: α = .864; t5: α = .846;"
+    source_location: "Method, Instruments"
+
+  - id: math-intrinsic-value-alpha-t3
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math intrinsic value scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 7 (t3)"
+    result:
+      measure_type: reliability
+      estimate: 0.853
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math intrinsic value: t1: α = .877; t2: α = .865; t3: α = .853; t4: α = .864; t5: α = .846;"
+    source_location: "Method, Instruments"
+
+  - id: math-intrinsic-value-alpha-t4
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math intrinsic value scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 8 (t4)"
+    result:
+      measure_type: reliability
+      estimate: 0.864
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math intrinsic value: t1: α = .877; t2: α = .865; t3: α = .853; t4: α = .864; t5: α = .846;"
+    source_location: "Method, Instruments"
+
+  - id: math-intrinsic-value-alpha-t5
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Internal consistency of the math intrinsic value scale"
+      source_language: "coefficient alpha reliability estimates"
+      measure: "Two items, 5-point scale: How much do you look forward to math lessons? How much would you like to have more math lessons?"
+      scale: "Cronbach's alpha"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of Grade 9 (t5)"
+    result:
+      measure_type: reliability
+      estimate: 0.846
+      reliability:
+        statistic: cronbach_alpha
+        over: items
+      interpretation: "Described by the authors as good"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The article's own sample. It does not say how many students the alpha at
+      each wave was computed on (imputed or observed responses).
+    source_quote: "math intrinsic value: t1: α = .877; t2: α = .865; t3: α = .853; t4: α = .864; t5: α = .846;"
+    source_location: "Method, Instruments"
+
+not_yet_extracted:
+  - "Table 2: the German (second) and English (third) coefficients of every cell, and every cell involving attainment value or self-concept stability, for all three domains."
+  - "Coefficient alphas per wave for German and English self-concept, all three attainment-value scales, and German and English intrinsic value (Instruments section)."
+  - "Tables 3 to 5: standardized stability and cross-lagged paths of the final invariance models per domain (Models 8, 16, 24), with and without t1 school grades; these are the figures the five Arens 2019 claim pages rest on."
+  - "Table 1: fit indices of all 24 models."
+  - "Missing data were imputed with an imputation model described only in the Online Supplements, which this copy does not reproduce in full."

@@ -1,0 +1,294 @@
+# Zhang, Huang, Wang, Lu, Fang, Stamper, Fancsali, Holstein & Aleven (2019):
+# early detection of wheel spinning across tutors, models, features and
+# operationalizations (EDM 2019 short paper).
+#
+# What is recorded: how often wheel spinning occurs in three tutor data sets
+# under two operationalizations (Sections 2.1.1 and 2.1.2), and how far the two
+# operationalizations agree on which (student, KC) pairs are wheel spinning
+# (Section 3.1.1). The detector results (precision and recall of six models)
+# are listed in not_yet_extracted.
+#
+# THE ARMS ARE DATA SETS, NOT CONDITIONS. No learner was assigned anything:
+# CL1 and CL2 are two Algebra sections of MATHia (2017-18), Geometry is a high
+# school geometry tutor. Each figure is about one data set, so each
+# observation names it with arm_ref. The two operationalizations are two
+# outcome definitions applied to the same pairs, recorded as separate
+# observations rather than as arms.
+#
+# DENOMINATOR. The paper gives the rates as a percentage "of (student, KC)
+# pairs" and says indeterminate pairs were discarded "before training our
+# models". It does not say whether the rates are taken before or after that
+# discard. The pair counts in the arms are the data sets' totals as printed in
+# Section 2; they are not stated to be the rates' denominators.
+#
+# The agreement figures are recorded as `reliability` (percent agreement
+# between two classification rules). The statistic is the paper's own: of the
+# pairs labelled wheel spinning by EITHER rule, the share labelled so by both.
+# It is not overall percent agreement across all pairs, and `form` says so.
+#
+# DOI: none recorded. Crossref (title and author search, 2019-2020) and
+# DataCite (title search) were searched on 2026-11-27 and returned no record
+# for this paper. The field is omitted rather than null: a null asserts that
+# none is registered, which a search that finds nothing does not establish.
+#
+# Read from the ERIC repository copy (text layer, which is clean; no table
+# figures are quoted). Age: the article prints no age figure, so
+# age: unreported.
+
+schema_version: 2
+
+study:
+  key: zhang-2019-wheel-spinning
+  citation: "Zhang, C., Huang, Y., Wang, J., Lu, D., Fang, W., Stamper, J., Fancsali, S., Holstein, K., & Aleven, V. (2019). Early detection of wheel spinning: Comparison across tutors, models, features, and operationalizations. In Proceedings of the 12th International Conference on Educational Data Mining (EDM 2019), Montreal, QC, Canada. ERIC ED594575."
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of tutor log data exported from DataShop, three data
+      sets. Each (student, KC) pair labelled mastered, wheel spinning or
+      indeterminate under two operationalizations: three correct in a row
+      within the first 10 practice opportunities (Beck & Gong), and the
+      Predictive Stability++ policy with Bayesian Knowledge Tracing (shipped
+      parameters for the two MATHia data sets, fitted parameters for
+      Geometry). Six wheel-spinning detectors then trained and tested on a
+      6:4 split. No conditions were assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+evidence_base:
+  unit: other
+  size:
+    value: 3
+    unit: other
+  additional_sizes:
+    - value: 132551
+      unit: pairs
+      note: "(student, KC) pairs in the CL1 data set"
+    - value: 419832
+      unit: pairs
+      note: "(student, KC) pairs in the CL2 data set"
+    - value: 8175
+      unit: pairs
+      note: "(student, KC) pairs in the Geometry data set"
+  population:
+    description: >-
+      Students working in two Algebra sections of the MATHia intelligent
+      tutoring system (Carnegie Learning) in the 2017-18 school year, and
+      students using a high school geometry tutor. The paper gives no number
+      of students, school, grade or demographic detail.
+    age_or_stage: "Algebra (MATHia) and high school geometry; no grade or age stated."
+    age: unreported
+  context:
+    setting: "Intelligent tutoring systems with multi-step problems, each problem practising several knowledge components; logs exported from DataShop"
+  arms:
+    - id: cl1
+      description: "CL1: one Algebra section of MATHia, 2017-18 school year."
+      size:
+        value: 132551
+        unit: pairs
+    - id: cl2
+      description: "CL2: a second Algebra section of MATHia, 2017-18 school year."
+      size:
+        value: 419832
+        unit: pairs
+    - id: geometry
+      description: "Geometry: a high school geometry tutor (the paper cites Liu & Koedinger 2017 for it)."
+      size:
+        value: 8175
+        unit: pairs
+
+comparisons: []
+
+observations:
+
+  - id: ws-rate-three-in-a-row-cl1
+    arm_ref: cl1
+    outcome: &ws3
+      construct: "Wheel spinning"
+      source_language: "the frequency of wheel spinning ... of (student, KC) pairs"
+      measure: "Three correct in a row criterion: a (student, KC) pair with 10 or more steps and no three contiguous correct attempts within the first 10 steps is wheel spinning"
+      scale: "percent of (student, KC) pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &t10
+      label: "first 10 practice opportunities on the KC"
+    result:
+      measure_type: probability
+      estimate: 6.6
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: &obs
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: &den >-
+      The paper does not say whether indeterminate pairs are in the
+      denominator; effect_size is unreported because a rate is not an effect.
+    source_quote: &q3 "Under this criterion, the frequency of wheel spinning in CL1, CL2 and Geometry dataset is 6.6%, 0.56%, and 10.2% of (student, KC) pairs, respectively."
+    source_location: "Section 2.1.1, Three Correct in a Row"
+
+  - id: ws-rate-three-in-a-row-cl2
+    arm_ref: cl2
+    outcome: *ws3
+    time: *t10
+    result:
+      measure_type: probability
+      estimate: 0.56
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *den
+    source_quote: *q3
+    source_location: "Section 2.1.1, Three Correct in a Row"
+
+  - id: ws-rate-three-in-a-row-geometry
+    arm_ref: geometry
+    outcome: *ws3
+    time: *t10
+    result:
+      measure_type: probability
+      estimate: 10.2
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *den
+    source_quote: *q3
+    source_location: "Section 2.1.1, Three Correct in a Row"
+
+  - id: ws-rate-ps-plus-plus-cl1
+    arm_ref: cl1
+    outcome: &wsps
+      construct: "Wheel spinning"
+      source_language: "the frequency of wheel spinning ... of (student, KC) pairs"
+      measure: "Predictive Stability++ with BKT: once the predicted next-step correctness after a correct and after an incorrect response converge, a pair whose predicted correctness is not close enough to its upper bound is wheel spinning"
+      scale: "percent of (student, KC) pairs"
+      direction: lower-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time: &tps
+      label: "at the step where the Predictive Stability stopping criterion is met"
+    result:
+      measure_type: probability
+      estimate: 24.2
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *den
+    source_quote: &qps "Under this criterion, the frequency of wheel spinning in CL1, CL2 and Geometry dataset is 24.2%, 2.17%, and 13.2% of (student, KC) pairs, respectively."
+    source_location: "Section 2.1.2, Predictive Stability++"
+
+  - id: ws-rate-ps-plus-plus-cl2
+    arm_ref: cl2
+    outcome: *wsps
+    time: *tps
+    result:
+      measure_type: probability
+      estimate: 2.17
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *den
+    source_quote: *qps
+    source_location: "Section 2.1.2, Predictive Stability++"
+
+  - id: ws-rate-ps-plus-plus-geometry
+    arm_ref: geometry
+    outcome: *wsps
+    time: *tps
+    result:
+      measure_type: probability
+      estimate: 13.2
+      unit: "percent of (student, KC) pairs"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *den
+    source_quote: *qps
+    source_location: "Section 2.1.2, Predictive Stability++"
+
+  - id: criteria-agreement-cl1
+    arm_ref: cl1
+    outcome: &agree
+      construct: "Agreement between wheel-spinning operationalizations"
+      source_language: "wheel spinning agreement percentage"
+      measure: "Of the (student, KC) pairs labelled wheel spinning by either the three correct in a row criterion or PS++, the share labelled wheel spinning by both"
+      scale: "percent"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time: &tall
+      label: "labels computed from all of each pair's data"
+    result:
+      measure_type: reliability
+      estimate: 22.2
+      reliability: &rel
+        statistic: percent_agreement
+        over: other
+        form: "agreement between two classification rules, computed only over pairs either rule labels wheel spinning (not overall agreement across all pairs)"
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: &agnote >-
+      The confusion matrices behind this figure are in Figures 1-3, which the
+      text layer does not reproduce; only the printed percentage is recorded.
+    source_quote: "For instance, in the CL1 dataset, among all (student, kc) pairs that are labeled as wheel spinning by either operationalization, the two operationalizations agree on only 22.2% of them."
+    source_location: "Section 3.1.1, Comparing Operationalizations"
+
+  - id: criteria-agreement-cl2
+    arm_ref: cl2
+    outcome: *agree
+    time: *tall
+    result:
+      measure_type: reliability
+      estimate: 14.1
+      reliability: *rel
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *agnote
+    source_quote: "In CL2 dataset, the same wheel spinning agreement percentage is 14.1%."
+    source_location: "Section 3.1.1, Comparing Operationalizations"
+
+  - id: criteria-agreement-geometry
+    arm_ref: geometry
+    outcome: *agree
+    time: *tall
+    result:
+      measure_type: reliability
+      estimate: 41.6
+      reliability: *rel
+    moderators:
+      reported: []
+      candidate: []
+    observability: *obs
+    observability_notes: *agnote
+    source_quote: "In the Geometry dataset, it is 41.6%."
+    source_location: "Section 3.1.1, Comparing Operationalizations"
+
+not_yet_extracted:
+  - "Detector precision and recall at the fourth step (Section 3.3.1): Random Forest (77.2%, 63.5%) under three correct in a row and (90.8%, 81.4%) under PS++; MLP (71.9%, 58.9%) and (82.4%, 77.2%); baseline logistic regression (74.9%, 58.2%) and (75.3%, 59.9%). The paper does not say on which data set these were measured."
+  - "Single-feature logistic regression on 'Correct Response Percentage': 93.5% precision and 77.1% recall after 4 steps for the PS++ label; on 'Assistance Score', 68.4% precision and 60% recall at the fourth step (Section 3.2.2). Data set not stated."
+  - "Figure 7 (precision and recall by step, per detector, data set and criterion) and Figures 1-3 (confusion matrices) are images; no figures read from them."
+  - "CL2: 'over 97% (student, KC) pairs are under mastery class after discarding the indeterminate class' (Section 3.3.2), a bound on the mastered share, not recorded as an observation."

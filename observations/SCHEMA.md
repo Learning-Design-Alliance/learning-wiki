@@ -429,6 +429,12 @@ study:                       # the SOURCE
                              # (unreported = looked, the source does not say;
                              # absent = nobody looked). preregistered requires a
                              # registry or an id: saying where is the claim.
+  publication_status:        # OPTIONAL (2026-11-27) — {status, date, notice, note}
+                             # status: withdrawn | retracted | expression-of-concern
+                             # notice (required): the DOI or URL that states it.
+                             # Absent = nothing known against the source. The record
+                             # is kept, so a consumer using the figures can find out;
+                             # compile emits the field on every row.
   synthesis:                 # REQUIRED iff family is meta-analysis/systematic-review,
                              # and forbidden otherwise
     model:                   # required — e.g. "Random-effects models"

@@ -1,0 +1,281 @@
+# Ghosh, Heffernan & Lan (2020): context-aware attentive knowledge tracing
+# (AKT), KDD 2020.
+#
+# A model paper, not an experiment with learners in conditions. The arms are
+# model configurations evaluated on logged response data, and every figure
+# recorded is the paper's own: test AUCs from five-fold cross-validation,
+# averaged over the five test folds (Table 2 prints each with its SD across
+# folds; Table 3 prints averages only, as its text says). The observations are
+# on ASSISTments2009, the dataset that carries question IDs and on which all
+# three ablations were run.
+#
+# Read from the arXiv copy (arXiv:2007.12324v1, 24 Jul 2020, 10 pp.), whose
+# front matter carries the ACM reference format and DOI 10.1145/3394486.3403282,
+# matching Crossref (KDD '20 proceedings, pp. 2330-2339). The arXiv copy is the
+# authors' version; it was not compared with the ACM version of record.
+#
+# Tables 1-5 come out of the text layer column by column, so the table-row
+# source_quotes below were taken from the PDF page images (pp. 5-7), in the
+# article's own characters (its "±" and spacing).
+#
+# measure_type: Table 2 and Table 3 values are recorded as `mean` (an average
+# over five test folds, with the SD across folds where Table 2 prints one),
+# because the source says that is what they are. Table 4 does not say whether
+# its values are fold averages, so its positional-encoding AUC is recorded as
+# `other` rather than as a mean.
+#
+# No age, no reliability: the article prints no age or grade for any dataset
+# (ASSISTments is described as an online tutoring platform, Statics2011 as a
+# college-level engineering course) and no reliability or agreement figure.
+# BKT+ AUCs in Table 2 are taken from an earlier paper ([36]), so they are not
+# this study's figures and are not recorded.
+
+schema_version: 2
+
+study:
+  key: ghosh-2020
+  citation: "Ghosh, A., Heffernan, N., & Lan, A. S. (2020). Context-aware attentive knowledge tracing. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20) (pp. 2330–2339). Association for Computing Machinery."
+  doi: "10.1145/3394486.3403282"
+  design:
+    family: other
+    design_detail: >-
+      Computational benchmark. AKT predicts a learner's response to the current
+      question with two self-attentive encoders (questions; knowledge
+      acquired) giving context-aware representations, a knowledge retriever
+      whose monotonic attention down-weights past items by an exponential
+      decay of a context-aware distance in time steps (one decay rate per
+      head), and Rasch model-based question and response embeddings (a
+      per-question scalar difficulty times a per-concept variation vector).
+      Compared with DKT, DKT+, DKVMN and SAKT (re-implemented) on four
+      datasets by five-fold cross-validation (per fold 60% of learners train,
+      20% validation for early stopping and tuning, 20% test), sequences
+      truncated to 200 responses, AUC as the metric; three ablations
+      (context-aware vs raw representations, monotonic attention vs
+      positional encodings, with vs without Rasch embeddings). No conditions
+      were assigned to learners.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-repository-copy
+  verification: unverified
+
+appears_in:
+  - claim: akt-outperforms-kt-baselines-auc-benchmarks
+    bearing: supports
+    anchor: aritra-ghosh-2020
+  - claim: akt-monotonic-attention-beats-positional-encoding
+    bearing: supports
+    anchor: aritra-ghosh-2020
+  - claim: akt-context-aware-representations-improve-prediction
+    bearing: supports
+    anchor: aritra-ghosh-2020
+
+evidence_base:
+  unit: other
+  size:
+    value: 4
+    unit: other
+  additional_sizes:
+    - value: 4151
+      unit: participants
+      note: "learners in ASSISTments2009: 110 concepts, 16,891 questions, 325,637 responses (Table 1); interactions not associated with a named concept removed"
+    - value: 19840
+      unit: participants
+      note: "learners in ASSISTments2015: 100 concepts, 683,801 responses, no question IDs; interactions with isCorrect not 0 or 1 removed"
+    - value: 1709
+      unit: participants
+      note: "learners in ASSISTments2017: 102 concepts, 3,162 questions, 942,816 responses"
+    - value: 333
+      unit: participants
+      note: "learners in Statics2011: 1,223 concepts, 189,297 responses, no question IDs"
+  population:
+    description: >-
+      Four benchmark datasets of logged learner responses: ASSISTments2009,
+      ASSISTments2015 and ASSISTments2017 from the ASSISTments online tutoring
+      platform, and Statics2011 from a college-level engineering statics
+      course. The size above counts datasets.
+    age_or_stage: "Statics2011 is a college-level course; no age or grade is stated for any dataset."
+    age: unreported
+  context:
+    setting: "Offline prediction of each learner's binary response to the next question from their logged response sequence; models trained with Adam, batch size 24 learners, up to 300 epochs"
+  arms:
+    - id: akt-r
+      description: "AKT with the Rasch model-based embeddings (question IDs used): context-aware encoders, monotonic attention knowledge retriever."
+    - id: akt-nr
+      description: "AKT without the Rasch model-based embeddings: context-aware encoders and monotonic attention, concepts indexing questions."
+    - id: akt-raw-nr
+      description: "AKTraw-NR: AKT-NR without the question and knowledge encoders; raw question and response embeddings go straight into the knowledge retriever (a single self-attention with exponential decay)."
+    - id: akt-nr-pos
+      description: "AKT-NRpos: AKT-NR with the monotonic attention replaced by learnable positional encoding."
+    - id: dkt
+      description: "DKT (LSTM), re-implemented by the authors."
+
+comparisons: []
+
+observations:
+
+  - id: auc-akt-r-assistments2009
+    arm_ref: akt-r
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "Performance of all KT methods on all datasets in predicting future learner responses"
+      measure: "Area under the ROC curve on held-out test learners, ASSISTments2009, five-fold cross-validation"
+      scale: "AUC (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test folds"
+    result:
+      measure_type: mean
+      estimate: 0.8346
+      sd: 0.0036
+      unit: "AUC, average over five test folds"
+      note: "Best model on this dataset in Table 2; the authors say AKT-R outperforms the closest baseline by 2% here."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "An AUC is a model's prediction score, not an effect on learners. The SD is across the five test folds."
+    source_quote: "ASSISTments2009 ∼ 0.69 0.817 ± 0.0043 0.8024 ± 0.0045 0.8093 ± 0.0044 0.752 ± 0.004 0.8169 ± 0.0045 0.8346 ± 0.0036"
+    source_location: "Table 2, ASSISTments2009 row, AKT-R column (p. 6; quoted from the page image)"
+
+  - id: auc-akt-nr-assistments2009
+    arm_ref: akt-nr
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "Performance of all KT methods on all datasets in predicting future learner responses"
+      measure: "Area under the ROC curve on held-out test learners, ASSISTments2009, five-fold cross-validation"
+      scale: "AUC (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test folds"
+    result:
+      measure_type: mean
+      estimate: 0.8169
+      sd: 0.0045
+      unit: "AUC, average over five test folds"
+      note: "The authors describe AKT-NR as on par with the best-performing baseline on ASSISTments2009 (DKT, 0.817)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "An AUC is a model's prediction score, not an effect on learners. The SD is across the five test folds."
+    source_quote: "ASSISTments2009 ∼ 0.69 0.817 ± 0.0043 0.8024 ± 0.0045 0.8093 ± 0.0044 0.752 ± 0.004 0.8169 ± 0.0045 0.8346 ± 0.0036"
+    source_location: "Table 2, ASSISTments2009 row, AKT-NR column (p. 6; quoted from the page image)"
+
+  - id: auc-dkt-assistments2009
+    arm_ref: dkt
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "Performance of all KT methods on all datasets in predicting future learner responses"
+      measure: "Area under the ROC curve on held-out test learners, ASSISTments2009, five-fold cross-validation"
+      scale: "AUC (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test folds"
+    result:
+      measure_type: mean
+      estimate: 0.817
+      sd: 0.0043
+      unit: "AUC, average over five test folds"
+      note: "Second-best model on this dataset in Table 2. DKT+ 0.8024, DKVMN 0.8093, SAKT 0.752 on the same row."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "An AUC is a model's prediction score, not an effect on learners. The SD is across the five test folds."
+    source_quote: "ASSISTments2009 ∼ 0.69 0.817 ± 0.0043 0.8024 ± 0.0045 0.8093 ± 0.0044 0.752 ± 0.004 0.8169 ± 0.0045 0.8346 ± 0.0036"
+    source_location: "Table 2, ASSISTments2009 row, DKT column (p. 6; quoted from the page image)"
+
+  - id: auc-akt-raw-nr-assistments2009
+    arm_ref: akt-raw-nr
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "AKT outperforms its variants that do not use contextual-aware question and response representations"
+      measure: "Area under the ROC curve on held-out test learners, ASSISTments2009, five-fold cross-validation"
+      scale: "AUC (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test folds"
+    result:
+      measure_type: mean
+      estimate: 0.8082
+      unit: "AUC, average over five test folds (SDs not printed)"
+      note: "Against AKT-NR 0.8169 on the same row; AKTraw-R 0.8267 against AKT-R 0.8346."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The source prints averages only for this table, for space."
+    source_quote: "ASSISTments2009 0.8082 0.8169 0.8267 0.8346"
+    source_location: "Table 3, ASSISTments2009 row, AKTraw-NR column (p. 6; quoted from the page image)"
+
+  - id: auc-akt-nr-pos-assistments2009
+    arm_ref: akt-nr-pos
+    outcome:
+      construct: "Next-response prediction accuracy"
+      source_language: "AKT significantly outperforms its variants that do not use monotonic attention"
+      measure: "Area under the ROC curve on held-out test learners, ASSISTments2009"
+      scale: "AUC (0-1)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "held-out test folds"
+    result:
+      measure_type: other
+      estimate: 0.7706
+      unit: "AUC"
+      note: >-
+        Same row: SAKT 0.752, AKT-NRfixed (fixed sine-cosine positional
+        encoding) 0.7708, AKT-NR 0.8169. The table does not say whether these
+        are fold averages; its AKT-NR value equals Table 2's average.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "No SD or test statistic is printed for the ablation, although the caption and text say 'significantly'."
+    source_quote: "ASSISTments2009 0.752 0.7706 0.7708 0.8169"
+    source_location: "Table 4, ASSISTments2009 row, AKT-NRpos column (p. 6; quoted from the page image)"
+
+not_yet_extracted:
+  - "Table 2 AUCs (mean ± SD over five folds) on Statics2011, ASSISTments2015 and ASSISTments2017 for DKT, DKT+, DKVMN, SAKT, AKT-NR and AKT-R (AKT-R only on the two datasets with question IDs); the authors report AKT-NR +6% and +1% over the closest baseline on ASSISTments2015 and 2017, and AKT-R +2% and +6% on ASSISTments2009 and 2017."
+  - "Tables 3 and 4 on the other three datasets; Table 5 (each baseline with and without Rasch embeddings on ASSISTments2009 and 2017); Table 6 (alternative multi-concept setting on ASSISTments2009, AKT-R 0.7866)."
+  - "BKT+ AUCs in Table 2 (about 0.75 and 0.69) are cited from [36], not this study's figures."
+  - "Learned Rasch difficulty parameters for sample questions (e.g. -0.0515, 0.0088, 0.0548 for easy, average and hard 'Probability of a Single Event' questions) and the attention-weight and t-SNE visualisations (Section 4.3)."
