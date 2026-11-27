@@ -53,13 +53,13 @@ provenance:
 appears_in:
   - claim: gaming-negative-predictor-posttest-decimals-game
     bearing: supports
-    anchor: bittencourt-ig-ibert-2020
+    anchor: mogessie-et-al-2020
   - claim: confrustion-negative-predictor-posttest-decimals-game
     bearing: supports
-    anchor: bittencourt-ig-ibert-2020
+    anchor: mogessie-et-al-2020
   - claim: errex-conditions-higher-confrustion-gaming-than-ps-only
     bearing: supports
-    anchor: bittencourt-ig-ibert-2020
+    anchor: mogessie-et-al-2020
 
 evidence_base:
   unit: participants
