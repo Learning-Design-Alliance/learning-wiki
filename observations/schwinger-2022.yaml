@@ -1,0 +1,365 @@
+# Schwinger, Trautner, Pütz, Fabianek, Lemmer, Lauermann & Wirthwein (2022):
+# antecedents of habitual academic self-handicapping, a meta-analysis of 159
+# studies and 194 independent samples.
+#
+# Not the same paper as `schwinger-2014` (self-handicapping and achievement,
+# doi:10.1037/a0035832), which treats achievement as an OUTCOME; this one keeps
+# only achievement measured before self-handicapping, as an antecedent.
+#
+# Read from the text layer of the Online First copy (28 October 2021, pages
+# 1-21, the same DOI). Crossref gives the issue as 114(3), 576-596, April 2022;
+# page numbers below are the Online First pages. No PDF was available here.
+#
+# THE MINUS SIGN. The text layer prints APA's minus as a substitute glyph,
+# the control character U+0001 (Table 3: "\x01.193***", "[\x01.218, \x01.167]";
+# the text: "mastery-approach goals (r = \x01.19) were found to have a medium,
+# but negative relation"). The same glyph stands for the en dash in ranges
+# ("0\x0130% female"). Where it precedes a correlation it is a minus, which the
+# running text confirms in words for both negative rows recorded here, so the
+# source_quote fields write the article's character (−) in its place, as
+# `schwinger-2014` does for the same font. A substring search of the raw text
+# for those two quotes finds them with U+0001 in place of −.
+#
+# Table 3 extracted column by column. The k, N, SE, CI, tau², Q and I² values
+# below were read off those columns by row order, which the k column confirms
+# (fear of failure 14, test anxiety 35, mastery-approach 78,
+# performance-approach 65, performance-avoidance 62 in the emotional-
+# motivational block). Each source_quote is therefore the running text, not a
+# table row.
+#
+# WHAT THIS FILE RECORDS:
+#
+#   * The pooled correlations of self-handicapping with performance-avoidance,
+#     performance-approach and mastery-approach goals and with
+#     conscientiousness, with heterogeneity and the publication-bias findings.
+#   * `population.age: unreported`: the article gives the share of university
+#     and of school samples but no age figure.
+#   * No reliability observation. The authors double-coded 28 studies, but the
+#     kappas are in online supplemental Table 2, not in the article; the
+#     ".61 and .80" in the text are Landis and Koch's benchmarks, not results.
+
+schema_version: 2
+
+study:
+  key: schwinger-2022
+  citation: "Schwinger, M., Trautner, M., Pütz, N., Fabianek, S., Lemmer, G., Lauermann, F., & Wirthwein, L. (2022). Why do students use strategies that hurt their chances of academic success? A meta-analysis of antecedents of academic self-handicapping. Journal of Educational Psychology, 114(3), 576-596. (Advance online publication 28 October 2021.)"
+  doi: "10.1037/edu0000706"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Meta-analysis of Pearson correlations between self-reported habitual
+      academic self-handicapping and hypothesised antecedents (self-related
+      beliefs, emotional-motivational variables, personality, gender, prior
+      achievement) in correlational cross-sectional and longitudinal studies;
+      experimental studies excluded. Fisher-Z transformed correlations pooled
+      under random-effects models with REML, cluster robust variance estimation
+      for dependent effect sizes; moderators (self-handicapping scale
+      reliability and scale type) by mixed-effects meta-regression with
+      Knapp-Hartung adjustment. The authors state the data are largely
+      cross-sectional and support no causal or time-lagged conclusion.
+  synthesis:
+    model: "Random-effects models with a restricted maximum likelihood (REML) estimator; cluster robust estimation with small-sample adjustment for dependent effect sizes"
+    heterogeneity_statistic: "Q and I2"
+    search:
+      databases:
+        - PsycINFO
+        - PSYINDEX
+        - ERIC
+        - Google Scholar
+        - Web of Science
+        - BASE
+        - NDLTD
+        - ProQuest Dissertations & Theses
+        - Trove National Library of Australia
+        - OpenGrey
+        - NTIS
+      date_range: "up to October 2020"
+      records_included: 159
+    inclusion:
+      - "At least one correlation between habitual self-handicapping and a listed antecedent, in an academic setting"
+      - "Correlational cross-sectional or longitudinal designs with self-report self-handicapping questionnaires; experimental studies excluded"
+      - "Achievement assessed before self-handicapping, so that it is a predictor and not an outcome"
+      - "School and university students, doctoral students and postgraduates; samples with learning difficulties excluded"
+      - "Bivariate correlations or enough information to compute them"
+      - "Published in English or German"
+    data_handling:
+      - "A second independent person coded 28 (17%) of the included studies; kappas and ICCs are in online supplemental Table 2"
+      - "Correlations reported for subgroups such as gender or age treated as independent samples"
+      - "Outliers by studentized residuals beyond 1.96 SDs; eight effects excluded after checks"
+      - "Publication bias by funnel plots, Begg and Mazumdar rank correlation tests, Egger regression tests and trim and fill"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: achievement-goals-smaller-associations-self-handicapping
+    bearing: supports
+    anchor: schwinger-2021
+  - claim: conscientiousness-strongest-negative-antecedent-self-handicapping
+    bearing: supports
+    anchor: schwinger-2021
+
+evidence_base:
+  unit: effect-sizes
+  size:
+    value: 690
+    unit: effect-sizes
+  additional_sizes:
+    - value: 159
+      unit: studies
+      note: "studies included"
+    - value: 194
+      unit: other
+      note: "independent samples within the 159 studies"
+    - value: 81630
+      unit: participants
+      note: "total participants across the 194 samples (range n = 13 to n = 12,237)"
+  population:
+    description: >-
+      School and university students. Samples mainly higher education and
+      university students (60.3%), elementary and high school students
+      (39.2%) and one mixed sample (.5%). Studies published 1986-2020, mainly
+      from the US/Canada (44.8%), Europe (28.9%), Asia (12.9%) and Australia
+      and Pacific Islands (10.8%).
+    age_or_stage: "School (elementary to high school) and university students, doctoral students and postgraduates; the article prints no age figure"
+    age: unreported
+  context:
+    setting: "Field and laboratory studies relating questionnaire-measured habitual academic self-handicapping to its hypothesised antecedents"
+  variation:
+    - dimension: "Educational level of the samples"
+      distribution: "higher education and university 60.3%, elementary and high school 39.2%, one mixed sample .5%"
+  arms: []
+
+comparisons:
+  - id: whole-corpus
+    kind: none
+    description: "Bivariate association between an antecedent and self-handicapping pooled across the corpus; no contrast between groups."
+
+observations:
+
+  - id: pav-goals-self-handicapping
+    sample:
+      value: 37053
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Habitual academic self-handicapping"
+      source_language: "self-handicapping"
+      measure: "Self-report self-handicapping questionnaires (mostly the Academic Self-Handicapping Scale and the Self-Handicapping Scale) correlated with self-reported performance-avoidance goals"
+      scale: "mean true correlation (Pearson r, back-transformed from Fisher Z)"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, largely cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.272
+      standard_error: 0.022
+      ci_lower: 0.231
+      ci_upper: 0.312
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 62
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 93.78
+        unit: percent
+        interpretation: "I2 95% CI [90.80, 95.77]; Q = 986.21, p < .001; tau2 = 0.024 [.016, .037]; heterogeneity classified as large"
+      publication_bias:
+        method: "Funnel plot; Begg and Mazumdar rank correlation test; Egger regression test; trim and fill"
+        finding: "Regression test significant and funnel plot slightly asymmetric; trim and fill suggested 9 additional studies. The authors advise caution for this estimate."
+      model: "random-effects, REML, cluster robust estimation"
+      note: "Described as a medium to large positive association (Hattie, 2009, benchmarks: .10 small, .20 medium, .30 large)."
+    moderators:
+      reported: []
+      candidate:
+        - "Reliability and type of the self-handicapping scale moderated most associations (Tables 4 and 5); their coefficients for this antecedent were not read here."
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k counts effect sizes, not studies (Table 3 note). Estimate, SE, CI, k, N,
+      tau2, Q and I2 read off Table 3's columns by row order; the quote is the
+      running text, which gives the rounded .27.
+    source_quote: "Fear of failure (r = .39), test anxiety (r = .29), and performance-avoidance goals (r = .27) showed medium to large positive associations with self-handicapping."
+    source_location: "Results, Mean Effect Sizes and Heterogeneity; Table 3, emotional-motivational variables (Online First p. 13)"
+
+  - id: pap-goals-self-handicapping
+    sample:
+      value: 17933
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Habitual academic self-handicapping"
+      source_language: "self-handicapping"
+      measure: "Self-report self-handicapping questionnaires correlated with self-reported performance-approach goals"
+      scale: "mean true correlation (Pearson r, back-transformed from Fisher Z)"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, largely cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: 0.081
+      standard_error: 0.029
+      ci_lower: 0.022
+      ci_upper: 0.139
+      interval_type: confidence
+      p_value: "< .01"
+      k:
+        value: 65
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 92.38
+        unit: percent
+        interpretation: "I2 95% CI [89.00, 94.85]; Q = 805.03, p < .001; tau2 = 0.034 [.023, .051]; heterogeneity classified as large"
+      publication_bias:
+        method: "Funnel plot; Begg and Mazumdar rank correlation test; Egger regression test; trim and fill"
+        finding: "Rank correlation test significant and funnel plot slightly asymmetric; trim and fill suggested 11 additional studies. The authors advise caution for this estimate."
+      model: "random-effects, REML, cluster robust estimation"
+      note: "Described as a small positive association."
+    moderators:
+      reported: []
+      candidate:
+        - "Reliability and type of the self-handicapping scale (Tables 4 and 5); not read here for this antecedent."
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k counts effect sizes. Figures read off Table 3's columns by row order;
+      the quote is the running text.
+    source_quote: "Performance-approach goals (r = .08) only showed a small positive association with self-handicapping, while mastery-approach goals (r = −.19) were found to have a medium, but negative relation with self-handicapping."
+    source_location: "Results, Mean Effect Sizes and Heterogeneity; Table 3, emotional-motivational variables (Online First p. 13)"
+
+  - id: map-goals-self-handicapping
+    sample:
+      value: 43957
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Habitual academic self-handicapping"
+      source_language: "self-handicapping"
+      measure: "Self-report self-handicapping questionnaires correlated with self-reported mastery-approach goals"
+      scale: "mean true correlation (Pearson r, back-transformed from Fisher Z)"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, largely cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.193
+      standard_error: 0.013
+      ci_lower: -0.218
+      ci_upper: -0.167
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 78
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 82.86
+        unit: percent
+        interpretation: "I2 95% CI [75.82, 88.89]; Q = 315.40, p < .001; tau2 = 0.008 [.005, .014]; heterogeneity classified as large"
+      publication_bias:
+        method: "Funnel plot; Begg and Mazumdar rank correlation test; Egger regression test; trim and fill"
+        finding: "Regression test significant and funnel plot slightly asymmetric; trim and fill suggested 19 additional studies. The authors advise caution for this estimate."
+      model: "random-effects, REML, cluster robust estimation"
+      note: "Described as a medium, but negative relation."
+    moderators:
+      reported:
+        - variable: "Reliability of the self-handicapping scale (Cronbach's alpha)"
+          relationship: "Significant moderator of this association (Table 4); the authors write that it becomes smaller and more positive as scale reliability increases"
+          source_quote: "In contrast, associations with self-esteem level and mastery-approach goals become smaller and more positive with increasing scale reliability."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k counts effect sizes. Figures read off Table 3's columns by row order;
+      the minus sign is the text layer's U+0001 glyph (see header). The
+      reliability moderator's coefficient is not recorded: the text prints it
+      with the minus glyph ("b = \x01.704") while saying the association becomes
+      more positive with reliability, and the two cannot be reconciled from
+      the text layer alone.
+    source_quote: "Performance-approach goals (r = .08) only showed a small positive association with self-handicapping, while mastery-approach goals (r = −.19) were found to have a medium, but negative relation with self-handicapping."
+    source_location: "Results, Mean Effect Sizes and Heterogeneity; Table 3, emotional-motivational variables (Online First p. 13)"
+
+  - id: conscientiousness-self-handicapping
+    sample:
+      value: 7150
+      unit: participants
+    comparison_ref: whole-corpus
+    outcome:
+      construct: "Habitual academic self-handicapping"
+      source_language: "self-handicapping"
+      measure: "Self-report self-handicapping questionnaires correlated with self-reported conscientiousness"
+      scale: "mean true correlation (Pearson r, back-transformed from Fisher Z)"
+      direction: lower-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "as measured in the primary studies, largely cross-sectional"
+    result:
+      measure_type: correlation
+      estimate: -0.398
+      standard_error: 0.027
+      ci_lower: -0.474
+      ci_upper: -0.365
+      interval_type: confidence
+      p_value: "< .001"
+      k:
+        value: 21
+        unit: effect-sizes
+      heterogeneity:
+        statistic: "I2"
+        value: 92.03
+        unit: percent
+        interpretation: "I2 95% CI [86.30, 96.47]; Q = 192.93, p < .001; tau2 = 0.025 [.013, .058]; heterogeneity classified as large"
+      publication_bias:
+        method: "Funnel plot; Begg and Mazumdar rank correlation test; Egger regression test; trim and fill"
+        finding: "Tests for plot asymmetry not significant and funnel plot not or only slightly asymmetric, indicating no or only little publication bias"
+      model: "random-effects, REML, cluster robust estimation"
+      note: "The strongest association in the corpus. The printed interval is not symmetric about the estimate; recorded as printed."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: observed
+      pooled_k: observed
+    observability_notes: >-
+      k counts effect sizes. Figures read off Table 3's columns by row order;
+      the minus sign is the text layer's U+0001 glyph (see header).
+    source_quote: "The more neurotic (r = .38) and the less conscientious (r = −.40) learners reported to be, the more self-handicapping they reported on average."
+    source_location: "Results, Mean Effect Sizes and Heterogeneity; Table 3, personality variables (Online First p. 13)"
+
+not_yet_extracted:
+  - "The other Table 3 rows (self-esteem level, self-efficacy, ability self-concept, entity and incremental theories, fear of failure, test anxiety, neuroticism, gender, prior achievement), not used here."
+  - "Coding reliability: kappas and ICCs for the second coder's 28 studies are in online supplemental Table 2, not in the article; the article's '.61 and .80' are Landis and Koch's benchmarks."
+  - "Moderation by self-handicapping scale reliability (Table 4) and scale type (Table 5) for the other antecedents."
