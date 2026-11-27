@@ -1,0 +1,473 @@
+# Gick & Holyoak (1983), Experiment 6: two story analogs, similar or
+# dissimilar, with or without convergence diagrams.
+#
+# Read from a text layer of the published article (Cognitive Psychology 15,
+# 1-38); no PDF was available beside it. Table 9A is flattened by the text
+# layer into one column per condition, in the header's order (similar with
+# diagrams, dissimilar with diagrams, similar without, dissimilar without):
+# before hint, after hint, total, N. Every cell's frequency agrees with its
+# percentage and N, and before plus after equals total in frequencies, so the
+# per-condition figures below are recorded from it, quoted as the flattened
+# column. The pooled contrasts are quoted from the running text, where the text
+# layer has dropped the superscript 2 ("G(1)", "G (1)"); `statistic` writes
+# G2.
+#
+#   * Per-condition shares as `probability`, in percent as printed.
+#   * `population.age: unreported`: 189 subjects "run in small groups", not
+#     otherwise described.
+#   * No reliability figure for the schema scoring.
+#   * Design `quasi-experimental`: the stories' assignment to conditions was
+#     counterbalanced, but how subjects were divided among the four conditions
+#     is not stated.
+
+schema_version: 2
+
+study:
+  key: gick-1983-exp6
+  citation: "Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. Cognitive Psychology, 15(1), 1–38. Experiment 6."
+  doi: "10.1016/0010-0285(83)90002-6"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      2 x 2 between-subjects: two similar analogs (both military or both
+      fire-fighting) or two dissimilar analogs (one of each), with or without
+      a separate sheet of two arrow diagrams representing convergence (stories
+      modified to refer to them; subjects asked to draw them). Story
+      assignment and order fully counterbalanced. Procedure as in Experiment
+      5: study for 5 minutes, summarise and describe similarities from memory,
+      then the radiation problem without and then with a hint.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: schema-aids-beneficial-with-two-analogs
+    bearing: supports
+    anchor: gick-1983
+
+evidence_base:
+  unit: participants
+  size:
+    value: 189
+    unit: participants
+  population:
+    description: "189 subjects run in small groups, approximately equal numbers per condition; the article does not otherwise describe them for this experiment."
+    age_or_stage: "Not described for this experiment"
+    age: unreported
+  context:
+    setting: "Small-group testing; written story task from memory, then the radiation problem in the two-pass procedure"
+  arms:
+    - id: similar-with-diagrams
+      description: "Two similar-domain analogs plus the convergence diagrams."
+      size:
+        value: 48
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+        - term: "diagrammatic representation of the principle"
+    - id: dissimilar-with-diagrams
+      description: "Two dissimilar-domain analogs plus the convergence diagrams."
+      size:
+        value: 51
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+        - term: "diagrammatic representation of the principle"
+    - id: similar-without-diagrams
+      description: "Two similar-domain analogs, no diagrams."
+      size:
+        value: 43
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+    - id: dissimilar-without-diagrams
+      description: "Two dissimilar-domain analogs, no diagrams."
+      size:
+        value: 47
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+
+comparisons:
+  - id: diagrams-vs-none
+    kind: between-groups
+    index_arm:
+      - similar-with-diagrams
+      - dissimilar-with-diagrams
+    reference_arm:
+      - similar-without-diagrams
+      - dissimilar-without-diagrams
+    description: "Diagrams against no diagrams, pooled over analog similarity, as the article pools them."
+
+observations:
+
+  - id: before-hint-diagrams-vs-none
+    sample:
+      value: 189
+      unit: participants
+    comparison_ref: diagrams-vs-none
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "initial solutions"
+      measure: "Convergence solution to the radiation problem proposed on the first pass, before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 7.55"
+      p_value: "< .01"
+      descriptives:
+        with-diagrams: "57% before the hint"
+        without-diagrams: "37% before the hint"
+      interpretation: "The diagrams' effects were essentially the same for similar and dissimilar analogs; analog similarity had no significant influence on solution frequencies (no statistic printed)."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Printed in the text layer as \"G(1) = 7.55\"; the superscript 2 is lost."
+    source_quote: "Provision of a diagram resulted in a higher frequency of initial solutions (57 vs 37%), G(1) = 7.55, p < .01, as well as of total solutions (92 vs 79%), G (1) = 6.66, p < .01."
+    source_location: "Experiment 6, Results and Discussion, p. 28; Table 9A"
+
+  - id: total-diagrams-vs-none
+    sample:
+      value: 189
+      unit: participants
+    comparison_ref: diagrams-vs-none
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "total solutions"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 6.66"
+      p_value: "< .01"
+      descriptives:
+        with-diagrams: "92% in total"
+        without-diagrams: "79% in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Printed in the text layer as \"G (1) = 6.66\"."
+    source_quote: "Provision of a diagram resulted in a higher frequency of initial solutions (57 vs 37%), G(1) = 7.55, p < .01, as well as of total solutions (92 vs 79%), G (1) = 6.66, p < .01."
+    source_location: "Experiment 6, Results and Discussion, p. 28; Table 9A"
+
+  - id: before-hint-share-similar-with-diagrams
+    sample:
+      value: 48
+      unit: participants
+    arm_ref: similar-with-diagrams
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 61
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 9A: before 61 (29), after 33 (16), total 94 (45), N 48."
+    source_quote: "61 (29) 33 (16) 94 (45) 48"
+    source_location: "Experiment 6, Table 9A, p. 29, first column"
+
+  - id: total-share-similar-with-diagrams
+    sample:
+      value: 48
+      unit: participants
+    arm_ref: similar-with-diagrams
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 94
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "61 (29) 33 (16) 94 (45) 48"
+    source_location: "Experiment 6, Table 9A, p. 29, first column"
+
+  - id: before-hint-share-dissimilar-with-diagrams
+    sample:
+      value: 51
+      unit: participants
+    arm_ref: dissimilar-with-diagrams
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 53
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 9A: before 53 (27), after 37 (19), total 90 (46), N 51."
+    source_quote: "53 (27) 37 (19) 90 (46) 51"
+    source_location: "Experiment 6, Table 9A, p. 29, second column"
+
+  - id: total-share-dissimilar-with-diagrams
+    sample:
+      value: 51
+      unit: participants
+    arm_ref: dissimilar-with-diagrams
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 90
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "53 (27) 37 (19) 90 (46) 51"
+    source_location: "Experiment 6, Table 9A, p. 29, second column"
+
+  - id: before-hint-share-similar-without-diagrams
+    sample:
+      value: 43
+      unit: participants
+    arm_ref: similar-without-diagrams
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 40
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 9A: before 40 (17), after 40 (17), total 79 (34), N 43."
+    source_quote: "40 (17) 40 (17) 79 (34) 43"
+    source_location: "Experiment 6, Table 9A, p. 29, third column"
+
+  - id: total-share-similar-without-diagrams
+    sample:
+      value: 43
+      unit: participants
+    arm_ref: similar-without-diagrams
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 79
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "40 (17) 40 (17) 79 (34) 43"
+    source_location: "Experiment 6, Table 9A, p. 29, third column"
+
+  - id: before-hint-share-dissimilar-without-diagrams
+    sample:
+      value: 47
+      unit: participants
+    arm_ref: dissimilar-without-diagrams
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 34
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 9A: before 34 (16), after 45 (21), total 79 (37), N 47."
+    source_quote: "34 (16) 45 (21) 79 (37) 47"
+    source_location: "Experiment 6, Table 9A, p. 29, fourth column"
+
+  - id: total-share-dissimilar-without-diagrams
+    sample:
+      value: 47
+      unit: participants
+    arm_ref: dissimilar-without-diagrams
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "Percentage of Subjects Producing Convergence Solution"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 79
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "34 (16) 45 (21) 79 (37) 47"
+    source_location: "Experiment 6, Table 9A, p. 29, fourth column"
+
+  - id: schema-quality-diagrams-vs-none
+    sample:
+      value: 189
+      unit: participants
+    comparison_ref: diagrams-vs-none
+    outcome:
+      construct: "Schema abstraction from two analogs"
+      source_language: "quality of the schemas"
+      measure: "Similarity descriptions scored good, intermediate or poor; subjects who referred to the diagrams as representing the similarities were scored good"
+      scale: "distribution over three schema-quality levels"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, during the story task"
+    result:
+      measure_type: other
+      statistic: "G2(2) = 14.4"
+      p_value: "< .001"
+      descriptives:
+        with-diagrams: "55% good, 22% poor"
+        without-diagrams: "28% good, 39% poor"
+    moderators:
+      reported:
+        - variable: "Analog similarity"
+          relationship: "With diagrams, dissimilar analogs gave more good schemas than similar ones (65 vs 44%), G2(1) = 4.41, p < .05; without diagrams similarity did not influence schema quality, G2(2) < 1. The extra good schemas did not translate into better transfer."
+          source_quote: "When no diagrams were given, analog similarity did not influence schema quality, G2(2) < 1."
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Provision of the diagrams improved the quality of the schemas derived from both similar and dissimilar analogs, G2(2) = 14.4, p < .001."
+    source_location: "Experiment 6, Results and Discussion, pp. 29-30; Table 9B"
+
+not_yet_extracted:
+  - "Table 10: timing of the convergence solution by schema quality and analog similarity, collapsed over diagrams; dissimilar analogs G2(4) = 21.5, p < .001; similar analogs G2(4) = 5.16, p = .27, and G(1) = 3.98, p < .05 for the extreme cells. Table 10's cells are not in the text layer"
+  - "Table 9B per-condition schema-quality cells (good/intermediate/poor): 44/29/27, 65/18/18, 26/30/44, 30/36/34"
+  - "Footnote 5: an earlier experiment (Gick, Note 1) with one pair of dissimilar analogs plus diagrams, 68% without a hint and 95% in total (N = 37); another study, not this experiment"

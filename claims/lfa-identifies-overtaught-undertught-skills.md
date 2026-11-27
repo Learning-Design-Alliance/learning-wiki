@@ -5,23 +5,23 @@ description: LFA identifies over-taught and under-taught skills, and split skill
 id: lfa-identifies-overtaught-undertught-skills
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-23
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 2005
-recheck_by: 2008
+newest_evidence: 2006
+recheck_by: 2009
 sources:
-  - id: cen-et-al-2005
+  - id: cen-et-al-2006
     resource: "https://doi.org/10.1007/11774303_17"
-    title: "Hao Cen, Kenneth Koedinger, Brian Junker. (2005). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17"
+    title: "Hao Cen, Kenneth Koedinger, Brian Junker. (2006). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17"
     author: Hao Cen, Kenneth Koedinger, Brian Junker
     q: 2
     i: "?"
     kind: associational
     rigour: 2
-  - id: cen-et-al-2005-2
+  - id: cen-et-al-2006-2
     resource: "https://doi.org/10.1007/11774303_17"
-    title: "Hao Cen, Kenneth Koedinger, Brian Junker. (2005). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17"
+    title: "Hao Cen, Kenneth Koedinger, Brian Junker. (2006). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17"
     author: Hao Cen, Kenneth Koedinger, Brian Junker
     q: 2
     i: "?"
@@ -33,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Parallelogram-side is over-practiced (initial success probability .94, about 14.9 practices per student) so practice can be reduced, while Trapezoid-height (initial probability .29, final .69) needs more practice to reach mastery. [→ Cen et al. 2005](#cen-et-al-2005)
-`q2 i?` After splitting Compose-by-multiplication, CMsegment has final probability only .60 with less than 2 average practices, so knowledge tracing on the original unsplit rule may release students before they master CMsegment. [→ Cen et al. 2005 (2)](#cen-et-al-2005-2)
+`q2 i?` Parallelogram-side is over-practiced (initial success probability .94, about 14.9 practices per student) so practice can be reduced, while Trapezoid-height (initial probability .29, final .69) needs more practice to reach mastery. [→ Cen et al. 2006](#cen-et-al-2006)
+`q2 i?` After splitting Compose-by-multiplication, CMsegment has final probability only .60 with less than 2 average practices, so knowledge tracing on the original unsplit rule may release students before they master CMsegment. [→ Cen et al. 2006 (2)](#cen-et-al-2006-2)
 
 ## Evidence
 
-### Cen et al. 2005
+### Cen et al. 2006
 
-Hao Cen, Kenneth Koedinger, Brian Junker. (2005). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17
+Hao Cen, Kenneth Koedinger, Brian Junker. (2006). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17
 
 `q2 · i?` · `associational · r2`
 
@@ -51,9 +51,9 @@ Combining Experiments 1–3, the article examines per-skill practice statistics:
 
 > "Much practice spent on an easy skill is not a good use of student time. Reducing the amount of practice for this skill should save student time without compromising their performance."
 
-### Cen et al. 2005 (2)
+### Cen et al. 2006 (2)
 
-Hao Cen, Kenneth Koedinger, Brian Junker. (2005). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17
+Hao Cen, Kenneth Koedinger, Brian Junker. (2006). Learning Factors Analysis – A General Method for Cognitive Model Evaluation and Improvement. https://doi.org/10.1007/11774303_17
 
 `q2 · i?` · `design · r2`
 

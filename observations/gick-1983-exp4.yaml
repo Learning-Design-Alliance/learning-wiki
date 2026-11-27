@@ -1,0 +1,402 @@
+# Gick & Holyoak (1983), Experiment 4: two prior story analogs against one
+# analog plus a disanalogous control story, before the radiation problem.
+#
+# Read from a text layer of the published article (Cognitive Psychology 15,
+# 1-38); no PDF was available beside it. Table 5 is flattened by the text
+# layer into one column per condition; each cell's printed frequency agrees
+# with its percentage and N, and the figures recorded below are also printed
+# in the running text, which is what every source_quote cites.
+#
+# What the record holds:
+#
+#   * The paradigm's two measures, per condition and as contrasts: the share of
+#     subjects producing the convergence solution before a hint to use the
+#     stories (spontaneous noticing and application) and in total, before or
+#     after the hint. Shares are recorded as `probability` in percent, as
+#     printed. No standardised effect size is printed.
+#   * The two-analog figures (45% and 80%) pool the similar-analogs and
+#     dissimilar-analogs conditions, as the article's own contrast does, so the
+#     observations name both arms in `arm_ref`.
+#   * `population.age: unreported`. The article does not describe this
+#     experiment's subjects beyond their number.
+#   * No reliability figure: the schema descriptions were scored by "two
+#     independent judges", with disagreements "infrequent" and resolved by
+#     discussion; no coefficient is printed.
+#   * Design `quasi-experimental`: subjects "were divided into three basic
+#     groups"; the article does not say how.
+#
+# Experiments 5 and 6 are different samples and have their own records
+# (gick-1983-exp5, gick-1983-exp6). The roughly 30% and 75% one-analog figures
+# the article quotes on p. 4 are Gick & Holyoak (1980)'s results, another
+# study, and are not recorded here.
+
+schema_version: 2
+
+study:
+  key: gick-1983-exp4
+  citation: "Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. Cognitive Psychology, 15(1), 1–38. Experiment 4."
+  doi: "10.1016/0010-0285(83)90002-6"
+  design:
+    family: quasi-experimental
+    design_detail: >-
+      Three between-subjects conditions: two similar story analogs (both
+      military or both fire-fighting), two dissimilar analogs (one of each),
+      and one analog plus a disanalogous control story. Story use and order
+      counterbalanced; method of dividing subjects into conditions not stated.
+      Subjects summarised each story with the stories available, described in
+      writing how the two stories were similar, and then attempted Duncker's
+      radiation problem in a two-pass procedure: first without a hint, then
+      with an explicit hint to use the stories. Similarity descriptions scored
+      for schema quality (good, intermediate, poor) by two independent judges.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: two-analogs-induce-schema-predicting-transfer
+    bearing: supports
+    anchor: gick-1983
+  - claim: spontaneous-analogy-noticing-gap
+    bearing: supports
+    anchor: gick-1983
+
+evidence_base:
+  unit: participants
+  size:
+    value: 98
+    unit: participants
+  population:
+    description: >-
+      98 subjects; the article does not describe who they were for this
+      experiment (Experiment 1 used high school classes; the General Discussion
+      speaks of "college students"). The authors assume a 10% base rate of the
+      convergence solution without any analog, from Gick & Holyoak's (1980)
+      control groups drawn from "essentially the same subject population".
+    age_or_stage: "Not described for this experiment"
+    age: unreported
+  context:
+    setting: "Written story task followed by the radiation problem; where and how subjects were tested is not stated for this experiment"
+  arms:
+    - id: two-similar-analogs
+      description: "Two story analogs from the same domain (two military or two fire-fighting stories), summarised and compared in writing before the radiation problem."
+      size:
+        value: 28
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+    - id: two-dissimilar-analogs
+      description: "Two story analogs from different domains (one military, one fire-fighting), summarised and compared in writing before the radiation problem."
+      size:
+        value: 23
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+    - id: one-analog-plus-control
+      description: "One story analog plus a disanalogous control story (\"The Identical Twins\"), summarised and compared in writing the same way; four roughly equal subgroups each read a different analog."
+      size:
+        value: 47
+        unit: participants
+
+comparisons:
+  - id: two-analogs-vs-one
+    kind: between-groups
+    index_arm:
+      - two-similar-analogs
+      - two-dissimilar-analogs
+    reference_arm: one-analog-plus-control
+    description: "The two two-analog conditions combined against one analog plus a control story, as the article combines them."
+  - id: dissimilar-vs-similar
+    kind: between-groups
+    index_arm: two-dissimilar-analogs
+    reference_arm: two-similar-analogs
+    description: "Two dissimilar analogs against two similar analogs."
+  - id: two-analog-schema-quality
+    kind: none
+    description: "Within the two two-analog conditions combined: transfer by the rated quality of the schema in each subject's similarity description (an association, not a manipulated contrast)."
+
+observations:
+
+  - id: before-hint-two-vs-one
+    sample:
+      value: 98
+      unit: participants
+    comparison_ref: two-analogs-vs-one
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "generated the convergence solu- tion prior to the hint"
+      measure: "Whether the subject proposed the convergence solution to the radiation problem on the first pass, before any hint to use the stories"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 6.35 (maximum likelihood chi square)"
+      p_value: "< .01"
+      descriptives:
+        two-analogs: "45% before the hint"
+        one-analog-plus-control: "21% before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Forty-five percent of subjects in the two-analog conditions generated the convergence solu- tion prior to the hint, as opposed to only 21% of subjects in the one-analog condition, G2(1) = 6.35, p < .01."
+    source_location: "Experiment 4, Results and Discussion, p. 22; Table 5"
+
+  - id: total-two-vs-one
+    sample:
+      value: 98
+      unit: participants
+    comparison_ref: two-analogs-vs-one
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "total solution frequencies"
+      measure: "Whether the subject proposed the convergence solution on either pass, before or after the hint to use the stories"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: other
+      statistic: "G2(1) = 8.36"
+      p_value: "< .003"
+      descriptives:
+        two-analogs: "80% in total"
+        one-analog-plus-control: "53% in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "A comparable advantage for the two- analog conditions was obtained when total solution frequencies were compared (80 vs 53%), G2 (1) = 8.36, p < .003."
+    source_location: "Experiment 4, Results and Discussion, p. 22; Table 5"
+
+  - id: before-hint-share-two-analogs
+    sample:
+      value: 51
+      unit: participants
+    arm_ref:
+      - two-similar-analogs
+      - two-dissimilar-analogs
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "solution frequencies of 45% without a hint"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 45
+      unit: "percent of subjects producing the convergence solution before the hint"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A share within the two pooled conditions, not an effect. Table 5 gives the cells it pools: 39% (11 of 28) similar, 52% (12 of 23) dissimilar."
+    source_quote: "First, the two-analog conditions yielded solution frequencies of 45% without a hint and 80% in total."
+    source_location: "Experiment 4, Results and Discussion, p. 25"
+
+  - id: total-share-two-analogs
+    sample:
+      value: 51
+      unit: participants
+    arm_ref:
+      - two-similar-analogs
+      - two-dissimilar-analogs
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "80% in total"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 80
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 5 gives the cells it pools: 79% (22 of 28) similar, 83% (19 of 23) dissimilar."
+    source_quote: "First, the two-analog conditions yielded solution frequencies of 45% without a hint and 80% in total."
+    source_location: "Experiment 4, Results and Discussion, p. 25"
+
+  - id: before-hint-share-one-analog
+    sample:
+      value: 47
+      unit: participants
+    arm_ref: one-analog-plus-control
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "21% solutions without a hint"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: probability
+      estimate: 21
+      unit: "percent of subjects producing the convergence solution before the hint"
+      interpretation: "Lower than the roughly 30% the authors' earlier one-analog experiments gave; they suggest comparing a disanalogous story with the analog induced a poor schema that interfered with retrieving the analog."
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Comparing the analog with a disanalogous story"
+          relationship: "The authors' proposed explanation for the low one-analog rates; not tested"
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 5 cell: 21 (10) of N 47."
+    source_quote: "A second and related puzzle is why the present one-analog condition did so poorly: 21% solutions without a hint, 53% in total, as opposed to the usual figures of roughly-30 and 75%."
+    source_location: "Experiment 4, Results and Discussion, p. 25"
+
+  - id: total-share-one-analog
+    sample:
+      value: 47
+      unit: participants
+    arm_ref: one-analog-plus-control
+    outcome:
+      construct: "Analogical transfer after a hint"
+      source_language: "53% in total"
+      measure: "Convergence solution proposed before or after the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, after the hint"
+    result:
+      measure_type: probability
+      estimate: 53
+      unit: "percent of subjects producing the convergence solution in total"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Table 5 cell: 53 (25) of N 47."
+    source_quote: "A second and related puzzle is why the present one-analog condition did so poorly: 21% solutions without a hint, 53% in total, as opposed to the usual figures of roughly-30 and 75%."
+    source_location: "Experiment 4, Results and Discussion, p. 25"
+
+  - id: before-hint-dissimilar-vs-similar
+    sample:
+      value: 51
+      unit: participants
+    comparison_ref: dissimilar-vs-similar
+    outcome:
+      construct: "Spontaneous analogical transfer"
+      source_language: "unprompted solutions"
+      measure: "Convergence solution proposed before the hint"
+      scale: "percent of subjects"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, first pass at the transfer problem"
+    result:
+      measure_type: other
+      statistic: "G2(1) < 1"
+      descriptives:
+        two-dissimilar-analogs: "52% before the hint"
+        two-similar-analogs: "39% before the hint"
+      interpretation: "A small trend that did not approach significance; the two conditions also did not differ in total solution frequencies."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "While there was a small trend toward a greater frequency of unprompted solutions when the two prior analogs were dis- similar rather than similar (52 vs 39%), this difference did not approach significance, G2(1) < 1."
+    source_location: "Experiment 4, Results and Discussion, p. 22"
+
+  - id: schema-quality-and-transfer
+    sample:
+      value: 51
+      unit: participants
+    comparison_ref: two-analog-schema-quality
+    outcome:
+      construct: "Analogical transfer, by induced schema quality"
+      source_language: "the better the schema, the more successful was transfer performance"
+      measure: "Timing of the convergence solution (before the hint, after it, not produced) among subjects whose similarity descriptions were scored good, intermediate or poor"
+      scale: "percent of subjects in each schema-quality category"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session"
+    result:
+      measure_type: other
+      statistic: "G2(4) = 15.8"
+      p_value: "< .005"
+      descriptives:
+        good-schema: "91% before the hint, none failing to produce it eventually (N 11)"
+        intermediate-schema: "40% before the hint, 90% in total (N 10)"
+        poor-schema: "30% unprompted, 70% in total (N 30)"
+      interpretation: "21% of the two-analog subjects wrote good schemas, 20% intermediate, 59% poor. The authors caution that the association may not be causal."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "Category Ns from Table 6, whose rows read cleanly from the text layer (frequencies agree with percentages)."
+    source_quote: "The cell frequencies presented in Table 6 differ reliably, G2(4)= 15.8, p < .005, and the pattern of difference is quite simple: the better the schema, the more successful was transfer performance."
+    source_location: "Experiment 4, Results and Discussion, pp. 23-25; Table 6"
+
+not_yet_extracted:
+  - "Gick & Holyoak (1980), restated on p. 4: about 30% of subjects produced the convergence solution without a hint and about 75% with one; a 10% base rate without any analog. Another study's results, quoted here; not this experiment's"
+  - "Schema-quality scoring: two independent judges, disagreements 'infrequent' and resolved by discussion; no agreement coefficient printed"
+  - "After-hint percentages per condition (Table 5): 39, 31 and 32"

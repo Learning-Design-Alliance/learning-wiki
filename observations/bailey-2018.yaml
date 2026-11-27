@@ -1,0 +1,528 @@
+# Bailey, Duncan, Watts, Clements & Sarama (2018): correlation and causation in
+# longitudinal studies of skill development, tested on the TRIAD cluster-
+# randomised trial of the Building Blocks preschool mathematics curriculum.
+#
+# An argument paper that reanalyses data and prints its own estimates, so it
+# gets a record. The evidence base is the TRIAD trial as this paper reanalyses
+# it: 42 schools randomly assigned, followed from pre-K to Grade 5.
+#
+# Two observations are NOT about the TRIAD sample alone, and say so: the
+# weighted study averages of one-year "MS" (math skill) paths in Table 1 are
+# this paper's own averages over three datasets (state-trait estimates from the
+# Missouri Math Study, SECCYD and TRIAD) and over three experiments (TRIAD in
+# this paper, TRIAD in Hofer et al. 2013, Smith et al. 2013). The individual
+# rows of other studies are those studies' figures and are not recorded here.
+#
+# Read from the PMC author manuscript (text layer). Figures 1, 2 and 5 are
+# images: the regression-adjusted correlations and the impact confidence
+# intervals plotted there are not in the text, and only the values the prose
+# prints are recorded. The appendix and supplementary materials (sample and
+# measure details) are not in the text read.
+#
+# Ambiguity: footnote 2 says the end-of-kindergarten impact "is shown as .29 SD
+# (= .18/.63)", while the prose and Table 1 give the rescaled value as .46. The
+# footnote's arithmetic does not match either reading cleanly, so no figure is
+# taken from the footnote.
+
+schema_version: 2
+
+study:
+  key: bailey-2018
+  citation: "Bailey, D. H., Duncan, G. J., Watts, T., Clements, D. H., & Sarama, J. (2018). Risky business: Correlation and causation in longitudinal studies of skill development. American Psychologist, 73(1), 81–94."
+  doi: "10.1037/amp0000146"
+  design:
+    family: cluster-randomized-controlled-trial
+    design_detail: >-
+      Reanalysis of the TRIAD evaluation: 42 schools with state-funded preschool
+      programmes in Massachusetts and New York randomly assigned to the Building
+      Blocks curriculum in preschool or to preschool mathematics as usual, with
+      mathematics measured in fall and spring of pre-K, spring of K, Grade 1,
+      fall and spring of Grade 4, and Grade 5. The paper sets experimental
+      impacts against regression-adjusted correlations computed in the control
+      group, and against one-year paths from latent state-trait models. Standard
+      errors adjusted for school-level clustering.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: triad-large-initial-impacts-four-subdomains
+    bearing: supports
+    anchor: bailey-2018
+  - claim: correlational-estimates-overstate-skill-building-effects
+    bearing: supports
+    anchor: bailey-2018
+  - claim: state-trait-model-reproduces-experimental-decay
+    bearing: supports
+    anchor: bailey-2018
+
+evidence_base:
+  unit: participants
+  size:
+    value: 834
+    unit: participants
+  allocation:
+    value: 42
+    unit: schools
+  population:
+    description: >-
+      Children in state-funded preschool programmes in Massachusetts and New
+      York, followed through Grade 5. Demographic detail is in the appendix,
+      which is not in the text read.
+    age_or_stage: "Pre-kindergarten at baseline, followed to Grade 5"
+    age: unreported
+  context:
+    setting: "State-funded preschool classes, then the elementary schools most of the children attended"
+  arms:
+    - id: building-blocks
+      description: >-
+        TRIAD treatment: the Building Blocks preschool mathematics curriculum,
+        implemented in preschool classes over the preschool year, within the
+        TRIAD scale-up model (technology, instruction, assessment and
+        professional development).
+      elements:
+        - term: "Building Blocks preschool mathematics curriculum"
+    - id: control
+      description: "Preschool mathematics taught as usual."
+
+comparisons:
+  - id: building-blocks-vs-control
+    kind: between-groups
+    index_arm: building-blocks
+    reference_arm: control
+    description: "Treatment schools against control schools, by random assignment of schools."
+  - id: ms-path-averages
+    kind: none
+    description: >-
+      The paper's own averages of one-year math-skill (MS) paths across the
+      datasets and experiments listed in Table 1; no contrast between arms.
+
+observations:
+
+  - id: impact-end-of-prek
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Early mathematics achievement"
+      source_language: "Treatment and control differences at the end of the pre-K year"
+      measure: "REMA (Research-based Early Maths Assessment)"
+      scale: "SD units"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring of the pre-K year, end of treatment"
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.63
+      interpretation: "Described by the authors as a large impact"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The interval for this impact is plotted in Figure 2 (an image) and not
+      printed in the text.
+    source_quote: "Treatment and control differences at the end of the pre-K year amounted to .63 SD – a large impact."
+    source_location: "Experimental evidence"
+
+  - id: impact-counting-subdomain
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Counting"
+      source_language: "counting"
+      measure: "Proportion correct on the REMA items grouped as counting, standardised; the subscales' psychometric properties have not been established"
+      scale: "standardised subdomain score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the pre-K year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.45
+      standard_error: 0.06
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The intervention generated statistically significant impacts on all four subdomains: counting (β= 0.45, SE=0.06), patterning (β= 0.36, SE=0.06), geometry (β= 0.67, SE=0.06), and measurement (β= 0.20, SE=0.06), all of which have been shown to predict later mathematics knowledge (Nguyen et al., 2016)."
+    source_location: "Experimental evidence"
+
+  - id: impact-patterning-subdomain
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Patterning"
+      source_language: "patterning"
+      measure: "Proportion correct on the REMA items grouped as patterning, standardised; the subscales' psychometric properties have not been established"
+      scale: "standardised subdomain score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the pre-K year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.36
+      standard_error: 0.06
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The intervention generated statistically significant impacts on all four subdomains: counting (β= 0.45, SE=0.06), patterning (β= 0.36, SE=0.06), geometry (β= 0.67, SE=0.06), and measurement (β= 0.20, SE=0.06), all of which have been shown to predict later mathematics knowledge (Nguyen et al., 2016)."
+    source_location: "Experimental evidence"
+
+  - id: impact-geometry-subdomain
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Geometry"
+      source_language: "geometry"
+      measure: "Proportion correct on the REMA items grouped as geometry, standardised; the subscales' psychometric properties have not been established"
+      scale: "standardised subdomain score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the pre-K year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.67
+      standard_error: 0.06
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The intervention generated statistically significant impacts on all four subdomains: counting (β= 0.45, SE=0.06), patterning (β= 0.36, SE=0.06), geometry (β= 0.67, SE=0.06), and measurement (β= 0.20, SE=0.06), all of which have been shown to predict later mathematics knowledge (Nguyen et al., 2016)."
+    source_location: "Experimental evidence"
+
+  - id: impact-measurement-subdomain
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Measurement"
+      source_language: "measurement"
+      measure: "Proportion correct on the REMA items grouped as measurement, standardised; the subscales' psychometric properties have not been established"
+      scale: "standardised subdomain score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "end of the pre-K year"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.20
+      standard_error: 0.06
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: "The intervention generated statistically significant impacts on all four subdomains: counting (β= 0.45, SE=0.06), patterning (β= 0.36, SE=0.06), geometry (β= 0.67, SE=0.06), and measurement (β= 0.20, SE=0.06), all of which have been shown to predict later mathematics knowledge (Nguyen et al., 2016)."
+    source_location: "Experimental evidence"
+
+  - id: rescaled-impact-end-of-k
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Mathematics achievement, persistence of the pre-K impact"
+      source_language: "Rescaled impact estimates"
+      measure: "Treatment impact on mathematics achievement, multiplied by 1/.63 so that the end-of-pre-K impact is 1.0"
+      scale: "impact relative to the end-of-pre-K impact (pre-K = 1.0)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring of kindergarten, one year after the end of treatment"
+      offset:
+        value: 1
+        unit: years
+        from: "end of the pre-K treatment year"
+    result:
+      measure_type: other
+      estimate: 0.46
+      interpretation: >-
+        The authors say "about .46"; Table 1 lists the same figure as the
+        experimental one-year MS path for PreK-K. The correlation-based estimate
+        was very close to the observed impact at this wave.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A rescaling the authors made of their own impact estimates, recorded as
+      printed; the non-rescaled impact for this wave is plotted in Figure 2
+      and not printed reliably in the text (see the header on footnote 2).
+    source_quote: "Rescaled impact estimates fall to about .46 SD within a year, and drop to statistically non-significant .08 SD and −.02 SD values for the two fourth-grade tests."
+    source_location: "Experimental evidence; Table 1"
+
+  - id: rescaled-impact-grade4-first-test
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Mathematics achievement, persistence of the pre-K impact"
+      source_language: "Rescaled impact estimates"
+      measure: "Treatment impact on the first of the two fourth-grade mathematics tests, multiplied by 1/.63"
+      scale: "impact relative to the end-of-pre-K impact (pre-K = 1.0)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fourth grade (fall and spring tests; the text does not say which value is which)"
+    result:
+      measure_type: other
+      estimate: 0.08
+      p_value: "> .05"
+      interpretation: "Statistically non-significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The text gives .08 and −.02 for "the two fourth-grade tests" without
+      saying which is fall and which spring; this observation is the value
+      printed first, not a claim about which test it is.
+    source_quote: "Rescaled impact estimates fall to about .46 SD within a year, and drop to statistically non-significant .08 SD and −.02 SD values for the two fourth-grade tests."
+    source_location: "Experimental evidence; Figure 2 note"
+
+  - id: rescaled-impact-grade4-second-test
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Mathematics achievement, persistence of the pre-K impact"
+      source_language: "Rescaled impact estimates"
+      measure: "Treatment impact on the second of the two fourth-grade mathematics tests, multiplied by 1/.63"
+      scale: "impact relative to the end-of-pre-K impact (pre-K = 1.0)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fourth grade (fall and spring tests; the text does not say which value is which)"
+    result:
+      measure_type: other
+      estimate: -0.02
+      p_value: "> .05"
+      interpretation: "Statistically non-significant"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Rescaled impact estimates fall to about .46 SD within a year, and drop to statistically non-significant .08 SD and −.02 SD values for the two fourth-grade tests."
+    source_location: "Experimental evidence; Figure 2 note"
+
+  - id: impact-grade5
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "Mathematics achievement, persistence of the pre-K impact"
+      source_language: "The partial recovery of impacts in fifth-grade"
+      measure: "Treatment impact on fifth-grade mathematics achievement"
+      scale: "SD units, read in the paragraph on rescaled impacts"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "spring of fifth grade"
+    result:
+      measure_type: other
+      estimate: 0.14
+      p_value: "> .05"
+      interpretation: "Statistically indistinguishable from zero in this analysis"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The sentence follows the rescaled estimates and does not say whether .14
+      is rescaled; it is recorded as printed. Footnote 3 notes that another
+      analysis (Clements et al., under review) found a significant fifth-grade
+      impact with a different model.
+    source_quote: "The partial recovery of impacts in fifth-grade (.14 SD) is intriguing, but statistically indistinguishable from zero in this analysis."
+    source_location: "Experimental evidence"
+
+  - id: regression-adjusted-correlation-grade5
+    arm_ref: control
+    outcome:
+      construct: "Prediction of later mathematics achievement from end-of-pre-K mathematics"
+      source_language: "TRIAD regression-adjusted correlations"
+      measure: "Control-group correlation between spring pre-K mathematics and later mathematics, adjusted for baseline achievement and demographics"
+      scale: "SD units of predicted impact per 1 SD at the end of pre-K"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "fifth grade"
+    result:
+      measure_type: correlation
+      bound:
+        operator: ">"
+        value: 0.40
+      interpretation: >-
+        Regression adjustment lowered the estimates by around .20 SD-units, but
+        they still exceeded .40 in fifth grade, against non-significant
+        experimental impacts from fourth grade on.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The source prints only a limit for fifth grade; the per-wave values and
+      intervals are plotted in Figure 2, an image.
+    source_quote: "Regression adjustments drop the estimated effect by around .20 SD-units, although these estimates still exceed .40 SD in fifth grade."
+    source_location: "Experimental evidence"
+
+  - id: ms-path-state-trait-weighted-average
+    sample:
+      value: 3
+      unit: studies
+    comparison_ref: ms-path-averages
+    outcome:
+      construct: "One-year persistence of a mathematics skill difference"
+      source_language: "Implied 1-year MS estimate"
+      measure: "One-year math-skill (MS) paths from latent state-trait models of correlational data (Missouri Math Study, SECCYD, TRIAD), corrected for test reliability"
+      scale: "one-year autoregressive path"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "per year, pre-K to Grade 5"
+    result:
+      measure_type: other
+      estimate: 0.35
+      model: >-
+        Weighted study average of the state-trait estimates in Table 1. The
+        simple average is 0.29 and the unweighted study average 0.31; the
+        authors read the range .29 to .35 as a prediction that a treatment
+        effect decays to about one-third of its previous magnitude each year.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      An average the paper computes over other studies' estimates and one
+      TRIAD estimate from Watts et al. (2016); not a figure from this
+      evidence base alone.
+    source_quote: "The average 1-year lagged MS paths from the three datasets are all modest, ranging from .29 to .35, depending on whether effect estimates are weighted by their underlying sample sizes. Put another way, the model depicted in Figure 4 predicts that the treatment effect should decay to approximately one-third of its previous magnitude each year."
+    source_location: "Comparing the persistent factor model with experimental estimates; Table 1"
+
+  - id: ms-path-experimental-weighted-average
+    sample:
+      value: 3
+      unit: studies
+    comparison_ref: ms-path-averages
+    outcome:
+      construct: "One-year persistence of a mathematics skill difference"
+      source_language: "Implied 1-year MS estimate"
+      measure: "One-year MS paths inferred from experimental impacts (a treatment effect divided by the prior one, put on a one-year basis) in TRIAD (this paper), TRIAD (Hofer et al., 2013) and Smith et al. (2013)"
+      scale: "one-year ratio of impacts"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "per year after the end of treatment"
+    result:
+      measure_type: other
+      estimate: 0.44
+      model: "Weighted study average of the experimental estimates in Table 1; simple average 0.43, unweighted study average 0.39."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "The average 1-year lagged MS path from the three studies ranged from .39 to .44, depending on how effects were weighted across studies."
+    source_location: "Comparing the persistent factor model with experimental estimates; Table 1"
+
+  - id: ms-path-triad-experimental-k-to-grade1
+    comparison_ref: building-blocks-vs-control
+    outcome:
+      construct: "One-year persistence of the TRIAD impact"
+      source_language: "Implied 1-year MS estimate"
+      measure: "End-of-Grade-1 impact divided by end-of-kindergarten impact"
+      scale: "one-year ratio of impacts"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "kindergarten to Grade 1"
+    result:
+      measure_type: other
+      estimate: 0.48
+      model: >-
+        Table 1 also lists 0.46 for PreK-K and 0.48 for Grade 1 to Grade 4
+        (the average of two fourth-grade scores, over an average interval of
+        2.75 years, put on a one-year basis); Grade 4 to Grade 5 is N/A because
+        the fifth-grade estimate exceeds the fourth-grade one and neither is
+        distinguishable from zero.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "Current paper: TRIAD 834 K-Grade 1 0.48"
+    source_location: "Table 1, experimental estimates"
+
+not_yet_extracted:
+  - "Figure 1 (ECLS-K 1998–99 within- and cross-domain correlations with fall-of-kindergarten measures, including the math-to-reading falsification test) and Figure 2's per-wave regression-adjusted correlations and confidence intervals are images; no values are printed in the text beyond those recorded."
+  - "ECLS-K inter-wave mathematics correlations of .77, .80 and .89 (SE .01 each), spring K to spring G1, G1 to G3 and G3 to G5: a different sample (the ECLS-K cohort), which would be its own record."
+  - "Footnote 2's '.29 SD (= .18/.63)' for the end-of-kindergarten impact does not agree with the prose's rescaled .46; not recorded."
+  - "Individual rows of Table 1 from other studies (Bailey et al., 2014b; Watts et al., 2016; Hofer et al., 2013; Smith et al., 2013) are those studies' figures."
+  - "Arm sizes, ages and demographics are in the appendix and supplementary materials, not in the text read."

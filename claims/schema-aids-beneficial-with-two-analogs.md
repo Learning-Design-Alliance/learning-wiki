@@ -5,14 +5,14 @@ description: Verbal statements and diagrams that failed with one analog proved h
 id: schema-aids-beneficial-with-two-analogs
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-26
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: weak
 newest_evidence: 1983
 sources:
   - id: gick-1983
     resource: "https://doi.org/10.1016/0010-0285(83)90002-6"
-    title: "Gick, M. L., & Holyoak, K. J. (1983). Schema Induction and Analogical Transfer. Cognitive Psychology, 15, 1-38. https://doi.org/10.1016/0010-0285(83)90002-6)90002-4"
+    title: "Gick, M. L., & Holyoak, K. J. (1983). Schema Induction and Analogical Transfer. Cognitive Psychology, 15, 1-38. https://doi.org/10.1016/0010-0285(83)90002-6"
     author: "Gick, M. L., & Holyoak, K. J."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Gick 1983
 
-Gick, M. L., & Holyoak, K. J. (1983). Schema Induction and Analogical Transfer. Cognitive Psychology, 15, 1-38. https://doi.org/10.1016/0010-0285(83)90002-6)90002-4
+Gick, M. L., & Holyoak, K. J. (1983). Schema Induction and Analogical Transfer. Cognitive Psychology, 15, 1-38. https://doi.org/10.1016/0010-0285(83)90002-6
 
 `q2 · i?` · `causal · r?`
 

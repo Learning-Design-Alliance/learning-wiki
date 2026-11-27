@@ -1,0 +1,387 @@
+# diSessa, Gillespie & Esterly (2004): coherence versus fragmentation in
+# children's and adolescents' concept of force. Clinical interviews of 30
+# subjects, a quasi-replication of Ioannides & Vosniadou (2002) and an
+# extension study.
+#
+# Read from a text layer of the published article (Cognitive Science 28,
+# 843-900). No PDF was available beside it.
+#
+# DOI. The article's own front matter prints doi:10.1016/j.cogsci.2004.05.003,
+# which Crossref does not know (404, checked 2026-11-27). The DOI recorded
+# here, 10.1207/s15516709cog2806_1, is the one Crossref resolves to this
+# article (title, all three authors, 2004, 28, 843-900).
+#
+# What the record holds:
+#
+#   * `measure_type: reliability`, three times, because the article prints
+#     three intercoder agreement figures for three code families. They cover
+#     six subjects and the first 10 question sets (the quasi-replication codes)
+#     only; no agreement is printed for the extension codes behind Tables 2-4.
+#   * `population.age: unreported`. The article prints a mean age for each of
+#     the four age groups (in years and months) and no figure for the sample as
+#     a whole: no range, mean or median. The group means are kept in
+#     `age_or_stage` as printed; none is converted or pooled here.
+#   * Counts of subjects per answer pattern, as the article reports them. The
+#     only inferential test is the quasi-replication's comparison with I&V's
+#     classification rate; the extension results carry no test statistic.
+
+schema_version: 2
+
+study:
+  key: disessa-2004
+  citation: "diSessa, A. A., Gillespie, N. M., & Esterly, J. B. (2004). Coherence versus fragmentation in the development of the concept of force. Cognitive Science, 28(6), 843–900."
+  doi: "10.1207/s15516709cog2806_1"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional clinical interview study. 24 question sets: the first 10
+      patterned on Ioannides & Vosniadou's (I&V) force questions (the
+      quasi-replication), the rest asking about new contexts with real-world
+      props (the extension study). Responses coded for existence, nature and
+      comparative strength of forces; quasi-replication codes mapped to I&V's
+      meanings by a meaning deviation score (sets out of 10 not matching a
+      meaning). Results reported as counts of subjects per pattern; no
+      manipulation and no assignment to conditions.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: subjects-attend-more-features-systematic-answer-changes
+    bearing: supports
+    anchor: disessa-et-al-2004
+  - claim: context-differences-undermine-homogeneity-within-meaning-category
+    bearing: supports
+    anchor: disessa-et-al-2004
+
+evidence_base:
+  unit: participants
+  size:
+    value: 30
+    unit: participants
+  population:
+    description: >-
+      Nine preschool, nine elementary school, six middle school and six high
+      school subjects. None of the high school students had taken a physics
+      class; none of the younger students remembered learning about force in
+      school. Much of the analysis sets the preschool subjects aside (the
+      21-subject "EMH" set), because the authors were less confident their
+      responses could be coded meaningfully.
+    age_or_stage: >-
+      Preschool to high school. Group means as printed: preschool 5 years 1
+      month, elementary 7 years 8 months, middle school 12 years 6 months,
+      high school 15 years 11 months. No whole-sample age figure is printed.
+    age: unreported
+  context:
+    setting: "Individual clinical interviews of about 20 minutes to more than an hour; preschool subjects interviewed in two sessions; followed by a debriefing for most subjects"
+  arms: []
+
+comparisons:
+  - id: coding-agreement
+    kind: none
+    description: "Agreement between two independent coders on a representative subset of six subjects (two each elementary, middle and high school), first 10 question sets."
+  - id: quasi-replication
+    kind: none
+    description: "Classification of subjects' quasi-replication answers against I&V's force meanings; no contrast between groups of this study."
+  - id: extension-contexts
+    kind: none
+    description: "Within-subject answer patterns across paired contexts in the extension study (string vs tube, which block leans on which); counts of subjects per pattern, no contrast between groups."
+
+observations:
+
+  - id: intercoder-existence-comparison
+    sample:
+      value: 6
+      unit: participants
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Intercoder agreement"
+      source_language: "intercoder agreement on codes relating to existence and comparison"
+      measure: "Two coders' codes for whether a force exists and for comparative strength, quasi-replication question sets 1-10"
+      scale: "percent of codes agreed (158 of 159)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 99.4
+      reliability:
+        statistic: percent_agreement
+        over: raters
+      note: "158 of 159 codes"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Six of the 30 subjects, no preschool subject among them, and only the
+      quasi-replication codes. No kappa or other chance-corrected coefficient
+      is printed.
+    source_quote: "We had 99.4% intercoder agreement on codes relating to existence and comparison (158 out of 159)."
+    source_location: "Section 4.3, Coding, p. 868"
+
+  - id: intercoder-mapping-codes
+    sample:
+      value: 6
+      unit: participants
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Intercoder agreement"
+      source_language: "agreement on any codes that were used in our mapping to I&V models"
+      measure: "Two coders' codes used in mapping subjects to I&V's meanings, question sets 1-10"
+      scale: "percent of codes agreed (265 of 270)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 98
+      reliability:
+        statistic: percent_agreement
+        over: raters
+      note: "265 of 270 codes"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "We had 98% agreement (265 out of 270) agreement on any codes that were used in our mapping to I&V models."
+    source_location: "Section 4.3, Coding, p. 868"
+
+  - id: intercoder-all-codes
+    sample:
+      value: 6
+      unit: participants
+    comparison_ref: coding-agreement
+    outcome:
+      construct: "Intercoder agreement"
+      source_language: "agreement on all codes"
+      measure: "Two coders' codes of every kind, question sets 1-10"
+      scale: "percent of codes agreed (286 of 293)"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding"
+    result:
+      measure_type: reliability
+      estimate: 94
+      reliability:
+        statistic: percent_agreement
+        over: raters
+      note: "286 of 293 codes. Disagreements were mainly a coder's acknowledged mistake or a case the existing codes did not capture."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "We had 94% agreement on all codes (286 out of 293)."
+    source_location: "Section 4.3, Coding, p. 868"
+
+  - id: quasi-replication-full-match
+    sample:
+      value: 30
+      unit: participants
+    comparison_ref: quasi-replication
+    outcome:
+      construct: "Consistent use of one force meaning"
+      source_language: "fully matched the specification of any meaning"
+      measure: "Subjects whose coded answers to all 10 quasi-replication sets matched the allowed responses of one of I&V's meanings (meaning deviation score 0)"
+      scale: "number of subjects"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single interview"
+    result:
+      measure_type: count
+      estimate: 5
+      unit: "subjects of 30"
+      interpretation: "All five matched the Gravity and Other meaning, which the authors judged too ambiguous to be diagnostic; I&V had classified about 90% of their subjects."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Only 5 of the 30 subjects fully matched the specification of any meaning (compared to about 90% as found by I&V), and all of these were on the Gravity and Other meaning."
+    source_location: "Section 5.1, Main results, p. 869"
+
+  - id: quasi-replication-emh-within-allowance
+    sample:
+      value: 21
+      unit: participants
+    comparison_ref: quasi-replication
+    outcome:
+      construct: "Consistent use of one force meaning"
+      source_language: "match any meaning"
+      measure: "Elementary, middle and high school subjects whose answers matched one of I&V's meanings with a meaning deviation score of 2 or less (the authors' 20% allowance for mistakes)"
+      scale: "number of subjects"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single interview"
+    result:
+      measure_type: count
+      estimate: 10
+      unit: "subjects of 21"
+      statistic: "two-tailed z-test of the difference of two population proportions (this sample's share matching within the allowance against I&V's)"
+      p_value: "< 1 × 10-5 (preschool subjects removed); < 1 × 10-7 with all 30 subjects"
+      interpretation: "9 of the 10 matched Gravity and Other. The authors call the test 'very crude statistics' and say a more refined data model would reduce these estimates."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The test compares this study's share with I&V's published share; no z
+      value is printed. The number of all 30 subjects within the allowance is
+      shown only in Fig. 3 and is not recorded here.
+    source_quote: "Even with the generous allowance for mistakes, only 10 of 21 remaining subjects match any meaning, and 9 of these 10 match the vague category, Gravity and Other."
+    source_location: "Section 5.1, Main results, p. 870"
+
+  - id: string-vs-tube-different
+    sample:
+      value: 18
+      unit: participants
+    comparison_ref: extension-contexts
+    outcome:
+      construct: "Context dependence of force attribution"
+      source_language: "said forces were different in isomorphic tube and string situations"
+      measure: "Responding EMH subjects' comparison of the force on a ball moving in a circle on a string with the force on a ball moving in a circular tube (question set pair; not every subject was asked)"
+      scale: "number of subjects whose answers differed across the two situations"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single interview"
+    result:
+      measure_type: count
+      estimate: 12
+      unit: "subjects of 18 responding"
+      descriptives:
+        same: "6 of 18 (Table 2, collapsed: elementary 2, middle 2, high 2)"
+        different: "12 of 18 (Table 2, collapsed: elementary 5, middle 3, high 4)"
+        gravity-and-other-subjects: "of 8 responding: 3 equal, 3 bigger on the string, 2 different (incomparable)"
+      interpretation: "Where a difference was specified, the string was implicated in the stronger force; the Gravity and Other subjects spread nearly equally over three patterns. No test statistic."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Table 2 cells read from the text layer as rows; each row's age-group
+      cells sum to its "All" cell, and the collapsed rows sum to the total of
+      18. No coding reliability is printed for the extension questions.
+    source_quote: "Table 2 67% of subjects said forces were different in isomorphic tube and string situations"
+    source_location: "Section 6.1.1, Table 2, pp. 873-874"
+
+  - id: blocks-leaning-change-emh
+    sample:
+      value: 19
+      unit: participants
+    comparison_ref: extension-contexts
+    outcome:
+      construct: "Context dependence of force attribution"
+      source_language: "changed attribution based on leaning status"
+      measure: "Responding EMH subjects' force attributions for a big block leaning on a small one against a small block leaning on a big one (question sets 16-19)"
+      scale: "number of subjects whose attribution changed with leaning status"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single interview"
+    result:
+      measure_type: count
+      estimate: 13
+      unit: "subjects of 19 responding"
+      descriptives:
+        canonical-pattern: "7 of 19 (37%): the leaning block exerts the force, or the greater force"
+        reverse-canonical: "2 of 19 (10.5%)"
+      interpretation: "Printed as 68.5%. The authors note some EMH subjects did respond to the stability distinction, so the switches are not all attributable to leaning. No test statistic."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "In the larger EMH dataset, 13 out of 19 responding subjects (68.5%) changed attribu- tion based on leaning status."
+    source_location: "Section 6.1.2, Blocks, Results, p. 875"
+
+  - id: blocks-leaning-change-gravity-and-other
+    sample:
+      value: 8
+      unit: participants
+    comparison_ref: extension-contexts
+    outcome:
+      construct: "Context dependence of force attribution"
+      source_language: "changed attribution of force based on leaning status"
+      measure: "The responding subjects classified in the quasi-replication as Gravity and Other: force attributions for big-on-small against small-on-big leaning blocks"
+      scale: "number of subjects whose attribution changed with leaning status"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "single interview"
+    result:
+      measure_type: count
+      estimate: 7
+      unit: "subjects of 8 responding"
+      interpretation: "Printed as 87.5%. 50% gave the canonical pattern and 25% the reverse canonical; uncollapsing the smaller/no-force distinction, the eight subjects show seven distinct patterns. I&V's meanings predict no effect of leaning status for this group."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Seven of eight (87.5%) Gravity and Other subjects changed attribution of force based on leaning status."
+    source_location: "Section 6.1.2, Blocks, Results, p. 875"
+
+not_yet_extracted:
+  - "Section 5.2, language: 2 of 21 EMH subjects (9.5%) switched between force and push/pull versions of the rock-on-ground question; 4 of 21 (19%) answered identical questions inconsistently; preschool 4 of 9 and 3 of 9; unstable-rock question 3 of 21 EMH and 5 of 9 preschool; 13 of 18 EMH said forces and push/pulls were identical or that push/pulls were a kind of force"
+  - "Section 5.4: 11 subject-to-subject matches among 30 subjects, against at least 55 (or 39) expected under I&V's seven meanings; a Monte Carlo of random responding gives about .02 matches per experiment"
+  - "Table 3 (blocks, by age group and Gravity and Other) and Table 4 (complete coding of the eight Gravity and Other subjects): the text layer flattens these tables and they were not checked cell by cell"
+  - "Tables 5 and 6 (compositional and causal aspects: forces on a block, the yo-yo problem) and Section 6.2 (ontological aspect)"
+  - "Fig. 3 and Fig. 4: per-subject meaning deviation scores, shown only graphically"
+  - "Table 1: I&V's own data (105 subjects), another study's sample"

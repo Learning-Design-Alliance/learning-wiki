@@ -1,0 +1,293 @@
+# Cen, Koedinger & Junker (2006): Learning Factors Analysis on Geometry
+# Cognitive Tutor log data.
+#
+# The source is a model-fitting paper, not an experiment with conditions. Its
+# own printed figures are the fitted coefficients of its Eq. 2 (a logistic
+# regression with a student intercept, a skill intercept and a skill slope on
+# practice opportunities, students assumed to learn at one rate) and the fit
+# statistics of the original and the improved cognitive models. Those are the
+# paper's own fitted estimates and are recorded as such; nothing is converted.
+# The coefficients are on the logit scale; the paper prints no standard errors.
+#
+# Read from an unpaginated author copy (text layer). Table 4's figures were
+# checked against the page image (PDF page 7); every quote below is from the
+# text layer, which agrees with the image.
+#
+# Year: the wiki's claim pages headed this source "Cen et al. 2005"; the DOI's
+# Crossref record (LNCS 4053, ITS 2006, pp. 164-175) gives 2006. The pages were
+# corrected to 2006 on 2026-11-27, and the anchors follow them.
+#
+# No age, no reliability and no single-group mean with SD: the article prints
+# no age figure (age: unreported), no agreement or reliability coefficient,
+# and its success probabilities are model predictions, not observed means.
+
+schema_version: 2
+
+study:
+  key: cen-2006
+  citation: "Cen, H., Koedinger, K., & Junker, B. (2006). Learning Factors Analysis – A general method for cognitive model evaluation and improvement. In Intelligent Tutoring Systems (ITS 2006), Lecture Notes in Computer Science, vol. 4053 (pp. 164–175). Springer."
+  doi: "10.1007/11774303_17"
+  design:
+    family: observational
+    design_detail: >-
+      Secondary analysis of student-tutor log data from the Area Unit of the
+      Geometry Cognitive Tutor. Experiment 1 fits the multiple logistic
+      regression of Eq. 2 (student intercepts; skill intercepts and skill
+      slopes on the number of practice opportunities; a common learning rate
+      across students, stated as a simplifying assumption) to the existing
+      15-skill cognitive model. Experiments 2 and 3 search alternative skill
+      models by binary splits on expert-identified difficulty factors with A*
+      search guided by AIC or BIC. No conditions were assigned.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-author-manuscript
+  verification: unverified
+
+appears_in:
+  - claim: lfa-skill-difficulty-learning-rates
+    bearing: supports
+    anchor: cen-et-al-2006
+  - claim: lfa-improves-cognitive-model-fit
+    bearing: supports
+    anchor: cen-et-al-2006
+
+evidence_base:
+  unit: participants
+  size:
+    value: 24
+    unit: participants
+  additional_sizes:
+    - value: 4102
+      unit: other
+      note: "data points: first-attempt correct or incorrect student actions, each a single production execution"
+    - value: 115
+      unit: items
+      note: "problem steps"
+    - value: 15
+      unit: other
+      note: "skills (productions or groups of productions) in the original cognitive model"
+  population:
+    description: >-
+      Students using the Area Unit of the Geometry Cognitive Tutor. The article
+      gives no school, grade, age or demographic information.
+    age_or_stage: "Not stated."
+    age: unreported
+  context:
+    setting: "Geometry Cognitive Tutor (Carnegie Learning), Area Unit; first-attempt success on each problem step logged by the tutor"
+  arms: []
+
+comparisons:
+  - id: whole-sample-model
+    kind: none
+    description: "Coefficients and fit statistics of a logistic regression fitted to all 24 students' log data; no contrast between groups."
+
+observations:
+
+  - id: pentagon-area-slope
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Skill learning rate"
+      source_language: "Slope is the learning rate"
+      measure: "Skill-by-opportunity coefficient (gamma) for Pentagon-area in Eq. 2, original 15-skill model"
+      scale: "logit of first-attempt success per practice opportunity"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across practice opportunities in the Area Unit"
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.45
+      model: >-
+        Eq. 2 multiple logistic regression, original cognitive model. Pentagon-area
+        intercept -2.16, average 4.3 opportunities, predicted success
+        probability 0.2 at the first opportunity and 0.84 at the last (Table 4).
+      interpretation: "The highest learning rate of any skill, on the hardest skill"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      A fitted coefficient as printed; no standard error, interval or per-skill
+      number of observations is reported.
+    source_quote: "Interestingly, although PENTAGON-AREA is the hardest skill among all, it has the highest learning rate .45, leading to bigger improvement with more practice."
+    source_location: "Section 5.1, Experiment 1; Table 4"
+
+  - id: pentagon-area-intercept
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Skill initial difficulty"
+      source_language: "Intercept for skill is the initial difficulty level for each skill"
+      measure: "Skill intercept (beta) for Pentagon-area in Eq. 2, original 15-skill model; higher means easier"
+      scale: "logit of first-attempt success"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first practice opportunity"
+    result:
+      measure_type: regression_coefficient
+      estimate: -2.16
+      model: "Eq. 2 multiple logistic regression, original cognitive model (Table 4)."
+      interpretation: "The hardest skill in the model"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Pentagon-area is the hardest skill with the intercept of -2.16."
+    source_location: "Section 5.1, Experiment 1; Table 4"
+
+  - id: parallelogram-area-intercept
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Skill initial difficulty"
+      source_language: "Intercept for skill is the initial difficulty level for each skill"
+      measure: "Skill intercept (beta) for Parallelogram-area in Eq. 2, original 15-skill model; higher means easier"
+      scale: "logit of first-attempt success"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "first practice opportunity"
+    result:
+      measure_type: regression_coefficient
+      estimate: 2.14
+      model: >-
+        Eq. 2 multiple logistic regression, original cognitive model. Average
+        14.9 opportunities; predicted success probability 0.95 at the first
+        opportunity, 0.94 at the average, 0.93 at the last (Table 4).
+      interpretation: "The easiest skill in the model"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Parallelogram-area is the easiest skill with the intercept of 2.14."
+    source_location: "Section 5.1, Experiment 1; Table 4"
+
+  - id: parallelogram-area-slope
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Skill learning rate"
+      source_language: "Slope is the learning rate"
+      measure: "Skill-by-opportunity coefficient (gamma) for Parallelogram-area in Eq. 2, original 15-skill model"
+      scale: "logit of first-attempt success per practice opportunity"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across practice opportunities in the Area Unit"
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.01
+      model: >-
+        Eq. 2 multiple logistic regression, original cognitive model. The other
+        two slopes the authors call close to zero are Compose-by-addition (-.04)
+        and Triangle-area (.03).
+      interpretation: "A skill already mastered at the start (initial success probability .95); more practice brings little gain"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      No standard error is printed, so whether -0.01 differs from zero is not
+      established by the source.
+    source_quote: "Compose-by-addition (-.04) and Parallelogram-area (-.01), Triangle-area (.03)."
+    source_location: "Section 5.1, Experiment 1; Table 4"
+
+  - id: original-model-fit
+    sample:
+      value: 4102
+      unit: other
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Model fit"
+      source_language: "Mean Absolute Deviance (MAD)"
+      measure: "Mean absolute difference between observed first-attempt success (0/1) and the model's predicted probability, original 15-skill model"
+      scale: "MAD, 0 to 1"
+      direction: lower-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the whole log data set"
+    result:
+      measure_type: other
+      estimate: 0.083
+      model: "Eq. 2 fitted to the original cognitive model. AIC 3,950; BIC 4,285 (Table 4, Model Statistics)."
+      interpretation: "The baseline against which the LFA-improved models are compared"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      A fit statistic, not an effect; the sample is the 4,102 logged data
+      points the model was fitted to.
+    source_quote: "Model Statistics AIC 3,950 BIC 4,285 MAD 0.083"
+    source_location: "Table 4, Model Statistics"
+
+  - id: best-bic-model-improvement
+    sample:
+      value: 4102
+      unit: other
+    comparison_ref: whole-sample-model
+    outcome:
+      construct: "Model fit"
+      source_language: "BIC is reduced by 37"
+      measure: "Reduction in BIC of the best model found by LFA with BIC as the heuristic (three binary splits, 18 skills), relative to the original 15-skill model"
+      scale: "BIC points"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "across the whole log data set"
+    result:
+      measure_type: other
+      estimate: 37
+      unit: "BIC points"
+      model: >-
+        Experiment 2, LFA with A* search (50 node expansions). The same model
+        reduced AIC by 62 and MAD by .012; the best AIC model reduced AIC by 83,
+        increased BIC by 18 and reduced MAD by .02.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "For the best BIC model, its BIC is reduced by 37, and AIC by 62. The fit of the new model, as measured by MAD, is reduced by .012."
+    source_location: "Section 5.2, Experiment 2"
+
+not_yet_extracted:
+  - "Student intercepts for three of the 24 students (student0 1.18, student1 0.82, student2 0.21; Table 4); the paper prints only a partial list, so no spread of student intercepts can be read from it."
+  - "Table 5 and Table 8 fit statistics for the top three BIC models in Experiments 2 and 3 (the text layer interleaves their cells)."
+  - "Tables 6, 7 and 9: predicted success probabilities and coefficients for split skills (CMarea, CMsegment, CAalone, CAembed); Section 5.4 figures for Parallelogram-side (intercept 2.06, slope -.01) and Trapezoid-height (intercept -1.55, slope .27). Parallelogram-side's practice count and probabilities (14.9, .94) repeat Parallelogram-area's in Table 4 closely; the source does not say whether this is a coincidence."
