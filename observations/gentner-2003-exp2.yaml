@@ -1,0 +1,394 @@
+# Gentner, Loewenstein & Thompson (2003), Experiment 2: comparing two
+# negotiation cases against studying the same two cases separately.
+#
+# Read from a text layer of the published article (Journal of Educational
+# Psychology, pp. 393-408), whose front matter prints the DOI
+# 10.1037/0022-0663.95.2.393. The text layer renders the chi-square symbol,
+# the equals sign and the less-than sign as stray glyphs ("␹2(1, N ⫽ 128) ⫽
+# 11.85, p ⬍ .01"), and no page image was available. So every source_quote
+# below stops short of the test statistic, and the statistics are written in
+# `statistic` in plain characters, digits as printed.
+#
+# What the record holds and what it does not:
+#
+#   * `population.age: unreported`. The article says "128 undergraduate
+#     students" who took part for a course requirement, and prints no age
+#     figure.
+#   * `measure_type: reliability`. The judges' agreement is printed as ".90"
+#     with no coefficient named, so the statistic is `other` and the form keeps
+#     the article's words. It covers the solutions, the linking codes and the
+#     schema statements together.
+#   * The share of each condition that transferred the principle (48% and
+#     19%) is recorded per condition as `probability`, beside the contrast.
+#     The two conditions pool the trade-off and contingent-contract cells of
+#     the 2 x 2 design, as the article's headline result does; the per-principle
+#     contrasts are in not_yet_extracted.
+#   * No standardised effect size is printed for any result.
+#
+# Experiments 1 (48 undergraduates, guided analogy against no training) and 3
+# (face-to-face negotiation) are different samples and would be their own
+# records.
+
+schema_version: 2
+
+study:
+  key: gentner-2003-exp2
+  citation: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. Journal of Educational Psychology, 95(2), 393–408. Experiment 2."
+  doi: "10.1037/0022-0663.95.2.393"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Between-subjects 2 x 2 factorial: half the participants randomly assigned
+      to the comparison condition and half to the separate-cases condition;
+      within each, half read two trade-off cases and half two
+      contingent-contract cases. After the case training, all completed the
+      written lease-negotiation test case from Experiment 1 in the same
+      session, proposing up to two solutions. Two judges coded the solutions,
+      the case statements (schema quality, 0-2) and whether the two cases were
+      linked.
+    preregistration:
+      status: unreported
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-26
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: comparison-beats-separate-case-study
+    bearing: supports
+    anchor: gentner-2003
+  - claim: comparison-beats-separate-case-study
+    bearing: supports
+    anchor: gentner-2003-2
+  - claim: comparing-contrasting-cases-improves-learning
+    bearing: supports
+    anchor: gentner-et-al-2003
+  - claim: schema-quality-predicts-transfer
+    bearing: supports
+    anchor: gentner-2003
+  - claim: novices-rarely-spontaneously-compare
+    bearing: supports
+    anchor: gentner-2003
+
+evidence_base:
+  unit: participants
+  size:
+    value: 128
+    unit: participants
+  population:
+    description: >-
+      Undergraduate students who took part to fulfil a course requirement;
+      novices in negotiation (the article's framing is students with little or
+      no formal negotiation experience). The article does not name the
+      institution the participants came from (the authors were at
+      Northwestern University).
+    age_or_stage: "Undergraduates"
+    age: unreported
+  context:
+    setting: "Written materials in one session: a case-training packet followed by the lease-negotiation test materials"
+  arms:
+    - id: comparison
+      description: >-
+        Two narrative negotiation cases (about 225 words each) embodying one
+        principle (trade-off or contingent contract), read on a single page,
+        followed by: "What is going on in these negotiations? Think about the
+        similarities between these two cases. What are the key parallels in
+        the two negotiations? Please describe the solution and say how
+        successful you think it is." Half the arm read trade-off cases, half
+        contingent-contract cases.
+      size:
+        value: 64
+        unit: participants
+      elements:
+        - term: "comparing two analogous cases"
+      delivery:
+        grouping: individual
+        basis: inferred
+    - id: separate-cases
+      description: >-
+        The same two cases, read one at a time on separate pages, each followed
+        by: "What is going on in this negotiation? Please describe the solution
+        and say how successful you think it is." Half the arm read trade-off
+        cases, half contingent-contract cases.
+      size:
+        value: 64
+        unit: participants
+      delivery:
+        grouping: individual
+        basis: inferred
+
+comparisons:
+  - id: comparison-vs-separate
+    kind: between-groups
+    index_arm: comparison
+    reference_arm: separate-cases
+    description: "Comparing the two cases on one page against studying the same two cases separately, pooled over the trade-off and contingent-contract cells."
+  - id: whole-sample
+    kind: none
+    description: "Results over all 128 participants regardless of condition: the judges' agreement, and the association between rated schema quality and transfer."
+
+observations:
+
+  - id: transfer-comparison-vs-separate
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: comparison-vs-separate
+    outcome:
+      construct: "Far transfer of a negotiation principle to a novel case"
+      source_language: "transfer the principle to the test case"
+      measure: "Whether a participant's proposed solution(s) to the written lease-negotiation test case used the principle embodied in their training cases (trade-off or contingent contract), as coded by two judges"
+      scale: "share of participants (binary per participant)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, immediately after case training"
+    result:
+      measure_type: other
+      statistic: "chi-square(1, N = 128) = 11.85"
+      p_value: "< .01"
+      descriptives:
+        comparison: "48% of participants transferred the principle"
+        separate-cases: "19% of participants transferred the principle"
+      interpretation: "Comparison condition over twice as likely to transfer; no standardised effect size printed"
+    moderators:
+      reported: []
+      candidate:
+        - variable: "Principle taught (trade-off or contingent contract)"
+          relationship: "The comparison advantage was significant within each principle (59% vs 22% for trade-offs, 38% vs 16% for contingent contracts); the article does not test whether it differs between them"
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The chi-square and p value are written in plain characters because the
+      text layer renders their symbols as stray glyphs; the digits are as
+      printed. The ratio of the two shares is not printed and is not recorded.
+    source_quote: "Participants in the comparison condition were over twice as likely (48% of participants) to transfer the principle to the test case as participants in the separate-cases condition (19%),"
+    source_location: "Experiment 2, Results, Negotiation solutions, p. 399; Table 3"
+
+  - id: transfer-share-comparison
+    sample:
+      value: 64
+      unit: participants
+    arm_ref: comparison
+    outcome:
+      construct: "Far transfer of a negotiation principle to a novel case"
+      source_language: "transfer the principle to the test case"
+      measure: "Whether a participant's proposed solution(s) to the lease-negotiation test case used the trained principle, as coded by two judges"
+      scale: "percent of participants"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, immediately after case training"
+    result:
+      measure_type: probability
+      estimate: 48
+      unit: "percent of participants who transferred the trained principle"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A share within one condition, not an effect. Table 3 gives the cells it pools: 19/32 trade-off solutions among those comparing trade-offs, 12/32 contingent-contract solutions among those comparing contingent contracts."
+    source_quote: "Participants in the comparison condition were over twice as likely (48% of participants) to transfer the principle to the test case as participants in the separate-cases condition (19%),"
+    source_location: "Experiment 2, Results, Negotiation solutions, p. 399"
+
+  - id: transfer-share-separate
+    sample:
+      value: 64
+      unit: participants
+    arm_ref: separate-cases
+    outcome:
+      construct: "Far transfer of a negotiation principle to a novel case"
+      source_language: "transfer the principle to the test case"
+      measure: "Whether a participant's proposed solution(s) to the lease-negotiation test case used the trained principle, as coded by two judges"
+      scale: "percent of participants"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session, immediately after case training"
+    result:
+      measure_type: probability
+      estimate: 19
+      unit: "percent of participants who transferred the trained principle"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "A share within one condition, not an effect. Table 3 gives the cells it pools: 7/32 trade-off solutions among those reading trade-off cases separately, 5/32 contingent-contract solutions among those reading contingent-contract cases separately."
+    source_quote: "Participants in the comparison condition were over twice as likely (48% of participants) to transfer the principle to the test case as participants in the separate-cases condition (19%),"
+    source_location: "Experiment 2, Results, Negotiation solutions, p. 399"
+
+  - id: full-schema-comparison-vs-separate
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: comparison-vs-separate
+    outcome:
+      construct: "Schema abstraction from the training cases"
+      source_language: "stated the key principle in full"
+      measure: "Participants' written statements about the training cases, rated by blind judges on a 3-point scale (0 = no elements of the schema, 1 = some elements, 2 = the complete schema)"
+      scale: "share of participants rated 2 (complete schema)"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during case training, same session"
+    result:
+      measure_type: other
+      statistic: "chi-square(2, N = 128) = 15.64"
+      p_value: "printed as \"p < 01\" (the decimal point is missing in the article)"
+      descriptives:
+        comparison: "42% stated the principle in full"
+        separate-cases: "13% stated the principle in full"
+      interpretation: "Comparison advantage significant for contingent contracts, not for trade-offs (p = .13)"
+    moderators:
+      reported:
+        - variable: "Principle taught (trade-off or contingent contract)"
+          relationship: "The comparison advantage in schema quality was significant for contingent-contract cases, chi-square(2, N = 64) = 13.14, p < .01, and not for trade-off cases, chi-square(2, N = 64) = 4.11, p = .13"
+          source_quote: "This comparison advantage was significant for those learning contingent contracts,"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The chi-square has 2 degrees of freedom, so it tests the whole 0/1/2
+      distribution, not only the share rated 2. Statistic symbols rendered as
+      glyphs in the text layer; written here in plain characters.
+    source_quote: "According to the blind judges’ ratings, participants who compared cases (42%) stated the key principle in full more often than those who read cases but did not compare them (13%),"
+    source_location: "Experiment 2, Results, Schema quality, p. 400; Table 3"
+
+  - id: linking-comparison-vs-separate
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: comparison-vs-separate
+    outcome:
+      construct: "Spontaneous comparison of the two cases"
+      source_language: "link the two study examples"
+      measure: "Whether a participant, when discussing the second study case, referred to the first (e.g. \"both cases\", \"again\", \"as before\"), as coded by the judges"
+      scale: "share of participants"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during case training, same session"
+    result:
+      measure_type: other
+      statistic: "chi-square(1, N = 128) = 89.55"
+      p_value: "< .01"
+      descriptives:
+        comparison: "98% linked the two cases"
+        separate-cases: "16% linked the two cases"
+      interpretation: "A manipulation check: the authors read the separate-cases figure as showing that learners seldom compare cases lacking surface similarity spontaneously, even when presented in succession"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "comparison-condition participants (98%) were more likely to link the two study examples than were separate-cases-condition participants (16%),"
+    source_location: "Experiment 2, Results, Linking, p. 400"
+
+  - id: schema-rating-and-transfer
+    sample:
+      value: 128
+      unit: participants
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Far transfer of a negotiation principle, by rated schema quality"
+      source_language: "transferred the agreement structure"
+      measure: "Share transferring the trained principle to the test case among participants whose case statements were rated 0, 1 or 2 for schema quality"
+      scale: "percent of participants in each schema-rating category"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "same session"
+    result:
+      measure_type: other
+      statistic: "chi-square(2, N = 128) = 7.13"
+      p_value: "< .05"
+      descriptives:
+        schema-rating-0: "20% transferred"
+        schema-rating-1: "40% transferred"
+        schema-rating-2: "46% transferred"
+      interpretation: "Better rated schemas associated with higher transfer; an association across conditions, not a manipulated contrast"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: "The number of participants in each rating category is not printed in the text; Table 3 gives the proportions per cell."
+    source_quote: "Only 20% of the participants who were given a 0 for their schema rating—indicating that no elements of the schema were present— transferred the agreement structure."
+    source_location: "Experiment 2, Results, Schema quality, p. 400"
+
+  - id: judge-agreement
+    comparison_ref: whole-sample
+    outcome:
+      construct: "Inter-judge agreement"
+      source_language: "The judges’ agreement"
+      measure: "Two judges' codes of the test-case solutions, the linking of the two cases, and the statements of the principle"
+      scale: "agreement, coefficient not named"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: "during coding, before disagreements were resolved"
+    result:
+      measure_type: reliability
+      estimate: 0.90
+      reliability:
+        statistic: other
+        over: raters
+        form: "\"agreement ... was .90\"; the article does not name the coefficient"
+      interpretation: "One figure for all three coded measures together; disagreements were resolved through discussion, so the analysed codes are consensus codes"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      Experiment 1 reports 93% agreement for its own coding; that is a
+      different sample and is not this experiment's figure.
+    source_quote: "The judges’ agreement on the scoring of the solutions, linking, and statements of the principle was .90, and disagreements were resolved through discussion."
+    source_location: "Experiment 2, Method, Scoring, p. 399"
+
+not_yet_extracted:
+  - "Per-principle transfer: contingent-contract cases, comparison 38% vs separate 16%, chi-square(1, N = 64) = 3.92, p < .05; trade-off cases, 59% vs 22%, chi-square(1, N = 64) = 8.26, p < .01 (Results, p. 399)"
+  - "Compromise solutions: separate-cases 83% vs comparison 61%, chi-square(1, N = 128) = 7.58, p < .01 (Results, p. 399)"
+  - "Use of the untrained principle: 20% comparison vs 13% separate-cases, chi-square(1, N = 128) = 1.42, p > .10 (Results, p. 399)"
+  - "Reported remindings: 34% of comparison and 30% of separate-cases participants; timing of contingent-contract and trade-off solutions relative to the reminding questions, chi-square(1, N = 43) = 4.80 (Results, pp. 399-400)"
+  - "Table 3 cell proportions for each of the four training cells: solution types and schema-quality rating distribution"
