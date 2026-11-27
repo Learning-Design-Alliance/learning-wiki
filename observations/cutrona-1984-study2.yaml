@@ -44,13 +44,13 @@ provenance:
 appears_in:
   - claim: asq-poor-predictor-actual-attributions
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
   - claim: consistent-subsample-no-predictive-gain
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
   - claim: internality-weakest-consistency-dimension
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
 
 evidence_base:
   unit: participants

@@ -5,14 +5,14 @@ description: The ASQ shows weak reliability and weak concurrent validity with de
 id: asq-weak-reliability-validity-study1
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-23
+  by: claude/unspecified
+  at: 2026-11-27
 evidence_strength: moderate
-newest_evidence: 1985
+newest_evidence: 1984
 sources:
-  - id: cutrona-1985
+  - id: cutrona-1984
     resource: "https://doi.org/10.1037/0022-3514.47.5.1043"
-    title: "Cutrona, C. E., Russell, D., & Jones, R. D. (1985). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043"
+    title: "Cutrona, C. E., Russell, D., & Jones, R. D. (1984). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043"
     author: "Cutrona, C. E., Russell, D., & Jones, R. D."
     q: 3
     i: 2
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i2` In Study 1, ASQ total-score correlations with depression were statistically significant but weak (r = .22), and reliability coefficients were lower than previously reported. [→ Cutrona 1985](#cutrona-1985)
+`q3 i2` In Study 1, ASQ total-score correlations with depression were statistically significant but weak (r = .22), and reliability coefficients were lower than previously reported. [→ Cutrona 1984](#cutrona-1984)
 
 ## Evidence
 
-### Cutrona 1985
+### Cutrona 1984
 
-Cutrona, C. E., Russell, D., & Jones, R. D. (1985). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043
+Cutrona, C. E., Russell, D., & Jones, R. D. (1984). Cross-Situational Consistency in Causal Attributions: Does Attributional Style Exist? Journal of Personality and Social Psychology, 47(5), 1043-1058. https://doi.org/10.1037/0022-3514.47.5.1043
 
 `q3 · i2` · `associational · r2`
 

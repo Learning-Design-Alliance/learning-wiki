@@ -10,6 +10,14 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-27
+
+* **Correction**: [claims/consistent-subsample-no-predictive-gain](claims/consistent-subsample-no-predictive-gain.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
+* **Correction**: [claims/asq-poor-predictor-actual-attributions](claims/asq-poor-predictor-actual-attributions.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
+* **Correction**: [claims/consistent-subsample-still-situation-specific](claims/consistent-subsample-still-situation-specific.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
+* **Correction**: [claims/internality-weakest-consistency-dimension](claims/internality-weakest-consistency-dimension.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
+* **Correction**: [claims/asq-weak-reliability-validity-study1](claims/asq-weak-reliability-validity-study1.md) — Cited year corrected to 1984, the article's publication year (JPSP 47(5))
+
 ## 2026-11-26
 
 * **Correction**: [claims/hint-avoidance-related-greater-wheel-spinning](claims/hint-avoidance-related-greater-wheel-spinning.md) — Corrected against the article's printed figures (observation records batches 6-7)

@@ -40,13 +40,13 @@ provenance:
 appears_in:
   - claim: asq-weak-reliability-validity-study1
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
   - claim: internality-weakest-consistency-dimension
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
   - claim: consistent-subsample-still-situation-specific
     bearing: supports
-    anchor: cutrona-1985
+    anchor: cutrona-1984
 
 evidence_base:
   unit: participants
