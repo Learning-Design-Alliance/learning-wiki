@@ -18,7 +18,7 @@ sources:
 # Empirical Bayes shrinkage for teacher value-added estimates
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Empirical Bayes shrinkage is described as "an approach commonly used in implementing teacher accountability systems" that adjusts value-added estimates. The paper studies how it affects estimates for teachers of students with hard-to-predict achievement levels, finding it increases precision and reduces absolute estimate values without significantly changing extreme-rating probabilities.
@@ -26,21 +26,22 @@ Empirical Bayes shrinkage is described as "an approach commonly used in implemen
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Empirical Bayes shrinkage as implemented in teacher value-added accountability systems**: Empirical Bayes shrinkage is described as "an approach commonly used in implementing teacher accountability systems" that adjusts value-added estimates. The paper studies how it affects estimates for teachers of students with hard-to-predict achievement levels, finding it increases precision and reduces absolute estimate values without significantly changing extreme-rating probabilities. (Herrmann et al. (2013))
+- **Random-effects meta-analysis approach for measuring the variance of teacher fixed effects net of estimation error**: The article introduces a method for measuring the underlying variance of teacher fixed effects while accounting for sampling error. It assumes teacher fixed effects are "independently drawn from a normal distribution" and treats estimated fixed effects as noisy measurements whose variance equals true variance plus sampling error, estimating the underlying variance via maximum likelihood. This parallels a random-effects meta-analysis where each teacher is like a study and the parameter of interest is the variance of effects across teachers. (Jonah E. Rockoff (2004))
 
 ### Claims
-
 - [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](../claims/stabilization-adjusts-small-extreme-scores-most.md) [+W]
 - [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](../claims/shrinkage-increases-precision-reduces-absolute-va.md) [+W]
 - [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](../claims/hard-to-predict-students-less-precise-teacher-va-estimates.md) [~W]
 - [Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings](../claims/shrinkage-no-significant-effect-extreme-ratings.md) [~W]
+- [A one-standard-deviation increase in teacher quality raises reading and math test scores by about 0.1 standard deviations on the national scale](../claims/one-sd-teacher-quality-raises-scores-0-1-sd.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - Herrmann, M., Walsh, E., Isenberg, E., & Resch, A. (2013). Shrinkage of Value-Added Estimates and Characteristics of Students with Hard-to-Predict Achievement Levels. Cambridge, MA: Mathematica Policy Research. https://www.mathematica.org/publications/shrinkage-of-valueadded-estimates-and-characteristics-of-students-with-hardtopredict-achievement-levels
-
 <!-- merged 2026-10-10 from elements/empirical-bayes-shrinkage-teacher-accountability ("Empirical Bayes shrinkage as implemented in teacher value-added accountability systems"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Jonah E. Rockoff. (2004). The Impact of Individual Teachers on Student Achievement: Evidence from Panel Data. The American Economic Review, 94(2), 247-252. https://www.jstor.org/stable/3592891
 
 # Empirical Bayes shrinkage as implemented in teacher value-added accountability systems
 

@@ -56,3 +56,4 @@ Two-level cross-sectional HLMs (students nested in schools) estimated separately
 - [TRIAD follow-through students significantly outperform control students in mathematics at the end of first grade (ITT, g = .38)](triad-ft-first-grade-itt-outperformed-control.md) — related
 - [TRIAD non-follow-through students significantly outperform control students in mathematics at the end of first grade (ITT, g = .21)](triad-nft-first-grade-itt-outperformed-control.md) — related
 - [In the project's earlier reported years, TRIAD students learned more mathematics than controls in pre-K (g = .72) and follow-through students outperformed controls in kindergarten (ITT g = .33)](triad-prek-kindergarten-effects-prior-years.md) — related
+- [Teachers' estimated effects decay in the year after contact, and short-run value added is at best weakly related to long-run effects](teacher-effects-decay-short-run-long-run.md) — related

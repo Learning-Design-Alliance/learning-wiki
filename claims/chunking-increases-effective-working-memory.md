@@ -54,3 +54,5 @@ The thesis reports, citing Ericsson, Chase, and Faloon (1980), a case study in w
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
 - [The article reports seven types of prior knowledge that facilitate acquisition, organization, and re-disclosure of new knowledge](seven-types-prior-knowledge-reigeluth.md) — related
 - [Extended practice on a memory task can raise recall performance by 100 to 1000%, as when trained subjects increased digit span from around 7 to over 80 digits](practice-raises-digit-span-7-to-80.md) — possibly the same claim (merge candidate)
+- [Conceptual chunking recodes concepts into fewer dimensions, saving capacity at the cost of making some relations temporarily inaccessible](conceptual-chunking-reduces-dimensions-inaccessible-relations.md) — related
+- [Humans process approximately four dimensions in parallel, a soft limit corresponding to one quaternary relation](four-dimensions-parallel-soft-limit.md) — related

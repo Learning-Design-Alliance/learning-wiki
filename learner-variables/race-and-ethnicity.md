@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 308 claims (234 show a difference, 52 mixed, 22 no difference) · 233 studies (123 associational, 46 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 3 quant-synthesis), `q1`–`q4` · 14 of 233 report an effect size · 306 claims rest on one study
+> **Evidence** · 309 claims (235 show a difference, 52 mixed, 22 no difference) · 234 studies (124 associational, 46 causal, 32 review, 13 theoretical, 8 qualitative, 8 design, 3 quant-synthesis), `q1`–`q4` · 14 of 234 report an effect size · 307 claims rest on one study
 
 ## How to read this page
 
@@ -345,6 +345,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [White and Asian-American students scored higher than Hispanic and African-American students on the individual test, but ethnic background added no variance beyond ability and behavior](../claims/ethnic-background-gap-not-over-ability-and-behavior.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [African American identification moderates first-grade effects: TRIAD-FT significantly reduces the negative main effect for African American students (g = .31)](../claims/african-american-moderator-triad-ft-first-grade.md) [+W] — an instructional effect differs by group
 - [Hispanic students realize large full-day kindergarten literacy effects (0.70 s.d.) that are statistically different from those of non-Hispanic students](../claims/full-day-kindergarten-hispanic-0-70sd-heterogeneity.md) [+M] — an instructional effect differs by group
+- [Subgroup analyses by race/ethnicity showed some differences in the pattern of pre-K and Head Start associations, favoring students of color](../claims/tulsa-ece-subgroup-race-ethnicity-differences.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

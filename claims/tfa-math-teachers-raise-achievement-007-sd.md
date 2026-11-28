@@ -57,3 +57,4 @@ Large-scale experimental study of secondary math teachers from TFA in high-pover
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
 - [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite
 - [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related
+- [A one-standard-deviation increase in teacher quality raises reading and math test scores by about 0.1 standard deviations on the national scale](one-sd-teacher-quality-raises-scores-0-1-sd.md) — related

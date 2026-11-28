@@ -54,3 +54,4 @@ In Study II with 92 sixth- and seventh-graders, item analysis identified "2 subs
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](short-term-storage-capacity-two-to-four-units.md) — related
 - [Cognitive Load Theory has traditionally used slot-based working memory capacity models](clt-traditionally-used-slot-models.md) — related
 - [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](working-memory-3-5-slots-30-seconds.md) — related
+- [Humans process approximately four dimensions in parallel, a soft limit corresponding to one quaternary relation](four-dimensions-parallel-soft-limit.md) — related

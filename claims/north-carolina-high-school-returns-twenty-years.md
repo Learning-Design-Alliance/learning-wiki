@@ -50,3 +50,6 @@ A statewide study of North Carolina high school students over four years; initia
 - Teachers improve faster when they teach the same grade level and subject for multiple years — related
 - Teacher improvement is fastest in the first five years of teaching — a broader claim this one bears on
 - [Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies](teaching-experience-positive-achievement-gains-review.md) — a broader claim this one bears on
+- [Evidence of experience gains is weaker for math: the first two years raise math computation scores about 0.1 SD, with no significant relationship for math concepts](experience-gains-weaker-for-math.md) — reports the opposite
+- [Teaching experience significantly raises student test scores, particularly in reading](teaching-experience-raises-reading-scores.md) — related
+- [A one-standard-deviation increase in teacher quality raises reading and math test scores by about 0.1 standard deviations on the national scale](one-sd-teacher-quality-raises-scores-0-1-sd.md) — related

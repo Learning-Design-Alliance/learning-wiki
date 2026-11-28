@@ -48,3 +48,4 @@ This is the authors' summary interpretation of the meta-analytic evidence, hedge
 - [An additional year of education raises intelligence by approximately 1 to 5 IQ points, per a meta-analysis of quasi-experimental studies](education-raises-iq-1-to-5-points-per-year.md) — possibly the same claim (merge candidate)
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - [Systematic reviews on regular physical activity and children's cognition reach conflicting conclusions, with math performance the most consistent beneficiary](pa-cognition-evidence-inconclusive-except-math.md) — related
+- [Previous theories of the fadeout effect inadequately explain the data](alternative-fadeout-explanations-inadequate.md) — related

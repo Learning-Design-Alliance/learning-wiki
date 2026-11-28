@@ -155,3 +155,4 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — a narrower finding that bears on this claim
 - [Medical students experienced a digital Prezi presentation as supporting ownership of their learning through flexibility and increased engagement](prezi-presentation-student-ownership-of-learning.md) — related
 - [Students' focus on solution-finding segments suggests they may not attend to conceptual video elements any more than in a passive lecture](conceptual-attention-like-passive-lecture.md) — a narrower finding that bears on this claim
+- [Segmentation breaks tasks into serial steps that each stay within processing capacity](segmentation-serial-steps-within-capacity.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Robustness checks on the same DiD models: IPW weights aligning the sample with t
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
 - [The main associations are not driven by children with high problem scores, by IQ adjustment, or by attrition selection bias](sensitivity-analyses-robust-associations.md) — related
 - [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related
+- [Previous theories of the fadeout effect inadequately explain the data](alternative-fadeout-explanations-inadequate.md) — related

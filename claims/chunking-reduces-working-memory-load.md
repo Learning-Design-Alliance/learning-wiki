@@ -124,3 +124,6 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — a narrower finding that bears on this claim
 - [Mental computation via repeated chunked additions becomes grossly inefficient with large numbers, so informal routines cannot replace school computation](street-math-mental-computation-limits.md) — a narrower finding that bears on this claim
 - [Adults typically retain only about 3 or 4 pre-existing chunks in working memory when chunking and covert verbal rehearsal cannot help](adult-working-memory-limit-three-to-four-chunks.md) — related
+- [Conceptual chunking recodes concepts into fewer dimensions, saving capacity at the cost of making some relations temporarily inaccessible](conceptual-chunking-reduces-dimensions-inaccessible-relations.md) — a narrower finding that bears on this claim
+- [Humans process approximately four dimensions in parallel, a soft limit corresponding to one quaternary relation](four-dimensions-parallel-soft-limit.md) — related
+- [Segmentation breaks tasks into serial steps that each stay within processing capacity](segmentation-serial-steps-within-capacity.md) — related

@@ -48,3 +48,4 @@ Three sensitivity analyses in the Generation R cohort: excluding high scorers (3
 - [Once attention problems are accounted for, more emotional problems from 1½ to 10 years are associated with better academic attainment](emotional-problems-positive-predictors-adjusting-attention.md) — related
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
 - [Main findings were robust to inverse-probability weighting and propensity-score matching, but the mathematics effect lost significance in the lower-performing-half sample](robustness-ipw-psm-math-null.md) — related
+- [Previous theories of the fadeout effect inadequately explain the data](alternative-fadeout-explanations-inadequate.md) — related

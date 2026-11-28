@@ -28,7 +28,7 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (54)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (5908)
+### [Designs](designs/index.md) (5909)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
 ### [Products & Programmes](products/index.md) (5860)
@@ -46,13 +46,13 @@ The practices a design process is made of — analysis, elicitation, mapping and
 ### [Research Methods](research-methods/index.md) (1537)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-### [Theories](theories/index.md) (1367)
+### [Theories](theories/index.md) (1368)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (75)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (90270)
+### [Claims](claims/index.md) (90292)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

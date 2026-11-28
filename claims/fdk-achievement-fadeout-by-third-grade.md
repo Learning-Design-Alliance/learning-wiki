@@ -52,3 +52,4 @@ The meta-analysis reports that the kindergarten-year achievement advantage of "a
 - [Full-day kindergarten shows a positive association with children's ability to work and play with others (d ≈ 0.55–0.67)](fdk-work-play-with-others-positive-association.md) — related
 - [Assignment to full-day kindergarten raises end-of-kindergarten literacy skills by 0.31 standard deviations relative to half-day assignment within the same school](full-day-kindergarten-assignment-literacy-0-31sd.md) — related
 - [Full-day kindergarten attendance has no effect on the likelihood that a student is retained by third grade](full-day-kindergarten-no-effect-grade-retention.md) — related
+- [Out-of-school contexts — home cognitive stimulation and household poverty — partly explain both the kindergarten-year advantage of full-day kindergarten and its later fade-out](home-contexts-explain-part-of-full-day-advantage.md) — related

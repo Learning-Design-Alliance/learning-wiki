@@ -9,6 +9,7 @@ generated:
   at: 2026-11-28
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-28
 recheck_by: 2018
 sources:
   - id: carolyn-j-hill-2015
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
+> **Currency** · newest study 2015 · checked against its sources 2026-11-28 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` For the early cohort (pre-K in 2000–2001), third-grade reading and math scores show no evidence of persistence of early pre-K gains. [→ Carolyn J. Hill 2015](#carolyn-j-hill-2015)

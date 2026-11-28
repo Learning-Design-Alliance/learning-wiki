@@ -90,3 +90,4 @@ Vote-count synthesis of pre-1975 studies. "All 11 comparisons of spelling reveal
 - [Summer vacation effects differ by socioeconomic status: middle-class students gain on grade-level equivalent reading recognition tests over summer while lower-class students lose](summer-loss-ses-divergence-reading.md) — related
 - [There is no agreement across tests on which subject is most prone to summer loss](summer-loss-subject-disagreement.md) — related
 - [Teachers reported learning losses of similar severity across Math, Reading, and Spelling, with no significant domain differences](no-domain-differences-in-reported-learning-losses.md) — reports the opposite
+- [Teacher fixed effects are significant predictors of student test scores in all subject areas](teacher-fixed-effects-significant-all-subjects.md) — related

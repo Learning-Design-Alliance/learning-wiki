@@ -55,3 +55,4 @@ IES evaluation study comparison of student test scores for secondary math teache
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
 - [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related
 - [Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents](tfa-no-impacts-attendance-promotion-discipline.md) — related
+- [A one-standard-deviation increase in teacher quality raises reading and math test scores by about 0.1 standard deviations on the national scale](one-sd-teacher-quality-raises-scores-0-1-sd.md) — related

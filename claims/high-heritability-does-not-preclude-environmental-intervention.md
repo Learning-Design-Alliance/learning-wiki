@@ -71,3 +71,4 @@ Illustrative counterexample in the same argument: "the provision of eye-glasses 
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related
 - Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related
+- [Previous theories of the fadeout effect inadequately explain the data](alternative-fadeout-explanations-inadequate.md) — related

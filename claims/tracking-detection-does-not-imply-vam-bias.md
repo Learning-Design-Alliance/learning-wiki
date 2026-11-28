@@ -60,3 +60,4 @@ Theoretical and simulation analysis reported by the authors, showing that the te
 - [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
 - [A fictional-news correlation activity helped high-school physics students understand that correlation does not necessarily imply causation](fictional-news-correlation-activity-causation-understanding.md) — related
 - [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](vam-strong-designs-little-bias.md) — related
+- [Bias from non-random classroom assignments is large relative to estimated teacher effects in VAM1 and somewhat smaller in VAM2](vam-bias-nonrandom-assignment-magnitude.md) — related

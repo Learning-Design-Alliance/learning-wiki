@@ -52,3 +52,4 @@ Authors' account of longitudinal missing data: active collection only reached st
 - [Main findings were robust to inverse-probability weighting and propensity-score matching, but the mathematics effect lost significance in the lower-performing-half sample](robustness-ipw-psm-math-null.md) — related
 - [The main associations are not driven by children with high problem scores, by IQ adjustment, or by attrition selection bias](sensitivity-analyses-robust-associations.md) — related
 - [The competency-rating–prescribing association is consistent across sensitivity analyses using raw ratings, individual domains, imputed counts, and inverse-probability weighting](sensitivity-analyses-competency-prescribing-robust.md) — related
+- [Previous theories of the fadeout effect inadequately explain the data](alternative-fadeout-explanations-inadequate.md) — related

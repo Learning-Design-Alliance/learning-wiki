@@ -49,3 +49,4 @@ Micro-genetic case study of one upper-division physics major's talk-aloud soluti
 - [Reasoning-process features are particularly useful when difficulty depends on multi-step problem solving, and the representation also generalizes to text-based assessment items](process-features-strongest-for-multistep-items.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [The estimation epistemic game consists of six basic moves from problematize to evaluation](e-e-game-six-basic-moves.md) — a broader claim this one bears on
+- [Segmentation breaks tasks into serial steps that each stay within processing capacity](segmentation-serial-steps-within-capacity.md) — related

@@ -35,7 +35,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 159 claims (107 for, 40 mixed, 12 against) · 127 studies (56 causal, 27 review, 19 theoretical, 14 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 26 of 127 report an effect size · 147 claims rest on one study
+> **Evidence** · 160 claims (108 for, 40 mixed, 12 against) · 128 studies (56 causal, 27 review, 20 theoretical, 14 quant-synthesis, 5 associational, 4 design, 2 qualitative), `q1`–`q4` · 26 of 128 report an effect size · 148 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -231,6 +231,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Experiment 2: with element interactivity increased, explicit instruction first was superior on both similar and transfer questions](../claims/exp2-explicit-first-superior-similar-and-transfer.md) [+M] — attached 2026-11-26 from Greg Ashman et al. (2020), which proposed "Element interactivity as the explanatory variable for when problem-solving first helps"; tests this page's relationship.
 - [Worked examples speed subsequent solution of structurally similar test problems but not dissimilar ones](../claims/worked-example-test-speed-similar-only.md) [+W] — attached 2026-11-26 from John Sweller et al. (1985), which proposed "Schema-acquisition account: goal-directed problem-solving search interferes with learning problem-state patterns and associated moves".
 - [Worked example groups used fewer unnecessary expansion moves, indicating less inappropriate application of previously acquired schemas](../claims/worked-examples-reduce-unnecessary-expansion.md) [+W] — attached 2026-11-26 from John Sweller et al. (1985), which proposed "Schema-acquisition account: goal-directed problem-solving search interferes with learning problem-state patterns and associated moves".
+- [Humans process approximately four dimensions in parallel, a soft limit corresponding to one quaternary relation](../claims/four-dimensions-parallel-soft-limit.md) [+W] — attached 2026-11-28 from Graeme S. Halford et al. (1998), which proposed "Processing capacity is defined by relational complexity: demand is a function of the number of interacting variables processed in parallel".
 
 ## The evidence by question
 
