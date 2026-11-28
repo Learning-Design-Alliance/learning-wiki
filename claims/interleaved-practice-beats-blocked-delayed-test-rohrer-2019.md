@@ -77,3 +77,4 @@ The trial ran in 2017–2018 in five middle schools of one Florida district, in 
 - [The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction](interleaving-significant-hlm-teacher-controlled.md) — related
 - [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related
 - [Blocked versus interleaved GPC practice showed no clear difference in first-grade test performance](blocked-interleaved-gpc-null.md) — related
+- [Classroom mathematics practice benefits from spacing and interleaving, and interleaving's benefits can go beyond the spacing it creates](spacing-interleaving-benefits-real-world-mathematics.md) — a broader claim this one bears on

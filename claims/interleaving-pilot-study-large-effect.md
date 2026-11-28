@@ -55,3 +55,4 @@ Pilot study at a public middle school with two teachers and three classes each (
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — related
 - [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related
 - [Section-count distributions show (S) and (P) checkpoints interleaved throughout the application-heavy phase and across course parts](section-counts-show-interleaved-checkpoints.md) — related
+- [Classroom mathematics practice benefits from spacing and interleaving, and interleaving's benefits can go beyond the spacing it creates](spacing-interleaving-benefits-real-world-mathematics.md) — a broader claim this one bears on

@@ -57,3 +57,5 @@ Theoretical argument in a comment article, citing research on desirable difficul
 - [Lecturing persists for identifiable psychological and practical reasons: it is easy, exploits personal opinion, and satisfies pupils' craving for authority and ready-made knowledge](why-lecturing-persists.md) — related
 - [Addressing did not enhance transfer performance in study 1](addressing-no-transfer-effect.md) — a narrower finding that bears on this claim
 - [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — a narrower finding that bears on this claim
+- [A difficulty is desirable only if the learner has the prior knowledge or skills to respond to it successfully; optimal difficulty varies with prior learning](desirable-difficulties-depend-on-prior-learning.md) — related
+- [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](rapid-performance-gains-fail-long-term-retention.md) — possibly the same claim (merge candidate)

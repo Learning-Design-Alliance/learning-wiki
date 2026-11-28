@@ -58,3 +58,5 @@ Meta-analytic comparison of expanding versus fixed ISI schedules, 22 accuracy co
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — a broader claim this one bears on
+- [The pattern of diminishing returns with increasing criterion level is not attributable to a contracting ISI during practice](diminishing-returns-not-due-to-contracting-isi.md) — related
+- [Expanding inter-study intervals tend to produce better retention than fixed intervals, but conclusions are tentative due to large between-study variability](expanding-versus-fixed-isi-tentative-benefit.md) — possibly the same claim (merge candidate)

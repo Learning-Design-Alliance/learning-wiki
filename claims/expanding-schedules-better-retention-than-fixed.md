@@ -53,3 +53,5 @@ The review-style assertion appears in the Discussion; the article attributes it 
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — a narrower finding that bears on this claim
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — a broader claim this one bears on
+- [Expanding inter-study intervals tend to produce better retention than fixed intervals, but conclusions are tentative due to large between-study variability](expanding-versus-fixed-isi-tentative-benefit.md) — related
+- [Spaced presentations produce better final-test recall than massed presentations, and this spacing benefit is not modulated by retention interval](spacing-beats-massed-recall-regardless-of-retention-interval.md) — a narrower finding that bears on this claim

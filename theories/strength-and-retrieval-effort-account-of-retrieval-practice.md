@@ -18,7 +18,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (12 for, 6 mixed, 2 against) · 19 studies (7 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 7 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (16 for, 6 mixed, 2 against) · 21 studies (8 causal, 6 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 23 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -58,6 +58,10 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [Retrieval practice (testing) often appears no better than restudying in the short term but produces better long-term retention, even without feedback](../claims/testing-effect-learning-performance-dissociation.md) [+W] — attached 2026-11-24 from Nicholas C. Soderstrom et al. (2015), which proposed "Bjork and Bjork's storage strength and retrieval strength theory indexes learning and performance, respectively"; tests this page's relationship.
 - [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](../claims/pretesting-enhances-retention-over-extended-study.md) [+M] — attached 2026-11-26 from Richland et al. (2009), which proposed "Unsuccessful retrieval attempts enhance future learning through retrieval-route strengthening and deep processing mechanisms"; tests this page's relationship.
 - [Attempting to answer pretest questions produces better retention than memorizing the same questions without attempting answers](../claims/attempting-answers-beats-memorizing-questions.md) [+M] — attached 2026-11-26 from Richland et al. (2009), which proposed "Unsuccessful retrieval attempts enhance future learning through retrieval-route strengthening and deep processing mechanisms"; tests this page's relationship.
+- [In the New Theory of Disuse, forgetting (loss of retrieval strength) enhances the gain in storage strength from restudying or retrieving](../claims/forgetting-loss-of-retrieval-strength-enhances-learning.md) [+W] — attached 2026-11-28 from Bjork et al. (2020), which proposed "New Theory of Disuse: memory items have storage strength and retrieval strength that interact asymmetrically"; tests this page's relationship.
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](../claims/longer-isi-between-correct-retrievals-higher-final-recall.md) [+W] — attached 2026-11-28 from Mary A. Pyc (2009), which proposed "Retrieval effort hypothesis"; tests this page's relationship.
+- [First key press latencies confirm that retrieval is more difficult after longer ISIs and becomes less difficult as the number of correct retrievals increases](../claims/latency-confirms-isi-and-criterion-difficulty-assumptions.md) [+W] — attached 2026-11-28 from Mary A. Pyc (2009), which proposed "Retrieval effort hypothesis".
+- [Retrieval difficulty, not criterion level per se, accounts for the memorial benefit of correct retrievals](../claims/retrieval-difficulty-not-criterion-level-drives-benefit.md) [+W] — attached 2026-11-28 from Mary A. Pyc (2009), which proposed "Retrieval effort hypothesis"; tests this page's relationship.
 
 ## The evidence by question
 

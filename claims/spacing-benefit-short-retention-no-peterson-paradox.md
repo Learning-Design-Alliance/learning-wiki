@@ -55,3 +55,4 @@ Meta-analytic comparison collapsing massed-versus-spaced differences over seven 
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — a broader claim this one bears on
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — related
+- [Spaced presentations produce better final-test recall than massed presentations, and this spacing benefit is not modulated by retention interval](spacing-beats-massed-recall-regardless-of-retention-interval.md) — related

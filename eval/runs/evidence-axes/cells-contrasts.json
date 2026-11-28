@@ -135206,5 +135206,9 @@
  "learner-difference\t100% of absences excused\t100% of absences unexcused": {
   "label": "excused absences vs unexcused absences",
   "treatment_is_a": true
+ },
+ "interleaving\tinterleaved mathematics practice\tspacing-only practice": {
+  "label": "interleaved vs spacing-only",
+  "treatment_is_a": true
  }
 }

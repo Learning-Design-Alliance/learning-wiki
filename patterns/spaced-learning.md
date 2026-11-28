@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 99 claims (44 for, 50 mixed, 5 against) · 74 studies (41 causal, 14 review, 7 quant-synthesis, 5 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 16 of 74 report an effect size · 94 claims rest on one study
+> **Evidence** · 100 claims (45 for, 50 mixed, 5 against) · 75 studies (41 causal, 14 review, 7 quant-synthesis, 5 associational, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 16 of 75 report an effect size · 95 claims rest on one study
 
 ## Description
 
@@ -120,6 +120,7 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [Frequent simulation repetition lowers 24-hour sympathetic activity on simulation days: group × time interaction in LF/HF ratio favoring the 9-session group](../claims/repeated-simulation-lowers-24h-sympathetic-activity.md) [+M] — attached 2026-11-08 from Ghazali Daniel Aiham et al. (2019), which proposed "Schedule repeated simulation sessions about every six weeks so trainees habituate and simulation stress ceases to spill into daily life"; tests this page's relationship.
 - [Longer practice gaps reduce recruitment of motor and visual modules, so RAS learning gains deteriorate with irregular practice](../claims/practice-gap-reduces-module-recruitment.md) [+W] — attached 2026-11-09 from Shafiei Somayeh B. et al. (2018), which proposed "Schedule regular, continuous practice in RAS training because brain-function gains deteriorate with long practice gaps"; tests this page's relationship.
 - [Medical students using spaced study followed by quizzing achieved significantly higher recall accuracy than quiz-only students in sessions s1 and s2](../claims/study-quiz-group-higher-recall-accuracy.md) [+W] — attached 2026-11-09 from Taveira-Gomes T et al. (2015), which proposed "Spaced study-quiz cycle with feedback loop between self-assessment and restudy"; tests this page's relationship.
+- [MCM's parameter-free predictions match the peaks of seven spacing functions, with the optimal ISI increasing with the retention interval](../claims/mcm-parameter-free-spacing-function-predictions.md) [+W] — attached 2026-11-28 from Mozer et al. (2008), which proposed "Use empirically measured forgetting functions with MCM to prescribe optimal study schedules for educators"; tests this page's relationship.
 
 ## Elements
 

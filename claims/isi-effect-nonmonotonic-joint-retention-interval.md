@@ -68,3 +68,9 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 - [Retention declined from 1 to 7 days and was significantly better after wider spacing of practice on delayed tests](retention-interval-and-spacing-main-effects.md) — related
 - [Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval](spacing-crossover-interaction-less-forgetting.md) — related
 - [The optimal gap increases as the retention interval increases, but the ratio of optimal gap to retention interval declines](optimal-gap-rises-with-retention-interval-ratio-declines.md) — related
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](longer-isi-between-correct-retrievals-higher-final-recall.md) — related
+- [The model captures nonmonotonic spacing effects, where wider spacing does not always improve later performance](model-captures-nonmonotonic-spacing.md) — related
+- [The lag effect is non-monotonic: beyond an optimal ISI, further increases in ISI reduce final-test accuracy for a given retention interval](non-monotonic-lag-effect-optimal-isi.md) — related
+- [Large Internet-based study (Cepeda et al., 2008) showed nonmonotonic lag functions with the optimal study interval increasing with retention interval](nonmonotonic-lag-functions-cepeda-2008.md) — related
+- [Spaced presentations produce better final-test recall than massed presentations, and this spacing benefit is not modulated by retention interval](spacing-beats-massed-recall-regardless-of-retention-interval.md) — related
+- [Even with relaxed monotonic response assumptions, generalized SST cannot produce nonmonotonic lag functions](sst-cannot-produce-nonmonotonic-lag-functions.md) — reports the opposite

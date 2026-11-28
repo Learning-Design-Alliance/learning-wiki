@@ -61,3 +61,4 @@ The review reports that Maskarinec and Thompson (1976, Experiment 2) and Shaughn
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — related
 - [Game accuracy increases across sessions only in the encoding phase of the word-object task, and encoding accuracy exceeds recognition accuracy](encoding-accuracy-exceeds-recognition-across-sessions.md) — related
 - [Differing presentations varying verbalization from low to high may be somewhat superior to repeating the same presentation](differing-presentations-low-to-high-verbalization.md) — related
+- [Meta-analysis of 829 conditions from 72 articles shows spaced repetitions increasingly exceed the independence baseline as lag grows](superadditivity-ubiquitous-meta-analysis.md) — related

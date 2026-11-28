@@ -49,3 +49,4 @@ Simulation analysis (Appendix A) generating samples from one-, two-, and three-s
 - [Hidden Markov modeling of practice latencies favors a three-learning-state model with within-state speedup](hmm-three-learning-states-best-fit.md) — a narrower finding that bears on this claim
 - [The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number](bkt-hmm-form-is-three-parameter-exponential.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
+- [The four best-fitting retention functions are difficult to distinguish with available data, and the same set of four fits most data sets except autobiographical memory](retention-functions-indistinguishable-autobiographical-exception.md) — related

@@ -49,3 +49,4 @@ Re-estimation of teacher value added after applying mild nonlinear transformatio
 - [Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers](value-added-rankings-robust-to-eiv-correction.md) — related
 - [Teacher value-added estimates are sensitive to the test scale on which they are computed](value-added-sensitive-to-test-scale.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
+- [Fitting retention functions to untransformed versus transformed data changes the r2 values but not the rank ordering of the four common functions](untransformed-fits-preserve-function-ranking.md) — related

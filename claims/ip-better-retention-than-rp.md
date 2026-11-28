@@ -57,3 +57,4 @@ In the randomized three-group experiment, the 2 (Group: IP-Sham, RP-Sham) × 3 (
 - [Forgetting after repetitive practice is extremely rapid, appearing within roughly 3–5 minutes after training ends](rapid-forgetting-after-repetitive-practice.md) — related
 - [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related
 - [Varying conditions of practice can induce more errors during acquisition yet improve long-term retention and transfer of motor and verbal skills](variable-practice-learning-performance-dissociation.md) — related
+- [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](rapid-performance-gains-fail-long-term-retention.md) — a broader claim this one bears on

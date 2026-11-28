@@ -112,3 +112,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Adaptive assessment services adjust task difficulty based on the learner's response to the previous task](adaptive-assessment-adjusts-difficulty-to-previous-response.md) — related
 - [Attempting to answer pretest questions produces better retention than memorizing the same questions without attempting answers](attempting-answers-beats-memorizing-questions.md) — a narrower finding that bears on this claim
 - [Pretesting before study enhances posttest recall of tested content compared to extended study time, even when pretest answers are unsuccessful](pretesting-enhances-retention-over-extended-study.md) — related
+- [A difficulty is desirable only if the learner has the prior knowledge or skills to respond to it successfully; optimal difficulty varies with prior learning](desirable-difficulties-depend-on-prior-learning.md) — a broader claim this one bears on

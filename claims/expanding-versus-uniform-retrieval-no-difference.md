@@ -56,3 +56,4 @@ Meta-analysis (subset 2) aggregating 54 effect sizes from studies comparing expa
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — reports the opposite
 - Expanding retrieval practice intervals yield significantly greater recall than steady intervals, and retrieval practice doubles performance over no-retrieval controls — reports the opposite
+- [Expanding inter-study intervals tend to produce better retention than fixed intervals, but conclusions are tentative due to large between-study variability](expanding-versus-fixed-isi-tentative-benefit.md) — reports the opposite

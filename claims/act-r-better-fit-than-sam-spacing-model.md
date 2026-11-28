@@ -49,3 +49,4 @@ Numerical model comparison (minimized χ2 statistic on condition means) in which
 ## Related Claims
 - [Deficient-processing and all-or-none theories of spacing are challenged by the long-interval data, and simulations of ACT-R and SAM models could not fit the ridgeline of optimal retention](spacing-theories-constrained-by-long-interval-data.md) — related
 - [Retention declined from 1 to 7 days and was significantly better after wider spacing of practice on delayed tests](retention-interval-and-spacing-main-effects.md) — related
+- [The activation-based ACT–R model closely mirrors the experiment's data and fits better than the Raaijmakers SAM model on the restricted data set](actr-model-fits-experiment-better-than-sam.md) — possibly the same claim (merge candidate)

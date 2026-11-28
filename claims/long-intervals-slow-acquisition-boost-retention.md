@@ -51,3 +51,5 @@ Results of the longitudinal retention testing at 1, 2, 3, and 5 years for the si
 - [The spacing benefit extends to words not mastered at the end of training](spacing-benefit-for-unmastered-words.md) — related
 - [A trade-off links intersession interval and word difficulty: words learned in one or two presentations with a zero interval are recalled about as often as words learned in seven or more presentations with a 30-day interval](tradeoff-interval-by-word-difficulty-8-year-recall.md) — related
 - [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related
+- [The model captures Bahrick's crossover interaction between spacing and 30-day retention in Spanish–English vocabulary data](model-captures-bahrick-crossover.md) — related
+- [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](rapid-performance-gains-fail-long-term-retention.md) — a broader claim this one bears on

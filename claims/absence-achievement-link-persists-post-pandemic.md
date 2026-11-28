@@ -70,3 +70,4 @@ Figure 3 descriptive analysis of average test scores by absence rate for sixth a
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)](post-pandemic-k2-scores-still-predict-third-grade-outcomes.md) — related
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
+- [Among students who stayed at the same residence while matriculating from elementary to middle school, the positive attendance-GPA effect remains positive and significant under IV](attendance-gpa-robust-same-residence-subsample.md) — related

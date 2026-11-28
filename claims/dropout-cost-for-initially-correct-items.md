@@ -68,3 +68,4 @@ Experiment 1 conditional analyses (Table 1): 23-drop and 5-drop-after-2 groups, 
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — related
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related
 - [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](short-isi-dropout-lower-performance.md) — related
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](longer-isi-between-correct-retrievals-higher-final-recall.md) — related

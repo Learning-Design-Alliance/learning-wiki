@@ -51,3 +51,4 @@ A theoretical argument in the general discussion: because first-graders rehearse
 - [Preschoolers' recall of repeated items exceeds the maximum predicted by encoding variability theories assuming independent encodings](preschoolers-recall-exceeds-encoding-variability-prediction.md) — related
 - [Grade level and repetition spacing interact significantly in children's free recall](grade-by-spacing-interaction-free-recall.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [Whether children's learning profits from spaced versus massed study is predicted to depend on rapidly developing individual differences, so early-education spacing research must account for them](spacing-effect-children-individual-differences.md) — related

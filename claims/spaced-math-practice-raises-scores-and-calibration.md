@@ -54,3 +54,4 @@ The overconfidence finding matters for design because learners who mass their pr
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced E-learning produced higher BLS knowledge scores than massed E-learning at immediate, two-week and one-month post-tests in nursing students](spaced-elearning-higher-bls-knowledge-than-massed.md) — related
+- [Whether children's learning profits from spaced versus massed study is predicted to depend on rapidly developing individual differences, so early-education spacing research must account for them](spacing-effect-children-individual-differences.md) — related

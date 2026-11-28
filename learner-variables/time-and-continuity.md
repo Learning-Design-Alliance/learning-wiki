@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 295 claims (188 show a difference, 70 mixed, 37 no difference) · 250 studies (117 causal, 63 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 5 theoretical), `q1`–`q4` · 46 of 250 report an effect size · 291 claims rest on one study
+> **Evidence** · 296 claims (189 show a difference, 70 mixed, 37 no difference) · 251 studies (117 causal, 63 associational, 24 review, 16 quant-synthesis, 14 design, 11 qualitative, 6 theoretical), `q1`–`q4` · 46 of 251 report an effect size · 292 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -352,6 +352,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [A 15-second time-out period prior to an interruption removes the disruptive effect of interruptions on reading comprehension](../claims/time-out-before-interruption-prevents-comprehension-disruption.md) [+M] — an instructional effect differs with it
 - [Interruptions disrupt reading comprehension but not recognition of information from the text](../claims/interruptions-disrupt-comprehension-not-recognition.md) [~M] — learners who differ on it differ in outcomes
 - [Interruptions during reading disrupt reading comprehension when questions require connecting and synthesizing information across the passage](../claims/interruptions-disrupt-reading-comprehension.md) [~M] — learners who differ on it differ in outcomes
+- [In the New Theory of Disuse, forgetting (loss of retrieval strength) enhances the gain in storage strength from restudying or retrieving](../claims/forgetting-loss-of-retrieval-strength-enhances-learning.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 

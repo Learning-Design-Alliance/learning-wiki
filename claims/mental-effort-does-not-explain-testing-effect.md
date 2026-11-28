@@ -69,3 +69,4 @@ Experiment 2 paired-samples comparison of Paas 9-point mental effort ratings fou
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](oral-explaining-higher-effort-difficulty-than-retrieval.md) — related
+- [Retrieval difficulty, not criterion level per se, accounts for the memorial benefit of correct retrievals](retrieval-difficulty-not-criterion-level-drives-benefit.md) — related

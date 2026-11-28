@@ -45,4 +45,4 @@ The review's synthesis of metacognition research, stated in the abstract as a su
 
 
 ## Related Claims
--
+- [Interpreting current performance as a valid measure of learning leads learners and teachers to misjudge learning and prefer poorer conditions of learning](current-performance-misjudged-as-learning.md) — possibly the same claim (merge candidate)

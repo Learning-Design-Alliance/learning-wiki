@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5854 entries** · 0 stable · 5854 in review · 0 drafts
+**5855 entries** · 0 stable · 5855 in review · 0 drafts
 
 ---
 
@@ -347,6 +347,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Aspiring to Educate](aspiring-to-educate.md) - A Pennsylvania state-supported programme that creates multiple pathways into teaching through preparation partnerships and financial supports for high school students, adults, paraprofessionals, and college students.
 * [ASRA-ESRA UGRA competency framework](asra-esra-ugra-competency-framework.md) - A regional anesthesia competency framework developed by the ASRA-ESRA joint committee, defining six UGRA training domains and milestone-based assessment expectations for anesthesiology residents and fellows.
 * [ASReview](asreview.md) - ASReview is an open-source machine-learning platform developed for efficient abstract screening in systematic reviews by iteratively prioritizing records for reviewer classification.
+* [Assembled public database of 210 published retention data sets fit with 105 two-parameter functions](assembled-public-database-of-210-published-retention-data-sets-fit-with-105-two-parameter.md) - A computer-readable database assembled by Amy E.
 * [Assessing Competency in Evidence-Based Medicine (ACE) tool](assessing-competency-in-evidence-based-medicine-ace-tool.md) - A clinical-scenario-based assessment developed by Ilic et al.
 * [Assessmake21](assessmake21.md) - Assessmake21 is a web-based digital self-assessment tool developed by Ourania Miliou and colleagues to help K–12 learners identify, reflect on, and document 21st-century skills during makerspace activities.
 * [Assessment and AI Vulnerability Decision-Making Guide for Nursing](assessment-and-ai-vulnerability-decision-making-guide-for-nursing.md) - A nursing-education guide developed by McCusker and colleagues that scores assessment vulnerability to generative AI and directs faculty toward targeted assessment improvements.
