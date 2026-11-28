@@ -49,3 +49,4 @@ Descriptive analysis of the Colorado dataset's client-level distribution (Figure
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
 - [Latent transfer-learned features yield better overall mind wandering detection than explicit OpenFace features, and temporal models add a small improvement, especially cross-dataset](latent-features-beat-explicit-features-overall.md) — related
 - [Transfer-learned latent facial features support above-chance video-based mind wandering detection within a lab reading dataset, with LSTM reaching F1 = 0.459](latent-features-within-lab-mind-wandering-detection.md) — related
+- [Low working memory span individuals are more prone to mind-wandering, but only on tasks they want to attend to](low-span-mind-wandering-goal-relevant-tasks.md) — related

@@ -57,3 +57,5 @@ The abstract reports results of prior intent-to-treat analyses of the HSIS rando
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [The HSIS randomly assigned 2,559 3-year-olds and 2,108 4-year-olds from 84 grantee/delegate agencies to Head Start access or a control condition](hsis-random-assignment-2559-and-2108-children.md) — related
+- [The academic achievement advantage of full-day kindergarten fades out and is no longer apparent by third grade](fdk-achievement-fadeout-by-third-grade.md) — related
+- [Prior observational studies find full-day kindergarten literacy advantages that fail to persist beyond the kindergarten year](observational-full-day-advantages-fade-first-grade.md) — related

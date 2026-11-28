@@ -59,3 +59,4 @@ The paper's analysis of empirical Bayes shrinkage applied to teacher value-added
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](findings-robust-to-omitting-eb-shrinkage.md) — related
 - The paper compares the reliability of value-added measures of teacher performance with standards for evaluations in other fields — related
 - [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related
+- [Studies evaluating workforce decisions consistently show that using teacher value-added information improves student achievement relative to not using it](using-vam-information-improves-achievement.md) — related

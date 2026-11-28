@@ -123,3 +123,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Chess masters' advantage lies in rapidly encoding board structure and chunks, not in superior general memory or deeper search](chess-masters-encode-chunks-not-deeper-search.md) — a narrower finding that bears on this claim
 - [Experts' superior memory for domain materials disappears when the materials are randomly rearranged](expert-memory-advantage-disappears-random-arrangement.md) — a narrower finding that bears on this claim
 - [Mental computation via repeated chunked additions becomes grossly inefficient with large numbers, so informal routines cannot replace school computation](street-math-mental-computation-limits.md) — a narrower finding that bears on this claim
+- [Adults typically retain only about 3 or 4 pre-existing chunks in working memory when chunking and covert verbal rehearsal cannot help](adult-working-memory-limit-three-to-four-chunks.md) — related

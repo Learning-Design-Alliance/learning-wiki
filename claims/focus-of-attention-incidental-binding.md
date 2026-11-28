@@ -50,3 +50,4 @@ The review reports an incidental task experiment by Cowan, Donnell, and Saults i
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on
 - [Items are more likely to be learned in shorter lists: 75% correct in a five-item list versus 59% in a ten-item list](list-length-effect-five-versus-ten-item-lists.md) — related
+- [Incidental association formation occurs between items concurrently in the focus of attention, better for short than long lists](focus-of-attention-binding-incidental-learning.md) — possibly the same claim (merge candidate)

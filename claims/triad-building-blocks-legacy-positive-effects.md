@@ -54,3 +54,4 @@ Legacy results from the authors' earlier evaluations of the same intervention (c
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
 - [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](ubc-no-significant-child-outcomes.md) — related
 - [The TRIAD preschool math intervention produced a large end-of-pre-K impact (.63 SD) and significant impacts on all four REMA subdomains](triad-large-initial-impacts-four-subdomains.md) — related
+- [In the project's earlier reported years, TRIAD students learned more mathematics than controls in pre-K (g = .72) and follow-through students outperformed controls in kindergarten (ITT g = .33)](triad-prek-kindergarten-effects-prior-years.md) — related

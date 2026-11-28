@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 275 claims (196 show a difference, 46 mixed, 33 no difference) · 199 studies (71 causal, 48 associational, 39 review, 14 quant-synthesis, 12 qualitative, 12 theoretical, 3 design), `q1`–`q4` · 36 of 199 report an effect size · 266 claims rest on one study
+> **Evidence** · 276 claims (197 show a difference, 46 mixed, 33 no difference) · 200 studies (72 causal, 48 associational, 39 review, 14 quant-synthesis, 12 qualitative, 12 theoretical, 3 design), `q1`–`q4` · 36 of 200 report an effect size · 267 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -324,6 +324,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The article claims methodical preparation should build teachers' abilities to set educational goals, analyze teaching kits, and design lesson models](../claims/methodical-preparation-teacher-abilities-goals-kits-lessons.md) [+W] — measured as an outcome of the instruction studied
 - [Incentivized students' improvement is specific to problems they self-diagnosed and corrected, not a general improvement in self-monitoring skills](../claims/incentive-improvement-limited-to-diagnosed-problems.md) [-W] — measured as an outcome of the instruction studied
 - [Reported strategy use shifts from calculation and partial strategies toward retrieval with practice on trained problems](../claims/strategy-reports-shift-to-retrieval-with-practice.md) [+M] — measured as an outcome of the instruction studied
+- [The prekindergarten program produced small impacts on children's executive functioning and a measure of emotion recognition](../claims/prek-small-impacts-executive-function-emotion-recognition.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

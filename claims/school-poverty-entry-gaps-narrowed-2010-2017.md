@@ -84,3 +84,4 @@ The abstract of the national trend analysis reports decreased school-entry inequ
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
 - [Despite gains, participating students still scored significantly lower than non-participants, and the inequality between the groups was slightly reduced](participants-still-lower-inequality-reduced.md) — related
+- [Poor students receive no greater benefit from full-day kindergarten than non-poor students](full-day-kindergarten-no-extra-benefit-poor-students.md) — related

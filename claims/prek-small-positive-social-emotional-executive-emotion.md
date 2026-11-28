@@ -69,3 +69,4 @@ The summary reports, citing Gormley et al. (2011) and Weiland and Yoshikawa (201
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](lower-pretest-skills-greater-gains-moderators-null.md) — related
 - [Quality of teacher-child interactions and teachers' feedback in pre-kindergarten classrooms is associated with children's academic, language, and social outcomes](teacher-child-interaction-quality-associated-with-prek-outcomes.md) — related
+- [The prekindergarten program produced small impacts on children's executive functioning and a measure of emotion recognition](prek-small-impacts-executive-function-emotion-recognition.md) — related

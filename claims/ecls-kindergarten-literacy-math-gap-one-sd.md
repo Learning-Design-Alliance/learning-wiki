@@ -60,3 +60,4 @@ The brief reports this ECLS-K finding, citing Zill & West (2001), as background 
 - [Low school entry academic skills and low socioeconomic position each roughly triple the risk of poor educational achievement at ages 15–16](low-school-entry-scores-triple-poor-achievement-risk.md) — related
 - [Students entered Dynamics with poor background knowledge and skills despite prior Statics](poor-dynamics-background-readiness-test.md) — related
 - [On the ECLS-K ability scale, poor–nonpoor gaps shrank by roughly one-quarter in reading and math from first through eighth grade](ecls-k-ability-scale-poor-nonpoor-gaps-shrank.md) — related
+- [Students entering kindergarten with low literacy skills experience particularly large gains from full-day kindergarten](full-day-kindergarten-low-literacy-entrants-large-gains.md) — related

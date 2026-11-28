@@ -46,3 +46,4 @@ The report's Washington case study summary attributes this finding to an evaluat
 
 ## Related Claims
 - [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](standardized-tests-problematic-young-children-outcomes.md) — related
+- [For the early cohort of Tulsa pre-K participants, there is no evidence that early gains persist through third grade](tulsa-prek-early-cohort-no-persistence.md) — reports the opposite

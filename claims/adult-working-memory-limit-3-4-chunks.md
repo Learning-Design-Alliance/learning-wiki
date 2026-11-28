@@ -48,3 +48,4 @@ The review reports that Jevons' 1871 self-experiment on estimating beans without
 ## Related Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — reports the opposite
+- [Adults typically retain only about 3 or 4 pre-existing chunks in working memory when chunking and covert verbal rehearsal cannot help](adult-working-memory-limit-three-to-four-chunks.md) — possibly the same claim (merge candidate)

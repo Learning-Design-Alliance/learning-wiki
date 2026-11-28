@@ -83,3 +83,4 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](video-based-climate-program-large-effects-students.md) — related
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related
 - [Educational interventions including reflective learning, peer counselling and attribution training can improve nursing students' professional self-concept](self-concept-interventions-effective.md) — related
+- [Evidence on child independence is inconclusive: positive under fixed-effect but not random-effect assumptions](fdk-child-independence-inconclusive.md) — related

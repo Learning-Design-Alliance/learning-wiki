@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 224 claims (179 show a difference, 31 mixed, 14 no difference) · 193 studies (73 causal, 30 review, 28 qualitative, 22 associational, 20 design, 12 quant-synthesis, 8 theoretical), `q1`–`q3` · 20 of 193 report an effect size · 224 claims rest on one study
+> **Evidence** · 225 claims (180 show a difference, 31 mixed, 14 no difference) · 194 studies (73 causal, 30 review, 28 qualitative, 22 associational, 20 design, 13 quant-synthesis, 8 theoretical), `q1`–`q3` · 21 of 194 report an effect size · 225 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -266,6 +266,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students in the argumentation intervention produced a significantly higher proportion of argumentative utterances per minute of group work and devoted significantly more time to group work than control students](../claims/intervention-more-argumentative-utterances.md) [+M] — measured as an outcome of the instruction studied
 - [The proportional frequency of individual argumentative utterances during group work predicted delayed content knowledge scores, even when controlling for pre-test scores and total time devoted to group work](../claims/argumentation-frequency-predicts-delayed-dck.md) [+M] — learners who differ on it differ in outcomes
 - [Students who copied others' work or did not contribute to group discussion obtained high group scores but low individual test scores](../claims/copiers-and-noncontributors-low-individual-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Full-day kindergarten shows a positive association with children's ability to work and play with others (d ≈ 0.55–0.67)](../claims/fdk-work-play-with-others-positive-association.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

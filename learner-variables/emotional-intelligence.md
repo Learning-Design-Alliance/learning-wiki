@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (100 show a difference, 24 mixed, 18 no difference) · 87 studies (29 associational, 28 causal, 16 review, 10 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 25 of 87 report an effect size · 141 claims rest on one study
+> **Evidence** · 143 claims (101 show a difference, 24 mixed, 18 no difference) · 88 studies (29 causal, 29 associational, 16 review, 10 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 25 of 88 report an effect size · 142 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -178,6 +178,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](../claims/dpcc-ms-mmi-convergent-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](../claims/paths-primary-effect-teacher-rated-secchi.md) [+M] — measured as an outcome of the instruction studied
 - [AAM-TSA improves recognition across all eight emotion categories, including teacher-specific emotions, over the strongest baseline](../claims/aam-tsa-fine-grained-eight-emotion-gains.md) [+M] — measured as an outcome of the instruction studied
+- [The prekindergarten program produced small impacts on children's executive functioning and a measure of emotion recognition](../claims/prek-small-impacts-executive-function-emotion-recognition.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

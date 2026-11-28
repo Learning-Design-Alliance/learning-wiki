@@ -53,3 +53,4 @@ Cost-effectiveness analysis computed from the ingredients-method cost estimate a
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](tft-student-long-term-outcome-goal.md) — related
 - [Air Reading cost approximately $1,700 per pupil to society and $1,500 to schools, with 7.5-11.9 tutoring hours needed per month of learning gained](air-reading-cost-efficiency-estimates.md) — related
 - [The 3-hour difficult airway management simulation program cost an estimated 17,892€ overall, approximately 406€ per resident](dam-simulation-program-cost-406-euros-per-resident.md) — related
+- [Cost-effectiveness of full-day kindergarten ranges from 0.07 to 0.20 standard deviations per thousand dollars of spending](full-day-kindergarten-cost-effectiveness-0-07-0-20sd-per-thousand.md) — related

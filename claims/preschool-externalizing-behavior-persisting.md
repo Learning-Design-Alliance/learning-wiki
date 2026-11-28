@@ -47,3 +47,4 @@ In the same matched-sample path models of the ECLS-K 1998 cohort, teacher-report
 ## Related Claims
 - [Preschool attendees exhibit less optimal social skills at kindergarten entry, persisting through first grade only](preschool-social-skills-deficit-first-grade.md) — related
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
+- [Full-day kindergarten attendance significantly predicts more frequent external behavior problems in kindergarten, with no effect on internal behavior problems](full-day-kindergarten-external-behavior-problems.md) — related

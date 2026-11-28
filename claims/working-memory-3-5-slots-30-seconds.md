@@ -52,3 +52,4 @@ The review reports, citing cognitive research summaries, the two quantified limi
 - [Cognitive Load Theory has traditionally used slot-based working memory capacity models](clt-traditionally-used-slot-models.md) — a broader claim this one bears on
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related
 - [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](organized-knowledge-enhances-functional-intelligence.md) — related
+- [Adults typically retain only about 3 or 4 pre-existing chunks in working memory when chunking and covert verbal rehearsal cannot help](adult-working-memory-limit-three-to-four-chunks.md) — related

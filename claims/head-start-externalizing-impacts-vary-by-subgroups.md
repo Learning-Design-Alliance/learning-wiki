@@ -50,3 +50,4 @@ Subgroup analyses of externalizing behavior (parent-reported Child Behavior Chec
 - [Head Start impacts on receptive vocabulary and early numeracy were statistically significantly larger among Hispanic students](head-start-larger-impacts-hispanic-children.md) — related
 - [The effect of the offer of Head Start differs by the alternative child care type a child would otherwise receive](head-start-effect-varies-by-alternative-care-type.md) — related
 - [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](head-start-reduced-residual-variance-vocabulary-numeracy.md) — related
+- [Some prekindergarten impacts were considerably larger for some child subgroups](prek-impacts-larger-for-some-subgroups.md) — related

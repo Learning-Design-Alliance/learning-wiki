@@ -53,3 +53,4 @@ Simulation and theoretical results reported by the authors demonstrating the tes
 - [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — a broader claim this one bears on
 - [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — possibly the same claim (merge candidate)
+- [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](vam-strong-designs-little-bias.md) — related

@@ -55,3 +55,4 @@ Theoretical illustration plus simulation study by the authors showing conditions
 - [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim
 - [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — a narrower finding that bears on this claim
 - [Under time-varying treatment-confounder feedback, outcome regression is biased while IPTW yields unbiased estimates](iptw-unbiased-under-treatment-confounder-feedback.md) — related
+- [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](vam-strong-designs-little-bias.md) — related

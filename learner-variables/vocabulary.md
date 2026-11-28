@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (170 show a difference, 30 mixed, 29 no difference) · 152 studies (89 causal, 32 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 152 report an effect size · 226 claims rest on one study
+> **Evidence** · 230 claims (170 show a difference, 31 mixed, 29 no difference) · 153 studies (90 causal, 32 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 153 report an effect size · 227 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -270,6 +270,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Executive functions partially mediate the relationship between cardiorespiratory fitness and grammar, spelling, and vocabulary grades](../claims/ef-mediate-crf-gsv-grades.md) [~M] — measured as an outcome of the instruction studied
 - [Classroom exposure to Thinking Science interventions changed pre-service teachers' classroom behavior, with lesson vocabulary spreading and discussions deepening](../claims/thinking-science-classroom-behavior-changes.md) [+W] — measured as an outcome of the instruction studied
 - [Higher vocabulary predicts larger subsequent gains in reasoning, replicating the relative dominance of vocabulary in driving reasoning development](../claims/vocabulary-drives-reasoning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [State pre-K participation yielded significant standardized receptive vocabulary impacts only in New Jersey and Oklahoma, with two of the three other state coefficients positive](../claims/state-prek-receptive-vocabulary-impacts-nj-ok.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

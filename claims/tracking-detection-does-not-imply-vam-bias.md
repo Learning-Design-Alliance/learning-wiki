@@ -59,3 +59,4 @@ Theoretical and simulation analysis reported by the authors, showing that the te
 - [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim
 - [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
 - [A fictional-news correlation activity helped high-school physics students understand that correlation does not necessarily imply causation](fictional-news-correlation-activity-causation-understanding.md) — related
+- [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](vam-strong-designs-little-bias.md) — related

@@ -51,3 +51,4 @@ The review reports Kane and Engle's Stroop experiment, in which mostly matching 
 - [Interference control declines with increasing age and increasing Stroop task difficulty in speed, consistency and accuracy](interference-control-declines-age-task-difficulty.md) — related
 - [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — related
 - [Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability](adhd-cognitive-deficits-children-adults.md) — related
+- [Low working memory span individuals are more prone to mind-wandering, but only on tasks they want to attend to](low-span-mind-wandering-goal-relevant-tasks.md) — possibly the same claim (merge candidate)

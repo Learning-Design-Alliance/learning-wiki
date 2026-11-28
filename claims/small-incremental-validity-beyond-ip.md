@@ -51,3 +51,4 @@ Meta-analytic covariate-combination results from the German samples quantify inc
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
 - [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](cps-predicts-gpa-beyond-g.md) — a narrower finding that bears on this claim
 - [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](prior-knowledge-predicts-outcomes-not-gains.md) — related
+- [Pretest scores used as covariates typically explain over three quarters of between-school variance and over one half of within-school variance in all and low-SES schools, but somewhat less in low-achievement schools.](pretest-covariates-explain-school-variance.md) — related

@@ -51,3 +51,4 @@ Cluster-randomized TRIAD evaluation; end-of-preschool knowledge was assessed wit
 - [The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through](triad-building-blocks-legacy-positive-effects.md) — related
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — related
+- [In the project's earlier reported years, TRIAD students learned more mathematics than controls in pre-K (g = .72) and follow-through students outperformed controls in kindergarten (ITT g = .33)](triad-prek-kindergarten-effects-prior-years.md) — related

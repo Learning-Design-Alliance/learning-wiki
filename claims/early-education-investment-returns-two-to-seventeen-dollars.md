@@ -54,3 +54,4 @@ The brief reports this economic return range alongside a review of current resea
 - [A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value](pef-benefit-cost-analysis-economic-value.md) — a narrower finding that bears on this claim
 - [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — a narrower finding that bears on this claim
 - [Early investment in disadvantaged children shows high economic returns, but its effects fade if not followed up by later investment](early-investment-high-returns-requires-followup.md) — related
+- [Positive effects of early childhood programs held for both high- and low-poverty families, suggesting spillover to nonparticipating peers](positive-effects-high-low-poverty-spillover.md) — related
