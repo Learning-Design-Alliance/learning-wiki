@@ -1,0 +1,173 @@
+# von Davier et al. (2024): TIMSS 2023 International Results in Mathematics and
+# Science, grade-4 mathematics achievement page (Exhibit 1.1.1). Grey literature:
+# a report of the TIMSS & PIRLS International Study Center, not a journal article.
+#
+# IEA's terms prohibit reproducing or redistributing the results without
+# written permission, so Exhibit 1.1.1 itself is NOT recorded: no country row,
+# no mean, SD or percentile from the table appears here. What is recorded is a
+# handful of figures the report page prints in its own prose: how many
+# countries the exhibit covers, and the scale convention (centrepoint 500,
+# 100 points to one standard deviation) that gives every figure in the table
+# its meaning.
+#
+# The country figures, including the United States' grade-4 mean and SD and the
+# international average, are printed only in the interactive table, which the
+# page builds in the browser from its xlsx file (and in the exhibit's PDF and PNG
+# downloads). The saved HTML carries none of them as text, so they are listed in
+# not_yet_extracted rather than read from the spreadsheet.
+#
+# Quotes are verbatim from the HTML of
+# https://timss2023.org/results/grade-4-math-achievement/ (a saved copy, tags
+# stripped, whitespace normalised).
+
+schema_version: 2
+
+study:
+  key: von-davier-2024-timss
+  citation: "von Davier, M., Kennedy, A., Reynolds, K., Fishbein, B., Khorramdel, L., Aldrich, C., Bookbinder, A., Bezirhan, U., & Yin, L. (2024). TIMSS 2023 International Results in Mathematics and Science. Boston College, TIMSS & PIRLS International Study Center."
+  doi: "10.6017/lse.tpisc.timss.rs6460"
+  design:
+    family: observational
+    design_detail: >-
+      International large-scale assessment report. Cross-sectional: in each
+      participating country a sample of fourth-grade students in a subset of
+      classrooms within a sample of schools took a fully digital mathematics
+      assessment (187 items in 14 blocks, balanced incomplete block design with
+      adaptive booklet rotation), and achievement was placed on the TIMSS
+      fourth-grade mathematics scale established in 1995. No intervention and
+      no comparison of configurations.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-27
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: other
+  size:
+    value: 58
+    unit: other
+  additional_sizes:
+    - value: 5
+      unit: other
+      note: "benchmarking participants (sub-national entities) reported on the same scale beside the 58 countries"
+    - value: 187
+      unit: items
+      note: "items in the fourth-grade mathematics assessment, in 14 item blocks"
+  population:
+    description: >-
+      Fourth-grade students in the 58 countries participating in TIMSS 2023
+      (and 5 benchmarking entities), sampled by classroom within schools.
+    age_or_stage: "Fourth grade; the page prints no age figure."
+    age: unreported
+  context:
+    setting: "TIMSS 2023, fourth-grade mathematics, delivered fully digitally"
+  arms: []
+
+comparisons:
+  - id: whole-assessment
+    kind: none
+    description: "Facts about the assessment and its reporting scale across all participants; no contrast between groups."
+
+observations:
+
+  - id: participating-countries
+    comparison_ref: whole-assessment
+    outcome:
+      construct: "Countries reported"
+      source_language: "all 58 countries and 5 benchmarking participants"
+      measure: "Number of participating countries whose grade-4 mathematics results are reported on the TIMSS fourth-grade scale"
+      scale: "count of countries"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "TIMSS 2023 cycle"
+    result:
+      measure_type: count
+      estimate: 58
+      unit: "countries (benchmarking participants excluded; 5 more are reported beside them)"
+      note: "The exhibit's international average is based on these 58 countries, each contributing equally."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Consequently, the TIMSS 2023 mathematics achievement results for all 58 countries and 5 benchmarking participants are reported on the same TIMSS fourth-grade mathematics scale."
+    source_location: "https://timss2023.org/results/grade-4-math-achievement/ (introduction to Exhibit 1.1.1)"
+
+  - id: scale-centrepoint
+    comparison_ref: whole-assessment
+    outcome:
+      construct: "Reporting-scale origin"
+      source_language: "A centerpoint of 500"
+      measure: "TIMSS fourth-grade mathematics scale: the score set to the mean of the combined 1995 achievement distribution"
+      scale: "TIMSS scale score points"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "set in TIMSS 1995; 2023 results placed on the same scale"
+    result:
+      measure_type: other
+      estimate: 500
+      unit: "TIMSS scale score points"
+      interpretation: >-
+        A scale convention, not a 2023 measurement: 500 is the mean of the
+        combined 1995 distribution, all participating countries weighted
+        equally. It is not the TIMSS 2023 international average, which the
+        exhibit prints separately.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "A centerpoint of 500 was set to correspond to the mean of overall achievement in 1995, with 100 points set to correspond to the standard deviation."
+    source_location: "https://timss2023.org/results/grade-4-math-achievement/ (introduction to Exhibit 1.1.1; restated in the exhibit's note)"
+
+  - id: scale-standard-deviation
+    comparison_ref: whole-assessment
+    outcome:
+      construct: "Reporting-scale unit"
+      source_language: "100 points set to correspond to the standard deviation"
+      measure: "TIMSS fourth-grade mathematics scale: the number of points set to one standard deviation of the combined 1995 achievement distribution"
+      scale: "TIMSS scale score points"
+      direction: contextual
+      role: other
+      role_basis: ambiguous
+      valued_by: []
+    time:
+      label: "set in TIMSS 1995; 2023 results placed on the same scale"
+    result:
+      measure_type: other
+      estimate: 100
+      unit: "TIMSS scale score points per standard deviation of the 1995 combined distribution"
+      interpretation: >-
+        A scale convention, not a 2023 measurement. A country's 2023 SD on this
+        scale (printed per country in Exhibit 1.1.1) is read against it: an SD
+        below 100 is a narrower spread than the 1995 combined distribution.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "The units of the scale were chosen so that 100 scale score points corresponded to the standard deviation of the combined achievement distribution."
+    source_location: "https://timss2023.org/results/grade-4-math-achievement/ (note under Exhibit 1.1.1)"
+
+not_yet_extracted:
+  - "The United States' grade-4 mathematics mean, SD and their standard errors, every other country's row, and the international average of the 58 countries: printed only in Exhibit 1.1.1's interactive table (built in the browser from 1-1-1_ach-g4m-dist.xlsx) and its PDF and PNG downloads, none read here. IEA's terms forbid redistributing the table in any case, so at most the US row and the international average would be recorded."
+  - "Population coverage and sampling participation notes (Appendices B.2 and B.5) and the reliability of the achievement scale (TIMSS 2023 methods documentation): not on this page."
+  - "The example on the page that Korea's average is 594 with a 95% confidence interval of 589 to 600: printed in prose, not recorded because nothing here uses it and it is one row of the table."

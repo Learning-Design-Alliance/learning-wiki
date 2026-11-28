@@ -127,7 +127,7 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 | [H. Chad Lane 2026](https://doi.org/10.1007/978-3-032-29791-4_38) | q2 · theoretical · r3 | i? | [AI assistance reduces persistence: persistence costs concentrate among learners who used A](ai-assistance-persistence-costs-direct-solutions.md) (supports); [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to](hint-not-solution-most-challenging-dimension.md) (qualifies) |
 | [hints-1](https://doi.org/10.48550/arxiv.2605.17857) | q2 · design · r? | i? | [K-12 learners preferred incremental hints and multiple attempts over immediately revealed ](learners-prefer-incremental-hints-over-solutions.md) (supports) |
 | [Azimi 2026](https://doi.org/10.48550/arxiv.2609.16784) | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (qualifies) |
-| Kai 2018 | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (qualifies) |
+| [Kai 2018](https://doi.org/10.5281/zenodo.3344810) | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

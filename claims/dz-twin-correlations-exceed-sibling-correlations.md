@@ -51,3 +51,4 @@ Comparative re-analysis presented in Table 2, compiling sibling and DZ twin corr
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related
 - In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
+- [Being in a household with siblings is not systematically related to absences or achievement in the district data, supporting the sibling-sample design](sibling-status-uncorrelated-with-absences-and-achievement.md) — related

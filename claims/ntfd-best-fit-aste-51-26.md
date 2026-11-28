@@ -75,3 +75,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Additive genetic influences account for 46-57% of the variance in university entrance exam achievement, university enrolment, university quality and university achievement](twin-heritability-university-success-variables.md) — related
 - [GCSE core-subject achievement is more heritable (62%) than any of nine predictor domains (35–58%), with shared environment accounting for 26% of GCSE variance](gcse-heritability-62-percent-univariate.md) — related
 - [A large proportion of GCSE variance is not accounted for by g, so non-g factors have a substantial impact on educational attainment](non-g-factors-substantial-impact-attainment.md) — related
+- [Being in a household with siblings is not systematically related to absences or achievement in the district data, supporting the sibling-sample design](sibling-status-uncorrelated-with-absences-and-achievement.md) — related

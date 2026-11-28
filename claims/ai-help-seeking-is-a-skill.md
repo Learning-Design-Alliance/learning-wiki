@@ -71,7 +71,7 @@ The review reports Sheese et al.'s 12-week deployment with 52 students and more 
 |---|---|---|---|
 | [Qusay H. Mahmoud 2026](https://doi.org/10.48550/arxiv.2609.29473) | q2 · review · r2 | i? | this claim |
 | [Andy Gray 2026](https://doi.org/10.48550/arxiv.2609.21600) | q2 · associational · r1 | i? | [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% som](students-avoid-help-seeking-despite-need.md) (supports) |
-| Kai 2018 | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (supports) |
+| [Kai 2018](https://doi.org/10.5281/zenodo.3344810) | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (supports) |
 | [Azimi 2026](https://doi.org/10.48550/arxiv.2609.16784) | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (supports) |
 | [Hyoungwook Jin 2026](https://doi.org/10.48550/arxiv.2609.28918) | q3 · causal · r2 | i3 | [HelpCoach led to greater knowledge retention one week later than pre-task help-seeking tra](helpcoach-greater-knowledge-retention-one-week.md) (qualifies) |
 <!-- synthesis:end -->

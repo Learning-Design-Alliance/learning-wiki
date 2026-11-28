@@ -135202,5 +135202,9 @@
  "learner-difference\tAAPT members who were Verified Educators\tAAPT members in the estimated membership population who were not Verified Educators": {
   "label": "Verified Educators vs non-Verified Educators",
   "treatment_is_a": true
+ },
+ "learner-difference\t100% of absences excused\t100% of absences unexcused": {
+  "label": "excused absences vs unexcused absences",
+  "treatment_is_a": true
  }
 }

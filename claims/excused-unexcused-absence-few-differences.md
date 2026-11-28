@@ -47,3 +47,6 @@ The review's narrative synthesis of studies comparing excused and unexcused abse
 - [Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action](chronic-absenteeism-achievement-two-year-impact.md) — related
 - [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related
 - [Concern for pets can cause patients to delay or refuse care, as in the illustrative chest-pain case](pet-concern-delays-patient-care.md) — related
+- [Students with behavioral problems show the largest likelihood of being absent and doing so for unexcused reasons](behavior-problems-unexcused-absence-correlation.md) — related
+- [Students with all absences excused perform higher on SAT 9 reading than students with all absences unexcused, holding days absent constant](excused-absence-share-positive-reading-scores.md) — reports the opposite
+- [The gap between unexcused and excused absence rates widens as total days absent increase](unexcused-share-rises-with-days-absent.md) — related

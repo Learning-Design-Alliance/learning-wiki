@@ -72,3 +72,4 @@ The review reports a study of North Carolina elementary, middle, and high school
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
 - [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related
+- [Students with behavioral problems show the largest likelihood of being absent and doing so for unexcused reasons](behavior-problems-unexcused-absence-correlation.md) — related

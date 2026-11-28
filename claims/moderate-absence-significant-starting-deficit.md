@@ -52,3 +52,4 @@ Fixed-effects models on the same pooled district cohorts show moderate absentees
 - [Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year](single-absence-cumulative-fall-math-decline.md) — a broader claim this one bears on
 - [Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels](reading-effects-smaller-nonsignificant-most-grades.md) — related
 - [Consistently moderate authorised absences, never exceeding the 10% chronic-absence threshold, still significantly depress GCSE achievement](moderate-authorised-absences-below-chronic-threshold-harm-achievement.md) — related
+- [Days absent show a slightly greater negative relationship with standardized math achievement than with reading achievement](absences-negative-math-achievement-slightly-greater-than-reading.md) — related

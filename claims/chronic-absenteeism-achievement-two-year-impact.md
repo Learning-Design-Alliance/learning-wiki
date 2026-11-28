@@ -50,3 +50,4 @@ The brief's own description states the study explores "the impact of chronic abs
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
 - [Excused-unexcused absence distinctions show few outcome differences and delay intervention](excused-unexcused-absence-few-differences.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related
+- [Students with all absences excused perform higher on SAT 9 reading than students with all absences unexcused, holding days absent constant](excused-absence-share-positive-reading-scores.md) — related
