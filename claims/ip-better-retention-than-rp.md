@@ -58,3 +58,4 @@ In the randomized three-group experiment, the 2 (Group: IP-Sham, RP-Sham) × 3 (
 - [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related
 - [Varying conditions of practice can induce more errors during acquisition yet improve long-term retention and transfer of motor and verbal skills](variable-practice-learning-performance-dissociation.md) — related
 - [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](rapid-performance-gains-fail-long-term-retention.md) — a broader claim this one bears on
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — related

@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: benjamin-2010
-    resource: "http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm"
-    title: "Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm"
+    resource: "https://doi.org/10.1016/j.cogpsych.2010.05.004"
+    title: "Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)"
     author: "Benjamin, Aaron S., & Tullis, Jonathan"
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Benjamin 2010
 
-Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm
+Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)
 
 `q2 · i?` · `quant-synthesis · r2`
 

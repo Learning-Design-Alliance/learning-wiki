@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 296 claims (176 show a difference, 71 mixed, 49 no difference) · 196 studies (110 causal, 36 review, 17 quant-synthesis, 14 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 196 report an effect size · 288 claims rest on one study
+> **Evidence** · 298 claims (177 show a difference, 71 mixed, 50 no difference) · 198 studies (111 causal, 37 review, 17 quant-synthesis, 14 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 198 report an effect size · 289 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -332,6 +332,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](../claims/rapid-performance-gains-fail-long-term-retention.md) [+W] — measured as an outcome of the instruction studied
 - [Retrieval difficulty, not criterion level per se, accounts for the memorial benefit of correct retrievals](../claims/retrieval-difficulty-not-criterion-level-drives-benefit.md) [+M] — measured as an outcome of the instruction studied
 - [Spaced presentations produce better final-test recall than massed presentations, and this spacing benefit is not modulated by retention interval](../claims/spacing-beats-massed-recall-regardless-of-retention-interval.md) [+M] — measured as an outcome of the instruction studied
+- [Pairing targets with weak input cues does not impair generation of targets to strong extralist cues from semantic memory](../claims/generation-unaffected-by-input-pairing.md) [-M] — measured as an outcome of the instruction studied
+- [Spacing study sessions supports long-term retention whereas massing supports only short-term performance (the spacing effect)](../claims/spacing-effect-spacing-versus-massing.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

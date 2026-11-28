@@ -100,3 +100,4 @@ Written survey Question 2(f) asked for possible position values and their probab
 - [Students heavily compartmentalized the linked binary and computational parts, failing to use the binary answer to build an expectation for the computation](compartmentalization-expectation-building-failure.md) — related
 - [Students improved on most questions after peer interaction but did not improve on a synthesis question about electron probability, and reached ceiling on simple-application questions](qm-clicker-no-improvement-synthesis-question.md) — related
 - [Most students who computed the network correctly did so without demonstrating deeper conceptual understanding of series and parallel combinations](computation-without-conceptual-understanding.md) — related
+- [Most American sixth-graders failed a realistic bus-division problem, indicating compartmentalized school mathematics knowledge](bus-problem-compartmentalization-sixth-graders.md) — related

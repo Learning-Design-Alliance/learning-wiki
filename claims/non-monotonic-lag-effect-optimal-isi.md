@@ -9,6 +9,7 @@ generated:
   at: 2026-11-28
 evidence_strength: moderate
 newest_evidence: 2006
+source_checked: 2026-11-28
 sources:
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · checked against its sources 2026-11-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For a given retention interval there is a non-zero ISI that optimizes accuracy; longer ISIs in proportion to retention interval reduce accuracy. [→ Cepeda 2006](#cepeda-2006)

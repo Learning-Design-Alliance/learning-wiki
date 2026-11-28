@@ -59,3 +59,4 @@ Post-test judgment among the 114 Experiment 2 participants: 65% (37/57) favored 
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related
 - [Before intervention, students predominantly block their self-organized study order, exceeding chance](students-predominantly-block-self-organized-study.md) — related
 - [Teachers implemented interleaved practice without training and, surveyed before learning the results, mostly judged it useful and viable though slightly harder and more time-consuming](teacher-survey-interleaving-feasibility.md) — related
+- [Learners systematically misjudge which practice conditions benefit them, judging blocking more effective than interleaving and being overconfident after blocked practice](metacognitive-illusion-blocked-practice-overconfidence.md) — related

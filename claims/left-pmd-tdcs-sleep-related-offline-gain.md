@@ -53,3 +53,4 @@ A 4 (Condition) × 2 (sleep1, sleep2) mixed ANOVA on sleep-related difference sc
 - [Repetitive practice yields faster online acquisition than interleaved practice for motor sequence learning](rp-better-acquisition-than-ip.md) — related
 - [Forgetting after repetitive practice is extremely rapid, appearing within roughly 3–5 minutes after training ends](rapid-forgetting-after-repetitive-practice.md) — related
 - [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — related

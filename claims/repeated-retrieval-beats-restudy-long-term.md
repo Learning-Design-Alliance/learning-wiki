@@ -56,3 +56,4 @@ The review reports, citing Roediger and Karpicke (2006a), a laboratory experimen
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
 - Active retrieval practice of newly learned names roughly doubles recall compared with repeated passive representation — a narrower finding that bears on this claim
 - [Retrieval practice (testing) often appears no better than restudying in the short term but produces better long-term retention, even without feedback](testing-effect-learning-performance-dissociation.md) — a narrower finding that bears on this claim
+- [Using tests as learning events—retrieval practice rather than restudying—produces better long-term recall, yields metacognitive diagnostic benefits, and potentiates later study even when retrieval fails](testing-as-learning-event-enhances-retention.md) — a broader claim this one bears on

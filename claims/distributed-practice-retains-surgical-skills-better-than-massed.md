@@ -51,3 +51,4 @@ The review's synthesis across the spacing studies it includes, stating distribut
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — possibly the same claim (merge candidate)
 - [Spacing material at regular separated intervals beats cramming, and multitasking harms learning, according to cognitive psychology research cited by the article](spacing-beats-cramming-multitasking-harms-learning.md) — related
 - [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — related
+- [Spacing study sessions supports long-term retention whereas massing supports only short-term performance (the spacing effect)](spacing-effect-spacing-versus-massing.md) — related

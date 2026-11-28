@@ -52,4 +52,4 @@ The reminding view implies that because reminding both enhances memory and retar
 -
 
 ## Key Sources
-- Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm
+- Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)

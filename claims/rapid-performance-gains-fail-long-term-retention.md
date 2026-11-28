@@ -3,6 +3,7 @@ type: claim
 title: Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it
 description: Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it
 id: rapid-performance-gains-fail-long-term-retention
+aliases: [desirable-difficulties-slow-apparent-learning-improve-retention]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
+  - id: elizabeth-ligon-bjork-and-robert-a-bjork-2009
+    resource: "https://bjorklab.psych.ucla.edu/research/"
+    title: "Elizabeth Ligon Bjork and Robert A. Bjork. (2009). Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning. Psychology and the Real World. https://bjorklab.psych.ucla.edu/research/"
+    author: Elizabeth Ligon Bjork and Robert A. Bjork
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 1 review `r2`, 1 theoretical `r3` · `q1`–`q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q1 i?` Conditions of learning that improve performance rapidly often fail to support long-term retention and transfer, whereas conditions creating difficulties that slow apparent learning often optimize long-term retention and transfer. [→ Bjork 2020](#bjork-2020)
+
+`q2 i?` Rapid performance gains during instruction are an unreliable index of learning; challenge and slowed apparent learning often optimize long-term retention and transfer. [→ Elizabeth Ligon Bjork and Robert A. Bjork 2009](#elizabeth-ligon-bjork-and-robert-a-bjork-2009)
 
 ## Evidence
 
@@ -41,13 +53,26 @@ Theoretical argument stated in the metamemory considerations section, presented 
 
 > "The fact that conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges (i.e., difficulties) and slow the rate of apparent learning often optimize long-term retention and transfer, means that learners—and teachers—are vulnerable to mis-assessing whether learning has or has not occurred."
 
+### Elizabeth Ligon Bjork and Robert A. Bjork 2009
+
+Elizabeth Ligon Bjork and Robert A. Bjork. (2009). Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning. Psychology and the Real World. https://bjorklab.psych.ucla.edu/research/
+
+`q2 · i?` · `review · r2`
+
+The authors' summary statement of the experimental literature on conditions of instruction, presented in the chapter's framing section as the core empirical pattern motivating desirable difficulties: "conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer."
+
+> "Conditions of learning that make performance improve rapidly often fail to support long-term retention and transfer, whereas conditions that create challenges and slow the rate of apparent learning often optimize long-term retention and transfer."
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
+
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — a narrower finding that bears on this claim
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — possibly the same claim (merge candidate)
 - [Longer intersession intervals slow acquisition slightly but yield substantially higher recall over a 5-year retention interval](long-intervals-slow-acquisition-boost-retention.md) — a narrower finding that bears on this claim

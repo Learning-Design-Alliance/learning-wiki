@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5855 entries** · 0 stable · 5855 in review · 0 drafts
+**5856 entries** · 0 stable · 5856 in review · 0 drafts
 
 ---
 
@@ -2465,6 +2465,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Janssen et al.'s twelve-element digital competence model](janssen-et-als-twelve-element-digital-competence-model.md) - A twelve-element framework developed by Janssen et al.
 * [Japanese National Nursing Examination evaluation dataset in five prompt file formats](japanese-national-nursing-examination-evaluation-dataset-in-five-prompt-file-formats.md) - A Taira et al.
 * [Japanese version of the Sheffield Peer Review Assessment Tool (SPRAT)](japanese-version-of-the-sheffield-peer-review-assessment-tool-sprat.md) - A Japanese translation and validation of the UK SPRAT multisource feedback instrument, developed for assessing Japanese doctors' clinical, teaching, communication, teamwork, and professionalism competencies.
+* [Jasper Woodbury Problem Solving Series](jasper-woodbury-problem-solving-series.md) - The Jasper Woodbury Problem Solving Series is a set of anchored-instruction video adventures and open-ended mathematics problem-solving materials developed by the Cognition and Technology Group at Vanderbilt for upper-elementary and middle-school learners.
 * [Jastudy](jastudy.md) - Jastudy is a computer-assisted language-learning program developed by Liu et al.
 * [JavaScript prototype plugin integrating the Huh? button with YouTube videos](javascript-prototype-plugin-integrating-the-huh-button-with-youtube-videos.md) - A Boris Ruf prototype plugin that adds an on-demand clarification button beneath YouTube lecture videos and retrieves pre-produced explanations for selected timestamps.
 * [JBI critical appraisal checklists for RCT and quasi-experimental quality assessment](jbi-critical-appraisal-checklists-for-rct-and-quasi-experimental-quality-assessment.md) - Joanna Briggs Institute checklists used by reviewers to assess the internal validity and risk of bias of randomized and quasi-experimental studies.

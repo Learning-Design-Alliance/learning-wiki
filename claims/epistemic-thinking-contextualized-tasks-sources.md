@@ -57,3 +57,4 @@ The review reports findings from studies of elementary students, secondary stude
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](diverse-cohort-common-shared-design-practices.md) — related
 - [Epistemic cognitions are often situation-specific, varying across contexts and even within a single conversation](context-specificity-of-epistemic-cognition.md) — a narrower finding that bears on this claim
 - [Students' epistemic aims can diverge from their other epistemic beliefs, shaping how they approach learning tasks](epistemic-aims-diverge-from-beliefs.md) — a narrower finding that bears on this claim
+- [College students' use of deep-level learning strategies varies with their interest in the specific subject, the review reports citing Wild](subject-interest-drives-strategy-application.md) — a narrower finding that bears on this claim

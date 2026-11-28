@@ -55,3 +55,4 @@ Numerical fit of the extended ACT–R model to Young's (1971) continuous paired-
 - [The model captures nonmonotonic spacing effects, where wider spacing does not always improve later performance](model-captures-nonmonotonic-spacing.md) — possibly the same claim (merge candidate)
 - [Simulation of the reminding model captures the retention-interval-by-lag interaction, but only with an added retarded-forgetting assumption](reminding-simulation-captures-ri-interaction.md) — related
 - [Even with relaxed monotonic response assumptions, generalized SST cannot produce nonmonotonic lag functions](sst-cannot-produce-nonmonotonic-lag-functions.md) — reports the opposite
+- [The SAM spacing model can generate non-monotonic spacing effects, as shown by its fit to Young's 1971 data](sam-model-generates-nonmonotonic-spacing-young-1971.md) — possibly the same claim (merge candidate)

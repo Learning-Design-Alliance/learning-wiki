@@ -51,3 +51,4 @@ Meta-regression predictor for mode of testing (51 recognition vs. 54 recall effe
 - [Methodological variables moderate measured skill decay: recognition tests, similar retrieval contexts, and behavioral evaluation criteria each yield less apparent skill loss](methodological-variables-moderate-measured-decay.md) — possibly the same claim (merge candidate)
 - [Recognition tasks are retained at higher levels than recall tasks](recognition-retained-better-than-recall.md) — related
 - [Students retain much of the knowledge taught in school, with mean relative loss of about 16% for recognition, 28% for recall, and 13% for cognitive skills](school-knowledge-retention-substantial.md) — related
+- [Subjects consistently fail to recognize many target words they can recall with input cues (recognition failure of recallable words)](recognition-failure-of-recallable-words.md) — related

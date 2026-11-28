@@ -53,3 +53,4 @@ Meta-analysis of massed vs. spaced comparisons (271 comparisons, 23 effect sizes
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — a broader claim this one bears on
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [At short retention intervals massed presentation is superior to spaced presentation, reversing the spacing effect](massed-superior-short-retention-interval.md) — reports the opposite
