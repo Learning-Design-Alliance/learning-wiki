@@ -48,3 +48,4 @@ Baseline value-added education production function regressions on the Philadelph
 - [Increasing missed school days is consistently related to declining math achievement even in the most restrictive family fixed effects specification](absences-decline-math-achievement-family-fixed-effects.md) — related
 - [Days absent show a slightly greater negative relationship with standardized math achievement than with reading achievement](absences-negative-math-achievement-slightly-greater-than-reading.md) — related
 - [Students with all absences excused perform higher on SAT 9 reading than students with all absences unexcused, holding days absent constant](excused-absence-share-positive-reading-scores.md) — related
+- [Attendance is positively and significantly related to SAT9 reading and math scores for third and fourth grade students](attendance-positive-sat9-reading-math.md) — related

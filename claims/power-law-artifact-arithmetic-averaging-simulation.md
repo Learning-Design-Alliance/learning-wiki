@@ -50,3 +50,4 @@ Simulation study generating 10 forgetting curves from exponential and power mode
 - [Averaging practice data produces a bias in favor of the power function over the exponential function](averaging-biases-toward-power-function.md) — possibly the same claim (merge candidate)
 - [The exponential function fits individual learners' practice data better than the power function in unaveraged data sets](exponential-beats-power-unaveraged-practice-series.md) — related
 - [Overlaying averaged item-level model fits on averaged data provides a sensitive test of model sufficiency](overlaying-averaged-fits-model-sufficiency.md) — related
+- [Across 210 retention data sets, the best-fitting two-parameter functions are the logarithmic, power, exponential-in-square-root-of-time, and hyperbola-in-square-root-of-time functions](four-best-fitting-retention-functions.md) — related

@@ -53,3 +53,4 @@ Multilevel modeling analysis fitting a two-level model (students within classes)
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial](interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md) — related
 - [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related
+- [Classroom mathematics practice benefits from spacing and interleaving, and interleaving's benefits can go beyond the spacing it creates](spacing-interleaving-benefits-real-world-mathematics.md) — related

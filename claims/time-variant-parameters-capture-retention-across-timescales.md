@@ -53,3 +53,4 @@ Model-fitting analysis in which data were split into bins of equal width on a lo
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
 - [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related
 - [Deficient-processing and all-or-none theories of spacing are challenged by the long-interval data, and simulations of ACT-R and SAM models could not fit the ridgeline of optimal retention](spacing-theories-constrained-by-long-interval-data.md) — related
+- [The activation-based ACT–R model closely mirrors the experiment's data and fits better than the Raaijmakers SAM model on the restricted data set](actr-model-fits-experiment-better-than-sam.md) — related

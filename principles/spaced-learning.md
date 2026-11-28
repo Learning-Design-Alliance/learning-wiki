@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 111 claims (65 for, 43 mixed, 3 against) · 77 studies (45 causal, 15 review, 9 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 17 of 77 report an effect size · 103 claims rest on one study
+> **Evidence** · 112 claims (66 for, 43 mixed, 3 against) · 77 studies (45 causal, 15 review, 9 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 17 of 77 report an effect size · 104 claims rest on one study
 
 ## Description
 
@@ -204,6 +204,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [At every retention interval, final-test performance first rises and then falls as the gap between study sessions increases, with very large spacing effects when study time is equated](../claims/nonmonotonic-gap-effect-long-retention-intervals.md) [+W] — attached 2026-11-26 from Nicholas J. Cepeda et al. (2008), which proposed "Schedule the gap between study sessions relative to how long the material must be remembered: the optimal gap depends dramatically on the desired retention interval"; tests this page's relationship.
 - [The relative benefit of wider spacing increases as the number of practice repetitions increases (in a Japanese–English paired-associate experiment)](../claims/spacing-benefit-increases-with-more-practice-repetitions.md) [+W] — attached 2026-11-26 from Philip I. Pavlik Jr. (2005), which proposed "Schedule vocabulary practice with wider spacing when practice is repeated and when the retention interval is long"; tests this page's relationship.
 - [Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval](../claims/spacing-crossover-interaction-less-forgetting.md) [+W] — attached 2026-11-26 from Philip I. Pavlik Jr. (2005), which proposed "Schedule vocabulary practice with wider spacing when practice is repeated and when the retention interval is long"; tests this page's relationship.
+- [The lag effect is non-monotonic: beyond an optimal ISI, further increases in ISI reduce final-test accuracy for a given retention interval](../claims/non-monotonic-lag-effect-optimal-isi.md) [+W] — attached 2026-11-28 from Cepeda et al. (2006), which proposed "Select study intervals jointly with the intended retention interval, since no single ISI optimizes retention across retention intervals"; tests this page's relationship.
 
 ## Source verification and open tests
 

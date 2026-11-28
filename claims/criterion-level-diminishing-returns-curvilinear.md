@@ -65,3 +65,5 @@ The diminishing-returns pattern held in three of the four Experiment 1 groups; i
 
 ## Related Claims
 - [No diminishing return relation between self-explanations and learning gains was found](no-diminishing-return-self-explanations.md) — related
+- [The pattern of diminishing returns with increasing criterion level is not attributable to a contracting ISI during practice](diminishing-returns-not-due-to-contracting-isi.md) — related
+- [Retrieval difficulty, not criterion level per se, accounts for the memorial benefit of correct retrievals](retrieval-difficulty-not-criterion-level-drives-benefit.md) — related

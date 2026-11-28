@@ -48,3 +48,4 @@ Human experiment in which groups trained with 150 ms (n = 4) and 250 ms (n = 18)
 - [Longer interstimulus interval significantly increases conditioned response percentage](longer-isi-increases-cr-percentage.md) — related
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](training-blocks-increase-cr-percentage-eyeblink.md) — related
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](longer-isi-between-correct-retrievals-higher-final-recall.md) — related

@@ -52,3 +52,4 @@ Recall-test results of the internet spacing experiment, reported per retention i
 - [Deficient-processing and all-or-none theories of spacing are challenged by the long-interval data, and simulations of ACT-R and SAM models could not fit the ridgeline of optimal retention](spacing-theories-constrained-by-long-interval-data.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [After an 8-year retention interval, recall probability for Spanish vocabulary trained with a 30-day intersession interval is 2.5 times that trained with a zero interval](spacing-interval-30-day-8-year-recall-advantage.md) — related
+- [Large Internet-based study (Cepeda et al., 2008) showed nonmonotonic lag functions with the optimal study interval increasing with retention interval](nonmonotonic-lag-functions-cepeda-2008.md) — related

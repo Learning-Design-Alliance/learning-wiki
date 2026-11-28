@@ -70,3 +70,6 @@ In the General Discussion the author argues the cross-paradigm results "may be u
 - [Across three paradigms the nonmonotonicity in the lag function is small (3 to 5%) but statistically significant in each experiment, while monotonic gains at long retention intervals reach about 12% in Experiments I and III and close to 25% in Experiment II's uncued conditions.](lag-effect-magnitudes-across-paradigms.md) — related
 - [In continuous recognition memory, the probability of calling an item old on its second presentation declines monotonically as the lag since the first presentation increases.](recognition-second-presentation-lag-decline.md) — related
 - [Spacing effects are not always monotonic: the model captured Young's (1971) nonmonotonic spacing function](nonmonotonic-spacing-effect-young-fit.md) — related
+- [The model captures nonmonotonic spacing effects, where wider spacing does not always improve later performance](model-captures-nonmonotonic-spacing.md) — related
+- [Simulation of the reminding model captures the retention-interval-by-lag interaction, but only with an added retarded-forgetting assumption](reminding-simulation-captures-ri-interaction.md) — related
+- [Even with relaxed monotonic response assumptions, generalized SST cannot produce nonmonotonic lag functions](sst-cannot-produce-nonmonotonic-lag-functions.md) — related

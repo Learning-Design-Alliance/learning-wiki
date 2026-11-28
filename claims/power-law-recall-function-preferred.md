@@ -49,3 +49,4 @@ Analytical derivation under the amorphous-matrix approximation, with the two can
 - [FTE thinking-time logarithms are approximately normally distributed with a leading spike and slight right skew](fte-thinking-times-lognormal-with-spike.md) — related
 - [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](bkt-hmm-exponential-form-questions-fitting-practice.md) — related
 - [The exponential forgetting curve model outperforms the power-law model on MAE and half-life correlation, while the power-law model performs slightly better on AUC](exponential-model-outperforms-power-law-mae-corh.md) — related
+- [Across 210 retention data sets, the best-fitting two-parameter functions are the logarithmic, power, exponential-in-square-root-of-time, and hyperbola-in-square-root-of-time functions](four-best-fitting-retention-functions.md) — related

@@ -3,6 +3,7 @@ type: claim
 title: "Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval"
 description: "Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval"
 id: spacing-crossover-interaction-less-forgetting
+aliases: [wider-spacing-slows-forgetting-crossover]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` The Trial × S1 spacing interaction was strong, with wider-spaced presentation sequences showing less forgetting. [→ Philip I. Pavlik Jr. 2005](#philip-i-pavlik-jr-2005)
+
+`q3 i?` The Trial × S1 spacing interaction was strong, suggesting presentation sequences with wider spacing resulted in less forgetting. [→ Philip I. Pavlik Jr. 2005](#philip-i-pavlik-jr-2005)
 
 ## Evidence
 
@@ -41,10 +45,24 @@ Repeated-measures ANOVA comparing last-trial S1 means with first-trial S2 means 
 
 > "The interaction of Trial × S1 spacing condition was strong, F(2, 76) = 321, p < .001. This interaction suggested presentation sequences with wider spacing resulted in less forgetting."
 
+<!-- merged 2026-11-28 from wider-spacing-slows-forgetting-crossover: that page's entry for this study, which differed from the one above, kept verbatim.
+### Philip I. Pavlik Jr. 2005
+
+Philip I. Pavlik Jr., John R. Anderson. (2005). Practice and Forgetting Effects on Vocabulary Memory: An Activation-Based Model of the Spacing Effect. Cognitive Science 29. https://doi.org/10.1207/s15516709cog0000_14
+
+`q3 · i?`
+
+Repeated measures ANOVA comparing last S1 trials with first S2 trials (excluding eight-repetition conditions) in the vocabulary experiment, testing the crossover: "F(2, 76) = 321, p < .001". The authors argue the crossovers would occur regardless of scaling.
+
+> "The interaction of Trial × S1 spacing condition was strong, F(2, 76) = 321, p < .001. This interaction suggested presentation sequences with wider spacing resulted in less forgetting."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Retention declined from 1 to 7 days and was significantly better after wider spacing of practice on delayed tests](retention-interval-and-spacing-main-effects.md) — related
 - [The relative benefit of wider spacing increases as the number of practice repetitions increases (in a Japanese–English paired-associate experiment)](spacing-benefit-increases-with-more-practice-repetitions.md) — related
 - [Performance during initial learning was significantly worse with wider spacing, and no serial-position or baseline practice-condition differences were found](wider-spacing-lowers-in-session-performance-no-serial-position.md) — related
@@ -52,3 +70,4 @@ Repeated-measures ANOVA comparing last-trial S1 means with first-trial S2 means 
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [The extended ACT–R model generalized to Bahrick's Spanish–English data and Rumelhart's paired-associate data with few parameters varied](act-r-generalizes-to-bahrick-and-rumelhart-data.md) — related
+- [Participants forgot more over a 7-day retention interval than a 1-day interval, and performed worse during practice with wider spacing](retention-interval-and-practice-spacing-costs.md) — related

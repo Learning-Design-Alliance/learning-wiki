@@ -50,3 +50,4 @@ Repeated-measures ANOVA on the first four S1 trials (practice condition × S1 sp
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
 - [Retention declined from 1 to 7 days and was significantly better after wider spacing of practice on delayed tests](retention-interval-and-spacing-main-effects.md) — related
+- [Participants forgot more over a 7-day retention interval than a 1-day interval, and performed worse during practice with wider spacing](retention-interval-and-practice-spacing-costs.md) — related

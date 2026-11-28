@@ -51,3 +51,4 @@ Linear mixed effects model comparing ISI groups (150, 250, 500 ms). The article 
 - [Training blocks significantly increase conditioned response percentage in delay eyeblink conditioning](training-blocks-increase-cr-percentage-eyeblink.md) — related
 - [Working memory performance ranking does not predict conditioned response percentage](wm-performance-does-not-predict-crs.md) — related
 - [Concurrent working memory tasks significantly reduce conditioned response percentage](working-memory-tasks-reduce-cr-percentage.md) — related
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](longer-isi-between-correct-retrievals-higher-final-recall.md) — related

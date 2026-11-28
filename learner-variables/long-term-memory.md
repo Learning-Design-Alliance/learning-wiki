@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 293 claims (173 show a difference, 71 mixed, 49 no difference) · 194 studies (109 causal, 36 review, 17 quant-synthesis, 13 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 194 report an effect size · 285 claims rest on one study
+> **Evidence** · 296 claims (176 show a difference, 71 mixed, 49 no difference) · 196 studies (110 causal, 36 review, 17 quant-synthesis, 14 theoretical, 11 associational, 5 design, 3 qualitative), `q1`–`q4` · 60 of 196 report an effect size · 288 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -329,6 +329,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Sleep shortly after learning stabilizes declarative memories, slowing the rate of forgetting during subsequent wakefulness](../claims/sleep-stabilizes-memories-against-wake.md) [+M] — measured as an outcome of the instruction studied
 - [The sleep advantage in paired-associate recall remains significant when outliers are included, with a 32.7% increase for the sleep group](../claims/sleep-memory-advantage-with-outliers-included.md) [+M] — measured as an outcome of the instruction studied
 - [In Experiment 2's delayed memory tests, recognition of sentence pairs was best for Chosen-effort trials, while memory for the processing context was poorest for Blocked-effort trials](../claims/delayed-memory-engagement-effort-experiment2.md) [~M] — measured as an outcome of the instruction studied
+- [Conditions that make performance improve rapidly often fail to support long-term retention and transfer, while conditions that slow apparent learning often optimize it](../claims/rapid-performance-gains-fail-long-term-retention.md) [+W] — measured as an outcome of the instruction studied
+- [Retrieval difficulty, not criterion level per se, accounts for the memorial benefit of correct retrievals](../claims/retrieval-difficulty-not-criterion-level-drives-benefit.md) [+M] — measured as an outcome of the instruction studied
+- [Spaced presentations produce better final-test recall than massed presentations, and this spacing benefit is not modulated by retention interval](../claims/spacing-beats-massed-recall-regardless-of-retention-interval.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

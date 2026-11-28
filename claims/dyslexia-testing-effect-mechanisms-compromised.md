@@ -69,3 +69,4 @@ The perspective reports, citing Eskenazi & Nix, that increasing difficulty impro
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Text deep cohesion relates to passage comprehensibility indirectly via activation in semantic integration regions](deep-cohesion-activation-mediation.md) — related
+- [A difficulty is desirable only if the learner has the prior knowledge or skills to respond to it successfully; optimal difficulty varies with prior learning](desirable-difficulties-depend-on-prior-learning.md) — related

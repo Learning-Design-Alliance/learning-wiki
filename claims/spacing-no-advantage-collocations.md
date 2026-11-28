@@ -52,3 +52,4 @@ Between-subjects comparison with 45 participants (25 spaced, 20 intensive); mean
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — related
+- [Expanding inter-study intervals tend to produce better retention than fixed intervals, but conclusions are tentative due to large between-study variability](expanding-versus-fixed-isi-tentative-benefit.md) — related

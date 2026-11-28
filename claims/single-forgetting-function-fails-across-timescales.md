@@ -50,3 +50,5 @@ Model-fitting analysis of naturalistic recall data from an adaptive fact-learnin
 - [Allowing ACT-R memory parameters to vary with the between-session interval produces a strong fit between model and recall data across timescales](time-variant-parameters-capture-retention-across-timescales.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Deficient-processing and all-or-none theories of spacing are challenged by the long-interval data, and simulations of ACT-R and SAM models could not fit the ridgeline of optimal retention](spacing-theories-constrained-by-long-interval-data.md) — related
+- [The activation-based ACT–R model closely mirrors the experiment's data and fits better than the Raaijmakers SAM model on the restricted data set](actr-model-fits-experiment-better-than-sam.md) — related
+- [Spacing effects occur on many time scales, and the single-scale SAM model cannot explain effects across different time scales](sam-single-time-scale-limitation.md) — possibly the same claim (merge candidate)

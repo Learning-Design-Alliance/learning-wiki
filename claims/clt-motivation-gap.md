@@ -68,3 +68,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [The tablet intervention appears to have motivated students to focus on procedural rather than theoretical homework exercises](tablet-motivates-procedural-focus.md) — related
 - [Practitioner inquiry fostered learning about how to learn from practice](practitioner-inquiry-learning-to-learn.md) — related
 - [The article attributes anxiety's inhibiting effect on e-learning adaptation to cognitive load: mental effort spent on anxiety reduces effort available for e-learning](cognitive-load-explanation-anxiety-elearning.md) — related
+- [Bringing desirable difficulties into real-world education requires addressing motivational factors, including learners' expectations, goals, and motivation to adopt the strategies](motivation-required-to-adopt-desirable-difficulties.md) — related

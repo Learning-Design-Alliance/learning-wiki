@@ -68,3 +68,4 @@ The review anticipates from its exhaustive assessment that the two processes "op
 - [Recollection relates to free recall and familiarity to conceptual implicit memory, with dissociable relations to perceptual implicit memory](recollection-recall-familiarity-conceptual-implicit.md) — related
 - [Recognition confidence ROCs are curvilinear and require at least two functionally independent memory parameters](recognition-rocs-require-two-parameters.md) — a broader claim this one bears on
 - [Know responses in the remember/know procedure underestimate familiarity; an independence correction is required](know-responses-underestimate-familiarity.md) — related
+- [Existing data indicate retention, as opposed to initial learning, is not affected by age over the range of ages tested, or at most only under specific conditions and assumptions](retention-not-affected-by-age.md) — related

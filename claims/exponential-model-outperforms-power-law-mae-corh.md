@@ -51,3 +51,5 @@ Benchmark evaluation of both fitted memory models on data from February 2019 to 
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [The power-law recall function better approximates the log-normal-derived recall function than the logarithmic form](power-law-recall-function-preferred.md) — related
 - [The power function systematically predicts implausibly fast asymptotic response times](power-function-implausible-asymptotes.md) — related
+- [Forgetting across recall, recognition, and animal memory tasks is best described by a simple power function of time relative to five alternatives](forgetting-follows-power-function.md) — reports the opposite
+- [In short-term free recall of words, the power function fit the forgetting curve best (98.0% variance accounted for)](word-recall-power-function-fit.md) — reports the opposite

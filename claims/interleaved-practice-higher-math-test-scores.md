@@ -71,3 +71,4 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 - [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — a narrower finding that bears on this claim
 - [The experiment used a counterbalanced crossover design in which the same practice problems were rearranged into blocked and interleaved versions](counterbalanced-crossover-interleaved-design.md) — related
 - [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related
+- [Classroom mathematics practice benefits from spacing and interleaving, and interleaving's benefits can go beyond the spacing it creates](spacing-interleaving-benefits-real-world-mathematics.md) — a broader claim this one bears on

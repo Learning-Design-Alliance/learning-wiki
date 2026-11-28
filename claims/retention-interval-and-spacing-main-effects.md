@@ -53,3 +53,4 @@ Repeated-measures ANOVA of S2 data (repetitions × spacing × S2 trial × retent
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Performance during initial learning was significantly worse with wider spacing, and no serial-position or baseline practice-condition differences were found](wider-spacing-lowers-in-session-performance-no-serial-position.md) — related
+- [Participants forgot more over a 7-day retention interval than a 1-day interval, and performed worse during practice with wider spacing](retention-interval-and-practice-spacing-costs.md) — related

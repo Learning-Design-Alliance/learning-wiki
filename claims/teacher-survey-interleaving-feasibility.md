@@ -71,3 +71,4 @@ The three seventh-grade mathematics teachers in the study described on [Interlea
 - [Stakeholder reflections judged the ten-week, 30-minute-session facts intervention feasible within the elementary schedule, with moderate-to-high student engagement](facts-intervention-feasibility-reflections.md) — related
 - [Some students perceived the weekly situated learning assignments as time-consuming and overly challenging](situated-learning-assignments-perceived-time-consuming-challenging.md) — related
 - [Teachers judged the VR activity most suitable for the final months of the fourth or fifth year of Italian high school, and all said they would recommend it to other classes](vr-lab-visit-suitability-and-recommendation.md) — related
+- [Classroom mathematics practice benefits from spacing and interleaving, and interleaving's benefits can go beyond the spacing it creates](spacing-interleaving-benefits-real-world-mathematics.md) — related

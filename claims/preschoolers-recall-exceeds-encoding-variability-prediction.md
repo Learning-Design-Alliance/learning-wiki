@@ -52,3 +52,4 @@ A theoretical analysis in the general discussion estimated the independent-encod
 - [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](ttst-advantage-not-encoding-strategy.md) — related
 - [Repeated exposure to the same question shows clear evidence of learning, while many attempts predict lower grades consistent with guessing](repeated-exposure-learning-guessing-at-high-attempts.md) — related
 - [Students perform better on repeated questions than unique ones, yet frequent repetition correlates with lower quiz scores](repetition-boosts-performance-but-correlates-lower-scores.md) — related
+- [Meta-analysis of 829 conditions from 72 articles shows spaced repetitions increasingly exceed the independence baseline as lag grows](superadditivity-ubiquitous-meta-analysis.md) — related

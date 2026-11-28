@@ -50,3 +50,4 @@ Theoretical argument (type e) in the article's framing section: KLI provides a f
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [A difficulty is desirable only if the learner has the prior knowledge or skills to respond to it successfully; optimal difficulty varies with prior learning](desirable-difficulties-depend-on-prior-learning.md) — related

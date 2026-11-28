@@ -55,3 +55,6 @@ Across both experiments (227 undergraduates total), the 23-drop schedule matched
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — related
 - [Long practice periods were not much less favorable than short ones in addition practice, with evidence favoring the longer periods](practice-period-length-addition-long-not-inferior.md) — related
 - [The distributed practice effect appears to depend on task type and task complexity as well as the interval between sessions](distributed-practice-effect-depends-on-task-type-complexity.md) — related
+- [Expanding inter-study intervals tend to produce better retention than fixed intervals, but conclusions are tentative due to large between-study variability](expanding-versus-fixed-isi-tentative-benefit.md) — related
+- [First key press latencies confirm that retrieval is more difficult after longer ISIs and becomes less difficult as the number of correct retrievals increases](latency-confirms-isi-and-criterion-difficulty-assumptions.md) — related
+- [Final test performance is greater after longer versus shorter interstimulus intervals between correct retrievals during practice](longer-isi-between-correct-retrievals-higher-final-recall.md) — related

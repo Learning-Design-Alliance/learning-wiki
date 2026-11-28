@@ -59,6 +59,7 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 
 ## Related Theories
 - [Spaced Repetition](../elements/spaced-repetition.md)
+- [Power Law of Forgetting](power-law-of-forgetting.md): the rival functional form, slower than exponential at long delays.
 
 ## Examples
 

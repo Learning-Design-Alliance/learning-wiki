@@ -86,3 +86,4 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [Retention of meaningful material follows a negatively accelerated forgetting curve with large early losses that level off](ebbinghaus-curve-meaningful-material.md) — related
 - [Rate of forgetting does not differ by ability level, so higher-ability students forget more material in absolute terms](no-ability-differences-in-forgetting-rate.md) — related
 - [Wider-spaced presentation sequences showed less forgetting from pre-test to post-test, in one group with no comparison group: a crossover interaction between spacing condition and trial across the retention interval](spacing-crossover-interaction-less-forgetting.md) — related
+- [The power law of forgetting has stated scope limits: it may not hold above 90% correct, at very short intervals, or over months to years](power-law-forgetting-scope-limits.md) — related

@@ -90,3 +90,4 @@ A robustness check restricted to students who walk to school (Table 4) finds eve
 - [Commuting time has a detrimental and statistically significant impact on students' engagement in after-school outdoor activities.](commuting-time-reduces-outdoor-activity.md) — related
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — reports the opposite
 - [Recreational reading, limited phone time, and frequent group activities are associated with higher self-esteem among rural Chinese students](reading-phone-time-group-activities-self-esteem.md) — related
+- [Distance from school negatively and significantly predicts days present in first-stage regressions](distance-from-school-negative-first-stage-attendance.md) — related

@@ -52,3 +52,5 @@ Internet-based experiment with 1354 subjects learning 32 obscure facts in two se
 - [The optimal gap increases as the retention interval increases, but the ratio of optimal gap to retention interval declines](optimal-gap-rises-with-retention-interval-ratio-declines.md) — related
 - [Percentage improvements from optimal versus zero-day gaps grow with retention interval, reaching 111% for recall at a 70-day RI](percentage-improvements-optimal-gap-by-ri.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [The lag effect is non-monotonic: beyond an optimal ISI, further increases in ISI reduce final-test accuracy for a given retention interval](non-monotonic-lag-effect-optimal-isi.md) — possibly the same claim (merge candidate)
+- [Large Internet-based study (Cepeda et al., 2008) showed nonmonotonic lag functions with the optimal study interval increasing with retention interval](nonmonotonic-lag-functions-cepeda-2008.md) — related
