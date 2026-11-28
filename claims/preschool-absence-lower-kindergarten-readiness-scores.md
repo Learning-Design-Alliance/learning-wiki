@@ -97,3 +97,4 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 - [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
 - [Full-day preschool participation in the Midwest CPC expansion is associated with higher school readiness, higher attendance, and lower chronic absence than part-day participation](cpc-full-day-preschool-higher-readiness-attendance.md) — related
+- [Days absent show a slightly greater negative relationship with standardized math achievement than with reading achievement](absences-negative-math-achievement-slightly-greater-than-reading.md) — related

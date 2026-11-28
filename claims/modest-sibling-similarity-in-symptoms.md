@@ -51,3 +51,4 @@ Descriptive analysis in the children-of-siblings samples. Intraclass correlation
 - [Associations between parental symptoms measured close to the test are less attenuated than those measured during pregnancy](timing-moderates-attenuation-of-parental-symptom-associations.md) — related
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related
+- [Being in a household with siblings is not systematically related to absences or achievement in the district data, supporting the sibling-sample design](sibling-status-uncorrelated-with-absences-and-achievement.md) — related

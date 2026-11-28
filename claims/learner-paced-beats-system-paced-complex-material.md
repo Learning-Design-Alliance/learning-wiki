@@ -84,7 +84,7 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 | [Scheiter 2007](https://doi.org/10.1007/s10648-007-9046-3) | q2 · review · r? | i? | [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and a](learner-characteristics-moderate-hypermedia-effectiveness.md) (qualifies) |
 | [Azimi 2026](https://doi.org/10.48550/arxiv.2609.16784) | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (qualifies) |
 | Gale 1985 | q2 · causal · r1 | i? | [Students using an annotated interactive videodisc of a film outperformed students who saw ](annotated-videodisc-beats-videotape-retention-recall.md) (supports) |
-| Kai 2018 | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (qualifies) |
+| [Kai 2018](https://doi.org/10.5281/zenodo.3344810) | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (qualifies) |
 | [Viki M. Young 2026](https://doi.org/10.51388/20.500.12265/286) | q2 · qualitative · r2 | i? | [Students value knowing class routines and report that rushed pacing, especially in Advance](students-report-routines-help-and-rushed-pacing-hurts.md) (supports) |
 | [Price 2026](https://doi.org/10.54300/810.406) | q2 · qualitative · r? | i? | [Teachers viewed district pacing calendars and standardized assessments as impediments when](pacing-calendars-standardized-assessments-impediments.md) (supports) |
 <!-- synthesis:end -->

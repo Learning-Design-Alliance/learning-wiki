@@ -69,3 +69,4 @@ Theoretical and empirical synthesis: the review argues classroom management and 
 ## Related Claims
 - [Evidence for a relationship between teacher empathy and general emotional support is inconsistent, with positive findings concentrated in self-report-only studies](teacher-empathy-emotional-support-inconsistent.md) — related
 - [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related
+- [Classroom, teacher, and neighborhood variables generally show no statistically significant relationship with achievement in the models](teacher-neighborhood-controls-null-achievement.md) — related

@@ -8,15 +8,15 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 90,132, from 20,926 sources |
+| Claims | 90,141, from 20,928 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 8,775 claims (10%) |
-| Claims citing at least one DOI | 76,604 claims (85%) |
-| Sources whose citations went through the Crossref identity gate | 20,096 of 20,926 |
+| Every evidence entry compared with its source by the faithfulness judge | 8,777 claims (10%) |
+| Claims citing at least one DOI | 76,613 claims (85%) |
+| Sources whose citations went through the Crossref identity gate | 20,098 of 20,928 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 11 |
-| Claims past their recheck year (fast-ageing kinds only) | 7,968 of 17,519 with one |
+| Claims past their recheck year (fast-ageing kinds only) | 7,970 of 17,521 with one |
 | Claims removed by a check, all time | 10,216 |
 
 ## The checks, in the order a claim meets them
@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 24,487 sources reviewed: 20,926 ingested, 3,561 refused (out-of-scope 3,072, no-ingestable-content 207, validation-error 205, already-covered 31, uncoded 22, opinion-piece 17, parse-error 4, no-contributions-extracted 3).
+**Coverage.** 24,490 sources reviewed: 20,928 ingested, 3,562 refused (out-of-scope 3,072, no-ingestable-content 207, validation-error 206, already-covered 31, uncoded 22, opinion-piece 17, parse-error 4, no-contributions-extracted 3).
 
 ### 2. Extraction and structural validation
 
@@ -35,7 +35,7 @@ A model reads the article and writes claims with their evidence. A validator ref
 
 **Cannot catch.** A well-formed claim that misreads its article (step 5 looks for that).
 
-**Coverage.** 209 articles refused by the validator.
+**Coverage.** 210 articles refused by the validator.
 
 ### 3. Citation identity
 
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 20,096 of 20,926 ingested sources passed the gate with the registry reachable; 559 DOIs removed as the wrong paper, 99 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 20,098 of 20,928 ingested sources passed the gate with the registry reachable; 559 DOIs removed as the wrong paper, 99 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 76,604 of 90,132 claims (85%) cite a DOI; 2,915 claims removed for having none.
+**Coverage.** 76,613 of 90,141 claims (85%) cite a DOI; 2,915 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 8,775 claims (10%) have had every evidence entry compared with its source and passed; 236 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 8,777 claims (10%) have had every evidence entry compared with its source and passed; 236 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 106,714 evidence entries; 12,763 rest on a printed effect size and 93,983 report none (`i?`); 100,135 carry a rigour rating.
+**Coverage.** 106,724 evidence entries; 12,767 rest on a printed effect size and 93,989 report none (`i?`); 100,145 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -99,7 +99,7 @@ Each claim states the year of its newest study and when its sources were last ch
 
 **Cannot catch.** A finding superseded by newer research the wiki has not ingested.
 
-**Coverage.** 17,519 claims carry a recheck year; 7,968 are past it.
+**Coverage.** 17,521 claims carry a recheck year; 7,970 are past it.
 
 ### 11. Structure
 
