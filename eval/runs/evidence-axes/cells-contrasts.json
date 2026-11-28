@@ -135210,5 +135210,33 @@
  "interleaving\tinterleaved mathematics practice\tspacing-only practice": {
   "label": "interleaved vs spacing-only",
   "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining explicating strategy use\tnot stated": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining informing learners about strategy use and usefulness\tnot stated": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining informing learners about strategy use and usefulness\tunspecified comparison": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked practice\tinterleaved/random practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved instruction on volume formulas\tblocked instruction on volume formulas": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved paintings by artist\tblocked paintings by artist": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice of three keystroke patterns\tblocked practice of three keystroke patterns": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
  }
 }

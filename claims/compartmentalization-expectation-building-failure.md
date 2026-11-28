@@ -52,3 +52,4 @@ Venn-diagram probability analysis of the 28 students' responses. The article rep
 - [Students fail to combine amplitudes of identical basis states before taking the absolute square when computing measurement probabilities](probability-coefficient-combination-difficulty.md) — related
 - [Success on the descriptive question guaranteed success on binary and computational questions, but the converse did not hold](descriptive-success-predicts-other-types.md) — related
 - [Most students who computed the network correctly did so without demonstrating deeper conceptual understanding of series and parallel combinations](computation-without-conceptual-understanding.md) — related
+- [Most American sixth-graders failed a realistic bus-division problem, indicating compartmentalized school mathematics knowledge](bus-problem-compartmentalization-sixth-graders.md) — related

@@ -23,9 +23,14 @@ canonical theory pages were then written by hand from those claims, each checked
 - **The Sweller, Ayres & Kalyuga (2011) book is not needed.** What the cognitive-load card cites it for is in
   journal articles the wiki already cites: Sweller (2010), Sweller, van Merriënboer & Paas (1998, 2019), and
   Kalyuga (2007).
-- **Still to come:** the SAM model (Raaijmakers 2003), relational complexity (Halford, Wilson & Phillips 1998),
-  encoding specificity (Tulving & Thomson 1973) and inert knowledge (Renkl, Mandl & Gruber 1996). The maintainer
-  supplied all four on 28 Nov, and they are in the next batch.
+- **Then, from the maintainer's 28 Nov copies (batch `j-drive-gap2`):** `sam-model-of-spacing-and-repetition`
+  (Raaijmakers 2003), `encoding-specificity-principle` (Tulving & Thomson 1973) and `inert-knowledge` (Renkl, Mandl &
+  Gruber 1996). The settle step had attached SAM to `study-phase-retrieval-account-of-spacing`, encoding specificity
+  to `information-processing-theory` and Renkl's ACT* compilation account to `act-r-activation-model-of-spacing`.
+  Each is a reasonable neighbour but not the page the simulator's cards name, so each now has its own page. Only
+  the recognition-failure claim had actually been attached, to information-processing-theory, and it stays there.
+  Halford, Wilson & Phillips (1998) failed structural validation and is retried, so relational complexity still
+  has no page. Bjork & Bjork (2011) went in on its retry and attached to the retrieval-effort hub.
 
 ## 2026-11-27 · Simulator hypotheses: flagged principles, and the intake for them
 

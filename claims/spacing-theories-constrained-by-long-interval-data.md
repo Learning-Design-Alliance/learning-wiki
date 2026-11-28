@@ -54,3 +54,4 @@ Authors' own simulations of the ACT-R and SAM models, conducted to determine whe
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](parameters-vary-systematically-with-interval.md) — related
 - [Percentage improvements from optimal versus zero-day gaps grow with retention interval, reaching 111% for recall at a 70-day RI](percentage-improvements-optimal-gap-by-ri.md) — related
 - [The activation-based ACT–R model closely mirrors the experiment's data and fits better than the Raaijmakers SAM model on the restricted data set](actr-model-fits-experiment-better-than-sam.md) — related
+- [The SAM spacing model is presented as predicting the Ross–Landauer finding of no spacing effect for recall of at least one of two different items each presented once](sam-model-predicts-ross-landauer-or-finding.md) — related

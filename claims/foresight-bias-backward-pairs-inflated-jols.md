@@ -70,3 +70,4 @@ First block of Experiment 2's test group (16 Hebrew-speaking undergraduates) wit
 - [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
 - [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related
 - [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related
+- [Pairing targets with weak input cues does not impair generation of targets to strong extralist cues from semantic memory](generation-unaffected-by-input-pairing.md) — related

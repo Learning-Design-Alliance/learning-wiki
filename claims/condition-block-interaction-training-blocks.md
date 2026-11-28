@@ -67,3 +67,4 @@ The same 4 (Condition) × 9 (Block) mixed ANOVA on mean total time during traini
 - [Anodal tDCS at either left or right PMd during repetitive practice improves online acquisition of novel motor sequences relative to sham conditions](anodal-tdcs-pmd-improves-online-motor-acquisition.md) — related
 - [Repetitive practice yields faster online acquisition than interleaved practice for motor sequence learning](rp-better-acquisition-than-ip.md) — related
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — related

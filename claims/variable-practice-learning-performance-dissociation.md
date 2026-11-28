@@ -68,3 +68,5 @@ Narrative review of Smith, Glenberg, and Bjork (1978), in which participants stu
 - [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — related
 - [Interleaved practice produces better long-term retention than repetitive practice via offline gains at 6 h and 24 h](ip-better-retention-than-rp.md) — related
 - [Repetitive practice yields faster online acquisition than interleaved practice for motor sequence learning](rp-better-acquisition-than-ip.md) — related
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — a narrower finding that bears on this claim
+- [Varying conditions of practice, including study setting and practice distance, enhances later recall and transfer compared with constant practice](varied-practice-enhances-retention-transfer.md) — a broader claim this one bears on

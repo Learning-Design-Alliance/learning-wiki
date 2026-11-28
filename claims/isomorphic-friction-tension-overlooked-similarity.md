@@ -63,3 +63,4 @@ Introductory students were given two isomorphic equilibrium-on-an-incline proble
 - [The conception that friction always opposes movement persists among secondary completers and even among beginning university physics students](friction-always-opposes-motion-persistence.md) — related
 - [GPT-4 could not reproduce novice reasoning when prompted, and failed on physics questions not phrased in canonical physics tone and nomenclature](gpt4-limitations-novice-emulation-informal-prompts.md) — related
 - [After tutorial or worked-example instruction students solve the identical problem well but transfer poorly to a similar-context problem; adding an on-ramp module improves pre-instruction transfer](on-ramp-modules-improve-transfer-tutorial-sequence.md) — related
+- [Most American sixth-graders failed a realistic bus-division problem, indicating compartmentalized school mathematics knowledge](bus-problem-compartmentalization-sixth-graders.md) — related

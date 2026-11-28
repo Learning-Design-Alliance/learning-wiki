@@ -68,3 +68,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — related
 - [One-day distributed and weekly distributed practice schedules produce no difference in bronchoscopy skills acquisition on a simulator](bjerrum-no-difference-one-day-vs-weekly-spaced-bronoscopy.md) — related
 - [Massed practice supports quicker acquisition but distributed practice yields better long-term retention of motor skills](distributed-practice-motor-learning-performance-dissociation.md) — reports the opposite
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — related

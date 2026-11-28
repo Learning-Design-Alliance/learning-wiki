@@ -71,3 +71,4 @@ The article reviews Glenberg's (1976) continuous recognition memory experiment, 
 - [Simulation of the reminding model captures the retention-interval-by-lag interaction, but only with an added retarded-forgetting assumption](reminding-simulation-captures-ri-interaction.md) — a narrower finding that bears on this claim
 - [Even with relaxed monotonic response assumptions, generalized SST cannot produce nonmonotonic lag functions](sst-cannot-produce-nonmonotonic-lag-functions.md) — reports the opposite
 - [Meta-analysis of 829 conditions from 72 articles shows spaced repetitions increasingly exceed the independence baseline as lag grows](superadditivity-ubiquitous-meta-analysis.md) — related
+- [The SAM spacing model can generate non-monotonic spacing effects, as shown by its fit to Young's 1971 data](sam-model-generates-nonmonotonic-spacing-young-1971.md) — related

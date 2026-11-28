@@ -70,3 +70,4 @@ Narrative review of Balota, Duchek, and Paullin (1989), a continuous cued-recall
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Spacing study sessions supports long-term retention whereas massing supports only short-term performance (the spacing effect)](spacing-effect-spacing-versus-massing.md) — a broader claim this one bears on

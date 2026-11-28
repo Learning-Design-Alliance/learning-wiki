@@ -86,3 +86,4 @@ The article reports, citing Radatz via Schoenfeld (1989), that non-problems inse
 ## Related Claims
 - [On a qualitative reasoning problem, all experimental 2nd-graders succeeded while only 6 of 29 regularly taught 9th-graders did](steamer-problem-experimental-second-graders.md) — related
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — related
+- [Most American sixth-graders failed a realistic bus-division problem, indicating compartmentalized school mathematics knowledge](bus-problem-compartmentalization-sixth-graders.md) — possibly the same claim (merge candidate)

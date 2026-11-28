@@ -31,10 +31,10 @@ Reusable instructional designs at the lesson or unit level.
 ### [Designs](designs/index.md) (5904)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (5855)
+### [Products & Programmes](products/index.md) (5856)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (17706)
+### [Strategies](strategies/index.md) (17708)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -46,13 +46,13 @@ The practices a design process is made of — analysis, elicitation, mapping and
 ### [Research Methods](research-methods/index.md) (1534)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-### [Theories](theories/index.md) (1364)
+### [Theories](theories/index.md) (1367)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (75)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (90188)
+### [Claims](claims/index.md) (90205)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

@@ -51,6 +51,7 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Role-specific pilot actions for shifting to an open knowledge system](stakeholder-open-knowledge-pilot-actions.md)
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
+- [Target the assessment of applicable knowledge and large-scale implementation as priority research and design moves](assess-applicable-knowledge-strategy.md)
 
 ## Examples
 -

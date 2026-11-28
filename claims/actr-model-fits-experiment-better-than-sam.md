@@ -52,3 +52,4 @@ Modeling comparison on first-trial S2 data (eight-test-trial condition excluded 
 - [Extrapolating from parameters fitted to a restricted range of between-session intervals produces worse predictions than time-variant fits](restricted-range-fits-extrapolate-poorly.md) — related
 - [Allowing ACT-R memory parameters to vary with the between-session interval produces a strong fit between model and recall data across timescales](time-variant-parameters-capture-retention-across-timescales.md) — related
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](parameters-vary-systematically-with-interval.md) — related
+- [The SAM spacing model captures the basic characteristics of Glenberg's 1976 data, though a competing model fit better on an assumption the article calls artificial](sam-fit-glenberg-1976-reed-comparison.md) — related

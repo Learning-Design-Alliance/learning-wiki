@@ -65,3 +65,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Performance during initial learning was significantly worse with wider spacing, and no serial-position or baseline practice-condition differences were found](wider-spacing-lowers-in-session-performance-no-serial-position.md) — related
 - [First key press latencies confirm that retrieval is more difficult after longer ISIs and becomes less difficult as the number of correct retrievals increases](latency-confirms-isi-and-criterion-difficulty-assumptions.md) — related
 - [Relearning measured in percent savings yields a differently shaped retention function that falls much less rapidly than recall and other standard testing procedures](savings-retention-function-differs-from-recall.md) — related
+- [Spacing study sessions supports long-term retention whereas massing supports only short-term performance (the spacing effect)](spacing-effect-spacing-versus-massing.md) — related

@@ -56,3 +56,4 @@ A free recall experiment with 24 Loyola University students; items presented onc
 - [Across item types, items given high recall-likelihood ratings are recalled with greater probability than items given lower ratings](jol-predicts-relative-recall-within-types.md) — related
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — reports the opposite
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — a narrower finding that bears on this claim
+- [The SAM spacing model is presented as predicting the Ross–Landauer finding of no spacing effect for recall of at least one of two different items each presented once](sam-model-predicts-ross-landauer-or-finding.md) — related

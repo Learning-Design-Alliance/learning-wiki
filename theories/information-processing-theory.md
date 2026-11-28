@@ -18,7 +18,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 142 claims (80 for, 60 mixed, 2 against) · 95 studies (44 causal, 28 associational, 13 review, 4 quant-synthesis, 4 theoretical, 2 design), `q1`–`q4` · 23 of 95 report an effect size · 139 claims rest on one study
+> **Evidence** · 143 claims (81 for, 60 mixed, 2 against) · 96 studies (45 causal, 28 associational, 13 review, 4 quant-synthesis, 4 theoretical, 2 design), `q1`–`q4` · 23 of 96 report an effect size · 140 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -206,6 +206,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Experts cue their basic approach on derived second-order features of the problem situation, which novices almost never mention](../claims/second-order-features-guide-expert-approach.md) [+W] — attached 2026-11-23 from Michelene Chi et al. (1981), which proposed "Problem representation as schema-activated categorization: categorizing a problem as a type indexes the knowledge that completes its representation"; tests this page's relationship.
 - [In a modified Brown-Peterson paradigm, the lag function is nonmonotonic for cued recall and monotonic for uncued recall, implicating retrieval cues rather than storage differences.](../claims/cued-recall-nonmonotonic-lag-brown-peterson.md) [+W] — attached 2026-11-25 from Glenberg (1976), which proposed "A variant of encoding variability theory: context change over time varies stimulus encodings, and the similarity between test-context encodings and input encodings determines the shape of the lag function.".
 - [Working-memory performance on the letter-number control task was not affected by time of day or relation to sleep in adolescents](../claims/working-memory-unaffected-by-sleep-or-time-of-day.md) [~W] — attached 2026-11-25 from Potkin KT (2012), which proposed "Sleep-dependent memory consolidation: REM and slow-wave sleep strengthen declarative memory traces".
+- [Subjects consistently fail to recognize many target words they can recall with input cues (recognition failure of recallable words)](../claims/recognition-failure-of-recallable-words.md) [+W] — attached 2026-11-28 from Endel Tulving et al. (1973), which proposed "Encoding specificity principle"; tests this page's relationship.
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

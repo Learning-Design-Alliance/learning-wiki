@@ -71,3 +71,4 @@ Experiment 1 test scores (20 unseen paintings) showed "actual learning outcomes 
 - [In a within-subjects category-learning experiment, students reported higher mental effort and lower concurrent judgments of learning during interleaved than during blocked studying](interleaved-higher-effort-lower-jol-within-subjects.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Students perform worse on interleaved homework than blocked homework and misjudge its learning value](interleaved-homework-worse-performance-metacognitive-judgments.md) — related
+- [Learners systematically misjudge which practice conditions benefit them, judging blocking more effective than interleaving and being overconfident after blocked practice](metacognitive-illusion-blocked-practice-overconfidence.md) — related

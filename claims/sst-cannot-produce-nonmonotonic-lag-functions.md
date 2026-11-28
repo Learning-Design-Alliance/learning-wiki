@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: benjamin-2010
-    resource: "http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm"
-    title: "Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm"
+    resource: "https://doi.org/10.1016/j.cogpsych.2010.05.004"
+    title: "Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)"
     author: "Benjamin, Aaron S., & Tullis, Jonathan"
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Benjamin 2010
 
-Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm
+Benjamin, Aaron S., & Tullis, Jonathan. (2010). What makes distributed practice effective? http://www.psych.uiuc.edu/~asbenjam/SuperadditivityReferences.htm. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -54,3 +54,4 @@ Analytical derivation (Appendices A and B): SST is generalized to variable reten
 - [The experimental results reject the General Forgetting Theory and the rehearsal buffer theory as explanations of the CPA lag effect, because neither predicts the shift from nonmonotonic to monotonic lag functions with increasing retention interval.](gft-rehearsal-buffer-theories-rejected.md) — related
 - [Across three paradigms the nonmonotonicity in the lag function is small (3 to 5%) but statistically significant in each experiment, while monotonic gains at long retention intervals reach about 12% in Experiments I and III and close to 25% in Experiment II's uncued conditions.](lag-effect-magnitudes-across-paradigms.md) — reports the opposite
 - [Spacing effects are not always monotonic: the model captured Young's (1971) nonmonotonic spacing function](nonmonotonic-spacing-effect-young-fit.md) — reports the opposite
+- [The SAM spacing model can generate non-monotonic spacing effects, as shown by its fit to Young's 1971 data](sam-model-generates-nonmonotonic-spacing-young-1971.md) — related

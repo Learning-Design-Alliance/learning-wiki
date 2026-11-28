@@ -73,3 +73,5 @@ Narrative review of J. B. Shea and Morgan (1979), in which participants learned 
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — reports the opposite
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related
 - [Varying conditions of practice can induce more errors during acquisition yet improve long-term retention and transfer of motor and verbal skills](variable-practice-learning-performance-dissociation.md) — related
+- [Interleaved practice produces superior long-term retention and transfer compared with blocked practice, despite blocked practice yielding faster gains during training](interleaving-beats-blocking-long-term.md) — a narrower finding that bears on this claim
+- [Spacing study sessions supports long-term retention whereas massing supports only short-term performance (the spacing effect)](spacing-effect-spacing-versus-massing.md) — related
