@@ -11,7 +11,7 @@ This wiki is written by language models, from published research, and checked by
 | Claims | 90,141, from 20,928 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 8,777 claims (10%) |
-| Claims citing at least one DOI | 76,608 claims (85%) |
+| Claims citing at least one DOI | 76,613 claims (85%) |
 | Sources whose citations went through the Crossref identity gate | 20,098 of 20,928 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 76,608 of 90,141 claims (85%) cite a DOI; 2,915 claims removed for having none.
+**Coverage.** 76,613 of 90,141 claims (85%) cite a DOI; 2,915 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
