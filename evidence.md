@@ -153,7 +153,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [strategies](strategies/index.md) | 17,706 | 13,056 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 14 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
-| [theories](theories/index.md) | 1,360 | 925 | 1 | 0 |
+| [theories](theories/index.md) | 1,364 | 929 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 104 | 0 |
 | [designs](designs/index.md) | 5,904 | 3,867 | 1 | 1 |
 | [products](products/index.md) | 5,855 | 4,073 | 1 | 1 |

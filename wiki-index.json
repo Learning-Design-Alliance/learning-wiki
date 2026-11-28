@@ -11,7 +11,7 @@
 "product":5855,
 "research-method":1534,
 "strategy":17706,
-"theory":1360
+"theory":1364
 },
 "kinds":[
 "claim",
@@ -125810,6 +125810,7 @@
 "ace-generic-and-value-adding-roles":"ace-generic-and-value-adding-roles",
 "achievement-measurement-approaches-taxonomy":"achievement-measurement-approaches-taxonomy",
 "act-proceduralization-automatization":"act-proceduralization-automatization",
+"act-r-activation-model-of-spacing":"act-r-activation-model-of-spacing",
 "act-theory-propositional-network-spread-of-activation":"act-theory-propositional-network-spread-of-activation",
 "active-ingredients-coaching-conceptual-framework":"active-ingredients-coaching-conceptual-framework",
 "active-learning-course-design-taxonomy-martella":"active-learning-course-design-taxonomy-martella",
@@ -126668,6 +126669,7 @@
 "multiple-intelligences-theory":"multiple-intelligences-theory",
 "multiple-local-coherences-real-time-stability":"multiple-local-coherences-real-time-stability",
 "multiple-local-conceptual-coherences":"multiple-local-conceptual-coherences",
+"multiscale-context-model-of-spacing":"multiscale-context-model-of-spacing",
 "multisite-rct-design-average-and-variation":"multisite-rct-design-average-and-variation",
 "multivariate-true-score-model-norms":"multivariate-true-score-model-norms",
 "musical-skill-acquisition-framework-irt-bkt":"musical-skill-acquisition-framework-irt-bkt",
@@ -126737,6 +126739,7 @@
 "play-and-cognitive-development":"play-and-cognitive-development",
 "plc-five-dimensions-four-stage-scale":"plc-five-dimensions-four-stage-scale",
 "positionality-being-over-doing":"positionality-being-over-doing",
+"power-law-of-forgetting":"power-law-of-forgetting",
 "powerful-learning-emerging-tech-framework":"powerful-learning-emerging-tech-framework",
 "powerful-learning-meaningful-use-inclusive-access-leadership":"powerful-learning-meaningful-use-inclusive-access-leadership",
 "prabhu-learner-effort-typology":"prabhu-learner-effort-typology",
@@ -126973,6 +126976,7 @@
 "student-hat-professional-learning-approach":"student-hat-professional-learning-approach",
 "student-orientation-toward-achievement":"student-orientation-toward-achievement",
 "student-test-engagement-construct":"student-test-engagement-construct",
+"study-phase-retrieval-account-of-spacing":"study-phase-retrieval-account-of-spacing",
 "subregional-ee-curriculum-reorientation-strategy":"subregional-ee-curriculum-reorientation-strategy",
 "supervisory-teacher-coaching-model":"supervisory-teacher-coaching-model",
 "support-and-pressure-principal-leadership-framework":"support-and-pressure-principal-leadership-framework",

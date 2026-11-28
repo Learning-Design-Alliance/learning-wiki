@@ -46,7 +46,7 @@ The practices a design process is made of — analysis, elicitation, mapping and
 ### [Research Methods](research-methods/index.md) (1534)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-### [Theories](theories/index.md) (1360)
+### [Theories](theories/index.md) (1364)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (75)

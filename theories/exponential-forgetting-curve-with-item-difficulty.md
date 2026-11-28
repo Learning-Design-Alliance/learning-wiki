@@ -18,7 +18,7 @@ sources:
 # Exponential Forgetting Curve with Item Difficulty
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (10 for, 1 mixed, 2 against) · 7 studies (5 causal, 1 design, 1 theoretical), `q2`–`q3` · 2 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 11 claims (8 for, 1 mixed, 2 against) · 6 studies (5 causal, 1 design), `q2`–`q3` · 2 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 The article adopts a variant of the exponential forgetting curve, in which recall is binary and recall probability decays exponentially with time since last review at a rate reduced by memory strength. It adds that "there is a constant, item-speciﬁc component of the memory decay rate" through a difficulty parameter, and its final form uses Leitner deck position as strength with a global difficulty.
@@ -53,14 +53,13 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 - [The scheduling model fit the experimental data well, correlating strongly with actual final-test performance (r = 0.775) with AUC = 0.871](../claims/model-fit-recall-prediction-accuracy.md) [+W]
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](../claims/time-dependent-forgetting-across-intervals.md) [+W]
 - [Spacing effects are not always monotonic: the model captured Young's (1971) nonmonotonic spacing function](../claims/nonmonotonic-spacing-effect-young-fit.md) [+W] — attached 2026-11-26 from Philip I. Pavlik Jr. (2005), which proposed "Activation-based decay model: the long-term benefit of each practice depends on activation at the time of presentation"; tests this page's relationship.
-- [MCM's parameter-free predictions match the peaks of seven spacing functions, with the optimal ISI increasing with the retention interval](../claims/mcm-parameter-free-spacing-function-predictions.md) [+W] — attached 2026-11-28 from Mozer et al. (2008), which proposed "Multiscale Context Model (MCM): a synthesis of SAM and MTS predicting the spacing function from the forgetting function".
-- [MCM predicts different optimal ISIs for two different types of material studied with identical ISI and RI conditions](../claims/mcm-material-specific-peak-prediction.md) [+W] — attached 2026-11-28 from Mozer et al. (2008), which proposed "Multiscale Context Model (MCM): a synthesis of SAM and MTS predicting the spacing function from the forgetting function".
 
 ## The evidence by question
 - *Does a learner model that tracks memory decay since the last review predict recall better than one that ignores it, and for which kinds of material?* [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](../claims/memory-features-improve-fit-for-fact-learning-datasets.md) [+M]
 
 ## Related Theories
 - [Spaced Repetition](../elements/spaced-repetition.md)
+- [Power Law of Forgetting](power-law-of-forgetting.md): the rival functional form, slower than exponential at long delays.
 
 ## Examples
 

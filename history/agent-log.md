@@ -5,6 +5,28 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-28 · Theory pages for the simulator's spacing card
+
+The mechanism-link pilot (27 Nov) found that the spacing card's forgetting form and its rival accounts had no wiki
+page. Nine of the sources were read from open copies and ingested in batch `j-drive-gap` (47 claims). Four
+canonical theory pages were then written by hand from those claims, each checked against its paper's text:
+`power-law-of-forgetting` (Wixted & Ebbesen 1991; Rubin & Wenzel 1996), `act-r-activation-model-of-spacing`
+(Pavlik & Anderson 2005), `multiscale-context-model-of-spacing` (Mozer et al. 2009) and
+`study-phase-retrieval-account-of-spacing` (Benjamin & Tullis 2010; Cepeda et al. 2006).
+
+- **Already covered, so no new page:** the retrieval-effort hypothesis (Pyc & Rawson 2009) and Bjork's new theory
+  of disuse (Bjork & Bjork 2020). The settle step attached both to
+  `strength-and-retrieval-effort-account-of-retrieval-practice`, which is the hub for that account.
+- **A settle mistake, corrected by hand:** the settle step had attached the two multiscale-context-model claims to
+  `exponential-forgetting-curve-with-item-difficulty` as a variant. MCM is a separate model, so those two lines
+  moved to its own page. The decision record in `eval/candidates/decisions/` still names the old target.
+- **The Sweller, Ayres & Kalyuga (2011) book is not needed.** What the cognitive-load card cites it for is in
+  journal articles the wiki already cites: Sweller (2010), Sweller, van Merriënboer & Paas (1998, 2019), and
+  Kalyuga (2007).
+- **Still to come:** the SAM model (Raaijmakers 2003), relational complexity (Halford, Wilson & Phillips 1998),
+  encoding specificity (Tulving & Thomson 1973) and inert knowledge (Renkl, Mandl & Gruber 1996). The maintainer
+  supplied all four on 28 Nov, and they are in the next batch.
+
 ## 2026-11-27 · Simulator hypotheses: flagged principles, and the intake for them
 
 The maintainer settled where the learning-graph simulator meets the wiki, after the simulator sources were all
