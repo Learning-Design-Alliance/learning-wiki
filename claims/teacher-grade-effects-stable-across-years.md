@@ -48,3 +48,4 @@ Autocorrelation analysis of teacher grade effects across years in the CPS sample
 - [Grading mismatch correlates negatively with persistent effects, and total effects reflect mismatch more than persistent effects](mismatch-negatively-correlated-persistent-effects.md) — related
 - [Ninth-grade teachers vary substantially and systematically in the grades they give](teacher-total-grade-effects-vary-substantially.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
+- [Year-to-year stability of teacher value-added ranges roughly 0.47 to 0.64 without fixed effects but drops to 0.18 to 0.33 with school fixed effects](vam-stability-correlations-model-dependent.md) — related

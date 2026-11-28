@@ -9,6 +9,7 @@ generated:
   at: 2026-11-28
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-28
 sources:
   - id: mozer-2008
     resource: "https://papers.nips.cc"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-28 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` SAM can explain spacing effects on any one time scale but the same model cannot explain spacing effects on a different time scale, because the exponential decay in context overlap bounds the model's time scale. [→ Mozer 2008](#mozer-2008)

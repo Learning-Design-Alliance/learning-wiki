@@ -51,3 +51,4 @@ Longitudinal cohort study of 4,228 students followed for five years with up to t
 - [Ever-SPED students lost more learning than never-SPED students during every summer from kindergarten through 4th grade](ever-sped-greater-summer-learning-loss.md) — related
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](sped-score-gap-grows-04-to-09-sd.md) — related
 - [Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading](dually-identified-smaller-gains.md) — related
+- [Both Smart Start and More at Four showed significant positive impacts on reading and math scores and reductions in special education and grade retention, with effect sizes growing or holding steady across Grades 3-5](nc-early-programs-positive-impacts-all-outcomes.md) — related

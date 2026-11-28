@@ -51,3 +51,4 @@ The report's executive summary attributes this finding to a longitudinal evaluat
 - [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — a broader claim this one bears on
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
+- [VPK participation was associated with lower kindergarten retention that did not persist, higher later school rule violations, and higher special education designation rates than controls](vpk-retention-discipline-special-education-outcomes.md) — related

@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (41 for, 20 mixed, 2 against) · 67 studies (17 causal, 13 associational, 10 review, 8 design, 8 theoretical, 6 qualitative, 5 quant-synthesis), `q1`–`q4` · 5 of 67 report an effect size · 57 claims rest on one study
+> **Evidence** · 64 claims (42 for, 20 mixed, 2 against) · 68 studies (18 causal, 13 associational, 10 review, 8 design, 8 theoretical, 6 qualitative, 5 quant-synthesis), `q1`–`q4` · 5 of 68 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [The score gap between URG and non-URG students is significantly reduced on the student-created problem assessment, with near-equal performance between the groups](../claims/problem-project-reduces-urg-score-gap.md) [+W] — attached 2026-11-19 from Bruce A. Schumm et al. (2021), which proposed "Use student-created problem assessments as a supplement to traditional exams, not a replacement"; tests this page's relationship.
 - [False favorable MPEX responses led to an incorrect prediction of Student B's gains, whose FMCE performance was the worst in the course](../claims/false-favorables-mpex-student-b-misprediction.md) [+W] — attached 2026-11-22 from Michael C. Wittmann (1998), which proposed "Do not rely solely on standardized tests when exploring student responses and attitudes toward learning".
 - [Students can give favorable Likert-scale responses for unfavorable reasons, which written comments on the MPEX reveal](../claims/favorable-likert-responses-unfavorable-reasons.md) [+W] — attached 2026-11-22 from Michael C. Wittmann (1998), which proposed "Do not rely solely on standardized tests when exploring student responses and attitudes toward learning".
+- [Aggregate return can be inconclusive between curriculum variants while capability profiles separate completely: base15 and longStack returns do not differ detectably, yet base15 exceeds longStack on deep-skill success rates](../claims/aggregate-return-hides-capability-differences.md) [+W] — attached 2026-11-28 from Zhu et al. (2026), which proposed "Monitor the original task and report raw held-out skill rates alongside aggregate return when evaluating curricula".
 
 ## Objective and learner-valued goal
 

@@ -56,3 +56,4 @@ This conclusion synthesizes the study's quasi-experimental, retrospective, cross
 - [Preschool attendees outperform informal-care peers on academic achievement from kindergarten through early adolescence](preschool-academic-benefits-persist-through-adolescence.md) — a broader claim this one bears on
 - [No statistically significant differences were found between HIPPY and comparison children on discipline referrals](hippy-no-significant-discipline-referral-differences.md) — a narrower finding that bears on this claim
 - [Long-term 'sleeper effects' of early elementary retention on adolescent outcomes are under-studied](retention-sleeper-effects-adolescent-outcomes-understudied.md) — related
+- [VPK participation was associated with lower kindergarten retention that did not persist, higher later school rule violations, and higher special education designation rates than controls](vpk-retention-discipline-special-education-outcomes.md) — related

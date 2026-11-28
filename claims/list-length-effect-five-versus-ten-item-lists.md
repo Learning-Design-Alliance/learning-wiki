@@ -47,3 +47,4 @@ Data from two conditions of a larger experiment by the senior author's students 
 ## Related Claims
 - [Experiment II: E1 subjects outperformed E2 subjects on shortened lists even though E2's re-paired lists were easier, consistent with incremental theory](experiment-two-repaired-lists-easier-e1-recalled-more.md) — related
 - [Unintentional learning of word associations occurs when items co-occur in the focus of attention](focus-of-attention-incidental-binding.md) — related
+- [Incidental association formation occurs between items concurrently in the focus of attention, better for short than long lists](focus-of-attention-binding-incidental-learning.md) — related

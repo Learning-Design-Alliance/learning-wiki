@@ -50,3 +50,7 @@ Legacy data from the treatment years of the cluster-randomized trial, reported i
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
 - [Matched control children with similar post-test scores outperform matched treatment children at follow-up](matched-controls-outperform-matched-treatment-at-followup.md) — related
 - [Regression-adjusted longitudinal correlations imply much larger long-run skill-building effects than experimental impacts show, with TRIAD experimental impacts non-significant by fourth grade](correlational-estimates-overstate-skill-building-effects.md) — related
+- [Gender does not significantly moderate TRIAD treatment effects on first-grade mathematics achievement](gender-not-moderator-triad-first-grade.md) — related
+- [TRIAD follow-through students significantly outperform control students in mathematics at the end of first grade (ITT, g = .38)](triad-ft-first-grade-itt-outperformed-control.md) — related
+- [TRIAD non-follow-through students significantly outperform control students in mathematics at the end of first grade (ITT, g = .21)](triad-nft-first-grade-itt-outperformed-control.md) — reports the opposite
+- [In the project's earlier reported years, TRIAD students learned more mathematics than controls in pre-K (g = .72) and follow-through students outperformed controls in kindergarten (ITT g = .33)](triad-prek-kindergarten-effects-prior-years.md) — related

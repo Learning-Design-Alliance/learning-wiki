@@ -82,3 +82,4 @@ Narrative summary of the Luo et al. meta-analysis of 33 preschool studies (ages 
 - [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](sel-effects-vary-by-risk-level.md) — related
 - [Implementation fidelity in SEL programs is closely linked to positive program outcomes for teachers and students](sel-fidelity-linked-outcomes.md) — possibly the same claim (merge candidate)
 - [The Summer 2015 in-person workshop showed anomalously low gain and effect size, attributed to its shorter one-week duration or improving program implementation](summer-2015-workshop-anomalous-low-gain.md) — related
+- [Evidence for the efficacy of preschool programs is stronger than evidence for their effectiveness when implemented at scale](preschool-efficacy-stronger-than-effectiveness-evidence.md) — related

@@ -55,3 +55,5 @@ Propensity-score-matched path models in the ECLS-K 1998 cohort compared preschoo
 - [Pre-primary programme attendance is associated with higher science test scores at age 15 (0.09 SD for at least 1 year; 0.20 SD for 2 or more years)](pisa-pre-primary-science-association.md)
 - [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md)
 - [Children who participated in HIPPY as preschoolers appear to have benefited long-term from the experience](hippy-long-term-benefit-school-performance.md) — a narrower finding that bears on this claim
+- [Prior reviews find large public preschool programs generally have weaker long-term impacts on academic achievement than smaller, higher-quality, more targeted programs](large-public-programs-weaker-impacts.md) — related
+- [Prior observational studies find full-day kindergarten literacy advantages that fail to persist beyond the kindergarten year](observational-full-day-advantages-fade-first-grade.md) — related

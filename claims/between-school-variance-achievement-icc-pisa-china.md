@@ -61,3 +61,4 @@ Unconditional two-level HLM models on the full PISA 2018 Chinese sample. The art
 - [Fourteen percent of variance in academic achievement is attributable to differences between classrooms](classroom-level-achievement-variance-14-percent.md) — related
 - [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related
 - [About 21.5% of the variance in eighth-grade mathematics achievement in Taiwan lies between schools](icc-21-5-percent-between-schools-taiwan-math.md) — related
+- [Across Grades K-12 in nationally representative samples, the average unconditional intraclass correlation is about .22 in all schools, with reading and mathematics values generally quite similar.](national-average-unconditional-icc-about-22.md) — related

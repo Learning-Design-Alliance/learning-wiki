@@ -62,3 +62,5 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 - The study was adequately powered only for medium-to-large effects on the critical three-way interaction — related
 - The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related
 - [The Calonico et al. (2014) method is assessed for computing accurate p-values in RDDs powered for small impacts](calonico-robust-pvalues-assessment.md) — a narrower finding that bears on this claim
+- [State pre-K math impacts were positive in all five states but reliable only in Michigan and New Jersey](state-prek-math-impacts-michigan-new-jersey.md) — related
+- [State pre-K participation yielded significant standardized receptive vocabulary impacts only in New Jersey and Oklahoma, with two of the three other state coefficients positive](state-prek-receptive-vocabulary-impacts-nj-ok.md) — related

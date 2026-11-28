@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**5856 entries** · 0 stable · 5856 in review · 0 drafts
+**5860 entries** · 0 stable · 5860 in review · 0 drafts
 
 ---
 
@@ -2012,6 +2012,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Geometry Area Unit tutor log dataset used for LFA evaluation](geometry-area-unit-tutor-log-dataset-used-for-lfa-evaluation.md) - A 4,102-record student-action log dataset from 24 learners using the Geometry Cognitive Tutor Area Unit, released as the testbed for learning-factor analysis experiments.
 * [Geometry Reasoning and Proof Test (GRPT) with perception and attitude questionnaire](geometry-reasoning-and-proof-test-grpt-with-perception-and-attitude-questionnaire.md) - A study-developed assessment package combining a geometry reasoning and proof test with a five-point questionnaire measuring students’ perceptions and attitudes toward AI-supported geometry instruction.
 * [Georgia GKIDS Readiness Check](georgia-gkids-readiness-check.md) - A brief kindergarten readiness assessment in Georgia's yearlong GKIDS system, combining direct performance tasks and teacher observations across social-emotional learning, English language arts, and mathematics.
+* [Georgia Pre-Kindergarten (GPK) universal program](georgia-pre-kindergarten-gpk-universal-program.md) - Georgia's state-funded, voluntary universal pre-kindergarten programme for age-eligible four-year-olds, administered through approved public, Head Start, private, faith-based, and nonprofit providers.
 * [GeoVAD-Bench](geovad-bench.md) - A diagnostic benchmark created by Zhitong Dong et al.
 * [GeoWeave](geoweave.md) - A post-training framework developed by Zhitong Dong et al.
 * [Gephi](gephi.md) - Gephi is an open-source network analysis and visualization platform developed and maintained by the Gephi community and contributors.
@@ -3147,6 +3148,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [moonGeometry public repository](moongeometry-public-repository.md) - A public repository created by Hugo Caerols and colleagues containing sample Moon photographs, GeoGebra files, and spreadsheet resources for calculating curved distances and areas and exploring spherical geometry.
 * [Moral Competence Test (MCT)](moral-competence-test-mct.md) - The Moral Competence Test is a standardized moral-judgment assessment developed by Georg Lind that uses dilemma-based argument ratings to calculate a C-score for consistency in applying moral principles.
 * [MORE (Motivational Reactive Plan)](more-motivational-reactive-plan.md) - A research-developed Prolog-debugging intelligent tutoring system that combines domain planning, motivational-state reasoning, and arbitration to sequence instruction and maintain learner motivation.
+* [More at Four (later NC Pre-K)](more-at-four-later-nc-pre-k.md) - A North Carolina state-funded pre-kindergarten programme administered through qualifying public-school and community-based classrooms for eligible four-year-old children, operated by the state of North Carolina.
 * [MORE tutoring system](more-tutoring-system.md) - MORE is a problem-solving intelligent tutoring system that monitors learner behaviour and adapts its tutoring tactics using simplified effort, confidence, and independence estimates.
 * [MORE@Home](morehome.md) - MORE@Home is a researcher-developed mobile literacy app by James S.
 * [Morphology+](morphology.md) - IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction.
@@ -4643,6 +4645,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SLOTE scale: Simulation-based Learning Outcomes in Teacher Education questionnaire](slote-scale-simulation-based-learning-outcomes-in-teacher-education-questionnaire.md) - A 29-item, 7-point self-report questionnaire developed by Levin et al.
 * [Smart Kids technology](smart-kids-technology.md) - Smart Kids technology is an elementary-education package described by Lytvynova that combines electronic textbooks, electronic educational game resources, and structured lesson activities for developing pupils' learning activity and competencies.
 * [SMART Spaces programme](smart-spaces-programme.md) - A school-based GCSE science revision programme developed by O'Hare and colleagues that combines SMART Materials, SMART Training, and SMART Activities to deliver spaced lessons in biology, chemistry, and physics.
+* [Smart Start](smart-start.md) - Smart Start is North Carolina's county-administered early-childhood initiative that funds childcare, health and family-support services, professional development, and local agency collaboration for children from birth to age four.
 * [SmartCoach and SurgSmart](smartcoach-and-surgsmart.md) - SmartCoach and SurgSmart are AI-assisted surgical-coaching software systems that analyse laparoscopic simulation or procedural video to generate performance reports and feedback for surgeons and surgical trainees.
 * [SMARTHEP Innovative Training Network](smarthep-innovative-training-network.md) - A Marie Skłodowska-Curie doctoral training network that supports early-stage researchers through cross-sector supervision, research placements, and coordinated academic–industry training.
 * [SMARTIES](smarties.md) - SMARTIES is an intelligent authoring system developed by Mizoguchi et al.
@@ -5073,6 +5076,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ten-year archival registrar data set of 195860 general education course grades across 230 majors](ten-year-archival-registrar-data-set-of-195860-general-education-course-grades-across-230.md) - A de-identified dataset released by Nixon Ryan S.
 * [Ten-year institutional dataset of STEM major declarers (18,319 students)](ten-year-institutional-dataset-of-stem-major-declarers-18319-students.md) - A ten-year institutional student-record dataset maintained by the university and used to study STEM major persistence, retention, grades, and degree outcomes among 18,319 undergraduates.
 * [Tennessee Educator Preparation Report Card](tennessee-educator-preparation-report-card.md) - A statewide accountability and reporting instrument for educator preparation providers, produced and administered by the Tennessee State Board of Education, Tennessee Department of Education, and Tennessee Higher Education Commission.
+* [Tennessee Voluntary Pre-K Program (VPK)](tennessee-voluntary-pre-k-program-vpk.md) - A state-funded prekindergarten programme administered by the Tennessee Department of Education for eligible four-year-old children, with specified staffing, instructional-time, class-size, and curriculum requirements.
 * [TenSquare's Data-Driven School Improvement Process](tensquares-data-driven-school-improvement-process.md) - A branded continuous-improvement programme developed and run by TenSquare to audit schools, create multi-year redesign plans, implement evidence-based interventions, and monitor and adjust improvement efforts.
 * [Terracotta](terracotta.md) - Terracotta is a software tool developed by the article's researchers that integrates with Canvas to automate consent, random assignment, data collection, and de-identified exports for embedded learning experiments.
 * [TerraFlops](terraflops.md) - TerraFlops is an open-source wrapper described by Eimler et al.

@@ -50,3 +50,4 @@ Across the five-year follow-up of the 4,228-student cohort, the study reports th
 - [Ever-SPED students lost more learning than never-SPED students during every summer from kindergarten through 4th grade](ever-sped-greater-summer-learning-loss.md) — related
 - [Ever-SPED students started kindergarten with lower math and reading scores and grew less than never-SPED students during the kindergarten school year](ever-sped-lower-kindergarten-start-less-growth.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
+- [Both Smart Start and More at Four showed significant positive impacts on reading and math scores and reductions in special education and grade retention, with effect sizes growing or holding steady across Grades 3-5](nc-early-programs-positive-impacts-all-outcomes.md) — related

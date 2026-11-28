@@ -53,3 +53,4 @@ Analysis of statewide Oklahoma data comparing value-added model specifications w
 - [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](rapid-guessing-no-substantive-effect-value-added.md) — related
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
+- [Controls for prior achievement are the most important covariates in value-added models, and omitting them raises estimated bias substantially](prior-achievement-controls-most-important-vam.md) — related

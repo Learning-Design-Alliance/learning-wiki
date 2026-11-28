@@ -18,7 +18,7 @@ sources:
 # Regression discontinuity design power and validity analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials. The paper states it is "using data from four previously published education studies" to produce its design-effect estimates. The identities and details of the four studies are not printed on the available page.
@@ -26,17 +26,19 @@ The evidence base for this working paper is a set of four previously published e
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Empirical design-effect estimates based on four previously published education studies**: The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials. The paper states it is "using data from four previously published education studies" to produce its design-effect estimates. The identities and details of the four studies are not printed on the available page. (John Deke (2012))
+- **Birth-date cutoff regression-discontinuity design for estimating state pre-K effects**: The evaluation exploits states' strict pre-K enrollment rules that allocate children by date of birth, "thus permitting this date to be used as a cutoff score in a regression-discontinuity design (RDD)". Treatment groups were children who had completed pre-K and were starting kindergarten; comparison children were 4-year-olds just starting pre-K in fall 2004. The deterministic cutoff enables complete modeling of the selection process into treatment and control groups. (Vivian C. Wong et al. (2008))
 
 ### Claims
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
+- [Birth-date cutoff rules were tightly implemented in all five states, with more than 90 percent compliance and treatment misallocation of only 1 to 8 percent](../claims/prek-birthdate-cutoff-compliance-rdd.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - John Deke, Lisa Dragoset. (2012). Statistical Power for Regression Discontinuity Designs in Education: Empirical Estimates of Design Effects Relative to Randomized Controlled Trials. Working Paper 8. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/statistical-power-for-regression-discontinuity-designs-in-education-empirical-estimates-of-design-effects-relative-to-randomized-controlled-trials
-
 <!-- merged 2026-10-10 from elements/four-published-education-studies-rd-power-basis ("Empirical design-effect estimates based on four previously published education studies"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Vivian C. Wong, Thomas D. Cook, W. Steven Barnett, Kwanghee Jung. (2008). An Effectiveness-Based Evaluation of Five State Pre-Kindergarten Programs. Journal of Policy Analysis and Management, Vol. 27, No. 1, 122-154. https://doi.org/10.1002/pam.20310
 
 # Empirical design-effect estimates based on four previously published education studies
 

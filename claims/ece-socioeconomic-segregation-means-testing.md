@@ -54,3 +54,4 @@ The Background section's access discussion argues the ECE system is highly socio
 - [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related
 - [Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs](economically-diverse-preschool-language-gains.md) — related
 - [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — related
+- [Positive effects of early childhood programs held for both high- and low-poverty families, suggesting spillover to nonparticipating peers](positive-effects-high-low-poverty-spillover.md) — related

@@ -47,7 +47,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 45 claims (35 for, 9 mixed, 1 against) · 25 studies (21 associational, 2 review, 2 design), `q1`–`q3` · 0 of 25 report an effect size · 44 claims rest on one study
+> **Evidence** · 47 claims (37 for, 9 mixed, 1 against) · 26 studies (21 associational, 3 review, 2 design), `q1`–`q3` · 0 of 26 report an effect size · 46 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.
@@ -68,6 +68,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - **Five-model taxonomy of value-added models for school accountability (Raw, VA, CVA-A, CVA-B, CVA-X)**: The article organises value-added models for school accountability into five types distinguished by their statistical adjustments: the Raw model (no adjustments), VA (student prior achievement), CVA-A (plus student sociodemographics), CVA-B (plus school compositional variables), and CVA-X (plus non-malleable school characteristics). The article states "This has led to five main VAMs for school accountability, each with their own advantages and disadvantages." School effects in all models are school means of predicted residuals from a linear regression of current achievement. (George Leckie et al. (2021))
 - **Reject Raw and CVA-X models and present VA and CVA-A school effects side-by-side rather than choosing between them**: The article recommends that accountability systems restrict attention to the VA and CVA-A models, since each has strengths and weaknesses, and present their school effects side-by-side so more can be learnt about schools' relative performance. The authors state they "favour the VA and CVA-A models arguing that they each have their own strengths and weaknesses and more is to be learnt by presenting and contrasting their school effects side-by-side rather than choosing between them." (George Leckie et al. (2021))
 - **Education production function with a value-added specification as the framework linking absence types to achievement**: The article frames achievement as the output of an education production function, writing that "the theory of education produc tion is employed, as developed by education economists." Achievement is modeled as a function of absence data plus student, family, neighborhood, school, teacher, and classroom inputs. Because historical inputs cannot all be observed, the model is estimated in value-added form, where prior achievement captures all historical, noncurrent inputs and current inputs explain the change. (Gottfried (2009))
+- **Value-added modeling framework: cumulative achievement function, lagged-score and two-step specifications, and empirical-Bayes shrinkage**: Value-added modeling is an economics-rooted framework for estimating the marginal contribution of inputs, including teachers, to student achievement growth. It rests on the idea that "prior achievement can be used as a sufficient statistic for the history of prior inputs", enabling estimation of contemporaneous input effects with prior achievement as a key conditioning variable. The review describes lagged-score and gain-score linear specifications, a two-step average-residuals variant, and empirical-Bayes shrinkage of estimates toward average teacher value-added. (Koedel et al. (2015))
 
 ### Claims
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](../claims/access-effective-teaching-varies-across-districts.md) [+W]
@@ -115,6 +116,8 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [The variance of school effects shrinks substantially as more student and school adjustments are added, with the biggest drop from adjusting for prior achievement](../claims/vam-adjustments-shrink-school-effect-variance.md) [+M]
 - [School effects from different VAMs correlate highly but individual schools, especially grammar schools, can be dramatically affected by each set of adjustments](../claims/vam-school-effect-correlations-high-but-schools-shift.md) [+M]
 - [A CA model adjusting only for student sociodemographics is a poor proxy for a VA model adjusting for prior achievement](../claims/ca-model-poor-proxy-for-va-model.md) [+M]
+- [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](../claims/vam-strong-designs-little-bias.md) [+M]
+- [Lagged-score value-added models outperform gain-score models across a broad range of estimation conditions](../claims/lagged-score-outperforms-gain-score-vam.md) [+M]
 
 ## Related Research Methods
 -
@@ -141,6 +144,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - McCaffrey, D. F. and Lockwood, J. R. (2011). Missing data in value-added modeling of teacher effects. The Annals of Applied Statistics, 5(2A), 773-797. https://doi.org/10.1214/10-AOAS405
 - George Leckie and Lucy Prior. (2021). A Comparison of Value-Added Models for School Accountability. https://www.compare-school-performance.service.gov.uk/
 - Gottfried, M. A. (2009). Excused Versus Unexcused: How Student Absences in Elementary School Affect Academic Achievement. Educational Evaluation and Policy Analysis, 31(4), 392-415. https://doi.org/10.3102/0162373709342467
+- Koedel, C., Mihaly, K., & Rockoff, J. E. (2015). Value-Added Modeling: A Review. Preprint, forthcoming at Economics of Education Review. https://eric.ed.gov/?q=Value-Added+Modeling+A+Review+Koedel
 
 # Value-added measures of teacher effectiveness
 

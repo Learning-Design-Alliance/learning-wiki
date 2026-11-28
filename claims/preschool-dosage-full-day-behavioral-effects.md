@@ -73,3 +73,4 @@ After propensity score matching children in public prekindergarten programs (n =
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Preschool attendees show higher externalizing behavior that persists at reduced levels through fifth grade](preschool-externalizing-behavior-persisting.md) — related
 - [Full-day CPC classrooms provided nearly 2.5 times more total instructional hours than part-day classrooms, proportionately across domains](cpc-full-day-instructional-hours-984-vs-417.md) — related
+- [Full-day kindergarten attendance significantly predicts more frequent external behavior problems in kindergarten, with no effect on internal behavior problems](full-day-kindergarten-external-behavior-problems.md) — related

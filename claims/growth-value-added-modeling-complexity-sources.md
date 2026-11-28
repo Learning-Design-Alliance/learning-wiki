@@ -54,3 +54,4 @@ The article's abstract states this as a framing claim about why "Student growth 
 - [A low alpha for an error-prone covariate can attenuate, inflate, or artificially produce a spurious effect (phantom effect) in the coefficient of a perfectly reliable predictor](low-alpha-covariate-phantom-effect.md) — related
 - [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — related
 - [Estimated teacher performance is decomposed into persistent performance, transitory performance, match quality, and value-added error](value-added-four-component-decomposition.md) — related
+- [Random-assignment experiments find non-experimental teacher value-added predicts student achievement under random assignment, with coefficients statistically indistinguishable from one](vam-experimental-predictive-validity.md) — a narrower finding that bears on this claim

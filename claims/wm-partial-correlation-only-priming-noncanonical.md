@@ -54,3 +54,4 @@ Partial correlation analysis controlling for age, in the same cross-sectional st
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — reports the opposite
 - [Word-learning performance correlates with vocabulary production in normal-hearing children but not with sentence length](word-learning-correlates-nh-vocabulary.md) — related
 - [Two distinct implicit cognitive processes show different predictive links: implicit learning predicts skill learning, associative memory activation predicts language task success](implicit-processes-differential-predictive-links.md) — related
+- [Working memory capacity increases with age, and knowledge differences cannot account for the age difference](working-memory-capacity-increases-with-age-not-knowledge.md) — related

@@ -53,3 +53,4 @@ The article reports, citing Jesse Rothstein (2010), that standard VAMs imply "im
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — related
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
 - [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — related
+- [Studies using the strongest research designs find that standard teacher value-added estimates are not meaningfully biased by student-teacher sorting](vam-strong-designs-little-bias.md) — related

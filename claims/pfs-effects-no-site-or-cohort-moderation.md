@@ -47,3 +47,4 @@ Interaction terms for intervention condition × site and condition × cohort wer
 ## Related Claims
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
 - [Instructional focus (number and operations vs. word-problem solving) and intervention implementer (researcher vs. school personnel) did not significantly predict effect sizes or moderate the dose–response relation](focus-and-implementer-null-moderators.md) — related
+- [Evidence for the efficacy of preschool programs is stronger than evidence for their effectiveness when implemented at scale](preschool-efficacy-stronger-than-effectiveness-evidence.md) — related

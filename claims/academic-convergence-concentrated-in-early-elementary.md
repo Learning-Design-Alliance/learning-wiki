@@ -71,3 +71,4 @@ The same convergence analyses showed the preschool-related externalizing-behavio
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
 - [On the ECLS-K ability scale, poor–nonpoor gaps shrank by roughly one-quarter in reading and math from first through eighth grade](ecls-k-ability-scale-poor-nonpoor-gaps-shrank.md) — related
 - [Test score gaps are already substantial when children enter school and grow relatively little afterward](gaps-form-mainly-early-childhood-before-school.md) — related
+- [Prior observational studies find full-day kindergarten literacy advantages that fail to persist beyond the kindergarten year](observational-full-day-advantages-fade-first-grade.md) — related

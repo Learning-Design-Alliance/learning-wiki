@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (45 for, 52 mixed, 3 against) · 85 studies (40 causal, 16 review, 10 quant-synthesis, 10 theoretical, 6 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 85 report an effect size · 91 claims rest on one study
+> **Evidence** · 101 claims (46 for, 52 mixed, 3 against) · 86 studies (40 causal, 17 review, 10 quant-synthesis, 10 theoretical, 6 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 86 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Simultaneous use of multiple platforms produced a fragmented lesson experience that confused students and teachers](../claims/multi-platform-use-fragmented-lesson-experience.md) [+W] — attached 2026-11-21 from Marina Babayeva (2023), which proposed "Consolidate digital tools into a single unified platform rather than combining multiple specialized tools in one lesson"; tests this page's relationship.
 - [Undergraduate benefit from the hybrid versus conceptual QuILT differed across classes and depended on prior preparation, consistent with a cognitive-load interpretation](../claims/undergraduate-hybrid-quilt-benefit-depends-on-prior-preparation.md) [~W] — attached 2026-11-21 from Paul D. Justice et al. (2025), which proposed "Integrate conceptual and quantitative reasoning in research-based tools only commensurate with students' prior knowledge to prevent cognitive overload"; tests this page's relationship.
 - [In the mechanics experiment, instructional modality significantly affected perceived intrinsic cognitive load, with design-based labs highest and game-based labs lowest](../claims/mechanics-modality-icl-difference.md) [+W] — attached 2026-11-21 from Razan Hamed et al. (2026), which proposed "Select and combine physics lab modalities by considering the fit between modality, instructional goals, and students' cognitive demands".
+- [Adults typically retain only about 3 or 4 pre-existing chunks in working memory when chunking and covert verbal rehearsal cannot help](../claims/adult-working-memory-limit-three-to-four-chunks.md) [+W] — attached 2026-11-28 from What is Working Memory? An Introduction et al. (2012), which proposed "Adjust instructional materials to the learner's working memory abilities rather than trying to train capacity".
 
 ## Objective and learner-valued goal
 

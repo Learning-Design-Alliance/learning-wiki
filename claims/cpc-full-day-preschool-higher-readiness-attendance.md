@@ -50,3 +50,4 @@ In the Midwest CPC expansion quasi-experimental project, full-day versus part-da
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
 - [CPC families participated in far more school events than comparison families in year 1 of the Midwest expansion](cpc-parent-involvement-events-12-4-vs-2-7.md) — related
 - [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
+- [Evidence for a full-day kindergarten attendance advantage is small and tentative (d = 0.10 unadjusted)](fdk-attendance-small-tentative-association.md) — related

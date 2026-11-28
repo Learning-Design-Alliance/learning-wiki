@@ -54,3 +54,4 @@ Key finding from the report's simulation of predictive accuracy using Pennsylvan
 - [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [Principals are essential to student achievement, with principals' effects almost as large as teachers' effects](principals-essential-student-achievement-effects-near-teacher-size.md) — related
+- [Studies evaluating workforce decisions consistently show that using teacher value-added information improves student achievement relative to not using it](using-vam-information-improves-achievement.md) — related

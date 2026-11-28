@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 282 claims (182 show a difference, 64 mixed, 36 no difference) · 232 studies (96 associational, 53 causal, 28 quant-synthesis, 27 review, 13 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 232 report an effect size · 280 claims rest on one study
+> **Evidence** · 283 claims (183 show a difference, 64 mixed, 36 no difference) · 233 studies (96 associational, 53 causal, 28 quant-synthesis, 28 review, 13 theoretical, 9 design, 6 qualitative), `q1`–`q4` · 32 of 233 report an effect size · 281 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -314,6 +314,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [The self-serving attributional bias varies across age: largest in children and older adults, least pronounced in adolescence and adulthood](../claims/self-serving-bias-age-differences-children-older-adults.md) [+M] — learners who differ on it differ in outcomes
 - [Older children show more scientifically correct knowledge of the earth on the EARTH-2](../claims/earth2-age-predicts-knowledge-score.md) [+W] — learners who differ on it differ in outcomes
 - [The effect of cognitive level on difficulty index was higher in fourth-grade items than in eighth-grade items](../claims/cognitive-level-effect-stronger-fourth-grade.md) [+M] — an instructional effect differs with it
+- [Working memory capacity increases with age, and knowledge differences cannot account for the age difference](../claims/working-memory-capacity-increases-with-age-not-knowledge.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

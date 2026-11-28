@@ -74,3 +74,4 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 - [Preschool attendees outperform informal-care peers on academic achievement from kindergarten through early adolescence](preschool-academic-benefits-persist-through-adolescence.md) — related
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
 - [In the first year of the Chicago Pay for Success initiative, 59 percent of 4-year-olds met the school readiness benchmark, and 67 percent among full-day preschool participants](pfs-first-year-school-readiness-benchmark.md) — a narrower finding that bears on this claim
+- [Attending full-day kindergarten predicts significantly higher reading and math scores at the end of the kindergarten year](full-day-kindergarten-initial-academic-gains.md) — related

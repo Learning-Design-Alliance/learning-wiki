@@ -47,3 +47,4 @@ Moderation analysis of a randomized multicohort study (608 at-risk first graders
 ## Related Claims
 - [First-grade arithmetic intervention outperforms at-risk control on arithmetic with ES = 0.69](first-grade-arithmetic-intervention-effect-es-069.md) — related
 - [Speeded strategic practice outperforms nonspeeded practice on arithmetic (ES = 0.44) but not on transfer outcomes](speeded-practice-arithmetic-advantage-es-044.md) — related
+- [Gender does not significantly moderate TRIAD treatment effects on first-grade mathematics achievement](gender-not-moderator-triad-first-grade.md) — related
