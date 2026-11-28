@@ -71,3 +71,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Cognitive impairment and fatigue from Long Covid hindered learning, and online learning from home was not always an appropriate substitute](lc-cognitive-impairment-online-learning-limits.md) — related
 - [Free comments from participants indicated the 1-hour practice session was perceived as too short for hands-on practice and that face-to-face training was valued during the pandemic](postcourse-comments-course-too-short-face-to-face-valued.md) — related
 - [Engineering students reported high rates of focus, engagement, motivation and private-space challenges during Spring 2020 online instruction](student-online-learning-challenges-prevalence.md) — related
+- [Segmentation breaks tasks into serial steps that each stay within processing capacity](segmentation-serial-steps-within-capacity.md) — related

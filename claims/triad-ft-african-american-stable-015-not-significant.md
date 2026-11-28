@@ -52,3 +52,4 @@ Subgroup HLM estimates from Table 2: FT vs CTRL for African-Americans was .150 (
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
 - [Regression-adjusted longitudinal correlations imply much larger long-run skill-building effects than experimental impacts show, with TRIAD experimental impacts non-significant by fourth grade](correlational-estimates-overstate-skill-building-effects.md) — related
 - [African American identification moderates first-grade effects: TRIAD-FT significantly reduces the negative main effect for African American students (g = .31)](african-american-moderator-triad-ft-first-grade.md) — related
+- [Teachers' estimated effects decay in the year after contact, and short-run value added is at best weakly related to long-run effects](teacher-effects-decay-short-run-long-run.md) — related

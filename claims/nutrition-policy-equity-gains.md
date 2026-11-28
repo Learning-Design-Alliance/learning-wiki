@@ -52,3 +52,4 @@ Review reports a subgroup analysis from a national CEP difference-in-differences
 - [Pre-kindergarten attendance predicts college enrollment across racial and ethnic groups, most strongly four-year enrollment among Black and Hispanic students](prek-predicts-college-enrollment.md) — related
 - [Little evidence of heterogeneity in preschool effects by child characteristics, with suggestive larger behavioral drawbacks for lower-SES children](preschool-effects-homogeneous-child-characteristics.md) — related
 - [Intervention effects are generally larger for language minority students than for English-only students](alias-effects-larger-for-language-minority-students.md) — a broader claim this one bears on
+- [Subgroup analyses by race/ethnicity showed some differences in the pattern of pre-K and Head Start associations, favoring students of color](tulsa-ece-subgroup-race-ethnicity-differences.md) — related

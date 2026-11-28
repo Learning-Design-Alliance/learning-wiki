@@ -111,3 +111,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Higher interactivity in educational videos is associated with more time on-task and improved knowledge outcomes, but excessive interaction demands degrade learning](video-interactivity-time-on-task-mixed.md) — related
 - [Experts describe medical students as suffering 'information overload', making learning lengthier at the expense of doing](information-overload-undergraduate-surgery.md) — related
 - [The worked-example intervention's effects on USS and OMR show no or small dependence on gender and pre-instructional knowledge, so it works for learners of diverse backgrounds without favouring high-prior-knowledge students](we-intervention-effective-across-prior-knowledge-gender.md) — related
+- [Segmentation breaks tasks into serial steps that each stay within processing capacity](segmentation-serial-steps-within-capacity.md) — a narrower finding that bears on this claim

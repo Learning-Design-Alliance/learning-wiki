@@ -42,7 +42,8 @@ The Tulsa pre-K program is a universal, voluntary school-based pre-kindergarten 
 - Tulsa Prek Late Cohort Math Persistence [+M]
 
 ## Related Designs
-- 
+
+- [Tulsa Public Schools universal pre-K program](tulsa-universal-pre-k-program.md)
 
 ## Examples
 -

@@ -29,8 +29,19 @@ canonical theory pages were then written by hand from those claims, each checked
   to `information-processing-theory` and Renkl's ACT* compilation account to `act-r-activation-model-of-spacing`.
   Each is a reasonable neighbour but not the page the simulator's cards name, so each now has its own page. Only
   the recognition-failure claim had actually been attached, to information-processing-theory, and it stays there.
-  Halford, Wilson & Phillips (1998) failed structural validation and is retried, so relational complexity still
-  has no page. Bjork & Bjork (2011) went in on its retry and attached to the retrieval-effort hub.
+  Bjork & Bjork (2011) went in on its retry and attached to the retrieval-effort hub.
+- **Relational complexity:** Halford, Wilson & Phillips (1998) went in on a later retry (`j-drive-halford`, with
+  `--rereview`, after two-column text was re-extracted in reading order). That gave `relational-complexity-theory`
+  its own page. Of its five claims, both sort models filed two definitional ones as out of scope and they were
+  removed; the page keeps the three that remain and states the definitions in its description.
+- **The maintainer's 17 further copies (batch `j-drive-k63`, then retries `j-drive-retry6` and `j-drive-retry4`):**
+  these are early-childhood, kindergarten, teacher value-added and ICC papers, plus Cowan (2014). Rockoff (2004), Rothstein (2008) and
+  Votruba-Drzal (2008) failed quote validation at first because `pdftotext -layout` interleaves two columns; `-raw`
+  with de-hyphenation fixed all three. Cooper et al. (2010) was trimmed to the meta-analysis itself, because an advocacy
+  guide is bound in after it, and Hedges & Hedberg (2007) was read by OCR.
+- **Commit between batches.** The retry batches stopped at `verify_citation_edits` because the previous batch's
+  uncommitted edits counted as theirs. The 16 flagged files were read and all were legitimate link and header
+  edits, so the batches were finished with `--post-only --verified`.
 
 ## 2026-11-27 · Simulator hypotheses: flagged principles, and the intake for them
 

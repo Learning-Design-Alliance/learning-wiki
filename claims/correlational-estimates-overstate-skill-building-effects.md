@@ -52,3 +52,4 @@ Randomized cluster trial of the TRIAD preschool math curriculum (42 schools rand
 - [For African-American children, the FT impact appeared stable at about 0.15 of a standard deviation in fall and spring of fourth grade but was not statistically significant at either time point](triad-ft-african-american-stable-015-not-significant.md) — related
 - [African American identification moderates first-grade effects: TRIAD-FT significantly reduces the negative main effect for African American students (g = .31)](african-american-moderator-triad-ft-first-grade.md) — related
 - [TRIAD follow-through students significantly outperform control students in mathematics at the end of first grade (ITT, g = .38)](triad-ft-first-grade-itt-outperformed-control.md) — related
+- [Teachers' estimated effects decay in the year after contact, and short-run value added is at best weakly related to long-run effects](teacher-effects-decay-short-run-long-run.md) — related

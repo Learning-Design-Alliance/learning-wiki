@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**5908 entries** · 0 stable · 5908 in review · 0 drafts
+**5909 entries** · 0 stable · 5909 in review · 0 drafts
 
 ---
 
@@ -5442,6 +5442,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TTPS lesson sequence: homework check, introductory task, individual then collaborative problem work, whole-class discussion, and closure](ttps-lesson-sequence-pattern.md) - The article describes a recurring lesson structure for TTPS on block schedules.
 * [Tufts minimal-instruction pendulum lab (Galileo challenge and meaning-making session)](tufts-minimal-instruction-pendulum-lab.md) - The Tufts pendulum lab runs over three sessions of up to 14 students, instructed by graduate and undergraduate TAs, with no lab-specific lecture and no homework.
 * [Tulsa Public Schools pre-K program: a universal, high-quality school-based pre-kindergarten program](tulsa-tps-universal-prek-program.md) - The Tulsa pre-K program is a universal, voluntary school-based pre-kindergarten offered since Oklahoma's 1998 universal access policy.
+* [Tulsa Public Schools universal pre-K program](tulsa-universal-pre-k-program.md) - A universal, optional, school-based pre-K program funded by the state of Oklahoma after its 1998 law.
 * [TupperSat Satellite Subsystems laboratory module](tuppersat-satellite-subsystems-laboratory-module.md) - A 10-credit second-term module in UCD's 12-month MSc in Space Science & Technology in which student teams complete a full satellite development cycle in a 12-week term: they design, build, launch by weather balloon, o...
 * [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](fraction-face-off-cooperative-lesson-structure.md) - Each lesson follows a sequence in which tutors introduce \"concepts, skills, problem-solving strategies, and procedures,\" after which \"students work in groups, sharing solutions and helping others.\" Lessons have a spor...
 * [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](tutor-led-strategies-adult-language-lessons.md) - The guide enumerates tutor-led strategies that \"enhance this particular process and make the learning more effective\": structure the learning so material is \"coherent and meaningful, with supporting interconnections m...

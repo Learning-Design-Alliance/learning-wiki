@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**1367 entries** · 0 stable · 1367 in review · 0 drafts
+**1368 entries** · 0 stable · 1368 in review · 0 drafts
 
 ---
 
@@ -969,6 +969,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Reform theory: expanded local democratic participation stimulates organizational change that fosters improved teaching and learning](democratic-localism-organizational-change-theory.md) - The book is organized around an implicit causal theory of the Chicago reform: expanded local democratic participation is expected to stimulate organizational change within schools, which in turn fosters improved teach...
 * [Regression discontinuity design framework for estimating intervention effects at a cutoff](rd-design-framework-wwc-standards.md) - The document describes the RD design as a method for obtaining unbiased estimates of education intervention effects when a continuous scoring rule assigns units to treatment or comparison around a pre-set cutoff.
 * [Reinforcement framework for cognitive learning: imagery as perception-like experience producing learning under ordinary principles](reinforcement-theory-of-cognitive-learning-framework.md) - The paper develops a provisional framework in which an organism equipped with many cognitive S-R habits responds to problem situations by reeling off imaged responses, one of which evokes imagined punishment or reinfo...
+* [Relational Complexity Theory](relational-complexity-theory.md) - Processing capacity is limited by the complexity of the relations that must be processed at once, the number of related dimensions or sources of variation, not by the number of items; adults reach a soft limit of about one four-way (quaternary) relation.
 * [Relational feedback framework for designing feedback that strengthens student–instructor relationships](relational-feedback-framework-four-principles.md) - The relational feedback framework, proposed by Dai and colleagues (2025) and adopted as this study's theoretical basis, holds that feedback can enhance its effectiveness by strengthening students' relationships with t...
 * [Relational trust as an organizational property grounded in discernment of intentions within mutual obligations](relational-trust-theory-schooling.md) - The paper develops relational trust as a collective property of a social institution, building on Coleman's trustworthiness in social networks but rejecting a purely rational-choice account.
 * [Relational trust in schools](relational-trust-in-schools-valparaiso-illinois.md) - Relational trust is the construct the article uses to organize trust relationships in schools: it \"involves respecting, caring for, and believing in the honesty and competence of one's colleagues.\" The article treats...

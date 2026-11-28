@@ -48,3 +48,5 @@ This review article reports, citing Rivkin, Hanushek and Kain (2000), a Texas ac
 - [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md)
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](tfa-first-two-years-beat-experienced-non-tfa.md)
 - [Teacher-student relationships show an average achievement relation of about one-quarter of a standard deviation, smaller for standardized achievement measures](teacher-student-relationship-achievement-meta-analysis.md) — related
+- [Evidence of experience gains is weaker for math: the first two years raise math computation scores about 0.1 SD, with no significant relationship for math concepts](experience-gains-weaker-for-math.md) — reports the opposite
+- [Teaching experience significantly raises student test scores, particularly in reading](teaching-experience-raises-reading-scores.md) — related

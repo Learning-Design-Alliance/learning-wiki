@@ -59,3 +59,4 @@ The dissertation reports, citing Ericsson and Pool, a digit-recall experiment in
 - [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
 - [Extended practice on a memory task can raise recall performance by 100 to 1000%, as when trained subjects increased digit span from around 7 to over 80 digits](practice-raises-digit-span-7-to-80.md) — a narrower finding that bears on this claim
+- [Humans process approximately four dimensions in parallel, a soft limit corresponding to one quaternary relation](four-dimensions-parallel-soft-limit.md) — reports the opposite

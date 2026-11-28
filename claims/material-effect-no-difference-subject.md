@@ -49,3 +49,4 @@ Homogeneity test across subject matters (Science and Technology, Sciences, Socia
 - [Effectiveness of educational materials does not differ significantly by type of material (computer presentations, concept maps, combination, cartoons, hands-on)](material-effect-no-difference-material-type.md) — related
 - [The effect of computer-based teaching on academic success does not differ significantly by subject area](cbt-effect-no-difference-by-course-type.md) — related
 - [The effect of the 7E learning cycle on achievement differs significantly by subject matter, with the largest average for chemistry and the smallest for science](7e-effect-varies-by-subject-matter.md) — reports the opposite
+- [Teacher fixed effects are significant predictors of student test scores in all subject areas](teacher-fixed-effects-significant-all-subjects.md) — related

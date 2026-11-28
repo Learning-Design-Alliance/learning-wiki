@@ -13,7 +13,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (27 for, 16 mixed, 1 against) · 37 studies (20 associational, 7 review, 6 quant-synthesis, 4 theoretical), `q1`–`q3` · 6 of 37 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (28 for, 16 mixed, 1 against) · 38 studies (21 associational, 7 review, 6 quant-synthesis, 4 theoretical), `q1`–`q3` · 6 of 38 report an effect size · 43 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -86,6 +86,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](../claims/strs-dimensions-predict-educational-performance.md) [+W]
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](../claims/reciprocal-parental-involvement-academic-performance-china.md) [+W] — attached 2026-11-06 from Yi Yang (2025), which proposed "Transactional theory of parent-child influence applied to parental involvement and academic performance"; tests this page's relationship.
 - [Parenting style is significantly associated with secondary students' academic performance: positively for authoritative parenting and negatively for authoritarian and permissive parenting](../claims/parenting-style-tauc-academic-performance-malakand.md) [+W] — attached 2026-11-07 from Ali Nayab et al. (2023), which proposed "Bronfenbrenner's socio-ecological model as the study's framework, restricted to micro- and meso-level systems".
+- [Out-of-school contexts — home cognitive stimulation and household poverty — partly explain both the kindergarten-year advantage of full-day kindergarten and its later fade-out](../claims/home-contexts-explain-part-of-full-day-advantage.md) [+W] — attached 2026-11-28 from Votruba-Drzal et al. (2008), which proposed "A bioecological, developmental perspective on kindergarten program type that treats achievement as heterogeneous individual trajectories embedded in multiple contexts"; tests this page's relationship.
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

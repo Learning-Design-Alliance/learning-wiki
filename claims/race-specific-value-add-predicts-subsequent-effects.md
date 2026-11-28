@@ -56,3 +56,4 @@ Predictive validation using teacher moves across schools or grades within Chicag
 - [Having a teacher highly effective for Black students shows no detrimental effect on non-Black students' test scores](no-detrimental-effect-non-black-students.md) — related
 - [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related
 - [Teacher effectiveness for Black students is only imperfectly correlated with effectiveness for non-Black students (correlations between 0.28 and 0.67 depending on subject and grade level)](imperfect-correlation-race-specific-teacher-effects.md) — related
+- [A one-standard-deviation increase in teacher quality raises reading and math test scores by about 0.1 standard deviations on the national scale](one-sd-teacher-quality-raises-scores-0-1-sd.md) — related

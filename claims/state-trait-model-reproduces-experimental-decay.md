@@ -48,3 +48,4 @@ Structural equation modeling applied to three correlational datasets (Table 1) c
 - [Regression-adjusted longitudinal correlations imply much larger long-run skill-building effects than experimental impacts show, with TRIAD experimental impacts non-significant by fourth grade](correlational-estimates-overstate-skill-building-effects.md) — related
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [The estimated direct effect of CTA1 assignment holding hint usage at control levels is 0.18 standard deviations when covariate-adjusted, with confidence intervals crossing zero](mediation-direct-effect-cta1.md) — related
+- [Teachers' estimated effects decay in the year after contact, and short-run value added is at best weakly related to long-run effects](teacher-effects-decay-short-run-long-run.md) — related
